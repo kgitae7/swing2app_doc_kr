@@ -1,1 +1,2 @@
-# swing2app_doc_kr
+# FAQ
+
