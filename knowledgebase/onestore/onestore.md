@@ -4,11 +4,11 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 # 원스토어 앱 등록 방법
 
-<mark style="color:blue;"><mark style="color:orange;">**원스토어(ONE store)란?**<mark style="color:orange;"></mark>
+_원스토어(ONE store)란?_
 
 원스토어도 구글 플레이스토어, 앱스토어처럼 앱을 다운 받을 수 있는 스토어인데요.
 
-네이버와 국내 이동통신 3사인 SK, LG, KT 가 통합하여 만들어진 앱 마켓이에요.
+네이버와 국내 이동통신 3사인 SK, LG, KT 가 통합하여 만들어진 앱 스토어입니다.
 
 이전에 ‘네이버 앱스토어’가 있었는데요.
 
@@ -20,7 +20,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 ​
 
-<mark style="color:orange;">**원스토어 앱등록(출시) 안내사항**</mark>
+원스토어 앱등록(출시) 안내사항
 
 1\)스윙투앱에서는 별도로 원스토어는 앱 업로드 대행을 해드리지 않기 때문에, 사용자분들이 직접 앱을 등록해야 합니다.
 
@@ -32,7 +32,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 4\) 안드로이드폰 기반 스토어이기 때문에 아이폰은 이용할 수 없습니다. (**아이폰은 앱스토어에만 출시 가능**)
 
-![](../../.gitbook/assets/구분선.PNG)
+<mark style="color:blue;">****</mark>
 
 ## <mark style="color:blue;">**원스토어 개발자센터 접속**</mark>
 
@@ -48,7 +48,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 **​**
 
-### <mark style="color:blue;">**신규 상품 등록**</mark>
+### 신규 상품 등록
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B414-1.png)
 
