@@ -124,6 +124,7 @@
     * [앱 정책관리 - 앱 가입 정책](manual/appmanage/service/app-subscription-policy.md)
     * [앱 정책관리 - 회원가입 양식](manual/appmanage/service/signup.md)
     * [회원가입 양식 - 아이디 설정](manual/appmanage/service/signup-id.md)
+    * [회원가입 양식 - 가입 항목 추가하기](manual/appmanage/service/undefined.md)
     * [앱 정책관리- 회원가입 완료 메시지 설정방법](manual/appmanage/service/subscription-completion-message.md)
     * [앱 이용약관, 개인정보취급방침](manual/appmanage/service/terms-of-app.md)
     * [비공개 앱만들기](manual/appmanage/service/private-app.md)
@@ -331,3 +332,8 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
+
+***
+
+* [Page 1](page-1.md)
+* [스윙 도우미](undefined.md)
