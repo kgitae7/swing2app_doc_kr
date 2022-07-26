@@ -43,7 +43,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ****
 
-위의 순서대로 광고 아이디를 만들고, 애드몹 플러그인에 광고 아이디 셋팅을 완료한 다음 앱제작 후 앱을 확인했지만 광고가 바로 안뜰 수 있습니다.
+순서대로 광고 아이디를 만들고, 애드몹 플러그인에 광고 아이디 셋팅을 완료한 다음 앱제작 후 앱을 확인했지만 광고가 바로 안뜰 수 있습니다.
 
 &#x20;우선 스토어에 출시되기 전 앱으로 광고를 연결할 경우 검토가 바로 되지 않기 때문에 앱을 플레이스토어 등에 출시한 뒤 부터 앱 검토를 시작합니다.
 
@@ -106,7 +106,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱제작 완료**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1.앱제작 완료**
 
 애드몹 광고 적용 전 앱제작을 완료해주세요.
 
@@ -118,7 +118,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 애드몹 플러그인 상품 or 패키지 상품 구매**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 애드몹 플러그인 상품 or 패키지 상품 구매**
 
 <mark style="color:orange;">****</mark>
 
@@ -154,7 +154,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 애드몹 사이트 가입 및 광고 셋팅에 필요한 아이디 만들기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 애드몹 사이트 가입 및 광고 셋팅에 필요한 아이디 만들기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9\_20.10.png)
 
@@ -186,7 +186,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 애드몹 플러그인 설정에서 광고 셋팅하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 애드몹 플러그인 설정에서 광고 셋팅하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png)
 
@@ -400,7 +400,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**7. 스토어 등록 진행하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 7. 스토어 등록 진행하기**
 
 위에서 앱 다운을 받아 테스트 한 뒤, 광고가 문제없이 잘 뜬다면 앱을 스토어에 정식 출시할 수 있습니다.
 
@@ -440,7 +440,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**애드몹 운영 주의사항 (사용자 확인)**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 8.애드몹 운영 주의사항 (사용자 확인)**
 
 **1) 애드몹 계정은 한 사람 당 계정 1개만 운영하여 사용할 수 있습니다.**
 
@@ -506,13 +506,13 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**주의사항**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **9.주의사항**
 
-<mark style="color:green;">-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​</mark>
+<mark style="color:blue;">-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​</mark>
 
-<mark style="color:green;">-애드몹으로 수익을 내기 위해서는 앱설치를 많이 유도하셔야 합니다. ​</mark>
+<mark style="color:blue;">-애드몹으로 수익을 내기 위해서는 앱설치를 많이 유도하셔야 합니다. ​</mark>
 
-<mark style="color:green;">-애드몹 운영 앱 중 평균적으로 앱 사용자 수는 5,000명에서 1만명 이상을 보유하고 있습니다. ​</mark>
+<mark style="color:blue;">-애드몹 운영 앱 중 평균적으로 앱 사용자 수는 5,000명에서 1만명 이상을 보유하고 있습니다. ​</mark>
 
 1\)**애드몹에 관련된 광고 수익비 , 운영방법, 정책사항 등 애드몹 운영에 관련된 내용은 스윙투앱에서 제공하지 않습니다.**
 
@@ -556,7 +556,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**환불 안내**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 10.환불 안내**
 
 1\) 구매일 3일 이내에 신청시 환불이 가능하나,애드몹 셋팅이 완료되었을 경우 환불이 되지 않습니다.
 
