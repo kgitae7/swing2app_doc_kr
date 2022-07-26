@@ -1,12 +1,14 @@
+---
+description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만드는 방법
+---
+
 # 애드몹 가입방법, 광고단위 아이디 만들기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9-%EC%84%AC%EB%84%A4%EC%9D%BC.png)
-
-**애드몹 가입 방법과 애드몹 광고 단위 아이디를 만드는 방법 안내**
+**애드몹 가입 방법, 애드몹 광고 단위 아이디를 만드는 방법**
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**    **<mark style="color:blue;">**애드몹 이란?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**애드몹이란?**</mark>
 
 애드몹은 구글에서 제공하는 광고 플랫폼으로, 앱에 광고를 탑재할 수 있는 서비스입니다.
 
@@ -14,7 +16,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B929.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**어떻게 앱에 애드몹을 적용하나요?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**어떻게 앱에 애드몹을 적용하나요?**</mark>
 
 스윙투앱에서 제공하는 애드몹 플러그인 설정에서 앱 운영자가 직접 내가 제작한 앱으로 광고를 셋팅할 수 있습니다.
 
@@ -22,7 +24,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**애드몹 플러그인 셋팅 순서**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**애드몹 플러그인 셋팅 순서**</mark>
 
 1\)구글 애드몹 공식 사이트에서 가입해주세요. (계정이 있다면 로그인 진행)
 
@@ -42,7 +44,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**광고 단위 아이디는 왜 만들어야 하나요?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**광고 단위 아이디는 왜 만들어야 하나요?**</mark>
 
 앱에 광고를 넣기 위해서는 **앱의 고유 광고 단위 아이디**가 필요합니다.
 
@@ -60,9 +62,9 @@
 
 구글 애드몹 사이트에서 가입을 하는 방법과 앱 광고 단위 아이디를 만드는 방법을 확인해주세요.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 애드몹 가입하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.1 애드몹 가입하기**
 
 애드몹 사이트 [https://apps.admob.com/](https://apps.admob.com/)에 접속 가입이 안된 분들은 구글(지메일) 계정으로 가입이 가능합니다.
 
@@ -96,9 +98,9 @@
 
 아니요로 체크하면 관련 정보들을 못받기 때문에 메일로 다 받아서 애드몹 운영에 참고하시면 됩니다.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 애드몹 시작하기**</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.2 애드몹 시작하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B928.png)
 
@@ -108,12 +110,79 @@
 
 그럼 위의 이미지처럼 애드몹 관리 페이지가 뜹니다.
 
-해당 페이지에서 \[시작하기] 버튼을 선택해서 앱에 광고 단위 아이디를 만들어볼게요!!\
+해당 페이지에서 \[시작하기] 버튼을 선택해서 앱에 광고 단위 아이디를 만들어볼게요!!
+
+![](../../.gitbook/assets/구분선.PNG)
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.3 새 앱 설정 - 앱 추가하기**
+
+****
+
+{% hint style="success" %}
+**​앱을 추가하기 전 확인해주세요.**
+
+애드몹 광고를 적용할 때 앱을 먼저 출시한 뒤 광고를 적용하면 보다 빨리 승인이 완료되어 광고가 빨리 노출됩니다.
+
+스토어에 등록되지 않은 앱으로 진행해도 되지만, 출시 후 애드몹에서 스토어 추가 작업을 해야 하며 그만큼 앱 광고 노출이 늦어집니다.
+
+**앱을 먼저 플레이스토어에 출시 한 뒤 해당 앱으로 애드몹 광고를 연결하는 방법을 권장드립니다.**
+
+만약 출시 전 애드몹 광고를 먼저 연결한다면 아래 매뉴얼을 통해서 진행방법을 꼼꼼히 확인해주세요.
+
+2가지 방법으로 알려드리니 참고하여 만들어주세요.
+{% endhint %}
+
+**​**
+
+### **1. 스토어에 출시된 경우**
+
+![](../../.gitbook/assets/애드몹.png)
+
+1\)플랫폼 선택 : 안드로이드, 아이폰 두개 다 적용할 수 있으니 함께 출시하실 분들은 차례대로 만들어주세요.
+
+먼저 안드로이드 플랫폼을 만들어볼게요.
+
+2\) 지원되는 앱스토어에 앱이 등록되어 있나요?
+
+\-앱이 출시가 되어 있다면 ‘예’에 체크해주세요.
+
+3\)\[계속] 버튼 선택
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 새 앱 설정 후 앱 광고 단위 아이디 만들기 – 배너, 전면**</mark>
 
-<mark style="color:red;">**1.**</mark>
+![](../../.gitbook/assets/애드몹5.png)
+
+4\)구글 플레이스토어에 출시된 URL 혹은 패키지 아이디를 입력해주세요.
+
+5\)**검색** 버튼 선택
+
+6\)**추가** 버튼 선택
+
+7\)정상적으로 앱 연결이 되었으면 **계속** 버튼 선택해주세요.
+
+****
+
+![](../../.gitbook/assets/애드몹6.png)
+
+8\)앱 세부 정보가 정확한지 확인하고, **\[앱 추가]** 버튼 선택해주세요.
+
+
+
+![](../../.gitbook/assets/애드몹7.png)
+
+9\)**완료** 버튼 선택해주시면 앱 업데이트가 검토됩니다.
+
+
+
+![](../../.gitbook/assets/애드몹8.png)
+
+10\)앱 개요 화면에서 **\[광고 단위 추가]** 버튼을 선택해주세요.
+
+광고 단위 추가 방법은 아래 "​**STEP4.앱 광고단위 아이디 만들기 - 배너, 전면**" 파트에서 확인해주세요.
+
+![](<../../.gitbook/assets/캡처33 (1).png>)
+
+### **2.스토어에 출시되지 않았다면 '아니요' 에 체크하고 진행해주세요**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B91-1.png)
 
@@ -131,8 +200,6 @@
 
 
 
-<mark style="color:red;">**2.**</mark>
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B92-1.png)
 
 1\)앱이름을 입력해주세요 (80자 이내)  : 제작한 앱 이름 or 스토어에 출시된 앱 이름으로 입력합니다.
@@ -143,7 +210,7 @@
 
 
 
-<mark style="color:red;">**3.**</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B93-1.png)
 
@@ -151,9 +218,83 @@
 
 2\)\[완료] 버튼 선택&#x20;
 
+{% hint style="danger" %}
+<mark style="color:red;"><mark style="color:orange;">**중요**<mark style="color:orange;"></mark>
+
+**스토어에 등록되어 있지 않은 앱은 AdMob에서 지원하는 스토어에 등록 및 연결될 때까지 광고 게재가 제한됩니다.**
+
+**즉, 스토어(플레이스토어)에 출시되지 않은 앱으로 등록할 경우 애드몹 광고는 바로 뜨지 않습니다.**
+
+AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토어에 앱을 등록하고 AdMob 계정의 앱 스토어에 앱을 연결해야 합니다.
+
+따라서 앱을 스토어에 출시 한 뒤 다시 AdMob 사이트로 돌아와서 아래의 과정을 완료해야 합니다.
+
+**현재 AdMob에서는 Google Play, Apple App Store, Amazon Appstore, OPPO App Market, Samsung Galaxy Store, VIVO App Store, Xiaomi GetApps를 지원합니다.**
+{% endhint %}
+
+위의 과정을 완료 하고, 앱을 플레이스토어 혹은 앱스토어 등의 스토어에 출시했다면 아래 과정을 완료해주세요.
 
 
-<mark style="color:red;">**4. 배너 광고 단위 아이디 만들기**</mark>&#x20;
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/info-2.png) **애드몹 연결 앱에 스토어 추가하기**
+
+1.[https://apps.admob.com](https://apps.admob.com/?utm\_source=internal\&utm\_medium=et\&utm\_campaign=helpcentrecontextualopt\&utm\_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
+
+2.사이드바에서 **앱**을 클릭합니다.
+
+3.다음에서 앱을 연결할 수 있습니다.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%B6%94%EA%B0%801\_886.png)
+
+1\)**앱 메뉴 선택**
+
+2\)**모든 앱 보기**를 클릭합니다.
+
+3\)연결할 앱의 이름을 찾은 뒤 스토어 열에서 **스토어 추가**를 클릭합니다.
+
+&#x20;
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%B6%94%EA%B0%802.png)
+
+4\)구글 플레이스토어에 출시된 URL 혹은 패키지 아이디를 입력해주세요.
+
+5\)**검색** 버튼 선택
+
+6\)**추가** 버튼 선택
+
+7\)정상적으로 앱 연결이 되었으면 **계속** 버튼 선택해주세요.
+
+8\)패키지 이름 확인이 완료 되었으며, **저장** 버튼 선택해주세요.
+
+&#x20;
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%B6%94%EA%B0%803.png)
+
+9\)**완료** 버튼 선택해주시면 앱 업데이트가 검토됩니다.
+
+**​**
+
+{% hint style="warning" %}
+<mark style="color:orange;">**참고**</mark>
+
+스토어 추가 옵션이 없는 경우 이미 이 앱이 연결된 것일 수 있습니다.
+
+앱이 이미 연결되어 있는 경우 이를 변경할 수 없습니다. Android 앱의 경우 연결 후 더 많은 스토어를 추가할 수 있습니다.
+
+**앱 스토어에 앱을 방금 등록한 경우 앱에 광고가 연결되기까지 24\~48시간이 걸릴 수 있습니다.**
+
+**경우에 따라 최대 일주일이 걸릴 수도 있습니다.**
+{% endhint %}
+
+아래에서 광고 단위 만드는 방법을 확인해주세요.
+
+![](../../.gitbook/assets/구분선.PNG)
+
+### &#x20;**** ![](<../../.gitbook/assets/image (2).png>) **STEP.4 앱 광고 단위 아이디 만들기 – 배너, 전면**
+
+
+
+<mark style="color:blue;">**1. 배너 광고 단위 아이디 만들기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%943.png)
 
@@ -171,6 +312,8 @@
 
 2\) \[광고 단위 만들기] 버튼을 선택합니다.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%945.png)
 
 안드로이드 배너광고 단위가 생성되었구요. 이어서 전면 광고 아이디도 만들어볼게요.
@@ -179,17 +322,21 @@
 
 
 
-<mark style="color:orange;">**2. 전면 광고 단위 아이디 만들기**</mark>&#x20;
+&#x20;<mark style="color:orange;">****</mark>** **<mark style="color:blue;">**2.**</mark>**  **<mark style="color:blue;">**전면 광고 단위 아이디 만들기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%946.png)
 
 광고형식: <mark style="color:blue;">**전면**</mark> 선택해주세요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%947.png)
 
 1\)광고 단위 이름 입력: “안드로이드 전면 광고” 로 입력했습니다.&#x20;
 
 2\) \[광고 단위 만들기] 버튼을 선택합니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%948.png)
 
@@ -199,11 +346,11 @@
 
 
 
-<mark style="color:purple;">**아이폰 광고 단위도 위와 동일한 방법으로 추가해주시면 됩니다.**</mark>
+**아이폰 광고 단위도 위와 동일한 방법으로 추가해주시면 됩니다.**
 
-<mark style="color:purple;">**안드로이드, 아이폰 모두 전면 광고 단위 아이디, 배너 광고 단위 아이디를 만들어주시면 되구요.**</mark>
+**안드로이드, 아이폰 모두 전면 광고 단위 아이디, 배너 광고 단위 아이디를 만들어주시면 되구요.**
 
-<mark style="color:purple;">**광고 단위 아이디는 아래에서 확인 가능합니다.**</mark>&#x20;
+**광고 단위 아이디는 아래에서 확인 가능합니다.**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
 
@@ -213,9 +360,9 @@
 
 아이디 옆에 복사 버튼을 선택해서 광고 단위 아이디를 각각 복사할 수 있어요.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱 ID복사하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.5 앱 ID복사하기**
 
 광고 셋팅을 하기 위해서는 앱 아이디도 함께 확인해야 합니다.
 
@@ -223,7 +370,7 @@
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**Android 앱 ID , IOS 앱ID은 어디서 확인하나요?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">****</mark>** Android 앱 ID , IOS 앱ID은 어디서 확인하나요?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9-%EC%95%84%EC%9D%B4%EB%94%94-2.png)
 
@@ -235,17 +382,17 @@
 
 
 
-<mark style="color:orange;">**애드몹 플러그인 설정 광고 셋팅방법은 아래 매뉴얼 보시면 상세히 확인 가능합니다.**</mark>
+**애드몹 플러그인 설정 광고 셋팅방법은 아래 매뉴얼 보시면 상세히 확인 가능합니다.**
 
 **☞** [**애드몹 플러그인 광고 셋팅방법 보러가기**](admob-apply.md)
 
+![](../../.gitbook/assets/구분선.PNG)
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.5 애드몹 운영하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.6 애드몹 운영하기**
 
 애드몹 가입 후 광고단위 아이디를 만들었다면 이후에 진행해야 할 내용을 알려드릴게요.
 
-<mark style="color:red;">중요내용이니 반드시 확인해주세요\~!</mark>
+<mark style="color:red;">중요</mark> **** <mark style="color:red;">내용이니 반드시 확인해주세요\~!</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B915.png)
 
@@ -253,9 +400,9 @@
 
 해당페이지에서 관리를 해주시면 됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
+<mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**01. 결제 정보 입력**</mark>
+### **1. 결제 정보 입력**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B41-1.png)
 
@@ -277,9 +424,9 @@
 
 <mark style="color:red;">따라서 해당 화면에서는 수익을 받을 계좌, 은행 등을 입력하지 않습니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
+![](<../../.gitbook/assets/캡처33 (1).png>)
 
-<mark style="color:orange;">**02. 차단 관리 – 앱 광고 관리**</mark>
+### **2. 차단 관리 – 앱 광고 관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EC%8B%AC%EC%82%ACnew1.png)
 
@@ -323,9 +470,11 @@
 
 확인하여 검토 한 뒤 차단된 광고는 제거해주셔야 합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
+​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fu8qLcd3qDcFjTwcujJkH%2F%EC%BA%A1%EC%B2%9833%20\(1\).png?alt=media\&token=bf47f451-5610-4830-9846-1aaa79313318)
 
-<mark style="color:orange;">**03. 다른 앱 광고단위 아이디 추가하기**</mark>
+
+
+### **3. 다른 앱 광고단위 아이디 추가하기**
 
 운영 중에 다른 앱도 추가하여 광고단위 아이디를 만들어야 할 경우는 아래 방법을 확인해주세요\~!
 
@@ -344,3 +493,6 @@
 **\*특히 자신의 핸드폰에서 광고 배너를 계속 클릭할 경우 구글에서 의심되는 행위로 판단되어 광고를 내려버릴 수도 있어요.**&#x20;
 
 테스트라도 절대 계속 광고를 선택하지 않도록 해주세요.
+
+
+
