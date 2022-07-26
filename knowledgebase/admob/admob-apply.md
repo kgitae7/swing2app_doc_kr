@@ -12,9 +12,8 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 셋팅부터 스토어 출시 과정까지 안내드리오니 애드몹 광고 셋팅을 희망하신다면 해당 매뉴얼을 보시고 진행해주시기 바랍니다.
 
-
-
-**\[애드몹 광고 셋팅 순서 정리]**
+{% hint style="success" %}
+**애드몹 광고 셋팅 순서 정리**
 
 1\) 앱제작 완료
 
@@ -37,8 +36,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 7\) 유료앱 이용권 구매 안했다면 이용권 구매, 업로드 대행 필요할 경우 업로드티켓 구매
 
 8\)스토어 등록: 플레이스토어, 앱스토어 등 출시를 희망하는 스토어 업로드 진행
-
-
+{% endhint %}
 
 {% hint style="info" %}
 **애드몹 광고 중요 안내- 왜 광고가 바로 안뜨나요?**
@@ -73,28 +71,18 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **\*그리고!  구글 애드몹 사이트에서 광고 검토를 안했거나, 결제 프로필 미입력 등,,, 입력을 빼먹은 항목이 없는지도 다시 확인해주세요**
 
-<mark style="background-color:blue;">****</mark>[<mark style="background-color:blue;">**▶**</mark>** 애드몹 플러그인 주의사항 확인하기**](admobplugin-check.md) ****&#x20;
+**▶** [**애드몹 플러그인 주의사항 확인하기**](https://wp.swing2app.co.kr/knowledgebase/admobplugin-check/)****
 
 
 {% endhint %}
 
 ****
 
+![](../../.gitbook/assets/info.png)
 
+**애드몹 셋팅 후 앱에서 광고가 잘 연결되었는지 확인하는 방법**
 
-****
-
-
-
-
-
-****
-
-**\[중요 TIP]**
-
-“광고는 기다리면 뜬다고 했는데, 그 전에 애드몹 광고 셋팅이 잘 되었는지 확인하는 방법은 없나요? 혹시나 제가 잘 못 셋팅해서 안뜰 수도 있지 않을까요?”
-
-\= 테스트 광고 아이디로 앱에 셋팅을 잘 했는지, 앱 광고가 어떻게 뜨는지 확인할 수 있어요.&#x20;
+테스트 광고 아이디로 앱에 셋팅을 잘 했는지, 앱 광고가 어떻게 뜨는지 확인할 수 있어요.&#x20;
 
 애드몹 플러그인 설정 화면에서 아이디 입력란에 기재된 아이디를 모두 지우고, 공란으로 두고 저장해주세요.
 
@@ -108,7 +96,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ****
 
-<mark style="color:orange;">**핸드폰 앱 실행) 테스트용 애드몹 광고 화면**</mark>
+<mark style="color:orange;">핸드폰 앱 실행) 테스트용 애드몹 광고 화면</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B4%91%EA%B3%A0.png)
 
@@ -116,9 +104,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 스윙투앱 서버 자체에서의 문제는 없는 것이기 때문에 다시 사용자분의 광고 아이디로 변경하여 저장해주시면 됩니다.
 
-<mark style="background-color:blue;">****</mark>[<mark style="background-color:blue;">**▶**</mark>** 애드몹 플러그인 주의사항 확인하기**](admobplugin-check.md)****
-
-****
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱제작 완료**</mark>
 
@@ -130,9 +116,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 앱은 나중에도 계속 수정 및 업데이트 가능하기 때문에 광고를 적용해도 계속 수정하여 사용가능합니다.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 애드몹 플러그인 상품 or 패키지 상품 구매**</mark>
+
+<mark style="color:orange;">****</mark>
 
 <mark style="color:orange;">**1) 구글 애드몹 적용 플러그인 상품 구매 (단품)**</mark>
 
@@ -164,7 +152,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 \*개별 상품으로 구입하는 것보다 245,000원 할인된 금액으로 제공됩니다.~~825,000~~→ 580,000원
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 애드몹 사이트 가입 및 광고 셋팅에 필요한 아이디 만들기**</mark>
 
@@ -196,7 +184,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **위의 광고 아이디 만들기 포스팅을 확인하셔서 위의 3가지 정보를 모두 준비해주세요!**
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 애드몹 플러그인 설정에서 광고 셋팅하기**</mark>
 
