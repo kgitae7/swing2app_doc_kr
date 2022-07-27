@@ -33,6 +33,7 @@
     * [메뉴 아이콘 이미지 등록하기](manual/v3/step3-page/icon.md)
     * [앱 메뉴 비활성화 이용방법](manual/v3/step3-page/menu-Hiding.md)
     * [메뉴 권한 설정: 접근 권한](manual/v3/step3-page/permission-setting.md)
+    * [페이지 기능 - 쇼핑몰 기능 페이지](manual/v3/step3-page/undefined.md)
     * [페이지 기능 - 업종별 템플릿](manual/v3/step3-page/template.md)
     * [페이지 기능 - 이미지 페이지](manual/v3/step3-page/imagepage.md)
     * [페이지 기능 - HTML에디터 페이지](manual/v3/step3-page/editorpage.md)
