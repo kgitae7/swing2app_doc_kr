@@ -34,6 +34,7 @@
     * [앱 메뉴 비활성화 이용방법](manual/v3/step3-page/menu-Hiding.md)
     * [메뉴 권한 설정: 접근 권한](manual/v3/step3-page/permission-setting.md)
     * [페이지 기능 - 쇼핑몰 기능 페이지](manual/v3/step3-page/swingshop-page.md)
+    * [페이지 기능 - 쇼핑몰 상품](manual/v3/step3-page/product.md)
     * [페이지 기능 - 상품카테고리](manual/v3/step3-page/product-category.md)
     * [페이지 기능 - 업종별 템플릿](manual/v3/step3-page/template.md)
     * [페이지 기능 - 이미지 페이지](manual/v3/step3-page/imagepage.md)
