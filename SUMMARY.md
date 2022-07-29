@@ -33,6 +33,7 @@
     * [메뉴 아이콘 이미지 등록하기](manual/v3/step3-page/icon.md)
     * [앱 메뉴 비활성화 이용방법](manual/v3/step3-page/menu-Hiding.md)
     * [메뉴 권한 설정: 접근 권한](manual/v3/step3-page/permission-setting.md)
+    * [페이지 기능 - UI KIT](manual/v3/step3-page/ui-kit.md)
     * [페이지 기능 - 쇼핑몰 기능 페이지](manual/v3/step3-page/swingshop-page.md)
     * [페이지 기능 - 쇼핑몰 상품](manual/v3/step3-page/product.md)
     * [페이지 기능 - 상품카테고리](manual/v3/step3-page/product-category.md)
@@ -340,4 +341,3 @@
 
 * [Page 1](page-1.md)
 * [스윙 도우미](undefined.md)
-* [페이지 기능 - UI KIT](ui-kit.md)
