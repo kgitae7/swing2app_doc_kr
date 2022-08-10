@@ -25,7 +25,7 @@
   * [앱제작, 앱운영 ﻿이용방법 TIP](manual/guide/appproduction-tip.md)
 * [앱제작 매뉴얼(V3)](manual/v3/README.md)
   * [V3 앱제작 마법사 시작](manual/v3/start.md)
-  * [V3버전 앱제작 방법 매뉴얼](manual/v3/v3.md)
+  * [V3버전 앱제작 방법 매뉴얼](manual/v3/guide.md)
   * [STEP1 기본정보](manual/v3/step1-basic.md)
   * [STEP2 디자인](manual/v3/step2-design.md)
   * [STEP3 페이지](manual/v3/step3-page/README.md)
