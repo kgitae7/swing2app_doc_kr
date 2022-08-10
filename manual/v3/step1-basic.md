@@ -63,9 +63,9 @@
 {% hint style="info" %}
 일반 이미지가 아닌 앱 아이콘과 대기화면으로 사용하는 가이드가 따로 있어요! 반드시 해당 가이드대로 이미지를 디자인 후 적용해주세요.​
 
-[**아이콘 이미지 제작 가이드 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/appicon/)
+[**아이콘 이미지 제작 가이드 보러가기**](../v2/appbasic/appicon.md)****
 
-[**대기화면 이미지 제작 가이드 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/apploading/)&#x20;
+****[**대기화면 이미지 제작 가이드 보러가기**](../v2/appbasic/apploading.md)****
 {% endhint %}
 
 ![](../../.gitbook/assets/줄라인.PNG)
@@ -81,8 +81,6 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 \*STEP1 기본정보 단계 수정 후 \[앱 업데이트] 버튼을 눌러  새 버전으로 업데이트 해야 수정된 항목이 앱에 반영됩니다.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
-
-* **아이콘 이미지, 대기화면 이미지 업로드 중 사이즈가 맞지 않는 이미지를 등록시 이미지 편집도구를 통해 사이즈를 수정할 수 있습니다.** &#x20;
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **이미지 편집도구란?**
 
@@ -120,9 +118,12 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 
 제작 화면에서 \[저장]버튼을 선택하면 등록이 완료됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="color:red;">**\[편집도구 주의사항]**</mark>
+
+{% hint style="danger" %}
+<mark style="color:red;">**편집도구 주의사항**</mark>
+
+
 
 1\)권장 사이즈가 정해진 이미지를 등록할 때는 그림 편집 프로그램을 통해 디자인 및 사이즈 작업이 모두 완료된 이미지를 등록하는 것을 권장드립니다.&#x20;
 
@@ -137,4 +138,7 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 (위의 이미지 사이즈 1024×1024보다 업로드한 이미지의 사이즈가 더 적을경우)
 
 따라서 지정된 사이즈보다 큰 이미지를 사용하시는 것을 권장드립니다.&#x20;
+{% endhint %}
+
+<mark style="color:red;">****</mark>
 
