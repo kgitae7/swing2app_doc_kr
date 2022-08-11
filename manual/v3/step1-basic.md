@@ -1,8 +1,10 @@
+---
+description: 앱제작 STEP1 기본정보 단계 매뉴얼
+---
+
 # STEP1 기본정보
 
-### **앱제작 – STEP1 기본정보 입력 단계**
-
-***
+**앱제작 – STEP1 기본정보 입력 단계**
 
 앱제작 V3 제작 매뉴얼 중 STEP1 기본정보 입력 단계 방법을 알려드립니다.
 
@@ -28,7 +30,7 @@
 
 5\. 저장 : 작업이 완료될 때마다 \[저장] 버튼을 선택해서, 작업 내용을 저장해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+![](../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)  **아이콘 이미지 업로드**&#x20;
 
@@ -42,7 +44,7 @@
 
 3\)아이콘으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.
 
-![](../../.gitbook/assets/줄라인.PNG)
+![](../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)  **대기화면 이미지 업로드**&#x20;
 
@@ -68,7 +70,7 @@
 ****[**대기화면 이미지 제작 가이드 보러가기**](../v2/appbasic/apploading.md)****
 {% endhint %}
 
-![](../../.gitbook/assets/줄라인.PNG)
+![](../../.gitbook/assets/수평성.PNG)
 
 ### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)  **기본정보 입력완료**&#x20;
 
@@ -80,7 +82,7 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 
 \*STEP1 기본정보 단계 수정 후 \[앱 업데이트] 버튼을 눌러  새 버전으로 업데이트 해야 수정된 항목이 앱에 반영됩니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+![](../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **이미지 편집도구란?**
 

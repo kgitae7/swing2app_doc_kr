@@ -1,10 +1,8 @@
----
-description: 앱제작 STEP2 디자인 단계 매뉴얼
----
-
 # STEP2 디자인
 
 ### **앱제작 – STEP2  디자인**&#x20;
+
+***
 
 앱제작 V3 제작 매뉴얼 중 STEP2 디자인 단계 방법을 알려드립니다.
 
@@ -28,7 +26,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 4.디자인 단계 입력이 완료되면 **\[저장]** 버튼을 눌러 작업 내용을 저장해주세요.&#x20;
 
-![](../../.gitbook/assets/수평성.PNG)
+![](../../.gitbook/assets/줄라인.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **프로토타입 스타일 확인하기**
 
@@ -38,7 +36,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 각 프로토타입을 선택하면 오른쪽 가상머신(미리보기 화면)으로 앱에 적용된 프로토타입 UI 스타일을 확인할 수 있습니다.
 
-![](../../.gitbook/assets/수평성.PNG)
+**​**![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **기본 스타일 및 옵션 – 컬러 설정**
 
@@ -50,7 +48,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 원하는 조합을 선택하시면 가상머신을 통해서 실시간으로 색상이 바뀌는 UI를 확인할 수 있습니다.
 
-![](../../.gitbook/assets/수평성.PNG)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **기본 스타일 및 옵션 – 상세 설정**
 
@@ -64,13 +62,11 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%EC%84%B8%EC%84%A4%EC%A0%95%EC%83%89%EC%83%81.gif)
 
-상세 설정 – HEX란에 색상 코드를 입력해주세요. &#x20;
-
-혹은 색상 네모 박스를 클릭하여 원하는 컬러를 선택할 수 있습니다.
+상세 설정 – HEX란에 색상 코드를 입력해주세요.  혹은 색상 네모 박스를 클릭하여 원하는 컬러를 선택할 수 있습니다.
 
 입력 후 마우스 커서를 빈 공간에 클릭하면 가상머신에 실시간으로 색상이 반영됩니다.
 
-![](../../.gitbook/assets/수평성.PNG)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **고급 스타일 및 옵션**
 
