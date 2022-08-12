@@ -94,7 +94,7 @@
 
 <summary><strong>부관리자는 어떻게 설정하나요?</strong></summary>
 
-스윙 앱운영 페이지에서  푸시&회원 – [\[회원조회\]](http://www.swing2app.co.kr/view/member\_list)메뉴로 이동합니다.
+스윙 앱운영 페이지에서 회원관리 – [\[회원조회\]](http://www.swing2app.co.kr/view/member\_list)메뉴로 이동합니다.
 
 부관리자로 설정할 사용자를 선택한 뒤 권한 그룹설정에서 관리자로 권한을 변경하시면 됩니다
 

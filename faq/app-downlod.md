@@ -75,7 +75,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 **\[앱스토어 test-flight 이용안내]**
 
-https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/
+[https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/](https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/)
 
 &#x20;
 
