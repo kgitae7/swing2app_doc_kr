@@ -2,21 +2,21 @@
 
 * [FAQ](README.md)
   * [가장 많이 묻는 질문 FAQ](faq/top.md)
-  * [앱 미리보기 FAQ](faq/app-preview.md)
   * [앱제작 FAQ](faq/app-production.md)
   * [앱운영 및 기능 FAQ](faq/appoperation.md)
   * [유료이용 및 스토어업로드 FAQ](faq/paid-market.md)
   * [앱 설치 및 다운로드 FAQ](faq/app-downlod.md)
   * [회원가입 및 로그인 FAQ](faq/join-login.md)
+  * [앱 미리보기 FAQ](faq/app-preview.md)
   * [스윙샵(스윙쇼핑몰) FAQ](faq/paid-market-1.md)
+  * [결제 관련 FAQ](faq/payment.md)
+  * [유료앱 이용권 및 티켓 FAQ](faq/product.md)
+  * [무제한이용권 및 패키지상품 FAQ](faq/package.md)
   * [플레이스토어 FAQ](faq/paid-market-2.md)
   * [앱스토어 FAQ](faq/paid-market-3.md)
   * [애드몹 FAQ](faq/faq.md)
   * [제휴프로그램 FAQ](faq/affprogram.md)
   * [커스터마이징 관련 FAQ](faq/faq-1.md)
-  * [결제 관련 FAQ](faq/payment.md)
-  * [유료앱 이용권 및 티켓 FAQ](faq/product.md)
-  * [무제한이용권 및 패키지상품 FAQ](faq/package.md)
 
 ## 스윙투앱 메뉴얼 <a href="#manual" id="manual"></a>
 
