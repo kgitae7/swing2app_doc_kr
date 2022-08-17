@@ -240,7 +240,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.4 템플릿페이지 편집하기(수정 방법)**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4 템플릿페이지 편집하기(수정 방법)**
 
 템플릿 수정은 동일하게 앱제작 메이커 – 업종별 템플릿 페이지 \[수정하기]로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.
 
