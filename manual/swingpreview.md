@@ -46,7 +46,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **▶** [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[앱 미리보기]  로그인**
 
@@ -104,9 +104,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-****
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행)안드로이드, 아이폰 앱 미리보**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행)안드로이드, 아이폰 앱 미리보기**
 
 <mark style="color:blue;"><mark style="color:orange;">****<mark style="color:orange;"></mark>
 
@@ -142,7 +142,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:purple;">****</mark>
 
-#### <mark style="color:blue;">**1. 부관리자 로그인도 OK!**</mark>
+#### <mark style="color:blue;">**1. 부관리자 로그인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
@@ -259,7 +259,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 1\)아이폰은 앱 미리보기만 가능합니다. (안드로이드폰처럼 앱 다운은 이용할 수 없으며, 웹뷰/푸시로 제작한 앱은 아이폰에서는 확인 불가)
 
-2\)스윙투앱 프로토타입-<mark style="color:purple;">푸시, 웹뷰로 작업한 앱은 안드로이드폰에서는 앱 다운로드만 가능하며, 아이폰에서는 확인할 수 없습니다.</mark>
+2\)스윙투앱 프로토타입-푸시, 웹뷰로 작업한 앱은 안드로이드폰에서는 앱 다운로드만 가능하며, 아이폰에서는 확인할 수 없습니다.
 
 3\)미리보기로 앱을 이용할 때는 푸시 알림, 공유기능 등이 적용되지 않습니다.
 
