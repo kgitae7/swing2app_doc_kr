@@ -67,9 +67,9 @@ description: V3 앱제작 가이드 매뉴얼
 
 
 
-[**아이콘 이미지 제작 가이드 보러가기**](https://blog.naver.com/swing2app/221356917617)
+****[**아이콘 이미지 제작 가이드 보러가기**](../v2/appbasic/appicon.md)****
 
-[**대기화면 이미지 제작 가이드 보러가기**](https://blog.naver.com/swing2app/220897868824)
+****[**대기화면 이미지 제작 가이드 보러가기**](../v2/appbasic/apploading.md)****
 
 
 
