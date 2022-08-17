@@ -40,7 +40,7 @@
     * [페이지 기능 - 업종별 템플릿](manual/v3/step3-page/template.md)
     * [페이지 기능 - 이미지 페이지](manual/v3/step3-page/imagepage.md)
     * [페이지 기능 - HTML에디터 페이지](manual/v3/step3-page/editorpage.md)
-    * [페이지 기능-회원가입, 로그인, 설정](manual/v3/step3-page/join-login.md)
+    * [페이지 기능 - 회원가입, 로그인, 설정](manual/v3/step3-page/join-login.md)
     * [페이지 기능 - 게시물 검색](manual/v3/step3-page/postsearch.md)
     * [페이지 기능 - 관심글 보기](manual/v3/step3-page/viewfavorites.md)
     * [페이지 기능 - 쿠폰조회하기](manual/v3/step3-page/couponview.md)
