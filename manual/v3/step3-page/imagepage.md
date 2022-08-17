@@ -76,7 +76,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 1. 이미지페이지 만들기**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 시작하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
 
@@ -96,7 +96,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 2. 이미지페이지 제작하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(제작도구)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
@@ -248,7 +248,7 @@ TIP을 한가지 드리면요
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 앱에 이미지페이지 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
 
@@ -284,7 +284,7 @@ TIP을 한가지 드리면요
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4 이미지페이지 제작도구 – 툴팁 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
 
 이미지페이지에 링크 배너를 연동하는 것 외에 툴팁을 적용하는 방법도 알려드릴게요
 
@@ -410,7 +410,7 @@ TIP을 한가지 드리면요
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5 이미지페이지 편집하기(수정 방법)**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(이미지페이지 수정 방법)**
 
 **수정은 동일하게 앱제작 메이커 – 이미지 페이지 \[수정하기]로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.**
 
