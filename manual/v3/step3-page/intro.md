@@ -16,11 +16,11 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 \*앱소개는 기본 샘플 페이지이기 때문에 다른 메뉴로 변경하여 제작하시기를 권장드립니다.
 
-****[**홈화면 제작 매뉴얼 보러가기**](home.md)****
+**홈화면 제작 매뉴얼 보러가기**: https://wp.swing2app.co.kr/documentation/v3manual/home/
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.앱에 \[앱소개 페이지] 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.  앱에 \[앱소개 페이지] 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
@@ -54,7 +54,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면: 앱소개 페이지 확인**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 앱소개 페이지 확인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png)
 
@@ -76,7 +76,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3.앱소개 메뉴 및 내용 수정방법** &#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03. 앱소개 메뉴 및 내용 수정방법** &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
 
@@ -98,7 +98,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4.앱소개 내용, 버튼 삭제 방법**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04. 앱소개 내용, 버튼 삭제 방법**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
 

@@ -2,7 +2,7 @@
 description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 ---
 
-# 페이지 기능 - 앱공유하기
+# 페이지 기능-앱공유하기
 
 **앱 공유하기란?**
 
@@ -23,10 +23,12 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!
 
-**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../appoperation/share-app.md)****
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
 {% endhint %}
 
 ![](../../../.gitbook/assets/수평성.PNG)
+
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 \[앱공유하기] 적용하기**
 
@@ -116,11 +118,11 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 공유 안내사항- 앱공유, 게시판, 게시물 공유 포함**
+### **\[앱 공유 안내사항- 앱공유, 게시판, 게시물 공유 포함]**
 
 
 
-<mark style="color:blue;">**▶**</mark><mark style="color:green;"><mark style="color:blue;">**안드로이드폰**<mark style="color:blue;"></mark>
+<mark style="color:blue;">▶</mark><mark style="color:green;"><mark style="color:blue;">안드로이드폰<mark style="color:blue;"></mark>
 
 무료 버전으로 제작한 앱은 안드로이드 폰에서만 공유할 수 있습니다. (안드로이드폰 ↔ 안드로이드폰)
 
@@ -132,7 +134,7 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 
 
-<mark style="color:blue;">**▶아이폰**</mark>
+<mark style="color:blue;">▶아이폰</mark>
 
 무료버전으로 제작한 앱은 아이폰에서 공유 지원이 안됩니다.
 
@@ -140,9 +142,11 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 
 
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+
 **★ 앱 공유, 게시판 및 게시물 공유 공유하기 전체 과정 매뉴얼은 아래 매뉴얼 확인해주세요\~!**&#x20;
 
-**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../appoperation/share-app.md)****
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
 
-**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](../../appoperation/board-share.md)****
+**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/board-share/)
 
