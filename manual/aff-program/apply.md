@@ -1,44 +1,42 @@
+---
+description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
+---
+
 # 제휴프로그램 신청방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EB%AA%A9.png)
-
-**제휴프로그램 신청방법**
-
-<mark style="background-color:blue;">**▶**</mark>**제휴프로그램이란?**
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴프로그램이란?**
 
 스윙투앱을 사용자들에게 홍보하고, 해당 사용자가 이용료를 결제하면 해당 이용료의 일정 수수료를 수익료(커미션)로 지급받는 프로그램입니다.
 
 스윙투앱 사용자라면 누구나 다 신청할 수 있습니다!
 
-<mark style="background-color:blue;">**▶**</mark>**어떻게 수익료를 받을 수 있나요?**
+****
+
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
 
 스윙투앱 제휴를 신청하고, 승인을 받으시면 접속할 수 있는 제휴 URL을 발행해드립니다.
 
 이 제휴 URL을 사용자에게 공유하거나 홍보해주시구요.
 
-이렇게 나의 광고로 접속한 사용자들이 스윙투앱에서 회원가입을 한 뒤 이용권을 구매하면, 해당 이용권의 일정 금액이 수익료로 지급이 되는 것입니다.
+이렇게 나의 광고로 접속한 사용자들이 스윙투앱에서 회원가입을 한 뒤 이용권을 구매하면, 해당 이용권의 일정 금액이 수익료로 지급 됩니다.
 
-<mark style="background-color:blue;">**▶**</mark>스윙투앱 제휴프로그램 소개는 아래 도움말 페이지를 참고해주세요.
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-**☞** [**\[스윙 제휴 프로그램\]**](http://wp.swing2app.co.kr/aff-program/) ****&#x20;
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**제휴프로그램 신청방법 단계**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **제휴프로그램 신청방법 단계**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99-%EC%A0%9C%ED%9C%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-KR.png)
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 제휴신청**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1.제휴신청
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%EC%8B%A0%EC%B2%AD.png)
 
 [앱운영페이지 → 내메뉴 → 제휴 신청](http://www.swing2app.co.kr/view/affiliate\_apply) 메뉴로 이동합니다.&#x20;
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 신청서 작성**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2.신청서 작성
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%EC%8B%A0%EC%B2%AD2-e1611557249483.png)
 
@@ -76,7 +74,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 심사 완료 및 승인 완료**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3.심사 완료 및 승인 완료&#x20;
 
 심사가 완료되어 승인이 완료되면, 사용자 메일로 승인 완료 메일을 보내드립니다.
 
