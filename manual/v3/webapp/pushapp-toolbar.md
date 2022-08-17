@@ -1,8 +1,8 @@
----
-description: V3 푸시앱 툴바 기능 매뉴얼 – 이용방법,기능 소개 ​
----
-
 # 푸시앱 툴바-이용방법 및 기능 소개
+
+**V3 푸시앱 툴바 기능 매뉴얼 – 이용방법,기능 소개**
+
+​
 
 푸시 툴바 기능 매뉴얼을 알려드립니다.
 
@@ -18,8 +18,11 @@ V3에서는 툴바를 원하는 메뉴들로 직접 구성할 수 있고, 아이
 
 매뉴얼을 통해서 툴바를 이용하는 방법과 기능들을 어떻게 앱에 적용할 수 있는 지 확인해주세요.
 
-{% hint style="warning" %}
-<mark style="color:red;"><mark style="color:orange;">**안내사항**<mark style="color:orange;"></mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
+
+****
+
+<mark style="color:red;">**\[안내사항]**</mark>
 
 1\)툴바는 푸시앱에서만 제공하는 메뉴이며, 웹뷰앱 및 일반 프로토타입에서는 제공되지 않습니다.
 
@@ -36,15 +39,16 @@ V3에서는 툴바를 원하는 메뉴들로 직접 구성할 수 있고, 아이
 최초 앱 제작 후, 툴바를 수정할 경우 업데이트를 하지 않아도 저장만 하면 앱에 바로 반영됩니다.
 
 단, STEP2 디자인 단계에서 툴바 디자인을 수정할 경우 앱 업데이트 필요합니다.
-{% endhint %}
+
+
 
 **푸시앱 제작 매뉴얼은 아래 매뉴얼로 이동해주세요.**
 
+[**https://wp.swing2app.co.kr/documentation/v3manual/push/**](https://wp.swing2app.co.kr/documentation/v3manual/push/)
+
 ***
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
-
-### **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 툴바(Toolbar)이용방법**
+## **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1. 툴바(Toolbar)이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A91.png)
 
@@ -68,7 +72,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**새로고침 툴바 메뉴 적용하기**</mark>
+<mark style="color:blue;">**–새로고침 툴바 메뉴 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A93.png)
 
@@ -86,7 +90,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**툴바에서 제공되는 기본 기능**</mark>
+<mark style="color:blue;">**–**</mark>**  **<mark style="color:blue;">**툴바에서 제공되는 기본 기능**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%8A%A51.png)
 
@@ -102,9 +106,9 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 기본 셋팅으로 툴바에 제공되고 있으니 필요 없는 메뉴는 제거, 필요한 메뉴는 추가 하여 툴바를 직접 꾸밀 수 있습니다.
 
+​![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-
-#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**메뉴 리스트 수정방법**</mark>
+### **메뉴 리스트 수정방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EB%A9%94%EB%89%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
 
@@ -118,9 +122,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 툴바 메뉴 추가, 제거**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 툴바 메뉴 추가, 제거**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A92.png)
 
@@ -130,9 +132,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 툴바 메뉴 이동**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**3. 툴바 메뉴 이동**
 
 ![](../../../.gitbook/assets/툴바이동1.png)
 
@@ -144,9 +144,11 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 드래그하는 위치로 메뉴 이동이 완료됩니다.
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 툴바 아이콘 이미지 등록하기**
+
+​
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 툴바 아이콘 이미지 등록하기**
 
 ​
 
@@ -156,7 +158,7 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+### <mark style="color:blue;">**\[앱 실행화면]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png)
 
@@ -164,7 +166,7 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">툴바 아이콘 이미지 등록하기</mark>
+### <mark style="color:blue;">**-툴바 아이콘 이미지 등록하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%981.png)
 
@@ -192,9 +194,9 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5. 툴바 기본 옵션, 고급 옵션**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5. 툴바 기본 옵션, 고급 옵션**
+​
 
 툴바 사용여부 및 스타일을 설정하는 메뉴는 STEP2 디자인 단계에서 확인할 수 있습니다.
 
@@ -202,7 +204,7 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-#### <mark style="color:blue;">**1)기본옵션 – 툴바 사용여부, 자동 숨김 기능**</mark>
+### <mark style="color:blue;">**1)기본옵션 – 툴바 사용여부, 자동 숨김 기능**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%B3%B8%EC%84%A4%EC%A0%95.png)
 
@@ -210,18 +212,23 @@ STEP2 디자인 단계
 
 기본 스타일 옵션에서 툴바 사용여부, 툴바 자동숨김 기능을 설정해주세요.
 
-*   툴바 사용으로 체크시, 앱 화면 하단에 푸시가 고정되어 생성되구요.
+> \-툴바 사용으로 체크시, 앱 화면 하단에 푸시가 고정되어 생성되구요.
+>
+> 사용을 안할 경우 앱에서 툴바는 보이지 않습니다.
 
-    사용을 안할 경우 앱에서 툴바는 보이지 않습니다.
-*   자동숨김은 스크롤하여 화면 아래로 이동할 경우 툴바가 잠시 사라지는 기능을 말해요.
+> \-자동숨김은 스크롤하여 화면 아래로 이동할 경우 툴바가 잠시 사라지는 기능을 말해요,
+>
+> 화면을 가릴 수 있기 때문에 잠시 숨김으로 해놓다가 다시 화면을 위 아래로 스크롤할 경우 툴바가 생성됩니다.
+>
+> 툴바 자동숨김 미사용으로 체크할 경우 툴바 영역은 고정되어 보여집니다
 
-    화면을 가릴 수 있기 때문에 잠시 숨김으로 해놓다가 다시 화면을 위 아래로 스크롤할 경우 툴바가 생성됩니다.
+​
 
-    툴바 자동숨김 미사용으로 체크할 경우 툴바 영역은 고정되어 보여집니다.
-
-#### <mark style="color:blue;">**2)고급 옵션**</mark>
+### <mark style="color:blue;">**2)고급 옵션**</mark>
 
 고급 스타일 옵션에서는 툴바 관련 색상을 설정할 수 있습니다.
+
+​
 
 **(1)툴바 배경 색상**
 
@@ -255,12 +262,11 @@ STEP디자인 단계 메뉴는 수정이 되면, 앱 업데이트가 필요합�
 
 앱스토어, 플레이스토어 출시된 경우도 업데이트 된 버전으로 다시 심사 진행해주세요.
 
+​
 
+![](../../../.gitbook/assets/수평성.PNG)
 
-{% hint style="danger" %}
-<mark style="color:red;">**안내사항**</mark>
-
-<mark style="color:red;">****</mark>
+<mark style="color:red;">**\[안내사항]**</mark>
 
 1\)툴바는 푸시앱에서만 제공하는 메뉴이며, 웹뷰앱 및 일반 프로토타입에서는 제공되지 않습니다.
 
@@ -283,7 +289,8 @@ STEP디자인 단계 메뉴는 수정이 되면, 앱 업데이트가 필요합�
 단, STEP2 디자인 단계에서 툴바 디자인을 수정할 경우 앱 업데이트 필요합니다.
 
 
-{% endhint %}
+
+
 
 
 

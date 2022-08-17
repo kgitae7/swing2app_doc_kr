@@ -1,12 +1,10 @@
+---
+description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방법
+---
+
 # 푸시 아이콘 이미지 등록하기
 
-**안드로이드폰 푸시 아이콘 이미지를 적용하는 방법**
-
-안드로이드폰에서 푸시 아이콘 이미지를 등록하는 방법을 알려드리겠습니다.
-
-
-
-> ### **푸시란? 푸시 아이콘 이미지란?**
+**푸시란? 푸시 아이콘 이미지란?**
 
 푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있는 기능이구요.
 
@@ -22,9 +20,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EB%9E%80\_886.png)
 
-***
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 아이콘 이미지**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.푸시 아이콘 이미지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9A%A9-%ED%91%B8%EC%8B%9C.png)
 
@@ -34,15 +32,15 @@
 
 **안드로이드폰에서 아이콘 이미지가 뜨지 않는 오류를 해결할 수 있습니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
-
+{% hint style="success" %}
 \* 푸시 아이폰 이미지는 안드로이드폰에서만 적용이 가능합니다. \_아이폰 적용 불가
 
 \*푸시 아이콘을 별도 설정하지 않으면, 앱 아이콘 이미지로 자동 발송됩니다. \_안드로이드, 아이폰 동일
+{% endhint %}
 
-​
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 아이콘 이미지 설정하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.푸시 아이콘 이미지 설정하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98\_886.png)
 
@@ -66,17 +64,17 @@
 
 해당 화면은 앱제작V3버전이며, V2버전 이용시에도 아이콘 이미지 적용방법은 동일합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
-
+{% hint style="success" %}
 \-업데이트는 하드 업데이트 진행을 권장드립니다.
 
 \-새 버전으로 업데이트 받은 뒤, 푸시 발송하기를 진행하면 변경된 푸시 아이콘 이미지로 발송됩니다.
 
 \-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 플레이스토어에 업데이트를 다시 해주셔야 합니다.
+{% endhint %}
 
-​
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **안내사항**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.안내사항**
 
 ​
 
