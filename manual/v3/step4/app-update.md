@@ -219,7 +219,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:orange;"><mark style="color:blue;">중요<mark style="color:blue;"></mark>
+<mark style="color:red;">**중요**</mark>
 
 &#x20;**** 소프트 업데이트는 애플과 구글에서 공식 제공하는 업데이트 방식이 아닙니다.
 
