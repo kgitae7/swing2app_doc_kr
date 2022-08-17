@@ -84,7 +84,7 @@ com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이�
 
 해당 패키지 아이디가 원스토어에 입력하는 패키지 네임이 됩니다.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 기본정보**
 
@@ -174,7 +174,7 @@ Goole Play 패키지 네임은 **위의 이미지처럼, 구글 플레이스토�
 
 [**\[개인정보 취급방침 URL 매뉴얼 확인하기\]**](https://wp.swing2app.co.kr/knowledgebase/playstore-policyurl/)
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2.판매정보**
 
@@ -222,7 +222,7 @@ YouTube URL , 권한설명 항목은 선택입력사항입니다.
 
 10\) 판매정보 입력이 완료되면 상단 \[저장] 버튼을 선택해주세요.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 가격 및 배포정보**
 
@@ -236,7 +236,7 @@ YouTube URL , 권한설명 항목은 선택입력사항입니다.
 
 **무료앱 출시는 – ‘무료’에 체크하면 완료됩니다.**
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4 라이선스 관리**
 
@@ -246,7 +246,7 @@ YouTube URL , 권한설명 항목은 선택입력사항입니다.
 
 다음으로 넘어가주세요.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.5 신규 바이너리**
 
@@ -320,7 +320,7 @@ APK파일을 등록할 경우
 
 \*이용권 구매 후에도 앱제작을 한번 더 꼭\~ 해주셔야 유료앱에 제공되는 파일을 받을 수 있습니다.&#x20;
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.6 In-App 정보**
 
@@ -334,7 +334,7 @@ APK파일을 등록할 경우
 
 &#x20;
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.7 검증요청**
 
@@ -360,7 +360,7 @@ APK파일을 등록할 경우
 
 **저는 검증 완료 시 판매를 즉시 적용하도록 옵션을 설정했습니다.**
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.8 상품 판매 완료**
 
@@ -376,7 +376,7 @@ APK파일을 등록할 경우
 
 검증 안내 상태 메일이 발송되기 때문에 메일을 확인하시면 심사가 통과 되었는지, 거절되었는지를 확인할 수 있습니다!
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.9 원스토어에 출시된 앱 확인하기**
 
