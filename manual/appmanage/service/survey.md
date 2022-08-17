@@ -1,12 +1,10 @@
+---
+description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 안내
+---
+
 # 설문조사
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%84%A4%EB%AC%B8%EC%A0%9C%EB%AA%A9.png)
-
-**설문관리- 설문조사 만드는 방법, 관리하는 방법 안내**
-
-***
-
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**설문조사 이용방법은 영상으로도 확인이 가능합니다.**</mark>
+&#x20;** **<mark style="color:orange;">**설문조사 이용방법은 영상으로도 확인이 가능합니다.**</mark>
 
 {% embed url="https://youtu.be/0fp0Gu1B_Do" %}
 

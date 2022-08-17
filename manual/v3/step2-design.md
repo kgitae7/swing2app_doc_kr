@@ -4,15 +4,13 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 # STEP2 디자인
 
-### **앱제작 – STEP2  디자인**&#x20;
+#### 앱제작 V3 제작 매뉴얼 중 STEP2 디자인 단계 방법을 알려드립니다.
 
-앱제작 V3 제작 매뉴얼 중 STEP2 디자인 단계 방법을 알려드립니다.
-
-**\[STEP2 디자인]은 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
+\[STEP2 디자인]은 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.
 
 ****
 
-## **STEP2 디자인**
+### **STEP2 디자인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C2.png)
 
@@ -30,7 +28,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **프로토타입 스타일 확인하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 1.**프로토타입 스타일 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_01\_14\_50\_40\_340.gif)
 
@@ -40,7 +38,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **기본 스타일 및 옵션 – 컬러 설정**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.기본 스타일 및 옵션 – 컬러 설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_01\_14\_52\_49\_797.gif)
 
@@ -52,7 +50,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **기본 스타일 및 옵션 – 상세 설정**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.기본 스타일 및 옵션 – 상세 설정**
 
 > **조합된 색상 중에서 마음에 드는 색상이 없다면? = 상세 설정을 이용해주세요.**
 
@@ -72,7 +70,7 @@ description: 앱제작 STEP2 디자인 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **고급 스타일 및 옵션**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.고급 스타일 및 옵션**
 
 해당 기능은 프로토타입 UI에 추가할 수 있는 색상 옵션 및 디자인 스타일을 추가로 설정할 수 있는 기능이에요.
 
@@ -88,7 +86,7 @@ HEX란에 색상 코드를 입력하거나, 색상 네모 박스를 클릭하여
 
 
 
-### <mark style="color:blue;">**메인 디자인 스타일 – 투명 설정**</mark>
+#### <mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**메인 디자인 스타일 – 투명 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%94%94%EC%9E%90%EC%9D%B81.png)
 
