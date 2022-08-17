@@ -1,10 +1,10 @@
+---
+description: 앱 미리보기 이용방법 매뉴얼
+---
+
 # 앱미리보기 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%A0%9C%EB%AA%A9.png)
-
-**앱 미리보기 이용방법 매뉴얼☞** [**앱미리보기 소개 페이지 이동**](https://wp.swing2app.co.kr/swing-preview/)
-
-<mark style="background-color:blue;">**▶**</mark>** 앱 미리보기란?**
+****<img src="../.gitbook/assets/image.png" alt="" data-size="line"> **앱 미리보기란?**
 
 스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.
 
@@ -20,9 +20,9 @@
 
 **스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
 
-***
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
-> ### <mark style="color:blue;">**스윙투앱 앱 미리보기 이용방법**</mark>
+### <mark style="color:blue;">스윙투앱 앱 미리보기 이용방법</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
@@ -36,9 +36,9 @@
 
 안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**1.앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** <mark style="color:blue;">1.앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png)
 
