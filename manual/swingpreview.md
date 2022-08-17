@@ -18,12 +18,6 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:red;">\*특히 그동안 지원되지 않았던 아이폰에서도 앱 미리보기가 가능합니다. (다운은 안되요\~!)</mark>
 
-**스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
-
-![](<../.gitbook/assets/구분선 (1).PNG>)
-
-### <mark style="color:blue;">스윙투앱 앱 미리보기 이용방법</mark>
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
@@ -36,9 +30,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
+**스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
 
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** <mark style="color:blue;">1.앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. **** 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png)
 
@@ -50,9 +46,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **▶** [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**2. \[앱 미리보기]  로그인**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[앱 미리보기]  로그인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1%EA%B3%B5%EC%8B%9D%EC%95%B11-1.png)
 
@@ -62,25 +58,31 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **-간편로그인 사용자: 스윙투앱 가입시 간편로그인으로 진행하셨던 분들은 네이버, 구글, 페이스북 아이콘을 선택해서 로그인을 진행해주세요.**
 
-<mark style="color:red;">**\*주의: 로그인은 반드시 스윙투앱 홈페이지**</mark> [<mark style="color:red;">**http://www.swing2app.co.kr**</mark>](http://www.swing2app.co.kr/) <mark style="color:red;">**에서 가입한 계정을 넣어주셔야 합니다.**</mark>
+4\)로그인이 완료되면 앱 미리보기 화면이 열리며, 제작한 앱 목록을 확인할 수 있습니다.
 
-<mark style="color:red;">**스윙투앱 공식앱에서 가입한 계정이 아니에요\~!**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">**주의사항**</mark>
 
-> ### **안내**
+<mark style="color:red;">로그인은 반드시 스윙투앱 홈페이지</mark> [<mark style="color:red;">http://www.swing2app.co.kr</mark>](http://www.swing2app.co.kr/) <mark style="color:red;">에서 가입한 계정을 넣어주셔야 합니다.</mark>
+
+<mark style="color:red;">스윙투앱 공식앱에서 가입한 계정이 아니에요\~!</mark>
+{% endhint %}
+
+{% hint style="warning" %}
+<mark style="color:orange;">**안내**</mark>
 
 아이폰은 앱 미리보기 – 간편 로그인 기능이 제공되지 않습니다.
 
 간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or  QR코드로 미리보기 기능으로 이용해주세요.
+{% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**3. \[앱 미리보기] 앱 목록확인**</mark>
-
-4\)로그인이 완료되면 앱 미리보기 화면이 열리며, 제작한 앱 목록을 확인할 수 있습니다.
-
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. \[앱 미리보기] 앱 목록확인**
 
 
-<mark style="color:orange;">**\[아이폰 미리보기 화면]**</mark>
+
+<mark style="color:blue;"><mark style="color:orange;">**아이폰 미리보기 화면**<mark style="color:orange;"></mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
 

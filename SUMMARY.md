@@ -12,11 +12,11 @@
   * [결제 관련 FAQ](faq/payment.md)
   * [유료앱 이용권 및 티켓 FAQ](faq/product.md)
   * [무제한이용권 및 패키지상품 FAQ](faq/package.md)
-  * [플레이스토어 FAQ](faq/playstore.md)
-  * [앱스토어 FAQ](faq/appstore.md)
-  * [애드몹 FAQ](faq/admob.md)
+  * [플레이스토어 FAQ](faq/paid-market-2.md)
+  * [앱스토어 FAQ](faq/paid-market-3.md)
+  * [애드몹 FAQ](faq/faq.md)
   * [제휴프로그램 FAQ](faq/affprogram.md)
-  * [커스터마이징 관련 FAQ](faq/custormizing.md)
+  * [커스터마이징 관련 FAQ](faq/faq-1.md)
 
 ## 스윙투앱 메뉴얼 <a href="#manual" id="manual"></a>
 
