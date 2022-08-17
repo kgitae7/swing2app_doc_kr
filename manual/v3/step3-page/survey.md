@@ -102,7 +102,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[설문조사] – 앱에 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.설문조사 앱적용하기**&#x20;
 
 앱운영에서 설문조사를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
 
@@ -140,7 +140,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 앱 실행화면: 설문조사 페이지 확인**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.앱 실행화면: 설문조사 페이지 확인**
 
 앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!
 
@@ -152,7 +152,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4 설문조사 결과 확인 & 설문조사 관리**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.설문조사 결과 확인 & 설문조사 관리**
 
 설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?
 
@@ -188,15 +188,15 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 **-‘수정’** 버튼을 선택해서 질문 내용을 수정할 수 있으며, ‘**삭제**‘ 버튼 선택하여 설문을 삭제할 수도 있습니다.
 
-![](../../../.gitbook/assets/수평성.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-<details>
+### ![](<../../../.gitbook/assets/image (2).png>) 5.이용방법 총정리
 
-<summary>[설문조사 메뉴 이용방법 정리]</summary>
+
 
 **설문조사 만들기, 앱에서 설문 참여하기 상세 내용은 아래 매뉴얼을 꼭\~ 확인해주세요!**
 
-**☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/survey/)
+**☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](../../appmanage/service/survey.md)****
 
 
 
@@ -230,7 +230,12 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 
 
-</details>
+<details>
+
+<summary></summary>
 
 ****
 
+</details>
+
+****

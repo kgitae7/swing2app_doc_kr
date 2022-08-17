@@ -30,7 +30,7 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 \***관리자 채팅을 적용하는 방법은 아래 매뉴얼을 확인해주세요.**
 
-**☞** [**관리자 채팅 이용방법 보러가기** ](https://wp.swing2app.co.kr/documentation/maual/pagemenu/chat/)
+**☞** [**관리자 채팅 이용방법 보러가기**](adminchat.md) ****&#x20;
 
 
 
