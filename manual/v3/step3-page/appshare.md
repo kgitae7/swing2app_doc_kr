@@ -2,7 +2,7 @@
 description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 ---
 
-# 페이지 기능-앱공유하기
+# 페이지 기능 - 앱공유하기
 
 **앱 공유하기란?**
 
@@ -23,7 +23,7 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!
 
-**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
+**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../appoperation/share-app.md)****
 {% endhint %}
 
 ![](../../../.gitbook/assets/수평성.PNG)

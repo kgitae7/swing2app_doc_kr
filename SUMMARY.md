@@ -44,7 +44,7 @@
     * [페이지 기능-게시물 검색](manual/v3/step3-page/postsearch.md)
     * [페이지 기능-관심글 보기](manual/v3/step3-page/viewfavorites.md)
     * [페이지 기능-쿠폰조회하기](manual/v3/step3-page/couponview.md)
-    * [페이지 기능-앱공유하기](manual/v3/step3-page/appshare.md)
+    * [페이지 기능 - 앱공유하기](manual/v3/step3-page/appshare.md)
     * [페이지 기능 - 앱소개](manual/v3/step3-page/intro.md)
     * [페이지 기능 - 관리자 채팅](manual/v3/step3-page/adminchat.md)
     * [페이지 기능 - 채팅목록](manual/v3/step3-page/chat-list.md)
