@@ -4,7 +4,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 # V3버전 앱제작 방법 매뉴얼
 
-### &#x20;**** ![](<../../.gitbook/assets/image (2).png>)**STEP1. 기본정보**
+### &#x20;**** ![](<../../.gitbook/assets/image (2).png>) **STEP1 기본정보**
 
 **1단계\[기본정보]는 앱제작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
 
@@ -24,11 +24,15 @@ description: V3 앱제작 가이드 매뉴얼
 
 ![](<../../.gitbook/assets/캡처33 (1).png>)
 
-### &#x20;<mark style="color:blue;">**1.앱 아이콘 이미지 등록**</mark>
+### **앱 아이콘, 대기화면 이미지 등록**
 
 **\*앱 아이콘, 대기화면 이미지 첨부 버튼을 선택하면 파일 첨부 창이 뜹니다.**
 
 **이미지 업로드 버튼을 선택해서, 원하는 이미지를 등록해주세요.**
+
+**​**
+
+**1)아이콘 업로드**
 
 ![](../../.gitbook/assets/가이드1-1.png)
 
@@ -41,7 +45,7 @@ description: V3 앱제작 가이드 매뉴얼
 (3)아이콘으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.\
 
 
-### &#x20;<mark style="color:blue;">**2.대기화면 이미지 등록**</mark>
+**2)대기화면 업로드**
 
 ![](../../.gitbook/assets/가이드2-1.png)
 
@@ -71,9 +75,9 @@ description: V3 앱제작 가이드 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2).png>)**STEP2.디자인**
+### ****![](<../../.gitbook/assets/image (2).png>) **2.디자인**
 
-**\[STEP2디자인]은 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
+**\[STEP2 디자인]은 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
 
 ![](../../.gitbook/assets/가이드2.png)
 
@@ -119,7 +123,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2).png>)**STEP3. 페이지**
+### ****![](<../../.gitbook/assets/image (2).png>) **STEP3 페이지**
 
 **\[STEP3 페이지]는 앞서 만들어놓은 전체적인 앱 툴에 카테고리와 메뉴를 만들어서 본격적으로 앱 내용을 구성하는 단계입니다.**
 
@@ -131,9 +135,11 @@ description: V3 앱제작 가이드 매뉴얼
 
 홈화면을 적용하는 방법과 메뉴를 적용하는 방법을 알려드리겠습니다.
 
+![](../../.gitbook/assets/줄라인.PNG)
+
 ****
 
-### &#x20;**1.홈화면 적용 방법**
+### **1.홈화면 적용 방법**
 
 **홈화면은 앱을 실행하면 보이는 메인화면으로, 사용자가 직접 메인화면을 어떻게 보여지게 할지 구성할 수 있어요.**
 
@@ -181,7 +187,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 
 
-### &#x20;**2.메뉴 관리**
+### **2. 메뉴 관리**
 
 <mark style="color:green;">**1)메뉴 추가 및 삭제**</mark>
 
@@ -235,7 +241,7 @@ UI KIT 선택 게시판 선택 적용하고자 하는 게시판 스타일 선택
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### <mark style="color:green;">****</mark>![](<../../.gitbook/assets/image (2).png>)**STEP4. 앱제작하기**
+### <mark style="color:green;">****</mark>![](<../../.gitbook/assets/image (2).png>) <mark style="color:green;">****</mark>** STEP4 앱제작하기**
 
 ****
 
@@ -265,7 +271,7 @@ UI KIT 선택 게시판 선택 적용하고자 하는 게시판 스타일 선택
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2).png>)**STEP5. 앱제작 완료**
+### ****![](<../../.gitbook/assets/image (2).png>) **STEP5 앱제작 완료**
 
 ![](../../.gitbook/assets/앱제작완료\_진행상태1.png)
 
