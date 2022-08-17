@@ -104,11 +104,13 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+****
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**4. 앱 미리보기 이용방법을 움짤이미지로 확인해주세요.**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행)안드로이드, 아이폰 앱 미리보**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**안드로이드폰에서 \[앱미리보기] 실행**</mark>
+<mark style="color:blue;"><mark style="color:orange;">****<mark style="color:orange;"></mark>
+
+<mark style="color:blue;">****</mark><img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2021\_07\_08\_14\_33\_38\_528.gif)
 
@@ -118,9 +120,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:red;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**아이폰에서 \[앱미리보기] 실행**</mark>
+<img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_05\_31\_16\_27\_29\_75.gif)
+![](../.gitbook/assets/수정\_미리보기.gif)
 
 아이폰은 앱 다운이 안되기 때문에 \[미리보기] 버튼을 통해서 제작한 앱을 미리보기로 확인 할 수 있습니다.
 
@@ -134,11 +136,13 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **▶**[ **\[앱(APK) 설치가 안된다면 확인해주세요!!\]**](appoperation/not-installed1.md)
 
-***
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
-> ### <mark style="color:purple;">**앱미리보기에서 제공되는 기능**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱미리보기에서 제공되는 기능
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**1. 부관리자 로그인도 OK!**</mark>
+<mark style="color:purple;">****</mark>
+
+#### <mark style="color:blue;">**1. 부관리자 로그인도 OK!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
@@ -198,9 +202,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 [**\[부관리자 지정 매뉴얼 확인하기\]**](appmanage/pushmember/associate-administrator.md)
 
-***
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**2. QR코드로 앱 미리보기**</mark>&#x20;
+#### &#x20;** **<mark style="color:blue;">**2. QR코드로 앱 미리보기**</mark>&#x20;
 
 스윙 앱미리보기는 관리자 로그인 외에, QR코드로 찍어서도 앱을 미리보기로 확인할 수 있어요
 
@@ -242,7 +246,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2021\_04\_19\_17\_12\_28\_478.gif)
 
-<mark style="color:red;">**★ 다시 QR코드 이용방법을 알려드리면요.**</mark>
+<mark style="color:red;">**★ QR코드 이용방법 정리**</mark>
 
 **스윙투앱 공식 앱 실행 → 앱 미리보기 선택 → \[QR코드로 미리보기] 버튼 선택 → 핸드폰을 해당 QR코드 이미지에 가져다 대면 제작한 앱이 핸드폰에서 미리보기로 실행됩니다.**
 
@@ -250,14 +254,20 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ***
 
-<mark style="color:red;">**★앱 미리보기 안내사항**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**앱 미리보기 안내사항**</mark>
 
 1\)아이폰은 앱 미리보기만 가능합니다. (안드로이드폰처럼 앱 다운은 이용할 수 없으며, 웹뷰/푸시로 제작한 앱은 아이폰에서는 확인 불가)
 
-2\)스윙투앱 프로토타입- <mark style="color:purple;">푸시, 웹뷰로 작업한 앱은 안드로이드폰에서는 앱 다운로드만 가능하며, 아이폰에서는 확인할 수 없습니다.</mark>
+2\)스윙투앱 프로토타입-<mark style="color:purple;">푸시, 웹뷰로 작업한 앱은 안드로이드폰에서는 앱 다운로드만 가능하며, 아이폰에서는 확인할 수 없습니다.</mark>
 
 3\)미리보기로 앱을 이용할 때는 푸시 알림, 공유기능 등이 적용되지 않습니다.
 
 \-푸시 알림, 공유를 이용하셔야 한다면 앱 다운받기를 하여 앱을 설치한 뒤 이용해주세요 (아이폰은 지원 X)
 
 4\)QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이 가능합니다. \*웹뷰, 푸시앱으로 제작한 앱은 이용 불가&#x20;
+{% endhint %}
+
+<mark style="color:red;">****</mark>
+
+<mark style="color:red;">****</mark>
