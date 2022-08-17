@@ -6,7 +6,7 @@
 
 앱에 상품 카테고리를 적용하는 방법과 해당 페이지가 적용된 앱 실행화면을 확인해주세요.&#x20;
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 상품 카테고리 적용하기**&#x20;
 
@@ -42,7 +42,7 @@
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.상품 카테고리는 어디서 등록할 수 있나요?**
 
@@ -52,7 +52,7 @@
 
 앱운영→ 스윙샵- 상품관리→ 상품카테고리등록관리에서 상품 카테고리를 등록할 수 있습니다.&#x20;
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면) 상품 카테고리 적용화면**
 

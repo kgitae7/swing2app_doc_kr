@@ -94,7 +94,7 @@
 
 <mark style="color:red;">\*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.</mark>
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../../.gitbook/assets/image (2).png>) **STEP1 기본정보**
 
@@ -124,9 +124,9 @@
 
 **아이콘과 대기화면은 먼저 제작 가이드라인 매뉴얼을 보시고 만들어주시기 바랍니다!**
 
-**​**[**아이콘 이미지 제작 가이드 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/appicon/)
+**​**[**아이콘 이미지 제작 가이드 보러가기**](../../v2/appbasic/appicon.md)****
 
-[**대기화면 이미지 제작 가이드 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/apploading/)
+****[**대기화면 이미지 제작 가이드 보러가기**](../../v2/appbasic/apploading.md)****
 
 
 
@@ -144,7 +144,7 @@
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../../.gitbook/assets/image (2).png>) STEP2 디자인&#x20;
 
@@ -196,7 +196,7 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:red;">****</mark>![](<../../../.gitbook/assets/image (2).png>) <mark style="color:red;">****</mark> STEP3 페이지
 
@@ -222,7 +222,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩니다.앱 업데이트(앱재제작)을 하지 않아도 됩니다.
 {% endhint %}
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../../.gitbook/assets/image (2).png>) **STEP4 앱제작하기**
 
@@ -254,7 +254,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 제작은 별도 비용이 없이 무료로 이용이 가능합니다.
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ​![](<../../../.gitbook/assets/image (2).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
 
@@ -344,7 +344,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 \*단, 내부 사용 목적의 URL 및 회사 내부 서버에서 이용하는 사이트 주소는 연결이 불가하며, 웹앱으로 제작이 불가합니다.
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ​![](<../../../.gitbook/assets/image (2).png>) **주의사항 및 웹뷰앱 제작 Q\&A**
 

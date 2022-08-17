@@ -62,7 +62,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 구글 애드몹 사이트에서 가입을 하는 방법과 앱 광고 단위 아이디를 만드는 방법을 확인해주세요.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.1 애드몹 가입하기**
 
@@ -98,7 +98,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 아니요로 체크하면 관련 정보들을 못받기 때문에 메일로 다 받아서 애드몹 운영에 참고하시면 됩니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.2 애드몹 시작하기**&#x20;
 
@@ -112,7 +112,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 해당 페이지에서 \[시작하기] 버튼을 선택해서 앱에 광고 단위 아이디를 만들어볼게요!!
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.3 새 앱 설정 - 앱 추가하기**
 
@@ -288,7 +288,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 아래에서 광고 단위 만드는 방법을 확인해주세요.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](../../.gitbook/assets/구분선.PNG)
 
 ### &#x20;**** ![](<../../.gitbook/assets/image (2).png>) **STEP.4 앱 광고 단위 아이디 만들기 – 배너, 전면**
 
@@ -360,7 +360,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 아이디 옆에 복사 버튼을 선택해서 광고 단위 아이디를 각각 복사할 수 있어요.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.5 앱 ID복사하기**
 
@@ -386,7 +386,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 **☞** [**애드몹 플러그인 광고 셋팅방법 보러가기**](admob-apply.md)
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.6 애드몹 운영하기**
 
