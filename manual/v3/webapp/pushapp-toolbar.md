@@ -19,7 +19,7 @@ V3에서는 툴바를 원하는 메뉴들로 직접 구성할 수 있고, 아이
 매뉴얼을 통해서 툴바를 이용하는 방법과 기능들을 어떻게 앱에 적용할 수 있는 지 확인해주세요.
 
 {% hint style="warning" %}
-<mark style="color:red;"><mark style="color:orange;">안내사항<mark style="color:orange;"></mark>
+<mark style="color:red;"><mark style="color:orange;">**안내사항**<mark style="color:orange;"></mark>
 
 1\)툴바는 푸시앱에서만 제공하는 메뉴이며, 웹뷰앱 및 일반 프로토타입에서는 제공되지 않습니다.
 
@@ -104,7 +104,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 
 
-#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **메뉴 리스트 수정방법**
+#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**메뉴 리스트 수정방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EB%A9%94%EB%89%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
 
