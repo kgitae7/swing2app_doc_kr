@@ -4,13 +4,15 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 # STEP1 기본정보
 
+**앱제작 – STEP1 기본정보 입력 단계**
+
 앱제작 V3 제작 매뉴얼 중 STEP1 기본정보 입력 단계 방법을 알려드립니다.
 
 기본정보는 **앱제작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
 
 ****
 
-### **STEP1 기본정보**
+## **STEP1 기본정보**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C1.png)
 
@@ -30,7 +32,7 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.아이콘 이미지 업로드**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)  **아이콘 이미지 업로드**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C1-1.png)
 
@@ -44,7 +46,7 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.대기화면 이미지 업로드**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)  **대기화면 이미지 업로드**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B0%80%EC%9D%B4%EB%93%9C2-1.png)
 
@@ -70,7 +72,7 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.기본정보 입력완료**&#x20;
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)  **기본정보 입력완료**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B4%EC%9E%85%EB%A0%A5%EC%99%84%EB%A3%8C.png)
 
@@ -82,7 +84,7 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 4.**이미지 편집도구란?**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **이미지 편집도구란?**
 
 **이미지편집도구는 앱제작시 이미지 사이즈를 수정해야 할 때 스윙투앱에서 제공하는 편집도구로 간편하게 사이즈를 수정할 수 있는 기능입니다.**
 
