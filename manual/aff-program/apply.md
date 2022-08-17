@@ -60,19 +60,19 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 7\) 제휴신청 버튼을 선택하면 완료됩니다.
 
+{% hint style="info" %}
+**심사 진행**
 
+스윙투앱 팀에서 제휴신청서 심사를 하여 승인합니다.
 
-<mark style="color:orange;">**—— 심사 중——**</mark>
+보통 1\~2일 후  기재해주신 메일로 심사 결과를 알려드립니다.
 
-<mark style="color:orange;">스윙투앱 팀에서 제휴신청서 심사를 하여 승인합니다.</mark>
+심사는 까다롭지 않지만, 신청 내용이 없거나 홍보를 할 수 있는 채널(홈페이지)을 확인할 수 없을 경우는 심사를 반려합니다.
 
-<mark style="color:orange;">보통 1\~2일 후  기재해주신 메일로 심사 결과를 알려드립니다.</mark>
+신청서에 기재해주신 내용으로 심사를 하기 때문에 어떻게 스윙투앱을 홍보하여 활동할 것인지 성의있게 작성해주세요.
+{% endhint %}
 
-<mark style="color:orange;">심사는 까다롭지 않지만, 신청 내용이 없거나 홍보를 할 수 있는 채널(홈페이지)을 확인할 수 없을 경우는 심사를 반려합니다.</mark>
-
-<mark style="color:orange;">신청서에 기재해주신 내용으로 심사를 하기 때문에 어떻게 스윙투앱을 홍보하여 활동할 것인지 성의있게 작성해주세요.</mark>
-
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3.심사 완료 및 승인 완료&#x20;
 
@@ -86,9 +86,9 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 **거절 사유를 확인하여 제휴프로그램은 언제든지 다시 재신청 가능합니다!**
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4.제휴프로그램 운영하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4.제휴프로그램 운영하기
 
 스윙투앱 앱운영 페이지- 내메뉴에 제휴 관리 페이지가 생성됩니다.&#x20;
 
@@ -112,9 +112,9 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 앞으로 관리자는 해당 페이지에서 **건당 배분율, 제휴로 들어온 가입자수, 매출액, 누적수익, 월별 정산 내역** 등을 확인할 수 있어요\~!!
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5.제휴프로그램 수익 정산**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5.제휴프로그램 수익 정산
 
 제휴 프로그램을 통해 매출 수익이 발생했을 경우 **매월 1일 정산이되어, 수익금이 입금됩니다.**
 
@@ -128,33 +128,33 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ***
 
-제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **** 제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
 
-<mark style="background-color:blue;">**▶**</mark>** ** [**제휴프로그램으로 스윙투앱 홍보하기**](promotion.md)
+[**제휴프로그램으로 스윙투앱 홍보하기**](promotion.md)
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**스윙 제휴프로그램의 장점!**</mark><mark style="color:red;">!</mark>
+<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **스윙 제휴프로그램의 장점**
 
-**-지속적인 수익의 보장 & 지급한도 무제한**
+\-지속적인 수익의 보장 & 지급한도 무제한
 
-**-유치한 고객의 매출의 기간제한 없이 평생 커미션 지급**
+\-유치한 고객의 매출의 기간제한 없이 평생 커미션 지급
 
-**-홍보한 만큼의 실적을 한도 없이 수익 수령가능**
+\-홍보한 만큼의 실적을 한도 없이 수익 수령가능
 
-**-매월 1일 한달간의 실적 입금**
+\-매월 1일 한달간의 실적 입금
 
-**​-매월 지급 계좌로 정산 및 입금, 간편 정산 시스템**
+​-매월 지급 계좌로 정산 및 입금, 간편 정산 시스템
 
-**-실시간 정산 예정 금액 확인 가능**
+\-실시간 정산 예정 금액 확인 가능
 
-**-홍보 효과 확인을 위한, 실시간 사용자 유입 통계 제공**
+\-홍보 효과 확인을 위한, 실시간 사용자 유입 통계 제공
 
-**-블로그 SNS 등 매체별 광고 실적 관리 가능**
+\-블로그 SNS 등 매체별 광고 실적 관리 가능
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**제휴프로그램 이용약관**</mark>
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴프로그램 이용약관**
 
 1\. 제휴 프로그램 정산 단가표는 6개월 단위로 변경될 수 있습니다.
 
