@@ -80,13 +80,13 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱 실행화면: 페이앱 결제화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%884\_20.04.png)
+![](../../.gitbook/assets/결제모듈\_22.08.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%885\_20.04.png)
+![](../../.gitbook/assets/결제모듈2\_22.08.png)
 
 **페이앱 결제수단을 선택하면 페이앱에서 제공하는 결제모듈을 선택할 수 있어요.**
 
-네이버페이, 카카오페이, 신용/체크카드 결제/ 페이코, 휴대폰 결제, 계좌 이체 중에서 원하는 결제방식을 선택해서 결제할 수 있습니다.
+스마일페이, 네이버페이, 카카오페이, 페이코, 제로페이, 신용/체크카드 결제, 휴대폰 결제, 계좌 이체 중에서 원하는 결제방식을 선택해서 결제할 수 있습니다.
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
