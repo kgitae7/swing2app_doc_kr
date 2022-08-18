@@ -235,7 +235,7 @@
   * [스윙샵 (스윙 쇼핑몰) 신청방법](manual/swingshop/apply.md)
   * [스윙샵 상품유형](manual/swingshop/product.md)
   * [스윙샵에서 제공하는 페이지 소개](manual/swingshop/pagemanu.md)
-  * [스윙샵 메뉴를 앱에 적용하는 방법](manual/swingshop/app.md)
+  * [쇼핑몰 앱 홈화면 구성방법](manual/swingshop/app.md)
   * [스윙샵 결제화면-페이앱 카드결제, 무통장입금 – 스윙 도우미](manual/swingshop/paystep.md)
   * [스윙샵-쇼핑몰 메인페이지 이용방법](manual/swingshop/shoppingmall-mainpage.md)
   * [스윙샵-쇼핑몰 메인페이지 이미지슬라이드](manual/swingshop/image-slide.md)

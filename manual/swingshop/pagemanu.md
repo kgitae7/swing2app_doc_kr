@@ -1,6 +1,8 @@
-# 스윙샵에서 제공하는 페이지 소개
+---
+description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 메뉴 소개
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%ED%97%A4%EB%8D%941%EC%87%BC%ED%95%91%EB%AA%B0.png)
+# 스윙샵에서 제공하는 페이지 소개
 
 **스윙샵에서 제공하는 페이지 소개**
 
@@ -20,41 +22,33 @@
 
 매뉴얼 보시고 어떤 페이지들이 있는지 확인해주시고, 앱 적용화면도 함께 안내드리겠습니다.&#x20;
 
-<mark style="color:red;"></mark>
-
 <mark style="color:red;">\*스윙샵은 일반 프로토타입(슬라이드, 탑, 푸터, 드롭다운) 앱제작에만 이용 가능합니다.</mark>
 
 <mark style="color:red;">웹사이트를 연결한 웹뷰, 푸시앱은 이용 불가합니다.</mark>&#x20;
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-<mark style="color:orange;">**Q. 스윙샵 페이지는 어디서 확인하고, 어떻게 앱에 적용하나요?**</mark>
+<mark style="color:blue;">**Q. 스윙샵 페이지는 어디서 확인하고, 어떻게 앱에 적용하나요?**</mark>
 
 스윙샵을 신청하면 쇼핑몰에서 운영할 수 있는 기본 페이지들을 제공하는데요.
 
-\*앱제작V2 → 페이지 메뉴 → 메뉴유형: \[스윙 페이지] 선택 → 링크마법사 버튼을 선택하면 스윙샵(쇼핑몰 운영에 필요한 페이지) 관련 페이지들이 자동 생성 됩니다.
+\*앱제작→ STEP3페이지→ 페이지 디자인→ 쇼핑몰 기능: 페이지 선택시 스윙샵(쇼핑몰 운영에 필요한 페이지) 관련 페이지들이 자동 생성 됩니다.
 
-**↓**
+![](<../../.gitbook/assets/쇼핑몰2 (1).png>)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%8A%A4%EC%9C%99%EC%83%B5%EC%97%85%EB%8E%831-1.png)
-
-스윙샵을 신청하시면 쇼핑몰 관련 페이지가 기본으로 모두 제공됩니다. !!
-
-\*앱제작V2 → 페이지 메뉴 → 메뉴유형: \[스윙 페이지] 선택 → 링크마법사 버튼을 선택하면 스윙샵(쇼핑몰 운영에 필요한 페이지) 관련 페이지들이 자동 생성 됩니다.
-
-> <mark style="color:purple;">**\[제공되는 스윙샵 페이지 안내]**</mark>
+> **\[제공되는 스윙샵 페이지 안내]**
 >
-> <mark style="color:purple;">**-고객(사용자용)페이지: 장바구니, 마이페이지**</mark>
+> \-고객(사용자용)페이지: 장바구니, 마이페이지
 >
-> <mark style="color:purple;">**-쇼핑몰 메인, 쇼핑몰 정보**</mark>
+> \-쇼핑몰 메인, 쇼핑몰 정보
 >
-> <mark style="color:purple;">**-카테고리 리스트**</mark>
+> \-카테고리 리스트
 >
-> <mark style="color:purple;">**-디지털 상품 구매 완료 페이지**</mark>
+> \-디지털 상품 구매 완료 페이지
 >
-> <mark style="color:purple;">**-날짜 예약상품 예약하기, 날짜+시간 예약상품 예약하기**</mark>
+> \-날짜 예약상품 예약하기, 날짜+시간 예약상품 예약하기
 >
-> <mark style="color:purple;">**-상품 검색**</mark>
+> \-상품 검색
 
 ​따라서 스윙샵을 이용하시는 분들은 앱제작 페이지에서 스윙페이지를 선택하시면 스윙샵에 관련된 메뉴들을 모두 확인할 수 있구요.
 
@@ -66,9 +60,9 @@
 
 아래 매뉴얼을 통해서 각 페이지별 앱 실행화면을 보여드릴게요 \~!!
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**1. 장바구니**</mark>
+### **1. 장바구니**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png)
 
@@ -78,11 +72,9 @@
 
 **장바구니에 넣은 상품을 확인하여 구매할 수 있습니다.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-### <mark style="color:blue;">**2. 카테고리 리스트**</mark>
+### **2. 카테고리 리스트**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png)
 
@@ -102,11 +94,9 @@
 
 따라서 이렇게 만들어놓은 카테고리도, 카테고리 리스트 페이지로 앱 메뉴 구성을 할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-### <mark style="color:blue;">**3. 디지털 상품 구매완료 페이지**</mark>
+### **3. 디지털 상품 구매완료 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%83%81%ED%92%88.png)
 
@@ -120,11 +110,9 @@
 
 해당 페이지를 적용하셔야 앱에서 사용자들이 구매한 컨텐츠를 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-<mark style="color:blue;">**4. 마이페이지**</mark>
+### **4. 마이페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
@@ -134,11 +122,9 @@
 
 이미지에서 보시는 것처럼 주문현황, 배송조회, 배송완료, 구매완료 , 교환 조회 등의 기능을 제공합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-### <mark style="color:blue;">**5. 쇼핑몰 메인**</mark>
+### **5. 쇼핑몰 메인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png)
 
@@ -152,11 +138,9 @@
 
 반드시 해당 페이지를 홈화면으로 적용해야 하는 것은 아니니 앱 스타일에 맞게 꾸며주시면 됩니다 ^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-### <mark style="color:blue;">**6. 쇼핑몰 정보**</mark>
+### **6. 쇼핑몰 정보**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
 
@@ -164,11 +148,9 @@
 
 쇼핑몰 기본 정보로 구성된 페이지로 고객센터 및 운영시간 등을 제공합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-<mark style="color:blue;"></mark>
-
-### <mark style="color:blue;">**7.상품 검색**</mark>
+### **7. 상품 검색**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
 
@@ -180,11 +162,9 @@
 
 \*필터를 선택하면 – 우선순위, 최신순, 상품가격순, 인기순으로 필터링 됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-### <mark style="color:blue;">**8. 기간(날짜)예약 상품 예약하기**</mark>
+### **8. 기간(날짜)예약 상품 예약하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%82%A0%EC%A7%9C%EC%98%88%EC%95%BD%EC%83%81%ED%92%88.png)
 
@@ -200,11 +180,9 @@
 
 날짜 조회가 완료되면 해당 날짜에 예약가능한 상품이 조회됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-
-### <mark style="color:blue;">**9. 시간+날짜 예약상품 예약하기**</mark>
+### **9. 시간+날짜 예약상품 예약하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%8B%9C%EA%B0%84%EC%98%88%EC%95%BD%EC%83%81%ED%92%88.png)
 
@@ -220,7 +198,10 @@
 
 ***
 
+{% hint style="warning" %}
 <mark style="color:orange;">**스윙샵 (쇼핑몰) 기본 페이지 안내사항**</mark>
+
+
 
 1\)스윙샵에서 제공되는 스윙 페이지는 디자인 및 별도 수정이 불가합니다.
 
@@ -249,3 +230,6 @@
 
 
 3\) 가상머신으로 적용된 화면을 확인할 수 있으니, 제작시 가상머신을 100% 활용해주세요 ^^
+{% endhint %}
+
+<mark style="color:orange;">****</mark>
