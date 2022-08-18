@@ -1,8 +1,6 @@
----
-description: 쇼핑몰 앱 상품 구매 결제 화면 - 페이앱 카드결제, 무통장입금
----
+# 스윙샵 결제화면-페이앱 카드결제, 무통장입금 – 스윙 도우미
 
-# 스윙샵 - 쇼핑몰앱 결제화면
+![](https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EB%8F%84%EC%9B%80%EB%A7%90-%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%A0%9C%EB%AA%A9%EC%95%B1%EC%A0%9C%EC%9E%91%EC%9A%A9.png)
 
 **스윙샵(쇼핑몰)앱 상품 결제 화면**
 
@@ -10,7 +8,7 @@ description: 쇼핑몰 앱 상품 구매 결제 화면 - 페이앱 카드결제,
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 페이앱 결제모듈 – 카드 결제 화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **페이앱 결제모듈 – 카드 결제 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8E%98%EC%9D%B4%EC%95%B1-%EC%B9%B4%EB%93%9C%EA%B2%B0%EC%A0%9C-2.png)
 
@@ -20,9 +18,9 @@ description: 쇼핑몰 앱 상품 구매 결제 화면 - 페이앱 카드결제,
 
 따라서 결제시 원하는 결제 방식을 선택하여 상품을 구매할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 무통장입금 결제화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **무통장입금 결제화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%95%B1-%EB%AC%B4%ED%86%B5%EC%9E%A5%EA%B2%B0%EC%A0%9C-2.png)
 
