@@ -104,7 +104,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<mark style="color:blue;">**1)웹 템플릿 페이지 이용하기**</mark>
+<mark style="color:blue;">**1)템플릿 페이지 이용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B45.png)
 
@@ -202,7 +202,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 이렇게 다양한 웹템플릿 디자인을 이용해서 쇼핑몰 화면을 구성할 수 있어요!
 
-***
+![](../../.gitbook/assets/줄라인.PNG)
 
 <mark style="color:blue;">**2)이미지 페이지 이용하기**</mark>
 
