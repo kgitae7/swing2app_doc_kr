@@ -236,7 +236,7 @@
   * [스윙샵 상품유형](manual/swingshop/product.md)
   * [스윙샵에서 제공하는 페이지 소개](manual/swingshop/pagemanu.md)
   * [쇼핑몰 앱 홈화면 구성방법](manual/swingshop/app.md)
-  * [스윙샵 - 쇼핑몰앱 결제화면](manual/swingshop/paystep.md)
+  * [스윙샵-쇼핑몰앱 결제화면](manual/swingshop/paystep.md)
   * [스윙샵-쇼핑몰 메인페이지 이용방법](manual/swingshop/shoppingmall-mainpage.md)
   * [스윙샵-쇼핑몰 메인페이지 이미지 슬라이드](manual/swingshop/image-slide.md)
   * [상점관리-결제모듈관리](manual/swingshop/payment-module.md)
