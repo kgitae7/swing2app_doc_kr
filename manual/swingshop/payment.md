@@ -50,7 +50,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### **1. 페이앱 전자결제**
+### ****![](<../../.gitbook/assets/image (2).png>)**1. 페이앱 전자결제**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886\_20.png)
 
@@ -74,13 +74,13 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
 
 **1)푸시 알림**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png)
 
-<mark style="color:purple;">**-앱으로는 관리자에게 구매알림 푸시가 들어옵니다.**</mark>
+**-앱으로는 관리자에게 구매알림 푸시가 들어옵니다.**
 
 앱 푸시는 앱에서 관리자로 로그인 되어 있어야 푸시가 들어옵니다.
 
@@ -90,7 +90,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png)
 
-<mark style="color:purple;">**-메일로도 알림이 들어옵니다.**</mark>
+**-메일로도 알림이 들어옵니다.**
 
 메일은 스윙투앱 계정 이메일로 들어와요.
 
@@ -108,7 +108,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### **2. 무통장입금 결제 화면**
+### ****![](<../../.gitbook/assets/image (2).png>)**2. 무통장입금 결제 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887\_20.png)
 
@@ -132,7 +132,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**관리자(앱 운영자)는 어떻게 무통장 입금 확인 요청 메일을 받을 수 있나요?**</mark>
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 어떻게 무통장 입금 확인 요청 메일을 받을 수 있나요?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8811\_20.04.png)
 
@@ -144,7 +144,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### **3. 대면결제(현금) 화면**
+### ****![](<../../.gitbook/assets/image (2).png>)**3. 대면결제(현금) 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803\_20.04.png)
 
@@ -160,7 +160,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**현장결제 화면**</mark>
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**현장결제 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802\_20.04.png)
 
@@ -176,7 +176,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
 
 **1)푸시 알림**
 
