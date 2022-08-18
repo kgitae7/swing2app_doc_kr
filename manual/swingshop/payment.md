@@ -12,9 +12,9 @@
 
 쇼핑몰 앱에서 결제수단별 결제화면이 어떻게 보여지는지 확인해주세요.
 
-***
+****
 
-> **쇼핑몰 결제모듈 확인하기**
+**쇼핑몰 결제모듈 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804\_20.04.png)
 
@@ -46,21 +46,21 @@
 
 **☞** [**스윙샵 상점관리 결제모듈관리 이용방법 보러가기**](payment-module.md)
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**1. 페이앱 전자결제**</mark>
+### **1. 페이앱 전자결제**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886\_20.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%884\_20.04.png)
-
 페이앱 결제모듈 선택시, 페이앱 결제 화면으로 이동합니다.
 
+![](../../.gitbook/assets/결제모듈\_22.08.png)
 
+![](../../.gitbook/assets/결제모듈2\_22.08.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%885\_20.04.png)
+페이앱은 다양한 결제 방식을 제공하고 있습니다.
 
-**네이버페이, 카카오페이, 신용/체크카드 결제/ 페이코, 휴대폰 결제, 계좌 이체 중에서 원하는 결제방식을 선택해서 결제할 수 있습니다.**
+스마일페이, 네이버페이, 카카오페이, 페이코, 제로페이, 신용/체크카드 결제, 휴대폰 결제, 계좌 이체 중에서 원하는 결제방식을 선택해서 결제할 수 있습니다.
 
 ****
 
@@ -104,9 +104,9 @@
 
 **☞** [**\[통합 알림 설정 이용방법 상세보기\]**](../appmanage/service/integration-notification.md)
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**2. 무통장입금 결제 화면**</mark>
+### **2. 무통장입금 결제 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887\_20.png)
 
@@ -140,9 +140,9 @@
 
 관리자는 무통장 입금 메일을 확인한 뒤, 실제 은행 계좌로 입금이 되었는지 매칭 후 상품 결제완료를 체크해주시면 됩니다.
 
-<mark style="color:blue;"></mark>
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**3. 대면결제(현금) 화면 \_ 2020.04 추가**</mark>
+### **3. 대면결제(현금) 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803\_20.04.png)
 
