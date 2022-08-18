@@ -1,10 +1,8 @@
+---
+description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력하는 방법
+---
+
 # 상점관리-기본정보설정
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B4-%EC%A0%9C%EB%AA%A9.png)
-
-**\[스윙샵] 상점관리 – 기본정보 설정하기**
-
-**스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력하는 방법을 알려드리겠습니다.**
 
 **스윙샵에서는 쇼핑몰 앱을 만드는데 유용하게 활용할 수 있도록  \[쇼핑몰 메인, 쇼핑몰 정보] 페이지를 제공하고 있습니다.**
 
@@ -14,9 +12,9 @@
 
 **매뉴얼에서 상점관리 – 기본정보를 입력하는 방법과 앱에서 해당 내용이 어떻게 보여지는지 알려드리겠습니다.**
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 스윙샵 – 상점관리- 기본정보 설정 페이지 이동**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP1. 스윙샵 – 상점관리- 기본정보 설정 페이지 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%EA%B4%80%EB%A6%AC.png)
 
@@ -27,9 +25,11 @@
 기본정보에서 입력한 항목들이 앱- 쇼핑몰 메인 화면에서 보이게 됩니다.\
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.2  기본정보 내용 입력하기**</mark>
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-기본정보 항목들을 순서대로 입력해볼게요 ^^
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.  기본정보 내용 입력하기**
+
+기본정보 항목들을 순서대로 입력해볼게요
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B41.png)
 
@@ -41,11 +41,11 @@
 
 
 
-<mark style="color:orange;">**\[앱 실행화면]**</mark>
+<mark style="color:blue;"><mark style="color:orange;">**\[앱 실행화면]**<mark style="color:orange;"></mark>
 
-**\*1번\~5번 항목에서 입력한 내용이 앱에서는 어떻게 보여지는지 확인해볼게요.**
+\*1번\~5번 항목에서 입력한 내용이 앱에서는 어떻게 보여지는지 확인해볼게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B4\_%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41-540x1024.png)
+![](../../.gitbook/assets/스윙샵-기본정보\_앱실행화면1-540x1024.png)
 
 \* 상점이름, 이메일,주소, 상점 소개말은 모두 쇼핑몰정보 페이지에서 확인할 수 있습니다.&#x20;
 
@@ -106,9 +106,9 @@
 
 \* 상점푸터: 쇼핑몰메인 페이지 하단에서 확인할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.3  앱에 적용하기 – 쇼핑몰 정보, 쇼핑몰메인**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. <mark style="color:blue;"></mark> 앱에 적용하기 – 쇼핑몰 정보, 쇼핑몰메인
 
 **+쇼핑몰정보, 쇼핑몰메인은 어디에서 적용할 수 있나요?**
 
@@ -116,7 +116,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0%EC%A0%95%EB%B3%B4%EB%A9%94%EC%9D%B8.png)
 
-<mark style="color:purple;">앱제작 → 페이지 메뉴 이동</mark>
+앱제작 → 페이지 메뉴 이동
 
 1\)홈화면 선택
 
@@ -134,22 +134,24 @@
 
 <mark style="color:orange;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)<mark style="color:orange;"></mark>
 
-<mark style="color:orange;">**쇼핑몰 정보 앱 실행화면**</mark>
+<mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
 
 ****
 
-<mark style="color:orange;">**쇼핑몰 메인 앱 실행화면**</mark>
+<mark style="color:blue;">**쇼핑몰 메인 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png)
 
-***
-
-<mark style="color:red;">**\[안내사항]**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
 스윙샵 상점관리- 기본정보 설정 메뉴에서 입력한 내용은  스윙페이지\[쇼핑몰 메인, 쇼핑몰 정보] 페이지 2개에 나눠서 정보가 입력이 됩니다.&#x20;
 
 즉, **기본정보에 입력된 내용들은 ‘쇼핑몰 메인’과 ‘쇼핑몰 정보’ 페이지에 2개에서 보여지기 때문에 해당 페이지를 앱에서 모두 노출시켜야만 기본정보가 보여집니다.**
 
 그러나 해당 페이지 역시 스윙에서 기본으로 제공하는 옵션이기 때문에 사용자가 직접 쇼핑몰 메인 페이지, 정보 페이지를 따로 만들어서 적용하셔도 됩니다.
+{% endhint %}
+
+<mark style="color:red;">****</mark>
