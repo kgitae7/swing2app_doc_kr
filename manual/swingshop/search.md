@@ -1,24 +1,20 @@
+---
+description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  앱에 적용하는 방법
+---
+
 # 스윙페이지-상품검색
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89%EC%A0%9C%EB%AA%A9.png)
-
-**상품검색 이용방법**
-
-스윙샵에서 제공하는 페이지 중 ‘상품검색’을  앱에 적용하는 방법을 알려드립니다.
 
 상품검색은 **스윙샵에 등록된 상품을 검색할 수 있는 페이지**구요.
 
 상품 검색 외에도 등록된 모든 상품을 리스트로 보여주며, 목록&필터 기능을 이용하여 상품을 조회할 수 있습니다.&#x20;
 
-***
-
-<mark style="color:orange;">**상품검색 앱 실행화면**</mark>
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱에 상품검색 메뉴 적용하기**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 상품검색 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%891.png)
 
@@ -48,9 +44,9 @@
 
 스윙샵에서 상품 등록을 완료한 뒤 상품검색 페이지를 앱에 적용해주시기 바랍니다.&#x20;
 
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 상품검색 페이지 앱 실행화면**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 상품검색 페이지 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_17\_17\_34\_18\_503.gif)
 
@@ -61,3 +57,4 @@
 \*목록 : 큰 목록 보기, 앨범형보기, 목록형 보기로 선택하여 볼 수 있습니다.&#x20;
 
 \*필터 : 우선순위 , 상품 등록순(최신순), 상품가격, 인기 순으로 필터링하여 볼 수 있습니다.&#x20;
+

@@ -1,8 +1,8 @@
+---
+description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 관리하는 방법
+---
+
 # 주문관리 이용방법
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC-%EC%A0%9C%EB%AA%A9.png)
-
-**스윙샵 – 주문관리에서 주문된 상품들의 목록을 관리하는 방법**
 
 스윙샵의 주문관리는 사용자들이 주문한 상품목록을 확인하여 관리할 수 있는 페이지입니다.
 
@@ -10,17 +10,17 @@
 
 주문 ID를 통해서 결제한 사용자 정보, 결제수단, 배송정보, 주문 상태 등의 정보를 모두 확인할 수 있습니다.
 
-<mark style="color:red;">**\*중요\* 어떤 상품을 판매하는지에 따라서 이동해야 하는 페이지가 달라요!**</mark>
+<mark style="color:red;">\*중요\* 어떤 상품을 판매하는지에 따라서 이동해야 하는 페이지가 달라요!</mark>
 
-> <mark style="color:purple;">**– 실물상품 유형 → 주문관리**</mark>
+> – 실물상품 유형 → 주문관리
 >
-> <mark style="color:purple;">**– 디지털 상품 유형 → 디지털 주문관리**</mark>
+> – 디지털 상품 유형 → 디지털 주문관리
 >
-> <mark style="color:purple;">**– 예약 상품 유형 → 예약 주문관리 메뉴로 이동해서 확인합니다.**</mark>
+> – 예약 상품 유형 → 예약 주문관리 메뉴로 이동해서 확인합니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 실물상품 판매 : 주문관리**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 실물상품 판매 : 주문관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC.png)
 
@@ -48,9 +48,9 @@
 
 배송상품일 경우는 택배회사 입력과 함께 운송장 번호를 입력하여 저장할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 디지털 상품 판매 : 디지털 주문관리**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 디지털 상품 판매 : 디지털 주문관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC.png)
 
@@ -62,9 +62,9 @@
 
 마찬가지로 주문리스트에서 <mark style="color:green;">**‘주문ID’**</mark>를 선택하면, 사용자의 주문정보 팝업을 확인할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 예약상품 판매 : 예약주문관리**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 예약상품 판매 : 예약주문관리**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png)
 
@@ -78,7 +78,7 @@
 
 해당 날짜에 예약된 상품이 있을 경우 달력에 파란색 줄로 표시가 되며, 예약 건수가 함께 표시되요.
 
-<mark style="color:green;">**\*캘린더에서 예약건을 선택하면 주문 목록을 확인할 수 있습니다.**</mark>
+**\*캘린더에서 예약건을 선택하면 주문 목록을 확인할 수 있습니다.**
 
 <mark style="color:green;">****</mark>
 
@@ -92,7 +92,10 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**안내사항**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
+
+<mark style="color:orange;">****</mark>
 
 **1) 스윙샵 앱제작 상품 유형에 따라서, 주문관리 페이지는 각각 따로 운영됩니다.**
 
@@ -109,9 +112,6 @@
 \*일반 앱운영에서는 스윙샵 메뉴가 생성되지 않아요.
 
 따라서 주문관리: 주문정보 기능은 스윙샵을 이용하고 실제 상품을 판매 운영하는 분들에 한해서 이용할 수 있습니다.
+{% endhint %}
 
-​
-
-**이상으로 앱제작 스윙투앱에서 스윙샵:주문관리 메뉴에 대한 이용방법을 알려드렸습니다.**
-
-**다양한 상품유형으로 쇼핑몰을 운영할 수 있는 만큼! 앱제작 시 각 상품에 맞는 주문관리 페이지를 이용해주시기 바랍니다.**
+<mark style="color:orange;">****</mark>
