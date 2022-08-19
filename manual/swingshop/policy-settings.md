@@ -1,10 +1,10 @@
----
-description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정하는 방법 안내
----
-
 # 상점관리-정책설정하기
 
-쇼핑몰 상점정책은 – 쇼핑몰에서의 상품 교환, 반품 등의 정책, 이용약관 등을 설정하는 메뉴입니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-%EC%A0%9C%EB%AA%A9.png)
+
+**\[스윙샵] 상점관리 – 정책설정 이용방법**
+
+<mark style="color:blue;">**쇼핑몰 상점정책은 – 쇼핑몰에서의 상품 교환, 반품 등의 정책, 이용약관 등을 설정하는 메뉴입니다.**</mark>
 
 쇼핑몰에서는 사용자들에게 올바른 정보 제공 및 이용정책을 설정하는 것이 굉장히 중요하기 때문에\~!!
 
@@ -14,9 +14,9 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 **\*정책설정 방법- 이용정책, 교환 및 반품정책, 비회원 권한 설정을 알려드리겠습니다.**
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1. **<mark style="color:blue;">****</mark>** 정책 설정 메뉴 이동**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 스윙샵-상점관리-정책 설정 메뉴 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95.png)
 
@@ -38,11 +38,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 <mark style="color:red;">\*교환 및 반품, 쇼핑몰 이용약관 정책내용은 스윙에서 기본 셋팅해서 제공하고 있어요.</mark>
 
-<mark style="color:red;">\[수정하기]버튼을 눌러서 원하는 내용으로 수정해주시면 됩니다.</mark>
+<mark style="color:red;">따라서 \[수정하기]버튼을 눌러서 원하는 내용으로 수정해주시면 됩니다.</mark>
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 교환 및 반품, 쇼핑몰 이용약관 정책**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 교환 및 반품, 쇼핑몰 이용약관 정책**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%952.png)
 
@@ -52,7 +52,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 
 
-<mark style="color:orange;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**교환 및 환불정책 & 이용약관 정책 – 앱 실행화면**</mark>
+<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**교환 및 환불정책 & 이용약관 정책 – 앱 실행화면**</mark>
 
 이용정책이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요\~!!
 
@@ -62,11 +62,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 교환 및 환불정책 관련 멘트도 앱 화면 하단에서 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 비회원 권한 설정**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 비회원 권한 설정**</mark>
 
-비회원 권한을 설정하는 방법을 알아보겠습니다.
+**비회원 권한을 설정하는 방법을 알아보겠습니다.\~!!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%953.png)
 
@@ -80,15 +80,14 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ****
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**앱 실행화면-비회원 권한 설정**</mark>
+<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면-비회원 권한 설정**</mark>
 
-비회원 권한설정이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요.
+**비회원 권한설정이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요\~!!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95-%EB%B9%84%ED%9A%8C%EC%9B%90%EA%B6%8C%ED%95%9C.png)
 
 **비회원 권한 설정에서 비회원은 글 남기기, 리뷰, 구매가 모두 안되도록 설정했구요**.
 
-<mark style="color:red;">회원가입을 하지 않은 손님 상태에서 리뷰- 리뷰 남기기, 질의-문의하기 버튼을 선택하면 위의 이미지저럼 비회원은 접근할 수 없다는 메시지창이 뜹니다.</mark>
+<mark style="color:orange;">회원가입을 하지 않은 손님 상태에서</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**리뷰- 리뷰 남기기, 질의-문의하기 버튼을 선택하면 위의 이미지저럼 비회원은 접근할 수 없다는 메시지창이 뜹니다.**</mark>
 
-권한 설정을 어떻게 체크하느냐에 따라서 비회원도 상품 구매를 할 수 있고, 리뷰를 할 수 있는 등 설정을 자유롭게 풀어줄 수 있습니다.
-
+권한 설정을 어떻게 체크하느냐에 따라서 비회원도 상품 구매를 할 수 있고, 리뷰를 할 수 있는 등 설정을 자유롭게 풀어줄 수 있습니다. ^^
