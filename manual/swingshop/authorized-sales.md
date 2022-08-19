@@ -74,7 +74,9 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 새로운 권한 그룹이 생성되었습니다. (권한은 추가적으로 수정 및 삭제가 가능합니다.)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 게시판 관리 – 권한 설정하기**</mark>
+![](<../../.gitbook/assets/구분선 (1).PNG>)
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 게시판 관리 – 권한 설정하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EA%B6%8C%ED%95%9C8\_19.09.png)
 
@@ -94,13 +96,13 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 이제부터는 스윙샵 메뉴에서 본격적으로 카테고리를 만든 뒤 권한 상품을 등록해보겠습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 스윙샵 신청 후 상품 카테고리 등록**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 스윙샵 신청 후 상품 카테고리 등록**
 
 **먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!**
 
-**☞**[ **스윙샵 신청방법 보러가기**](broken-reference)
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
@@ -138,7 +140,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 디지털 – 권한 변경 상품 등록하기**
 
-<mark style="color:orange;">**카테고리 등록이 끝났다면! 본격적으로 디지털 상품 중에서 ‘권한변경’ 상품을 적용하고 등록해볼게요.**</mark>
+카테고리 등록이 끝났다면! 본격적으로 디지털 상품 중에서 ‘권한변경’ 상품을 적용하고 등록해볼게요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
 
@@ -240,7 +242,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 
 
-상품 카테고리 적용하기
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**상품 카테고리 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%93%B1%EA%B8%89%EA%B6%8C%ED%95%9C.png)
 
@@ -286,15 +288,15 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 그리고 샘플앱을 통해서 권한 변경 상품을 구매하고, 이용하는 방법도 확인할 수 있습니다. ^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B6%8C%ED%95%9C%ED%8C%90%EB%A7%A410.png)
+![](../../.gitbook/assets/권한판매10.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B6%8C%ED%95%9C%ED%8C%90%EB%A7%A411.png)
+![](../../.gitbook/assets/권한판매11.png)
 
 마스터 권한 구매가 완료되었습니다.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B6%8C%ED%95%9C%ED%8C%90%EB%A7%A414.png)
+![](<../../.gitbook/assets/권한판매14 (1).png>)
 
 구매가 완료된 동시에 권한이 ‘마스터’로 변경이 됩니다.
 
@@ -302,7 +304,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ****
 
-**\[권한 구매 전]**
+<mark style="color:blue;">**\[권한 구매 전]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B6%8C%ED%95%9C%ED%8C%90%EB%A7%A49.png)
 
@@ -310,7 +312,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 
 
-<mark style="color:orange;">**\[마스터 권한 구매 완료 후 접근]**</mark>
+<mark style="color:blue;">**\[마스터 권한 구매 완료 후 접근]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B6%8C%ED%95%9C%ED%8C%90%EB%A7%A412.png)
 
