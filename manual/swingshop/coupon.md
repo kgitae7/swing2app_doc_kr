@@ -26,9 +26,9 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP1 쿠폰 만들기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 쿠폰 만들기**
 
-<mark style="color:orange;">다른 스윙샵 상품 등록과는 다르게!! 쿠폰을 판매할 때는 쿠폰 관리 페이지에서 쿠폰을 등록해주셔야 합니다.</mark>
+다른 스윙샵 상품 등록과는 다르게!! 쿠폰을 판매할 때는 쿠폰 관리 페이지에서 쿠폰을 등록해주셔야 합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A41\_19.09.png)
 
@@ -60,29 +60,27 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A43\_19.09.png)
 
-**쿠폰 등록이 완료 되었습니다!**
+쿠폰 등록이 완료 되었습니다!
 
-**만들어진 쿠폰 오른쪽에는 관리 기능이 있어서 해당 쿠폰을 수정하거나, 삭제할 수도 있어요.**
+만들어진 쿠폰 오른쪽에는 관리 기능이 있어서 해당 쿠폰을 수정하거나, 삭제할 수도 있어요.
 
-**이제 쿠폰은 다 만들었구요. 스윙샵 메뉴로 이동해서 판매할 쿠폰을 등록해볼게요\~!**
+이제 쿠폰은 다 만들었구요. 스윙샵 메뉴로 이동해서 판매할 쿠폰을 등록해볼게요\~!
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-&#x20;
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2스윙샵 신청 후 상품 카테고리 등록**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 스윙샵 신청 후 상품 카테고리 등록**
 
 **먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!**
 
-**☞**[ **스윙샵 신청방법 보러가기**](broken-reference)
-
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
+
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09.png)
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
-<mark style="color:red;">**\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!**</mark>
+<mark style="color:red;">\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!</mark>
 
 **스윙샵 → 상품관리→ 상품카테고리 등록관리 메뉴로 이동합니다.**
 
@@ -94,9 +92,9 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 카테고리 관리 창에서 2)카테고리명 2) 대표이미지 3)카테고리 설명 5)우선순위 6)표시여부 체크 7) 저장하기 버튼을 선택합니다.
 
-<mark style="color:red;">**\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.**</mark>
+<mark style="color:red;">\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.</mark>
 
-<mark style="color:red;">**\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.**</mark>
+<mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
 
 <mark style="color:red;">****</mark>
 
@@ -108,9 +106,9 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3  디지털 제품 \[쿠폰] 선택**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP3  디지털 제품 \[쿠폰] 선택**</mark>
 
 <mark style="color:orange;">**카테고리 등록이 끝났다면! 본격적으로 디지털 상품 중에서’쿠폰’을 적용하고 등록해볼게요.**</mark>
 
@@ -132,11 +130,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 4\. 쿠폰 수량: 판매되는 수량을 입력해주세요.
 
-<mark style="color:red;">**-기본 수량은 1입니다. \*결제시 쿠폰이 1개 발행**</mark>
+<mark style="color:red;">-기본 수량은 1입니다. \*결제시 쿠폰이 1개 발행</mark>
 
-<mark style="color:red;">**-쿠폰에 따라 구매시 쿠폰이 여러장 발행되어야 한다면, 수량에 원하는 갯수를 입력해주시면 됩니다.**</mark>
+<mark style="color:red;">-쿠폰에 따라 구매시 쿠폰이 여러장 발행되어야 한다면, 수량에 원하는 갯수를 입력해주시면 됩니다.</mark>
 
-<mark style="color:red;">**예시) 10,000원에 무제한으로 음료를 드실 수 있는 무제한 음료 쿠폰 3장을 드립니다! =>이러한 이벤트에 활용할 수 있어요.**</mark>
+<mark style="color:red;">예시) 10,000원에 무제한으로 음료를 드실 수 있는 무제한 음료 쿠폰 3장을 드립니다! =>이러한 이벤트에 활용할 수 있어요.</mark>
 
 5\. 상품명 : 상품 이름을 입력해주세요.
 
@@ -160,9 +158,9 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 12: 상품 할인 제공: 상품이 원가격 그대로 보이게 할지, 할인을 적용할 것인지 선택합니다.
 
-<mark style="color:red;">**\*할인을 “예”로 체크할 경우, 할인금액 및 할인기간을 정하는 옵션창이 뜹니다.**</mark>
+<mark style="color:red;">\*할인을 “예”로 체크할 경우, 할인금액 및 할인기간을 정하는 옵션창이 뜹니다.</mark>
 
-<mark style="color:red;">**\*할인금액은 할인이 된 최종 금액을 입력해주셔야 합니다.**</mark>
+<mark style="color:red;">\*할인금액은 할인이 된 최종 금액을 입력해주셔야 합니다.</mark>
 
 13\. 재고 관리 사용: 상품 재고관리를 사용할 것인지 체크합니다. / 수량 체크를 한다면, 판매할 수량을 입력해주세요.
 
@@ -174,7 +172,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
+<mark style="color:orange;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -206,13 +204,15 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱에 상품 카테고리 적용하기**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP4 앱에 상품 카테고리 적용하기**</mark>&#x20;
 
 <mark style="color:orange;">**위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.**</mark>
 
-> **01. 상품 카테고리 적용하기​**
+<mark style="color:orange;">****</mark>
+
+**1. 상품 카테고리 적용하기​**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC4.png)
 
@@ -250,7 +250,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 
 
-> **02. 템플릿 페이지로 적용하기**
+**2. 템플릿 페이지로 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A49\_19.09-1.png)
 
@@ -268,7 +268,9 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A411\_19.09.png)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.5 스윙카페 샘플앱) 쿠폰 구매 확인하기**</mark>
+![](<../../.gitbook/assets/구분선 (1).PNG>)
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP5 스윙카페 샘플앱) 쿠폰 구매 확인하기**</mark>
 
 스윙 카페 샘플앱을 통해서 앱에 쿠폰 디지털제품이 어떻게 등록되었는지 확인해주세요.
 
