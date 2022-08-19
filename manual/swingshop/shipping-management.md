@@ -1,8 +1,8 @@
+---
+description: 상점관리에서 배송비 설정, 배송정보를 입력하는 방법 안내
+---
+
 # 상점관리-배송관리
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%B0%B0%EC%86%A1%EC%A0%95%EB%B3%B4-%EC%A0%9C%EB%AA%A9.png)
-
-**스윙샵 상점관리 – 배송관리 이용방법에 대해서 알려드리겠습니다.**
 
 배송관리는 상품의 배송비 및 무료배송이 가능한 금액 상한선을 입력할 수 있는 메뉴입니다.
 
@@ -14,13 +14,15 @@
 
 **매뉴얼을 통해서 스윙샵 상점관리 – 배송관리 이용방법과 실제 배송관리 메뉴를 적용한 앱 실행화면도 함께 확인해보겠습니다.**
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 배송관리**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.png)
 
 **스윙샵 신청후** [**스윙샵 → 1)상점관리 → 2)배송관리** ](http://www.swing2app.co.kr/view/store\_info\_delivery\_setting)**페이지로 이동합니다.**
+
+****
 
 ***
 
