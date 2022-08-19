@@ -24,7 +24,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 상품 카테고리 등록관리**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품 카테고리 등록관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%93%B1%EB%A1%9D-1.png)
 
@@ -34,35 +34,35 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 상품 카테고리 등록하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 상품 카테고리 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09.png)
 
 상품카테고리 등록관리 페이지에 보이는
 
-**1) 등록하기 버튼을 선택해주세요.**
+1\) 등록하기 버튼을 선택해주세요.
 
-**2)카테고리 명: 카테고리 이름을 입력해주세요.**
+2\)카테고리 명: 카테고리 이름을 입력해주세요.
 
-**3)대표 이미지: 카테고리 메인타이틀에 보여질 이미지를 등록해주세요. (권장 사이즈x, 최소 500px 이상으로 작업)**
+3\)대표 이미지: 카테고리 메인타이틀에 보여질 이미지를 등록해주세요. (권장 사이즈x, 최소 500px 이상으로 작업)
 
-**4)카테고리 설명: 해당 카테고리에 대한 간단한 설명글을 입력해주세요.**
+4\)카테고리 설명: 해당 카테고리에 대한 간단한 설명글을 입력해주세요.
 
-**5)우선순위: 카테고리가 보여지는 순서이구요.**&#x20;
+5\)우선순위: 카테고리가 보여지는 순서이구요.&#x20;
 
-**6)표시여부: 해당 카테고리를 바로 앱에 표시할지, 안할지를 선택하는 항목입니다. “예” 에 체크해주세요.**
+6\)표시여부: 해당 카테고리를 바로 앱에 표시할지, 안할지를 선택하는 항목입니다. “예” 에 체크해주세요.
 
-**7)저장하기 버튼을 누르면 완료됩니다.**
+7\)저장하기 버튼을 누르면 완료됩니다.
 
 {% hint style="success" %}
-<mark style="color:red;">\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.</mark>
+\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.
 
-<mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
+\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.
 {% endhint %}
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 카테고리 등록 완료**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 카테고리 등록 완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3\_19.09.png)
 
@@ -74,21 +74,21 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 움짤 이미지) 카테고리 등록방법 확인하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 움짤 이미지) 카테고리 등록방법 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_12\_11\_38\_32\_232-1.gif)
 
-**\*카테고리가 등록 된 후, 상품등록 메뉴로 이동해서 판매할 상품을 등록시켜주세요.**
+\*카테고리가 등록 된 후, 상품등록 메뉴로 이동해서 판매할 상품을 등록시켜주세요.
 
 ****
 
-<mark style="color:orange;">**★만들어진 카테고리는 상품 등록시에  선택하여 적용할 수 있습니다. ↓**</mark>
+<mark style="color:blue;">**★만들어진 카테고리는 상품 등록시에  선택하여 적용할 수 있습니다. ↓**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC22019.11.png)
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5. 앱에 카테고리 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 앱에 카테고리 적용하기**
 
 앱에서도 바로 카테고리 리스트를 적용할 수 있습니다.
 
@@ -114,7 +114,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 
 
-<mark style="color:orange;">**\[앱 실행화면]**</mark>
+<mark style="color:orange;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png)
 
