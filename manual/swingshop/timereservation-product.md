@@ -1,12 +1,12 @@
+---
+description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용방법'
+---
+
 # 상품등록-예약시스템 시간 예약상품 등록
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D%EC%A0%9C%EB%AA%A92.png)
-
-**예약시스템) 날짜+시간 예약상품 등록 및 앱 이용방법**
 
 예약시스템 중에서 날짜 /시간 예약상품을 등록하고, 구매하는 방법을 알려드릴텐데요.
 
-<mark style="color:purple;">날짜, 시간 예약 상품은 하루 특정 시간에 예약을 하는 (스파 마사지, 레스토랑 식사, 피부과 시술예약 등)에 활용할 수 있습니다.</mark>
+날짜, 시간 예약 상품은 하루 특정 시간에 예약을 하는 (스파 마사지, 레스토랑 식사, 피부과 시술예약 등)에 활용할 수 있습니다.
 
 시간 예약 상품은 날짜를 지정하여 예약을 하는 숙박시설과 달리 하루 날짜만 선택해서 예약을 할 수 있고,원하는 시간대를 선택할 수 있구요.
 
@@ -14,29 +14,29 @@
 
 매뉴얼을 통해서 시간 예약상품 등록방법과 앱 적용, 실행화면을 확인해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+
 
 **\*숙박 예약시설 처럼 여러 날을 예약, 체크인-체크아웃 기능이 포함된 예약시스템은 아래 매뉴얼을 참고해주세요 \~!**
 
 [**\[날짜 예약상품 등록하기 매뉴얼 보러가기\]**](reservationproduct.md)
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 스윙샵 신청 후 상품 카테고리 등록**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
 **먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!**
 
-**☞**[ **스윙샵 신청방법 보러가기**](broken-reference)
-
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
+
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7\_19.09.png)
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
-<mark style="color:red;">**\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!**</mark>
+<mark style="color:red;">\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!</mark>
 
-**스윙샵 → 상품관리→ 상품카테고리 등록관리 메뉴로 이동합니다.**
+스윙샵 → 상품관리→ 상품카테고리 등록관리 메뉴로 이동합니다.
 
 **​**
 
@@ -58,9 +58,9 @@
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 예약시스템 상품 등록하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP2**</mark>**. **<mark style="color:blue;">**예약시스템 상품 등록하기**</mark>
 
 이제 카테고리 등록이 끝났다면! 본격적으로 예약상품을 등록해볼게요 ^^
 
@@ -174,9 +174,9 @@
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱에 예약시스템(상품구매)페이지 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱에 예약시스템(상품구매)페이지 적용하기**
 
 **예약 상품 등록이 모두 완료되었으면 예약시스템을 앱에 적용하는 방법을 알려드릴게요\~!**
 
@@ -202,7 +202,7 @@
 
 7\. \[저장] 버튼 누르면 앱에 반영됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+
 
 <mark style="color:red;">**+ 추가**</mark>
 
@@ -232,7 +232,7 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱에 적용한 마이페이지 확인하기**</mark>
+<mark style="color:orange;">**앱에 적용한 마이페이지 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D9\_20.04.png)
 
@@ -242,11 +242,11 @@
 
 그외에 최근 본상품, 찜한 상품 보기 등 다양한 기능이 제공되고 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱 실행화면) 시간 예약상품 구매하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 앱 실행화면) 시간 예약상품 구매하기**
 
-<mark style="background-color:blue;">**▶**</mark>**시간 예약상품이 적용된 앱을 실행해서 확인해볼게요!**
+**시간 예약상품이 적용된 앱을 실행해서 확인해볼게요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D10\_20.04.png)
 
@@ -282,6 +282,6 @@
 
 <mark style="color:red;">1,000원 결제 후 바로 취소 처리 됩니다.</mark>
 
-<mark style="color:red;"></mark>
-
 **시간 예약 상품이 등록된** [**\[스윙투앱 샘플앱\]**](http://blog.naver.com/swing2app/221593393765)**을 확인해주세요**
+
+****

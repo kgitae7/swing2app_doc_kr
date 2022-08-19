@@ -1,24 +1,26 @@
+---
+description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목록을 관리하는 방법
+---
+
 # 예약주문관리 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC-%EC%A0%9C%EB%AA%A9.png)
+예약시스템을 적용하여 판매되는 상품들은, 예약주문관리 페이지에서 관리할 수 있습니다.&#x20;
 
-**스윙샵 – 예약주문관리에서 주문된 상품들의 목록을 관리하는 방법**
-
-예약시스템을 적용하여 판매되는 상품들은, 예약주문관리 페이지에서 관리할 수 있습니다. -예약주문 상품 상태 변경 등
+\-예약주문 상품 상태 변경 등
 
 **스윙샵-예약주문관리 매뉴얼을 통해서 이용방법을 확인해주세요.**
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**1. 예약주문관리 페이지**</mark>
+### ****![](<../../.gitbook/assets/image (2).png>) **1. 예약주문관리 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png)
 
 [스윙샵- \[예약주문관리\]](http://www.swing2app.co.kr/view/store\_order\_list\_by\_booking) 페이지로 이동합니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**2. 예약주문 리스트**</mark>
+### ![](<../../.gitbook/assets/image (2).png>) **2. 예약주문 리스트**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC2.png)
 
@@ -34,9 +36,9 @@
 
 해당 파란색 영역을 선택하면 주문 상세 현황을 체크할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**3. 예약 주문 정보 보기**</mark>
+### ![](<../../.gitbook/assets/image (2).png>) **3. 예약 주문 정보 보기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC3.png)
 
@@ -46,9 +48,9 @@
 
 주문정보창에서는 기본 정보, 결제방법, 주문자 정보, 배송정보 등 다양한 정보를 확인할 수 있습니다.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
-### <mark style="color:blue;">**4. 주문 상태 변경**</mark>
+### ![](<../../.gitbook/assets/image (2).png>) **4. 주문 상태 변경**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC4.png)
 

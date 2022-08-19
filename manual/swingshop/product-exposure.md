@@ -1,28 +1,28 @@
+---
+description: 상품 노출관리 이용방법 및 앱 적용화면 안내
+---
+
 # 상품관리-상품노출관리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC-%EC%A0%9C%EB%AA%A9.png)
+상품노출관리의 이용 용도는&#x20;
 
-**상품관리- 상품 노출관리 이용방법**
-
-상품노출관리의 이용 용도는 쇼핑몰 메인페이지에 보여지는 메뉴로
-
-이벤트로 보여주고자 하는 상품을 기재할 때, 쇼핑몰에서 주력상품을 홍보할 때, 세일을 하거나 품절이 임박한 상품을 보여주고자 할 때 화제용으로 노출할 수 있습니다.
+쇼핑몰 메인페이지에 보여지는 메뉴로 이벤트로 보여주고자 하는 상품을 기재할 때, 쇼핑몰에서 주력상품을 홍보할 때, 세일을 하거나 품절이 임박한 상품을 보여주고자 할 때 화제용으로 노출할 수 있습니다.
 
 선택이 아닌 옵션사항으로 이용할 수 있는 메뉴입니다.
 
 상품노출관리 이용방법을 매뉴얼을 통해서 확인해주세요.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 상품 노출관리 페이지**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품 노출관리 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC.png)
 
 [**스윙샵 → 상품관리 → 상품노출관리**](http://www.swing2app.co.kr/view/store\_product\_expression) **페이지로 이동합니다.**
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 상품노출관리페이지- 메인페이지 콜렉션 선택**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **2. 상품노출관리페이지- 메인페이지 콜렉션 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC2-1.png)
 
@@ -52,9 +52,9 @@
 
 6\)저장하기 버튼을 누르면 완료됩니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 등록완료**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 등록완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC3-1.png)
 
@@ -62,9 +62,9 @@
 
 여러 콜렉션을 배치할 수 있으니, 등록하기를 눌러서 새로 추가해주세요.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  <mark style="color:blue;">**4. 앱제작에서 쇼핑몰 메인 페이지 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **4. 앱제작에서 쇼핑몰 메인 페이지 적용하기**
 
 <mark style="color:red;">★등록한 상품노출관리 내용은 \[쇼핑몰 메인] 페이지에서 보여집니다.</mark>&#x20;
 
@@ -92,9 +92,9 @@
 
 <mark style="color:red;">따라서 상품노출관리에서 노출할 상품등록이 완료되면, 꼭 앱제작 페이지로 와서 쇼핑몰 메인 스윙페이지를 앱에 적용해주세요\~!!</mark>
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  <mark style="color:blue;">**5. 앱 실행 화면**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **5. 앱 실행 화면**
 
 **쇼핑몰 앱을 실행해서, 위에서 등록한 상품노출관리 페이지가 앱에서는 어떻게 보여지는지 확인해볼게요\~!**
 
@@ -102,9 +102,9 @@
 
 홈화면에 **\[쇼핑몰 메인]** 페이지를 적용했구요.
 
-스크롤해서 아래로 내려가면, 하단에 <mark style="color:purple;">**\[주요상품]**</mark>이라는 메뉴가 보입니다.
+스크롤해서 아래로 내려가면, 하단에 **\[주요상품]**이라는 메뉴가 보입니다.
 
-<mark style="color:purple;">**\* 위에서 등록한 \[메인페이지-콜렉션]은 앱에서 \[주요상품]에 표시되어서 나타납니다.**</mark>
+**\*위에서 등록한 \[메인페이지-콜렉션]은 앱에서 \[주요상품]에 표시되어서 나타납니다.**
 
 <mark style="color:purple;">****</mark>
 
@@ -114,6 +114,6 @@
 
 
 
-<mark style="color:orange;">**\[움짤 이미지로 상품노출관리 메뉴가 적용된 앱 실행화면 확인하기]**</mark>
+<mark style="color:blue;">**\[움짤 이미지로 상품노출관리 메뉴가 적용된 앱 실행화면 확인하기]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_15\_15\_12\_42\_710.gif)

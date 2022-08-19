@@ -260,7 +260,6 @@
   * [주문관리 이용방법](manual/swingshop/order.md)
   * [예약주문관리 이용방법](manual/swingshop/reservation-order.md)
   * [상점통계 이용방법](manual/swingshop/store-statistics.md)
-  * [스윙샵 상품구매 결제테스트 영상](manual/swingshop/payment-video.md)
   * [스윙페이지-쇼핑몰정보](manual/swingshop/shop-info.md)
   * [스윙페이지-상품검색](manual/swingshop/search.md)
   * [스윙페이지-카테고리 리스트](manual/swingshop/category-list.md)
