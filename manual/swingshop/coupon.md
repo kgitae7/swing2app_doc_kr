@@ -108,9 +108,9 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 디지털 제품 \[쿠폰] 선택**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP3  디지털 제품 \[쿠폰] 선택**</mark>
 
-카테고리 등록이 끝났다면! 본격적으로 디지털 상품 중에서’쿠폰’을 적용하고 등록해볼게요.
+<mark style="color:orange;">**카테고리 등록이 끝났다면! 본격적으로 디지털 상품 중에서’쿠폰’을 적용하고 등록해볼게요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
 
@@ -172,7 +172,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 **​**
 
-<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+<mark style="color:orange;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -206,13 +206,13 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 앱에 상품 카테고리 적용하기 **<mark style="color:blue;">****</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP4 앱에 상품 카테고리 적용하기**</mark>&#x20;
 
-위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.
+<mark style="color:orange;">**위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.**</mark>
 
 <mark style="color:orange;">****</mark>
 
-<mark style="color:blue;">**1. 상품 카테고리 적용하기​**</mark>
+**1. 상품 카테고리 적용하기​**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC4.png)
 
@@ -236,7 +236,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
-**\[앱 실행화면]**
+<mark style="color:orange;">**\[앱 실행화면]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A412\_19.09.png)
 
@@ -250,7 +250,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 
 
-<mark style="color:blue;">**2. 템플릿 페이지로 적용하기**</mark>
+**2. 템플릿 페이지로 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A49\_19.09-1.png)
 
@@ -264,13 +264,13 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
-**\[앱 실행화면]**
+<mark style="color:orange;">**\[앱 실행화면]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A411\_19.09.png)
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP5. 스윙카페 샘플앱) 쿠폰 구매 확인하기**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP5 스윙카페 샘플앱) 쿠폰 구매 확인하기**</mark>
 
 스윙 카페 샘플앱을 통해서 앱에 쿠폰 디지털제품이 어떻게 등록되었는지 확인해주세요.
 
@@ -286,15 +286,12 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:blue;">**★ 쿠폰 사용 처리 방법**</mark>
+<mark style="color:orange;">**★ 쿠폰 사용 처리 방법**</mark>
 
-**사용자 쿠폰은 어떻게 사용처리 할 수 있나요??**&#x20;
-
-**쿠폰에 기재된 일련번호를 통해서, 쿠폰 사용하기를 적용할 수 있습니다.**
+**사용자 쿠폰은 어떻게 사용처리 할 수 있나요?? 쿠폰에 기재된 일련번호를 통해서, 쿠폰 사용하기를 적용할 수 있습니다.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9%EC%B2%98%EB%A6%AC.gif)
 
-\*관리자가 사용자의 쿠폰 사용처리를 하는 방법은 아래 매뉴얼 링크를 반드시 확인해주세요!!
+<mark style="color:orange;">**\*관리자가 사용자의 쿠폰 사용처리를 하는 방법은 아래 매뉴얼 링크를 반드시 확인해주세요!!**</mark>
 
-[**쿠폰 발행하고 사용처리 하는 방법 보러가기**](../appmanage/service/coupon.md)
-
+<mark style="background-color:blue;">**▶**</mark>** ** [**쿠폰 발행하고 사용처리 하는 방법 보러가기**](../appmanage/service/coupon.md)
