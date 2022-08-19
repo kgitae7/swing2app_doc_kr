@@ -1,8 +1,8 @@
----
-description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변하고, 리뷰글을 관리할 수 있는 방법 안내
----
-
 # 상품관리-상품게시물관리
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B4%80%EB%A6%AC%EC%A0%9C%EB%AA%A9.png)
+
+**스윙샵 – 상품관리에서 \[상품게시물관리] 메뉴를 이용하는 방법**
 
 **상품게시물 관리는 쇼핑몰 앱에 기재된 사용자들의 \[상품문의글]과 \[상품리뷰글]을 확인하고 관리할 수 있는 페이지입니다.**
 
@@ -12,9 +12,9 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 매뉴얼에서 상품게시물관리 이용방법과 앱에서 실제 활용되는 모습을 보여드리겠습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품게시물관리 – 상품문의**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1.상품게시물관리 – 상품문의**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC1.png)
 
@@ -34,7 +34,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ****
 
-<mark style="color:blue;">**–사용자 문의에 댓글 입력하기**</mark>&#x20;
+<mark style="color:orange;">**–사용자 문의에 댓글 입력하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B4%80%EB%A6%AC4-1.png)
 
@@ -46,7 +46,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 
 
-<mark style="color:blue;">**— 검색 필터링**</mark>
+<mark style="color:orange;">**— 검색 필터링**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B4%80%EB%A6%AC3.png)
 
@@ -54,17 +54,15 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 상품문의 글은 **\[상품이름]**으로 검색**, \[내용 및 사용자 이름]**으로 검색해서 필터링하여 볼 수 있습니다.
 
-{% hint style="warning" %}
-**상품문의 안내사항**
+&#x20;
 
-문의글에 대한 관리자 댓글(답변)은 앱에서는 사용할 수 없으며, 스윙 홈페이지 상품게시물관리 페이지에서만 댓글을 작성할 수 있습니다
-{% endhint %}
+<mark style="color:red;">**— 상품문의 안내사항**</mark>
 
+**문의글에 대한 **<mark style="color:red;">**관리자 댓글(답변)은 앱에서는 사용할 수 없으며, 스윙 홈페이지 상품게시물관리 페이지에서만 댓글을 작성할 수 있습니다.**</mark>
 
+<mark style="color:red;">****</mark>
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 상품게시물관리-상품리뷰**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 상품게시물관리-상품리뷰**</mark>
 
 **두번째 메뉴인 상품리뷰도 같은 페이지에서 확인할 수 있어요.**
 
@@ -92,19 +90,19 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 **\[내용 및 사용자 이름]**으로 검색해서 필터링하여 볼 수 있습니다.
 
-{% hint style="warning" %}
-<mark style="color:orange;"><mark style="color:red;">**상품 리뷰 주의사항**<mark style="color:red;"></mark>
+\
+\
+<mark style="color:red;">**— 상품 리뷰 주의사항**</mark>
 
 **\* 리뷰는 상품문의와 달리 관리자의 댓글이나 답글을 달 수 없는 스타일로 제공됩니다.**
 
 관리자는 리뷰를 확인하는 용도로 제공, 삭제 권한만 가집니다.&#x20;
-{% endhint %}
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면- 리뷰 및 질의**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3.앱 실행화면- 리뷰 및 질의**</mark>
 
-앱에서는 리뷰화면과 상품문의 화면이 어떻게 표시되는지 확인해봐야겠죠?
+**앱에서는 리뷰화면과 상품문의 화면이 어떻게 표시되는지 확인해봐야겠죠?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_09\_13\_05\_33\_895.gif)
 
@@ -112,7 +110,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 
 
-<mark style="color:blue;">**1) 상품리뷰 화면**</mark>
+<mark style="color:orange;">**1) 상품리뷰 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B04.png)
 
@@ -128,9 +126,9 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 별점 평점이 합산되어서 상단에 총합 평점을 확인할 수 있습니다.
 
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-
-<mark style="color:blue;">**2)상품문의 (질의화면)**</mark>
+<mark style="color:orange;">**2)상품문의 (질의화면)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B84.png)
 
@@ -148,17 +146,15 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 해당 문의글에 대해 관리자가 댓글을 입력하여 답변을 할 수 있어요.
 
-
-
-<mark style="color:blue;">**\*관리자는 어디서 답변을 작성하나요?**</mark>
+<mark style="color:orange;">**\*관리자는 어디서 답변을 작성하나요?**</mark>
 
 위에서 안내드린 것처럼 상품 질문에 대한 댓글은 홈페이지 – 웹 대시보드에서만 이용이 가능해요.
 
-&#x20;[스윙샵 → 상품관리 → 상품게시물관리](http://www.swing2app.co.kr/view/store\_product\_board) 페이지에서 \[상품문의] 메뉴에 달린 사용자 문의 확인 후 댓글을 입력해주세요.&#x20;
+&#x20;**** [**스윙샵 → 상품관리 → 상품게시물관리**](http://www.swing2app.co.kr/view/store\_product\_board) **페이지에서 \[상품문의] 메뉴에 달린 사용자 문의 확인 후 댓글을 입력해주세요.**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B4%80%EB%A6%AC4-1.png)
 
-<mark style="color:blue;">**비밀글 체크**</mark>
+<mark style="color:orange;">**비밀글 체크**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B86.png)
 
@@ -175,7 +171,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-리뷰 작성 권한은 **** [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)에서 설정할 수 있어요.
+<mark style="color:orange;">**리뷰 작성 권한은**</mark>** ** [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)<mark style="color:orange;">**에서 설정할 수 있어요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B07.png)
 
@@ -188,5 +184,3 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 **+ 이상으로 스윙샵 상품관리 – 상품게시물관리 이용방법을 알려드렸는데요.**
 
 **사용자들이 작성한 리뷰글, 문의글은 상품게시물 관리 페이지에서 확인하고 관리할 수 있습니다. \~!!**
-
-****

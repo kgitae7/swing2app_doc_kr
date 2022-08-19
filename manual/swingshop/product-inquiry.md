@@ -1,8 +1,8 @@
+---
+description: 상품관리-상품조회, 예약상품 조회를 이용하는 방법 안내
+---
+
 # 상품관리-상품조회, 예약상품조회
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C-%EC%A0%9C%EB%AA%A9.png)
-
-**스윙샵 상품관리에서- \[상품조회], \[예약상품조회] 메뉴를 이용하는 방법**
 
 상품조회, 예약상품조회 메뉴는 상품등록메뉴에서 등록한 상품 목록을 모두 확인할 수 있는 페이지이구요.
 
@@ -10,9 +10,9 @@
 
 \*특히 상품조회 페이지에서는 판매중인 상품의 상태변경(품절, 상품중지 등)하거나,  상품을 삭제할 때도 이용할 수 있습니다.&#x20;
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 상품게시물관리-상품문의**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 상품관리-상품조**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C1-1.png)
 
@@ -24,7 +24,7 @@
 
 
 
-<mark style="color:orange;">**1. 상품조회페이지 이용방법**</mark>
+<mark style="color:blue;">**1. 상품조회페이지 이용방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2.png)
 
@@ -42,7 +42,7 @@
 
 ****
 
-<mark style="color:orange;">**2. 상품 상태 변경**</mark>
+<mark style="color:blue;">**2. 상품 상태 변경**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C3.png)
 
@@ -54,9 +54,9 @@
 
 그리고 판매되는 상품을 아예 삭제를 하실 때에도 **\[상품삭제]** 버튼을 선택해서 삭제할 수도 있습니다.&#x20;
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 예약상품조회**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 예약상품조회**
 
 이어서 예약상품조회 페이지도 함께 확인해보겠습니다.
 
@@ -70,13 +70,13 @@
 
 ****
 
-<mark style="color:orange;">**1 . 예약상품조회 이용방법**</mark>
+<mark style="color:blue;">**1 . 예약상품조회 이용방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2.png)
 
 예약상품조회도 상품조회 페이지와 이용방법은 동일합니다.
 
-<mark style="color:purple;">\*캘린더 메뉴가 추가로 보이는데요.</mark>
+\*캘린더 메뉴가 추가로 보이는데요.
 
 날짜를 선택하면, 그 날짜에 판매되는 예약상품을 조회할 수 있습니다.
 
@@ -84,7 +84,7 @@
 
 
 
-<mark style="color:orange;">**2. 예약상품 상태 변경**</mark>
+<mark style="color:blue;">**2. 예약상품 상태 변경**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C3.png)
 
@@ -100,6 +100,4 @@
 
 등록된 상품들을 조회하고, 상품상태를 변경할 때 이용하실 수 있구요.
 
-더이상 팔지 않는 상품을 삭제할 때에도 해당 메뉴에서 이용하실 수 있답니다. ^^
-
-앱제작 스윙에서 이제!! 쇼핑몰 서비스를 이용하여 나만의 쇼핑몰 앱을 제작해보세요\~!!
+더이상 팔지 않는 상품을 삭제할 때에도 해당 메뉴에서 이용하실 수 있답니다.&#x20;
