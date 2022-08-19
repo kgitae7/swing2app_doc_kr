@@ -1,16 +1,16 @@
+---
+description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
+---
+
 # 상품등록-디지털제품: 쿠폰 등록
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88-%EC%BF%A0%ED%8F%B0-%EC%A0%9C%EB%AA%A9.png)
+디지털 제품은 무형의 컨텐츠를 판매하는 상품 유형이구요.&#x20;
 
-**스윙샵 디지털제품 중 쿠폰을 등록하는 방법**
+\[권한 변경, PDF보기, 영상 및 파일 판매, 쿠폰] 상품을 등록할 수 있습니다.
 
-스윙샵은 앱제작 스윙투앱에서 제공하는 쇼핑몰 서비스에요!
+디지털 제품 중 쿠폰 판매는, 쿠폰을 등록하여 앱 사용자들에게 해당 쿠폰을 판매할 수 있는데요.
 
-**스윙샵은 다양한 상품 유형- 실물상품, 예약상품, 디지털 제품 등을 선택하여 등록할 수 있는데요.**
 
-**디지털 제품은 무형의 컨텐츠를 판매하는 상품 유형이구요. \[권한 변경, PDF보기, 영상 및 파일 판매, 쿠폰] 상품을 등록할 수 있습니다.**
-
-**스윙샵 디지털 제품 중 쿠폰 판매는, 쿠폰을 등록하여 앱 사용자들에게 해당 쿠폰을 판매할 수 있는데요.**
 
 **★스윙투앱에서 제공하는 쿠폰발송 기능과 스윙샵 결제서비스를 함께 사용할 수 있습니다.**
 
@@ -24,11 +24,11 @@
 
 매뉴얼을 통해서 디지털제품- 쿠폰 등록방법과 앱 적용방법을 확인해주시기 바랍니다. ^^
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 쿠폰 만들기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP1 쿠폰 만들기**</mark>
 
-<mark style="color:orange;">**다른 스윙샵 상품 등록과는 다르게!! 쿠폰을 판매할 때는 쿠폰 관리 페이지에서 쿠폰을 등록해주셔야 합니다.**</mark>
+<mark style="color:orange;">다른 스윙샵 상품 등록과는 다르게!! 쿠폰을 판매할 때는 쿠폰 관리 페이지에서 쿠폰을 등록해주셔야 합니다.</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A41\_19.09.png)
 
