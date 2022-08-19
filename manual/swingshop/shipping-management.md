@@ -16,17 +16,17 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 배송관리**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 배송관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.png)
 
-**스윙샵 신청후** [**스윙샵 → 1)상점관리 → 2)배송관리** ](http://www.swing2app.co.kr/view/store\_info\_delivery\_setting)**페이지로 이동합니다.**
+스윙샵 신청후 [스윙샵 → 1)상점관리 → 2)배송관리 ](http://www.swing2app.co.kr/view/store\_info\_delivery\_setting)페이지로 이동합니다.
 
 ****
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2.배송관리 항목 입력**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 배송관리 항목 입력**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC5.png)
 
@@ -46,9 +46,9 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <mark style="color:red;">주문시에 사용자에게 받아야 할 정보가 있다면 해당 양식에 맞춰서 입력해주시면 됩니다.</mark>
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 배송입력 항목**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 배송입력 항목**
 
 배송 입력 항목에 내용을 입력한 후, 앱에서 어떻게 해당 내용이 나타나는지 알아볼게요\~!
 
@@ -66,44 +66,47 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면**</mark>
+&#x20;<mark style="color:orange;">****</mark> <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png)
 
 위의 이미지에서 보시는 것과 같이 구매를 진행할 때 (결제 페이지 넘어가기 전 화면) 주문서 양식 페이지가 나타나구요.
 
-> **위에서 입력한 배송항목 정보들을 입력하게끔 되어 있습니다.**
+> 위에서 입력한 배송항목 정보들을 입력하게끔 되어 있습니다.
 >
-> **\*그러나\~! 앞서 설명드렸듯이 배송입력 항목은 필수 사항이 아니구요.**&#x20;
+> \*그러나\~! 앞서 설명드렸듯이 배송입력 항목은 필수 사항이 아니구요.&#x20;
 >
-> **다음에 나오는 결제페이지에서 주소, 전화번호, 부재시 요청 사항 등을 입력하기 때문에 굳이 해당 내용들을 다시 반복할 필요가 없어요.**
+> 다음에 나오는 결제페이지에서 주소, 전화번호, 부재시 요청 사항 등을 입력하기 때문에 굳이 해당 내용들을 다시 반복할 필요가 없어요.
 >
-> **해당 정보 외에 다른 내용이 필요하다면 이용해주시고, 필요하지 않으면 사용하지 않아도 됩니다\~^^**
+> 해당 정보 외에 다른 내용이 필요하다면 이용해주시고, 필요하지 않으면 사용하지 않아도 됩니다.
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**배송관리 입력방법 움짤로 확인하기**</mark>
+<mark style="color:orange;">****</mark>
+
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**배송관리 입력방법 움짤로 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.gif)
 
-### <mark style="color:blue;"></mark>
+<mark style="color:blue;"></mark>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 앱 실행화면**</mark>
+![](<../../.gitbook/assets/구분선 (1).PNG>)
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 앱 실행화면**
 
 배송비 금액을 설정한 뒤, 앱에서는 어떻게 나타나는지 앱을 실행하여 확인해보겠습니다.
 
 
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**배송비 무료**</mark>
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png)
 
-\=가격이 45,000원 상품을 결제할 때는 배송비가 없이 ‘0’으로 표시됩니다.
+가격이 45,000원 상품을 결제할 때는 배송비가 없이 ‘0’으로 표시됩니다.
 
 
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**배송비 포함**</mark>
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**배송비 포함**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png)
 
-\= 3만원 미만인 25,000원 금액의 상품을 결제할 때는 위에서 설정해놓은 배송비 2,500원이 포함되어서 총합계가 계산됩니다.
+3만원 미만인 25,000원 금액의 상품을 결제할 때는 위에서 설정해놓은 배송비 2,500원이 포함되어서 총합계가 계산됩니다.
 
-이상으로!! 배송비 금액을 설정하는 배송관리 메뉴에 대해서 알려드렸습니다.
