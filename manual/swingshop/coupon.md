@@ -294,7 +294,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9%EC%B2%98%EB%A6%AC.gif)
 
-<mark style="color:blue;"><mark style="color:orange;">\*관리자가 사용자의 쿠폰 사용처리를 하는 방법은 아래 매뉴얼 링크를 반드시 확인해주세요!!<mark style="color:orange;"></mark>
+\*관리자가 사용자의 쿠폰 사용처리를 하는 방법은 아래 매뉴얼 링크를 반드시 확인해주세요!!
 
 [**쿠폰 발행하고 사용처리 하는 방법 보러가기**](../appmanage/service/coupon.md)
 
