@@ -1,24 +1,24 @@
+---
+description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
+---
+
 # 상품등록-디지털제품: PDF파일 등록
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%ED%8C%8C%EC%9D%BC%EB%93%B1%EB%A1%9D-%EC%A0%9C%EB%AA%A9.png)
+디지털판매 제품에는- 권한변경, PDF, 영상 및 파일, 쿠폰 유형을 선택할 수 있습니다.
 
-**스윙샵 디지털제품 중PDF파일 상품을 등록하는 방법**
-
-\*디지털판매 제품에는- 권한변경, PDF, 영상 및 파일, 쿠폰 유형을 선택할 수 있습니다.
-
-그 중에서 PDF는 파일로 상품을 등록해서, 앱에서 결제를 하면 PDF파일로 문서를 볼 수가 있어요.&#x20;
+그 중 PDF파일 상품을 적용하는 방법을 알려드립니다.
 
 스윙샵에서 PDF 파일을 등록하는 방법, 앱 실행화면, 해당 상품을 어떻게 이용할 수 있는지 알려드리겠습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 스윙샵 신청 후 상품 카테고리 등록**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
 먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!
 
-**☞** [**스윙샵 신청방법 보러가기**](broken-reference)
-
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
+
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09-1.png)
 
@@ -36,9 +36,9 @@
 
 카테고리 관리 창에서 2)카테고리명 2) 대표이미지 3)카테고리 설명 5)우선순위 6)표시여부 체크 7) 저장하기 버튼을 선택합니다.
 
-**\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.**
+<mark style="color:red;">\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.</mark>
 
-**\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.**
+<mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
 
 ****
 
@@ -50,11 +50,11 @@
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 디지털제품 – PDF 상품 등록하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 디지털제품 – PDF 상품 등록하기**
 
-<mark style="color:orange;">**이제 카테고리 등록이 끝났다면! 본격적으로 상품을 등록해볼게요**</mark>&#x20;
+이제 카테고리 등록이 끝났다면! 본격적으로 상품을 등록해볼게요 <mark style="color:orange;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
 
@@ -74,9 +74,9 @@
 
 4\. 외부 공유 및 연동 금지
 
-<mark style="color:red;">**-구매한 PDF 파일을 공유할 수 없고, 앱에서만 확인하도록 설정하고 싶다면 ‘외부 공유 및 연동 금지’ 체크해주세요**</mark>
+<mark style="color:red;">-구매한 PDF 파일을 공유할 수 없고, 앱에서만 확인하도록 설정하고 싶다면 ‘외부 공유 및 연동 금지’ 체크해주세요</mark>
 
-<mark style="color:red;">**-외부 공유 및 연동이 되어도 괜찮다면 체크를 풀어주세요.**</mark>
+<mark style="color:red;">-외부 공유 및 연동이 되어도 괜찮다면 체크를 풀어주세요.</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D10\_19.09.png)
 
@@ -92,7 +92,7 @@
 
 10\. 상품 카테고리: 상품 카테고리를 선택해주세요.
 
-<mark style="color:red;">**\*위에서 알려드린 것처럼 상품카테고리는 먼저 만들어주셔야 상품등록에서 카테고리를 선택할 수 있으니! 잊지말고 카테고리를 먼저 만들어주세요^^**</mark>
+<mark style="color:red;">\*위에서 알려드린 것처럼 상품카테고리는 먼저 만들어주셔야 상품등록에서 카테고리를 선택할 수 있으니! 잊지말고 카테고리를 먼저 만들어주세요^^</mark>
 
 ****
 
@@ -118,7 +118,9 @@
 
 예시)의류 쇼핑몰: 사이즈 추가, 색상 추가 등을 기재해서 옵션을 설정하고 옵션금액을 설정할 수 있습니다.
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:orange;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
+
+
+&#x20;**** <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -148,11 +150,11 @@
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱에 상품 카테고리 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP3. 앱에 상품 카테고리 적용하기**
 
-<mark style="color:orange;">**디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.**</mark>
+디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2.png)
 
@@ -176,13 +178,13 @@
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱 실행화면) 디지털상품 판매 앱**</mark>
+### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP4. 앱 실행화면) 디지털상품 판매 앱**
 
-**스윙 학원 샘플앱을 통해서 앱에 디지털제품-pdf파일이 어떻게 등록되었는지 확인해주세요.**
+스윙 학원 샘플앱을 통해서 앱에 디지털제품-pdf파일이 어떻게 등록되었는지 확인해주세요.
 
-**그리고 어떻게 pdf파일을 구매하고, 열람이 가능한지 확인할 수 있습니다 ^^**
+그리고 어떻게 pdf파일을 구매하고, 열람이 가능한지 확인할 수 있습니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%882\_19.09-1.png)
 
@@ -194,9 +196,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_09\_24\_12\_30\_50\_728.gif)
 
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  <mark style="color:blue;"></mark>  <mark style="color:blue;"></mark><mark style="color:blue;">**STEP.5 앱 실행화면) 구매한 PDF파일 확인하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP5. 앱 실행화면) 구매한 PDF파일 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B0.png)
 
@@ -212,7 +214,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-<mark style="color:orange;">**01. 디지털 상품 구매완료 페이지**</mark>
+<mark style="color:blue;">**1. 디지털 상품 구매완료 페이지**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B03.png)
 
@@ -252,7 +254,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="color:orange;">**02. 마이페이지 – 디지털 제품 보기**</mark>
+<mark style="color:blue;">**2. 마이페이지 – 디지털 제품 보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B02.png)
 
@@ -290,10 +292,6 @@
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-**★스윙샵 디지털제품: pdf파일이 등록된 앱을 확인하고 싶다면??**
 
-**아래 스윙 학원 샘플앱을 확인해주세요 ^^**
-
-**☞** [**스윙 학원 샘플 앱 보러가기**](https://m.blog.naver.com/PostView.naver?blogId=swing2app\&logNo=221054136878\&referrerCode=0\&searchKeyword=%ED%95%99%EC%9B%90)
+****
