@@ -1,34 +1,32 @@
+---
+description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방법 안내'
+---
+
 # 상품등록-디지털제품: 영상파일 등록
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%81%EC%83%81%EB%93%B1%EB%A1%9D-%EC%A0%9C%EB%AA%A9-1024x282.png)
+디지털 제품은 무형의 컨텐츠를 판매하는 상품 유형이구요.
 
-**스윙샵 디지털제품 중 영상파일을 등록하는 방법**
-
-스윙샵은 스윙투앱에서 제공하는 쇼핑몰 서비스에요!
-
-스윙샵은 다양한 상품 유형- 실물상품, 예약상품, 디지털 제품 등을 선택하여 등록할 수 있는데요.
-
-디지털 제품은 무형의 컨텐츠를 판매하는 상품 유형이구요. \[권한 변경, PDF보기, 영상 및 파일 판매, 쿠폰] 상품을 등록할 수 있습니다.&#x20;
+디지털판매 제품에는- 권한변경, PDF, 영상 및 파일, 쿠폰 유형을 선택할 수 있습니다.
 
 해당 매뉴얼에서는 디지털제품 – 영상 및 파일 등록방법 및 앱 적용방법 등을 알려드리겠습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 스윙샵 신청 후 상품 카테고리 등록**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
-**먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!**
-
-**☞**[ **스윙샵 신청방법 보러가기**](broken-reference)
+먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
+
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%93%B1%EB%A1%9D.png)
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
-<mark style="color:red;">**\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!**</mark>
+<mark style="color:red;">\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!</mark>
 
-[**스윙샵 → 상품관리→ 상품카테고리 등록관리**](http://www.swing2app.co.kr/view/store\_product\_category) **메뉴로 이동합니다.**
+[스윙샵 → 상품관리→ 상품카테고리 등록관리](http://www.swing2app.co.kr/view/store\_product\_category) 메뉴로 이동합니다.
 
 **​**
 
@@ -38,9 +36,9 @@
 
 카테고리 관리 창에서 2)카테고리명 2) 대표이미지 3)카테고리 설명 5)우선순위 6)표시여부 체크 7) 저장하기 버튼을 선택합니다.
 
-<mark style="color:red;">**\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.**</mark>
+<mark style="color:red;">\*우선순위는 숫자가 높을 수록 상단에 배치되며, 우선순위가 다 동일할 경우 상품등록일에 따라 먼저 등록된 카테고리가 상단에 배치됩니다.</mark>
 
-<mark style="color:red;">**\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.**</mark>
+<mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
 
 <mark style="color:red;">****</mark>
 
@@ -52,11 +50,11 @@
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.2 디지털제품 \[영상 및 파일 판매] 선택**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 디지털제품 \[영상 및 파일 판매] 선택**
 
-<mark style="color:orange;">**카테고리 등록이 끝났다면! 본격적으로 디지털 상품중에서 – 영상 및 파일 판매 상품을 등록해볼게요 ^^**</mark>
+카테고리 등록이 끝났다면! 본격적으로 디지털 상품중에서 – 영상 및 파일 판매 상품을 등록해볼게요
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
 
@@ -76,11 +74,13 @@
 
 4\. 외부 공유 및 연동 금지
 
-<mark style="color:red;">**-구매한 영상 및 파일을 공유할 수 없고, 앱에서만 확인하도록 설정하고 싶다면 ‘외부 공유 및 연동 금지’ 체크해주세요**</mark>
-
-<mark style="color:red;">**-외부 공유 및 연동이 되어도 괜찮다면 체크를 풀어주세요.**</mark>
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%818\_19.09.png)
+
+<mark style="color:red;">-구매한 영상 및 파일을 공유할 수 없고, 앱에서만 확인하도록 설정하고 싶다면 ‘외부 공유 및 연동 금지’ 체크해주세요</mark>
+
+<mark style="color:red;">-외부 공유 및 연동이 되어도 괜찮다면 체크를 풀어주세요.</mark>
+
+<mark style="color:red;"></mark>
 
 5\. 상품명 : 상품 이름을 입력해주세요.
 
