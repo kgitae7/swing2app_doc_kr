@@ -112,7 +112,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 
 
-<mark style="color:blue;"><mark style="color:orange;">**1) 상품리뷰 화면**<mark style="color:orange;"></mark>
+<mark style="color:blue;">**1) 상품리뷰 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B04.png)
 
@@ -130,7 +130,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 
 
-<mark style="color:orange;">**2)상품문의 (질의화면)**</mark>
+<mark style="color:blue;">**2)상품문의 (질의화면)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B84.png)
 
@@ -148,15 +148,17 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 해당 문의글에 대해 관리자가 댓글을 입력하여 답변을 할 수 있어요.
 
-<mark style="color:orange;">**\*관리자는 어디서 답변을 작성하나요?**</mark>
+
+
+<mark style="color:blue;">**\*관리자는 어디서 답변을 작성하나요?**</mark>
 
 위에서 안내드린 것처럼 상품 질문에 대한 댓글은 홈페이지 – 웹 대시보드에서만 이용이 가능해요.
 
-&#x20;**** [**스윙샵 → 상품관리 → 상품게시물관리**](http://www.swing2app.co.kr/view/store\_product\_board) **페이지에서 \[상품문의] 메뉴에 달린 사용자 문의 확인 후 댓글을 입력해주세요.**&#x20;
+&#x20;[스윙샵 → 상품관리 → 상품게시물관리](http://www.swing2app.co.kr/view/store\_product\_board) 페이지에서 \[상품문의] 메뉴에 달린 사용자 문의 확인 후 댓글을 입력해주세요.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B4%80%EB%A6%AC4-1.png)
 
-<mark style="color:orange;">**비밀글 체크**</mark>
+<mark style="color:blue;">**비밀글 체크**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B86.png)
 
@@ -173,7 +175,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:orange;">**리뷰 작성 권한은**</mark>** ** [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)<mark style="color:orange;">**에서 설정할 수 있어요.**</mark>
+리뷰 작성 권한은 **** [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)에서 설정할 수 있어요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B07.png)
 
