@@ -1,8 +1,8 @@
----
-description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인'
----
-
 # 상점통계 이용방법
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%84-%EC%A0%9C%EB%AA%A9.png)
+
+**스윙샵 – 상점통계 이용방법 안내**
 
 상점통계는 스윙샵에서 운영 및 판매하는 상품의 결제금액, 수량을 확인할 수 있는 관리자페이지입니다.
 
@@ -10,9 +10,9 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 상품별 주문금액, 상품별 열람 횟수를 통계로 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**상점통계 메뉴 이동**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**상점통계 메뉴 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%84.png)
 
@@ -20,7 +20,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 ***
 
-### <mark style="color:blue;">**1. 월별 주문금액**</mark>
+<mark style="color:blue;">**1. 월별 주문금액**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%848.png)
 
@@ -46,7 +46,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 ***
 
-### <mark style="color:blue;">**2. 일별 주문금액**</mark>
+<mark style="color:blue;">**2. 일별 주문금액**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%8411.png)
 
@@ -56,7 +56,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 ***
 
-### <mark style="color:blue;">**3. 상품별 주문금액**</mark>
+<mark style="color:blue;">**3. 상품별 주문금액**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%8412.png)
 
@@ -66,7 +66,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 
 
-****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**엑셀다운**
+<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">엑셀다운</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%8413.png)
 
@@ -76,15 +76,14 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 ***
 
-### <mark style="color:blue;">**4. 열람상품**</mark>
+<mark style="color:blue;">**4. 열람상품**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%8414.png)
 
 열람상품은 앱에서 상품을 얼마나 열람했는지 상품별 열람횟수를 확인할 수 있습니다.
 
-상점통계를 이용하여 판매량이 높은 상품을 확인할 수 있고, 해당 월의 주문 수량 및 금액도 확인할 수 있습니다.
+**상점통계를 이용하여 판매량이 높은 상품을 확인할 수 있고, 해당 월의 주문 수량 및 금액도 확인할 수 있습니다.**
 
-엑셀로 다운받아 이용할 수 있으니 문서로 별도로 정리하여 관리할 수 있습니다.
+**엑셀로 다운받아 이용할 수 있으니 문서로 별도로 정리하여 관리할 수 있습니다.**
 
-스윙샵을 이용하여 앱을 운영 중이라면, 해당 상점통계 메뉴를 잘 활용하여 앱 운영에 도움이 되시길 바랍니다. ^^
-
+**스윙샵을 이용하여 앱을 운영 중이라면, 해당 상점통계 메뉴를 잘 활용하여 앱 운영에 도움이 되시길 바랍니다. ^^**

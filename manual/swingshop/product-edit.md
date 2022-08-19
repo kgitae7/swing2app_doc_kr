@@ -1,7 +1,3 @@
----
-description: 스윙샵에서 등록한 상품을 수정하는 방법 안내
----
-
 # 상품수정-등록한 상품 수정하기
 
 스윙샵에서 등록한 상품을 수정하는 방법을 알려드릴게요.
@@ -10,7 +6,9 @@ description: 스윙샵에서 등록한 상품을 수정하는 방법 안내
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 스윙샵 상품 수정하기**
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **스윙샵 상품 수정하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%951.png)
 
@@ -42,7 +40,7 @@ description: 스윙샵에서 등록한 상품을 수정하는 방법 안내
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품 복사하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **상품 복사하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%953.png)
 
