@@ -120,7 +120,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**옵션 추가 방법은 아래 움짤 이미지로 확인인해주세요!**</mark>
+****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인인해주세요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -150,11 +150,11 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱에 상품 카테고리 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱에 상품 카테고리 적용하기**
 
-<mark style="color:orange;">**위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.**</mark>
+위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3.png)
 
@@ -178,9 +178,9 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱 실행화면) 디지털-영상 파일 판매 앱**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 디지털-영상 파일 판매 앱**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_10\_01\_01\_36\_09\_304.gif)
 
@@ -195,9 +195,3 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%816\_19.09.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%817\_19.09.png)
-
-<mark style="color:orange;">★스윙샵 디지털제품: 영상 및 파일이 등록된 앱을 확인하고 싶다면??</mark>
-
-아래 스윙 학원 샘플앱을 확인해주세요 ^^
-
-**☞** [**스윙 학원 샘플 앱 보러가기**](https://m.blog.naver.com/PostView.naver?blogId=swing2app\&logNo=221054136878\&referrerCode=0\&searchKeyword=%ED%95%99%EC%9B%90)
