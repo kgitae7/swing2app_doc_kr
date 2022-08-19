@@ -1,10 +1,8 @@
+---
+description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  앱에 적용하는 방법
+---
+
 # 스윙페이지-장바구니
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EC%A0%9C%EB%AA%A9.png)
-
-**장바구니 이용방법**
-
-스윙샵에서 제공하는 페이지 중 ‘장바구니’를  앱에 적용하는 방법을 알려드립니다.
 
 장바구니는 **관심이 있는 상품, 구매할 예정이 있는 상품을 보관하는 페이지이구요.**&#x20;
 
@@ -14,17 +12,17 @@
 
 ***
 
-<mark style="color:orange;">**장바구니 앱 실행화면**</mark>
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%882.png)
 
 장바구니 페이지 역시 스윙샵 기능 이용시 이용가능하오니, **스윙샵 서비스 신청 후 적용해주세요.**&#x20;
 
-☞ [**\[스윙샵 신청방법\]**](broken-reference)****
+☞ [**\[스윙샵 신청방법\]**](apply.md)****
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱에 장바구니 메뉴 적용하기**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 장바구니 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png)
 
@@ -44,9 +42,9 @@
 
 7\. \[저장] 버튼 누르면 앱에 반영됩니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 장바구니 앱 실행화면**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 장바구니 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_28\_03\_56\_34\_792.gif)
 
@@ -56,4 +54,5 @@
 
 장바구니에 넣은 상품을 확인하여 구매할 수 있습니다.&#x20;
 
-<mark style="color:purple;">따라서 쇼핑몰 앱에서는 장바구니 메뉴는 꼭!! 넣어주셔야 합니다.</mark>&#x20;
+따라서 쇼핑몰 앱에서는 장바구니 메뉴는 꼭!! 넣어주셔야 합니다.
+
