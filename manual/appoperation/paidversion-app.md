@@ -1,12 +1,12 @@
+---
+description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
+---
+
 # 유료앱 전환 및 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EC%95%B1%EC%9D%B4%EC%9A%A9%EB%B0%A9%EB%B2%95.png)
+**\*무료버전앱 : 개인적인 용도 이용(홈페이지, 블로그에 올려서 사용해도 되고 APK파일 공유해서 사용 가능) but, 스토어 배포 불가**
 
-스윙투앱 유료앱(유료버전)전환 및 이용방법
-
-> <mark style="color:purple;">**\*무료버전앱 : 개인적인 용도 이용(홈페이지, 블로그에 올려서 사용해도 되고 APK파일 공유해서 사용 가능) but, 스토어 배포 불가**</mark>
->
-> <mark style="color:purple;">**\*유료버전앱: 스토어 배포 가능 (플레이스토어, 앱스토어, 원스토어 모두 출시 가능)**</mark>
+**\*유료버전앱: 스토어 배포 가능 (플레이스토어, 앱스토어, 원스토어 모두 출시 가능)**
 
 스윙투앱 앱 운영목적에 따른 무료, 유료 이용방법은 아래 도우미 매뉴얼을 보시면 보다 상세히 확인 가능합니다.
 
@@ -14,9 +14,7 @@
 
 스토어 출시를 희망하시는 분들은 유료앱으로 이용해주셔야 하며, 이용권 및 스토어 업로드 티켓을 구매해주셔야 합니다.
 
-아래 매뉴얼을  참고하셔서 유료앱 이용방법을 확인해주세요\~!
 
-***
 
 앱제작은 매뉴얼 및 도움말을 참고하셔 모두 제작해주시구요.
 
@@ -32,9 +30,11 @@
 
 <mark style="color:red;">\*구매 즉시 이용일 카운팅이 시작되기 때문에 꼭 스토어 업로드 진행을 할 때 구매해주세요.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)   ****  &#x20;
+아래 매뉴얼을  참고하셔서 유료앱 이용방법을 확인해주세요\~!
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 이용권 및 업로드 티켓 구매**</mark> &#x20;
+![](<../../.gitbook/assets/구분선 (1).PNG>)
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1**. <mark style="color:blue;">****</mark>** 이용권 및 업로드 티켓 구매  **<mark style="color:blue;">****</mark> &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png)
 
@@ -42,47 +42,35 @@
 
 유료앱 이용권을 선택하고, 스토어 업로드 티켓도 함께 구매해주세요.
 
-**\*플레이스토어는 사용자가 직접 등록 및 출시가 가능하다면 플레이스토어 업로드티켓 구매 없이 직접 진행해주시면 됩니다. (이용권만 구매)**
+\*플레이스토어는 사용자가 직접 등록 및 출시가 가능하다면 플레이스토어 업로드티켓 구매 없이 직접 진행해주시면 됩니다. (이용권만 구매)
 
-**\*앱스토어는 사용자가 직접 등록이 불가합니다. 따라서 앱스토어 출시도 희망한다면 이용권과 함께 반드시 앱스토어 업로드티켓 함께 구매해주셔야 합니다.**
+\*앱스토어는 사용자가 직접 등록이 불가합니다. 따라서 앱스토어 출시도 희망한다면 이용권과 함께 반드시 앱스토어 업로드티켓 함께 구매해주셔야 합니다.
 
-****
+{% hint style="info" %}
+\*이용기간이 기재된 이용권(ex.기본형 이용권 1개월)은 구매 즉시 이용일이 적용되어 당일부터 이용일수가 카운팅되구요.
 
-> <mark style="color:red;">\*이용기간이 기재된 이용권(ex.기본형 이용권 1개월)은 구매 즉시 이용일이 적용되어 당일부터 이용일수가 카운팅되구요.</mark>
->
-> <mark style="color:red;">1개월 이용이 끝나고 다음 결제를 하지 않으면 이용이 중지되오니 월마다 구매를 해주셔야 합니다.</mark>&#x20;
->
-> <mark style="color:red;">따라서 반드시 앱제작 완료 후, 스토어에 앱 등록 준비가 완료되면 이용권 및 업로드티켓을 구매 해주세요.</mark>&#x20;
->
-> <mark style="color:red;">스윙투앱 앱제작은 모두 무료로 이용 가능하기 때문에 충분히 무료로 테스트 해본 뒤 이용권을 구매해주시기 바랍니다.</mark>
+1개월 이용이 끝나고 다음 결제를 하지 않으면 이용이 중지되오니 월마다 구매를 해주셔야 합니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+따라서 반드시 앱제작 완료 후, 스토어에 앱 등록 준비가 완료되면 이용권 및 업로드티켓을 구매 해주세요.&#x20;
 
-<mark style="color:red;">**TIP**</mark>** ** 이용권은 기본형, 확장형, 프리미엄 등 종류가 다양합니다.
+스윙투앱 앱제작은 모두 무료로 이용 가능하기 때문에 충분히 무료로 테스트 해본 뒤 이용권을 구매해주시기 바랍니다.
 
-상품에 따라 제공되는 서비스가 다르기 때문에 각 상품마다 제공되는 서비스 및 기능을 확인해주셔야 해요\~!
+레이스토어는 사용자가 직접 등록이 가능하시면 플레이스토어 업로드티켓은 구매하지 않아도 됩니다.
+{% endhint %}
 
-<mark style="color:blue;">**\[구매하기]**</mark>** 버튼을 누르면 이용권에서 제공되는 서비스, 이용 안내를 상세히 확인할 수 있어요.**
+{% hint style="info" %}
+\-플레이스토어는 개발자 계정이 있어야 등록 가능하오니, 개발자 계정은 미리 등록을 완료해주세요 (구글 개발자 계정은 구글에 25달러 결제 후 이용 가능합니다.)
 
-따라서 구매 전에는 반드시 상품을 확인해주세요.
+\-앱스토어는 애플 개발자 계정 선택사항입니다. (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)
 
-내용을 봐도 잘 모르겠다면 문의게시판으로 문의 남겨주세요. 상세히 안내 도와드리겠습니다. ^^
+\*앱스토어도 출시가 필요하실 경우만 티켓을 구매해주세요. (앱스토어는 직접 등록이 불가하고 스윙투앱 업로드 대행만 가능)
+{% endhint %}
 
+스토어 관련 내용은 아래 스토어 업로드신청에서 각 매뉴얼 상세 확인 가능합니다.
 
 
-<mark style="color:red;">\*플레이스토어는 사용자가 직접 등록이 가능하시면 플레이스토어 업로드티켓은 구매하지 않아도 됩니다.</mark>
 
-**-플레이스토어는 개발자 계정이 있어야 등록 가능하오니, 개발자 계정은 미리 등록을 완료해주세요 (구글 개발자 계정은 구글에 25달러 결제 후 이용 가능합니다.)**
-
-**-앱스토어는 애플 개발자 계정 선택사항입니다. (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)**
-
-<mark style="color:red;">\*앱스토어도 출시가 필요하실 경우만 티켓을 구매해주세요. (앱스토어는 직접 등록이 불가하고 스윙투앱 업로드 대행만 가능)</mark>
-
-\-스토어 관련 내용은 아래 스토어 업로드신청에서 각 매뉴얼 상세 확인 가능합니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
-
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**패키지 상품**</mark>
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**패키지 상품**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%845.png)
 
@@ -90,15 +78,15 @@
 
 앱에 맞는 상품을 확인해주세요. 패키지는 일반 이용권으로 구매하는 것보다 이용기간 대비하여 훨씬 저렴합니다.
 
-따라서 <mark style="color:orange;">**앱 이용을 월 단위가 아닌 장기로 생각하고 있다면, 패키지 상품들도 내용을 확인하여 구매해주시기 바랍니다.**</mark>
+따라서 앱 이용을 월 단위가 아닌 장기로 생각하고 있다면, 패키지 상품들도 내용을 확인하여 구매해주시기 바랍니다.
 
 \-[**\[패키지 상품 구매 페이지\]**](http://www.swing2app.co.kr/view/shop\_list\_by\_package)****
 
 \-[**\[플러그인 상품 구매 페이지\]**](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)****
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.2 스토어 업로드 신청**</mark>
+### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. **<mark style="color:blue;">****</mark>** 스토어 업로드 신청**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
 
@@ -110,9 +98,9 @@
 
 업로드 티켓 구매 후 반드시 위의 방법대로 신청까지 진행해주셔야 합니다. 결제만 하시면 신청이 접수되지 않아요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**&#x20;
+
+****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**&#x20;
 
 플레이스토어 업로드 대행을 하지 않고, 직접 등록을 한다면 플레이스토어 업로드 티켓 구매를 하지 않아도 됩니다.
 
@@ -122,7 +110,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 [**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
 
-**\*AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다.**
+\*AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다.
 
 <mark style="color:red;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.</mark>
 
@@ -134,13 +122,15 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 <mark style="color:red;">\*앱스토어는 직접 등록이 불가하며, 스윙투앱 업로드 대행만 가능합니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
-
-<mark style="color:orange;">\*플레이스토어는 개발자 계정이 있어야 등록 가능하오니, 개발자 계정은 미리 등록을 완료해주세요 (구글 개발자 계정은 구글에 25달러 결제 후 이용 가능합니다.)</mark>
+{% hint style="info" %}
+\*플레이스토어는 개발자 계정이 있어야 등록 가능하오니, 개발자 계정은 미리 등록을 완료해주세요 (구글 개발자 계정은 구글에 25달러 결제 후 이용 가능합니다.)
 
 **☞** [**\[구글개발자 계정 등록방법\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
 
-<mark style="color:orange;">\*앱스토어는 애플 개발자 계정 선택사항입니다. (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)</mark>
+\*앱스토어는 애플 개발자 계정 선택사항입니다. (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)
+{% endhint %}
+
+
 
 **스토어별 업로드 신청 상세 방법은 아래 매뉴얼을 확인해주세요!**
 
@@ -150,7 +140,9 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 업로드 신청완료, 담당자 업로드 진행**</mark>
+![](<../../.gitbook/assets/구분선 (1).PNG>)
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 업로드 신청완료, 담당자 업로드 진행**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%843.png)
 
@@ -168,9 +160,9 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 \-심사가 거절될 경우 거절 사유 및 조치사항을 메일 안내드리며, 재심사는 업로드 티켓 비용 추가 없이 해드립니다.
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 스토어 출시 완료 (심사 후 출시)**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 스토어 출시 완료 (심사 후 출시)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%844.png)
 
@@ -188,9 +180,11 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 꼭꼭\~! 확인해주세요. **☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
 
-***
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-<mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**유료앱 이용에서 자주 묻는 질문 Q\&A**</mark>
+### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP5.** 유료앱 이용에서 자주 묻는 질문 Q\&A
+
+****
 
 **Q. 유료앱 이용시 앱 관리 및 운영은 어떻게 하면 되나요?(무료버전과 다른게 있나요?)**
 
