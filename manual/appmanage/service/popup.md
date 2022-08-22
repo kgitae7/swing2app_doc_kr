@@ -1,14 +1,12 @@
----
-description: 팝업 사용 방법, 팝업 관리 방법 안내
----
-
 # 팝업 이용방법
 
-**팝업이란?**&#x20;
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EC%A0%9C%EB%AA%A9.png)
+
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**팝업이란?**</mark>&#x20;
 
 앱 실행시 새로운  이미지 창을 띄어서 앱 공지나 이벤트 등을 보여줄 수 있는 기능입니다.
 
-스윙앱에서 팝업 서비스를 제공하고 있으며, 다양한 스타일 중에서 원하는 스타일을 선택해서 팝업을 앱에 적용할 수 있습니다.
+스윙트앱에서 팝업 서비스를 제공하고 있으며, 다양한 스타일 중에서 원하는 스타일을 선택해서 팝업을 앱에 적용할 수 있습니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%856\_2020.02.png)
 
@@ -20,17 +18,15 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ***
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-<mark style="color:blue;">**팝업관리 페이지 이동**</mark>
+
+<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**팝업관리 페이지 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%851.png)
 
 **앱운영 페이지 →**[ **서비스관리 → 팝업관리**](http://www.swing2app.co.kr/view/new\_popup) **메뉴 이동**
 
-****
-
-&#x20;** **<mark style="color:blue;"><mark style="color:orange;">**팝업 스타일**<mark style="color:orange;"></mark>
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%851\_2020.02.png)
 
@@ -42,17 +38,17 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%852\_2020.02.png)
 
-팝업 1) 화면에 꽉차는 전체 이미지 한 장
+**팝업 1) 화면에 꽉차는 전체 이미지 한 장**
 
-팝업 2) 화면에 꽉차는 전체 이미지 3장, 슬라이딩으로 넘길 수 있음 (손가락으로 터치하여 넘김, 자동 넘김 구현X)
+**팝업 2) 화면에 꽉차는 전체 이미지 3장, 슬라이딩으로 넘길 수 있음 (손가락으로 터치하여 넘김, 자동 넘김 구현X)**
 
-팝업 3) 화면 위/ 아래에 등록된는 이미지 2장, 2가지의 다른 팝업 이미지 제공
+**팝업 3) 화면 위/ 아래에 등록된는 이미지 2장, 2가지의 다른 팝업 이미지 제공**
 
-팝업 4) 총 9개의 분할 이미지 등록, 하단 이미지 선택시 상단에 이미지가 확대되어 보이는 스타일
+**팝업 4) 총 9개의 분할 이미지 등록, 하단 이미지 선택시 상단에 이미지가 확대되어 보이는 스타일**
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 팝업 적용하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. 팝업 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%853\_2020.02.png)
 
@@ -92,9 +88,9 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 \*이미지 변경, 이미지 삭제: 해당 팝업 이미지를 다른 이미지를 변경할 수 있고, 이미지를 삭제할 수도 있습니다.
 
-<mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**앱 실행화면 – 팝업 적용 화면**</mark>
+
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면 – 팝업 적용 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_02\_16\_23\_24\_13\_769.gif)
 
@@ -102,15 +98,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 팝업에 적용시킨 이미지를 선택하면, 연동된 블로그 페이지로 이동합니다.
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
-
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**2. 팝업 나머지 스타일 – 앱 실행화면**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**02. 팝업 나머지 스타일 – 앱 실행화면**</mark>
 
-<mark style="color:orange;">****</mark>
-
-<mark style="color:orange;">**두번째 팝업 스타일**</mark>
+<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**두번째 팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85\_%EB%91%90%EB%B2%88%EC%A7%B8\_%EC%8A%A4%ED%83%80%EC%9D%BC.png)
 
@@ -128,7 +120,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 
 
-<mark style="color:blue;"><mark style="color:orange;">**세번째 팝업 스타일**<mark style="color:orange;"></mark>
+<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**세번째 팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EC%84%B8%EB%B2%88%EC%A7%B8\_%EC%8A%A4%ED%83%80%EC%9D%BC.png)
 
@@ -148,7 +140,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 
 
-<mark style="color:orange;">**네번째 팝업 스타일**</mark>
+<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**네번째 팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EB%84%A4%EB%B2%88%EC%A7%B8%EC%8A%A4%ED%83%80%EC%9D%BC.png)
 
@@ -157,6 +149,8 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 이미지는 9장 모두 등록해주셔야 합니다. 권장 해상도(1024px\*960px)입니다.
 
 \*각 이미지마다 링크마법사를 실행하여 연동할 페이지는 다르게 적용할 수 있습니다.
+
+
 
 ​
 
@@ -168,8 +162,9 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 해당 이미지 선택시 연동해놓은 페이지로 이동합니다.
 
-{% hint style="success" %}
-**팝업관리 안내**
+***
+
+<mark style="color:red;">**\[팝업관리 안내사항]**</mark>
 
 \-팝업을 사용하지 않을 경우 “팝업 활성화” 체크 박스에 체크를 풀어 준 뒤- 변경사항 적용하기 버튼을 눌러주세요.
 
@@ -186,5 +181,3 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 스윙투앱에서 제공하는 팝업 메뉴는 모든 사용자들이 무료로 만들 수 있습니다.
 
 팝업기능을 통해서 새로운 내용을 홍보하거나, 단기 이벤트로 내용을 더욱 효과적으로 전달해보세요 ^^
-{% endhint %}
-
