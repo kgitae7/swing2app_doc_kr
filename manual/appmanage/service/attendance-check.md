@@ -1,8 +1,8 @@
+---
+description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안내
+---
+
 # 출석체크
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%A0%9C%EB%AA%A9-1024x283.png)
-
-**출석체크 이용방법**
 
 **출석체크는 커뮤니티 및 이벤트로 사용할 수 있는 메뉴로 게시판과 비슷하지만, 출석 댓글 기능 및 마감 기능이 있다는 점에서 차이점이 있어요!**
 
@@ -10,19 +10,19 @@
 
 다양한  출석체크 이벤트로 앱 회원들의 참여를 이끌어낼 수 있습니다.
 
-<mark style="color:purple;">**매뉴얼을 통해서출석체크 게시물을 등록하고, 이벤트에 참여하는 방법 등 출석체크를 활용하는 방법을 확인해주세요!**</mark>
+매뉴얼을 통해서출석체크 게시물을 등록하고, 이벤트에 참여하는 방법 등 출석체크를 활용하는 방법을 확인해주세요!
 
-***
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">**STEP.1 출석체크 등록하기**</mark>
+### ****![](<../../../.gitbook/assets/image (2).png>) **STEP1. 출석체크 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
 
-**앱운영 페이지 → 서비스관리 → 출석체크 메뉴로 이동합니다.**
+[앱운영 페이지 → 서비스관리 → 출석체크 ](http://www.swing2app.co.kr/view/attendance\_board)메뉴로 이동합니다.
 
 ****
 
-<mark style="color:orange;">**1. 출석체크 등록하기**</mark>
+<mark style="color:blue;">**1. 출석체크 등록하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC\_2.png)
 
@@ -42,7 +42,7 @@
 
 <mark style="color:purple;">****</mark>
 
-<mark style="color:orange;">**2. 출석체크 자동등록**</mark>
+<mark style="color:blue;">**2. 출석체크 자동등록**</mark>
 
 **\*설정한 주기에 맞춰 출석체크 게시물을 자동으로 게시되고자 할 때 이용해주세요!!**
 
@@ -60,11 +60,11 @@
 
 5\) 반복주기- 매주, 매일, 특정 요일, 시간 대를 선택해서 주기를 설정합니다.
 
-<mark style="color:purple;">\*\* 자동 등록 설정 역시 푸시 설정을 등록할 수 있습니다.</mark>
+<mark style="color:red;">\*\* 자동 등록 설정 역시 푸시 설정을 등록할 수 있습니다.</mark>
 
 <mark style="color:purple;"></mark>
 
-<mark style="color:orange;">**3. 출석체크 마감**</mark>
+<mark style="color:blue;">**3. 출석체크 마감**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC\_3.png)
 
@@ -78,11 +78,13 @@
 
 ****
 
-### <mark style="color:blue;">**STEP.2  출석체크 메뉴 앱에 적용하기**</mark>
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-**출석체크 작성이 완료되면, 앱에 적용해야하겠죠?**
+### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
 
-**앱제작 – 페이지 메뉴로 이동해서, 출석체크를 앱에 적용해볼게요!**
+출석체크 작성이 완료되면, 앱에 적용해야하겠죠?
+
+앱제작 – 페이지 메뉴로 이동해서, 출석체크를 앱에 적용해볼게요!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99-%EA%B8%B0%EB%8A%A5-%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%ACnew.png)
 
@@ -106,7 +108,9 @@
 
 ***
 
-### <mark style="color:blue;">**STEP.3  앱 실행화면 – 출석체크 확인**</mark>
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
+
+### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
 
 앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 
@@ -130,10 +134,11 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 운영자 대시보드 확인**</mark>
+<mark style="color:blue;">**앱 운영자 대시보드 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
 
 앱 운영자는 앱운영 대시보드 – 출석체크 페이지에서 출석체크 게시물에 달린 댓글을 확인할 수 있구요.
 
 사용자 이름을 선택하면, 해당 회원 정보를 확인할 수 있습니다.
+
