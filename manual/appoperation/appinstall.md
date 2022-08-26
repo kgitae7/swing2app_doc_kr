@@ -1,8 +1,6 @@
----
-description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설치(다운)하는 방법 매뉴얼
----
-
 # 앱 다운받는 방법 (APK파일 핸드폰 설치)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B8%EB%93%9C%ED%8F%B0%EC%95%B1-%EB%8B%A4%EC%9A%B4-1024x282.png)
 
 **스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설치하는 방법을 알려드리겠습니다.**
 
@@ -20,9 +18,11 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 아래 매뉴얼을 통해서 앱제작완료 후 APK파일(앱)을 다운받아 설치하는 방법을 확인해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱제작 완료하기**
+.
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱제작 완료하기**</mark>
 
 **1. 앱제작 요청 버튼 선택**
 
@@ -80,9 +80,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:red;">\*APK파일 설치는 안드로이드폰에서만 설치가 가능합니다. (아이폰은 지원이 안됩니다.)</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 안드로이드폰에서 APK파일을 다운 받는 방법**</mark>
 
 스윙투앱에서 제작한 무료버전 앱을 다운 받는 방법은 2가지입니다.
 
@@ -94,9 +94,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 **1. 스윙투앱 공식앱 – 앱미리보기 이용**
 
-스윙투앱 공식앱 -앱미리보기에서 앱을 다운받는 방법이 이용하시기에 가장 편리합니다. \_보안상의 문제 없이 다운이 가능!
+**스윙투앱 공식앱 -앱미리보기에서 앱을 다운받는 방법이 이용하시기에 가장 편리합니다. \_보안상의 문제 없이 다운이 가능!**
 
-따라서 앱을 다운받으실 때는 앱미리보기를 이용하시기를 권장드립니다.&#x20;
+**따라서 앱을 다운받으실 때는 앱미리보기를 이용하시기를 권장드립니다.**&#x20;
 
 <mark style="color:red;">\*안드로이드폰에서 앱 다운이 가능합니다.</mark>&#x20;
 
@@ -106,9 +106,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
 
-[**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
+<mark style="background-color:blue;">**▶**</mark>** ** [**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
 
-[**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
+<mark style="background-color:blue;">**▶**</mark>** ** [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
 
 
@@ -118,19 +118,17 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 **-간편로그인 사용자: 스윙투앱 가입시 간편로그인으로 진행하셨던 분들을 네이버, 구글,페이스북 아이콘을 선택해서 로그인을 진행해주세요.**
 
-<mark style="color:red;">\*주의: 로그인은 반드시 \[</mark>[<mark style="color:red;">스윙투앱 홈페이지</mark>](http://www.swing2app.co.kr)<mark style="color:red;">]에서 가입한 계정을 넣어주셔야 합니다.</mark>
+<mark style="color:red;">**\*주의: 로그인은 반드시 \[**</mark>[<mark style="color:red;">**스윙투앱 홈페이지**</mark>](http://www.swing2app.co.kr)<mark style="color:red;">**]에서 가입한 계정을 넣어주셔야 합니다.**</mark>
 
-<mark style="color:red;">스윙투앱 공식앱에서 가입한 계정이 아니에요\~!</mark>
+<mark style="color:red;">**스윙투앱 공식앱에서 가입한 계정이 아니에요\~!**</mark>
 
-{% hint style="success" %}
-**안내**
+> **안내**
 
 아이폰은 앱 미리보기 – 간편 로그인 기능이 제공되지 않습니다.
 
 간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or  QR코드로 미리보기 기능으로 이용해주세요.&#x20;
-{% endhint %}
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
 
@@ -140,15 +138,15 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 \*안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
-> \-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜬다면 ‘무시하고 설치’ 하고 진행해주시기 바랍니다.&#x20;
+> **-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜬다면 ‘무시하고 설치’ 하고 진행해주시기 바랍니다.**&#x20;
 >
-> \-스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)
+> **-스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)**
 >
-> \-따라서 <mark style="color:red;">아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.</mark>
+> **-따라서 **<mark style="color:red;">**아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**</mark>
 
 ****
 
-<mark style="color:blue;"><mark style="color:orange;">****<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> ** **<mark style="color:blue;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_03\_24\_12\_34\_24\_881.gif)
 
@@ -196,7 +194,7 @@ APK파일이 핸드폰으로 다운됩니다.
 
 
 
-<mark style="color:blue;">**어플리케이션 설치완료!!**</mark>
+<mark style="color:orange;">**어플리케이션 설치완료!!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%80-41.png)
 
@@ -206,9 +204,7 @@ APK파일이 핸드폰으로 다운됩니다.
 
 무료이용자도 유료이용자와 동일한 기능, 앱운영을 이용할 수 있습니다\~!!
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
 <mark style="color:green;">**★그런데 만약 메일에서 정상적으로 다운이 안된다면, 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!**</mark>
 
@@ -220,9 +216,9 @@ APK파일이 핸드폰으로 다운됩니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-3.png)
 
-\[앱다운로드 하기] 버튼을 길게 누르면 앱 URL 복사 팝업창이 뜹니다.
+**\[앱다운로드 하기] 버튼을 길게 누르면 앱 URL 복사 팝업창이 뜹니다.**
 
-앱설치 URL을 복사할 수 있어요.
+**앱설치 URL을 복사할 수 있어요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%98123.png)
 
@@ -240,7 +236,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 ​
 
-****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> ** **<mark style="color:blue;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_09\_22\_13\_50\_52\_221.gif)
 

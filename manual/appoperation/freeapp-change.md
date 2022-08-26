@@ -1,18 +1,18 @@
+---
+description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱으로 전환하는 방법
+---
+
 # 유료앱 기간 종료 후 무료앱 전환방법
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EB%AC%B4%EB%A3%8C%EC%95%B1%EC%A0%84%ED%99%98-%EC%A0%9C%EB%AA%A9.png)
-
-**이용기간이 만료된 유료버전앱에서 → 무료버전앱으로 전환하는 방법**
 
 유료앱 이용기간이 만료된 앱에서 무료버전앱으로 다시 전환하여 이용하는 방법을 알려드립니다.&#x20;
 
-따라서 **이용기간이 만료된 후 다시 무료앱으로 개인적인 용도 내에서 사용하실 분들은 해당 매뉴얼을 참고하여 이용할 수 있습니다.**
+따라서 이용기간이 만료된 후 다시 무료앱으로 개인적인 용도 내에서 사용하실 분들은 해당 매뉴얼을 참고하여 이용할 수 있습니다.
 
-***
+먼저! 전환방법을 보기 전 아래 주의사항을 확인해주세요!!
 
-**먼저! 전환방법을 보기 전 아래 주의사항을 확인해주세요!!**
+****
 
-<mark style="color:orange;">**★ 유료버전앱 → 무료버전 앱 전환 주의사항**</mark>
+<mark style="color:orange;"><mark style="color:blue;"><mark style="color:blue;"></mark><img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:orange;"><mark style="color:blue;"><mark style="color:blue;"></mark> **유료버전앱 → 무료버전 앱 전환 주의사항**
 
 <mark style="color:green;">**1.유료버전앱 이용기간이 종료되어야 무료앱으로 전환할 수 있습니다.**</mark>
 
@@ -40,9 +40,10 @@
 
 따라서 이렇게 전환된 앱 역시 아이폰은 이용이 불가하며 안드로이드폰에서만 이용가능합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
 
-<mark style="color:orange;">**★ 이용방법 간단 정리**</mark>
+
+{% hint style="success" %}
+<mark style="color:green;">**★ 이용방법 간단 정리**</mark>
 
 1\)이용기간이 만료된 유료앱 확인
 
@@ -57,10 +58,11 @@
 6\)그 외에 플레이스토어 등에 올라간 앱은 사용자분들이 직접 내려주실 수 있습니다.
 
 (앱스토어는 요청주시면 내려드립니다)
+{% endhint %}
 
-***
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.1 유료앱 이용기간 만료된 앱 실행화면**</mark>
+### ![](<../../.gitbook/assets/image (2).png>) STEP1. <mark style="color:blue;"></mark> 유료앱 이용기간 만료된 앱 실행화면
 
 먼저 유료앱 이용기간이 종료된 앱 실행화면을 확인해볼게요!
 
@@ -70,37 +72,39 @@
 
 앱 이용에 제한이 있습니다. (앱 화면이 뜨지 않고 종료됨)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.2 설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**</mark>
+### ****![](<../../.gitbook/assets/image (2).png>) **STEP2. **<mark style="color:blue;">****</mark>** 설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/3.jpg)
 
 무료로 전환된 앱을 다시 다운 받아야 하기 때문에 기존에 안드로이드폰에 설치된 유료앱은 삭제해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 앱 다시 제작하기 (앱제작페이지에서 앱제작요청)**</mark>
+### ****![](<../../.gitbook/assets/image (2).png>) **STEP3. **<mark style="color:blue;">****</mark>** 앱 제작 다시하기 (앱제작에서 앱 업데이트)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EB%AC%B4%EB%A3%8C%EC%95%B1%EC%A0%84%ED%99%983.png)
 
 <mark style="color:red;">\*\*이용기간이 종료된 앱을 다시 제작하면 앱은 자동으로 무료로 전환이 되요!</mark>
 
-**따라서 스윙투앱 앱제작 페이지로 오셔서 \[앱제작 요청] 버튼을 눌러서 앱을 재제작 해주세요!**
+**따라서 스윙투앱 앱제작 페이지로 오셔서 \[앱 업데이] 버튼을 눌러서 앱을 재제작 해주세요!**
 
 디자인이나 기본정보에서 수정할 내용이 있으면 수정하시고 제작해주시면 되구요.
 
-수정할 내용이 없으면 바로 \[앱제작요청] 눌러주시면 됩니다.
+수정할 내용이 없으면 바로 \[앱 업데이] 눌러주시면 됩니다.
 
-<mark style="color:green;">\*앱을 업데이트 하는 것이 아니라 기존 앱을 지우고, 새로 만들어진 앱으로 설치를 다시 해야해요.</mark>
+<mark style="color:red;">\*앱을 업데이트 하는 것이 아니라 기존 앱을 지우고, 새로 만들어진 앱으로 설치를 다시 해야해요.</mark>
 
-<mark style="color:green;">따라서 앱제작요청시 뜨는 업데이트 유형 선택, 표시 옵션은 중요하지 않구요. 어떻게 체크하든 상관이 없습니다.</mark>
+<mark style="color:red;">따라서 앱제작요청시 뜨는 업데이트 유형 선택, 표시 옵션은 중요하지 않구요. 어떻게 체크하든 상관이 없습니다.</mark>
 
 \[제작하기] 버튼을 눌러주세요. 제작은 5분 이내로 되니 잠시만 기다려주세요!!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
 
-### <mark style="color:blue;">**STEP.4 앱 다운 받기**</mark>
+
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+### ****![](<../../.gitbook/assets/image (2).png>) **STEP4. 앱 다운 받기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/4.jpg)
 
@@ -110,9 +114,9 @@
 
 \[앱 다운로드] 버튼을 누르면 안드로이드폰에서 앱 설치가 됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.5 무료앱 전환 완료**</mark>
+### ****![](<../../.gitbook/assets/image (2).png>) **STEP5. 무료앱 전환 완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/2.jpg)
 
@@ -124,15 +128,14 @@
 
 스윙투앱 애플 계정으로 앱스토어에 대리 등록한 분들은 문의게시판으로 남겨주시면 앱을 내려드릴 수 있어용!
 
-***
-
-<mark style="color:orange;">**★ 이용방법 간단 정리**</mark>
+{% hint style="success" %}
+<mark style="color:green;">**이용방법 간단 정리**</mark>
 
 1\)이용기간이 만료된 유료앱 확인
 
 2\)안드로이드폰에 설치된 앱 삭제 (기존에 다운받은 유료앱 삭제)
 
-3\)앱제작 페이지에서 \[앱제작요청] 버튼 선택 (앱을 새로 제작하면 무료버전으로 전환됩니다)
+3\)앱제작 페이지에서 \[앱 업데이] 버튼 선택 (앱을 새로 제작하면 무료버전으로 전환됩니다)
 
 4\)스윙투앱 공식앱 – 앱미리보기에서 – 앱 다운로드 진행
 
@@ -143,3 +146,6 @@
 (앱스토어는 요청주시면 내려드립니다)
 
 이용기간이 만료된 후 다시 무료앱으로 개인적인 용도 내에서 사용하실 분들은 해당 매뉴얼을 참고하여 이용해주세요!
+{% endhint %}
+
+***
