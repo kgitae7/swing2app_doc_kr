@@ -236,7 +236,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> <mark style="color:blue;"></mark><mark style="color:blue;">4. 앱스토어 업로드 신청완료</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 앱스토어 업로드 신청완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png)
 
