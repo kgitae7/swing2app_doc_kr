@@ -1,6 +1,8 @@
-# 플레이스토어 업로드 신청방법
+---
+description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법 매뉴얼
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A0%9C%EB%AA%A9.png)
+# 플레이스토어 업로드 신청방법
 
 **플레이스토어 업로드 신청방법**
 
@@ -58,21 +60,21 @@
 
 **☞** [**\[앱스토어 업로드 신청방법 보러가기\]**](appstore-upload.md)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 플레이스토어 업로드 신청방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 플레이스토어 업로드 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%88%98%EC%A0%951.png)
 
 스윙 유료앱 이용권, 플레이스토어 업로드티켓을 모두 구매 완료하구요.
 
-플레이스토어 업로드티켓(1회 10,000원)은 [**\[이용권 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/shop\_list)에서 구매 가능합니다. ☞&#x20;
+플레이스토어 업로드티켓(1회 10,000원)은 [**\[이용권 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/shop\_list)에서 구매 가능합니다.
 
-**\*구매가 완료되었다면,** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)**로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.**
+\*구매가 완료되었다면, **** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 플레이스토어 업로드 신청서**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 플레이스토어 업로드 신청서**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C-1.png)
 
@@ -90,11 +92,11 @@
 
 해당 항목이 플레이스토어에서 어떻게 표시되는지 확인하여 기재해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 플레이스토어 업로드 신청서 작성방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 플레이스토어 업로드 신청서 작성방법
 
-**업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.**&#x20;
+업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9Cnew2.png)
 
@@ -134,17 +136,25 @@
 
 **6) 그래픽 이미지**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD\_1-1.png)
+그래픽이미지 노출 위치: **플레이스토어 스크린샷 이미지 앞에 미리보기 동영상 표지 이미지로 사용 및 노출이 됩니다.**
 
-그래픽이미지는 플레이스토어에 보여지는 이미지는 아니구요.
+이미지 참고)
 
-출시 후 스토어 출시 링크를 공유하게 되면 페이지 정보에서 섬네일 이미지로 표시가 됩니다\~!
+<figure><img src="../../../.gitbook/assets/그래픽이미지가이드_사이즈.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+프로모션 동영상 URL을 제출하였을 경우 맨 앞에 영상이 보여지는데, 그래픽 이미지가 영상의 표지 이미지로 사용이 됩니다.
+
+프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 어디서도 노출이 되지 않습니다.&#x20;
+
+그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지를 사용합니다.
 
 **7) 앱 기본언어:** 플레이스토어에 보여질 언어를 선택합니다.
 
 **8)로그인 계정 입력**
 
-앱에서 로그인 가능한 계정을 입력합니다.
+앱에서 로그 가능한 계정을 입력합니다.
 
 앱에서 회원가입, 로그인 기능이 있을 경우 테스트 계정을 반드시 입력해주세요.
 
@@ -182,9 +192,11 @@
 
 **구글에 등록비 25$(평생이용료) 결제 후 사용가능합니다.**
 
-> <mark style="color:orange;">**구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.**</mark>&#x20;
->
-> **☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer-invitation/)
+{% hint style="warning" %}
+<mark style="color:orange;">**구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.**</mark>&#x20;
+
+**☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer-invitation/)
+{% endhint %}
 
 개발자 초대를 해주셔야 사용자분의 계정 대시보드 접근이 가능하며, 앱 등록 작업을 해드릴 수 있습니다.
 
@@ -202,7 +214,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C4.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**마케팅 정보 활용 약관이란?**</mark>
+****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
 
 업로드 신청서에 보시면\[마케팅 정보 활용 약관 보기] 버튼이 있습니다.
 
@@ -215,6 +227,8 @@
 \-마케팅 채널에 소개되는 것을 원치 않으면 ‘동의안함’에 체크해주시면 됩니다.
 
 \* 이용권만 구매한 뒤 플레이스토어 업로드티켓을 구매하지 않으셔도, 이벤트 참여해주시면 무료로 플레이스토어 업로드를 이용할 수 있습니다.
+
+
 
 <mark style="color:red;">**★ 주의**</mark>
 
@@ -234,9 +248,9 @@
 
 **16) 입력이 완료되면 \[신청하기] 버튼을 눌러주세요.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 업로드 신청완료**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 업로드 신청완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%EC%88%98%EC%A0%95\_19.10.png)
 
@@ -253,6 +267,8 @@
 띠라서 업로드 신청시 반드시 해당 내용 유념해주세요\~^^
 
 ***
+
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[안내사항]**</mark>
 
@@ -294,6 +310,6 @@
 
 
 
-<mark style="color:orange;">**★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.**</mark>&#x20;
+★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다. <mark style="color:orange;">****</mark>&#x20;
 
 **☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
