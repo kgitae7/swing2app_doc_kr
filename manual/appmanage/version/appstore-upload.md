@@ -1,6 +1,8 @@
-# 앱스토어 업로드 신청방법
+---
+description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%A0%9C%EB%AA%A9.png)
+# 앱스토어 업로드 신청방법
 
 **앱스토어 업로드 신청방법**
 
@@ -74,9 +76,9 @@
 
 무료버전에서는 앱스토어업로드 티켓을 구매할 수 없고, 업로드 신청도 불가능합니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱스토어 업로드 신청**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱스토어 업로드 신청
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%952.png)
 
@@ -86,11 +88,9 @@
 
 **\*구매가 완료되었다면,** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)**로 이동한 뒤 \[앱스토어 업로드 신청] 버튼을 눌러주세요.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱스토어 업로드 신청서**</mark>
-
-**앱스토어 업로드 신청서 양식**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱스토어 업로드 신청서 가이
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4new1.png)
 
@@ -106,9 +106,9 @@
 
 해당 항목이 앱스토에서 어떻게 표시되는지 확인하여 기재해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 앱스토어  업로드 신청서 작성방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 앱스토어  업로드 신청서 작성방법
 
 **업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.**
 
@@ -142,7 +142,7 @@
 
 개인정보 처리방침 등의 이용정책을 수정하기 위해서는 <mark style="color:purple;">**\[스윙 이용정책 수정하기]**</mark> 버튼을 눌러서 수정한 뒤, 저장해주시면 됩니다.
 
-<mark style="color:orange;">**\*사용자의 홈페이지를 그대로 앱에 적용해서 만든 푸시 or 웹뷰 버전 앱은 해당 홈페이지에서 제공하는 개인정보 처리방침 URL을 복사해서 붙여넣어주세요.**</mark>
+<mark style="color:orange;">\*사용자의 홈페이지를 그대로 앱에 적용해서 만든 푸시 or 웹뷰 버전 앱은 해당 홈페이지에서 제공하는 개인정보 처리방침 URL을 복사해서 붙여넣어주세요.</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9Cnew3.png)
 
@@ -156,11 +156,11 @@
 
 <mark style="color:red;">\*또한 앱과 관련없는 이미지를 넣을 수 없으며, 앱 실행화면을 캡쳐해야 합니다.</mark>
 
-> <mark style="color:red;">-일반 프로토타입으로 앱을 제작한 분은 ‘아이폰 앱미리보기’에서 앱화면을 캡쳐해주세요.</mark>
->
-> <mark style="color:red;">-웹뷰or 푸시앱으로 제작한 분은 아이폰에서 앱 미리보기 지원이 안되요</mark>
->
-> <mark style="color:red;">따라서 아이폰에서 웹을 실행해서 캡쳐를 하거나 or 안드로이드폰으로 캡쳐한 뒤 포토샵 등을 이용하여 안드로이드 표시항목 제거 한 뒤 사이즈를 수정해주셔야 합니다.</mark>&#x20;
+* 일반 프로토타입으로 앱을 제작한 분은 ‘아이폰 앱미리보기’에서 앱화면을 캡쳐해주세요.
+* 웹뷰 or 푸시앱으로 제작한 분은 아이폰에서 앱 미리보기 지원이 안되요 <mark style="color:red;"></mark>&#x20;
+* 아이폰에서 웹을 실행해서 캡쳐를 하거나 or 안드로이드폰으로 캡쳐한 뒤 포토샵 등을 이용하여 안드로이드 표시항목 제거 한 뒤 사이즈를 수정해주셔야 합니다.&#x20;
+
+<mark style="color:red;"></mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B85-1-e1618375867185.png)
 
@@ -178,17 +178,11 @@
 
 해당 계정은 실제 애플 연구원이 로그인하여 앱 내 메뉴를 확인하는 용도로 이용됩니다.
 
-
-
 11\)**앱 기본언어**: 앱스토어 앱 출시 언어를 선택합니다. 해당 언어로 앱스토어에 출시가 됩니다.
 
 \*영어로 출시한다면 모든 언어는 영어로 작성해주셔야 하며, 한글로 출시한다면 신청서의 모든 언어 한글로 기재해야 합니다.
 
-
-
 12\)**카테고리**: 앱스토어에서 분류되는 카테고리 항목을 결정합니다. 앱의 성격에 맞는 카테고리를 선택해주세요.
-
-
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9Cnew4.png)
 
@@ -200,8 +194,6 @@
 
 <mark style="color:red;">→ 2가지 방법 중에서 한 가지를 선택해주세요.</mark>
 
-<mark style="color:red;"></mark>
-
 **(1)스윙 애플 앱스토어 개발자 계정 사용 -스윙투앱 계정으로 대리등록**
 
 사용자분은 애플 개발자 계정을 만들지 않아도 되며, **‘Swing2App Co.Ltd.’스윙투앱 애플 계정으로 앱이 등록됩니다.**
@@ -210,7 +202,7 @@
 
 내용 확인을 한 뒤 **“앱스토어 앱등록 이용정책에 동의해주시기 바랍니다”** 버튼을 선택해주세요.
 
-​
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%8C%80%EB%A6%AC%EB%93%B1%EB%A1%9D-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.png)
 
@@ -226,11 +218,9 @@
 
 ****[**\*\[애플 개발자 계정을 만드는 방법** <mark style="color:red;"></mark> **매뉴얼\]**](https://wp.swing2app.co.kr/knowledgebase/apple-developer/)****
 
-****
+14\) **연락처(휴대폰번호)**
 
-14\) **연락처(휴대폰번호):** 담당자분의 핸드폰번호를 기재해주세요. 업로드 진행상황 안내, 계정 확인이 필요할 경우 연락드립니다.
-
-
+&#x20;담당자분의 핸드폰번호를 기재해주세요. 업로드 진행상황 안내, 계정 확인이 필요할 경우 연락드립니다.
 
 15\) **앱스토어 앱등록 이용정책 동의**
 
@@ -238,19 +228,15 @@
 
 해당 버튼을 눌러서 앱스토어 이용정책을 반드시 숙지한 뒤 **‘동의함’**에 체크해주세요.
 
-​
-
 16\) ** **<mark style="color:blue;">**\[신청하기]**</mark> 버튼을 누르면 앱스토어 업로드 신청이 완료됩니다.
-
-
 
 반드시 업로드 이용정책을 확인해주세요!
 
 주의사항을 확인하지 않아 발생되는 피해는 당사에서 책임지지 않습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. 앱스토어 업로드 신청완료**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> <mark style="color:blue;"></mark><mark style="color:blue;">4. 앱스토어 업로드 신청완료</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png)
 
@@ -262,7 +248,7 @@
 
 따라서 업로드 신청시 반드시 해당 내용 유념해주세요\~^^
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[안내사항]**</mark>
 
