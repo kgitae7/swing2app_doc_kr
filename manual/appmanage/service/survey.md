@@ -28,11 +28,13 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 <mark style="background-color:blue;">**▶**</mark>** 사용자들이 입력한 설문 결과 확인하기**\
 앱운영 페이지 → 서비스관리 →설문관리→참여 인원에서 ‘숫자’ 선택 → ‘사용자’를 선택하면 설문 결과를 확인할 수 있습니다.
 
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
+### STEP1. 설문조사 만들기
 
-### <mark style="color:blue;">**STEP.1 설문조사 만들기**</mark>
+<mark style="color:blue;">****</mark>
 
-<mark style="color:orange;">**1. 설문관리 메뉴 → 설문추가**</mark>
+<mark style="color:blue;">**1. 설문관리 메뉴 → 설문추가**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%832.png)
 
@@ -40,9 +42,11 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 2\) \[설문추가] 버튼을 선택합니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:orange;">**2. 설문조사 관리 – 기본 정보 입력**</mark>
+
+
+
+<mark style="color:orange;">2. 설문조사 관리 – 기본 정보 입력</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%831.png)
 
@@ -64,7 +68,9 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 \+공지사항으로 많은 사용자들에게 설문조사를 알려야 한다면 푸시를 사용하는 것도 좋은 방법입니다. &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+
+
+
 
 <mark style="color:orange;">**3. 설문조사 항목 입력**</mark>
 
@@ -110,7 +116,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 사용자들에게 어떤 설문 내용인지를 소개하고 설명하는 용도로 사용할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+
 
 <mark style="color:orange;">**5. 답변 유형별 설문지 만들기**</mark>&#x20;
 
@@ -128,7 +134,9 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 (5)저장하기 버튼 완료
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**GIF이미지로 단일선택 설문지를 만드는 방법을 확인해주세요**</mark>
+
+
+&#x20;** **<mark style="color:orange;">**GIF이미지로 단일선택 설문지를 만드는 방법을 확인해주세요**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_01\_18\_18\_10\_48\_503.gif)
 
@@ -146,7 +154,9 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 (5)저장하기 버튼 완료
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**GIF이미지로 다중선택 설문지를 만드는 방법을 확인해주세요**</mark>
+
+
+<mark style="color:orange;">**GIF이미지로 다중선택 설문지를 만드는 방법을 확인해주세요**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_01\_18\_18\_12\_19\_716.gif)
 
@@ -166,29 +176,33 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 (5)저장하기 버튼 완료
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**GIF이미지로 서술형 설문지를 만드는 방법을 확인해주세요**</mark>
+<mark style="color:orange;">****</mark>
+
+<mark style="color:orange;">**GIF이미지로 서술형 설문지를 만드는 방법을 확인해주세요**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_01\_18\_18\_13\_16\_888.gif)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:orange;">**6. 설문지 작성 완료!**</mark>
+
+<mark style="color:orange;">6. 설문지 작성 완료!</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%838.png)
 
 설문지 기본 설정 및 내용입력이 모두 완료되면 **‘저장하기**‘를 눌러주세요.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%839.png)
 
 설문조사 관리 페이지에 보시면, 등록완료된 설문지를 확인할 수 있습니다\~!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.2 앱에 설문조사 메뉴 적용하기**</mark>
+### STEP2. 앱에 설문조사 메뉴 적용하기
 
-**앱운영에서 설문조사지를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?**
+앱운영에서 설문조사지를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
 
-**앱에 설문조사 메뉴를 적용하는 방법을 알려드릴게요!**
+앱에 설문조사 메뉴를 적용하는 방법을 알려드릴게요!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%ACNEW1.png)
 
@@ -208,9 +222,9 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 앱 실행화면**</mark>
+### STEP3. 앱 실행화면
 
 **앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!**
 
@@ -222,7 +236,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**설문조사 항목 답변하기**</mark>
+<mark style="color:orange;">**설문조사 항목 답변하기**</mark>
 
 <mark style="color:purple;">**-안내페이지**</mark>
 
@@ -268,9 +282,9 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 이렇게 전송된 설문조사는  앞에 보여드린 설문조사 관리 페이지에서 관리자가 설문 결과를 확인할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.4 설문조사 결과 확인 & 설문조사 관리**</mark>
+### STEP4. 설문조사 결과 확인 & 설문조사 관리
 
 **설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?**
 
@@ -306,7 +320,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**설문조사 공유도 가능해요**</mark>
+<mark style="color:orange;">**설문조사 공유도 가능해요**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%8312.png)
 
