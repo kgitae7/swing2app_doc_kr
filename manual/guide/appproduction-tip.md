@@ -1,14 +1,14 @@
-# 앱제작, 앱운영 ﻿이용방법 TIP
+---
+description: 스윙투앱 앱제작 및 앱운영 이용방법 TIP
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EC%9D%B4%EC%9A%A9%ED%8C%81-%EB%8F%84%EC%9B%80%EB%A7%90%EC%84%AC%EB%84%A4%EC%9D%BC.png)
+# 앱제작, 앱운영 ﻿이용방법 TIP
 
 **스윙투앱 앱제작 및 앱운영 이용방법 TIP**&#x20;
 
 스윙투앱 앱제작 및 앱운영 이용방법  TIP을 확인해주세요!
 
-***
-
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**1. 앱제작 – 튜토리얼 확인**</mark>
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 앱제작 – 튜토리얼 확인
 
 ![](../../.gitbook/assets/이용팁1\_886.png)
 
@@ -24,7 +24,9 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**2. 도움말 이용하기**</mark>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 도움말 이용하기
 
 스윙투앱은 앱제작 및 앱운영 메뉴 이용방법을 알려주는 온라인 도움말 매뉴얼을 제공하고 있습니다. &#x20;
 
@@ -62,4 +64,5 @@
 
 앱제작시 제작방법이 어렵다면 ‘ ? ‘ 아이콘을 선택해서 그때 그때 해당 메뉴 제작방법을 확인해주시구요.
 
-도움말 사이트에서 스윙앱제작 매뉴얼을 검색해서 제작방법을 확인해주세요.\~!!
+도움말 사이트에서 스윙앱제작 매뉴얼을 검색해서 제작방법을 확인해주세요.
+
