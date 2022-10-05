@@ -244,7 +244,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 <figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
 
-### **웹뷰앱 제작 안내사항**
+<mark style="color:red;">**웹뷰앱 제작 안내사항**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B05.png)
 
@@ -346,11 +346,11 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 **1. 단기 이용: 스윙투앱 기본 이용권 (1개월씩 이용권 매달 구매)**
 
-****
+<figure><img src="../../../.gitbook/assets/유료버전1-768x772.png" alt=""><figcaption></figcaption></figure>
 
-**– 구매 상품 안내 –**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**구매 상품 안내**&#x20;
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **스윙 기본형 이용권(1개월) 33,000원 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**
+&#x20;**스윙 기본형 이용권(1개월) 33,000원 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**
 
 \-유료앱 이용권은 1개월 기간이 있는 상품이기 때문에 매달 33,000원씩 결제해주셔야 합니다.
 
@@ -368,15 +368,15 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 **2.장기이용: 웹뷰 무제한 유료앱 (한 번 결제시 기간 제한이 없이 무제한 이용 가능)**
 
-****
+<figure><img src="../../../.gitbook/assets/웹뷰상품구매1_20.07-768x772.png" alt=""><figcaption></figcaption></figure>
 
 **1) 구매 상품 안내**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **웹뷰 무제한 유료앱 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**
+[http://www.swing2app.co.kr/view/shop\_list\_by\_plugin](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)
+
+**웹뷰 무제한 유료앱 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**
 
 웹뷰앱으로 이용기간 제한 없이 계속 이용하길 원하시면, 스윙 플러그인 구매 페이지 에서 ‘웹뷰무제한 유료앱’ 상품이 있습니다.
-
-[http://www.swing2app.co.kr/view/shop\_list\_by\_plugin](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)
 
 **웹뷰 무제한 플러그인 상품은 한번 구매시 재구매 없이! 이용기간 제한 없이! 무제한!으로 이용 가능합니다.**
 
@@ -441,21 +441,13 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ****
 
-****
-
-****
-
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-****
 
 ### ​![](<../../../.gitbook/assets/image (2).png>) **STEP7 스토어 업로드 신청**
 
 위에서 이용권과 티켓을 모두 구매했다면! 업로드 신청을 해야 스윙투앱으로 업로드 신청서가 접수됩니다.
 
-
-
-
+<figure><img src="../../../.gitbook/assets/유료버전2-768x582.png" alt=""><figcaption></figcaption></figure>
 
 \*[앱운영 → 버전관리→앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
 
@@ -469,13 +461,11 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 &#x20;
 
-이용권 등 모든 상품 구매 후 플레이스토어, 앱스토어 업로드 신청 해주시면 저희가 대행하여 고객님 앱을 스토어에 올려드립니다.
+이용권 등 모든 상품 구매 후 플레이스토어, 앱스토어 업로드 신청 해주시면 저희가 대행하여 앱을 스토어에 올려드립니다.
 
 각 스토어별 정책은 반드시 확인해주셔야 합니다.
 
-**\*스토어 등록정책**
-
-&#x20;**** [**http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)
+**\***[**스토어 등록정책 보러가기**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)****
 
 ****
 
@@ -487,7 +477,9 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 신청이 완료되면, 스윙투앱의 플레이스토어 업로드 담당자 / 앱스토어 업로드 담당자가 사용자분의 앱을 스토어에 올려드리는 업로드 진행을 시작합니다.
 
-\*플레이스토어, 앱스토어 심사 기간: 평균 7일
+<figure><img src="../../../.gitbook/assets/유료버전3.jpg" alt=""><figcaption></figcaption></figure>
+
+**\*플레이스토어, 앱스토어 심사 기간: 평균 7일**
 
 업로드 신청 후에는 심사 기간을 기다려주세요. 심사가 거절되는 경우도 많기 때문에 거절될 경우 출시 까지 기간은 더 길어질 수 있습니다.&#x20;
 
@@ -519,7 +511,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ​![](<../../../.gitbook/assets/image (2).png>) **주의사항 및 웹뷰앱 제작 Q\&A**
+### ​![](<../../../.gitbook/assets/image (2).png>) **STEP9 주의사항 및 웹뷰앱 제작 Q\&A**
 
 <details>
 
