@@ -57,7 +57,7 @@
     * [앱 업데이트 방법](manual/v3/step4/app-update.md)
     * [업데이트 유형별 앱 실행화면](manual/v3/step4/update-type.md)
   * [웹뷰앱&푸시앱](manual/v3/webapp/README.md)
-    * [웹뷰앱 제작방법](manual/v3/webapp/webview.md)
+    * [웹뷰앱 매뉴얼](manual/v3/webapp/webview.md)
     * [푸시앱 매뉴얼](manual/v3/webapp/push.md)
     * [푸시앱, 웹뷰앱 초간단 제작방법](manual/v3/webapp/push-webview.md)
     * [웹뷰,푸시앱-최초 실행 주소 이용방법](manual/v3/webapp/firstrun-url.md)

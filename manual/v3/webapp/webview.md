@@ -1,4 +1,8 @@
-# 웹뷰앱 제작방법
+---
+description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시방법 매뉴얼
+---
+
+# 웹뷰앱 매뉴얼
 
 **웹뷰앱이란?**
 
@@ -447,7 +451,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 위에서 이용권과 티켓을 모두 구매했다면! 업로드 신청을 해야 스윙투앱으로 업로드 신청서가 접수됩니다.
 
-<figure><img src="../../../.gitbook/assets/유료버전2-768x582.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/업로드-신청방법.png" alt=""><figcaption></figcaption></figure>
 
 \*[앱운영 → 버전관리→앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
 
