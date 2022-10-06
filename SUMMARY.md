@@ -12,6 +12,7 @@
   * [결제 관련 FAQ](faq/payment.md)
   * [유료앱 이용권 및 티켓 FAQ](faq/product.md)
   * [무제한이용권 및 패키지상품 FAQ](faq/package.md)
+  * [푸시 발송 관련 FAQ](faq/push.md)
   * [플레이스토어 FAQ](faq/paid-market-2.md)
   * [앱스토어 FAQ](faq/paid-market-3.md)
   * [애드몹 FAQ](faq/faq.md)
@@ -332,7 +333,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [푸시 발송 관련 FAQ](faq-1.md)
