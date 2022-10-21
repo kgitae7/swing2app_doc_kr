@@ -2,19 +2,9 @@
 
 ### 애플 앱스토어 고객센터 이용방법
 
-3098 views 5월 6, 2020 5월 6, 2020 user 0
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0.png)
-
-**애플 앱스토어 고객센터 이용방법 안내**
-
 스윙투앱은 애플 고객센터가 아니며, 애플 관련 상담을 해드리지 않습니다.
 
 애플 고객센터 이용방법을 확인하여 도움을 얻으시길 바랍니다.
-
-***
-
-<mark style="color:blue;">**앱스토어 고객센터 이용방법**</mark>
 
 \
 **☞**[**애플 앱스토어 고객센터 바로가기**](https://developer.apple.com/contact/phone/kr/)

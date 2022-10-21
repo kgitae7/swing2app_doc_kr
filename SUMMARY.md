@@ -300,6 +300,7 @@
   * [플레이스토어 앱 업데이트하기](knowledgebase/playstore/palystore-update.md)
   * [플레이스토어 앱 출시하기](knowledgebase/playstore/playstore-apprelease.md)
 * [앱스토어](knowledgebase/appstore/README.md)
+  * [앱스토어 앱 심사 거절 사례](knowledgebase/appstore/reject.md)
   * [Apple Developer Enterprise Program](knowledgebase/appstore/apple-developer-enterprise.md)
   * [애플 앱스토어 고객센터 이용방법](knowledgebase/appstore/apple-support.md)
   * [앱스토어 출시된 앱 삭제하기](knowledgebase/appstore/appstore-appdelete.md)
@@ -333,7 +334,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [앱스토어 앱 심사 거절 사례](undefined.md)
