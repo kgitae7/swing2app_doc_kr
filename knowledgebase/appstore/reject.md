@@ -4,7 +4,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 # 앱스토어 앱 심사 거절 사례
 
-### **앱스토어 심사 거절 사례 (자주 발생되는 심사 거절 사유)**
+#### **앱스토어 심사 거절 사례 (자주 발생되는 심사 거절 사유)**
 
 앱스토어 앱 심사에서 자주 발생되는 심사 거절 사례를 알려드립니다.
 
@@ -38,9 +38,9 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 테스트용으로 따로 가입한 뒤 제공 해주셔도 좋습니다.&#x20;
 
-<figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241683/20225318.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/로그인_아이폰.png" alt=""><figcaption><p>이렇게 로그인 기능이 있는 앱은 반드시 앱스토어 심사시 테스트용 계정(아이디, 비밀번호)을 제출해야 합니다.</p></figcaption></figure>
 
-****
+
 
 ### **2. 애플 로그인 기능 셋팅**
 
@@ -60,13 +60,23 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 만약 애플 로그인 기능 셋팅이 어렵다면, 심사 동안 간편 로그인 기능은 모두 제거하고 웹사이트 내 기본 로그인 기능만 제공해야 합니다.&#x20;
 
-\*애플 로그인 셋팅 이미지 참고
 
-<figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241899/20220518.jpg" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**\*주의사항 : 애플에서 제공하는 표준 디자인 사용**</mark>** \*해당 디자인은 2022년 10월 규정된 정책입니다.**
+
+<figure><img src="../../.gitbook/assets/67.PNG" alt=""><figcaption></figcaption></figure>
+
+애플 로그인 셋팅시에는 애플에서 제공하는 로그인 버튼의 표준 디자인을 확인하여 만들어주셔야 합니다.&#x20;
+
+다른 디자인을 사용하거나 표준 텍스트를 사용하지 않을 경우도 심사가 거절됩니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/로그인.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고1</p></figcaption></figure>
+
+<figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241899/20220518.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고2</p></figcaption></figure>
 
 ****
 
-### **3. 마케팅 자료 또는 광고용 홍보 앱**
+### **3. 마케팅 또는 광고용 홍보 앱**
 
 **-거절사례: 사용자들이 이용 및 참여할 수 있는 기능이 없는 경우**&#x20;
 
@@ -104,7 +114,9 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241898/20220418.jpg" alt=""><figcaption></figcaption></figure>
 
-## **5. 구글 플레이스토어 언급**
+****
+
+### **5. 구글 플레이스토어 언급**
 
 **-거절사례: 앱에 플레이스토어 홍보 이미지 혹은 문구를 기재한 경우**
 
@@ -192,6 +204,8 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 ****
 
+****
+
 ### **10. 앱 이름 – 설치 이름, 앱스토어 노출 이름 상이**
 
 **-거절사례: 제작 앱 이름과 앱스토어 노출 앱 이름이 서로 다른 경우**
@@ -206,9 +220,13 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 예를 들어)
 
-\-제작 앱 이름: 스윙app
+\-제작 앱 이름: 스윙투
 
-\-앱스토어 노출 앱 이름: 스윙투앱
+\-앱스토어 노출 앱 이름: 스윙투앱 - 모바일 앱제작 플랫폼
+
+이런식으로 이름 옆에 단어를 추가하는 것은 괜찮습니다.&#x20;
+
+
 
 그런데 완전히 뜻이나 명칭이 다른 경우는 거절이 됩니다.
 
@@ -256,7 +274,9 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-**그외 앱스토어 심사 정책 내용은 아래 내용으로 참고해주세요.**
+<mark style="color:green;">**그외 앱스토어 심사 정책 내용은 아래 내용으로 참고해주세요.**</mark>
+
+****
 
 1\)온라인 카지노, 스포트 배팅, 복권 또는 현금이나 기타 상품을 상으로 제공하는 사행성 게임 등 온라인 도박을 조장하는 앱은 앱은 허용되지 않습니다. (출시 불가)
 
@@ -302,6 +322,11 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 상담 후 비용 안내가 가능합니다.
 
+
+
 앱스토어 앱 제출시 참고해주세요.
 
 감사합니다.&#x20;
+
+
+

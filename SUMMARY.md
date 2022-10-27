@@ -275,6 +275,7 @@
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
 * [플레이스토어](knowledgebase/playstore/README.md)
+  * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [구글 플레이 정책 - 민감한 권한 API: 쿼리 권한 정책](knowledgebase/playstore/api.md)
   * [구글 플레이 정책 - 사용자 제작 콘텐츠(UGC)](knowledgebase/playstore/ugc.md)
@@ -334,7 +335,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [플레이스토어 앱 심사 거절 사례](undefined.md)
