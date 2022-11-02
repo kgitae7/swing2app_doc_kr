@@ -1,8 +1,10 @@
+---
+description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
+---
+
 # 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%9B%B9%EC%95%B1-%EC%B6%9C%EC%8B%9C-%EC%A0%9C%EB%AA%A9.png)
-
-**웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법**
+****
 
 웹앱(웹사이트를 연동한 앱) – 웹뷰, 푸시앱은 플레이스토어 앱 등록시 추가 요청사항이 있습니다.
 
@@ -62,11 +64,9 @@
 
 7\)\[앱 만들기] 버튼 선택합니다.
 
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-
-![](../../.gitbook/assets/줄라인.PNG)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.1 대시보드: 앱 설정**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP.1 대시보드: 앱 설정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-4-1.png)
 
@@ -74,21 +74,19 @@
 
 하나씩 선택해서 입력을 완료해주시면 됩니다.
 
-<mark style="color:green;">**각 단계별 상세 내용은 아래 매뉴얼을 참고해주세요.**</mark>
+> **각 단계별 상세 내용은 아래 매뉴얼을 참고해주세요.**
+>
+> [https://wp.swing2app.co.kr/knowledgebase/playstore-apprelease](playstore-apprelease.md)
 
-[https://wp.swing2app.co.kr/knowledgebase/playstore-apprelease](playstore-apprelease.md)
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP.2 스토어 설정 단계
 
-![](../../.gitbook/assets/줄라인.PNG)
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 스토어 설정 단계**</mark>
-
-**–앱 콘텐츠 단계 입력이 끝났으면, 왼쪽 메뉴의 앱정보 : 스토어 설정으로 이동합니다.**
+앱 콘텐츠 단계 입력이 끝났으면, 왼쪽 메뉴의 앱정보 : 스토어 설정으로 이동합니다.
 
 &#x20;
 
-<mark style="color:orange;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
+<mark style="color:blue;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18\_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
 
@@ -112,7 +110,7 @@
 
 &#x20;
 
-<mark style="color:orange;">**2. 기본 스토어 등록정보 설정**</mark>
+<mark style="color:blue;">**2. 기본 스토어 등록정보 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B5%AC%EA%B8%801.png)
 
@@ -140,13 +138,15 @@
 
 \*그래픽 이미지는 어떻게 보여지나요?
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:purple;">**그래픽 이미지의 용도?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**그래픽 이미지의 용도?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD\_1.png)
+<figure><img src="../../.gitbook/assets/MicrosoftTeams-image-32.png" alt=""><figcaption></figcaption></figure>
 
-그래픽이미지는 플레이스토어에 보여지는 이미지는 아니구요.
+프로모션 동영상 URL을 제출하였을 경우 맨 앞에 영상이 보여지는데, 그래픽 이미지가 영상의 표지 이미지로 사용이 됩니다.
 
-출시 후 스토어 출시 링크를 공유하게 되면 페이지 정보에서 섬네일 이미지로 표시가 됩니다\~!
+그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지를 사용합니다.
+
+프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 어디서도 노출이 되지 않습니다.&#x20;
 
 &#x20;
 
@@ -166,23 +166,23 @@
 
 9\) **\[저장]** 버튼을 누르면 스토어 정보 입력이 완료됩니다.
 
-**————**
-
 **플레이스토어 기본정보에 입력해야 하는 내용은 모두 완료되었구요.**
 
 **프로덕션으로 이동하셔서 앱(APK파일)을 업로드 해주세요!**
 
-![](../../.gitbook/assets/줄라인.PNG)
+****
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 프로덕션 – 앱 등록하기**</mark>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-**— 다시 대시보드로 이동해주시구요. 구글플레이에 앱 게시를 선택합니다.**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:purple;">****</mark> STEP.3 프로덕션 – 앱 등록하기
+
+다시 대시보드로 이동해주시구요. 구글플레이에 앱 게시를 선택합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C5.png)
 
 &#x20;
 
-<mark style="color:orange;">**1.국가/지역 선택**</mark>
+<mark style="color:blue;">**1.국가/지역 선택**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C6.png)
 
@@ -200,7 +200,7 @@
 
 &#x20;
 
-<mark style="color:orange;">**2. 프로덕션-AAB 파일 등록**</mark>
+<mark style="color:blue;">**2. 프로덕션-AAB 파일 등록**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C23-%EC%83%88%EB%B2%84%EC%A0%84-%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
 
@@ -260,19 +260,19 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ***
 
-&#x20;<mark style="color:red;">**\*\*중요\*\***</mark>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-**버전검토 까지만 작업해놓은 뒤, 다시 앱정보- 기본 스토어 등록정보로 이동해주세요.**
+{% hint style="warning" %}
+<mark style="color:orange;"><mark style="color:red;">**\*\*중요\*\***<mark style="color:red;"></mark>
 
-**앱 최종 등록전!! 스토어 등록정보에서 사전고지 문서를 먼저 제출해야 합니다.**&#x20;
+버전검토 까지만 작업해놓은 뒤, 다시 앱정보- 기본 스토어 등록정보로 이동해주세요.
 
-![](../../.gitbook/assets/줄라인.PNG)
+앱 최종 등록전!! 스토어 등록정보에서 사전고지 문서를 먼저 제출해야 합니다.
+{% endhint %}
 
-&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP.4 사전고지 문서 제출하기  <mark style="color:blue;">****</mark> &#x20;
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 사전고지 문서 제출하기**</mark> &#x20;
-
-<mark style="color:orange;">**1. 스토어 등록정보- 사전고지 대상**</mark>&#x20;
+<mark style="color:blue;">**1. 스토어 등록정보- 사전고지 대상**</mark>** **<mark style="color:orange;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C1new.png)
 
@@ -282,9 +282,9 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 \[앱 세부정보] 밑에  <mark style="color:blue;">파란색으로 된 ‘사전고지 대상’</mark> 내용을 클릭해주세요. &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-<mark style="color:orange;">**2. 구글 앱 검토팀에 사전고지 제공하기**</mark>
+
+<mark style="color:blue;">**2. 구글 앱 검토팀에 사전고지 제공하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C2new.png)
 
@@ -292,9 +292,9 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 본문 내용 확인해주신 뒤  아래 ** **<mark style="color:blue;">**\[문서 제출하기]**</mark>** ** 버튼을 눌러주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-<mark style="color:orange;">**3. 사전고지 내용 입력하기**</mark>&#x20;
+
+<mark style="color:blue;">**3. 사전고지 내용 입력하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C5new.png)
 
@@ -326,11 +326,13 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 \*사업자등록이 안되어 있다면 웹사이트 도메인 등록정보만 제출해도 됩니다.
 
+
+
 <mark style="color:red;">**\*웹사이트 도메인 등록정보란?**</mark>
 
 웹 도메인 소유자를 증빙하는 서류로 웹사이트 제작한 호스팅 및 도메인 업체에서 발급받을 수 있습니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C-%EC%83%98%ED%94%8C.png)
+<figure><img src="../../.gitbook/assets/사전고지문서-샘플-(1).png" alt=""><figcaption></figcaption></figure>
 
 **4)이 고지와 관련된 추가 정보 : 해당 사전고지에 대한 부가설명 즉, 합당한 내용을 입력합니다.**
 
@@ -358,13 +360,13 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 **스윙투앱 앱제작  → 고급설정 → 설정: 앱제작 설정 → 안드로이드 패키지 아이디 \[EDIT] 버튼 누르면 설정값에서 전체 아이디 확인할 수 있습니다.**
 
-<mark style="color:purple;">com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 이름에 붙여넣기 해주세요.</mark>
+<mark style="color:purple;"><mark style="color:blue;">com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 이름에 붙여넣기 해주세요.<mark style="color:blue;"></mark>
 
 해당 패키지 아이디가 앱 패키지 이름으로 사용됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+<mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**4. 제출 완료 및 서류 승인 완료**</mark>
+<mark style="color:blue;">**4. 제출 완료 및 서류 승인 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%BA%A1%EC%B2%9833.png)
 
@@ -380,11 +382,9 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 **해당 메일을 받으시면, 다시 구글 플레이 콘솔로 이동하셔서 최종 앱 제출을 완료해주시면 됩니다.**
 
-***
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/줄라인.PNG)
-
-### &#x20;<mark style="color:blue;"></mark> ![](../../.gitbook/assets/단락1-1.png)<mark style="color:blue;">**STEP.5 프로덕션 앱 최종 출시하기**</mark>&#x20;
+### &#x20;<mark style="color:blue;"></mark> ![](../../.gitbook/assets/단락1-1.png)STEP.5 프로덕션 앱 최종 출시하기 <mark style="color:blue;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B5%AC%EA%B8%807.png)
 
@@ -422,9 +422,9 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ***
 
-&#x20;
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-> ### <mark style="color:orange;">**앱 출시 완료 (심사기간 7일 이내)**</mark>
+### <mark style="color:blue;"></mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:blue;"></mark> STEP.6 앱 출시완료 (심사기간 7일 이내)&#x20;
 
 **\*출시는 바로 되는 것이 아니라, 구글 심사를 거친 뒤 승인이 되는 것이라서 기다려주셔야 해요\~!**
 
@@ -482,13 +482,16 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 **☞** [**\[플레이스토어 앱 업데이트 보러가기\]**](../../manual/appmanage/version/playstore-upload.md)
 
-&#x20;
+
 
 이상으로 앱제작 스윙투앱에서 구글 플레이스토어에 웹뷰 앱 제출시 함께 등록해야 하는 사전고지 문서 제출방법을 알려드렸어요.
 
-&#x20;
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
 <mark style="color:red;">**— 주의 사항 —**</mark>
+
+<mark style="color:red;">****</mark>
 
 1\) 사전고지 문서 제출은 웹브라우저를 그대로 연동한 앱(웹뷰앱, 푸시앱) 심사시 참고할 수 있도록 플레이스토어 앱 등록시(초기 등록) 함께 제출해야 합니다.
 
@@ -509,3 +512,8 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 \*업로드 신청한 분들은 담당자가 업로드 안내 메일드리면서 위의 서류 제출하도록 안내드립니다. 그때 메일로 회신주시면 됩니다.
 
 6\) 웹뷰앱이나 푸시버전앱이 아니더라도 일반프로토타입으로 제작한 앱 중에서도 위의 시나리오에 해당 되는 내용이 있다면 사전고지 문서를 제출해주셔야 합니다. (예: 타사 지적재산권 사용 증빙 등)
+{% endhint %}
+
+<mark style="color:red;">****</mark>
+
+<mark style="color:red;">****</mark>
