@@ -1,7 +1,5 @@
 # 푸시 발송하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C1.png)
-
 <mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**푸시란?**</mark>
 
 **푸시는 앱에서 발송하는 광고성 메시지라고 보시면 쉽게 이해가 되실거에요.**
