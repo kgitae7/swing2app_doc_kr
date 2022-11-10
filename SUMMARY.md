@@ -200,7 +200,7 @@
     * [푸시 알림 확인 후 메시지 표시 기능](manual/appmanage/pushmember/pushtip.md)
     * [푸시 알림 이용방법](manual/appmanage/pushmember/pushnotice-delete.md)
     * [푸시 히스토리](manual/appmanage/pushmember/push-history.md)
-    * [푸시 아이콘 이미지 가이드라인](manual/appmanage/pushmember/pushiconguideline.md)
+    * [푸시 아이콘 이미지 가이드라인](manual/appmanage/pushmember/undefined.md)
     * [회원조회 - 회원정보 확인](manual/appmanage/pushmember/member-information.md)
     * [회원조회 - 부관리자 설정하기](manual/appmanage/pushmember/associate-administrator.md)
     * [회원조회 - 회원 생성하기](manual/appmanage/pushmember/user-account.md)
@@ -336,3 +336,7 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
+
+***
+
+* [푸시 아이콘 이미지 등록하기](undefined.md)
