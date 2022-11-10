@@ -335,3 +335,7 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
+
+***
+
+* [푸시 아이콘 이미지 가이드라인](undefined.md)
