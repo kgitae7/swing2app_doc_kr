@@ -98,7 +98,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9Cnew2.png)
+<figure><img src="../../../.gitbook/assets/플레이업로드신청서new2.png" alt=""><figcaption></figcaption></figure>
 
 **1) 마켓 출시 앱 이름**: 플레이스토어에 출시되는 앱 이름을 기재해주세요.(30자 이내)
 
@@ -130,17 +130,37 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <mark style="color:red;">(관련 없는 이미지 등록시 업로드 담당자가 임의로 이미지 수정하여 등록합니다)</mark>
 
-<mark style="color:red;"></mark>
+**5-1)태블릿 스크린샷 이미지 \*선택사항**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9Cnew3.png)
+**5-2)Chromebook 스크린샷 이미지 \*선택사항**
+
+태블릿과 크롬북 스크린샷 이미지는 필수 입력은 아니며, 선택사항입니다.
+
+**"등록안함"으로 체크할 경우 5번에 제출한 휴대전화 스크린샷 이미지로 대체됩니다.**
+
+제출하실 경우 "등록"을 체크해주세요.
+
+
+
+<figure><img src="../../../.gitbook/assets/플레이업로드신청서new3.png" alt=""><figcaption></figcaption></figure>
+
+﻿"등록" 으로 체크시, 이미지를 등록할 수 있는 화면이 열리구요.
+
+각 플랫폼별 사이즈에 맞춰 이미지를 등록해주세요.
+
+<mark style="color:red;">스크린샷은 반드시 앱 실제 화면이 들어가야 하며, 관련 없는 이미지는 심사 거절됩니다.</mark>
+
+<mark style="color:red;">(관련 없는 이미지 등록시 업로드 담당자가 임의로 이미지 수정하여 등록합니다)</mark>
+
+<figure><img src="../../../.gitbook/assets/플레이업로드신청서new3-(1).png" alt=""><figcaption></figcaption></figure>
 
 **6) 그래픽 이미지**
 
-그래픽이미지 노출 위치: **플레이스토어 스크린샷 이미지 앞에 미리보기 동영상 표지 이미지로 사용 및 노출이 됩니다.**
+그래픽이미지 노출 위치: **플레이스토어 스크린샷 이미지 앞에 "미리보기 동영상 표지 이미지"로 노출이 됩니다.**
 
 이미지 참고)
 
-<figure><img src="../../../.gitbook/assets/그래픽이미지가이드_사이즈.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 
@@ -193,7 +213,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 **구글에 등록비 25$(평생이용료) 결제 후 사용가능합니다.**
 
 {% hint style="warning" %}
-<mark style="color:orange;">**구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.**</mark>&#x20;
+<mark style="color:orange;">구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.</mark>&#x20;
 
 **☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer-invitation/)
 {% endhint %}
