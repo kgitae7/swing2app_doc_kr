@@ -91,9 +91,25 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 ### ![](<../../../.gitbook/assets/image (2).png>) **4. 앱 아이콘 적용하기**
 
+<mark style="color:green;">**앱제작 V3버전 이용시)**</mark>
+
+<figure><img src="../../../.gitbook/assets/가이드1-1 (1).png" alt=""><figcaption></figcaption></figure>
+
+**앱제작 → \[STEP1 앱 기본정보] 메뉴에서**
+
+1\)아이콘 업로드 버튼 선택
+
+2\)파일첨부 창에서 이미지 업로드 버튼을 선택합니다.
+
+3\)아이콘으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.
+
+
+
+<mark style="color:green;">**앱제작 V2버전 이용시)**</mark>
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98new1.png)
 
-앱 아이콘은  **앱제작 → \[1. 앱 기본정보] 메뉴에서 →앱 아이콘** 에 이미지를 첨부해주시면 됩니다.
+**앱제작 → \[1. 앱 기본정보] 메뉴에서 →앱 아이콘** 에 이미지를 첨부해주시면 됩니다.
 
 **디자인 및 사이즈 작업이 완료된 앱아이콘 이미지를 등록해주시면 됩니다.**&#x20;
 
