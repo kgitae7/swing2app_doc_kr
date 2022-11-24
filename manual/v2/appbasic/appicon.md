@@ -4,6 +4,8 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 # 앱아이콘 이미지 제작 가이드
 
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
 ### ![](<../../../.gitbook/assets/image (2).png>) **1. 앱 아이콘이란?**
 
 ![](../../../.gitbook/assets/영문아이콘\_안드로이드버전1.png)
