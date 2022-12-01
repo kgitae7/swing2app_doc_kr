@@ -4,6 +4,8 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 # 대기화면 이미지 제작 가이드
 
+###
+
 ### ![](<../../../.gitbook/assets/image (2).png>) 1. 대기화면 이미지란?
 
 대기화면은 앱이 실행되기 전 (앱 로딩 시간 동안 보여지는) 잠깐 1\~2초 정도 보여지는 이미지입니다.&#x20;
@@ -81,9 +83,9 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 (이미지 제작이 다 되면 색상은 빼면 되니 일단 색상을 넣어서 만들어보겠습니다)
 
-<mark style="color:orange;">\* 회색으로 된 부분은 이미지의 전체 영역으로 배경이 들어가는 부분입니다.</mark>
+**\* 회색으로 된 부분은 이미지의 전체 영역으로 배경이 들어가는 부분입니다.**
 
-<mark style="color:orange;">\* 그리고 실제로 핸드폰에서 보여지는 이미지는 바로 파란색 영역이 되는데요.</mark>&#x20;
+**\* 그리고 실제로 핸드폰에서 보여지는 이미지는 바로 파란색 영역이 되는데요.**&#x20;
 
 파란색 영역 안으로 만드시고자 하는 이미지 혹은 회사의 로고를 넣어서 이미지를 만들어주십니다. \
 \
@@ -93,7 +95,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ***
 
-&#x20; <mark style="color:blue;">**파란색 영역에 이미지 넣기**</mark>
+&#x20; <mark style="color:blue;">**>파란색 영역에 이미지 넣기**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/f642ffd56375da8b3ba43bb7d5f2171f.png)
 
@@ -152,6 +154,12 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2).png>) **6. 앱에 대기화면 이미지 등록하기**&#x20;
+
+
+
+
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new1.png)
 
