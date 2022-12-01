@@ -1,8 +1,12 @@
+---
+description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체과정 매뉴얼
+---
+
 # 스탬프 이용 및 등록방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%841.png)
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**▶**</mark>** 스윙투앱에서 제공하는 스탬프 기능이란?**
+<mark style="color:blue;">**스윙투앱에서 제공하는 스탬프 기능이란?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84\_800.png)
 
@@ -18,17 +22,25 @@
 
 스탬프 이용방법 매뉴얼을 통해서 스탬프 게시판을 만드는 방법, 앱에 스탬프를 적용하는 방법, 회원들에게 스탬프를 넣어주는 방법, 앱 실행화면까지 모두 확인해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 스탬프 만들기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 스탬프 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
 [스윙 앱운영 페이지 → 서비스관리 → 게시판 관리](https://www.swing2app.co.kr/view/board\_edit) 페이지로 이동합니다.
 
-<mark style="color:orange;">**1. 스탬프 게시판 기본설정 방법1**</mark>
+
+
+****
 
 **게시판 관리 페이지에서 \[게시판 생성] 버튼을 선택하면 \[게시판 및 기능설정]창이 열립니다.**
+
+****
+
+****
+
+****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%841\_20.02.png)
 
@@ -54,7 +66,7 @@
 
 &#x20;
 
-<mark style="color:orange;">**2. 스탬프 게시판 만들기 2 -스탬프 상세설정**</mark>
+<mark style="color:orange;">****</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%842\_20.02.png)
 
@@ -98,9 +110,13 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 앱에 스탬프 적용하기**</mark>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱에 스탬프 적용하기
 
 **게시판에서 스탬프를 만들었다면!! 만든 스탬프를 앱에 적용해야 하겠죠?^^**
+
+****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png)
 
@@ -122,9 +138,9 @@
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-4.png)
+<mark style="color:orange;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**스탬프 적용 앱 실행화면**</mark>
+<mark style="color:blue;">**스탬프 적용 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png)
 
@@ -138,17 +154,17 @@
 
 <mark style="color:red;">로그인이 되어야 해당 사용자에게 회원번호 및 QR이 생성됩니다.</mark>
 
-<mark style="color:red;"></mark>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 스탬프 넣어주기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 스탬프 등록하기(스탬프 추가)
 
-**스탬프 게시판을 만들고, 앱에 적용까지 다 했다면!**
+스탬프 게시판을 만들고, 앱에 적용까지 다 했다면!
 
-**실제로 앱 회원들에게 스탬프를 등록해주는 방법을 알려드릴게요.**
+실제로 앱 회원들에게 스탬프를 등록해주는 방법을 알려드릴게요.
 
 ****
 
-**1. 스**<mark style="color:orange;">**탬프 추가방법 1 – 회원번호로 추가하기**</mark>
+<mark style="color:blue;">**1)스탬프 추가방법 1 – 회원번호로 추가하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B01.png)
 
@@ -160,13 +176,13 @@
 
 **3)등록하기를 누르면 완료됩니다.**
 
-<mark style="color:purple;">**↓↓ 회원번호는 아래 앱 실행화면을 보면, 사용자마다 회원번호를 확인할 수 있습니다.**</mark>
+<mark style="color:orange;">**↓↓ 회원번호는 아래 앱 실행화면을 보면, 사용자마다 회원번호를 확인할 수 있습니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B03.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-<mark style="color:orange;">**2. 스탬프 추가방법2 – 회원찾기로 스탬프 추가하기**</mark>
+
+<mark style="color:blue;">**2) 스탬프 추가방법2 – 회원찾기로 스탬프 추가하기**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6c8bee037b2189f236b81a752320130f.png)
 
@@ -176,9 +192,9 @@
 
 **사용자 이름을 검색한뒤, 해당 회원을 선택하고 스탬프를 등록해주시면 됩니다.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-<mark style="color:orange;">**3. 스탬프 추가방법3 – 앱관리자 로그인에서 회원 스탬프 추가하기**</mark>
+
+<mark style="color:blue;">**3) 스탬프 추가방법3 – 앱관리자 로그인에서 회원 스탬프 추가하기**</mark>
 
 **스탬프 추가 세번째 방법은 관리자가 앱에서 스탬프를  QR코드로 등록할 수 있어요.**
 
@@ -186,9 +202,8 @@
 
 앱 실행 후 설정 → 관리자 로그인→ 스윙투앱 계정 로그인(스윙투앱 홈페이지 가입 계정)하면 관리자메뉴가 열립니다.&#x20;
 
-
-
-> <mark style="color:red;">\*스윙투앱 간편 로그인 사용자 분들은 아래 방법으로 이용해주셔야 합니다.</mark>
+{% hint style="success" %}
+<mark style="color:green;">스윙투앱 간편 로그인 사용자 분들은 아래 방법으로 이용해주셔야 합니다.</mark>
 
 앱에서 회원가입을 한 뒤 해당 회원의 그룹을 → 관리자로 설정해주세요.&#x20;
 
@@ -199,10 +214,11 @@
 3\)회원 선택 후 그룹을 **‘관리자’**로 변경
 
 4\)앱 실행 → 로그인 후 → 앱 설정 → 관리자 메뉴 선택시 관리자 로그인에서 제공되는 메뉴 동일하게 이용 가능합니다.
+{% endhint %}
 
 
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/158aa1faf5b37b8bf0bf24228c47b91c.png)
+<figure><img src="../../../.gitbook/assets/관리자_420.png" alt=""><figcaption></figcaption></figure>
 
 관리자메뉴에서 – \[스탬프 추가]를 선택합니다.
 
@@ -214,22 +230,21 @@
 
 <mark style="color:red;">\*이때 사용자 앱에서 스탬프를 열어두셔야 QR코드이미지를 확인할 수 있어요.</mark>
 
-<mark style="color:red;"></mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 관리자에서 스탬프를 추가하는 방법! 움짤 이미지로 확인해주세요!!**</mark>
+
+앱 관리자에서 스탬프를 추가하는 방법! 움짤 이미지로 확인해주세요!!
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c8c3a0e0ef1750d37952356f491e6e3c.png)
 
 실제로 앱 관리자메뉴- 스탬프 등록 화면에서  QR코드를 실행하여서 사용자의 스탬프를 등록했습니다.
 
-앱관리자메뉴 -스탬프 등록방법은 아래 링크를 통해 상세내용을 확인할 수 있습니다.\
-
+앱관리자메뉴 -스탬프 등록방법은 아래 링크를 통해 상세내용을 확인할 수 있습니다.
 
 [**\[앱관리자메뉴:스탬프 등록방법 매뉴얼 보러가기\]**](../../appoperation/appmanager-stamp.md)
 
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 스탬프 삭제하는 방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 스탬프 삭제하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84%EC%82%AD%EC%A0%9C.png)
 
@@ -243,9 +258,9 @@
 
 \-만약 스탬프를 초기할 경우는 스탬프 전체 수량을 입력하고 삭제하시면 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.5 앱 실행화면**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱 실행화면
 
 **앱에서는 스탬프 게시판이 어떻게 실행되고, 스탬프가 어떻게 추가되는지 확인해볼게요!!**
 
@@ -269,13 +284,13 @@
 
 
 
-<mark style="color:orange;">**★움짤이미지로 스탬프가 추가되는 모습을 확인해주세요.**</mark>
+<mark style="color:blue;">**★움짤이미지로 스탬프가 추가되는 모습을 확인해주세요.**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/37804d6d6b74e71f7046d198a37ee7aa.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**스탬프 완료시 쿠폰발행에 체크한 경우**</mark>
+<mark style="color:blue;">▶</mark><mark style="color:blue;">**스탬프 완료시 쿠폰발행에 체크한 경우**</mark>
 
-**앞서 스탬프 상세설정에서 \[스탬프 완료시 쿠폰발행]에 체크했을 때는 앱에서 어떻게 실행이 되는지 확인할게요!**
+앞서 스탬프 상세설정에서 \[스탬프 완료시 쿠폰발행]에 체크했을 때는 앱에서 어떻게 실행이 되는지 확인할게요!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B02.png)
 
@@ -283,9 +298,10 @@
 
 확인을 선택하면 사용자가 발급받은 쿠폰 목록을 확인할 수 있습니다.
 
-***
 
-<mark style="color:red;">**\*안내사항**</mark>
+
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
 1.스탬프 도장 갯수는 10개로 셋팅되어 있구요.
 
@@ -304,3 +320,7 @@
 관리자가 직접 초기화를 해야만 다시 처음으로 셋팅이 됩니다.
 
 초기화 방법은 위에서 설명해드린 방법처럼 웹관리자페이지에서 \[삭제] 버튼을 눌러서 등록된 스탬프 갯수만큼을 삭제해주시면 됩니다.
+{% endhint %}
+
+<mark style="color:orange;">****</mark>
+

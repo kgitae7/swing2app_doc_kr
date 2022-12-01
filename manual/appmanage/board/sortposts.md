@@ -10,7 +10,7 @@ description: 게시판- 게시물 정렬 설정 방법
 
 (글 작성 최신 순 & 오래된 순으로 정렬) &#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.게시물 정렬 설정하기**
 
@@ -52,7 +52,7 @@ V3 버전으로 전환시 보다 다양한 앱 기능을 이용할 수 있습니
 
 V3 전환은 앱제작 화면 상단에 V3전환 버튼을 선택하여 바로 전환이 가능하며, 전환 후 한번 앱 업데이트를 해주세요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면**
 
@@ -62,7 +62,7 @@ V3 전환은 앱제작 화면 상단에 V3전환 버튼을 선택하여 바로 �
 
 게시물 정렬은 앱의 특성상, 사용자의 편의에 맞게 설정하여 이용해주시기 바랍니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **Related Articles**
 

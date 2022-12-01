@@ -26,7 +26,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 **앱 이용약관과 개인정보 처리방침은 어디서, 어떻게 보여지나요?**
 
@@ -44,7 +44,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 필수 등록항목이기 때문에 스토어에 앱을 출시하는 분들 역시 해당 약관을 작성해서 제출해야 합니다.
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱 가입 정책 페이지 이동**
 
@@ -108,7 +108,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 위반할 경우 정보통신망법에 의거하여 벌금이 부여될 수 있으니, 꼭 작성해주세요!!
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) **3. 개인정보처리방침 URL 확인 및 가져오기**
 
@@ -146,7 +146,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 ☞ [\[구글 플레이스토어 개인정보 처리방침 적용방법 확인하기\]](https://wp.swing2app.co.kr/knowledgebase/playstore-policyurl/)
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 
 
@@ -162,7 +162,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 해당 버튼을 선택하면 앱 가입정책에서 입력한 서비스 이용약관과 개인정보 처리방침 내용을 확인할 수 있어요.
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 5**. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**
 
