@@ -160,7 +160,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 이미지 참고)
 
-
+<figure><img src="../../../.gitbook/assets/MicrosoftTeams-image-32 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
