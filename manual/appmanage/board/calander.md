@@ -1,30 +1,38 @@
+---
+description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
+---
+
 # 캘린더 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%98%EB%A6%B0%EB%8D%94-%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**스윙투앱의 캘린더 ?**</mark>
+<mark style="color:blue;">**스윙투앱의 캘린더 ?**</mark>
 
-**캘린더에 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.**
+캘린더에 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.
 
-**또한 중요한 소식, 공지사항을 기재할 수 있습니다.**\
+또한 중요한 소식, 공지사항을 기재할 수 있습니다.\
 \
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**스윙투앱의 캘린더에서 제공하는 기능**</mark>&#x20;
 
-**+ 캘린더 날짜별 간편한 일정 작성**
 
-**+ 자유로운 일정 관리 – 편리한 일정 수정, 삭제**
+<mark style="color:blue;">**스윙투앱의 캘린더에서 제공하는 기능**</mark>&#x20;
 
-**+ 여러 일정 추가 가능**
+\+ 캘린더 날짜별 간편한 일정 작성
 
-**+ 일정 마다 다른 색상의 텍스트, 배경으로 구분 가능**
+\+ 자유로운 일정 관리 – 편리한 일정 수정, 삭제
 
-**+ 중요한 공지는 공지사항으로 작성 가능**
+\+ 여러 일정 추가 가능
 
-**+ 일정 작성은 게시물 HTML에디터 작성과 동일(이미지첨부, 링크,동영상 첨부 모두 가능)**&#x20;
+\+ 일정 마다 다른 색상의 텍스트, 배경으로 구분 가능
 
-**+ 일정 선택 시 ‘상세 일정보기’ 게시물로 이동**\
+\+ 중요한 공지는 공지사항으로 작성 가능
+
+\+ 일정 작성은 게시물 HTML에디터 작성과 동일(이미지첨부, 링크,동영상 첨부 모두 가능)&#x20;
+
+\+ 일정 선택 시 ‘상세 일정보기’ 게시물로 이동\
 \
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**스윙투앱의 캘린더 이용방법**</mark>
+
+
+<mark style="color:blue;">**스윙투앱의 캘린더 이용방법**</mark>
 
 **1)캘린더 만들기**&#x20;
 
@@ -42,7 +50,7 @@
 
 자세한 이용방법은 매뉴얼을 참고해주시기 바랍니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> 1. 캘린더 만들기
 
@@ -150,7 +158,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 캘린더 일정 입력하기
 
@@ -227,7 +235,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 그럼 만들어놓은 캘린더를 앱에 적용해볼게요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 앱에 캘린더 적용하기
 
@@ -255,7 +263,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 앱 실행화면
 
@@ -271,7 +279,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 공지사항을 작성했으면 캘린더 화면에 공지글이 고정글로 표시 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱에서 캘린더 일정 작성하는 방법
 
