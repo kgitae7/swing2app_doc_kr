@@ -155,6 +155,7 @@
     * [게시판 - 게시물 입력방법](manual/appmanage/board/post-write.md)
     * [게시판 - 게시물 예약 설정](manual/appmanage/board/post-reservationsetting.md)
     * [게시판 고급설정 - 게시물 상세 옵션 설정](manual/appmanage/board/post-options.md)
+    * [게시물 정렬 순서 설정 방법](manual/appmanage/board/sortposts.md)
     * [게시물 파일 첨부방법(일반 파일)](manual/appmanage/board/file.md)
     * [게시물 동영상 등록하기(영상 등록방법)](manual/appmanage/board/post-video.md)
     * [게시물 음악파일 첨부방법](manual/appmanage/board/mp3file.md)
@@ -337,7 +338,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [게시물 정렬 순서 설정 방법](undefined.md)
