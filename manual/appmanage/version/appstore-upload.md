@@ -22,6 +22,8 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 **\[앱스토어 업로드 신청]을 해주셔야만 담당자가 확인 후 해당 앱을 마켓에 등록해드릴 수 있습니다.**
 
+****
+
 <mark style="color:purple;">**Q. 업로드 신청은 어디서 어떻게 하는건가요?**</mark>
 
 업로드 신청은 [**스윙 앱운영페이지 → 버전관리에 → 앱제작이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동합니다.**
@@ -31,6 +33,8 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 ​해당 버튼을 누르면 신청 양식 창이 뜨구요.
 
 **양식에 기재된 항목들을 입력 한 뒤 ‘신청’ 해주시면 해당 양식으로 담당자가 앱을 앱스토어에 올려드릴 수 있어요!**
+
+****
 
 <mark style="color:purple;">**Q. 업로드 신청하면, 앱이 바로 앱스토어 출시되나요?**</mark>
 
@@ -46,6 +50,8 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 그러나 심사 거절이 될 경우도 있기 때문에 출시 되는 시간은 더 길어질 수 있습니다.
 
+
+
 <mark style="color:purple;">**Q. 앱스토어도 구글처럼, 애플 개발자 계정을 만들어야 하나요?**</mark>
 
 애플 개발자 계정은 선택사항입니다.
@@ -60,11 +66,19 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
 
-<mark style="color:orange;">**★앱스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.**</mark>&#x20;
+★앱스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
 **☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
 
-<mark style="color:orange;">**★ 플레이스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!**</mark>
+
+
+★앱스토어 심사에서 자주 거절되는 사례를 확인해주세요.&#x20;
+
+**☞** [앱스토어 심사 거절 사례 보러가기](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
+
+****
+
+★ 플레이스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!
 
 **☞** [**\[플레이스토어 업로드 신청방법 보러가기\]**](playstore-upload.md)
 
@@ -92,7 +106,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱스토어 업로드 신청서 가이
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱스토어 업로드 신청서 가이드
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4new1.png)
 
@@ -190,9 +204,13 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 해당 계정은 실제 애플 연구원이 로그인하여 앱 내 메뉴를 확인하는 용도로 이용됩니다.
 
+
+
 11\)**앱 기본언어**: 앱스토어 앱 출시 언어를 선택합니다. 해당 언어로 앱스토어에 출시가 됩니다.
 
 \*영어로 출시한다면 모든 언어는 영어로 작성해주셔야 하며, 한글로 출시한다면 신청서의 모든 언어 한글로 기재해야 합니다.
+
+
 
 12\)**카테고리**: 앱스토어에서 분류되는 카테고리 항목을 결정합니다. 앱의 성격에 맞는 카테고리를 선택해주세요.
 
@@ -262,7 +280,8 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**\[안내사항]**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**\[안내사항]**</mark>
 
 1\. 앱스토어 업로드 티켓은 당사에서 앱을 대신 올려드리는 대행비이며, **앱스토어 업로드는 스윙투앱에서 대행으로만 등록이 가능합니다.**
 
@@ -299,9 +318,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 **10. 사용자분의 애플 개발자 계정을 만들어서 등록하실 경우, 애플 개발자 등록비는 매년(1년) 129,000원을 결제해주셔야 합니다.**
 
 1년마다 갱신이 안될 경우 출시된 앱이 내려가거나, 계정이 삭제될 수 있습니다.
+{% endhint %}
 
+<mark style="color:red;">****</mark>
 
-
-<mark style="color:orange;">**★앱스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.**</mark>&#x20;
+★앱스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
 **☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
+
