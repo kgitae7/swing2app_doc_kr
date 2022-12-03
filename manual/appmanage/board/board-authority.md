@@ -156,6 +156,8 @@ V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요. <mark
 
 <mark style="color:blue;">**1.권한 지정 유형별 옵션**</mark>
 
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C7.png" alt=""><figcaption></figcaption></figure>
+
 1\)선택 등급 이상 자동 권한 부여: 선택한 등급 포함 그 이상의 등급 이용자 모두 이용 가능합니다.&#x20;
 
 예시)3등급 그룹 설정시 해당 등급을 포함하여 등급이 더 높은 2등급, 1등급 사용자가 모두 접근 가능합니다.&#x20;
@@ -166,12 +168,11 @@ V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요. <mark
 
 지정된 해당 그룹만 이용하도록 설정합니다.&#x20;
 
-3\)다중 지정 권한 설정: 특정 그룹이나, 특정 사용자를 다중으로 지정할 수 있습니다. \
+3\)다중 지정 권한 설정: 특정 그룹이나, 특정 사용자를 다중으로 지정할 수 있습니다. &#x20;
 
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C7.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;<mark style="color:blue;">**2.게시판 권한별 옵션**</mark>
+<mark style="color:blue;">**2.게시판 권한별 옵션**</mark>
 
 글쓰기 권한, 글상세보기 권한, 목록 보기 권한으로 제공됩니다.
 
