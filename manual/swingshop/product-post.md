@@ -12,7 +12,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 매뉴얼에서 상품게시물관리 이용방법과 앱에서 실제 활용되는 모습을 보여드리겠습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품게시물관리 – 상품문의**
 
@@ -62,7 +62,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 상품게시물관리-상품리뷰**
 
@@ -100,7 +100,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 관리자는 리뷰를 확인하는 용도로 제공, 삭제 권한만 가집니다.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면- 리뷰 및 질의**
 

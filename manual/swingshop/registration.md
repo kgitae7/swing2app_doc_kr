@@ -18,7 +18,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 **해당 메뉴얼에서는 실물상품을 등록하는 방법, 앱에 적용하는 방법 등을 알려드리겠습니다.**&#x20;
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
@@ -60,7 +60,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 실물 상품 등록하기**
 
@@ -156,7 +156,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱에 실물 상품 페이지 적용하기**
 

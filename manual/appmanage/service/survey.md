@@ -28,7 +28,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 <mark style="background-color:blue;">**▶**</mark>** 사용자들이 입력한 설문 결과 확인하기**\
 앱운영 페이지 → 서비스관리 →설문관리→참여 인원에서 ‘숫자’ 선택 → ‘사용자’를 선택하면 설문 결과를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### STEP1. 설문조사 만들기
 
@@ -196,7 +196,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 설문조사 관리 페이지에 보시면, 등록완료된 설문지를 확인할 수 있습니다\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### STEP2. 앱에 설문조사 메뉴 적용하기
 
@@ -222,7 +222,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### STEP3. 앱 실행화면
 
@@ -282,7 +282,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 이렇게 전송된 설문조사는  앞에 보여드린 설문조사 관리 페이지에서 관리자가 설문 결과를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### STEP4. 설문조사 결과 확인 & 설문조사 관리
 

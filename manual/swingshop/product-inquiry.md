@@ -10,7 +10,7 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 \*특히 상품조회 페이지에서는 판매중인 상품의 상태변경(품절, 상품중지 등)하거나,  상품을 삭제할 때도 이용할 수 있습니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 상품관리-상품조회**
 
@@ -54,7 +54,7 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 그리고 판매되는 상품을 아예 삭제를 하실 때에도 **\[상품삭제]** 버튼을 선택해서 삭제할 수도 있습니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 예약상품조회**
 
