@@ -10,7 +10,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 상품별 주문금액, 상품별 열람 횟수를 통계로 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**상점통계 메뉴 이동**
 

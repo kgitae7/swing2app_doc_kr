@@ -14,7 +14,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 **\*정책설정 방법- 이용정책, 교환 및 반품정책, 비회원 권한 설정을 알려드리겠습니다.**
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1. **<mark style="color:blue;">****</mark>** 정책 설정 메뉴 이동**
 
@@ -40,7 +40,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 <mark style="color:red;">\[수정하기]버튼을 눌러서 원하는 내용으로 수정해주시면 됩니다.</mark>
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 교환 및 반품, 쇼핑몰 이용약관 정책**
 
@@ -62,7 +62,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 교환 및 환불정책 관련 멘트도 앱 화면 하단에서 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 비회원 권한 설정**
 

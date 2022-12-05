@@ -60,7 +60,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **☞** [**\[앱스토어 업로드 신청방법 보러가기\]**](appstore-upload.md)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 플레이스토어 업로드 신청방법
 
@@ -72,7 +72,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 \*구매가 완료되었다면, **** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 플레이스토어 업로드 신청서**
 
@@ -92,7 +92,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 해당 항목이 플레이스토어에서 어떻게 표시되는지 확인하여 기재해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 플레이스토어 업로드 신청서 작성방법
 
@@ -268,7 +268,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **16) 입력이 완료되면 \[신청하기] 버튼을 눌러주세요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 업로드 신청완료
 
@@ -288,7 +288,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[안내사항]**</mark>
 
