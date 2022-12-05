@@ -18,7 +18,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 >
 > – 예약 상품 유형 → 예약 주문관리 메뉴로 이동해서 확인합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 실물상품 판매 : 주문관리**
 
@@ -48,7 +48,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 배송상품일 경우는 택배회사 입력과 함께 운송장 번호를 입력하여 저장할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 디지털 상품 판매 : 디지털 주문관리**
 
@@ -62,7 +62,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 마찬가지로 주문리스트에서 <mark style="color:green;">**‘주문ID’**</mark>를 선택하면, 사용자의 주문정보 팝업을 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 예약상품 판매 : 예약주문관리**&#x20;
 

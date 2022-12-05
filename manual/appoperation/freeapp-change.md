@@ -60,7 +60,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 (앱스토어는 요청주시면 내려드립니다)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](<../../.gitbook/assets/image (2).png>) STEP1. <mark style="color:blue;"></mark> 유료앱 이용기간 만료된 앱 실행화면
 
@@ -72,7 +72,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 앱 이용에 제한이 있습니다. (앱 화면이 뜨지 않고 종료됨)
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](<../../.gitbook/assets/image (2).png>) **STEP2. **<mark style="color:blue;">****</mark>** 설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
 
@@ -80,7 +80,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 무료로 전환된 앱을 다시 다운 받아야 하기 때문에 기존에 안드로이드폰에 설치된 유료앱은 삭제해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](<../../.gitbook/assets/image (2).png>) **STEP3. **<mark style="color:blue;">****</mark>** 앱 제작 다시하기 (앱제작에서 앱 업데이트)**
 
@@ -102,7 +102,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](<../../.gitbook/assets/image (2).png>) **STEP4. 앱 다운 받기**
 
@@ -114,7 +114,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 \[앱 다운로드] 버튼을 누르면 안드로이드폰에서 앱 설치가 됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](<../../.gitbook/assets/image (2).png>) **STEP5. 무료앱 전환 완료**
 

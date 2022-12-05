@@ -14,7 +14,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 **매뉴얼을 통해서 스윙샵 상점관리 – 배송관리 이용방법과 실제 배송관리 메뉴를 적용한 앱 실행화면도 함께 확인해보겠습니다.**
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 배송관리**
 
@@ -24,7 +24,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 ****
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 배송관리 항목 입력**
 
@@ -46,7 +46,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <mark style="color:red;">주문시에 사용자에게 받아야 할 정보가 있다면 해당 양식에 맞춰서 입력해주시면 됩니다.</mark>
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 배송입력 항목**
 
@@ -88,7 +88,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <mark style="color:blue;"></mark>
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 앱 실행화면**
 

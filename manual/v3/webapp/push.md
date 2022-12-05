@@ -4,7 +4,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 # 푸시앱 매뉴얼
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **푸시앱이란?**
 
@@ -16,7 +16,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/푸시앱1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **푸시앱 제작  및 상품 구매, 스토어 출시 과정 가이드**
 
@@ -140,7 +140,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 \*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../../.gitbook/assets/image (2).png>) **STEP1 기본정보**
 
@@ -188,7 +188,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../../.gitbook/assets/image (2).png>) **** STEP2 디자인
 
@@ -276,7 +276,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 앱 업데이트(앱재제작)을 하지 않아도 됩니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2).png>) **STEP4 앱제작하기**
 
@@ -340,7 +340,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 제작은 별도 비용이 없이 무료로 이용이 가능합니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
 
@@ -386,7 +386,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 유료버전 전환은 스윙투앱 유료앱 이용권을 구매해주시면 됩니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2).png>) **STEP6 이용권 및 티켓 구매**
 
@@ -502,7 +502,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 \-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -530,7 +530,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 **\***[**스토어 등록정책 보러가기**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP8 스토어 출시 완료 (심사 후 출시)**
 

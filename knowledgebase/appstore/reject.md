@@ -20,7 +20,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 아래 본문을 통해 앱스토어에서 자주 발생되는 심사 사유(사례)를 확인해주세요.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **1. 앱 로그인 계정 정보**
 
@@ -272,7 +272,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 반드시 애플에서 제공하는 이미지 정책에 맞게 스샷 이미지를 제출해야 합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:green;">**그외 앱스토어 심사 정책 내용은 아래 내용으로 참고해주세요.**</mark>
 

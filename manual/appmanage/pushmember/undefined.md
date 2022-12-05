@@ -4,7 +4,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 # 푸시 아이콘 이미지 가이드라인
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **1.푸시란, 푸시 아이콘 이미지란?**
 

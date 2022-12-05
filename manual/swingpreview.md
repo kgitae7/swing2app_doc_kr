@@ -32,7 +32,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
 
-![](<../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. **** 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기
 
@@ -46,7 +46,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **▶** [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-![](<../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[앱 미리보기]  로그인**
 
@@ -76,7 +76,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or  QR코드로 미리보기 기능으로 이용해주세요.
 {% endhint %}
 
-![](<../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. \[앱 미리보기] 앱 목록확인**
 
@@ -104,7 +104,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-![](<../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행)안드로이드, 아이폰 앱 미리보기**
 
@@ -136,7 +136,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **▶**[ **\[앱(APK) 설치가 안된다면 확인해주세요!!\]**](appoperation/not-installed1.md)
 
-![](<../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱미리보기에서 제공되는 기능
 
@@ -202,7 +202,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 [**\[부관리자 지정 매뉴얼 확인하기\]**](appmanage/pushmember/associate-administrator.md)
 
-![](<../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../.gitbook/assets/구분선 (1).PNG>)
 
 #### &#x20;** **<mark style="color:blue;">**2. QR코드로 앱 미리보기**</mark>&#x20;
 

@@ -38,7 +38,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 제휴프로그램 신청 후 승인을 받았다면!! 본격적으로 홍보할 수 있는 방법에 대해서 확인해주세요**.**
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../.gitbook/assets/image (2).png>) 1.제휴 URL은 어디서 발행이 되나요?&#x20;
 
@@ -56,7 +56,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 <mark style="color:red;">첨부 서류 등 필요한 내용을 꼭 기재해서 신청해주시기 바랍니다.</mark>
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../.gitbook/assets/image (2).png>) **2.배너 스타일**
 
@@ -70,7 +70,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 <mark style="color:red;">따라서 메일 확인하시고 운영방법을 숙지해주시면 되겠습니다.\~!</mark>
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../.gitbook/assets/image (2).png>) **3.배너를 이용한 홍보방법**
 

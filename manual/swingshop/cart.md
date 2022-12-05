@@ -20,7 +20,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ☞ [**\[스윙샵 신청방법\]**](apply.md)****
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 장바구니 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
 
@@ -42,7 +42,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 7\. \[저장] 버튼 누르면 앱에 반영됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 장바구니 앱 실행화면**
 
