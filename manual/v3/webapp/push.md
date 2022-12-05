@@ -510,11 +510,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 (1)애플 개발자 계정 등록비(1년 129,000원)
 
-[\[애플 개발자 계정 등록방법 보러가기\]](https://wp.swing2app.co.kr/knowledgebase/apple-developer/)
+[\[애플 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
 
 (2)구글 개발자 등록비(25달러, 평생이용)
 
-[\[구글 개발자 계정 등록방법 보러가기\]](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
+[\[구글 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
 
 \-구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능
 
@@ -534,9 +534,9 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 \*결제한 뒤 꼭 업로드 신청을 해주세요
 
-**☞** [**\[플레이스토어 업로드 신청방법\]**](../../appmanage/version/playstore-upload.md)****
+**☞** [**\[플레이스토어 업로드 신청방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)****
 
-**☞** [**\[앱스토어 업로드 신청 방법\]**](../../appmanage/version/appstore-upload.md)****
+**☞** [**\[앱스토어 업로드 신청 방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload)****
 
 &#x20;
 
