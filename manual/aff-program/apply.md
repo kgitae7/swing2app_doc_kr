@@ -20,13 +20,13 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 이렇게 나의 광고로 접속한 사용자들이 스윙투앱에서 회원가입을 한 뒤 이용권을 구매하면, 해당 이용권의 일정 금액이 수익료로 지급 됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **제휴프로그램 신청방법 단계**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99-%EC%A0%9C%ED%9C%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-KR.png)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1.제휴신청
 
@@ -34,7 +34,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 [앱운영페이지 → 내메뉴 → 제휴 신청](http://www.swing2app.co.kr/view/affiliate\_apply) 메뉴로 이동합니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2.신청서 작성
 
@@ -72,7 +72,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 신청서에 기재해주신 내용으로 심사를 하기 때문에 어떻게 스윙투앱을 홍보하여 활동할 것인지 성의있게 작성해주세요.
 {% endhint %}
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3.심사 완료 및 승인 완료&#x20;
 
@@ -86,7 +86,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 **거절 사유를 확인하여 제휴프로그램은 언제든지 다시 재신청 가능합니다!**
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4.제휴프로그램 운영하기
 
@@ -112,7 +112,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 앞으로 관리자는 해당 페이지에서 **건당 배분율, 제휴로 들어온 가입자수, 매출액, 누적수익, 월별 정산 내역** 등을 확인할 수 있어요\~!!
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5.제휴프로그램 수익 정산
 

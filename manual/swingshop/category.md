@@ -22,7 +22,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 **☞** [**스윙샵 신청방법 보러가기**](apply.md)****
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품 카테고리 등록관리**
 
@@ -32,7 +32,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 [스윙샵 메뉴에서 → 상품관리 → 상품카테고리 등록관리 페이지](https://www.swing2app.co.kr/view/store\_product\_category)로 이동합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 상품 카테고리 등록하기**
 
@@ -60,7 +60,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 \*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 카테고리 등록 완료**
 
@@ -72,7 +72,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 움짤 이미지) 카테고리 등록방법 확인하기**
 
@@ -86,7 +86,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC22019.11.png)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 앱에 카테고리 적용하기**
 

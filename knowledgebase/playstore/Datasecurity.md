@@ -50,7 +50,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법
 
 ****
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **1. 앱 콘텐츠 메뉴 - 데이터 보안**
 
@@ -70,7 +70,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법
 
 <mark style="color:green;">'시작' 버튼을 선택합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **2. 데이터 보안**
 
@@ -156,7 +156,7 @@ tip. 각 항목이 잘 이해되지 않으면 항목 옆에 ?물음표 버튼에
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **3. 데이터 보안 입력완료**
 

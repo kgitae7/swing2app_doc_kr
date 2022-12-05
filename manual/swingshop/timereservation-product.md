@@ -20,7 +20,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 [**\[날짜 예약상품 등록하기 매뉴얼 보러가기\]**](reservationproduct.md)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
@@ -58,7 +58,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP2**</mark>**. **<mark style="color:blue;">**예약시스템 상품 등록하기**</mark>
 
@@ -174,7 +174,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱에 예약시스템(상품구매)페이지 적용하기**
 
@@ -242,7 +242,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 그외에 최근 본상품, 찜한 상품 보기 등 다양한 기능이 제공되고 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 앱 실행화면) 시간 예약상품 구매하기**
 

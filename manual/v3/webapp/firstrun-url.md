@@ -26,7 +26,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 <mark style="color:red;">이전 버전을 사용하고 있다면 v3 버전 전환 후 이용해주시기 바랍니다.</mark>
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**최초 실행 주소 이용방법**
 
@@ -58,7 +58,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 새 버전으로 앱을 재설치(업데이트)한 뒤 앱을 실행해야, 최초 실행 주소로 넣은 웹사이트(웹페이지)로 변경되어 보여집니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 확인\_ 최초 실행 주소 움짤 영상 확인하기**
 

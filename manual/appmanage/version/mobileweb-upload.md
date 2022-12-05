@@ -34,7 +34,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 **스윙투앱 확장형 or 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> <mark style="color:blue;"></mark><mark style="color:blue;">1. 모바일 웹 업로드 티켓 구매하기</mark>
 

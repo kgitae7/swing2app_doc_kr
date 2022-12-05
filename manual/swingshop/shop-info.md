@@ -18,7 +18,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1.  기본정보설정**
 
@@ -78,7 +78,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 기본정보 설정 입력이 완료되면, 앱제작 페이지로 이동합니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 쇼핑몰 정보 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
 
@@ -100,7 +100,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 7\. \[저장] 버튼 누르면 앱에 반영됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱 실행화면**
 

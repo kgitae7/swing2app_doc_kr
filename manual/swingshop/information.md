@@ -12,7 +12,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 **매뉴얼에서 상점관리 – 기본정보를 입력하는 방법과 앱에서 해당 내용이 어떻게 보여지는지 알려드리겠습니다.**
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP1. 스윙샵 – 상점관리- 기본정보 설정 페이지 이동**
 
@@ -25,7 +25,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 기본정보에서 입력한 항목들이 앱- 쇼핑몰 메인 화면에서 보이게 됩니다.\
 
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.  기본정보 내용 입력하기**
 
@@ -106,7 +106,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 \* 상점푸터: 쇼핑몰메인 페이지 하단에서 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. <mark style="color:blue;"></mark> 앱에 적용하기 – 쇼핑몰 정보, 쇼핑몰메인
 

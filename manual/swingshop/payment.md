@@ -48,7 +48,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **☞** [**스윙샵 상점관리 결제모듈관리 이용방법 보러가기**](payment-module.md)****
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../.gitbook/assets/image (2).png>)**1. 페이앱 전자결제**
 
@@ -106,7 +106,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **☞** [**\[통합 알림 설정 이용방법 상세보기\]**](../appmanage/service/integration-notification.md)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../.gitbook/assets/image (2).png>)**2. 무통장입금 결제 화면**
 
@@ -142,7 +142,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 관리자는 무통장 입금 메일을 확인한 뒤, 실제 은행 계좌로 입금이 되었는지 매칭 후 상품 결제완료를 체크해주시면 됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ****![](<../../.gitbook/assets/image (2).png>)**3. 대면결제(현금) 화면**
 
