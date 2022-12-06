@@ -1,14 +1,14 @@
+---
+description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- 카카오톡으로 앱 공유하기
+---
+
 # 공유하기로 앱 설치하는 방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EA%B3%B5%EC%9C%A0%EC%95%B1%EC%84%A4%EC%B9%98-%EC%A0%9C%EB%AA%A9.png)
-
-**안드로이드폰에서 공유하기로 앱 설치하는 방법- 카카오톡으로 앱 공유하기**
-
-****
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[앱 공유 안내사항]**</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**안드로이드폰**
+**안드로이드폰**
 
 **1)무료 버전으로 제작한 앱은  안드로이드 폰에서만 공유할 수 있습니다. (안드로이드폰 ↔ 안드로이드폰)**
 
@@ -20,7 +20,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**아이폰**&#x20;
+**아이폰**&#x20;
 
 **1)무료버전으로 제작한  앱은 아이폰에서 공유 지원이 안됩니다.**
 
@@ -28,11 +28,11 @@
 
 **매뉴얼을 통해서 앱을 공유하는 방법을 확인해주세요.**
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-> **\* 앱 공유란?**
+## **\* 앱 공유란?**
 
-<mark style="color:orange;">**\*\* 앱 공유하기는 앱 기능 중: 설정 메뉴에서 이용할 수 있습니다.**</mark>&#x20;
+<mark style="color:blue;">**앱 공유하기는 앱 기능 중: 설정 메뉴에서 이용할 수 있습니다.**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A010-1.png)
 
@@ -78,11 +78,13 @@
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-> **01. 카카오톡으로 공유한 앱 설치하기**
+## **1. 카카오톡으로 공유한 앱 설치하기**
 
-<mark style="color:blue;">**1. 앱 공유하기 – 카카오톡**</mark>
+<mark style="color:blue;">****</mark>
+
+### <mark style="color:blue;">**1) 앱 공유하기 – 카카오톡**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A010-1.png)
 
@@ -106,7 +108,7 @@
 
 ***
 
-<mark style="color:blue;">**2. 공유된 앱(APK) 다운로드 받기**</mark>
+### <mark style="color:blue;">**2) 공유된 앱(APK) 다운로드 받기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A0NEW1.png)
 
@@ -122,13 +124,11 @@
 
 \*플레이스토어에 앱이 출시되어있다면  \[어플 설치 및 실행하기] 버튼을 눌러주세요.  플레이스토어 출시 링크로 이동합니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+<mark style="color:orange;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**움짤이미지로 앱 다운 방법 확인하기**</mark>&#x20;
+&#x20;<mark style="color:orange;">****</mark> <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**움짤이미지로 앱 다운 방법 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_12\_07\_15\_25\_10\_743.gif)
-
-***
 
 그런데 ,,, <mark style="color:red;">카톡 화면에서  \[앱(APK) 다운로드]를 선택시  앱이 ZIP파일로 변환되거나 앱 다운이 아예 안되신다는 분들도 있으실거에요!</mark>
 
@@ -136,7 +136,7 @@
 
 
 
-<mark style="color:blue;">**3. 다른 브라우저로 열기**</mark>
+### <mark style="color:blue;">**3) 다른 브라우저로 열기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A0%EC%84%A4%EC%B9%98.png)
 
@@ -144,27 +144,27 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A02.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A02.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**★ 여기서 중요합니다.**</mark>
 
 **자세히 보기를 선택하면 이렇게 앱을 다운 받을 수 있는 새창이 열려요.**
 
-여기서 설치 하지 않고, <mark style="color:orange;">**오른쪽 상단의 점 3개 버튼을 선택해서 ‘다른 브라우저로 열기’를 선택해주세요.**</mark>
+여기서 설치 하지 않고, 오른쪽 상단의 점 3개 버튼을 선택해서 ‘다른 브라우저로 열기’를 선택해주세요.
 
-<mark style="color:orange;">**인터넷 브라우저를 열어주시기 바랍니다.**</mark>
+인터넷 브라우저를 열어주시기 바랍니다.
 
-<mark style="color:orange;">**\*\*\*브라우저는 반드시 IE 로 열어주셔야 합니다. (크롬, 사파리 등은 불가)**</mark>
+\*\*\*브라우저는 반드시 IE 로 열어주셔야 합니다. (크롬, 사파리 등은 불가)
 
 <mark style="color:orange;">****</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A03.png)
 
-새롭게 열린 **인터넷 브라우저 창에서 \[앱(APK) 다운로드] 버튼**을 선택해서 설치해주시기 바랍니다.
+새롭게 열린 인터넷 브라우저 창에서 \[앱(APK) 다운로드] 버튼을 선택해서 설치해주시기 바랍니다.
 
-<mark style="color:red;">**\*이미 핸드폰에 앱이 설치가 되어 있는 경우 어플(앱) 설치 및 실행하기 버튼을 눌러주시면 되구요.**</mark>
+<mark style="color:red;">\*이미 핸드폰에 앱이 설치가 되어 있는 경우 어플(앱) 설치 및 실행하기 버튼을 눌러주시면 되구요.</mark>
 
-<mark style="color:red;">**\*처음 앱을 설치해야 한다면 앱(APK)다운로드 버튼을 눌러서 앱을 설치해주셔야 합니다.**</mark>
+<mark style="color:red;">\*처음 앱을 설치해야 한다면 앱(APK)다운로드 버튼을 눌러서 앱을 설치해주셔야 합니다.</mark>
 
 
 
@@ -184,13 +184,15 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:red;">**설치방법은 아래 움짤 이미지로 보시면 더욱 쉽게 확인이 가능합니다.**</mark>&#x20;
+<mark style="color:blue;">****</mark>
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**설치방법은 아래 움짤 이미지로 보시면 더욱 쉽게 확인이 가능합니다.**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_03\_11\_10\_19\_17\_877.gif)
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-> **02. 이메일로 공유된 앱 설치하기**
+## **2. 이메일로 공유된 앱 설치하기**
 
 다음은 이메일로 앱 공유를 한 뒤, 해당 공유 링크를 통해 다운 및 앱 설치를 하는 과정을 알려드리겠습니다.
 
@@ -240,9 +242,9 @@
 
 **​**
 
-<mark style="color:blue;">**안드로이드폰에서 \[내 파일]검색해서 앱 설치하기**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**안드로이드폰에서 \[내 파일]검색해서 앱 설치하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/APK%ED%8C%8C%EC%9D%BC%EC%84%A4%EC%B9%9811.png)
+<figure><img src="../../.gitbook/assets/APK파일설치430 (1).png" alt=""><figcaption></figcaption></figure>
 
 **안드로이드 폰에서 \[내파일]** 앱을 검색해서 선택해주세요.
 
@@ -254,24 +256,27 @@
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A07.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A07.png" alt=""><figcaption></figcaption></figure>
 
 해당 메뉴에서 마찬가지로 **설치가 완료되지 못한 APK파일을 확인할 수 있습니다.**
 
 재설치를 할 APK를 선택하면 자동으로 해당 APK파일이 앱으로 설치됩니다.
 
-***
 
-<mark style="color:red;">**\[앱 공유기능 안내]**</mark>
+
+{% hint style="info" %}
+<mark style="color:blue;">**앱 공유기능 안내**</mark>
 
 앱이 설치가 안된 사용자에게 공유할 경우, 앱을 먼저 다운받도록 해당 스토어로 이동합니다.
 
 (안드로이드폰→ 플레이스토어, 아이폰→ 앱스토어)
 
-**-아이폰 사용자분들은 앱이 앱스토어에 출시가 되어 있어야 공유가 가능해요.**
+\-아이폰 사용자분들은 앱이 앱스토어에 출시가 되어 있어야 공유가 가능해요.
 
-**-공유시 앱이 설치되어 있지 않으면 , 앱스토어로 이동하고 앱을 다운 받은 뒤 이용할 수 있어요.**
+\-공유시 앱이 설치되어 있지 않으면 , 앱스토어로 이동하고 앱을 다운 받은 뒤 이용할 수 있어요.
 
-**-무료버전앱은 아이폰 공유가 안되구요.**
+\-무료버전앱은 아이폰 공유가 안되구요.
 
-**-안드로이드폰만 무료버전앱에서 공유가 가능합니다.**
+\-안드로이드폰만 무료버전앱에서 공유가 가능합니다.
+{% endhint %}
+
