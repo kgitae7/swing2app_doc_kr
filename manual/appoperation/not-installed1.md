@@ -62,13 +62,19 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 “기기에 보안 위협이 있는지 검색” , “유해한 앱을 감지하는 기능 보완” 2가지 항목에 체크를 풀어서 완료해주시면 됩니다.
 
-그런데 만약 제 폰 설정 메뉴에는 ‘출처를 알 수 없는 앱 설치’ 메뉴 만 있고 구글 플레이 프로텍트 관련 메뉴는 없어요\~!
+
+
+<mark style="color:red;">그런데 만약 제 폰 설정 메뉴에는 ‘출처를 알 수 없는 앱 설치’ 메뉴 만 있고 구글 플레이 프로텍트 관련 메뉴는 없어요\~!</mark>
 
 하시는 사용자분들은 플레이스토어 어플을 실행한 뒤 들어가서 체크해주시면 됩니다.
 
 **플레이스토어 어플에 들어가서 직접 구글 프로텍트 보안 설정을 해제해주시면 됩니다.**
 
-****
+<figure><img src="../../.gitbook/assets/프로텍트1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/프로텍트2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/프로텍트3.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">위의 방법대로 보안을 다 풀어주셨는데도! 앱 설치가 안되면 아래 방법으로 확인해주세요.</mark>
 
@@ -84,7 +90,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 **최신버전의 안드로이드 폰에서는 \[내파일]이 검색이 될 것입니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/APK%ED%8C%8C%EC%9D%BC%EC%84%A4%EC%B9%9811-540x1024.png)
+<figure><img src="../../.gitbook/assets/APK파일설치430 (1).png" alt=""><figcaption></figcaption></figure>
 
 \[내파일] 앱을 선택해주세요.
 
@@ -94,9 +100,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 설치파일(APK)을 선택한 뒤, Download 메뉴를 선택해주세요.
 
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/APK%ED%8C%8C%EC%9D%BC%EC%84%A4%EC%B9%9813-540x1024.png)
+<figure><img src="../../.gitbook/assets/APK파일설치13-430png.png" alt=""><figcaption></figcaption></figure>
 
 해당 메뉴에서 마찬가지로 설치가 완료되지 못한 APK파일을 확인할 수 있습니다.
 
@@ -106,7 +110,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 안드로이드폰에서 앱검색 \[file manager]
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/APK%ED%8C%8C%EC%9D%BC%EC%84%A4%EC%B9%989-540x1024.png)
+<figure><img src="../../.gitbook/assets/APK파일설치430.png" alt=""><figcaption></figcaption></figure>
 
 안드로이드폰 버전이 조금 이전 버전이라면 핸드폰에서 \[file manager] 앱을 실행해주세요.
 
