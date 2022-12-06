@@ -22,21 +22,27 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱제작 완료하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱제작 완료하기**
 
-**1. 앱제작 요청 버튼 선택**
+****
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/Tutorial\_ContentsTutorial\_25-1.png)
+<mark style="color:blue;">**1. 앱제작하기 버튼 선택**</mark>
 
-앱제작이 완료되면 **\[앱제작요청]** 버튼을 눌러주세요.
+<figure><img src="../../.gitbook/assets/제작하기.png" alt=""><figcaption></figcaption></figure>
 
-업데이트 표시 옵션을 선택한 뒤 **\[제작하기]**를 누르면 앱 제작이 시작됩니다**.**
+앱제작이 완료되면 **1)\[저장], 2)\[앱제작하기]** 버튼을 눌러주세요.
 
-\*업데이트 표시 옵션은 선택사항이기 때문에 ‘권장’ or ‘필수’로 하셔도 무관하답니다.\~!
+업데이트 표시 옵션을 선택한 뒤 **3)\[제작하기]**를 누르면 앱 제작이 시작됩니다**.**
+
+\*업데이트 유형, 표시 옵션은 체크되어있는대로 그대로 두시고 제작해주세요.&#x20;
+
+&#x20;첫 앱제작시에는업데이트 창이 안 뜨기 때문에 어떤 걸 선택해도 상관은 없습니다.&#x20;
+
+이후 앱 업데이트를 진행할 경우 업데이트 상황에 맞게 체크해주세요.&#x20;
 
 
 
-**2 . 앱제작 진행 중**
+<mark style="color:blue;">**2 . 앱제작 진행 중**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C1.png)
 
@@ -50,7 +56,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 ​
 
-**3 . 앱 미리보기**
+<mark style="color:blue;">**3 . 앱 미리보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C2.png)
 
@@ -64,7 +70,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-**4. 앱 제작 완료**
+<mark style="color:blue;">**4. 앱 제작 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C3.png)
 
@@ -82,9 +88,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
 
-스윙투앱에서 제작한 무료버전 앱을 다운 받는 방법은 2가지입니다.
+스윙투앱에서 제작한 무료버전 앱을 다운 받는 방법은 3가지입니다.
 
 스윙투앱 공식앱에서 제공하는 앱미리보기 메뉴로  제작한 앱을 직접 다운 받거나 미리보기로 확인할 수 있구요.
 
@@ -92,11 +98,11 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-**1. 스윙투앱 공식앱 – 앱미리보기 이용**
+### **1. 스윙투앱 공식앱 – 앱미리보기 이용**
 
 스윙투앱 공식앱 -앱미리보기에서 앱을 다운받는 방법이 이용하시기에 가장 편리합니다. \_보안상의 문제 없이 다운이 가능!
 
-따라서 앱을 다운받으실 때는 앱미리보기를 이용하시기를 권장드립니다.&#x20;
+따라서 앱을 다운받으실 때는 앱미리보기를 이용하시기를 권장드립니다. (스윙 추천!!)
 
 <mark style="color:red;">\*안드로이드폰에서 앱 다운이 가능합니다.</mark>&#x20;
 
@@ -104,7 +110,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
-1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
+1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요.&#x20;
+
+\*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
 
 [**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
 
@@ -120,15 +128,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:red;">\*주의: 로그인은 반드시 \[</mark>[<mark style="color:red;">스윙투앱 홈페이지</mark>](http://www.swing2app.co.kr)<mark style="color:red;">]에서 가입한 계정을 넣어주셔야 합니다.</mark>
 
-<mark style="color:red;">스윙투앱 공식앱에서 가입한 계정이 아니에요\~!</mark>
-
-{% hint style="success" %}
-**안내**
-
-아이폰은 앱 미리보기 – 간편 로그인 기능이 제공되지 않습니다.
-
-간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or  QR코드로 미리보기 기능으로 이용해주세요.&#x20;
-{% endhint %}
+<mark style="color:red;">스윙투앱 공식앱에서 가입한 계정이 아닙니다.</mark>&#x20;
 
 ****
 
@@ -140,11 +140,15 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 \*안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
-> \-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜬다면 ‘무시하고 설치’ 하고 진행해주시기 바랍니다.&#x20;
->
-> \-스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)
->
-> \-따라서 <mark style="color:red;">아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.</mark>
+{% hint style="warning" %}
+\-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜬다면 ‘무시하고 설치’ 하고 진행해주시기 바랍니다.&#x20;
+
+\-스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)
+
+\-<mark style="color:red;">아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.</mark>
+{% endhint %}
+
+
 
 ****
 
@@ -158,9 +162,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-***
+<figure><img src="../../.gitbook/assets/캡처33 (1).png" alt=""><figcaption></figcaption></figure>
 
-**2.  APK파일 직접 다운 (안드로이드 폰만 가능)  \_ 이메일에서 앱 다운로드하기**
+### **2. APK파일 직접 다운 (안드로이드 폰만 가능)  \_ 이메일에서 앱 다운로드하기**
 
 위의 스윙미리보기 어플을 이용하는 방법 외에 APK파일을 직접 다운받는 방법도 있어요!!
 
@@ -206,11 +210,11 @@ APK파일이 핸드폰으로 다운됩니다.
 
 무료이용자도 유료이용자와 동일한 기능, 앱운영을 이용할 수 있습니다\~!!
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<mark style="color:green;">****</mark>
 
-
-
-<mark style="color:green;">**★그런데 만약 메일에서 정상적으로 다운이 안된다면, 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">메일에서 정상적으로 다운이 안된다면, 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!</mark>
+{% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_09\_22\_13\_50\_52\_221.gif)
 
@@ -244,9 +248,9 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_09\_22\_13\_50\_52\_221.gif)
 
-***
+<figure><img src="../../.gitbook/assets/캡처33 (1).png" alt=""><figcaption></figcaption></figure>
 
-**3. 모바일 스윙투앱 사이트 접속 (안드로이드 폰만 가능)**&#x20;
+### **3. 모바일 스윙투앱 사이트 접속 (안드로이드 폰만 가능)**&#x20;
 
 모바일(안드로이드폰)에서 [**\[스윙투앱 홈페이지\]**](http://www.swing2app.co.kr/) 접속합니다.
 
