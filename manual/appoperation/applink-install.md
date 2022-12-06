@@ -1,6 +1,10 @@
+---
+description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 방법 매뉴얼
+---
+
 # 앱 설치 링크주소로 앱 다운받기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **앱 설치 링크 주소 발행, 링크 주소로 앱 다운받기**
 
@@ -12,51 +16,51 @@
 
 스윙투앱에서 앱제작시 앱 설치 파일 뿐만 아니라 링크도 발행받을 수 있구요. 해당 링크를 다양한 곳에서 공유할 수 있습니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 설치 링크주소 복사하기**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱 설치 링크주소 복사하기**
 
 <mark style="color:red;">**\*중요\* PC에서 진행, 웹브라우저: 크롬을 이용해주세요!!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC1.png)
 
-**\*브라우저는 반드시 크롬 이용해주세요. PC에서 이용해주세요.**
+\*브라우저는 반드시 크롬 이용해주세요. PC에서 이용해주세요.
 
-**1)**[**앱운영-버전관리-앱제작이력 페이지**](https://www.swing2app.co.kr/view/app\_work\_history) **이동**
+1\)[앱운영-버전관리-앱제작이력 페이지](https://www.swing2app.co.kr/view/app\_work\_history) 이동
 
-**2)\[APK파일 받기] 버튼을 선택합니다. (PC에 설치하는 용도 아니며, 다운만 받아주세요)**
+2\)\[APK파일 받기] 버튼을 선택합니다. (PC에 설치하는 용도가 아니며, 다운만 받아주세요)
 
-**​**
+​
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC2.png)
 
-**3)그다음 크롬 브라우저 상단 오른쪽 점 3개 버튼 선택해주세요**
+3\)그다음 크롬 브라우저 상단 오른쪽 점 3개 버튼 선택해주세요
 
-**4) \[다운로드] 선택해주세요.**
+4\) \[다운로드] 선택해주세요.
 
 **​**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC3.png)
 
-**다운로드 새창이 열리구요. 거기서 방금 다운 받으신 앱을 확인할 수 있습니다.**
+다운로드 새창이 열리구요. 방금 다운 받으신 앱을 확인할 수 있습니다.
 
-**5) 링크쪽에 마우스 가져다 대고, 마우스 오른쪽 버튼 선택해주세요.**
+5\) 링크쪽에 마우스 커서를가져다 대고, 마우스 오른쪽 버튼 선택해주세요.
 
-**‘링크 주소 복사’ 하시면 앱 설치(다운로드) 주소를 복사할 수 있습니다.**
+**‘링크 주소 복사’** 하시면 앱 설치(다운로드) 주소를 복사할 수 있습니다.
 
-**​**
+****
 
-<mark style="color:orange;">**완료!!**</mark>
-
-이렇게 하면 제작하신 앱 파일이 아닌 링크로 받을 수 있어요!!
+이렇게 하면 제작하신 앱 파일이 아닌 링크로 받을 수 있습니다.&#x20;
 
 그럼 해당 링크로 어떻게 앱 다운을 할 수 있는지 확인해주세요\~
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 앱 설치 링크로 다운받기**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 앱 설치 링크로 다운받기**
 
-<mark style="color:orange;">**1.이메일로 앱 설치 링크 발송 후 다운**</mark>
+<mark style="color:orange;">****</mark>
+
+### <mark style="color:blue;">**1.이메일로 앱 설치 링크 발송 후 다운**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC4.png)
 
@@ -66,7 +70,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:orange;">**2.블로그 앱 설치 링크 다운**</mark>
+### <mark style="color:blue;">**2.블로그 앱 설치 링크 다운**</mark>
 
 홈페이지, 카페, 블로그에도 올릴 수 있겠죠?
 
@@ -78,10 +82,16 @@
 
 ***
 
-<mark style="color:red;">**-주의사항-**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**주의사항**</mark>
 
-\*앱 설치 링크기 때문에 반드시 모바일(핸드폰)에서 다운 받아주셔야 하구요.
+\*앱 설치 링크이기 때문에 반드시 모바일(핸드폰)에서 다운 받아주셔야 하구요.
 
 \*해당 기능은 아이폰은 이용 할 수 없어요. 안드로이드폰에서만 앱 다운이 가능합니다.
 
 \*앱 설치 링크는 위에 안내드린 것 외에도 메신저(카톡)이나 링크를 공유할 수 있는 다양한 어플에서 이용이 가능합니다.
+{% endhint %}
+
+***
+
+***
