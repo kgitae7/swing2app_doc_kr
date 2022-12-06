@@ -34,11 +34,11 @@ description: 무료버전앱이 핸드폰에 설치가 안될 때 확인해주�
 
 &#x20;**** 먼저 안드로이드폰 \[설정]에서 보안 항목들을 모두 체크해주세요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B3%B4%EC%95%881.png)
+<figure><img src="../../.gitbook/assets/보안4.png" alt=""><figcaption></figcaption></figure>
 
-설정 메뉴 → 잠금화면 및 보안 메뉴로 이동합니다.
+\[설정] 메뉴 → 보안 및 개인정보 보호 메뉴로 이동합니다.
 
-<mark style="color:red;">\*안드로이드폰 기종, 버전마다 메뉴는 조금씩 달라요! 설정 메뉴에서 ‘보안’ 관련 메뉴로 들어가주세요</mark>
+<mark style="color:red;">\*안드로이드폰 기종, 버전마다 메뉴는 조금씩 달라요! 동일한 메뉴가 없다면 설정 메뉴에서 ‘</mark><mark style="color:red;">**보안’**</mark> <mark style="color:red;"></mark><mark style="color:red;">관련 메뉴로 들어가주세요</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
