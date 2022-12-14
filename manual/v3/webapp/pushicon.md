@@ -4,6 +4,8 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 # 푸시 아이콘 이미지 등록하기
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 **푸시란? 푸시 아이콘 이미지란?**
 
 푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있는 기능이구요.
