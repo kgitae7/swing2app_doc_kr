@@ -68,7 +68,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.1 대시보드: 앱 설정**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP1. 대시보드: 앱 설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-4-1.png)
 
@@ -344,7 +344,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ****
 
-### <mark style="color:blue;">**2. 기본 스토어 등록정보 설정**</mark>
+### <mark style="color:blue;">**2.기본 스토어 등록정보 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D-39\_-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D%EC%A0%95%EB%B3%B41-1.png)
 
@@ -406,17 +406,19 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 프로덕션 – 앱 등록하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 프로덕션 – 앱 등록하기
 
 **— 다시 대시보드로 이동해주시구요. 구글플레이에 앱 게시를 선택합니다.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C5.png)
 
-<mark style="color:orange;">**1.국가/지역 선택**</mark>
+### <mark style="color:blue;">**1.국가/지역 선택**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C6.png)
 
 파란색 글자로 된 <mark style="color:blue;">**국가/지역 추가**</mark>** ** 를 선택합니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C7.png)
 
@@ -428,7 +430,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
-### <mark style="color:blue;">**2. 프로덕션 – AAB파일 등록**</mark>
+### <mark style="color:blue;">**2.프로덕션 – AAB파일 등록**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C23-%EC%83%88%EB%B2%84%EC%A0%84-%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
 
@@ -445,8 +447,6 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 업로드 버튼을 선택한 뒤, 스윙투앱에서 제작완료한 AAB 파일을 해당 화면으로 업로드 해주세요.
 
 파일 업로드가 완료되면, **화면 하단의 **<mark style="color:green;">**\[저장]**</mark>**버튼 선택 → **<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
-
-**​**
 
 {% hint style="info" %}
 <mark style="color:blue;">**\*AAB파일은 어디서 다운받나요??**</mark>
@@ -520,7 +520,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 ****
 
-### <mark style="color:blue;">**3. 프로덕션 등록완료**</mark>
+### <mark style="color:blue;">**3.프로덕션 등록완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C26.png)
 
@@ -534,7 +534,9 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**앱 출시 완료 (심사기간 7일 이내)**</mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 출시 완료 (심사기간 7일 이내)
 
 **\*출시는 바로 되는 것이 아니라, 구글 심사를 거친 뒤 승인이 되는 것이라서 기다려주셔야 해요\~!**
 
@@ -548,7 +550,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 ​
 
-<mark style="color:orange;">**1)앱 출시 후 앱이름으로 검색 안됩니다.**</mark>
+<mark style="color:blue;">**1)앱 출시 후 앱 이름 검색 노출이 바로 안될 수 있습니다.**</mark>
 
 **플레이스토어에 앱이 정상 출시되어도 앱 이름으로 검색시 스토어에 바로 노출이 되지 않습니다.** \*중요!\*
 
@@ -574,7 +576,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 
 
-<mark style="color:orange;">**2)플레이스토어 앱 업로드 대행 가능**</mark>
+#### <mark style="color:blue;">**2)플레이스토어 앱 업로드 대행 가능**</mark>
 
 매뉴얼을 보고 직접 진행 하는게 어렵다면, 스윙투앱으로 업로드 신청주시면 플레이스토어 업로드 대행해드립니다.
 
@@ -584,10 +586,20 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 플레이스토어 업로드 신청방법은 아래 매뉴얼을 참고해주세요.
 
-[https://wp.swing2app.co.kr/documentation/appmanage/version/playstore-upload/](../../manual/appmanage/version/playstore-upload.md)
+[\[플레이스토어 업로드 신청방법\]](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)
 
 &#x20;
 
+#### <mark style="color:blue;">3)플레이스토어 심사 거절 사례</mark>
+
+앱 제작 및 스토어 등록 전, 플레이스토어 심사에서 자주 거절되는 거절사례를 확인해주세요.
+
+거절 사유를 확인하여 미리 조치하면, 앱 심사에서 문제 없이 출시가 될 수 있습니다.
+
+[\[플레이스토어 자주 거절되는 심사 사례 보러가기\]](reject.md)
+
+
+
 **★ 플레이스토어 앱 업데이트를 해야 할 경우는 아래 링크를 확인해주세요!**
 
-**☞** [**\[플레이스토어 앱 업데이트 보러가기\]**](palystore-update.md)
+**☞** [**\[플레이스토어 앱 업데이트 보러가기\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)****
