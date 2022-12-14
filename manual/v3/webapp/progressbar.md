@@ -2,7 +2,7 @@
 description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레스바' 색상을 수정하는 방법
 ---
 
-# 프로그레스바(상태 표시줄)색상
+# 프로그레스바 색상 설정
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
