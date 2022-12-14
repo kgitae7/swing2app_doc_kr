@@ -279,6 +279,7 @@
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
 * [플레이스토어](knowledgebase/playstore/README.md)
+  * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [구글 플레이 정책 - 데이터 보안](knowledgebase/playstore/Datasecurity.md)
@@ -303,7 +304,6 @@
   * [플레이스토어 구글 개발자계정 초대하기](knowledgebase/playstore/google-developer-invitation.md)
   * [구글 개발자계정 만드는 방법](knowledgebase/playstore/google-developer.md)
   * [플레이스토어 앱 업데이트하기](knowledgebase/playstore/palystore-update.md)
-  * [플레이스토어 앱 출시하기](knowledgebase/playstore/playstore-apprelease.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 앱 심사 거절 사례](knowledgebase/appstore/reject.md)
   * [Apple Developer Enterprise Program](knowledgebase/appstore/apple-developer-enterprise.md)

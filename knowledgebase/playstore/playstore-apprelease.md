@@ -1,14 +1,16 @@
-# 플레이스토어 앱 출시하기
+---
+description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022년 12월 업데이트 버전
+---
+
+# 플레이스토어 앱 등록 매뉴얼
+
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%A0%9C%EB%AA%A91.png)
+**구글 플레이스토어에 앱 출시하기**&#x20;
 
-**구글 플레이스토어에 앱 출시하기 \_2021년 12월 업데이트 버전**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
-
-<mark style="color:red;">\* 먼저! 플레이스토어 앱 등록을 위해서는, 먼저 구글 개발자 계정을 만들어주셔야 합니다.</mark>
+<mark style="color:red;">플레이스토어 앱 등록을 위해서는, 먼저 구글 개발자 계정을 만들어주셔야 합니다.</mark>
 
 **구글 개발자 콘솔사이트:** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
@@ -16,13 +18,15 @@
 
 결제가 완료 된 후 구글플레이스토어 개발자 콘솔 화면으로 들어와서 어플리케이션을 추가하시면 됩니다.
 
-<mark style="color:red;">\*일반 지메일 계정이 있다고 해서, 해당 계정이 구글 개발자 계정이 되는 것이 아니며, 구글 콘솔에서 25달러 등록수수료를 결제한 계정이 개발자 계정이 됩니다.</mark>
+<mark style="color:red;">\*일반 구글 메일 계정이 있다고 해서, 해당 계정이 구글 개발자 계정이 되는 것이 아닙니다.</mark>
+
+&#x20;<mark style="color:red;">구글 콘솔에서 25달러 등록 수수료를 결제한 계정이 개발자 계정이 됩니다.</mark>
 
 <mark style="color:red;"></mark>
 
 **구글 개발자계정 등록방법은 도움말 매뉴얼을 참고해주세요.**
 
-[****<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **구글 개발자 계정 등록방법 매뉴얼 보러가기**](google-developer.md)
+****<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**구글 개발자 계정 등록방법 매뉴얼 보러가기**](google-developer.md)****
 
 플레이스토어 출시는 스윙투앱 유료버전앱만 가능합니다.
 
@@ -34,13 +38,17 @@
 
 {% embed url="https://youtu.be/uHmzXjdjook" %}
 
-> <mark style="color:blue;">**구글 플레이 콘솔 접속**</mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-[https://play.google.com/console/developers](https://play.google.com/console/developers)
+## <mark style="color:blue;">**구글 플레이 콘솔 접속**</mark>&#x20;
+
+&#x20;<mark style="color:blue;">****</mark> [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C1.png)
 
 <mark style="color:blue;">**\[앱 만들기]**</mark>** ** 버튼을 선택합니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C2.png)
 
@@ -58,9 +66,9 @@
 
 7\)\[앱 만들기] 버튼 선택합니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 대시보드: 앱 설정**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.1 대시보드: 앱 설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-4-1.png)
 
@@ -70,7 +78,7 @@
 
 **​**
 
-<mark style="color:orange;">**1. 앱 액세스 권한**</mark>
+### <mark style="color:blue;">**1.앱 액세스 권한**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80\_%EC%95%A1%EC%84%B8%EC%8A%A42.png)
 
@@ -87,8 +95,6 @@
 **\[ + 새 안내 추가] 선택시 로그인 정보 입력창이 뜹니다.**
 
 해당 정보는 모두 앱에서 로그인 가능한 정보를 입력해주세요\~!
-
-
 
 1\)이름: 구글에서 제시한 시나리오 “대한민국 사용자 대상” 이라고 입력해주세요.
 
@@ -112,7 +118,7 @@
 
 ​
 
-<mark style="color:orange;">**2.광고 여부 체크**</mark>
+### <mark style="color:blue;">**2.광고 여부 체크**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C13\_%EA%B4%91%EA%B3%A0.png)
 
@@ -122,7 +128,7 @@
 
 ​
 
-<mark style="color:orange;">**3.콘텐츠 등급**</mark>
+### <mark style="color:blue;">**3.콘텐츠 등급**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%98%ED%85%90%EC%B8%A01.png)
 
@@ -142,7 +148,9 @@
 
 해당 카테고리에 맞는 설문지 입력 항목이 생성됩니다.
 
-**4)설문지 질문을 확인하여 예, 아니요에 체크한 뒤 5)\[저장] 및 \[다음] 버튼을 선택합니다.**
+**4)설문지 질문을 확인하여 예, 아니요에 체크한 뒤**&#x20;
+
+**5)\[저장] 및 \[다음] 버튼을 선택합니다.**
 
 \*설문지 질문은 앱에서 제공하고 있는 내용을 그대로 반영해주셔야 합니다.
 
@@ -152,15 +160,15 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%98%ED%85%90%EC%B8%A04.png)
 
-6\)\[제출] 버튼을 선택해주세요.
+**6)\[제출]** 버튼을 선택해주세요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%98%ED%85%90%EC%B8%A05.png)
 
-\[완료!]설문지를 완료하면 내 앱에 맞는 등급이 산출됩니다.
+설문지를 완료하면 내 앱에 맞는 등급이 산출됩니다.
 
 
 
-<mark style="color:orange;">**4.개인정보 처리방침**</mark>
+### <mark style="color:blue;">**4.개인정보 처리방침**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15\_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4.png)
 
@@ -170,7 +178,9 @@
 
 스윙투앱 일반프로토타입(슬라이드,푸터, 탑 등)으로 제작한 분들은 스윙투앱에서 제공하는 이용약관 URL을 입력할 수 있습니다.
 
-**스윙투앱 사이트의** [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app\_setting)**을 수정하여 해당 링크를 넣어주세요\~! (스윙투앱으로 제작한 앱에서만 적용 가능합니다)**
+**스윙투앱 사이트의** [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app\_setting)**을 수정하여 해당 링크를 넣어주세요**&#x20;
+
+(스윙투앱으로 제작한 앱에서만 적용 가능합니다)
 
 <mark style="color:red;">**★ 중요**</mark>
 
@@ -180,7 +190,7 @@
 
 **​**
 
-<mark style="color:orange;">**5. 타겟층 및 콘텐츠**</mark>
+### <mark style="color:blue;">**5.타겟층 및 콘텐츠**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C16\_%ED%83%80%EC%BC%93%EC%97%B0%EB%A0%B9.png)
 
@@ -192,7 +202,7 @@
 
 따라서 특별한 경우를 제외하고는 앱 연령은 만 18세 이상으로 체크한 뒤 \[다음] 버튼 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C17\_%ED%83%80%EC%BC%93%EC%96%B4%EB%A6%B0%EC%9D%B4.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C17_%ED%83%80%EC%BC%93%EC%96%B4%EB%A6%B0%EC%9D%B4.png" alt=""><figcaption></figcaption></figure>
 
 어린이 관심을 유도함 질문에는 “아니요” 에 체크한 뒤 \[다음] 버튼을 선택합니다.
 
@@ -204,13 +214,17 @@
 
 \[저장] 완료
 
-<mark style="color:orange;">**6. 뉴스 앱 체크**</mark>
+
+
+### <mark style="color:blue;">**6.뉴스 앱 체크**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%B6%94%EA%B0%801.png)
 
 **뉴스앱은 제출하는 앱이 뉴스앱인지 체크하는 항목이에요.**
 
 \[시작] 버튼을 눌러주세요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%B6%94%EA%B0%802.png)
 
@@ -228,7 +242,7 @@
 
 
 
-<mark style="color:orange;">**7. 코로나 관련 앱 체크(21.08.16 추가메뉴)**</mark>
+### <mark style="color:blue;">**7.코로나 관련 앱 체크(21.08.16 추가메뉴)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%94%EB%A1%9C%EB%82%98%EC%B2%B4%ED%81%AC.png)
 
@@ -244,7 +258,7 @@
 
 <mark style="color:red;"></mark>
 
-<mark style="color:orange;">**8. 데이터 보안 (21.11 추가 메뉴)**</mark>
+### <mark style="color:blue;">**8.데이터 보안 (21.11 추가 메뉴)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%B6%94%EA%B0%801.png)
 
@@ -258,11 +272,31 @@
 
 아래 포스팅 링크를 참고하여 확인해주세요.
 
-[☞데이터 보안 정책 입력방법 보러가기](https://blog.naver.com/swing2app/222555829622)
+☞ [데이터 보안 정책 입력방법 보러가기](https://blog.naver.com/swing2app/222555829622)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-> <mark style="color:orange;">**앱 콘텐츠 입력 완료!**</mark>
+
+### <mark style="color:blue;">**9.정부앱 체크 (22.12 추가 메뉴)**</mark>
+
+<figure><img src="../../.gitbook/assets/정부체크_구글.jpg" alt=""><figcaption></figcaption></figure>
+
+제출하는 앱이 정부에서 개발했거나, 정부에서 대신하여 개발한 앱인지를 체크하는 항목입니다.
+
+“아니요”로 체크하고, \[저장] 버튼을 선택합니다.
+
+만약 정부와 관련된 앱이라면 “예”에 체크합니다.
+
+
+
+<figure><img src="../../.gitbook/assets/정부체크2_구글.png" alt=""><figcaption></figcaption></figure>
+
+“예” 체크시 어떤 정부 기관인지 체크하게 됩니다.
+
+그리고 증빙할 수 있는 서류를 반드시 함께 제출해주셔야 합니다.
+
+****
+
+<mark style="color:blue;">**앱 콘텐츠 입력 완료!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C21\_%EC%BB%A8%ED%85%90%EC%B8%A0%EC%99%84%EB%A3%8C.png)
 
@@ -276,15 +310,15 @@
 
 단계별 입력이 완료되면, 완료로 체크됩니다.
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 스토어 설정 단계
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 스토어 설정 단계**</mark>
-
-**–앱 콘텐츠 단계 입력이 끝났으면, 왼쪽 메뉴의 앱정보 – 스토어 설정으로 이동합니다.**
+**앱 콘텐츠 단계 입력이 끝났으면, 왼쪽 메뉴의 앱정보 – 스토어 설정으로 이동합니다.**
 
 ****
 
-<mark style="color:orange;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
+### <mark style="color:blue;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18\_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
 
@@ -300,15 +334,17 @@
 
 <mark style="color:red;">\* 필수 입력 항목이며, 그외 항목 입력은 선택사항입니다.</mark>
 
+<mark style="color:red;"></mark>
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C4.png)
 
 앱 카테고리 선택 및 연락처 세부정보 제공 입력도 완료되었구요.
 
 **다음은 \[스토어 등록정보 설정]을 선택해주세요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%9822.jpg)
+****
 
-<mark style="color:orange;">**2. 기본 스토어 등록정보 설정**</mark>
+### <mark style="color:blue;">**2. 기본 스토어 등록정보 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D-39\_-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D%EC%A0%95%EB%B3%B41-1.png)
 
@@ -332,13 +368,19 @@
 
 \*그래픽 이미지는 어떻게 보여지나요?
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:purple;">**그래픽 이미지의 용도?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">****</mark>** 그래픽 이미지의 용도?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD\_1.png)
+<figure><img src="../../.gitbook/assets/그래픽이미지_업로드신청서용.png" alt=""><figcaption></figcaption></figure>
 
-그래픽이미지는 플레이스토어에 보여지는 이미지는 아니구요.
+**그래픽이미지 노출 위치: 플레이스토어 스크린샷 이미지 앞에 미리보기 동영상 표지 이미지로 사용 및 노출이 됩니다.**
 
-출시 후 스토어 출시 링크를 공유하게 되면 페이지 정보에서 섬네일 이미지로 표시가 됩니다\~!
+프로모션 동영상 URL을 제출하였을 경우 맨 앞에 영상이 보여지는데, 그래픽 이미지가 영상의 표지 이미지로 사용이 됩니다.
+
+그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지를 사용합니다.
+
+프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 어디서도 노출이 되지 않습니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D41-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D%EC%A0%95%EB%B3%B43.png)
 
@@ -356,15 +398,15 @@
 
 9\) **\[저장]** 버튼을 누르면 스토어 정보 입력이 완료됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+
 
 **플레이스토어에 입력해야 하는 내용은 모두 완료되었구요.**
 
 **마지막으로 앱(APK파일)을 업로드해주시면 됩니다.**
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 프로덕션 – 앱 등록하기**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 프로덕션 – 앱 등록하기
 
 **— 다시 대시보드로 이동해주시구요. 구글플레이에 앱 게시를 선택합니다.**
 
@@ -384,9 +426,9 @@
 
 <mark style="color:blue;">**\[국가/지역 추가]**</mark> 버튼을 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
 
-<mark style="color:orange;">**2. 프로덕션 – AAB파일 등록**</mark>
+
+### <mark style="color:blue;">**2. 프로덕션 – AAB파일 등록**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C23-%EC%83%88%EB%B2%84%EC%A0%84-%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
 
@@ -406,19 +448,19 @@
 
 **​**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
-
-<mark style="color:red;">**\*AAB파일은 어디서 다운받나요??**</mark>
+{% hint style="info" %}
+<mark style="color:blue;">**\*AAB파일은 어디서 다운받나요??**</mark>
 
 AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB파일을 이곳에 첨부하면 되구요.
 
 [**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
 
-**\*AAB파일은 유료버전앱에서만 다운 가능하며 무료버전앱에서는 제공되지 않습니다.**&#x20;
+\*AAB파일은 유료버전앱에서만 다운 가능하며 무료버전앱에서는 제공되지 않습니다.&#x20;
 
-**\*AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다.**
+\*AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다.
 
 <mark style="color:blue;"><mark style="color:red;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.<mark style="color:red;"></mark>
+{% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
 
@@ -430,35 +472,39 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 <mark style="color:red;">\*인터넷 브라우저 Chrome 으로 이용해주세요.</mark>
 
-<mark style="color:red;"></mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**중요안내**</mark>
 
-> <mark style="color:red;">**\*중요안내**</mark><mark style="color:red;">:</mark>플레이스토어 앱 등록 시스템 업데이트로 기존 앱 등록 파일인  APK파일에서 →  AAB파일로 변경되었습니다.
->
-> AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 생성이 됩니다.
->
-> 따라서 21.08.09 이전에 제작된 앱은 앱제작V2로 이동하셔서 앱제작하기 버튼 선택하여 새 버전으로 앱제작 다시 해주세요.
->
-> 새로 제작된 앱부터 AAB파일을 받을 수 있습니다.
->
-> 만약 파일을 올리는데 번들 취약 등의 메시지가 뜬다면, 앱 최초 버전이 업데이트 이전 버전이라 그럴 수 있습니다.
->
-> 스윙투앱 문의게시판으로 문의 남겨주시면 새 버전으로 제작해드립니다.&#x20;
+플레이스토어 앱 등록 시스템 업데이트로 기존 앱 등록 파일인  APK파일에서 →  AAB파일로 변경되었습니다.
 
+AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 생성이 됩니다.
 
+따라서 21.08.09 이전에 제작된 앱은 앱제작V2로 이동하셔서 앱제작하기 버튼 선택하여 새 버전으로 앱제작 다시 해주세요.
 
-### &#x20;**** ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:purple;">**TIP. AAB 파일 드래그하여 등록하기**</mark>
+새로 제작된 앱부터 AAB파일을 받을 수 있습니다.
+
+만약 파일을 올리는데 번들 취약 등의 메시지가 뜬다면, 앱 최초 버전이 업데이트 이전 버전이라 그럴 수 있습니다.
+
+스윙투앱 문의게시판으로 문의 남겨주시면 새 버전으로 제작해드립니다.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+#### <mark style="color:blue;">**TIP. AAB 파일 드래그하여 등록하기**</mark>
 
 구글 플레이 콘솔 화면과 / 스윙투앱 사이트 2개 화면을 열어놓구요.
 
 스윙투앱 사이트에서 받은 AAB파일을 마우스로 끌어서(드래그하여) 플레이 콘솔 화면의 앱 파일로 등록할 수 있어요.
 
 따로 파일을 저장하여 불러오는 것보다 보다 편하게 작업 하실 수 있겠죠?^^
+{% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+### &#x20;****&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B45.png)
 
 <mark style="color:blue;">**\[프로덕션 트랙으로 출시 시작]**</mark> 버튼 선택 → 프로덕션 트랙 출시 메시지 창에서 ** **<mark style="color:blue;">**\[출시]**</mark>** ** 버튼을 선택해주세요.
+
+
 
 <mark style="color:red;">**★ 잠깐!**</mark>
 
@@ -470,11 +516,11 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 해당 내용은 앱출시와는 관계가 없기 때문에 무시하셔도 됩니다.&#x20;
 
-**\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능하다는 것!! 아시죠? ^^**&#x20;
+**\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능합니다.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
+****
 
-<mark style="color:orange;">**3. 프로덕션 등록완료**</mark>
+### <mark style="color:blue;">**3. 프로덕션 등록완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C26.png)
 
