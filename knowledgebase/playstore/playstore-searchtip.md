@@ -1,7 +1,5 @@
 # 플레이스토어 앱 검색 TIP
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B2%80%EC%83%89TIP%EC%A0%9C%EB%AA%A9.png)
-
 **구글 플레이스토어 앱 검색이 잘되게 하는 방법 TIP 안내**
 
 구글의 경우는 앱이름을 제대로 검색을 해도, 상단 (TOP)에 배치를 시키지는 않아요.&#x20;

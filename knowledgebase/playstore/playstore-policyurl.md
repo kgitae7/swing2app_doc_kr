@@ -1,7 +1,5 @@
 # 플레이스토어 개인정보 링크 연결하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8url.png)
-
 **플레이스토어 앱 등록시 – 스토어 등록정보 메뉴 에서 ‘개인정보 처리방침’을 입력하는 방법에 대해서 알려드립니다.**
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**개인정보처리방침 이란?**</mark>

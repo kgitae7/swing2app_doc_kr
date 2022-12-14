@@ -1,7 +1,5 @@
 # 플레이스토어 비공개 앱출시 (알파 출시)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%A0%9C%EB%AA%A9.png)
-
 **플레이스토어 비공개 앱출시 방법(알파 테스트 출시)**
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**알파 출시란?**</mark>

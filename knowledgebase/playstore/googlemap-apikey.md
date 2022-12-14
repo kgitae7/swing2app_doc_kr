@@ -1,7 +1,5 @@
 # 구글맵 API키 발급하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5API%EC%A0%9C%EB%AA%A9.png)
-
 **구글맵 API 발급방법**
 
 구글맵(지도)를 이용하기 해서는 구글맵 플랫폼 서비스에서 제공하는 API키 값을 받아야 해요.

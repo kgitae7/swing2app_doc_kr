@@ -1,7 +1,5 @@
 # Google Play Console 지원팀 문의하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0%EB%A9%94%EC%9D%B8.png)
-
 **Google Play 콘솔 지원팀 이용방법**&#x20;
 
 <mark style="color:red;">\*스윙투앱은 구글 고객센터가 아니며, 구글 관련 상담을 해드리지 않아요.</mark>&#x20;

@@ -1,7 +1,5 @@
 # 플레이스토어 개발자 페이지
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%94%84%EB%A1%9C%ED%95%84-%EC%9D%B4%EB%A6%84.png)
-
 **구글 개발자 페이지 등록 및 이용방법**
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:orange;">**개발자 페이지란?**</mark>

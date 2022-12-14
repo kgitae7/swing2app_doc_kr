@@ -1,7 +1,5 @@
 # 플레이스토어 구글 개발자계정 초대하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B4%88%EB%8C%80%EB%A9%94%EC%9D%B8.png)
-
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **구글 개발자계정 초대란?**
 
 구글 개발자가 다른 사용자를 초대하는 이유는 자신의 계정(아이디, 비밀번호)을 다른 사람에게 알려주지 않고, 어플리케이션 업로드 관련 권한을 부여할 수 있어요.

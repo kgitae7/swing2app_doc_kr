@@ -1,6 +1,4 @@
-# 플레이스토어 앱 업데이트하기
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%A0%9C%EB%AA%A92.png)
+# 플레이스토어 앱 업데이트
 
 **플레이스토어에 등록된 앱 업데이트 방법**
 

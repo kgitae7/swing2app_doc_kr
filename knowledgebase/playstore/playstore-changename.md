@@ -1,7 +1,5 @@
 # 플레이스토어 개발자 이름 변경방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B4%EB%A6%84%EB%B3%80%EA%B2%BD.png)
-
 **구글 플레이스토어 개발자 이름 변경 방법**
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **개발자 이름이란?**

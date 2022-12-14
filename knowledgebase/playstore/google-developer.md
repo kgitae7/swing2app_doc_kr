@@ -1,7 +1,5 @@
 # 구글 개발자계정 만드는 방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%A0%9C%EB%AA%A93.png)
-
 플레이스토어에 앱을 등록하기 위해서는 ! 구글 개발자계정을 먼저 만들어야 합니다.
 
 <mark style="color:orange;">**★구글 개발자 계정이란?**</mark>
