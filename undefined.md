@@ -1,74 +1,85 @@
 ---
-description: 게시판- 게시물 정렬 설정 방법
+description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레스바' 색상을 수정하는 방법
 ---
 
-# 게시물 정렬 순서 설정 방법
-
-****
-
-게시판에 등록된 게시물의 정렬 순서를 변경하는 방법을 알려드립니다.&#x20;
-
-(글 작성 최신 순 & 오래된 순으로 정렬) &#x20;
+# 프로그레스바(상태 표시줄)색상 설정
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.게시물 정렬 설정하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1. 프로그레스바란?**&#x20;
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%ED%91%9C%EC%8B%9C%EC%A4%84.png" alt=""><figcaption></figcaption></figure>
 
-[앱운영 -서비스관리-게시판 관리](http://www.swing2app.co.kr/view/board\_edit)로 이동합니다.&#x20;
+**프로그레스바는**, 모바일 웹 상단에 표시되는 진행 표시줄입니다.
 
+가로로 기다란 형태를 나타내고 있으며, 작업이 얼만큼 진행되었는지 시각적으로 알려주는 바(bar)입니다.
 
+“로딩 중”과 비슷한 의미로 보시면 되구요,
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%A0%95%EB%A0%AC%EC%88%9C%EC%84%9C.png)
-
-\[게시판 생성] 버튼 선택 \*만들어놓은 게시판으로 적용할 경우 해당 게시판의  \[설정] 버튼을 선택해주세요.
-
-게시판 및 기능설정 창이 열리구요.
-
-\[고급 스타일] 탭을 선택하면 \*게시물 정렬 설정 메뉴를 확인할 수 있습니다.
-
-{% hint style="info" %}
-**-게시물 정렬은 최신 글 순서(최신 순)로 기본 셋팅되어 있구요.**
-
-**-오래된 글을 먼저 보여지게 하고 싶다면  “오래된 순”으로 정렬을 변경해서 저장해주세요.**&#x20;
-
-**-V3 버전을 이용 중인데, 해당 메뉴가 보이지 않는다면 앱 업데이트를 한번 해주세요. (업데이트 후 이용 가능)**
-{% endhint %}
+프로그레스바는 모바일 웹사이트를 연결한 웹앱-웹뷰, 푸시앱에서 볼 수 있습니다.
 
 
-
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/warning-2-3.png) ** **<mark style="color:red;">**앱제작 V2버전 이용시**</mark>
-
-앱제작 V2버전을 이용하는 분들은 고급스타일- 게시물 옵션 설정에서 이용 가능합니다.
-
-\[게시물 정렬 순서] 항목으로 체크
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%A0%95%EB%A0%AC.png)
-
-V3 버전으로 전환시 보다 다양한 앱 기능을 이용할 수 있습니다.
-
-V3 전환은 앱제작 화면 상단에 V3전환 버튼을 선택하여 바로 전환이 가능하며, 전환 후 한번 앱 업데이트를 해주세요!
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)2. 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EC%A0%95%EB%A0%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C2%EA%B0%9C.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8A%A4%EB%B0%94_886.png" alt=""><figcaption></figcaption></figure>
 
-게시물 정렬 설정 – 최신 순, 오래된 순으로 셋팅시 위의 앱 실행화면 이미지처럼 게시물이 정렬됩니다.&#x20;
+앱제작 V3 화면 이동 <mark style="color:red;">\*프로그레스바는 앱제작 V3버전에서 이용 가능, V2 이용 중에는 V3전환하여 이용 가능합니다.</mark>
 
-게시물 정렬은 앱의 특성상, 사용자의 편의에 맞게 설정하여 이용해주시기 바랍니다.&#x20;
+1\)고급설정 선택
+
+2\)설정: 앱제작 설정 선택
+
+3\)프로그레스바 색상설정 \[EDIT] 버튼 선택
+
+4\)설정값 선택하여 원하는 색상 선택 \[APPLY] 버튼 선택
+
+정확한 색상값이 있을 경우 HEX 컬러 코드(색상 코드)로 [#색으로](https://blog.naver.com/PostListByTagName.naver?blogId=swing2app\&encodedTagName=%EC%83%89%EC%9C%BC%EB%A1%9C) 입력해주세요.
+
+5\)상단 \[저장] 버튼 선택
+
+6\)\[앱 업데이트] 버튼 선택
+
+\*아직 앱 제작이 안되어 있을 경우 \[앱제작하기] 버튼으로 뜹니다.
+
+\*앱 업데이트를 해야 설정한 색상으로 앱에 반영됩니다.
+
+​
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**Related Articles**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)3. 앱 실행화면) 프로그레스바 색상 변경
 
-* [푸시 아이콘 이미지 가이드라인](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/pushicon-guideline/)
-* [페이지 기능 – UI KIT](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/ui-kit/)
-* [페이지 기능 – 쇼핑몰 상품](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/product/)
-* [페이지 기능 – 상품카테고리](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/product-category/)
-* [페이지 기능 – 쇼핑몰 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
-* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8A%A4%EB%B0%942.jpg" alt=""><figcaption></figcaption></figure>
+
+프로그레스바 기본 셋팅 컬러: [#0C99F8](https://blog.naver.com/PostListByTagName.naver?blogId=swing2app\&encodedTagName=0C99F8)
+
+\*색상 변경을 따로 하지 않을 경우 프로그레스바는 위의 색상으로 기본 셋팅되어 제공됩니다.
+
+원하는 색상으로 변경 후, 앱을 새 버전으로 제작(업데이트) 하시면 프로그레스바가 변경된 색상으로 적용된 것을 확인할 수 있습니다.
+
+웹사이트 메인 컬러나 원하는 색상이 있을 경우 프로그레스바 색상 설정에서 색상 값을 설정하여 이용할 수 있습니다.
+
+<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)4. 안내사항
+
+1\)프로그레스바 색상 설정 기능은 V3 버전에 추가된 기능으로V2 버전에서는 이용하실 수 없습니다.
+
+**해당 기능을 이용할 경우 V3버전으로 전환해서 이용할 수 있구요.**
+
+전환시 최초 업데이트를 반드시 진행해주셔야 합니다.
+
+​
+
+2\)프로그레스바 색상 설정 기능은 앱 업데이트가 필요합니다.
+
+색상을 변경한 경우 \[앱 업데이트] 버튼을 선택해서 앱을 새 버전으로 재제작 해주세요.
+
+최초 앱제작은 \[앱 제작하기] 버튼을 선택해주세요.
+
+​
+
+3\)프로그레스바 색상 설정 기능은 웹사이트를 연결한 웹앱 – 웹뷰, 푸시앱에서 이용 가능한 기능입니다.
