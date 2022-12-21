@@ -150,6 +150,7 @@
     * [대용량 패키지](manual/appmanage/pay/largestorage-packages.md)
     * [결제-쿠폰사용하기](manual/appmanage/pay/coupon-use.md)
     * [세금계산서, 현금영수증 발행요청하기](manual/appmanage/pay/billing-publish.md)
+    * [유료상품 취소 및 환불 정책](manual/appmanage/pay/undefined.md)
   * [게시판관리](manual/appmanage/board/README.md)
     * [게시판 만들기](manual/appmanage/board/boardeditor.md)
     * [게시판 종류, 디자인스타일](manual/appmanage/board/design.md)
@@ -339,7 +340,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [유료상품 취소 및 환불 정책](undefined.md)
