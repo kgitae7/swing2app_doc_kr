@@ -7,7 +7,7 @@ description: '구글 플레이 콘솔 정책 - 민감한 권한 API: 쿼리 권�
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-민감한 권한 API정책은 <mark style="color:green;">2022년 6월 14일 이후 제작한 앱에서는 패키지 쿼리 권한 문제가 모두 처리되어 제공됩니다.</mark>&#x20;
+민감한 권한 API정책은 <mark style="color:green;">2022년 6월 14일 이후 제작한 앱에서는 패키지 쿼리 권한 문제가 모두 처리되어 제공됩니다. (권한 내용 모두 삭제된 버전으로 제작됩니다)</mark>
 
 따라서 플레이 콘솔에서 별도 조치를 할 것이 없습니다.
 
