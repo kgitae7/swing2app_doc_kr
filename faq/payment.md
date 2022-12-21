@@ -41,7 +41,7 @@
 
 스윙투앱 유료 상품 취소 및 환불은 아래 정책 내용을 확인해주시기 바랍니다.
 
-[\[유료 상품 취소 및 환불 정책 보러가기\]](../manual/appmanage/pay/undefined.md)
+[\[유료 상품 취소 및 환불 정책 보러가기\]](../manual/appmanage/pay/refund.md)
 
 </details>
 
