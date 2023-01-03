@@ -314,7 +314,7 @@
   * [앱스토어 test-flight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
   * [앱스토어 앱 심사거절사례](knowledgebase/appstore/appstore-apprejection.md)
   * [앱스토어 애플 개발자계정 등록](knowledgebase/appstore/apple-developer.md)
-  * [애플 개발자 계정 멤버십 연장(갱신)방법](knowledgebase/appstore/undefined.md)
+  * [애플 개발자 계정 멤버십 연장(갱신)방법](knowledgebase/appstore/renewmembership.md)
 * [원스토어](knowledgebase/onestore/README.md)
   * [원스토어 앱 등록 방법](knowledgebase/onestore/onestore.md)
   * [원스토어 앱 업데이트하기](knowledgebase/onestore/onestore-update.md)
