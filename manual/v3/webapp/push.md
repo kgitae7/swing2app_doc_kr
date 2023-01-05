@@ -6,7 +6,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### **푸시앱이란?**
+## **푸시앱이란?**
 
 푸시앱은 홈페이지 등의 모바일웹 URL 링크를 걸어서 제작한 웹앱 제작 플랫폼이구요.
 
@@ -18,7 +18,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### **푸시앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
+## **푸시앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
 
 &#x20;
 
@@ -56,7 +56,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **Start. 앱제작 마법사 시작하기**
+## ****![](<../../../.gitbook/assets/image (2).png>) **Start. 앱제작 마법사 시작하기**
 
 **​**스윙투앱에서 처음 앱을 제작하거나, 앱 추가 제작을 시작할 때 앱제작 마법사 시작 화면(팝업창)이 먼저 뜹니다.
 
@@ -142,7 +142,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **STEP1 기본정보**
+## ****![](<../../../.gitbook/assets/image (2).png>) **STEP1 기본정보**
 
 ![](../../../.gitbook/assets/푸시1.png)
 
@@ -190,7 +190,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **** STEP2 디자인
+## ****![](<../../../.gitbook/assets/image (2).png>) **** STEP2 디자인
 
 ![](../../../.gitbook/assets/푸시2.png)
 
@@ -248,7 +248,7 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 
 ![](<../../../.gitbook/assets/구분선 (2).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **** STEP3 페이지
+## ![](<../../../.gitbook/assets/image (2).png>) **** STEP3 페이지
 
 ![](../../../.gitbook/assets/푸시3.png)
 
@@ -278,7 +278,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **STEP4 앱제작하기**
+## ![](<../../../.gitbook/assets/image (2).png>) **STEP4 앱제작하기**
 
 ![](../../../.gitbook/assets/푸시4.png)
 
@@ -342,7 +342,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
+## ![](<../../../.gitbook/assets/image (2).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
 
 \*웹뷰, 푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인할 수 없어요)
 
@@ -392,7 +392,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **STEP6 이용권 및 티켓 구매**
+## ![](<../../../.gitbook/assets/image (2).png>) **STEP6 이용권 및 티켓 구매**
 
 ****
 
@@ -404,7 +404,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 &#x20;
 
-<mark style="color:blue;">**1. 단기이용: 스윙투앱 기본 이용권 (1개월 이용권 매달 구매 or 원하는 기간별 이용권 구매)**</mark>
+### <mark style="color:blue;">**1. 단기이용: 스윙투앱 기본 이용권 (1개월 이용권 매달 구매 or 원하는 기간별 이용권 구매)**</mark>
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png" alt=""><figcaption></figcaption></figure>
 
@@ -436,7 +436,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 &#x20;
 
-<mark style="color:blue;">**2. 무제한 이용: 푸시전용 무제한 유료앱 (한 번 결제시 추가 결제 없으며, 이용 기간 제한 없이 평생 이용)**</mark>
+### <mark style="color:blue;">**2. 무제한 이용: 푸시전용 무제한 유료앱 (한 번 결제시 추가 결제 없으며, 이용 기간 제한 없이 평생 이용)**</mark>
 
 <figure><img src="../../../.gitbook/assets/푸시무제한상품구매.png" alt=""><figcaption></figcaption></figure>
 
@@ -520,9 +520,35 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 \-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
 
+
+
+**or**
+
+
+
+### <mark style="color:blue;">**3.커스텀 패키지 이용 \*앱제작 대행 가능**</mark>&#x20;
+
+푸시앱을 직접 제작하는 것이 어렵다면, 스윙투앱으로 앱제작을 대행을 맡길 수 있습니다.
+
+**\[푸시 전용 앱 커스텀 패키지]**
+
+무제한 이용권과 앱 제작 대행비가 포함된 패키지 상품이구요.&#x20;
+
+**앱제작 대행비(44만원) = 전체 앱 제작, 앱 아이콘, 대기화면 이미지 등록, 플레이스토어/앱스토어 업로드 대행까지 모두 포함된 금액입니다.**
+
+푸시앱 제작시에만 적용 가능한 상품입니다.
+
+<figure><img src="../../../.gitbook/assets/푸시커스텀.png" alt=""><figcaption></figcaption></figure>
+
+
+
+[스윙투앱 커스텀 패키지 추천 페이지 이동하기](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom)
+
+푸시앱 제작 후, 커스텀 패키지 추천 페이지로 이동하셔서 \[구매하기] 버튼 눌러서 상세 내용 확인 가능합니다.&#x20;
+
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP7 스토어 업로드 신청**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP7 스토어 업로드 신청**
 
 위에서 이용권과 티켓을 모두 구매했다면! 업로드 신청을 해야 스윙투앱으로 업로드 신청서가 접수됩니다.
 
@@ -552,7 +578,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP8 스토어 출시 완료 (심사 후 출시)**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP8 스토어 출시 완료 (심사 후 출시)**
 
 <figure><img src="../../../.gitbook/assets/유료버전3.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -610,7 +636,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ![](<../../../.gitbook/assets/구분선 (2).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **STEP9 주의사항 및 푸시앱 제작 Q\&A**
+## ![](<../../../.gitbook/assets/image (2).png>) **STEP9 주의사항 및 푸시앱 제작 Q\&A**
 
 **​**
 
