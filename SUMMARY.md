@@ -58,6 +58,7 @@
     * [앱 업데이트 방법](manual/v3/step4/app-update.md)
     * [업데이트 유형별 앱 실행화면](manual/v3/step4/update-type.md)
   * [웹뷰앱&푸시앱](manual/v3/webapp/README.md)
+    * [스윙투앱 웹뷰앱](manual/v3/webapp/infor.md)
     * [웹뷰앱 매뉴얼](manual/v3/webapp/webview.md)
     * [푸시앱 매뉴얼](manual/v3/webapp/push.md)
     * [푸시앱, 웹뷰앱 초간단 제작방법](manual/v3/webapp/push-webview.md)
@@ -343,7 +344,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [스윙투앱 웹뷰앱](undefined.md)
