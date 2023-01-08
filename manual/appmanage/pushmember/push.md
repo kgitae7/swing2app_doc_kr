@@ -42,7 +42,7 @@
 
 스윙 홈페이지 접속 후 [앱운영 페이지→푸시&회원→푸시발송하기](http://www.swing2app.co.kr/view/push) 페이지로 이동합니다.&#x20;
 
-
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2.  기본설정
 
@@ -122,9 +122,9 @@
 
 발송하기 버튼을 선택하면 발송 완료됩니다!
 
-
-
 \
+
+
 <mark style="color:blue;">**링크 마법사란?**</mark>
 
 **링크마법사는 웹링크(URL)뿐만 아니라 스윙에서 제공하는 다양한 기능들을 연동하여 사용할 수 있는 메뉴에요.**
@@ -223,7 +223,7 @@
 
 &#x20;
 
-<mark style="color:blue;">**푸시 알림창**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**푸시 알림창**</mark>
 
 푸시를 바로 확인하지 못했다면, 앱 푸시 알림창 목록을 이용하여 확인이 가능해요.
 
@@ -239,9 +239,9 @@
 
 <mark style="color:red;">손님은 로그 기록이 없기 때문에 위의 기능들을 이용할 수 없습니다.</mark>
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-푸시전용앱 푸시발송
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **푸시전용앱 푸시발송**
 
 ★푸시전앱에서 푸시발송하는 상세 내용은 아래 매뉴얼을 참고해주세요 \~!
 
