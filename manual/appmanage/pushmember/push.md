@@ -1,6 +1,8 @@
 # 푸시 발송하기
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**푸시란?**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;">**푸시란?**</mark>
 
 **푸시는 앱에서 발송하는 광고성 메시지라고 보시면 쉽게 이해가 되실거에요.**
 
@@ -14,9 +16,17 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%A9%94%EC%8B%9C%EC%A7%80-KR.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**앱 화면) 발송된 푸시 화면 확인하기**</mark>
+### <mark style="color:blue;">**발송된 푸시 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C3.png)
+<div>
+
+<figure><img src="../../../.gitbook/assets/팝업푸시.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/잠금화면푸시.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 안드로이드폰에 발송된 푸시 입니다.
 
@@ -24,23 +34,21 @@
 
 따라서 스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**영상으로 푸시발송 방법 확인하기**</mark>** **&#x20;
-
-{% embed url="https://youtu.be/7o24VaKVZGU?list=PLtxd-vO1RMEgBeNODRrwcLvrTekAwQKyv" %}
-
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:blue;">**푸시 발송하기 (푸시 보내는 방법)**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1.푸시 발송하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
 스윙 홈페이지 접속 후 [앱운영 페이지→푸시&회원→푸시발송하기](http://www.swing2app.co.kr/view/push) 페이지로 이동합니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1  기본설정**</mark>
 
-**푸시발송하기 첫번째 단계는 기본설정인데요. 기본설정에서 수신자 선택, 예약설정, 반복 여부를 설정할 수 있어요.**&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2.  기본설정
+
+푸시발송 첫 번째 메뉴는 '기본설정'입니다.&#x20;
+
+기본설정에서 수신자 선택, 예약설정, 반복 여부를 설정할 수 있어요.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C1\_19.09.png)
 
@@ -60,7 +68,7 @@
 
 
 
-<mark style="background-color:blue;">▶</mark> <mark style="color:blue;">**움짤 이미지를 통해서 푸시를 보낼 회원을 추가하는 방법을 확인해주세요**</mark>
+<mark style="color:blue;">**움짤 이미지를 통해서 푸시를 보낼 회원을 추가하는 방법을 확인해주세요**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c41c6d11ab564740498e39904ed954b7.png)
 
@@ -82,9 +90,9 @@
 
 **푸시 기본설정이 완료 되었다면, 다음 단계인 \[푸시보내기]로 이동합니다.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 푸시 보내기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시 보내기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C2\_19.09.png)
 
@@ -95,12 +103,6 @@
 **2. 메시지 내용**
 
 내용은 너무 길게 입력하지 않도록 해주세요. 글자수가 많으면 짤려서 보입니다. ** **<mark style="color:red;">**\*필수 입력**</mark>
-
-> <mark style="color:purple;">**\*푸시 메시지 제목, 내용 입력시 주의사항**</mark>
->
-> <mark style="color:purple;">**핸드폰에서 사용하는 모바일 이모티콘을 넣을 경우 메시지 인식이 되지 않으며 푸시 발송이 되지 않아요.**</mark>
->
-> <mark style="color:purple;">**pc에서 사용되는 기호(특수문자)만 입력이 가능하니 주의해주세요 ^^**</mark>
 
 **3. 이미지 등록**
 
@@ -120,8 +122,10 @@
 
 발송하기 버튼을 선택하면 발송 완료됩니다!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)\
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**링크 마법사란?**</mark>
+
+
+\
+<mark style="color:blue;">**링크 마법사란?**</mark>
 
 **링크마법사는 웹링크(URL)뿐만 아니라 스윙에서 제공하는 다양한 기능들을 연동하여 사용할 수 있는 메뉴에요.**
 
@@ -143,7 +147,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**알림 확인 후 푸시 메시지 표시란?**</mark>
+<mark style="color:blue;">**알림 확인 후 푸시 메시지 표시란?**</mark>
 
 옵션 기능으로 필요한 경우만 체크해서 사용할 수 있구요.
 
@@ -169,9 +173,9 @@
 
 **푸시를 발송하면 메시지를 먼저 확인한 뒤, 이동하기 버튼을 눌러서 해당 링크 페이지로 이동합니다.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱 실행화면: 푸시 발송된 화면**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 앱 실행화면: 푸시 발송된 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C2.png)
 
@@ -187,11 +191,13 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-> <mark style="color:blue;">**푸시가 발송된 화면은 아이폰, 안드로이드폰이 스타일이 달라요. 아래 이미지를 통해서 확인해주세요!**</mark>
+{% hint style="info" %}
+푸시가 발송된 화면은 아이폰, 안드로이드폰이 스타일이 달라요. 아래 이미지를 통해서 확인해주세요!
+{% endhint %}
 
-<mark style="color:orange;">​</mark>
+<mark style="color:blue;">****</mark>
 
-<mark style="color:orange;">**1) 안드로이드폰 앱 푸시 발송 화면**</mark>
+<mark style="color:blue;">**1) 안드로이드폰 앱 푸시 발송 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_02\_17\_14\_15\_07\_413.gif)
 
@@ -207,7 +213,7 @@
 
 ****
 
-<mark style="color:orange;">**2) 아이폰 앱 푸시 발송 화면**</mark>
+<mark style="color:blue;">**2) 아이폰 앱 푸시 발송 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A1%ED%99%94%EB%A9%B4.png)
 
@@ -217,7 +223,7 @@
 
 &#x20;
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:orange;">**푸시 알림창**</mark>
+<mark style="color:blue;">**푸시 알림창**</mark>
 
 푸시를 바로 확인하지 못했다면, 앱 푸시 알림창 목록을 이용하여 확인이 가능해요.
 
@@ -235,13 +241,13 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**푸시전용앱 푸시발송**</mark>
+푸시전용앱 푸시발송
 
 ★푸시전앱에서 푸시발송하는 상세 내용은 아래 매뉴얼을 참고해주세요 \~!
 
 **☞** [ **\[푸시전용앱 푸시발송하기 매뉴얼\]**](pushapp-push.md)
 
-<mark style="color:orange;">**\* 프로토타입: 푸시전용으로 제작한 푸시버전앱은 푸시 발송이 특이사항이 있어요!**</mark>
+\* 프로토타입: 푸시전용으로 제작한 푸시버전앱은 푸시 발송이 특이사항이 있어요!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C5\_19.09.png)
 
@@ -264,3 +270,11 @@
 일반 웹링크 (URL)만 넣어서 발송이 가능합니다.
 
 **따라서 푸시전용 앱으로 제작해서 사용중이라면, 푸시발송시 해당 내용들을 꼭\~! 체크해주세요 ^^**
+
+****
+
+****
+
+****
+
+****
