@@ -125,7 +125,7 @@
 \
 
 
-<mark style="color:blue;">**링크 마법사란?**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**링크 마법사란?**</mark>
 
 **링크마법사는 웹링크(URL)뿐만 아니라 스윙에서 제공하는 다양한 기능들을 연동하여 사용할 수 있는 메뉴에요.**
 
@@ -147,7 +147,7 @@
 
 
 
-<mark style="color:blue;">**알림 확인 후 푸시 메시지 표시란?**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**알림 확인 후 푸시 메시지 표시란?**</mark>
 
 옵션 기능으로 필요한 경우만 체크해서 사용할 수 있구요.
 
