@@ -34,7 +34,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <figure><img src="../../../.gitbook/assets/푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure>
 
-##
+
 
 ## 푸시앱 가격정책
 
