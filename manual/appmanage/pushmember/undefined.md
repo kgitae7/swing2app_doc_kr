@@ -1,142 +1,98 @@
 ---
-description: 폰으로 발송되는 푸시 알림 방식 확인하기
+description: 푸시 아이콘 이미지 디자인 가이드라인
 ---
 
-# 푸시 알림 방식 확인
+# 푸시 아이콘 이미지 가이드라인
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-스윙투앱 앱제작 – 일반 프로토타입 앱, 푸시전용 앱제작시 푸시 알림을 발송할 수 있습니다.
+### **1.푸시란, 푸시 아이콘 이미지란?**
 
-앱을 설치한 사용자들을 대상으로 발송할 수 있구요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EB%9E%80\_886-847x1024.png)
 
-폰에 설정된 푸시 알림 방식에 따라 푸시를 받을 수 있습니다.
+푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있는 기능이구요.
 
-아이폰/ 안드로이드 기기에 따라 설정되는 방식은 조금씩 다를 수 있으나, 기본적인 알림 방식 시스템은 동일하게 지정할 수 있습니다.
+앱을 설치한 사용자들에게 공지, 업데이트 등의 알림이 있을 경우 앱 내에서 메시지를 보내는 것을 ‘푸시’ 라고 합니다.
 
-​푸시 기능을 이용한다면, 폰으로 푸시가 어떻게 발송이 되는지 확인해주세요.
+그리고 **푸시가 발송되면 제목과 메시지 옆에 보여지는 이미지를 푸시 아이콘이라고 합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+푸시 발송시 보여지는 아이콘은 앱 아이콘 이미지로 자동 셋팅되어 발송되며, 푸시 발송용 아이콘 이미지를 별도 설정하여 발송할 수도 있습니다.&#x20;
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 푸시 알림 설정
+(푸시 발송용 아이콘 이미지는 안드로이드폰에서만 지원)
 
+****
 
+### **2.푸시 아이콘 이미지 에러 문제**
 
-### 1.안드로이드폰 알림 설정
+푸시 발송시, 푸시 아이콘 이미지가 지정된 이미지로 보이지 않고 회색 네모칸으로 보여지는 경우가 있습니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC-%EB%B0%A9%EC%8B%9D.png)
+\=>이유는 아이콘 이미지에 지정된 색상이 안드로이드폰에서 지원하지 않은 색상이기 때문입니다.
 
-안드로이드폰에 설치된 앱 아이콘을 길게 누르면 설정 버튼(우측 상단 느낌표 모양 아이콘)이 뜹니다.
+<mark style="color:green;">이미지 참고)</mark>
 
-설정 버튼을 누르 어플리케이션 정보 화면으로 이동하구요.
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98.png" alt=""><figcaption></figcaption></figure>
 
-앱 알림 항목을 탭해주세요.
+안드로이드 스펙에 맞는 notification설정을 해야 하는데 등록된 이미지 색상 배합이 스펙에 맞지 않아 발생한 문제에요.
 
-이때 푸시 알림은 “허용됨”으로 체크되어 있어야 합니다
 
-​
 
-안드로이폰 푸시 알림 방식은 3가지로 제공되고 있어요,
+### **3.안드로이드 아이콘 색상 지원**
 
-\-잠금화면 푸시 알림
+안드로이드폰은 \*\* **GrayScale(흑백,검정,회색,흰색) 색상을 지원하지 않습니다.**&#x20;
 
-\-배지 푸시 알림
+흰색/검정/회색/흑백 등의 배경색을 입혀서 제작했다면, 안드로이드 기기에서 아이콘 이미지를 인식하지 못해 자동으로 이미지를 회색으로 변경하여 출력합니다. &#x20;
 
-\-팝업 푸시 알림
+****
 
-사용자의 폰 앱 셋팅에 따라 3개 항목 모두 알림 설정이 되어 있거나, 특정 알림 방식으로만 셋팅할 수 있어요.
+### **4.아이콘 이미지 디자인 가이드 **<mark style="color:red;">**\*중요\***</mark>
 
-\*기본 셋팅은 3개 알림 방식 모두 선택으로 제공됩니다.
+1\) 아이콘을 배경을 투명으로 만들어서 사용(모든 안드로이드 기기 동작)
 
+2\) 배경을 넣을 경우, 그외 색은 GrayScale(흑백,검정,회색,흰색)을 피해서 제작 ( 삼성 기기 모두 동작 , 일부 기기에서 정상 표시 안됨 )
 
+위의 2가지 중 하나를 만족시키면 정상적으로 동작합니다.&#x20;
 
-### 2.아이폰 알림 설정
+단, 범용적 사용을 위해서 투명 이미지로 제작하는 것을 권장드립니다.&#x20;
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C1.png" alt=""><figcaption></figcaption></figure>
+\-아이콘 이미지 변경은 앱 업데이트가 필요합니다. 아이콘 이미지 변경 후 앱 업데이트를 해주세요.&#x20;
 
-아이폰 역시 설정 앱을 선택해서 앱 알림을 선택할 수 있습니다.
+\-새 버전으로 업데이트 받은 뒤, 푸시 발송하기를 진행하면 변경된 푸시 아이콘 이미지로 발송됩니다.
 
-\[설정] 앱 선택 – \[알림] 선택- 알림 스타일에서 확인 가능합니다.
+\-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 플레이스토어에 업데이트를 다시 해주셔야 합니다.
 
-​
+**\[guideline 참조]**
 
-아이폰에서도 푸시 알림 방식은 3가지로 제공되고 있습니다.
+[https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications](https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications)
 
-\-잠금화면 푸시 알림
+****
 
-\-알림 센터
+### **5.푸시 아이콘 이미지 등록방법**
 
-\-배너 알림(배지 등 추가 옵션 설정)
+푸시 발송시, 아이콘은 앱제작시 등록한 아이콘 이미지로 보여집니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+따라서 앱제작시 앱 아이콘 이미지 등록란에 위의 가이드라인을 맞춰서 이미지를 넣으시면 푸시 아이콘 이미지도 정상적으로 출력이 되구요.&#x20;
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 알림 방식별 푸시 알림 화면
-
-​
-
-### 1.안드로이드폰
-
-<mark style="color:blue;">**1)잠금화면 푸시 알림**</mark>
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
-
-핸드폰 잠금 화면 설정시, 잠금 화면 위로 푸시 알림이 들어오구요.
-
-팝업 형식으로 표시됩니다.
-
-​
-
-<mark style="color:blue;">**2)배지 푸시 알림**</mark>
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EB%B0%B0%EC%A7%80%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
-
-푸시가 발송된 횟수가 아이콘 위로 숫자로 표시됩니다.
-
-​
-
-<mark style="color:blue;">**3)팝업 푸시 알림**</mark>
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%ED%8C%9D%EC%97%85%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
-
-푸시 발송시, 알림창에서 팝업으로 표시됩니다.
-
-본문 내용이 있거나, 이미지가 있을 경우 화살표 버튼을 선택하여 내용을 확인할 수 있습니다.
-
-
-
-### 2.아이폰
-
-<mark style="color:blue;">**1)잠금화면 푸시 알림**</mark>
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C3.png" alt=""><figcaption></figcaption></figure>
-
-
-
-<mark style="color:blue;">**2)알림센터 푸시 알림**</mark>
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C4.png" alt=""><figcaption></figcaption></figure>
-
-
-
-<mark style="color:blue;">**3)배너 푸시 알림**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C2.png)
-
-\*푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있습니다.(웹뷰 전용앱은 이용 불가)
-
-\-스윙투앱 푸시는 발송 수,발송 회원 수 제한 없이 무제한으로 발송이 가능하구요.
-
-\-무료버전앱에서도 이용할 수 있는 기능으로, 이용에 별도 비용은 없습니다.
-
-\-예약 기능을 제공하고 있기 때문에 원하는 날, 시간에 예약 푸시를 발송할 수 있습니다.
+별도 설정하지 않아도 앱 아이콘 이미지로 푸시 아이콘이 자동 설정됩니다.
 
 {% hint style="info" %}
-스윙투앱 푸시 발송 방법은 아래 매뉴얼을 확인해주세요.​
+**중요 팁!!**
 
-****[**일반 프로토타입앱 푸시 발송하기**](https://help-7.gitbook.io/undefined/manual/appmanage/pushmember/push)****
+앱 아이콘 이미지와 다른 푸시용 아이콘 이미지를 따로 설정할 수도 있습니다.
 
-****[**푸시앱에서 푸시 발송하기**](https://help-7.gitbook.io/undefined/manual/appmanage/pushmember/pushapp-push)****
+스윙투앱 앱제작 – 고급설정 메뉴-안드로이드 푸시 아이콘 메뉴에서 이미지를 등록할 수 있어요.
 {% endhint %}
+
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98_886.png" alt=""><figcaption></figcaption></figure>
+
+단, 해당 방법은 안드로이드폰에서만 지원이 되며 아이폰은 아이콘 이미지를 지정할 수 없습니다.&#x20;
+
+푸시 아이콘 이미지 등록방법은 아래 매뉴얼 링크를 선택해주세요.&#x20;
+
+보다 상세히 확인 가능합니다.
+
+{% content-ref url="../../v3/webapp/pushicon.md" %}
+[pushicon.md](../../v3/webapp/pushicon.md)
+{% endcontent-ref %}
 
 
 

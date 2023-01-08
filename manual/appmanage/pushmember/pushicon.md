@@ -92,8 +92,8 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 &#x20;**\*푸시 아이콘 이미지 디자인 가이드라인은 아래 매뉴얼로 확인해주세요.**
 
-{% content-ref url="undefined (1).md" %}
-[undefined (1).md](<undefined (1).md>)
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
 {% endcontent-ref %}
 
 
