@@ -2,7 +2,7 @@
 description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방법
 ---
 
-# 푸시 아이콘 이미지 등록하기
+# 푸시 아이콘 이미지 등록
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -92,8 +92,8 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 &#x20;**\*푸시 아이콘 이미지 디자인 가이드라인은 아래 매뉴얼로 확인해주세요.**
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="undefined (1).md" %}
+[undefined (1).md](<undefined (1).md>)
 {% endcontent-ref %}
 
 
