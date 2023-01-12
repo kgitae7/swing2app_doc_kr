@@ -86,7 +86,7 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EC%BA%A122.jpg)
 
-### **추가 안내) 푸시 알림 허용**
+### **4)추가 안내) 푸시 알림 허용**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%ED%91%B8%EC%8B%9C%ED%97%88%EC%9A%A9.png)
 
