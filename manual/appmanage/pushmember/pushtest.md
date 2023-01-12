@@ -1,12 +1,14 @@
+---
+description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등록 방법
+---
+
 # 푸시 장치 관리 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98-%EB%8F%84%EC%9B%80%EB%A7%901.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**푸시 테스트 발송 : 푸시 장치 관리 이용방법**
+### 푸시 장치 관리 기능이란?
 
-****
 
-<mark style="color:purple;">**★ 푸시 장치 관리 기능이란?**</mark>
 
 **특정 핸드폰 기기를 테스트 기기로 등록하여, 해당 기기에만 테스트용 푸시를 발송 할 수 있는 기능입니다.**
 
@@ -18,23 +20,19 @@
 
 푸시 장치 관리는 새롭게 추가된 기능으로 **\[푸시 장치 관리] 기능을 이용하여 테스트 기기 등록을 한 뒤, 푸시발송하기에서 테스트 발송하기로 푸시 테스트를 이용할 수 있습니다.**
 
-<mark style="color:green;">**\*푸시장치 관리는 안드로드이폰에서만 푸시 테스트가 가능합니다. (아이폰 불가)**</mark>
+{% hint style="warning" %}
+\*푸시장치 관리는 안드로드이폰에서만 푸시 테스트가 가능합니다. (아이폰 불가)
 
-<mark style="color:green;">**\*푸시앱제작시 “툴바 표시 여부 – 툴바 제거”로 선택하고 제작하신 앱은 푸시 장치 관리 기능 테스트가 불가합니다.**</mark>&#x20;
+\*푸시앱제작시 “툴바 표시 여부 – 툴바 제거”로 선택하고 제작하신 앱은 푸시 장치 관리 기능 테스트가 불가합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%BA%A1%EC%B2%9855.png)
+\*해당 기능은 2020년 3월 업데이트 된 기능입니다. 2020년 3월 이전에 제작한 앱은 새로 업데이트 하신 뒤 이용해주시기 바랍니다.
+{% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+&#x20;****&#x20;
 
-<mark style="color:orange;">\*해당 기능은 2020년 3월 업데이트 된 기능입니다. 2020년 3월 이전에 제작한 앱은 새로 업데이트 하신 뒤 이용해주시기 바랍니다.</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">(앱제작하기 버튼 눌러서 새 버전으로 앱 확인)</mark> &#x20;
-
-<mark style="color:orange;">2020년 3월 이후 제작한 앱은 자동 반영됩니다.</mark>
-
-***
-
-<mark style="color:blue;">**STEP.1 푸시 장치 관리 이동**</mark>
+### STEP1. 푸시 장치 관리 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98%EA%B4%80%EB%A6%AC2.png)
 
@@ -64,7 +62,7 @@
 
 ​
 
-<mark style="color:orange;">**\[움짤 이미지로 확인하기]**</mark>
+<mark style="color:blue;">**\[움짤 이미지로 확인하기]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_03\_17\_15\_56\_544.gif)
 
@@ -82,9 +80,9 @@
 
 만약 앱에 등록된 기기가 많아 device\_token을 찾기 어렵다면, 상단의 검색창에서 device 정보를 입력하여 조회할 수 있어요!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**STEP.2 테스트 푸시 발송하기**</mark>
+### STEP2. 테스트 푸시 발송하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98%EA%B4%80%EB%A6%AC4.png)
 
@@ -96,20 +94,18 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98%EA%B4%80%EB%A6%AC7.png)
 
-다음 \[푸시보내기]는 기존 푸시발송 내용과 동일합니다. 내용 입력해서 푸시발송하기 선택해주세요.
+다음 \[푸시보내기]는 기존 푸시발송 내용과 동일합니다.&#x20;
 
-​
+내용 입력해서 푸시발송하기 선택해주세요.
 
-푸시 장치 관리는 푸시버전앱에서 유용하게 사용할 수 있는 기능입니다.
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-푸시앱에서, 푸시 알림이 잘 들어오는지 테스트가 필요할 때 앱 운영자 기기를 테스트로 등록한 뒤 푸시 발송 테스트를 해볼 수 있구요.
+​푸시 장치 관리는 푸시버전앱에서 유용하게 사용할 수 있는 기능입니다.
+
+푸시앱에서, 푸시 알림이 잘 들어오는지 테스트가 필요할 때 앱 운영자 기기를 테스트로 등록한 뒤 푸시 발송 테스트를 해볼 수 있습니다.&#x20;
 
 **푸시장치 관리는 안드로드이폰에서만 푸시 테스트가 가능합니다. (아이폰 이용 불가)**
 
 ****
 
-<mark style="color:orange;">**안내)**</mark><mark style="color:orange;">해당 기능은 2020년 3월 업데이트 된 기능입니다.</mark>
-
-<mark style="color:orange;">2020년 3월 이전에 제작한 앱은 새로 업데이트 하신 뒤 이용해주시기 바랍니다. (앱제작하기 버튼 눌러서 새 버전으로 앱 확인)</mark>
-
-<mark style="color:orange;">2020년 3월 이후 제작한 앱은 자동 반영됩니다</mark>
+****
