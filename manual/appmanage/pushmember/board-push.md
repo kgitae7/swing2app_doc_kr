@@ -1,32 +1,32 @@
+---
+description: 작성된 게시물에서 푸시를 보내는 방법
+---
+
 # 게시물 푸시발송하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%91%B8%EC%8B%9C-%EC%84%AC%EB%84%A4%EC%9D%BC.png)
-
-게시물 푸시 발송하기
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 푸시 발송은 스윙투앱에서 제공하는 기능으로 앱을 설치한 사용자들에게 푸시 알림을 보낼 수 있는 기능이에요.
 
-**푸시 발송에 대한 상세 내용은 아래 매뉴얼을 참고해주시구요.**
+**푸시 발송에 대한 상세 내용은 아래 가이드를 참고해주세요.**&#x20;
 
-<mark style="background-color:blue;">**▶**</mark>** ** [**푸시 발송 상세보기**](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/push/)
+****[ **푸시 발송 보내기 가이드**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/push)****
 
 기본 메뉴에서 푸시 발송을 하는 것 외에 게시물에서도 푸시를 발송할 수 있어요.
 
-게시판을 만들고 웹 대시보드에서 게시물을 작성할 수 있는데요.
-
 중요한 공지글, 이벤트, 홍보 안내글을 보다 많은 사용자들에게 알리고 싶다면\~! 작성해놓은 게시물에서 바로 푸시를 보낼 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.1 게시물 관리 이동(만들어놓은 게시판으로 이동)**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 게시물 관리 이동(만들어놓은 게시판으로 이동)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A14.png)
 
 앱운영 페이지 → 게시물관리→ 만들어놓은 게시판으로 이동합니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.2 게시물에서 푸시 발송하기**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 게시물에서 푸시 발송하기 <mark style="color:blue;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
@@ -74,11 +74,7 @@
 
 <mark style="color:red;">해당 내용 그대로 보내셔도 되구요. 수정할 경우 해당 내용을 지우고 입력해주세요.</mark>&#x20;
 
-<mark style="color:purple;">**\*푸시 메시지 제목, 내용 입력시 주의사항**</mark>
-
-<mark style="color:purple;">**핸드폰에서 사용하는 이모티콘을 넣을 경우 메시지 인식이 되지 않으며 푸시 발송이 되지 않아요.**</mark>
-
-<mark style="color:purple;">**pc에서 사용되는 기호만 입력이 가능하니 주의해주세요 ^^**</mark>
+<mark style="color:purple;">****</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%B4%EB%AF%B8%EC%A7%80-5.png)
 
@@ -92,9 +88,9 @@
 
 7\) 푸시 발송하기버튼을 선택하면 발송 완료됩니다!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 앱 실행화면 ) 게시물 푸시 발송 화면**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면) 게시물 푸시 발송 화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94\_2019\_11\_20\_10\_30\_45\_555.gif)
 
@@ -102,9 +98,11 @@
 
 해당 푸시를 터치하면 해당 게시물로 페이지가 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
+<mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**TIP. 작성해놓은 게시물이 아니더라도 게시물을 작성하는 중에도 푸시설정을 할 수 있어요\~!**</mark>
+{% hint style="success" %}
+<mark style="color:green;">**작성해놓은 게시물이 아니더라도 게시물을 작성하는 중에도 푸시설정을 할 수 있어요\~!**</mark>
+{% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A15.png)
 
@@ -112,10 +110,13 @@
 
 해당 버튼을 이용해서 작성중인 글에도 푸시를 설정할 수 있습니다.
 
-★ 아직 등록되지 않은 글은 푸시보내기가 안되는데 어떻게 이용하나요?
+{% hint style="info" %}
+★ 아직 등록되지 않은 게시물글은 푸시보내기가 안되는데 어떻게 이용하나요?
 
 푸시는 예약 설정이 가능하죠!!
 
 따라서 매번 시간마다 컴퓨터 앞에서 푸시를 보내지 않아도 되구요.
 
-예약 날짜, 시간을 정해놓고 원하는 게시물에 예약푸시를 설정할 수 있답니다 ^^
+게시물 예약 푸시도 가능하기 때문에 원하는 날짜, 시간에 예약푸시를 적용해주시면 됩니다.&#x20;
+{% endhint %}
+
