@@ -68,6 +68,7 @@
     * [푸시앱 툴바-이용방법 및 기능 소개](manual/v3/webapp/pushapp-toolbar.md)
     * [푸시 아이콘 이미지 등록하기](manual/v3/webapp/pushicon.md)
     * [프로그레스바 색상 설정](manual/v3/webapp/progressbar.md)
+    * [웹뷰, 푸시앱 - 데이터 유형 설정](manual/v3/webapp/data.md)
 * [앱제작 메뉴얼(V2)](manual/v2/README.md)
   * [앱 기본정보](manual/v2/appbasic/README.md)
     * [앱제작 방법 매뉴얼](manual/v2/appbasic/app-manual.md)
@@ -346,7 +347,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [웹뷰, 푸시앱 - 데이터 유형 설정](undefined.md)

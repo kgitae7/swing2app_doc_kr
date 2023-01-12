@@ -10,7 +10,7 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 웹뷰, 푸시전용앱에서 설정할 수 있는 데이터 유형 \[카메라 사용, 외부저장공간 사용, 위치권한 사용] 적용 방법에 대해 안내드립니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 1.고급설정: 데이터 유형 설정방법
 
@@ -52,7 +52,7 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 (새 버전으로 앱 확인시 변경된 항목으로 확인 가능)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면 – 설정값 적용한 화면**
 
@@ -98,7 +98,7 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
