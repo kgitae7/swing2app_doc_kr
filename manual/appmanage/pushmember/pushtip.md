@@ -1,8 +1,6 @@
----
-description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 표시 기능 이용방법'
----
+# 푸시 알림 확인 후 메시지 표시 기능
 
-# 푸시 알림 확인 후 메시지 표시
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%ED%99%95%EC%9D%B8%EB%A9%94%EC%8B%9C%EC%A7%80%ED%91%9C%EC%8B%9C.png)
 
 푸시발송 옵션기능인 \[푸시 알림 확인 후 푸시 메시지 표시] 기능에 대해서 알려드릴게요.
 
@@ -12,13 +10,13 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 상세 이용방법은 아래 매뉴얼을 확인해주세요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+***
 
-<mark style="color:blue;">**푸시 알림 확인 후 메시지 표시**</mark>
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**푸시 알림 확인 후 메시지 표시**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%80-1.png)
 
-<mark style="color:red;">**\* 발송된 푸시를 선택하면 메시지 내용을 먼저 보여주고 → 적용해놓은 웹링크 등의 링크 페이지로 이동하는 기능입니다.**</mark>
+<mark style="color:orange;">**\* 발송된 푸시를 선택하면 메시지 내용을 먼저 보여주고 → 적용해놓은 웹링크 등의 링크 페이지로 이동하는 기능입니다.**</mark>
 
 기존에는 푸시 발송시 – 링크(링크마법사)를 등록한 후 푸시를 보내고, 앱 사용자가 핸드폰에서 발송된 푸시 메시지를 선택하면 메시지 내용을 확인하지 못하고 **바로 연결된 해당 링크 페이지로 이동했어요.**
 
@@ -30,17 +28,17 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 푸시를 발송하면 메시지를 먼저 확인한 뒤, 이동하기 버튼을 눌러서 해당 링크 페이지로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+***
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 푸시 발송하기 <mark style="color:blue;">****</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**푸시 발송 하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
 [**앱운영 페이지 → 푸시&회원 → 푸시 발송하기**](http://www.swing2app.co.kr/view/push) **이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 기본설정
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1  기본설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C1\_19.09.png)
 
@@ -70,9 +68,9 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 **푸시 기본설정이 완료 되었다면, 다음 단계인 \[푸시보내기]로 이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+***
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시보내기 <mark style="color:blue;">****</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 푸시보내기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804-2.png)
 
@@ -92,7 +90,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 ***
 
-### <mark style="color:blue;">**1.앱 실행화면: 푸시 알림 메시지 표시**</mark>
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**앱 실행화면: 푸시 알림 메시지 표시**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804-1-1.png)
 
@@ -106,9 +104,9 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 ***
 
-### <mark style="color:blue;">**2.푸시 알림 기능 비교하기**</mark>
+<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**푸시 알림 기능 비교하기**</mark>
 
-**1) 메시지 표시 기능에 체크하지 않고, 기존의 푸시 발송 방법대로 보낸 경우**
+<mark style="color:orange;">**1) 메시지 표시 기능에 체크하지 않고, 기존의 푸시 발송 방법대로 보낸 경우**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EB%85%B9%ED%99%94\_2019\_04\_01\_15\_49\_17\_572.gif)
 
@@ -116,7 +114,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 **↓**
 
-**2) 푸시 알림 확인 후 푸시 메시지 표시에 체크한 경우**
+<mark style="color:orange;">**2) 푸시 알림 확인 후 푸시 메시지 표시에 체크한 경우**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EB%85%B9%ED%99%94\_2019\_04\_02\_13\_10\_49\_79.gif)
 
@@ -126,20 +124,16 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 
 
-{% hint style="info" %}
-<mark style="color:blue;">**안내사항**</mark>
+<mark style="color:blue;">**\[안내사항]**</mark>
 
-1\)푸시에서 중요 메시지를 사용자에게 먼저 보여 준 뒤 링크로 이동을 할 때는 \[알림 확인 후 푸시 메시지 표시]에 체크를하여 이용해주세요!
+**1)푸시에서 중요 메시지를 사용자에게 먼저 보여 준 뒤 링크로 이동을 할 때는 \[알림 확인 후 푸시 메시지 표시]에 체크를하여 이용해주세요!**
 
-2\)메시지 표시 없이 바로 원하는 링크로 이동하게끔 한다면 \[알림 확인 후 푸시 메시지 표시] 체크를 꼭 풀어서 이용해주시기 바랍니다.
+**2)메시지 표시 없이 바로 원하는 링크로 이동하게끔 한다면 \[알림 확인 후 푸시 메시지 표시] 체크를 꼭 풀어서 이용해주시기 바랍니다.**
 
-3\)해당 기능은 앱 업데이트 후 이용해주셔야 합니다.
+**3)해당 기능은 앱 업데이트 후 이용해주셔야 합니다.**
 
 2019년 3월 29일 이후 제작한 앱은 자동으로 반영됩니다.
 
 업데이트 이전에 제작한 앱은 \[앱제작요청]을 눌러서 앱을 새 버전으로 업데이트 해주세요. (소프트 업데이트 가능)
 
-4\)해당 기능은 일반 프로토타입(탑, 푸터, 슬라이드, 드롭다운)으로 제작한 앱만 이용 가능하며 <mark style="color:red;">\*프로토타입-푸시버전으로 제작한 앱은 이용할 수 없습니다.</mark>
-{% endhint %}
-
-<mark style="color:red;">****</mark>
+**4)해당 기능은 일반 프로토타입(탑, 푸터, 슬라이드, 드롭다운)으로 제작한 앱만 이용 가능하며 **<mark style="color:red;">**\*프로토타입-푸시버전으로 제작한 앱은 이용할 수 없습니다.**</mark>
