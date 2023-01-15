@@ -172,13 +172,13 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 업로드 신청완료, 담당자 업로드 진행**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%843.png)
+<figure><img src="../../.gitbook/assets/심사시간.png" alt=""><figcaption></figcaption></figure>
 
 신청이 완료되면, 스윙투앱의 플레이스토어 업로드 담당자 / 앱스토어 업로드 담당자가 사용자분의 앱을 스토어에 올려드리는 업로드 진행을 시작합니다.
 
-<mark style="color:purple;">**\*플레이스토어 심사 기간: 7일**</mark>
+<mark style="color:orange;">**\*플레이스토어 심사 기간: 7일**</mark>
 
-<mark style="color:purple;">**\*앱스토어 심사 기간: 7일**</mark>
+<mark style="color:orange;">**\*앱스토어 심사 기간: 7일**</mark>
 
 각 스토어별로 심사 시간이 있기 때문에, 업로드 신청 후에는 심사 기간을 기다려주셔야 합니다.
 
