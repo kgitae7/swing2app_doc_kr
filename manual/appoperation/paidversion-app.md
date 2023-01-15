@@ -34,7 +34,11 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1**. <mark style="color:blue;">****</mark>** 이용권 및 업로드 티켓 구매  **<mark style="color:blue;">****</mark> &#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1**. <mark style="color:blue;">****</mark>** 이용권 및 업로드 티켓 구매**
+
+****
+
+&#x20; <mark style="color:blue;">****</mark>  <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**기본형 이용권(월 납부 이용권)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png)
 
@@ -64,15 +68,37 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 \-앱스토어는 애플 개발자 계정 선택사항입니다. (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)
 
 \*앱스토어도 출시가 필요하실 경우만 티켓을 구매해주세요. (앱스토어는 직접 등록이 불가하고 스윙투앱 업로드 대행만 가능)
-{% endhint %}
 
 스토어 관련 내용은 아래 스토어 업로드신청에서 각 매뉴얼 상세 확인 가능합니다.
+{% endhint %}
+
+
+
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**웹뷰앱, 푸시앱에 적용 가능한 무제한 이용권**</mark>
+
+<figure><img src="../../.gitbook/assets/무제한상품.png" alt=""><figcaption></figcaption></figure>
+
+웹뷰앱, 푸시앱을 제작하셨다면 기본형 월 이용권 요금제 외에 무제한 유료앱 이용권을 구매할 수 있습니다.
+
+{% hint style="success" %}
+<mark style="color:green;">**웹뷰, 푸시앱 무제한 유료앱 이용권이란?**</mark>&#x20;
+
+웹뷰앱 혹은 푸시앱으로 제작하신 분들에 한해 이용 가능한 이용권 상품이며, 이용기간 제한이 없는 무제한 상품입니다.&#x20;
+
+즉, 무제한 상품 한번 구매시 이후 이용권 추가 결제 필요없이 무제한으로 이용하실 수 있습니다.&#x20;
+
+계속해서 스토어에 앱을 출시하여 운영중인 사용자분들께 추천 드립니다.  &#x20;
+{% endhint %}
+
+[웹뷰앱 제작  웹뷰전용 무제한 유료앱 이용권 추천 페이지](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_voucher)
+
+[푸시앱 제작 푸시전용 무제한 유료앱 이용권 추천 페이지](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_voucher)
 
 
 
 <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**패키지 상품**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%845.png)
+<figure><img src="../../.gitbook/assets/패키지상품.png" alt=""><figcaption></figcaption></figure>
 
 일반 이용권 외에도 스윙투앱에서 제공하는 다양한 패키지 상품도 확인할 수 있습니다.
 
@@ -80,9 +106,11 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 따라서 앱 이용을 월 단위가 아닌 장기로 생각하고 있다면, 패키지 상품들도 내용을 확인하여 구매해주시기 바랍니다.
 
-\-[**\[패키지 상품 구매 페이지\]**](http://www.swing2app.co.kr/view/shop\_list\_by\_package)****
+&#x20;\*패키지 상품은 일반 프로토타입으로 제작한 앱에서만 구매 가능한 상품입니다.(슬라이드, 탑, 푸터 등)
 
-\-[**\[플러그인 상품 구매 페이지\]**](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)****
+&#x20;\*웹뷰, 푸시로 제작한 앱은 구매 할 수 없습니다.&#x20;
+
+****[**패키지 상품 구매 페이지**](http://www.swing2app.co.kr/view/new\_product\_list\_by\_package)****
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
@@ -150,9 +178,11 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 <mark style="color:purple;">**\*플레이스토어 심사 기간: 7일**</mark>
 
-<mark style="color:purple;">**\*앱스토어 심사 기간: 1주일 \~ 2주일**</mark>
+<mark style="color:purple;">**\*앱스토어 심사 기간: 7일**</mark>
 
-각 스토어별로 심사 시간이 길기 때문에 업로드 신청 후에는 심사 기간을 기다려주셔야 합니다.
+각 스토어별로 심사 시간이 있기 때문에, 업로드 신청 후에는 심사 기간을 기다려주셔야 합니다.
+
+\-심사 진행 중에도 이용권 이용일수는 차감이 됩니다. (무제한 이용권은 해당 사항 없음)
 
 \-업로드 진행을 시작하면 각 스토어별 정책 및 중요 공지 안내 메일 보내드립니다.
 
@@ -170,9 +200,9 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 앱스토어는 앱 출시 후에 바로 앱이름 검색시 노출이 되구요.
 
-플레이스토어는 앱이 출시되어도 이름 검색이 바로 되지 않아요.
+플레이스토어는 앱이 출시되어도, 이름 검색이 되지 않을 수 있습니다.&#x20;
 
-\*구글은 앱 출시를 하여도 무분별한 출시를 막기 위해 해당 앱이 얼마나 활발하게 운영되는지를 확인 후 노출로 전환시켜요,
+\*구글은 앱 출시를 하여도 무분별한 출시를 막기 위해 해당 앱이 얼마나 활발하게 운영되는지를 확인 후 노출로 전환시켜요.
 
 따라서 앱 설치 많이 해주시고, 리뷰, 평점 등 관리해주셔야 시간이 지나면 앱 이름 검색이 노출이 됩니다.
 
@@ -182,7 +212,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP5.** 유료앱 이용에서 자주 묻는 질문 Q\&A
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP5.** 유료앱 이용에서 자주 묻는 질문 Q\&A
 
 ****
 
