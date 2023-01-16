@@ -122,6 +122,7 @@
   * [카카오톡 앱공유-앱 셋팅 방법](manual/tip/kakaosetting.md)
 * [앱운영 매뉴얼](manual/appmanage/README.md)
   * [내 메뉴](manual/appmanage/menu/README.md)
+    * [앱 활동 모음](manual/appmanage/menu/appfeed.md)
     * [앱 제거(삭제)방법](manual/appmanage/menu/removeapp.md)
   * [게시판관리](manual/appmanage/board/README.md)
     * [게시판 만들기](manual/appmanage/board/boardeditor.md)
@@ -348,14 +349,3 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
-
-***
-
-* [앱 활동 모음 – 스윙 도우미](undefined.md)
-* [home](home.md)
-* [Pinterest](pinterest.md)
-* [LinkedIn Login, Sign in | LinkedIn](linkedin-login-sign-in-or-linkedin.md)
-* [Facebook](facebook.md)
-* [Sign in - Google Accounts](sign-in-google-accounts.md)
-* [Google Accounts](google-accounts.md)
-* [Create your Google Account](create-your-google-account.md)
