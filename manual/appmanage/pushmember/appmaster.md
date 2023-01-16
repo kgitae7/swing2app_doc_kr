@@ -56,13 +56,13 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 
 앱 실행 후, 회원가입 메뉴에서 회원가입을 해주세요**.**
 
-\*회원가입은 앱제작시 기본으로 셋팅되어 있으나, 만약 메뉴를 삭제했다면 앱제작페이지 – 페이지 메뉴에서 메뉴를 다시 적용해주세요.
+\*회원가입은 앱제작시 기본으로 셋팅되어 있으나, 만약 메뉴를 삭제했다면 앱제작페이지 – STEP3 페이지에서 메뉴를 다시 적용해주세요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%95.png)
+<figure><img src="../../../.gitbook/assets/회원가입.png" alt=""><figcaption></figcaption></figure>
 
-페이지 메뉴 – 스윙페이지- 회원가입 or 로그인or 설정 메뉴 선택하여 반영해주시기 바랍니다.&#x20;
+STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이지 선택 -회원가입 or 로그인or 설정 메뉴 선택하여 반영해주시기 바랍니다.&#x20;
 
 
 
