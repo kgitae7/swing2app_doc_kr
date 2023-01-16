@@ -1,6 +1,10 @@
+---
+description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방법
+---
+
 # 앱 관리자 설정하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%84%A4%EC%A0%95-%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **앱 관리자 그룹 설정하는 방법**
 
@@ -12,11 +16,11 @@
 
 (간혹 앱을 만들었는데 왜 내가 등급이 ‘손님’이냐고 물어보시는 사용자분들이 많이 계신데요.  앱만 제작하고, 앱에서 회원가입을 하지 않아서 그렇답니다. )
 
-**스윙 매뉴얼에서 회원그룹 설정을 통해서 ‘관리자’로 그룹을 변경하는 방법을 확인해주세요.**
+**회원그룹 설정을 통해서 ‘관리자’로 그룹을 변경하는 방법을 확인해주세요.**
 
-****
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**▶**</mark>**앱 관리자 설정 방법**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 관리자 설정 방법**
 
 **1. 앱에서 회원가입 먼저 해주세요.**
 
@@ -28,29 +32,31 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**부관리자 설정도 이 방법과 동일합니다.**
+**부관리자 설정도 이 방법과 동일합니다.**
 
 앱 관리자 외에 여러 관리자를 둘 수 있는 ‘부관리자’ 설정도 가능합니다.
 
-부관리자 설정도 관리자 설정과 방법은 동일한데요. 이용방법은 아래 매뉴얼을 확인해주세요 ^^
+부관리자 설정도 관리자 설정과 방법은 동일한데요. 이용방법은 아래 매뉴얼을 확인해주세요&#x20;
 
-**☞** [**부관리자 설정방법 보러가기**](associate-administrator.md)
+{% content-ref url="associate-administrator.md" %}
+[associate-administrator.md](associate-administrator.md)
+{% endcontent-ref %}
 
 <mark style="background-color:blue;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 관리자 설정방법 영상으로 확인하기**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 관리자 설정방법 영상으로 확인하기**
 
 {% embed url="https://youtu.be/d7Ox2GPMZKY" %}
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;background-color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;background-color:blue;">**STEP.1 앱 회원가입하기**</mark>&#x20;
+### <mark style="color:blue;background-color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입하기&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%956\_19.09.png)
 
 앱 실행 후, 회원가입 메뉴에서 회원가입을 해주세요**.**
 
-<mark style="color:red;background-color:blue;">**\*회원가입은 앱제작시 기본으로 셋팅되어 있으나, 만약 메뉴를 삭제했다면 앱제작페이지 – 페이지 메뉴에서 메뉴를 다시 적용해주세요.**</mark>
+\*회원가입은 앱제작시 기본으로 셋팅되어 있으나, 만약 메뉴를 삭제했다면 앱제작페이지 – 페이지 메뉴에서 메뉴를 다시 적용해주세요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
@@ -60,7 +66,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**회원가입 완료: 사용자 등급**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원가입 완료: 사용자 등급**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%957\_19.09.png)
 
@@ -68,9 +74,9 @@
 
 해당 등급을 ‘관리자’로 변경해볼게요!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 회원조회-관리자 등급 변경하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 회원조회-관리자 등급 변경하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -98,19 +104,21 @@
 
 권한을 추가하고 새 그룹을 만드는 방법은 아래 링크를 확인해주세요.
 
-<mark style="background-color:blue;">**▶**</mark> [**권한 그룹 만들고 적용하는 방법 보러가기**](member-group.md)
+{% content-ref url="member-group.md" %}
+[member-group.md](member-group.md)
+{% endcontent-ref %}
 
 
 
-<mark style="color:orange;">**\[ 그룹 변경 완료 ]**</mark>
+<mark style="color:blue;">**\[ 그룹 변경 완료 ]**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%954\_19.09.png)
 
 변경 완료 후 회원조회 목록 페이지를 보시면 앞서 **사용자 등급이었던 회원이 ‘관리자’로 등급이 변경된 것을 확인할 수 있습니다.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱 실행화면: 변경된 등급 확인하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면: 변경된 등급 확인하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%958\_19.09.png)
 
@@ -122,16 +130,20 @@
 
 다시 설정 메뉴로 들어가면, 사용자였던 회원이 ‘관리자’로 변경된 것을 확인할 수 있습니다.
 
-<mark style="color:red;">**\*앱을 완전히 종료한 뒤 다시 실행하시면 변경된 등급 확인할 수 있습니다.**</mark>
+<mark style="color:red;">\*앱을 완전히 종료한 뒤 다시 실행하셔야, 변경된 등급을 확인할 수 있습니다.</mark>
 
 앱 관리자로 등급 변경이 완료되었으며, 관리자로 앱 운영이 가능합니다.
 
 
 
-**무료앱제작 스윙투앱에서 제공되는 앱 관리자는 제작한 앱을 관리하여 운영할 수 있는 마스터이에요.**
+> **스윙투앱에서 제공되는 앱 관리자는 제작한 앱을 관리하여 운영할 수 있는 마스터이에요.**
+>
+> 앱에서 회원가입을 한 뒤 ‘관리자’로 등급을 변경해주셔야 앱 관리자로 이용할 수 있어요.
+>
+> **\*앱을 만든 사용자 역시 만든 앱 내에서 회원가입 후 등급을 ‘관리자’로 변경해주셔야 앱을 관리할 수 있는 관리자 권한이 생깁니다.**
+>
+> **따라서 위의 방법을 확인하시고, 앱 관리자로 지정해서 사용해주시기 바랍니다.**
 
-앱에서 회원가입을 한 뒤 ‘관리자’로 등급을 변경해주셔야 앱 관리자로 이용할 수 있어요.
+****
 
-**\*앱을 만든 사용자 역시 만든 앱 내에서 회원가입 후 등급을 ‘관리자’로 변경해주셔야 앱을 관리할 수 있는 관리자 권한이 생깁니다.**
-
-**따라서 위의 방법을 확인하시고, 앱 관리자로 지정해서 사용해주시기 바랍니다.**
+****
