@@ -1,6 +1,10 @@
+---
+description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확인하는 방법'
+---
+
 # 푸시 히스토리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC.png)
+
 
 **푸시 히스토리 이용하기**
 
@@ -12,17 +16,17 @@
 
 **푸시 발송 기록 및 상세 내역 확인 등 ‘푸시 히스토리’ 를 이용하는 방법을 확인해주세요.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1.푸시 히스토리 이동**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 푸시 히스토리 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1.png)
 
 [앱운영 페이지 → 푸시&회원 → 푸시 히스토리](http://www.swing2app.co.kr/view/push\_list) 메뉴로 이동합니다.&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 푸시 히스토리**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 푸시 히스토리
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2.png)
 
@@ -54,6 +58,7 @@
 > 특히, 푸시버전으로 앱을 제작한 분들은 발송회원수는 2명으로 표시가 되구요.\
 > 발송장치수는 실제 핸드폰에 발송된 푸시집계로 확인할 수 있습니다.
 
+{% hint style="danger" %}
 <mark style="color:red;">**★특히!! 푸시앱은 발송 회원수가 의미가 없습니다.**</mark>
 
 **푸시버전으로 제작한 앱에서는 회원수가 집계가 되지 않기 때문에 발송 회원수와 장치수는 차이가 납니다.**
@@ -63,10 +68,11 @@
 따라서 푸시앱은 발송 회원수를 보는 것은 의미가 없구요.
 
 **장치수로 얼만큼 푸시가 발송되었는지를 확인해주세요!**
+{% endhint %}
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 푸시 히스토리 – 내용별 필터링하여 보기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 푸시 히스토리 – 내용별 필터링하여 보기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.18.09.png)
 
@@ -74,19 +80,19 @@
 
 원하는 내용을 분류해서 푸시 알림을 확인해보세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 푸시 기록 삭제**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 푸시 기록 삭제
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC4.18.09.png)
 
 발송된 푸시 기록을 삭제하고 싶다면, **\[기록삭제]** 버튼을 눌러서 삭제할 수 있어요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5. 푸시 예약 수정**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 푸시 예약 수정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC5.18.09.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC5.18.09.png" alt=""><figcaption></figcaption></figure>
 
 예약 설정된 푸시에서 내용을 수정하고 싶다면 **\[예약수정]** 버튼을 선택해서 수정할 수 있어요.
 
@@ -94,9 +100,9 @@
 
 기본설정이나 푸시 내용 등을 수정하여 재저장할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**6. 푸시 반복 취소**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 6. 푸시 반복 취소
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC6.18.09.png)
 
@@ -104,7 +110,9 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**7. 앱에서 푸시 알림을 끄고 싶을때는 어떻게 하나요?**</mark>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 7. 앱에서 푸시 알림을 끄고 싶을때는 어떻게 하나요?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC4.png)
 
@@ -115,12 +123,38 @@
 \*앱 실행 후 \[설정] 메뉴에서 – **푸시 알림 설정을 \[ON-OFF]**로 설정할 수 있습니다.  \
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**푸시버전으로 제작한 앱에서 알림 끄기**</mark>
+<figure><img src="../../../.gitbook/assets/캡처33 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**푸시버전으로 제작한 앱(푸시앱)에서 알림 끄기**</mark>
+
+&#x20;<mark style="color:blue;">****</mark> 푸시전용으로 제작된 푸시앱에서는 푸시 알림을 끄는 방법이 달라요!
+
+
+
+<mark style="color:blue;">**1) V3버전 제작 푸시앱 \_안드로이드폰**</mark>&#x20;
+
+<figure><img src="../../../.gitbook/assets/푸시끄기.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;V3 버전에서 제작된 푸시앱은 툴바'- 설정' 페이지 상단 알림 설정에서 알림을 끌 수 있습니다.&#x20;
+
+손으로 터치하여 알림을 꺼주시면 됩니다.&#x20;
+
+<mark style="color:blue;">****</mark>
+
+<mark style="color:blue;">**2) V2버전 제작 푸시앱 \_안드로이드폰**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.png)
 
-푸시전용으로 제작된 푸시앱에서는 푸시 알림을 끄는 방법이 달라요!
+앱 화면 하단의 푸시 툴바에서 → 톱니바퀴 모양의 아이콘을 선택 한 뒤 → 푸시 메시지 수신 설정 체크 박스를 풀어주시면 됩니다.
 
-**\*앱 화면 하단의 푸시 툴바에서 → 톱니바퀴 모양의 아이콘을 선택 한 뒤 → 푸시 체크를 풀어주시면 됩니다.**
+{% hint style="info" %}
+&#x20;**아이폰 푸시 알림 끄기 방법**
 
-**푸시를 많이 이용하시는 분들은 푸시 히스토리 메뉴를 통해서 푸시발송 내역을 관리해주시기 바랍니다. ^^**
+아이폰은 설정 앱 선택→ 알림 선택→ 앱 선택→ 알림 허용 체크를 풀어주세요.&#x20;
+{% endhint %}
+
+****
+
+****
