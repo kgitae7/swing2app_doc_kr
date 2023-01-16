@@ -1,7 +1,7 @@
 # Table of contents
 
 * [스윙투앱 업데이트](README.md)
-* [FAQ](<README (1).md>)
+* [FAQ(자주 묻는 질문)](<README (1).md>)
   * [가장 많이 묻는 질문 FAQ](faq/top.md)
   * [앱제작 FAQ](faq/app-production.md)
   * [앱운영 및 기능 FAQ](faq/appoperation.md)
@@ -348,3 +348,14 @@
   * [인앱 주의사항](knowledgebase/in-app/인앱-주의사항.md)
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
+
+***
+
+* [앱 활동 모음 – 스윙 도우미](undefined.md)
+* [home](home.md)
+* [Pinterest](pinterest.md)
+* [LinkedIn Login, Sign in | LinkedIn](linkedin-login-sign-in-or-linkedin.md)
+* [Facebook](facebook.md)
+* [Sign in - Google Accounts](sign-in-google-accounts.md)
+* [Google Accounts](google-accounts.md)
+* [Create your Google Account](create-your-google-account.md)
