@@ -12,7 +12,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 상세 이용방법은 아래 매뉴얼을 확인해주세요!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**푸시 알림 확인 후 메시지 표시**</mark>
 
@@ -30,7 +30,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 푸시를 발송하면 메시지를 먼저 확인한 뒤, 이동하기 버튼을 눌러서 해당 링크 페이지로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 푸시 발송하기 <mark style="color:blue;">****</mark>&#x20;
 
@@ -38,7 +38,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 [**앱운영 페이지 → 푸시&회원 → 푸시 발송하기**](http://www.swing2app.co.kr/view/push) **이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 기본설정
 
@@ -70,7 +70,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 **푸시 기본설정이 완료 되었다면, 다음 단계인 \[푸시보내기]로 이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시보내기 <mark style="color:blue;">****</mark>&#x20;
 

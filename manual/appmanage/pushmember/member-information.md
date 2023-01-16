@@ -1,10 +1,12 @@
+---
+description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정보를 확인하는 방법
+---
+
 # 회원조회 - 회원정보 확인
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**회원조회 -회원정보 확인하기**
-
-\***앱운영 페이지 → 푸시&회원 → 회원조회** 페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
+****[**앱운영 페이지 → 푸시&회원 → 회원조회** ](http://www.swing2app.co.kr/view/member\_list)페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
 
 특히 앱 회원가입 양식에 여러 항목을 추가한 경우 (**\*예: 전화번호, 주소, 성별, 이메일주소 등**)
 
@@ -12,9 +14,9 @@
 
 이번 매뉴얼에서는 회원 조회 페이지에서 회원 상세 정보를 확인하는 방법 과 그외 회원정보 메뉴를 이용하는 방법을 알려드리겠습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**회원조회 페이지 이동하기**</mark>
+### 회원조회 페이지 이동하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -34,7 +36,7 @@
 
 계정 관리는 회원의 기본 정보부터, 다양한 정보를 확인할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
+
 
 **1) 기본 정보 확인**
 
@@ -56,9 +58,13 @@
 
 해당 사용자 그룹을 다른 그룹으로 변경할 수도 있고, 관리자가 원하는 그룹을 만들어서 회원마다 그룹핑 할 수 있습니다.
 
-**\*그룹을 만드는 방법은 아래 포스팅을 참고해주세요.**
 
-<mark style="background-color:blue;">▶</mark> [**권한 그룹을 만들고 적용하는 방법 보러가기**](member-group.md)
+
+**\*그룹을 만드는 방법은 아래 매뉴얼을 확인해주세요.**
+
+{% content-ref url="member-group.md" %}
+[member-group.md](member-group.md)
+{% endcontent-ref %}
 
 
 
@@ -92,8 +98,6 @@
 
 **5) 상세정보**
 
-​&#x20;
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B47.\_20.01.30.png)
 
 회원 상세정보 항목도 확인할 수 있는데요.
@@ -112,13 +116,13 @@
 
 **★ 회원가입 양식은 \***[**앱운영페이지 → 서비스관리 → 정책관리 → 회원가입 양식**](https://www.swing2app.co.kr/view/app\_policy)**​** 에서 설정할 수 있어요.
 
-&#x20;
-
 **\* 회원가입 양식 설정 방법은 아래 포스팅을 참고해주세요.**
 
-<mark style="background-color:blue;">▶</mark> **** [**회원가입 양식 설정방법 보러가기**](../service/signup.md)
+{% content-ref url="../service/set-membershipform.md" %}
+[set-membershipform.md](../service/set-membershipform.md)
+{% endcontent-ref %}
 
-
+****
 
 **회원정보에서 제공되는\[포인트 관리]는 \*\*커스터마이징이 된 앱에서만 이용할 수 있는 기능이에요.**
 
@@ -129,3 +133,8 @@
 일반 사용자분들은 패쓰\~\~ 해주시면 됩니다. ^^
 
 \*\[포인트 관리]는 포인트를 적립하는 앱에 관리자가 회원에게 포인트를 적립, 차감하는 식으로 이용할 수 있어요.
+
+
+
+
+

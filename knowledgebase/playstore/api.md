@@ -4,7 +4,7 @@ description: '구글 플레이 콘솔 정책 - 민감한 권한 API: 쿼리 권�
 
 # 구글 플레이 정책 - 민감한 권한 API: 쿼리 권한 정책
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 민감한 권한 API정책은 <mark style="color:green;">2022년 6월 14일 이후 제작한 앱에서는 패키지 쿼리 권한 문제가 모두 처리되어 제공됩니다. (권한 내용 모두 삭제된 버전으로 제작됩니다)</mark>
@@ -28,7 +28,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 만약 해당 내용을 계속해서 등록하지 않는다면, 구글에서 앱을 삭제하오니 반드시 따라서 작업해주셔야 합니다. ​
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 > ### **구글 경고 메일 발송**
 
@@ -54,7 +54,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 앱 업데이트만 하면 완료되는 내용이기 때문에, 아래 내용은 확인하지 않아도 됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **\*여기서부터는022년 6월 이전 제작된 앱에 해당되는 매뉴얼입니다.**
 

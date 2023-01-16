@@ -4,7 +4,7 @@ description: 모바일에서 스윙투앱 사이트 접속, APK파일 다운받�
 
 # 모바일 스윙투앱 사이트 접속 후 앱 다운받기
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 앱제작이 완료되면 앱운영-버전관리-앱제작이력 페이지에서 제작한 앱을 다운 받을 수 있습니다.
 
@@ -26,7 +26,7 @@ PC에서는 앱 설치가 되지 않기 때문에 모바일(안드로이드폰)�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%85%B9%ED%99%94\_2021\_04\_20\_17\_36\_28\_151.gif)
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 모바일-스윙투앱 사이트 접속**
 
@@ -44,7 +44,7 @@ PC에서는 앱 설치가 되지 않기 때문에 모바일(안드로이드폰)�
 
 4\)앱제작 이력 페이지에서 \[APK 파일 받기] 버튼을 선택합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)**2. 앱 다운 및 설치 **<mark style="color:blue;">****</mark>&#x20;
 
@@ -66,7 +66,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작됩니다.&#x20;
 
 설치가 완료 됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)**3. 앱 설치 완료**
 

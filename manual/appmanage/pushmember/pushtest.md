@@ -4,7 +4,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 # 푸시 장치 관리 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 푸시 장치 관리 기능이란?
 
@@ -31,7 +31,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 * [x] 해당 기능은 2020년 3월 업데이트 된 기능입니다. 2020년 3월 이전에 제작한 앱은 새로 업데이트 하신 뒤 이용해주시기 바랍니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP1. 푸시 장치 관리 이동
 
@@ -103,7 +103,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2. 테스트 푸시 발송하기
 
@@ -121,7 +121,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 내용 입력해서 푸시발송하기 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ​푸시 장치 관리는 푸시버전앱에서 유용하게 사용할 수 있는 기능입니다.
 

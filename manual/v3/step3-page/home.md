@@ -28,7 +28,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4%EC%A0%9C%EC%9E%911.png)
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.홈화면-이미지 적용**
 
@@ -76,7 +76,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 \-가로 화면에 맞춰서 모바일 화면에 리사이징되기 때문에 세로 길이는 핸드폰마다 조금 남거나 길어서 스크롤이 생길 수 있습니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.게시판 적용**
 
@@ -126,7 +126,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%904.png)
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.사용자페이지 – 이미지페이지 적용**
 
@@ -174,7 +174,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.사용자 페이지 – 웹템플릿 페이지 적용**
 
@@ -222,7 +222,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.사용자 페이지 – HTML에디터 페이지 적용**
 
@@ -270,7 +270,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.앱소개 페이지 적용**
 
@@ -308,7 +308,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 7\) 화면 상단의 \[저장]버튼을 누르면 완료!
 
-![](<../../../.gitbook/assets/구분선 (2).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 > **앱소개 페이지에 기재되는 소개, 설명, 주소, 이메일주소, 전화번호, 웹사이트 주소 등은 \[고급설정]에서 수정해서 사용할 수 있습니다.**
 

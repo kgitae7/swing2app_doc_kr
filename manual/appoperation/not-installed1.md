@@ -4,7 +4,7 @@ description: 무료버전앱이 핸드폰에 설치가 안될 때 확인해주�
 
 # 무료버전앱(APK파일) 설치가 안된다면 확인해주세요!
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제작한 무료버전앱은 안드로이드폰에 직접 설치하여 확인할 수 있도록, APK파일을 제공하고 있습니다.&#x20;
 
@@ -30,7 +30,7 @@ description: 무료버전앱이 핸드폰에 설치가 안될 때 확인해주�
 
 **스윙에서 제작한 무료 버전앱이 안드로이드폰에 제대로 설치가 안된다면 해당 매뉴얼을 확인해주세요!**
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. 안드로이드폰 \[설정] 메뉴에서 보안항목 체크하기
 
@@ -86,7 +86,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 <mark style="color:red;">**★ 모든 안드로이드폰에 내장된 앱- 파일관리자 or 파일매니저 or 내파일 앱을 열어서 실행할 수 있습니다.**</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 2. 안드로이드폰에서 앱검색 \[내 파일]
 
@@ -108,7 +108,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 재설치를 할 APK를 선택하면 자동으로 해당 APK파일이 앱으로 설치됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 안드로이드폰에서 앱검색 \[file manager]
 
