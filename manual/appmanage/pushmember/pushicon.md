@@ -6,7 +6,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### **1.푸시란? 푸시 아이콘 이미지란?**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.푸시란? 푸시 아이콘 이미지란?**
 
 푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있는 기능이구요.
 
@@ -22,7 +22,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EB%9E%80\_886.png)
 
-### **2.푸시 아이콘 이미지**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.푸시 아이콘 이미지**
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9A%A9-%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 ​
 
-### **3.푸시 아이콘 이미지 설정하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.푸시 아이콘 이미지 설정하기**
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98_886.png" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 ​
 
-### **4.안내사항**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.안내사항**
 
 1\)해당 기능은 안드로이드폰에서만 적용됩니다.
 

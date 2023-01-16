@@ -6,7 +6,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### **1.푸시란, 푸시 아이콘 이미지란?**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.푸시란, 푸시 아이콘 이미지란?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EB%9E%80\_886-847x1024.png)
 
@@ -22,7 +22,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 ****
 
-### **2.푸시 아이콘 이미지 에러 문제**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.푸시 아이콘 이미지 에러 문제**
 
 푸시 발송시, 푸시 아이콘 이미지가 지정된 이미지로 보이지 않고 회색 네모칸으로 보여지는 경우가 있습니다.&#x20;
 
@@ -36,7 +36,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 
 
-### **3.안드로이드 아이콘 색상 지원**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.안드로이드 아이콘 색상 지원**
 
 안드로이드폰은 \*\* **GrayScale(흑백,검정,회색,흰색) 색상을 지원하지 않습니다.**&#x20;
 
@@ -44,7 +44,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 ****
 
-### **4.아이콘 이미지 디자인 가이드 **<mark style="color:red;">**\*중요\***</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.아이콘 이미지 디자인 가이드 **<mark style="color:red;">**\*중요\***</mark>
 
 1\) 아이콘을 배경을 투명으로 만들어서 사용(모든 안드로이드 기기 동작)
 
@@ -66,7 +66,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 ****
 
-### **5.푸시 아이콘 이미지 등록방법**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.푸시 아이콘 이미지 등록방법**
 
 푸시 발송시, 아이콘은 앱제작시 등록한 아이콘 이미지로 보여집니다.
 
