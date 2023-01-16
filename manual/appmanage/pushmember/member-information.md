@@ -16,7 +16,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### 회원조회 페이지 이동하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 회원조회 페이지&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -38,7 +38,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 
 
-**1) 기본 정보 확인**
+### **1) 기본 정보 확인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C1.png)
 
@@ -48,7 +48,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ​
 
-**2) 회원 그룹정보 변경**
+### **2) 회원 그룹정보 변경**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C2.png)
 
@@ -58,8 +58,6 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 해당 사용자 그룹을 다른 그룹으로 변경할 수도 있고, 관리자가 원하는 그룹을 만들어서 회원마다 그룹핑 할 수 있습니다.
 
-
-
 **\*그룹을 만드는 방법은 아래 매뉴얼을 확인해주세요.**
 
 {% content-ref url="member-group.md" %}
@@ -68,7 +66,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 
 
-**3) 비밀번호 재설정**
+### **3) 비밀번호 재설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C3.png)
 
@@ -80,7 +78,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ​
 
-**4) 계정 탈퇴 및 삭제**
+### **4) 계정 탈퇴 및 삭제**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C4.png)
 
@@ -94,9 +92,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B48.\_20.01.30.png)
 
-****
-
-**5) 상세정보**
+### **5) 상세정보**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B47.\_20.01.30.png)
 
@@ -104,9 +100,9 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 해당 내용은 앱 가입시 입력한 회원 정보(답변)를 확인할 수 있습니다
 
+<mark style="color:orange;">****</mark>
 
-
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**앱 실행화면: 회원가입 양식(정보 입력 항목)**</mark>
+<mark style="color:blue;">**앱 실행화면: 회원가입 양식(정보 입력 항목)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B46.\_20.01.30.png)
 
@@ -116,7 +112,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 **★ 회원가입 양식은 \***[**앱운영페이지 → 서비스관리 → 정책관리 → 회원가입 양식**](https://www.swing2app.co.kr/view/app\_policy)**​** 에서 설정할 수 있어요.
 
-**\* 회원가입 양식 설정 방법은 아래 포스팅을 참고해주세요.**
+\* 회원가입 양식 설정 방법은 아래 매뉴얼을 참고해주세요.
 
 {% content-ref url="../service/set-membershipform.md" %}
 [set-membershipform.md](../service/set-membershipform.md)
