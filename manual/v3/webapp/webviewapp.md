@@ -4,7 +4,7 @@ description: 웹사이트를 연결한 웹앱 - 웹뷰전용앱을 소개합니�
 
 # 스윙투앱 웹뷰앱
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 웹뷰앱 소개
 
@@ -34,7 +34,7 @@ description: 웹사이트를 연결한 웹앱 - 웹뷰전용앱을 소개합니�
 
 <figure><img src="../../../.gitbook/assets/웹뷰앱가격.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **웹뷰앱 제작 및 스토어 출시 과정을 한 눈에 보고 싶다면?**

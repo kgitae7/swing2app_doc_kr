@@ -4,7 +4,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 # 공유하기로 앱 설치하는 방법
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[앱 공유 안내사항]**</mark>
 
@@ -28,7 +28,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 **매뉴얼을 통해서 앱을 공유하는 방법을 확인해주세요.**
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **\* 앱 공유란?**
 
@@ -78,7 +78,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **1. 카카오톡으로 공유한 앱 설치하기**
 
@@ -190,7 +190,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_03\_11\_10\_19\_17\_877.gif)
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **2. 이메일로 공유된 앱 설치하기**
 

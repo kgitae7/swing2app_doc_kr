@@ -4,7 +4,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 # 플레이스토어 앱 등록 매뉴얼
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -38,7 +38,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 {% embed url="https://youtu.be/uHmzXjdjook" %}
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**구글 플레이 콘솔 접속**</mark>&#x20;
 
@@ -66,7 +66,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 7\)\[앱 만들기] 버튼 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP1. 대시보드: 앱 설정**
 
@@ -310,7 +310,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 단계별 입력이 완료되면, 완료로 체크됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 스토어 설정 단계
 
@@ -404,7 +404,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 **마지막으로 앱(APK파일)을 업로드해주시면 됩니다.**
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 프로덕션 – 앱 등록하기
 
@@ -538,7 +538,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 출시 완료 (심사기간 7일 이내)
 

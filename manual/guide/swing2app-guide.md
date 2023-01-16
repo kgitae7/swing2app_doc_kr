@@ -4,7 +4,7 @@ description: 앱제작 스윙투앱 이용안내 가이드
 
 # 스윙투앱 이용 안내
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**스윙투앱이란?**
 

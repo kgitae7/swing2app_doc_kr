@@ -16,7 +16,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/푸시앱1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **푸시앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
 

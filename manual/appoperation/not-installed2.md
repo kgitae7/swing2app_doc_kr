@@ -4,7 +4,7 @@ description: APK파일을 다운 받을시 알 수 없는 오류로 앱 설치�
 
 # 유료버전앱(APK파일) 설치가 안된다면 확인해주세요!
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제작한 유료버전 앱을 안드로이드폰에 다운받으려고 하면(플레이스토어 출시 전) 아래와 같이 메시지가 뜰 수 있습니다.&#x20;
 

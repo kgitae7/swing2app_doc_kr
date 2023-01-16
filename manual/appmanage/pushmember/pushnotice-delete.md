@@ -4,7 +4,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 # 푸시 알림 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**푸시알림이란?**</mark>
 
@@ -52,7 +52,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_04\_02\_16\_43\_48\_324.gif)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. 푸시 알림 – 읽은 상태로  표시
 
@@ -66,7 +66,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 읽음 처리가 되면서 알림창의 <mark style="color:orange;">**푸시 개수 3개 에서 → ‘0’으로 변경됩니다**</mark>**.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 2. 푸시 알림- 개별 삭제
 
@@ -78,7 +78,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 이렇게 개별적으로 푸시를 삭제할 때는 해당 푸시 목록을 밀어서 삭제하면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 푸시알림 – 전체 삭제
 

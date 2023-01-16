@@ -4,7 +4,7 @@ description: 스윙투앱에서 제공하는 유료 상품 취소 및 환불 정
 
 # 유료상품 취소 및 환불 정책
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **1. 유료앱 이용권(기본형, 확장형, 프리미엄)**&#x20;
 

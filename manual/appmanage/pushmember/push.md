@@ -1,6 +1,6 @@
 # 푸시 발송하기
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**푸시란?**</mark>
 
@@ -34,7 +34,7 @@
 
 따라서 스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1.푸시 발송하기
 
@@ -42,7 +42,7 @@
 
 스윙 홈페이지 접속 후 [앱운영 페이지→푸시&회원→푸시발송하기](http://www.swing2app.co.kr/view/push) 페이지로 이동합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2.  기본설정
 
@@ -90,7 +90,7 @@
 
 **푸시 기본설정이 완료 되었다면, 다음 단계인 \[푸시보내기]로 이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시 보내기
 
@@ -173,7 +173,7 @@
 
 **푸시를 발송하면 메시지를 먼저 확인한 뒤, 이동하기 버튼을 눌러서 해당 링크 페이지로 이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 앱 실행화면: 푸시 발송된 화면**
 
@@ -239,7 +239,7 @@
 
 <mark style="color:red;">손님은 로그 기록이 없기 때문에 위의 기능들을 이용할 수 없습니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **푸시전용앱 푸시발송**
 
