@@ -1,6 +1,10 @@
+---
+description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용하는 방법
+---
+
 # 권한그룹설정 - 회원 등급
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B9-%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **권한 그룹을 생성하여 회원에게 등급을 적용하는 방법**
 
