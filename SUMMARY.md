@@ -204,7 +204,7 @@
     * [회원조회 - 회원 생성하기](manual/appmanage/pushmember/user-account.md)
     * [앱 관리자 설정하기](manual/appmanage/pushmember/appmaster.md)
     * [권한그룹설정 - 회원 등급](manual/appmanage/pushmember/member-group.md)
-    * [관리자권한 회원 이름 변경](manual/appmanage/pushmember/membername-change.md)
+    * [회원 이름 변경 \*관리자 권한 변경](manual/appmanage/pushmember/membername-change.md)
   * [통계](manual/appmanage/statistics.md)
   * [버전관리](manual/appmanage/version/README.md)
     * [버전관리- 앱제작이력, 마켓등록기록, 마켓등록관리](manual/appmanage/version/control.md)
