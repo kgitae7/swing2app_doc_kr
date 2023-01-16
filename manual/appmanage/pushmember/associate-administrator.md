@@ -1,10 +1,14 @@
+---
+description: 부관리자 지정 방법 및 부관리자 로그인 방법
+---
+
 # 회원조회 - 부관리자 설정하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 관리자 외에 다른 회원을 **부관리자로 설정하여 권한을 변경하는 방법**을 알려드릴게요.\
 \
-<mark style="background-color:blue;">**▶**</mark>** 부관리자란?**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **부관리자란?**
 
 부관리자는 **관리자와 같은 권한을 갖는 사용자로 관리자가 특정회원을 선택하여 관리자 권한을 부여할 수 있어요.**
 
@@ -12,23 +16,25 @@
 
 관리자로 설정된 회원을 부관리자로 통칭합니다.
 
-<mark style="color:green;">**\*부관리자라는 명칭이 있는 것이 아니라서 부관리자로 설정된 회원들은 모두 관리자로 보여집니다.**</mark>
+<mark style="color:red;">\*부관리자라는 명칭이 있는 것이 아니라서 부관리자로 설정된 회원들은 모두 관리자로 보여집니다.</mark>
 
-<mark style="color:green;">**\[앱을 개발한 사용자: 관리자]로 통칭하며, 관리자가 권한을 부여한 사용자를 부관리자로 통칭하기 때문에 편의상 부관리자로 부릅니다.**</mark>
+<mark style="color:red;">\[앱을 개발한 사용자: 관리자]로 통칭하며, 관리자가 권한을 부여한 사용자를 부관리자로 통칭하기 때문에 편의상 부관리자로 부릅니다.</mark>
 
 매뉴얼을 통해서 앱 부관리자를 설정하는 방법과 스윙 웹, 앱에서 부관리자로 로그인하는 방법을 알려드릴게요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">▶</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**부관리자 설정 방법은 영상을 통해서도 확인할 수 있습니다!!**</mark>
+<mark style="color:blue;">**부관리자 설정 방법은 영상을 통해서도 확인할 수 있습니다!!**</mark>
 
 {% embed url="https://youtu.be/d7Ox2GPMZKY" %}
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 회원가입 진행**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 앱 회원가입 진행
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83\_20.07.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**부관리자로 지정을 하기 위해서는 앱에서 회원가입이 되어 있어야 해요!**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **부관리자로 지정을 하기 위해서는 앱에서 회원가입이 되어 있어야 해요!**
 
 부관리자로 지정할 회원이 있어야 하겠죠?
 
@@ -36,9 +42,9 @@
 
 가입된 사용자 계정을 확인하여 아래에서, 해당 사용자를 관리자 그룹으로 변경해주시면 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 관리자 그룹변경**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 관리자 그룹변경
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -48,7 +54,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%902\_18.1.18.png)
 
-회원조회 페이지에서 **사용자인  ‘윈디’ 회원을 선택해서 그룹을 관리자로 변경**해볼게요.
+회원조회 페이지에서 **사용자인  ‘윈디’ 회원을 선택해서 그룹을→관리자로 변경**해볼게요.
 
 
 
@@ -66,13 +72,15 @@
 
 저장이 완료되면 앞서 보셨던 사용자 **윈디 회원이 ‘관리자’ 그룹으로 변경** 된 것을 확인할 수 있어요! ****&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 관리자 로그인**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 관리자 로그인
 
-&#x20;<mark style="color:orange;">**1.스윙 홈페이지: 부관리자 로그인**</mark>
 
-**먼저** [**\[스윙투앱 홈페이지\]**](http://www.swing2app.co.kr) **접속하여 부관리자로 로그인해볼게요.**
+
+<mark style="color:blue;">**1.스윙 홈페이지: 부관리자 로그인**</mark>
+
+먼저 [\[스윙투앱 홈페이지\]](http://www.swing2app.co.kr) 접속하여 부관리자로 로그인해볼게요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8\_20.07.png)
 
@@ -98,7 +106,7 @@
 
 <mark style="color:red;"></mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:green;">**앱 아이디란**</mark><mark style="color:green;">?</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 아이디란**?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%95%84%EC%9D%B4%EB%94%94-%ED%99%95%EC%9D%B8NEW.png)
 
@@ -114,11 +122,11 @@
 
 윈디 부관리자는 이제 관리자가 제작한 앱을 함께 운영할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:orange;">**2.앱에서 부관리자로 로그인하기**</mark>&#x20;
 
-<mark style="color:green;">**★ 앱에서 부관리자로 로그인하는 방법을 알려드릴게요!!**</mark>
+<mark style="color:blue;">**2.앱에서 부관리자로 로그인하기**</mark>&#x20;
+
+앱에서 부관리자로 로그인하는 방법을 알려드릴게요!!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B84\_20.07.png)
 
@@ -138,7 +146,7 @@
 
 
 
-<mark style="color:orange;">**★ 관리자 등급 변경 푸시 발송**</mark>
+<mark style="color:blue;">**★ 관리자 등급 변경 푸시 발송**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B86\_20.07.png)
 
@@ -150,9 +158,12 @@
 
 그리고 부관리자 역시 앱에서 운영하는 \[앱관리자 메뉴]를 사용할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">**★부관리자 설정 및 로그인 방법 정리**</mark>
+{% hint style="success" %}
+**부관리자 설정 및 로그인 방법 정리**
+
+<mark style="color:green;">****</mark>
 
 <mark style="color:green;">**1. 부관리자 설정하기**</mark>
 
@@ -183,3 +194,6 @@
 관리자로 등급이 변경되어도 로그인은 동일합니다.
 
 앱 가입 아이디, 비밀번호 입력하면 관리자로 로그인됩니다.
+{% endhint %}
+
+<mark style="color:green;">****</mark>
