@@ -14,7 +14,7 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**권한 그룹 설정 영상으로 확인하기**</mark>
+<mark style="color:blue;">**권한 그룹 설정 영상으로 확인하기**</mark>
 
 {% embed url="https://youtu.be/2ZaTGZOrWVw" %}
 
@@ -24,7 +24,9 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 그룹 생성하기**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 그룹 생성하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C-1.png)
 
@@ -36,11 +38,11 @@
 
 권한 그룹 설정 페이지에서 **\[권한그룹생성하기]** 버튼을 선택하면, 권한 그룹 설정 창이 뜹니다.
 
-<mark style="color:red;">**-운영(관리자), 사용자(회원가입된 일반회원), 손님 이렇게 3그룹이 기본 제공되요. 이외에 필요한 그룹을 더 추가하여 만들 수 있습니다.**</mark>
+<mark style="color:blue;">-운영(관리자), 사용자(회원가입된 일반회원), 손님 이렇게 3그룹이 기본 제공되요. 이외에 필요한 그룹을 더 추가하여 만들 수 있습니다.</mark>
 
-<mark style="color:red;">**-총 9등급이 제공이 되기 때문에, 그룹을 9등급으로 만들 수 있어요.**</mark>
+<mark style="color:blue;">-총 9등급이 제공이 되기 때문에, 그룹을 9등급으로 만들 수 있어요.</mark>
 
-<mark style="color:red;">**– 9등급을 모두 사용하지 않으셔도 되구요. 원하는 등급까지만 사용하시면 됩니다.**</mark>
+<mark style="color:blue;">– 9등급을 모두 사용하지 않으셔도 되구요. 원하는 등급까지만 사용하시면 됩니다.</mark>
 
 
 
@@ -78,11 +80,11 @@
 
 그룹을 수정하거나, 삭제할 때도 해당 페이지에서 작업해주시면 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 사용자에게 그룹 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 사용자에게 그룹 적용하기
 
-<mark style="color:orange;">**\*그룹을 만들었다면, 앱 사용자별로 그룹을 적용해야 하겠죠?그룹 적용은 회원조회 페이지에서 이용 가능합니다.**</mark>
+\*그룹을 만들었다면, 앱 사용자별로 그룹을 적용해야 하겠죠?그룹 적용은 회원조회 페이지에서 이용 가능합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -98,11 +100,11 @@
 
 저는 ‘스윙’ 회원을 ‘우수회원’ 그룹으로 변경해볼게요!
 
-<mark style="color:blue;">**1)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.**</mark>
+<mark style="color:blue;">1)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.</mark>
 
-<mark style="color:blue;">**2)현재 그룹정보 박스에서 변경할 그룹을 선택**</mark>
+<mark style="color:blue;">2)현재 그룹정보 박스에서 변경할 그룹을 선택</mark>
 
-<mark style="color:blue;">**3)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.**</mark>&#x20;
+<mark style="color:blue;">3)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.</mark>&#x20;
 
 
 
@@ -112,9 +114,9 @@
 
 회원조회 페이지 목록에 보시면, 아까 ‘사용자’ 였던 회원이 → ‘우수회원’으로 변경된 것을 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**추가 안내: 그룹 만료일 지정 가능**</mark>
+
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**추가 안내: 그룹 만료일 지정 가능**</mark>
 
 그룹을 지정하면 해당 사용자의 그룹 만료일을 설정할 수 있어요!!
 
@@ -132,11 +134,11 @@
 
 <mark style="color:red;">\*그룹 만료일은 관리자가 언제든지 변경이 가능합니다.</mark>&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱 실행화면**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면
 
-<mark style="color:orange;">**\*앱에서는 사용자 등급(그룹)이 어떻게 변경되는지 확인해볼게요!**</mark>
+\*앱에서는 사용자 등급(그룹)이 어떻게 변경되는지 확인해볼게요!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B98.png)
 
@@ -154,15 +156,15 @@
 
 \*관리자는 회원들의 이용실적에 맞게 그룹을 자유롭게 수정할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**권한 그룹 설정 이용방법 정리**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP4.** 권한 그룹 설정 이용방법 정리
 
 권한 그룹을 만들고, 사용자에게 그룹을 적용하는 방법을 다시 정리해드릴게요!
 
 
 
-<mark style="color:orange;">**STEP.1 그룹 만들기**</mark>
+<mark style="color:blue;">**STEP.1 그룹 만들기**</mark>
 
 앱운영 페이지 → 푸시&회원 → 권한 그룹 설정 메뉴로 이동합니다.
 
@@ -172,7 +174,7 @@
 
 
 
-<mark style="color:orange;">**STEP.2 사용자에게 그룹 적용하기**</mark>
+<mark style="color:blue;">**STEP.2 사용자에게 그룹 적용하기**</mark>
 
 앱운영 페이지 → 푸시&회원 → 회원조회 메뉴로 이동합니다.
 
@@ -186,10 +188,15 @@
 
 
 
-<mark style="color:orange;">**★ 권한 그룹 설정은 게시판마다 이용 권한을 다르게 부여하기 위해서 사용되요.**</mark>
+<mark style="color:blue;">**★ 권한 그룹 설정은 게시판마다 이용 권한을 다르게 부여하기 위해서 사용되요.**</mark>
 
 위의 방법대로 일단 권한을 설정해주시구요.
 
 각 그룹별로 어디까지 게시판 이용이 가능하게 할지는 아래 매뉴얼 방법을 반드시 확인해주시기 바랍니다\~!
 
-**☞** [**게시판 등급별 권한 설정하기**](../board/membership-rating.md)
+{% content-ref url="../board/membership-rating.md" %}
+[membership-rating.md](../board/membership-rating.md)
+{% endcontent-ref %}
+
+****
+
