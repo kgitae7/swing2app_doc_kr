@@ -4,8 +4,6 @@ description: 스윙투앱 서비스 이용정책
 
 # 스윙투앱 서비스 이용약관
 
-****
-
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **스윙투앱 이용정책**
