@@ -288,10 +288,10 @@
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
 * [플레이스토어](knowledgebase/playstore/README.md)
+  * [구글 개발자계정 만드는 방법](knowledgebase/playstore/google-developer.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
   * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
-  * [구글 개발자계정 만드는 방법](knowledgebase/playstore/google-developer.md)
   * [플레이스토어 구글 개발자계정 초대하기](knowledgebase/playstore/google-developer-invitation.md)
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [플레이스토어 사전고지 문서 제출하기](knowledgebase/playstore/playstore-priornotice.md)
