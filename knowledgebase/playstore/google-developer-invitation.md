@@ -1,5 +1,7 @@
 # 플레이스토어 구글 개발자계정 초대하기
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **구글 개발자계정 초대란?**
 
 구글 개발자가 다른 사용자를 초대하는 이유는 자신의 계정(아이디, 비밀번호)을 다른 사람에게 알려주지 않고, 어플리케이션 업로드 관련 권한을 부여할 수 있어요.
@@ -28,7 +30,9 @@
 
 ***
 
-### <mark style="color:blue;">**STEP.1 구글 플레이 개발자 콘솔 사이트 접속**</mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 구글 플레이 개발자 콘솔 사이트 접속
 
 먼저 구글 개발자 계정을 이용하시려면, 콘솔 사이트에서 계정 등록비를 결제해야 하는것 아시죠? 결제 후 등록을 완료해주세요.
 
@@ -56,9 +60,9 @@
 
 7\)\[사용자 초대]를 선택하면 완료됩니다.&#x20;
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.2 사용자 초대 완료**</mark>
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 사용자 초대 완료
 
 \*이렇게 스윙투앱 계정을 입력하고 초대장을 보내주시면 끝납니다.
 
@@ -74,15 +78,17 @@
 
 <mark style="color:red;">구글 개발자 초대는 사용자의 구글 계정에 접속하지 않고, 사용자분의 구글 플레이 콘솔만 확인하여  앱 등록만 진행하는 용도로 사용됩니다.</mark>&#x20;
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 추후 관리**</mark>
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 추후 관리
 
-<mark style="color:purple;">초대된 개발자 계정은 어디서 확인하고, 어디서 관리할 수 있나요?</mark>
+초대된 개발자 계정은 어디서 확인하고, 어디서 관리할 수 있나요?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B4%88%EB%8C%80%EC%8B%A0%EA%B7%9C3.png)
 
-추가적으로 사용자 계정을 관리하고 싶을 때는 **\[사용자 및 권한]** 페이지에서 **스윙투앱 개발자 계정 옆의 **<mark style="color:blue;">**\[관리]**</mark>** 버튼을 선택해주세요.**&#x20;
+추가적으로 사용자 계정을 관리하고 싶을 때는 **\[사용자 및 권한]** 페이지에서 **스윙투앱 개발자 계정 옆의**
+
+<mark style="color:blue;">**\[관리]**</mark>** 버튼을 선택해주세요.**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B4%88%EB%8C%80%EC%8B%A0%EA%B7%9C4.png)
 
@@ -91,3 +97,4 @@
 그런데 업로드 이후에도 추가 업데이트가 필요할 수도 있기 때문에  바로 삭제를 하게 되면 다시 스윙 계정을 초대해야 하는 번거로움이 있어요.
 
 그래서 일단 계정은 삭제하지 말고 유지하는 것이 좋을 것 같아요. (필요가 없다면 삭제하셔도 됩니다\~!)
+
