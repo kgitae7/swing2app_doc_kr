@@ -4,9 +4,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 # 플레이스토어 업로드 신청방법
 
-**플레이스토어 업로드 신청방법**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:purple;">**Q. 플레이스토어에 스윙으로 제작한 앱을 올리고 싶으면 어떻게해야 하나요?**</mark>
+<mark style="color:blue;">**Q. 플레이스토어에 스윙으로 제작한 앱을 올리고 싶으면 어떻게해야 하나요?**</mark>
 
 ​먼저, 마켓에 앱이 올라갈 수 있도록 유료전환을 해주셔야 하는데요.
 
@@ -18,7 +18,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **\[플레이스토어 업로드 신청]을 해주셔야만 담당자가 확인 후 해당 앱을 마켓에 등록해드릴 수 있습니다.**
 
-<mark style="color:purple;">**Q. 업로드 신청은 어디서 어떻게 하는건가요?**</mark>
+<mark style="color:blue;">****</mark>
+
+<mark style="color:blue;">**Q. 업로드 신청은 어디서 어떻게 하는건가요?**</mark>
 
 업로드 신청은 [스윙 앱운영페이지 → 버전관리에 → 앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)으로 들어가구요.
 
@@ -28,7 +30,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **양식에 기재된 항목들을 입력 한 뒤  ‘신청’ 해주시면 해당 양식으로 담당자가 앱을 플레이스토어에 올려드릴 수 있어요!**
 
-<mark style="color:purple;">**Q. 업로드 신청하면, 앱이 바로 플레이스토어 출시되나요?**</mark>
+****
+
+<mark style="color:blue;">**Q. 업로드 신청하면, 앱이 바로 플레이스토어 출시되나요?**</mark>
 
 스윙투앱에서 대행해서 앱을 플레이스토어에 업로드 진행해드리는데요.
 
@@ -40,23 +44,27 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 그러나 심사 거절이 될 경우도 있기 때문에 출시 되는 시간은 더 길어질 수 있습니다.
 
-<mark style="color:purple;">**Q. 플레이스토어는 업로드시 구글개발자 계정이 필요하다고 들었습니다.  구글 개발자 계정은 어떻게 만드나요?**</mark>
+
+
+<mark style="color:blue;">**Q. 플레이스토어는 업로드시 구글개발자 계정이 필요하다고 들었습니다.**</mark> &#x20;
+
+<mark style="color:blue;">**구글 개발자 계정은 어떻게 만드나요?**</mark>
 
 **\*플레이스토어 업로드를 신청하기전!!**  구글 개발자 계정이 있는지 확인해주세요.
 
 <mark style="color:red;">\*중요\*플레이스토어는 사용자의 구글 개발자 계정이 있어야 등록이 가능합니다.</mark>
 
-개발자 계정이 없으시면 **** [**\[개발자 콘솔 사이트\]**](https://play.google.com/apps/publish/)로 이용료 25$ 결제해서 만들어주세요.
+개발자 계정이 없으시면 [\[개발자 콘솔 사이트\]](https://play.google.com/apps/publish/)로 이용료 25$ 결제해서 만들어주세요.
 
-[**☞  \[구글 개발자 계정 만드는 법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
+[☞  \[구글 개발자 계정 만드는 법 보러가기\]](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
 
-<mark style="color:orange;">**★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.**</mark>&#x20;
+★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다. <mark style="color:orange;">****</mark>&#x20;
 
 **☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
 
-<mark style="color:orange;">**★ 앱스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!**</mark>
+★ 앱스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!
 
 **☞** [**\[앱스토어 업로드 신청방법 보러가기\]**](appstore-upload.md)
 
@@ -215,7 +223,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 {% hint style="warning" %}
 <mark style="color:orange;">구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.</mark>&#x20;
 
-**☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer-invitation/)
+**☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer-invitation)****
 {% endhint %}
 
 개발자 초대를 해주셔야 사용자분의 계정 대시보드 접근이 가능하며, 앱 등록 작업을 해드릴 수 있습니다.
@@ -290,7 +298,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**\[안내사항]**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 5.안내사항
 
 **1) 업로드 티켓 10,000원은 1회 비용입니다.**
 
@@ -322,7 +330,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 7\)사용하지 않는 않은 티켓은 100% 환불 가능하지만, **업로드 신청으로 이미 사용을 했거나 심사가 거절되어 정상적으로 출시가 되지 않아도 이미 등록을 한 앱에 대해서는 티켓 환불이 어렵습니다.**
 
-**8) 플레이스토어는 앱이 정상 출시되어도, 앱이름 검색 노출이 바로 되지 않습니다.**
+**8) 플레이스토어는 앱이 정상 출시되어도, 앱 이름 검색 노출이 바로 되지 않습니다.**
 
 무분별한 앱출시를 막기 위해 구글에서는 출시된 앱의 활성화 정도(앱설치수)를 파악한 뒤 검색 노출로 전환하고 있습니다.
 
@@ -332,4 +340,5 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다. <mark style="color:orange;">****</mark>&#x20;
 
-**☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
+**☞** [**\[스토어 이용약관 확인하기\]**](https://documentation.swing2app.co.kr/market-policy)****
+
