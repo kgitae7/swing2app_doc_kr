@@ -56,17 +56,21 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 개발자 계정이 없으시면 [\[개발자 콘솔 사이트\]](https://play.google.com/apps/publish/)로 이용료 25$ 결제해서 만들어주세요.
 
-[☞  \[구글 개발자 계정 만드는 법 보러가기\]](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
+☞[ \[구글 개발자 계정 만드는 법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
 
 ★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다. <mark style="color:orange;">****</mark>&#x20;
 
-**☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
+{% content-ref url="../../../market-policy.md" %}
+[market-policy.md](../../../market-policy.md)
+{% endcontent-ref %}
 
 ★ 앱스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!
 
-**☞** [**\[앱스토어 업로드 신청방법 보러가기\]**](appstore-upload.md)
+{% content-ref url="appstore-upload.md" %}
+[appstore-upload.md](appstore-upload.md)
+{% endcontent-ref %}
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
