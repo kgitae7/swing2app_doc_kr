@@ -1,8 +1,12 @@
+---
+description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등록방법
+---
+
 # 구글 개발자계정 만드는 방법
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-
-<mark style="color:orange;">**★구글 개발자 계정이란?**</mark>
+**★구글 개발자 계정이란?**
 
 \-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
 
@@ -24,7 +28,7 @@
 
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 사용하는 구글 gmail(지메일)계정이 있는 경우**&#x20;
+## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
 
 ****
 
@@ -46,7 +50,9 @@
 
 2\) 이메일주소 입력  <mark style="color:red;">\*구글에서 연락 가능한 보조 이메일주소를 입력해주세요</mark>
 
-3\) 전화번호 입력 (국가코드 함께 기재)  <mark style="color:red;">\* 대한민국 국가코드 +82, 010번호는 앞에 0을 빼고 입력 ex) +821015889821</mark>
+3\) 전화번호 입력 (국가코드 함께 기재)  <mark style="color:red;">\* 대한민국 국가코드 +82, 010번호는 앞에 0을 빼고 입력</mark>&#x20;
+
+<mark style="color:red;">ex) +821015889821</mark>
 
 4\) 개발자 계약 및 서비스 약관 체크&#x20;
 
@@ -74,7 +80,9 @@
 
 1\) 카드번호 입력 , 월/연/CVC 번호 입력
 
-2\) 카드 소유자 이름 <mark style="color:red;">\*계정 소유주와 카드 소유주가 달라도 괜찮습니다. 실제 결제하는 카드에 등록된 이름으로 기재합니다.</mark>
+2\) 카드 소유자 이름&#x20;
+
+<mark style="color:red;">\*계정 소유주와 카드 소유주가 달라도 괜찮습니다. 실제 결제하는 카드에 등록된 이름으로 기재합니다.</mark>
 
 3\) 나라 선택
 
@@ -110,11 +118,11 @@
 
 ***
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. 구글 계정을 새로 만들어야 하는 경우**&#x20;
+## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
 
 **gmail 계정이 없거나 개발자용 계정을 새로 만들어야 한다면! 구글 계정 등록 사이트에서 계정을 먼저 만들어주세요.**
 
-**\*지메일 계정 만들기:** [**http://accounts.google.co.kr/**](http://accounts.google.co.kr/)
+\*지메일 계정 만들기: [http://accounts.google.co.kr/](http://accounts.google.co.kr/)
 
 ### <mark style="color:blue;">**1. 계정만들기**</mark>
 
