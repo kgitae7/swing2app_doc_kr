@@ -124,6 +124,7 @@
   * [내 메뉴](manual/appmanage/menu/README.md)
     * [앱 활동 모음](manual/appmanage/menu/appfeed.md)
     * [앱 제거(삭제)방법](manual/appmanage/menu/removeapp.md)
+    * [내 정보 수정](manual/appmanage/menu/myinfo.md)
   * [게시판관리](manual/appmanage/board/README.md)
     * [게시판 만들기](manual/appmanage/board/boardeditor.md)
     * [게시판 종류, 디자인스타일](manual/appmanage/board/design.md)

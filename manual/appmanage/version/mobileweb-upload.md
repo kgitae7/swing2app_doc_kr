@@ -134,7 +134,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5.모바일 웹 등록 주의사항
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 모바일 웹 등록 주의사항
 
 **1) 모바일 웹등록 신청 전, 사이트를 연동할 수 있는 도메인은 별도로 구매해주셔야 합니다. (카페 24 등)**
 
