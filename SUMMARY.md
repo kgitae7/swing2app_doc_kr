@@ -113,7 +113,6 @@
     * [스윙페이지 - 나의글보기 이용방법](manual/v2/pagemenu/viewpost.md)
 * [앱제작 응용 TIP(V2)](manual/tip/README.md)
   * [푸시 API를 이용하여 푸시 발송하기](manual/tip/push-api-notification.md)
-  * [푸시 API를 이용하여 푸시 발송하기(2)](manual/tip/push-api-notification-1.md)
   * [애플 - 아이폰 푸시인증서 연장하기](manual/tip/push-certificate.md)
   * [홈화면 GIF이미지 넣기](manual/tip/home-gif.md)
   * [플래시 스타일 홈화면 만들기](manual/tip/home-flash.md)
