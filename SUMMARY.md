@@ -354,3 +354,4 @@
 
 * [스윙투앱 서비스 이용약관](user-protocol.md)
 * [스토어 이용약관](market-policy.md)
+* [테스트 배포](undefined.md)
