@@ -1,0 +1,47 @@
+openapi: 3.0.0
+info:
+  title: Swing API
+  version: 1.0.0
+servers:
+  - url: https://www.swing2app.co.kr
+paths:
+  /swapi/push_send:
+    post:
+      tags:
+        - default
+      summary: Send Push API
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                app_id:
+                  type: string
+                  example: app_id
+                api_user:
+                  type: string
+                  example: UserAccount
+                api_key:
+                  type: string
+                  example: api_key
+                send_target_list:
+                  type: string
+                  example: test
+                send_target_type_list:
+                  type: string
+                  example: MEMBER
+                send_type:
+                  type: string
+                  example: push
+                message_json:
+                  type: string
+                  example: >-
+                    {"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버
+                    테스트" , "messageLinkUrl" : "http://m.naver.com" ,
+                    "messageImageUrl":"http://www.swing2app.com/abc.png"}
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
