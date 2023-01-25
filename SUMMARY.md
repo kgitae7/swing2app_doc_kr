@@ -354,4 +354,4 @@
 
 * [스윙투앱 서비스 이용약관](user-protocol.md)
 * [스토어 이용약관](market-policy.md)
-* [Swing Update History](swing-update-history.md)
+* [스윙투앱 업데이트 히스토리](updatehistory.md)
