@@ -2,13 +2,17 @@
 description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅방법 매뉴얼
 ---
 
-# 애드몹 플러그인 광고 셋팅방법
+# 애드몹 플러그인 광고 셋팅
+
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **애드몹 플러그인 광고 셋팅 방법**
 
 스윙투앱에서 제작한 앱에 구글 애드몹 광고를 적용해서 광고 수익형 앱을 제작할 수 있는데요.
 
-스윙투앱에서 제공하는 구글 애드몹 플러그인 상품을 구매한 뒤, 애드몹 셋팅에 필요한 정보를 입력하면 앱에 광고를 직접 연결할 수 있습니다.
+스윙투앱에서 제공하는 구글 애드몹 플러그인 상품을 구매한 뒤,&#x20;
+
+애드몹 셋팅에 필요한 정보를 입력하면 앱에 광고를 직접 연결할 수 있습니다.
 
 애드몹 셋팅부터 스토어 출시 과정까지 안내드리오니 애드몹 광고 셋팅을 희망하신다면 해당 매뉴얼을 보시고 진행해주시기 바랍니다.
 
@@ -29,7 +33,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 \[광고 단위 아이디 설정], \[광고 노출 패턴 설정]을 입력한 뒤 저장
 
-5\) 광고 셋팅 후 \[앱제작 요청] : 광고 적용된 버전으로 앱 업데이트 하기
+5\) 광고 셋팅 후 \[앱 업데이트] : 광고 적용된 버전으로 앱 업데이트 하기
 
 6\) 광고 셋팅 완료. 안드로이드폰에서 앱 다운받아 광고가 잘 뜨는지 테스트하기
 
@@ -106,7 +110,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1.앱제작 완료**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 앱제작 완료**
 
 애드몹 광고 적용 전 앱제작을 완료해주세요.
 
@@ -118,33 +122,37 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 애드몹 플러그인 상품 or 패키지 상품 구매**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 애드몹 플러그인 단품 상품 or 패키지 상품 구매**
 
 <mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**1) 구글 애드몹 적용 플러그인 상품 구매 (단품)**</mark>
+<mark style="color:blue;">**1) 구글 애드몹 적용 플러그인 상품 구매 (단품)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A05.png)
+<figure><img src="../../.gitbook/assets/애드몹-플러그인상품.png" alt=""><figcaption></figcaption></figure>
 
-\*[앱운영 →결제→ 스윙플러그인 구매 페이지](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)에서\[구글 애드몹 적용 플러그인] 220,000원을 결제해주세요.
+\*[앱운영→결제/이용권  구매→플러그인 추가 상품 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)에서\[구글 애드몹 적용 플러그인] 220,000원을 결제해주세요.
 
-애드몹 플러그인 상품은 무료버전앱에서도 구매가능합니다. 광고 셋팅 후에 유료앱 이용권을 구매하셔도 됩니다.
+애드몹 플러그인 상품은 무료버전앱에서도 구매가능합니다.&#x20;
 
-\* 애드몹 적용 플러그인은 단품 상품이며 해당 상품 구매 후 스윙 유료앱 이용권, 스토어 업로드티켓은 별도 구매해서 이용하셔야 합니다.
+광고 셋팅 후에 유료앱 이용권을 구매하셔도 됩니다.
+
+<mark style="color:orange;">\* 애드몹 적용 플러그인은 단품 상품이며 해당 상품 구매 후 스윙 유료앱 이용권, 스토어 업로드티켓은 별도 구매해서 이용하셔야 합니다.</mark>
 
 **or**
 
-<mark style="color:orange;">**2) 애드몹 파워 패키지**</mark>
+****
+
+<mark style="color:blue;">**2) 애드몹 파워 패키지**</mark>
 
 패키지로 제공되는 \[애드몹 파워 패키지] 상품도 구매할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A04.png)
+<figure><img src="../../.gitbook/assets/애드몹-파워패키지.png" alt=""><figcaption></figcaption></figure>
 
-\*[앱운영 →결제→ 패키지 상품 구매 페이지](http://www.swing2app.co.kr/view/shop\_list\_by\_package)에서 \[애드몹 파워패키지] 580,000원을 결제해주세요.
+\*[앱운영→결제/이용권  구매→패키지 상품 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_package)에서 \[애드몹 파워패키지] 580,000원을 결제해주세요.
 
 애드몹 파워 패키지 상품은 애드몹과 이용권이 합해져서 제공되는 보다 저렴한 패키지 상품이에요.
 
-<mark style="color:purple;">\[애드몹 적용 플러그인 + 스윙 기본형 이용권(2년/24개월)+ 업로드티켓 각1회분(앱스토어 업로드 티켓, 플레이스토어 업로드티켓)]</mark>
+<mark style="color:orange;">\[애드몹 적용 플러그인 + 스윙 기본형 이용권(2년/24개월)+ 업로드티켓 각1회분(앱스토어 업로드 티켓, 플레이스토어 업로드티켓)]</mark>
 
 모두 포함되어 제공됩니다.
 
@@ -166,23 +174,19 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 3\)결제정보가 누락되지 않도록 모두 추가해주시기 바랍니다.
 
+애드몹 가입 및 광고단위 만들기, 앱 아이디를 확인하는 방법은 아래 매뉴얼을 확인해주세요.
 
-
-<mark style="color:orange;">**애드몹 가입 및 광고단위 만들기, 앱 아이디를 확인하는 방법은 아래 매뉴얼을 확인해주세요.**</mark>
-
-☞[**구글 애드몹 가입 방법 , 광고 단위 아이디 만드는 방법 보러가기**](admob-register.md)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/admob-register" %}
 
 애드몹 광고를 앱에 셋팅하기 위해서는 아래 정보가 필요합니다.
 
-<mark style="color:purple;">(1) 전면광고 광고단위 아이디(안드로이드, 아이폰)</mark>
+<mark style="color:orange;">(1) 전면광고 광고단위 아이디(안드로이드, 아이폰)</mark>
 
-<mark style="color:purple;">(2) 배너광고 광고단위 아이디(안드로이드, 아이폰)</mark>
+<mark style="color:orange;">(2) 배너광고 광고단위 아이디(안드로이드, 아이폰)</mark>
 
-<mark style="color:purple;">(3) Android 앱 ID , IOS 앱ID</mark>
+<mark style="color:orange;">(3) Android 앱 ID , IOS 앱ID</mark>
 
-**위의 광고 아이디 만들기 포스팅을 확인하셔서 위의 3가지 정보를 모두 준비해주세요!**
+**위의 광고 아이디 만들기 매뉴얼을 확인하여 위의 3가지 정보를 모두 준비해주세요!**
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
@@ -192,11 +196,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 가입 후 광고단위 아이디를 모두 만들었다면, 이제 내가 만든 앱에! 광고 셋팅 작업을 해볼게요.
 
-**앱운영 →서비스관리→ 애드몹 플러그인 설정 이동**
+**앱운영 →서비스관리→ 애드몹 플러그인 설정**&#x20;
 
 ****
 
-<mark style="color:orange;">**1)광고단위 아이디 설정**</mark>
+<mark style="color:blue;">**1)광고단위 아이디 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%841.png)
 
@@ -208,7 +212,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 <mark style="color:orange;"></mark>
 
-<mark style="color:orange;">**2)광고노출 패턴 설정**</mark>
+<mark style="color:blue;">**2)광고노출 패턴 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%842.png)
 
@@ -224,7 +228,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 
 
-<mark style="color:purple;">**\*전면광고 노출 설정**</mark>
+<mark style="color:blue;">**\*전면광고 노출 설정**</mark>
 
 1\)앱 최초 실행시 광고 노출
 
@@ -248,7 +252,14 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 
 
-<mark style="color:red;">**\*중요\***</mark>
+전면 광고 패턴 설정을 확인해서 원하는 형태로 직접 설정할 수 있구요.
+
+언제든지 자유롭게 수정 가능합니다! 최초 셋팅 때에만 앱제작 다시 해주시구요.
+
+이후에는 수정하고 저장만 하면 됩니다. 앱 종료 후 재실행하면 변경된 광고 설정으로 반영됩니다.
+
+{% hint style="danger" %}
+<mark style="color:red;">**중요**</mark>
 
 전면광고를 설정할 때 주의해주세요!
 
@@ -263,36 +274,37 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 **같이 설정하게 되면 횟수나 노출시간을 길게 설정을 해주세요.**
 
 <mark style="color:red;">\*광고 정책 위반으로 광고가 정지될 경우 스윙투앱에서 해결해드리지 않는 점 유념해주세요.</mark>
+{% endhint %}
 
-<mark style="color:red;"></mark>
-
-전면 광고 패턴 설정을 확인해서 원하는 형태로 직접 설정할 수 있구요.
-
-언제든지 자유롭게 수정 가능합니다! 최초 셋팅 때에만 앱제작 다시 해주시구요.
-
-이후에는 수정하고 저장만 하면 됩니다. 앱 종료 후 재실행하면 변경된 광고 설정으로 반영됩니다.
+<mark style="color:red;">****</mark>
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 앱 업데이트**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A03.png)
+<figure><img src="../../.gitbook/assets/업데이트 (1).png" alt=""><figcaption></figcaption></figure>
 
-애드몹 플러그인 설정 입력이 완료된 후,앱제작 페이지에서 \[앱제작요청] 버튼을 눌러서 새 버전으로 앱을 재제작해주세요.
+애드몹 플러그인 설정 입력이 완료되면 앱제작 화면으로 이동해서 앱 업데이트를 해주세요.&#x20;
 
-**이때 업데이트 표시 옵션은 ‘업데이트 표시 안함’으로 체크해주세요.**
+{% hint style="success" %}
+**업데이트 선택**
 
-**→ 앱을 새로 설치해야 하기 때문에 업데이트 표시가 의미가 없구요.**
+1\)업데이트 유형: 하드업데이트(재설치)
 
-혹은 기존앱이 플레이스토어 등에 출시된 앱의 경우 업데이트를 표시해놓으면 테스트 전에 사용자들이 이용 가능하겠죠.
+2\)업데이트 표시 옵션: 권장 or 필수 중 원하는 옵션으로 선택
 
-따라서 관리자만 이용가능하도록 ‘업데이트 표시 안함’으로 체크해서 제작하는 것이 놓습니다.
+\-권장: 사용자에게 업데이트 여부를 물어보는 메시지가 뜨며 '아니오' 선택이 가능 (강제성 없음)
 
+\-필수: 강제성이 있는 메시지로, 앱 업데이트를 받아야 앱 이용이 가능
 
+**스토어에 출시하지 않은 신규 앱은 '업데이트 표시 안함'으로 체크해도 무관합니다.**&#x20;
 
-앱을 새로 업데이트 해주셔야 광고 셋팅이 적용됩니다.
+**새로 설치되는 앱이기 때문에 업데이트 창 자체가 뜨지 않아요.**
+{% endhint %}
 
-<mark style="color:red;">최초 앱 광고 셋팅시에만 앱제작이 필요하구요.</mark>
+앱을새로 업데이트 해주셔야 광고 셋팅이 적용됩니다.
+
+<mark style="color:red;">앱 업데이트는, 최초 앱 광고 셋팅시에만 앱제작이 필요하구요.</mark>
 
 <mark style="color:red;">이후 수정을 할 때에는 저장만 하시면 앱에 바로 반영됩니다. (앱 종료 후 재실행하시면 변경된 광고 설정으로 반영됨)</mark>
 
@@ -302,9 +314,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ****
 
-<mark style="color:red;">**1.스토어 출시 전 앱은 광고가 바로 뜨지 않기 때문에 테스트 광고 아이디를 넣어서 테스트 해볼 수 있습니다.**</mark>
+<mark style="color:blue;">**1)스토어 출시 전 앱은 광고가 바로 뜨지 않기 때문에 테스트 광고 아이디를 넣어서 테스트 해볼 수 있습니다.**</mark>
 
-**플레이스토어 등에 앱이 출시되어야 광고가 앱에 연결됩니다.**
+**플레이스토어 등에 앱이 출시되어야 실제 광고가 앱에 연결되어 송출이 됩니다.**
 
 따라서 실제 광고가 뜨기 전에는 테스트 광고 아이디로 앱에 셋팅을 잘 했는지, 앱 광고가 어떻게 뜨는지 확인할 수 있어요.
 
@@ -328,7 +340,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **​**
 
-<mark style="color:red;">**2. 스토어에 출시된 앱은 업데이트 전 앱 미리보기로 확인해주세요.**</mark>
+<mark style="color:blue;">**2)앱 확인 방법 - 앱 미리보기로 확인해주세요.**</mark>
 
 새로 제작한 버전 앱을 안드로이드폰에 설치해서 광고가 정상적으로 잘 뜨는지 확인해주세요. (안드로이드폰으로만 테스트 가능)
 
@@ -336,11 +348,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
-<mark style="color:purple;"><mark style="color:orange;"><mark style="color:red;">앱 다운 받는 방법 확인하기<mark style="color:red;"><mark style="color:orange;"></mark>
+<mark style="color:blue;">**앱 다운 받는 방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_12\_44\_788.gif)
 
-<mark style="color:orange;">앱 실행 후 광고가 잘 뜨는지 확인해볼게요!</mark>
+앱 실행 후 광고가 잘 뜨는지 확인해볼게요!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_16\_43\_781.gif)
 
@@ -354,16 +366,21 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 게시물을 선택해서 화면이 5번 전환되는 시점에 전면광고가 뜹니다.
 
-이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편하죠 \~!
+이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편합니다.
+
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 7. 광고 송출 체크하기**
+
+플레이스토어 출시 전 앱 광고는 바로 뜨지 않을 수 있습니다.
+
+스토어에 출시된 앱이 아닐 경우, 앱 광고를 송출하는데 시간이 오래 소요됩니다.
+
+구글 애드몹에서 광고 송출 승인이 완료되었다는 메일을 받으셨다면, 조금만 기다려주세요.&#x20;
 
 
 
-{% hint style="danger" %}
-<mark style="color:red;">**\*중요\***</mark>
-
-광고 셋팅을 완료한 뒤 앱제작을 다시 해서 앱을 다운 받았는데! 앱에 광고가 바로 뜨지 않을 수도 있어요.
-
-구글에서 애드몹 계정 및 앱 확인 후 광고를 송출하기 때문에 심사 기간이 있습니다.
+1\)구글에서 애드몹 계정 및 앱 확인 후 광고를 송출하기 때문에 심사 기간이 있습니다.
 
 애드몹 광고 송출 시간은 경우에 따라 길게는 일주일 정도 소요될 수 있습니다.
 
@@ -371,38 +388,31 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **테스트 광고 아이디로 확인하여 앱에서 테스트 광고가 잘 뜨면 앱 광고 셋팅은 잘 된 것이에요.**&#x20;
 
-따라서 우선 앱을 플레이스토어에 새로 등록하거나, 출시된 분들은 업데이트 해주세요.
+따라서 우선 앱을 플레이스토어에 새로 등록하거나, 출시된 분들은 앱을업데이트 해주세요.
 
-구글에서 검토 후 광고가 표시 될 것입니다.
-{% endhint %}
+구글에서 검토 후 앱 업데이트 출시가 완료되면, 광고가 표시 될 것입니다.&#x20;
 
-<mark style="color:red;">****</mark>
 
-**\*해당 내용 외 광고가 바로 뜨지 않는 이유들이 더 있으니 애드몹 플러그인 운영 주의사항 포스팅을 확인해주세요!**
 
-**☞**[ **애드몹 플러그인 운영 주의사항**](https://blog.naver.com/swing2app/222134468870)
-
-<mark style="color:red;">****</mark>
-
-아래 내용도 함께 체크해주세요!
-
-애드몹 사이트에서 (1)결제정보 입력, (2)광고 관리를 모두 체크했는지 확인해주세요.
+2\)애드몹 사이트에서 (1)결제정보 입력, (2)광고 관리를 모두 체크했는지 확인해주세요.
 
 결제프로필 등록이 되어 있지 않으면 광고 승인이 되지 않으며, 광고관리를 하지 않아 미검토 광고가 있을 경우 앱에 광고가 뜨지 않습니다.
 
 해당 내용은 모두 운영자분께서 애드몹 사이트에서 직접 체크해주셔야 하며, 이후에도 지속적으로 관리해주셔야 합니다.
 
-아래 링크를 확인하셔서 체크항목을 확인한 뒤 진행해주시기 바랍니다.
-
-\*애드몹 신청시 체크해야 하는 내용: [http://blog.naver.com/swing2app/221755545922](http://blog.naver.com/swing2app/221755545922)
-
 해당 내용 진행이 안되실 경우 애드몹 광고를 셋팅완료해도, 실제 앱 광고 게시가 지연될 수 있습니다.
+
+<mark style="color:red;">****</mark>
+
+**\*해당 내용 외 광고가 바로 뜨지 않는 이유들이 더 있으니 애드몹 플러그인 운영 주의사항을 확인해주세요!**
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/admob-operation" %}
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 7. 스토어 등록 진행하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 8. 스토어 등록 진행하기**
 
-위에서 앱 다운을 받아 테스트 한 뒤, 광고가 문제없이 잘 뜬다면 앱을 스토어에 정식 출시할 수 있습니다.
+
 
 1\)애드몹 파워패키지를 구매한 분들은 이미 이용권과 업로드티켓이 모두 적용되었기 때문에 바로 업로드 신청해주시면 됩니다.
 
@@ -410,25 +420,25 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 (앱스토어 업로드티켓 20,000원 / 플레이스토어 업로드티켓 10,000원)
 
-<mark style="color:purple;">3)기존 앱이 플레이스토어, 앱스토어에 출시되어 있다면 새 버전(애드몹 적용버전) 앱으로 해당 스토어별로 업데이트 해주셔야 합니다.</mark>
+3\)기존 앱이 플레이스토어, 앱스토어에 출시되어 있다면 새 버전(애드몹 적용버전) 앱으로 해당 스토어별로 업데이트 해주셔야 합니다.
 
-\*플레이스토어는 사용자분이 직접 등록이 가능하실 경우 업로드티켓 구매 하지 않으셔도 되고, 직접 업로드 해주세요.
+\-플레이스토어는 사용자분이 직접 등록이 가능하실 경우 업로드티켓 구매 하지 않으셔도 되고, 직접 업로드 해주세요.
 
-<mark style="color:red;">\*앱스토어는 대행만 가능하기 때문에 앱스토어 업로드 및 업데이트를 희망하신다면 티켓 구매 후 업로드 신청을 해주세요.</mark>
+<mark style="color:red;">-앱스토어는 대행만 가능하기 때문에 앱스토어 업로드 및 업데이트를 희망하신다면 티켓 구매 후 업로드 신청을 해주세요.</mark>
 
 업로드 신청 방법은 아래 참고해주세요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
 
-\*앱운영 → 버전관리→앱제작이력메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
+\*[앱운영 → 버전관리→앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
 
 신청서 팝업이 뜨며, 신청 양식에 따라 내용을 기재한 뒤 업로드 신청을 해주셔야 스윙투앱으로 업로드 신청건이 전달됩니다.
 
 \*결제한 뒤 꼭 업로드 신청을 해주세요
 
-**☞**[**\[플레이스토어 업로드 신청방법\]**](../../manual/appmanage/version/playstore-upload.md)
+**☞**[**\[플레이스토어 업로드 신청방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)****
 
-**☞**[**\[앱스토어 업로드 신청 방법\]**](../../manual/appmanage/version/appstore-upload.md)
+**☞**[**\[앱스토어 업로드 신청 방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload)****
 
 
 
@@ -436,11 +446,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 각 스토어별 정책은 반드시 확인해주셔야 합니다.
 
-\*스토어 등록정책: [https://wp.swing2app.co.kr/market-policy/](https://wp.swing2app.co.kr/market-policy/)
+{% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 8.애드몹 운영 주의사항 (사용자 확인)**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 9. 애드몹 운영 주의사항 (사용자 확인)**
 
 **1) 애드몹 계정은 한 사람 당 계정 1개만 운영하여 사용할 수 있습니다.**
 
@@ -452,6 +462,8 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **중복계정이 있을 경우 광고가 게시되지 않으며, 중복계정 해지를 요청해도 다시 계정이 복원되기 까지 오랜 시간이 소요될 수 있습니다.**
 
+**계정에는 여러 앱의 광고 아이디를 등록할 수 있습니다.**&#x20;
+
 ****
 
 **2)애드몹 광고는 운영자가 계속 체크해서 관리해야 합니다.**
@@ -460,7 +472,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 해당 내용은 처음에만 하는 것이 아니라 수시로 체크해주셔야 합니다.
 
-미검토광고가 있을 경우 사용자의 폰에서 광고가 뜨지 않기 때문에 운영자가 항상 체크하여 검토광고로 변경해주셔야 합니다.
+미검토광고가 있을 경우 사용자의 폰에서 광고가 뜨지 않기 때문에 운영자가 항상 체크하여 검토광고로 변경해주셔야 합니다.&#x20;
 
 광고관리가 제대로 안 될 경우 광고가 처음에 잘 게시가 되었어도 갑자기 광고가 내려가거나 게시가 중단될 수 있습니다.
 
@@ -506,13 +518,13 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **9.주의사항**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **10. 주의사항**
 
 <mark style="color:blue;">-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​</mark>
 
 <mark style="color:blue;">-애드몹으로 수익을 내기 위해서는 앱설치를 많이 유도하셔야 합니다. ​</mark>
 
-<mark style="color:blue;">-애드몹 운영 앱 중 평균적으로 앱 사용자 수는 5,000명에서 1만명 이상을 보유하고 있습니다. ​</mark>
+<mark style="color:blue;">-애드몹 운영 앱 중 평균적으로 앱 사용자 수는 1만명 이상을 보유하고 있습니다. ​</mark>
 
 1\)**애드몹에 관련된 광고 수익비 , 운영방법, 정책사항 등 애드몹 운영에 관련된 내용은 스윙투앱에서 제공하지 않습니다.**
 
@@ -556,17 +568,19 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 10.환불 안내**
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 11. 환불 안내**
 
-1\) 구매일 3일 이내에 신청시 환불이 가능하나,애드몹 셋팅이 완료되었을 경우 환불이 되지 않습니다.
+1\)사용하지 않은 플러그인 상품은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment\_list) 환불 신청 가능
 
-2\) 환불 요청시 상품 적용 전 가능하며, 불가피한 경우 고객센터로 연락주시기 바랍니다.
+2\)취소 및 환불은 결제 7일 이내 서비스 이력(스토어 출시, 애드몹 셋팅)이 없을 경우 가능하며, 문의게시판 혹은 채팅 상담으로 문의주시기 바랍니다.
 
-3\) 카드 자동환불이 되지 않을 경우 환불금액을 입금해드립니다. 계좌번호, 은행명, 입금주명을 알려주시기 바랍니다.
+3\)결제 후 7일 이후 또는 서비스 이용 중에는 중도 해지 및 이에 따른 환불은 불가합니다.
 
-4\) 스윙 환불정책을 확인해주시기 바랍니다.
+4\)구매일 기준 30일 이후에는 어떤 경우라도 환불이 불가합니다.&#x20;
 
-\[이용정책-환불규정 확인하기] [https://wp.swing2app.co.kr/help/user-protocol/](https://wp.swing2app.co.kr/help/user-protocol/)
+5\)구매한 상품은 다른 앱으로 옮겨 적용할 수 없습니다.
+
+\[이용정책-환불규정 확인하기] [https://documentation.swing2app.co.kr/user-protocol](https://documentation.swing2app.co.kr/user-protocol)
 
 \[제2장 서비스의 이용] 제 10조 (이용권 및 상품 환불에 대한 규정)
 
