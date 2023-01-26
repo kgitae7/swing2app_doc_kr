@@ -1,8 +1,10 @@
 ---
-description: 2023년 1월 4주차 스윙투앱 기능 업데이트
+description: 2023년 1월 3주차 스윙투앱 기능 업데이트
 ---
 
 # 스윙투앱 업데이트
+
+
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
