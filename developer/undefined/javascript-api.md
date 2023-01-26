@@ -56,7 +56,7 @@ swingWebViewPlugin.app.navigateToHome()
 
 
 
-## 어플리케이션 관련 함수
+## 어플리케이션 관련 Method
 
 * ### 플랫폼 정보 가져오기
 
@@ -225,3 +225,54 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('app');
 ```javascript
 swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 ```
+
+##
+
+## 애드몹 관련 Method
+
+{% hint style="info" %}
+반드시 애드몹이 활성된 앱의 경우만 동작하는 명령어 입니다.
+{% endhint %}
+
+* ### 배너광고 노출하기
+
+어플리케이션내에 애드몹 배너 광고를 노출시키는 명령
+
+| Parameter | 설명             | 값 예시                                   |
+| --------- | -------------- | -------------------------------------- |
+| adId      | 배너광고 단위 아이디 입력 | ca-app-pub-3940256099942544/6300978111 |
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.admob.showBanner('ca-app-pub-3940256099942544/6300978111');
+```
+{% endcode %}
+
+* ### 배너광고  종료하기
+
+어플리케이션내에 애드몹 배너 광고를 종료시키는 명령
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.admob.closeBanner();
+```
+{% endcode %}
+
+* ### 전면광고 노출하기
+
+어플리케이션내에 애드몹 전면 광고를 노출시키는 명령
+
+| Parameter | 설명             | 값 예시                                   |
+| --------- | -------------- | -------------------------------------- |
+| adId      | 전면광고 단위 아이디 입력 | ca-app-pub-3940256099942544/6300978111 |
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.admob.showInterstitialAd('ca-app-pub-3940256099942544/6300978111');
+```
+{% endcode %}
+
+
+
+
+
