@@ -30,7 +30,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**쇼핑몰 메인 페이지 – 앱 홈화면에 적용하는 방법**
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line">**쇼핑몰 메인 페이지 – 앱 홈화면에 적용하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EB%A9%94%EC%9D%B81.png)
 
@@ -68,7 +68,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**쇼핑몰 정보 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**쇼핑몰 정보 페이지 – 앱 홈화면에 적용하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EC%A0%95%EB%B3%B41.png)
 
@@ -118,7 +118,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**웹 템플릿 페이지-스윙샵 상품을 넣어서 제작하는 방법**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**웹 템플릿 페이지-스윙샵 상품을 넣어서 제작하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B48.png)
 
@@ -162,7 +162,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 <mark style="color:red;"></mark>
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**템플릿 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**템플릿 페이지 – 앱 홈화면에 적용하는 방법**
 
 템플릿을 제작했으니, 만든 템플릿을 앱에 적용해야 하겠죠?
 
@@ -218,7 +218,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**이미지 페이지-스윙샵 상품을 넣어서 제작하는 방법**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**이미지 페이지-스윙샵 상품을 넣어서 제작하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B411.png)
 
@@ -248,7 +248,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**이미지 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**이미지 페이지 – 앱 홈화면에 적용하는 방법**
 
 이미지 페이지를 제작했으니, 만든 페이지를 앱에 적용해야 하겠죠?
 

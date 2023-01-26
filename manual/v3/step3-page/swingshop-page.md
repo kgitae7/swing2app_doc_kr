@@ -76,7 +76,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%94%EC%82%B4%ED%91%9C.png)
 
-#### ****<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**&#x20;
+#### ****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%87%BC%ED%95%91%EB%AA%B0-%EB%A9%94%EC%9D%B8.png)
 

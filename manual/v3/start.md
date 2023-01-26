@@ -28,7 +28,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) 방법1. 빠른 앱제작
+### ![](<../../.gitbook/assets/image (2) (1).png>) 방법1. 빠른 앱제작
 
 ![](../../.gitbook/assets/제작마법사1.png)
 
@@ -60,7 +60,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) 방법2. 웹사이트 기반한 웹
+### ![](<../../.gitbook/assets/image (2) (1).png>) 방법2. 웹사이트 기반한 웹
 
 ![](../../.gitbook/assets/제작마법사2.png)
 
@@ -84,7 +84,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) 방법3. 처음부터 시작하기
+### ![](<../../.gitbook/assets/image (2) (1).png>) 방법3. 처음부터 시작하기
 
 ![](../../.gitbook/assets/제작마법사3.png)
 

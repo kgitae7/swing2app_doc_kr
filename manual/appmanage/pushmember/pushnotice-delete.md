@@ -6,7 +6,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**푸시알림이란?**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**푸시알림이란?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%801.png)
 
@@ -26,7 +26,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**푸시 알림 이용방법**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**푸시 알림 이용방법**</mark>
 
 알림창에서 이전에 확인하지 못한 푸시 메시지를 다시 볼 수 있구요.&#x20;
 
@@ -40,7 +40,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 ****
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**중요 안내!**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**중요 안내!**</mark>
 
 푸시 알림 목록에서 알림 전체 삭제, 읽음으로 처리 기능은 **앱에서 회원가입 후 로그을 한 사용자만 이용할 수 있어요!**
 
@@ -48,7 +48,7 @@ description: 푸시 알림 전체 삭제, 읽은 상태로 변경, 개별 삭제
 
 <mark style="color:red;"></mark>
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**푸시알림 이용방법 움짤로 확인하기**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**푸시알림 이용방법 움짤로 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_04\_02\_16\_43\_48\_324.gif)
 

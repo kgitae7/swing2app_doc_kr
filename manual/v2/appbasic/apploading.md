@@ -6,7 +6,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ###
 
-### ![](<../../../.gitbook/assets/image (2).png>) 1. 대기화면 이미지란?
+### ![](<../../../.gitbook/assets/image (2) (1).png>) 1. 대기화면 이미지란?
 
 대기화면은 앱이 실행되기 전 (앱 로딩 시간 동안 보여지는) 잠깐 1\~2초 정도 보여지는 이미지입니다.&#x20;
 
@@ -36,7 +36,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **2. 대기화면 가이드라인**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 대기화면 가이드라인**
 
 대기화면에 들어갈 이미지는 가이드라인을 참고해서 만들어주세요.
 
@@ -67,7 +67,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### &#x20;**** ![](<../../../.gitbook/assets/image (2).png>)**3. 제작방법1–포토샵 실행 **<mark style="color:blue;">****</mark>&#x20;
+### &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)**3. 제작방법1–포토샵 실행 **<mark style="color:blue;">****</mark>&#x20;
 
 **먼저 대기화면 이미지를 제작할 수 있도록 포토샵을 열어서 작업해볼게요!!**
 
@@ -111,7 +111,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **4. 제작방법2-배경색 삭제하기**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **4. 제작방법2-배경색 삭제하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4-%EC%A0%9C%EC%9E%912.png)
 
@@ -121,7 +121,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **5. 제작방법3-배경 이미지 업그레이드하기**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **5. 제작방법3-배경 이미지 업그레이드하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4-%EC%A0%9C%EC%9E%911.png)
 
@@ -153,7 +153,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **6. 앱에 대기화면 이미지 등록하기**&#x20;
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **6. 앱에 대기화면 이미지 등록하기**&#x20;
 
 
 
@@ -171,7 +171,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **7. 앱 실행) 핸드폰에서 대기화면 이미지 확인하기**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **7. 앱 실행) 핸드폰에서 대기화면 이미지 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new4.png)
 
@@ -185,11 +185,11 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) **8. 대기화면 잘못된 예시**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **8. 대기화면 잘못된 예시**
 
 ****
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/91d217c38ad4ecd313e29f23ff870d61.png)
 
@@ -205,7 +205,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1be27db8531d4701dae081e6279e74fa.png)
 

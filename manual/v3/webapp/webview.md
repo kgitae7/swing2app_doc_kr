@@ -52,7 +52,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ****![](<../../../.gitbook/assets/image (2).png>) **Start. 앱제작 마법사 시작하기**
+## ****![](<../../../.gitbook/assets/image (2) (1).png>) **Start. 앱제작 마법사 시작하기**
 
 **​**
 
@@ -138,7 +138,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2).png>) **STEP1 기본정보**
+## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
 
 ![](../../../.gitbook/assets/웹뷰1.png)
 
@@ -188,7 +188,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2).png>) STEP2 디자인&#x20;
+## ****![](<../../../.gitbook/assets/image (2) (1).png>) STEP2 디자인&#x20;
 
 ![](../../../.gitbook/assets/웹뷰2.png)
 
@@ -240,7 +240,7 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## <mark style="color:red;">****</mark>![](<../../../.gitbook/assets/image (2).png>) <mark style="color:red;">****</mark> STEP3 페이지
+## <mark style="color:red;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) <mark style="color:red;">****</mark> STEP3 페이지
 
 ![](../../../.gitbook/assets/웹뷰3.png)
 
@@ -266,7 +266,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2).png>) **STEP4 앱제작하기**
+## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
 
 ![](../../../.gitbook/assets/웹뷰4.png)
 
@@ -324,7 +324,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ​![](<../../../.gitbook/assets/image (2).png>)**STEP5 핸드폰에 앱 다운받아 확인하기**
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP5 핸드폰에 앱 다운받아 확인하기**
 
 \*웹뷰, 푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인할 수 없어요)
 
@@ -372,7 +372,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ​![](<../../../.gitbook/assets/image (2).png>)**STEP6 이용권 및 티켓 구매**
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP6 이용권 및 티켓 구매**
 
 ****
 
@@ -509,7 +509,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ​![](<../../../.gitbook/assets/image (2).png>)**STEP7 스토어 업로드 신청**
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP7 스토어 업로드 신청**
 
 위에서 이용권과 티켓을 모두 구매했다면! 업로드 신청을 해야 스윙투앱으로 업로드 신청서가 접수됩니다.
 
@@ -537,7 +537,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ​![](<../../../.gitbook/assets/image (2).png>)**STEP8 스토어 출시 완료 (심사 후 출시)**
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP8 스토어 출시 완료 (심사 후 출시)**
 
 ****
 
@@ -577,7 +577,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-## ​![](<../../../.gitbook/assets/image (2).png>)**STEP9 주의사항 및 웹뷰앱 제작 Q\&A**
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP9 주의사항 및 웹뷰앱 제작 Q\&A**
 
 <details>
 

@@ -52,7 +52,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 
 
-<mark style="color:orange;">****</mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**교환 및 환불정책 & 이용약관 정책 – 앱 실행화면**</mark>
+<mark style="color:orange;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**교환 및 환불정책 & 이용약관 정책 – 앱 실행화면**</mark>
 
 이용정책이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요\~!!
 
@@ -80,7 +80,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ****
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**앱 실행화면-비회원 권한 설정**</mark>
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**앱 실행화면-비회원 권한 설정**</mark>
 
 비회원 권한설정이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요.
 

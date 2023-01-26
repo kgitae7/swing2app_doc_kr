@@ -62,7 +62,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (2).png>) STEP1. <mark style="color:blue;"></mark> 유료앱 이용기간 만료된 앱 실행화면
+### ![](<../../.gitbook/assets/image (2) (1).png>) STEP1. <mark style="color:blue;"></mark> 유료앱 이용기간 만료된 앱 실행화면
 
 먼저 유료앱 이용기간이 종료된 앱 실행화면을 확인해볼게요!
 
@@ -74,7 +74,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP2. **<mark style="color:blue;">****</mark>** 설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP2. **<mark style="color:blue;">****</mark>** 설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/3.jpg)
 
@@ -82,7 +82,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP3. **<mark style="color:blue;">****</mark>** 앱 제작 다시하기 (앱제작에서 앱 업데이트)**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP3. **<mark style="color:blue;">****</mark>** 앱 제작 다시하기 (앱제작에서 앱 업데이트)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EB%AC%B4%EB%A3%8C%EC%95%B1%EC%A0%84%ED%99%983.png)
 
@@ -104,7 +104,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP4. 앱 다운 받기**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP4. 앱 다운 받기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/4.jpg)
 
@@ -116,7 +116,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP5. 무료앱 전환 완료**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP5. 무료앱 전환 완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/2.jpg)
 

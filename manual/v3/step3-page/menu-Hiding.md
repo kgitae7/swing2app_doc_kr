@@ -36,7 +36,7 @@ description: 앱 메뉴 비활성화 이용방법 - 앱제작V3
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **앱 실행화면 - 메뉴 비활성화 확인하기**
+### ****![](<../../../.gitbook/assets/image (2) (1).png>) **앱 실행화면 - 메뉴 비활성화 확인하기**
 
 ![](../../../.gitbook/assets/메뉴비활성2.png)
 

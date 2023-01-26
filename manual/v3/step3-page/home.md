@@ -36,13 +36,13 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ****
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 실행화면)이미지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 실행화면)이미지 적용된 홈화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80new2.png)
 
 ****
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%85%EB%A1%9C%EB%93%9C.png)
 
@@ -84,7 +84,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 실행화면) 게시판 적용된 홈화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 실행화면) 게시판 적용된 홈화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%902.png)
 
@@ -94,7 +94,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-****<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**
+****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%903-1.png)
 
@@ -122,7 +122,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱운영-게시판 관리 화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱운영-게시판 관리 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%904.png)
 
@@ -134,11 +134,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 실행화면) 이미지 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 실행화면) 이미지 페이지 적용된 홈화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
@@ -170,7 +170,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **이미지 페이지 제작도구 화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **이미지 페이지 제작도구 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
@@ -182,11 +182,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 실행화면) 웹템플릿 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 실행화면) 웹템플릿 페이지 적용된 홈화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF.png)
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF1.png)
 
@@ -218,7 +218,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **템플릿 페이지 제작도구 화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **템플릿 페이지 제작도구 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
 
@@ -230,11 +230,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 실행화면) HTML에디터 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 실행화면) HTML에디터 페이지 적용된 홈화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802.png)
 
@@ -266,7 +266,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **HTML 에디터 페이지 제작도구 화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **HTML 에디터 페이지 제작도구 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
 
@@ -282,11 +282,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ****
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 실행화면) 앱소개 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 실행화면) 앱소개 페이지 적용된 홈화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C1.png)
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C-1.png)
 
@@ -332,7 +332,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 **​**
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **내용 삭제 및 배너 버튼 삭제는 어떻게 하나요?**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **내용 삭제 및 배너 버튼 삭제는 어떻게 하나요?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
 
@@ -340,7 +340,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line">  **앱소개 문구는 수정하고, 저장하면 바로 반영이 안되나요?**
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line">  **앱소개 문구는 수정하고, 저장하면 바로 반영이 안되나요?**
 
 앱소개 타이틀 문구 수정은 최초 1회 수정시 저장 후 \[앱제작 요청] 버튼을 눌러서 새 버전으로 업데이트 받아주셔야 반영됩니다.
 

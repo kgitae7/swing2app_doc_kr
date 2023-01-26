@@ -6,7 +6,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-****<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line">**모바일 웹 등록이란?**
+****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line">**모바일 웹 등록이란?**
 
 모바일 웹 등록은 웹사이트가 없는 분들은 유용하게 사용할 수 있는데요.
 
@@ -18,7 +18,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 ***
 
-****<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line">**모바일 웹등록 이용(신청)방법**
+****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line">**모바일 웹등록 이용(신청)방법**
 
 앱 제작 완료
 

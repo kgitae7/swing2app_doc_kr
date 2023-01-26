@@ -14,7 +14,13 @@ description: 웹사이트의 회원을 스윙투앱 콘솔에 등록하는 작�
 
 아래의 사용자 아이디는 웹에서 사용하는 사용자를 의미합니다.
 
+{% hint style="info" %}
+연동 작업이 어려우실 경우 스윙투앱 고객센터를 통해 연동 작업 요청해주시면
 
+개발팀에서 연동 작업을 도움드릴 수 있습니다.(비용발생)
+
+고객센터 이메일 : help@swing2app.co.kr
+{% endhint %}
 
 ### - 로그인 되었을때 삽입하는 코드
 
@@ -55,7 +61,7 @@ js 파일 삽입 요령
 
 회원 연동을 완료후에 푸시 발송 API를 이용하여 웹사이트 자체적으로 푸시를 발송 하실 수 있습니다.
 
-[\[푸시 발송 API 가이드\]](../../server-side-api/push-api-notification.md)
+[\[푸시 발송 API 가이드\]](../server-side-api/push-api-notification.md)
 
 ###
 

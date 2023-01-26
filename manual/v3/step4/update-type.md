@@ -18,7 +18,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **1**.**소프트 업데이트 & 권장**
+### ****![](<../../../.gitbook/assets/image (2) (1).png>) **1**.**소프트 업데이트 & 권장**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
 
@@ -32,7 +32,7 @@
 
 ****
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **2. 소프트 업데이트 & 필수**
+### ****![](<../../../.gitbook/assets/image (2) (1).png>) **2. 소프트 업데이트 & 필수**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.png)
 
@@ -44,7 +44,7 @@
 
 ****
 
-### ****![](<../../../.gitbook/assets/image (2).png>) 3. **하드 업데이트&권장**
+### ****![](<../../../.gitbook/assets/image (2) (1).png>) 3. **하드 업데이트&권장**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
 

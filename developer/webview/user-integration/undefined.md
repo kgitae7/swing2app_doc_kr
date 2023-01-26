@@ -20,7 +20,7 @@ description: 워드프레스 플러그인을 활용한 웹사이트 회원 연�
 \*워드프레스 버전에 따라 설치 방법은 차이가 있을 수 있습니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>워드프레스 콘솔화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>워드프레스 콘솔화면</p></figcaption></figure>
 
 
 

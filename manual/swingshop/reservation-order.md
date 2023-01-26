@@ -12,7 +12,7 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ****![](<../../.gitbook/assets/image (2).png>) **1. 예약주문관리 페이지**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **1. 예약주문관리 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png)
 
@@ -20,7 +20,7 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2).png>) **2. 예약주문 리스트**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **2. 예약주문 리스트**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC2.png)
 
@@ -38,7 +38,7 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2).png>) **3. 예약 주문 정보 보기**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **3. 예약 주문 정보 보기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC3.png)
 
@@ -50,7 +50,7 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2).png>) **4. 주문 상태 변경**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **4. 주문 상태 변경**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC4.png)
 

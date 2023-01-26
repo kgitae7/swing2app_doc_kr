@@ -10,7 +10,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 
 
-****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_01\_28\_16\_25\_34\_467.gif)
 
@@ -52,7 +52,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 <mark style="color:orange;">****</mark>
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> 움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> 움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_12\_11\_04\_11\_286.gif)
 
@@ -86,7 +86,7 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 
 
-****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **움짤 이미지로 적용방법 확인하기**&#x20;
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **움짤 이미지로 적용방법 확인하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_01\_28\_16\_21\_40\_228.gif)
 

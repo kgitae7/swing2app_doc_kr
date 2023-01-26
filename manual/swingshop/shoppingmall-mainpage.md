@@ -30,7 +30,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP1. 쇼핑몰 메인페이지 적용하기**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP1. 쇼핑몰 메인페이지 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EB%A9%94%EC%9D%B81.png)
 
@@ -90,7 +90,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:orange;">****</mark>** 앱 실행화면**
+<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">****</mark>** 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_19\_16\_31\_07\_548.gif)
 
@@ -148,7 +148,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **이벤트 등록하기**
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **이벤트 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B89.png)
 
@@ -180,7 +180,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](<../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (2).png>) <mark style="color:blue;">****</mark>** STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
+### <mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (2) (1).png>) <mark style="color:blue;">****</mark>** STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_20\_17\_54\_01\_331.gif)
 

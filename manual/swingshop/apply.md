@@ -34,7 +34,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP.1 스윙샵 (스윙쇼핑몰) 신청하기**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP.1 스윙샵 (스윙쇼핑몰) 신청하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B5%EC%8B%A0%EC%B2%AD2\_2020.02.png)
 
@@ -42,7 +42,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2).png>) **STEP.2  스윙샵 신청서 작성**
+### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP.2  스윙샵 신청서 작성**
 
 해당 스윙샵 신청서에 순서대로 내용을 입력하고 신청해주시면 됩니다.
 
@@ -92,7 +92,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) **STEP.3 스윙샵 결제시스템 사용하기**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.3 스윙샵 결제시스템 사용하기**
 
 상품등록을 다했고, 이제 앱에 실제 결제모듈을 연동하고 싶어요!! – 페이앱 가입
 
@@ -112,7 +112,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) **STEP.4 페이앱 가입 진행 및 결제모듈 등록방법**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.4 페이앱 가입 진행 및 결제모듈 등록방법**
 
 \-결제시스템을 이용하게 되면 스윙투앱과 연계된 페이앱 서비스와 계약을 하게 됩니다.
 
@@ -160,7 +160,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) **STEP.5 페이앱 가입 안내사항**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.5 페이앱 가입 안내사항**
 
 1.페이앱(PayApp)은 전자결제서비스 대행사이며, 페이앱 결제 수단을 스윙투앱 앱과 연동하여 결제가 되도록 지원해드리고 있습니다.
 
@@ -186,7 +186,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2).png>) **STEP.6 페이앱 가입 전 확인해주세요.**&#x20;
+### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.6 페이앱 가입 전 확인해주세요.**&#x20;
 
 \-앱스토어, 플레이스토어 결제 정책에 따라 앱에서 실물상품을 제외한 디지털 상품(쿠폰, 권한, 파일등의 무형의 서비스)을 판매할 경우 페이앱을 포함 일반 전자결제시스템(카드결제, 무통장입금)은 적용 불가합니다. (페이앱 가입이 가능해도, 스토어에서 허용하지 않습니다.)
 

@@ -14,7 +14,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ****![](<../../../.gitbook/assets/image (2).png>) **STEP1. 출석체크 등록하기**
+### ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1. 출석체크 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
 
@@ -80,7 +80,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
+### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
 
 출석체크 작성이 완료되면, 앱에 적용해야하겠죠?
 
@@ -110,7 +110,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
+### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
 
 앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 

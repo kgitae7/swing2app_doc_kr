@@ -120,7 +120,7 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**추가 안내: 그룹 만료일 지정 가능**</mark>
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**추가 안내: 그룹 만료일 지정 가능**</mark>
 
 그룹을 지정하면 해당 사용자의 그룹 만료일을 설정할 수 있어요!!
 

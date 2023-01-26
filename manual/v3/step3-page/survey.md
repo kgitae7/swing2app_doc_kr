@@ -190,7 +190,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2).png>) 5.이용방법 총정리
+### ![](<../../../.gitbook/assets/image (2) (1).png>) 5.이용방법 총정리
 
 
 

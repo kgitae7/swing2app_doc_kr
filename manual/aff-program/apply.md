@@ -4,7 +4,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 # 제휴프로그램 신청방법
 
-****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **제휴프로그램이란?**
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴프로그램이란?**
 
 스윙투앱을 사용자들에게 홍보하고, 해당 사용자가 이용료를 결제하면 해당 이용료의 일정 수수료를 수익료(커미션)로 지급받는 프로그램입니다.
 
@@ -12,7 +12,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ****
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
 
 스윙투앱 제휴를 신청하고, 승인을 받으시면 접속할 수 있는 제휴 URL을 발행해드립니다.
 
@@ -128,13 +128,13 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ***
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **** 제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **** 제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
 
 [**제휴프로그램으로 스윙투앱 홍보하기**](promotion.md)
 
 
 
-<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **스윙 제휴프로그램의 장점**
+<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **스윙 제휴프로그램의 장점**
 
 \-지속적인 수익의 보장 & 지급한도 무제한
 
@@ -154,7 +154,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ****
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **제휴프로그램 이용약관**
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴프로그램 이용약관**
 
 1\. 제휴 프로그램 정산 단가표는 6개월 단위로 변경될 수 있습니다.
 
