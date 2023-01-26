@@ -230,6 +230,10 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 
 ## 애드몹 관련 Method
 
+웹사이트에서 직접 앱내의 애드몹 광고를 관리할 수 있는 명령어 입니다.
+
+아래의 내용을 참고하셔서 광고들을 활용해보세요.
+
 {% hint style="info" %}
 반드시 애드몹이 활성된 앱의 경우만 동작하는 명령어 입니다.
 {% endhint %}
