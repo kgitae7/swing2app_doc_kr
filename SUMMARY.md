@@ -1,6 +1,7 @@
 # Table of contents
 
-* [FAQ(자주 묻는 질문)](README.md)
+* [스윙투앱](README.md)
+* [FAQ(자주 묻는 질문)](<README (1) (1).md>)
   * [가장 많이 묻는 질문 FAQ](faq/top.md)
   * [앱제작 FAQ](faq/app-production.md)
   * [앱운영 및 기능 FAQ](faq/appoperation.md)
