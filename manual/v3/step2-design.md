@@ -86,7 +86,7 @@ HEX란에 색상 코드를 입력하거나, 색상 네모 박스를 클릭하여
 
 
 
-#### <mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**메인 디자인 스타일 – 투명 설정**</mark>
+#### <mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**메인 디자인 스타일 – 투명 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%94%94%EC%9E%90%EC%9D%B81.png)
 

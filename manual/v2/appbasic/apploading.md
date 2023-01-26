@@ -189,7 +189,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ****
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/91d217c38ad4ecd313e29f23ff870d61.png)
 
@@ -205,7 +205,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1be27db8531d4701dae081e6279e74fa.png)
 

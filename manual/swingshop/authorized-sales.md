@@ -10,7 +10,7 @@ description: '디지털제품 : 권한변경 상품을 등록 및 이용하는 �
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**디지털 제품 ‘권한 변경’ 이란?**</mark>
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"><mark style="color:blue;">**디지털 제품 ‘권한 변경’ 이란?**</mark>
 
 등급을 부여해서, 앱에서 제공하는 등급을 구매하여 컨텐츠를 열람할 수 있도록 만드는 쇼핑몰 상품 유형이에요.
 
@@ -202,7 +202,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 **​**
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"><mark style="color:blue;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -242,7 +242,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**상품 카테고리 적용하기**
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**상품 카테고리 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%93%B1%EA%B8%89%EA%B6%8C%ED%95%9C.png)
 

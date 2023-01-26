@@ -16,7 +16,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ****
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **쇼핑몰 결제모듈 확인하기**
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **쇼핑몰 결제모듈 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804\_20.04.png)
 
@@ -74,7 +74,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
 
 **1)푸시 알림**
 
@@ -132,7 +132,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 어떻게 무통장 입금 확인 요청 메일을 받을 수 있나요?**</mark>
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 어떻게 무통장 입금 확인 요청 메일을 받을 수 있나요?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8811\_20.04.png)
 
@@ -160,7 +160,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **​**
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**현장결제 화면**</mark>
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**현장결제 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802\_20.04.png)
 
@@ -176,7 +176,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**관리자(앱 운영자)는 쇼핑몰 구매 알림을 어떻게 받을 수 있나요?**</mark>
 
 **1)푸시 알림**
 

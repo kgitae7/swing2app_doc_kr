@@ -4,22 +4,6 @@ description: 2023년 1월 3주차 스윙투앱 기능 업데이트
 
 # 스윙투앱 업데이트
 
-
-
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
-
-**스윙투앱 2023년 1월 4주차 정기 업데이트**
-
-안녕하세요 스윙투앱 입니다.
-
-1월 4주차 스윙투앱 기능 업데이트 내용을 알려드리겠습니다.
-
-
-
-**\[업데이트 내용]**
-
-애드몹 광고 노출 - 지정 권한 설정 기능 신규 출시
-
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **애드몹 광고 노출 지정 권한 기능**

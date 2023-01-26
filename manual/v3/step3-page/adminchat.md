@@ -58,7 +58,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 
 
-#### <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**채팅목록  기능도 추가해주세요!**</mark>
+#### <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:blue;">**채팅목록  기능도 추가해주세요!**</mark>
 
 채팅목록은 채팅한 내역을 확인할 수 있는 메뉴에요.
 
@@ -116,7 +116,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 
 
-#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **채팅목록**&#x20;
+#### <img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **채팅목록**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png)
 

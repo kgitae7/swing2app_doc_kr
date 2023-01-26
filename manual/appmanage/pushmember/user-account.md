@@ -6,13 +6,13 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원 생성하기란?**</mark>
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원 생성하기란?**</mark>
 
 관리자가 일률적으로 회원들의 계정을 만들어서 사용자에게 배포하는 기능입니다.
 
 일반적으로 사용자가 앱에 접속하여 회원가입을 직접 하는 것과 다르게! 회원 생성은 관리자가 아이디를 생성하여 사용자에게 배포하는 점에서 차이가 있습니다.
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**활용 예시​**</mark>
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**활용 예시​**</mark>
 
 \-학교에서 제작한 앱으로 해당 학교의 학생들 모두에게 앱을 배포해야 할 때 : 학번 혹은 학급 번호로 일률적으로 계정 생성
 
@@ -22,7 +22,7 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 \-그 외 관리자의 재량으로 특정 아이디를 생성해야 할 때 사용할 수 있습니다.
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원 생성 주의사항**</mark>
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원 생성 주의사항**</mark>
 
 \-회원생성은 일반 아이디, 이메일 아이디만 생성이 가능합니다. <mark style="color:red;">\*전화번호 아이디는 생성이 불가합니다.</mark>&#x20;
 

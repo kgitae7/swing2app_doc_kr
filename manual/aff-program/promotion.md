@@ -6,7 +6,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴 프로그램이란?**
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **제휴 프로그램이란?**
 
 스윙투앱을 사용자들에게 홍보하고, 해당 사용자가 이용료를 결제하면 해당 이용료의 일정 수수료를 수익료(커미션)로 지급받는 프로그램입니다.
 
@@ -14,7 +14,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
+****<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
 
 **스윙투앱 제휴를 신청하고, 승인을 받으시면 접속할 수 있는 제휴 URL을 발행해드립니다.**
 

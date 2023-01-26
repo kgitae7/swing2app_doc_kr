@@ -20,7 +20,7 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 관리자 설정 방법**
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 관리자 설정 방법**
 
 **1. 앱에서 회원가입 먼저 해주세요.**
 
@@ -44,7 +44,7 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 
 <mark style="background-color:blue;">****</mark>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 관리자 설정방법 영상으로 확인하기**
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> **앱 관리자 설정방법 영상으로 확인하기**
 
 {% embed url="https://youtu.be/d7Ox2GPMZKY" %}
 
@@ -66,7 +66,7 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원가입 완료: 사용자 등급**</mark>
+<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원가입 완료: 사용자 등급**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%957\_19.09.png)
 
