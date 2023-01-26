@@ -1,7 +1,6 @@
 # Table of contents
 
-* [스윙투앱 업데이트](README.md)
-* [FAQ(자주 묻는 질문)](<README (1).md>)
+* [FAQ(자주 묻는 질문)](README.md)
   * [가장 많이 묻는 질문 FAQ](faq/top.md)
   * [앱제작 FAQ](faq/app-production.md)
   * [앱운영 및 기능 FAQ](faq/appoperation.md)
@@ -19,6 +18,7 @@
   * [애드몹 FAQ](faq/faq.md)
   * [제휴프로그램 FAQ](faq/affprogram.md)
   * [커스터마이징 관련 FAQ](faq/faq-1.md)
+* [스윙투앱 업데이트](<README (1).md>)
 
 ## 스윙투앱 메뉴얼 <a href="#manual" id="manual"></a>
 
