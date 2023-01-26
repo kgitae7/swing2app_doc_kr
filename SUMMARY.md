@@ -355,7 +355,7 @@
 * [Server Side API 명세서](developer/server-side-api/README.md)
   * [푸시 API를 이용하여 푸시 발송하기](developer/server-side-api/push-api-notification.md)
 * [웹뷰(웹뷰,푸시전용) 개발도구](developer/webview/README.md)
-  * [웹사이트 회원 연동 가이드](developer/webview/undefined.md)
+  * [웹사이트 회원 연동 가이드](developer/webview/user-integration.md)
   * [Javascript 연동 API 문서](developer/webview/javascript-api.md)
 
 ***
