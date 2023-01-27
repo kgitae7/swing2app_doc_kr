@@ -8,6 +8,8 @@ description: 스윙투앱 서비스란?
 
 ## **스윙투앱이란?**
 
+{% embed url="https://youtu.be/bcYf9S-ZSO8?list=PLtxd-vO1RMEhOOyiZMgxEN6al5ME8YsD9" %}
+
 스윙투앱은 사용자가 직접 제작하는 무료앱제작 서비스입니다.
 
 개발비, 구축비가 전혀 없으며, 무료로 제작이 가능합니다.
