@@ -1,12 +1,12 @@
+---
+description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기능 소개
+---
+
 # 애드몹 플러그인 설정이란?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%B11.png)
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**애드몹 플러그인 설정 이용방법**
-
-***
-
-### <mark style="color:blue;">**1. 애드몹 플러그인 설정 이란?**</mark>
+### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 애드몹 플러그인 설정 이란?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%95.png)
 
@@ -16,9 +16,9 @@
 
 이제는 사용자가 직접 광고아이디를 넣고 광고 노출 패턴을 자유롭게 설정하여 사용할 수 있습니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**2. 애드몹 플러그인 설정 기능의 장점!**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 애드몹 플러그인 설정 기능의 장점!
 
 **1)전면 광고를 언제든지 원하는 형태로 노출 시킬 수 있습니다.**
 
@@ -34,9 +34,9 @@
 
 각 앱마다 광고 아이디가 어떻게 들어가 있는지, 노출 패턴은 어떻게 설정되어있는지 애드몹 공식 사이트를 들어가지 않아도 스윙투앱 사이트 내에서 보다 간편하게 확인 가능합니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**3. 애드몹 플러그인 설정 이용방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 애드몹 플러그인 설정 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png)
 
@@ -46,7 +46,7 @@
 
 
 
-<mark style="color:orange;">**1)광고단위 아이디 설정**</mark>
+<mark style="color:blue;">**1)광고단위 아이디 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%841.png)
 
@@ -56,13 +56,11 @@
 
 \-안드로이드, 아이폰 앱 아이디 입력
 
-**애드몹 가입 및 광고단위 만들기, 앱 아이디를 확인하는 방법은 아래 포스팅을 확인해서 만들어주세요.**
+**애드몹 가입 및 광고단위 만들기, 앱 아이디를 확인하는 방법은 아래 매뉴얼을 확인해서 만들어주세요.**
 
-☞[**구글 애드몹 가입 방법 , 광고 단위 아이디 만드는 방법 보러가기**](admob-register.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/admob-register" %}
 
-
-
-<mark style="color:orange;">**2)광고노출 패턴 설정**</mark>
+<mark style="color:blue;">**2)광고노출 패턴 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%842.png)
 
@@ -78,7 +76,11 @@
 
 ​
 
-<mark style="color:purple;">**\*전면광고 노출 설정**</mark>
+<mark style="color:orange;">**\*전면광고 노출 설정**</mark>
+
+<mark style="color:orange;">웹사이트를 연결한 웹앱(웹뷰, 푸시앱)은 전면광고 노출 설정이 불가합니다.</mark>
+
+<mark style="color:orange;">일반 프로토타입으로 제작한 앱에서만 설정 가능합니다.</mark>&#x20;
 
 **1)앱 최초 실행시 광고 노출**
 
@@ -102,14 +104,13 @@
 
 ​
 
-<mark style="color:purple;">**\*배너광고는 전면광고처럼 노출 설정을 할 수 없나요?**</mark>
+<mark style="color:orange;">**\*배너광고는 전면광고처럼 노출 설정을 할 수 없나요?**</mark>
 
 배너 광고는 **앱 화면 하단에 붙박이로 들어가는 광고 형식으로 광고가 없어지지 않고 계속 노출이 됩니다.**
 
 따라서 노출을 설정할 필요가 없습니다.
 
-​
-
+{% hint style="danger" %}
 <mark style="color:red;">**\*중요\***</mark>
 
 전면광고를 설정할 때 주의해주세요!
@@ -125,16 +126,17 @@
 **같이 설정하게 되면 횟수나 노출시간을 길게 설정을 해주세요.**
 
 \*광고 정책 위반으로 광고가 정지될 경우 스윙투앱에서 해결해드리지 않는 점 유념해주세요.
+{% endhint %}
 
-
+<mark style="color:red;">****</mark>
 
 **애드몹 플러그인 설정 광고 셋팅방법은 아래 매뉴얼을 보시면 상세히 확인 가능합니다.**
 
-**☞** [**애드몹 플러그인 광고 셋팅방법 보러가기**](admob-apply.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/admob-apply" %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
+
+<mark style="color:blue;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_16\_43\_781.gif)
 
@@ -150,9 +152,9 @@
 
 이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편하죠 \~!^^
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**4. 안내사항**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4. 안내사항
 
 ​
 
@@ -176,7 +178,7 @@
 
 애드몹 플러그인 설정 화면에서 직접 광고 셋팅을 한 뒤 이용하시면 됩니다.
 
-\*애드몹 광고 적용 후, 앱제작 페이지에서 -\[앱제작 요청]을 눌러서 새 버전으로 업데이트 해주세요.
+\*애드몹 광고 적용 후, 앱제작 페이지에서 - \[앱 업데이트]or\[앱제작하기]을 눌러서 새 버전으로 업데이트 해주세요.
 
 앱 새로 제작해야 광고가 적용되며 광고가 뜬 것을 확인한 뒤 앱스토어, 플레이스토어에 출시할 수 있습니다.
 
@@ -199,3 +201,4 @@
 따라서 적절하게 광고 노출을 배치하여서 정책상 문제가 생기지 않도록 관리해주시기 바랍니다.
 
 \*광고 정책 위반으로 광고가 정지될 경우 스윙투앱에서 해결해드리지 않는 점 유념해주세요.
+
