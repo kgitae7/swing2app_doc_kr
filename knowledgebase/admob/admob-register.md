@@ -6,7 +6,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 **애드몹 가입 방법, 애드몹 광고 단위 아이디를 만드는 방법**
 
-****
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**애드몹이란?**</mark>
 
@@ -64,7 +64,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.1 애드몹 가입하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 애드몹 가입하기**
 
 애드몹 사이트 [https://apps.admob.com/](https://apps.admob.com/)에 접속 가입이 안된 분들은 구글(지메일) 계정으로 가입이 가능합니다.
 
@@ -100,7 +100,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.2 애드몹 시작하기**&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 애드몹 시작하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B928.png)
 
@@ -114,7 +114,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.3 새 앱 설정 - 앱 추가하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 새 앱 설정 - 앱 추가하기**
 
 ****
 
@@ -290,7 +290,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### &#x20;**** ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.4 앱 광고 단위 아이디 만들기 – 배너, 전면**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP4. 앱 광고 단위 아이디 만들기 – 배너, 전면**
 
 
 
@@ -362,7 +362,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP.5 앱 ID복사하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP5. 앱 ID복사하기**
 
 광고 셋팅을 하기 위해서는 앱 아이디도 함께 확인해야 합니다.
 
@@ -388,7 +388,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.6 애드몹 운영하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP6. 애드몹 운영하기**
 
 애드몹 가입 후 광고단위 아이디를 만들었다면 이후에 진행해야 할 내용을 알려드릴게요.
 
