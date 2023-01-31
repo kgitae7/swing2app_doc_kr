@@ -365,3 +365,4 @@
 * [스윙투앱 서비스 이용약관](user-protocol.md)
 * [스토어 이용약관](market-policy.md)
 * [스윙투앱 업데이트 히스토리](update-history.md)
+* [애드몹 광고 - 테스트 아이디 설정](testad.md)
