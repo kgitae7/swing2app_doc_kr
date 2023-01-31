@@ -1,8 +1,10 @@
+---
+description: 구글 애드몹 설정 - 배너 광고 노출 시간 설정하는 방법
+---
+
 # 애드몹 배너광고 노출빈도 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9-%EB%B0%B0%EB%84%88-%EB%85%B8%EC%B6%9C.png)
-
-**애드몹 – 배너광고 노출빈도 시간을 설정하는 방법**
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 구글 애드몹 광고 적용시 – 배너 광고 노출 빈도는 자동 설정되어서 들어가는데요.
 
@@ -14,9 +16,12 @@
 >
 > **-관리자가 원하는 시간으로 맞춤으로 설정하여 이용하시면 됩니다!!**
 
-애드몹 사이트에서 배너광고 빈도 시간을 시간을 수정하는 방법을 알려드릴테니!! 참고해주세요 ^^
+애드몹 사이트에서 배너광고 빈도 시간을 시간을 수정하는 방법을 알려드릴테니!! 참고해주세요.
 
-<mark style="color:red;">**\[안내사항]**</mark>
+
+
+{% hint style="info" %}
+<mark style="color:blue;">**안내사항**</mark>
 
 **\* 구글 애드몹 광고 적용은 자동 설정을 권장드립니다.**
 
@@ -33,18 +38,19 @@
 따라서 노출 빈도시간은 자동 설정을 권장드리구요.
 
 선택사항이기 때문에 설정 시간을 수정한 뒤 다시 자동설정으로 변경하셔도 됩니다.
+{% endhint %}
 
 
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**배너광고 노출빈도 수정화면**</mark>&#x20;
+&#x20;**** <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**배너광고 노출빈도 수정(빠르게 노출)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B5%AC%EA%B8%80%EB%B0%B0%EB%84%88%EB%85%B8%EC%B6%9C%EB%B9%88%EB%8F%84.gif)
 
 위의 이미지처럼 하단의 배너광고 노출시간을 설정할 수 있습니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**1. 구글 애드몹 사이트 접속**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. 구글 애드몹 사이트 접속
 
 기존에 만들어놓은 광고단위 아이디에서 배너 광고 빈도 시간을 수정 해볼게요!
 
@@ -58,9 +64,9 @@
 \
 \*안드로이드, 아이폰 두개 플랫폼에 광고를 적용하신 경우 다 변경하셔야 하기 때문에 순서대로 하나씩 설정해주시면 되요.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**2. 광고 단위**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 2. 광고 단위
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B0%B0%EB%84%88%EB%B9%88%EB%8F%842.png)
 
@@ -70,9 +76,9 @@
 
 광고 단위 페이지에서 \[배너]를 선택해주세요.&#x20;
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-
-### <mark style="color:blue;">**3. 광고 단위 수정**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 광고 단위 수정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B0%B0%EB%84%88%EB%B9%88%EB%8F%843.png)
 
@@ -88,9 +94,9 @@
 
 따라서 빈도 설정을 하기 위해서는 자동 새로고침에서 수정을 해주시면 됩니다!
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**4. 광고 단위 수정 완료**</mark>
+### 4. 광고 단위 수정 완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B0%B0%EB%84%88%EB%B9%88%EB%8F%844.png)
 
@@ -102,9 +108,9 @@
 \
 아이폰 광고도 진행중이라면 안드로이드폰 광고 단위 수정한 방법대로 이어서 아이폰도 동일하게 설정해주시면 됩니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**5. 광고 단위를 새로 등록하는 경우**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 5. 광고 단위를 새로 등록하는 경우
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B0%B0%EB%84%88%EB%B9%88%EB%8F%845.png)
 
@@ -124,24 +130,24 @@
 
 **☞** [**애드몹 플러그인 신청방법**](admob-apply.md)
 
-***
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
-<mark style="color:red;">**★ 안내사항**</mark>
+배너광고는 이렇게 노출 빈도 시간에 따라 광고가 새로운 광고로 변경이 되고 있어요.&#x20;
 
-**배너광고는 이렇게 노출 빈도 시간에 따라 광고가 새로운 광고로 변경이 되고 있어요.**&#x20;
+간혹 앱 페이지나 게시물을 선택하여 이동 할 때마다 배너 광고를 변경해달라는 문의가 있으신데요.
 
-**간혹 앱 페이지나 게시물을 선택하여 이동 할 때마다 배너 광고를 변경해달라는 문의가 있으신데요.**
+해당 방법으로는 광고 설치가 되지 않구요.&#x20;
 
-**해당 방법으로는 광고 설치가 되지 않구요.**&#x20;
+구글에서 제공하는 정책에 위반되는 내용이기 때문에 광고 표시 형식을 수정하실 경우 광고가 삭제되거나 애드몹 계정이 삭제 될 수 있으니 꼭 주의해주세요!!
 
-**구글에서 제공하는 정책에 위반되는 내용이기 때문에 광고 표시 형식을 수정하실 경우 광고가 삭제되거나 애드몹 계정이 삭제 될 수 있으니 꼭 주의해주세요!!**\
-\
+<mark style="color:red;">****</mark>
 
-
-**그리고 위에서 **<mark style="color:red;">**안내드린것처럼 배너광고 노출빈도는 자동 설정(자동 새로고침)- 구글최적화로 설정해놓는것이 가장 좋습니다.**</mark>
+<mark style="color:red;">**안내드린것처럼 배너광고 노출빈도는 자동 설정(자동 새로고침)- 구글최적화로 설정해놓는것이 가장 좋습니다.**</mark>
 
 광고 노출빈도 시간을 안내해드린 것은 앱을 출시한지 얼마 안되신 분들에게는 유용하게 사용하실 수 있으시나,
 
-어느 정도 앱 운영이 되고 있는 분이라면 자동 설정(자동새로고침)으로 이용해주시기 바랍니다.
+어느 정도 앱 운영이 되고 있는 분이라면 자동 설정(자동 새로고침)으로 이용해주시기 바랍니다.\
 
-도움이 되셨기를 바래요 ^^
+{% endhint %}
+
