@@ -8,7 +8,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 상품 검색 외에도 등록된 모든 상품을 리스트로 보여주며, 목록&필터 기능을 이용하여 상품을 조회할 수 있습니다.&#x20;
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
 

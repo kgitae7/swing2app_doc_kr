@@ -1,8 +1,10 @@
+---
+description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고 체크하기
+---
+
 # 애드몹 운영 주의사항
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.png)
-
-**애드몹 운영 – 결제정보 추가, 미검토 및 차단 광고 체크하기**
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 애드몹 플러그인을 신청한 후 애드몹 광고 운영방법을 숙지해주셔야 합니다.
 
@@ -16,7 +18,7 @@
 
 
 
-### <mark style="color:blue;">**1. 결제 정보 입력**</mark>
+### ![](<../../.gitbook/assets/image (6).png>) 1. 결제 정보 입력
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B41-1.png)
 
@@ -30,9 +32,9 @@
 
 결제 정보 입력 페이지는 결제 프로필을 추가하게 되는데요.
 
-<mark style="color:orange;">**계정 유형 (개인 or 사업자 선택) 주소, 우편번호 입력, 이름, 전화번호 입력을 완료합니다.**</mark>
+계정 유형 (개인 or 사업자 선택) 주소, 우편번호 입력, 이름, 전화번호 입력을 완료합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B44-1.png)
 
@@ -44,9 +46,9 @@
 
 <mark style="color:red;">따라서 해당 화면에서는 수익을 받을 계좌, 은행 등을 입력하지 않습니다.</mark>
 
-<mark style="color:red;"></mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**2. 차단 관리 – 앱 광고 관리**</mark>
+### ![](<../../.gitbook/assets/image (3).png>) 2. 차단 관리 – 앱 광고 관리
 
 결제 정보 입력이 완료되었다면 광고 게시가 될 수 있도록 \*차단 관리에서 미검토 광고, 차단된 광고가 없는지 확인해주세요.
 
@@ -56,7 +58,7 @@
 
 &#x20;
 
-<mark style="color:orange;">**1) 미검토 광고**</mark>
+<mark style="color:blue;">**1) 미검토 광고**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EC%8B%AC%EC%82%ACnew2.png)
 
@@ -74,9 +76,9 @@
 
 따라서 미검토 광고 메뉴를 탭해서 검토가 안된 광고들이 없는지 수시로 체크해주셔야 합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="color:orange;">**2) 차단됨 광고**</mark>
+
+<mark style="color:blue;">**2) 차단됨 광고**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EC%8B%AC%EC%82%ACnew3.png)
 
@@ -90,7 +92,9 @@
 
 확인하여 검토 한 뒤 차단된 광고는 제거해주셔야 합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%9822.jpg)
+
+
+
 
 애드몹은 광고 단위 아이디를 만든 후 바로 광고가 게시되는 것이 아니라 위의 내용들을 체크해서 진행해주셔야 합니다.
 
@@ -104,7 +108,9 @@
 
 ***
 
-> &#x20;<mark style="color:green;">**애드몹 주의사항 (앱운영자 확인)**</mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 애드몹 주의사항 (앱운영자 확인)
 
 **1) 애드몹 계정은 한 사람 당 계정 1개만 운영하여 사용할 수 있습니다.**
 
@@ -180,13 +186,15 @@
 
 
 
-> <mark style="color:green;">**안내사항**</mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 4. 안내사항
 
 <mark style="color:blue;">**-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​**</mark>
 
 <mark style="color:blue;">**-애드몹으로 수익을 내기 위해서는 앱설치를 많이 유도하셔야 합니다. ​**</mark>
 
-<mark style="color:blue;">**-애드몹 운영 앱 중 평균적으로 앱 사용자 수는 5,000명에서 1만명 이상을 보유하고 있습니다. ​**</mark>
+<mark style="color:blue;">**-애드몹 운영 앱 중 평균적으로 앱 사용자 수는 1만명 이상을 보유하고 있습니다. ​**</mark>
 
 1\)**애드몹에 관련된 광고 수익비 , 운영방법, 정책사항 등 애드몹 운영에 관련된 내용은 스윙투앱에서 제공하지 않습니다.**
 
@@ -201,6 +209,8 @@
 4\)광고는 사용자가 선택할 수 없으며 구글에서 랜덤으로 표시가 됩니다.
 
 5\)광고 셋팅은- 전면광고, 배너 광고로 진행되며, 전면광고는 노출 패턴을 앱 운영자가 직접 설정할 수 있습니다.
+
+\*웹앱(웹뷰, 푸시앱)은 전면광고 노출 패턴 설정 불가
 
 6\)광고 셋팅은 안드로이드+아이폰 통합으로 적용되며, 안드로이드 혹은 아이폰 하나의 플랫폼으로도 적용이 가능합니다.
 
@@ -227,3 +237,5 @@
 <mark style="color:red;">-앱 설치 및 이용이 저조할 경우 앱 광고가 내려갈 수 있으며, 구글에서 광고를 송출을 제재할 수 있습니다. (트래픽 저조 등)</mark>
 
 <mark style="color:red;">-따라서 애드몹 공식 사이트에서 내용을 충분히 숙지해주셔야 합니다.</mark>
+
+<mark style="color:red;"></mark>

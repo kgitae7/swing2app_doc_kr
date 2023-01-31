@@ -12,7 +12,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
+<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%882.png)
 

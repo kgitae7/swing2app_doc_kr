@@ -86,7 +86,7 @@ PDF 보기를 선택하면 컨텐츠 내용을 확인할 수 있습니다.&#x20;
 
 
 
-****<img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
+****<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_28\_03\_49\_47\_21.gif)
 

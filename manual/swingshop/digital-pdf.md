@@ -120,7 +120,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-&#x20;**** <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+&#x20;**** <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 

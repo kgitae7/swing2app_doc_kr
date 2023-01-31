@@ -160,7 +160,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
-****<img src="../../../.gitbook/assets/image (3).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
+****<img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5\_19.09.png)
 
