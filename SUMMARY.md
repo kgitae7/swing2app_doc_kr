@@ -335,6 +335,8 @@
   * [애드몹 플러그인 설정이란?](knowledgebase/admob/admob-pluginsettings.md)
   * [애드몹 가입방법, 광고단위 아이디 만들기](knowledgebase/admob/admob-register.md)
   * [애드몹 플러그인 광고 셋팅](knowledgebase/admob/admob-apply.md)
+  * [애드몹 광고 - 테스트 아이디 설정](knowledgebase/admob/testad.md)
+  * [애드몹 광고 -노출 권한 설정](knowledgebase/admob/exposure-permission.md)
   * [애드몹 배너광고 노출빈도 설정](knowledgebase/admob/애드몹-배너광고-노출빈도-설정.md)
   * [애드몹-스윙투앱 계정 초대하기](knowledgebase/admob/admob-invite.md)
   * [애드몹 운영 주의사항](knowledgebase/admob/admob-operation.md)
@@ -365,4 +367,3 @@
 * [스윙투앱 서비스 이용약관](user-protocol.md)
 * [스토어 이용약관](market-policy.md)
 * [스윙투앱 업데이트 히스토리](update-history.md)
-* [애드몹 광고 - 테스트 아이디 설정](testad.md)
