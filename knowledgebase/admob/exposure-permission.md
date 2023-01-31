@@ -2,7 +2,7 @@
 description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 ---
 
-# 애드몹 광고 -노출 권한 설정
+# 애드몹 - 광고 노출 권한 설정
 
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
