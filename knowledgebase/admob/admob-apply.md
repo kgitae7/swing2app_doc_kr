@@ -90,7 +90,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 플러그인 설정 화면에서 아이디 입력란에 기재된 아이디를 모두 지우고, 공란으로 두고 저장해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-6.png)
+<figure><img src="../../.gitbook/assets/테스트광고1 (1).png" alt=""><figcaption></figcaption></figure>
 
 공란으로 두시면 아래 빨간 메시지로 “테스트용 아이디가 사용중입니다” 라고 표시될 거에요.
 
@@ -100,7 +100,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ****
 
-<mark style="color:orange;">핸드폰 앱 실행) 테스트용 애드몹 광고 화면</mark>
+<mark style="color:blue;">**핸드폰 앱 실행) 테스트용 애드몹 광고 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B4%91%EA%B3%A0.png)
 
@@ -228,7 +228,13 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 
 
-<mark style="color:blue;">**\*전면광고 노출 설정**</mark>
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**전면광고 노출 설정**</mark>
+
+{% hint style="danger" %}
+일반 프로토타입으로 제작한 앱에서만 전면광고 노출을 설정할 수 있습니다.
+
+웹사이트를 연결한 웹앱-웹뷰, 푸시앱은 광고 노출 옵션을 설정할 수 없습니다.&#x20;
+{% endhint %}
 
 1\)앱 최초 실행시 광고 노출
 
@@ -322,7 +328,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 플러그인 설정 화면에서 아이디 입력란에 기재된 아이디를 모두 지우고, 공란으로 두고 저장해주세요.
 
-![](../../.gitbook/assets/캡처22.png)
+<figure><img src="../../.gitbook/assets/테스트광고1 (1).png" alt=""><figcaption></figcaption></figure>
 
 공란으로 두시면 아래 빨간 메시지로 “테스트용 아이디가 사용중입니다” 라고 표시될 거에요.
 
@@ -334,7 +340,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **테스트 광고가 앱에서 잘 뜬다면 광고 셋팅이 잘 된 것이므로 앱을 플레이스토어, 앱스토어에 등록하여 출시해주세요.**
 
-**-테스트 광고 화면**
+****
+
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **테스트 광고 화면**
 
 ![](<../../.gitbook/assets/애드몹테스트광고 (1).png>)
 
@@ -348,7 +356,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
-<mark style="color:blue;">**앱 다운 받는 방법 확인하기**</mark>
+<mark style="color:blue;">****</mark>
+
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 다운 받는 방법 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_12\_44\_788.gif)
 
