@@ -1,6 +1,8 @@
-# 앱스토어 test-flight 앱출시 방법
+---
+description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flight 이용방법
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%95%A0%ED%94%8C-%EC%A0%9C%EB%AA%A91.png)
+# 앱스토어 test-flight 앱출시 방법
 
 앱스토어는 회사 내부용, 직원들만 쓰는 사내 어플에 대해서 공식 출시를 승인하지 않고 있습니다.
 
@@ -10,9 +12,9 @@
 
 <mark style="color:purple;">**이때 가능한 방법은 앱스토어에 공식 출시를 하지 않고 test-flight를 이용하여 추가된 사용자들만 앱을 이용하게끔 배포할 수 있습니다.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-> **test-flight 란?**
+> ## **test-flight 란?**
 
 앱스토어에 앱을 등록하는 과정은 동일합니다.
 
@@ -78,9 +80,9 @@
 
 공식 출시로 배포로 하는 것보다 앱 출시보다는 금방 되며, 거절 없이 거의 대부분은 승인이 되고 있습니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**2. 주의사항**</mark>&#x20;
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 주의사항 <mark style="color:blue;">****</mark>&#x20;
 
 **1)test-flight 앱 출시는 이용기간이 90일입니다.**
 
@@ -108,15 +110,17 @@
 
 **test-flight 관련 문의는 문의메일:help@swing2app.co.kr  남겨주시면 안내 도와드리겠습니다.**&#x20;
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**3. TestFlight 출시 후 앱 설치 방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. TestFlight 출시 후 앱 설치 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B81.png)
 
 **TestFlight 앱 출시가 완료되면 등록된 사용자 애플 아이디로 앱 설치 초대 메일이 발송됩니다.**
 
 메일에서 ** **<mark style="color:blue;">**\[View in TestFlight]**</mark>** ** 버튼을 선택해주세요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B82.png)
 
@@ -125,6 +129,8 @@
 처음 TestFlight를 이용하시는 분들은 이용약관 페이지가 먼저 뜹니다.
 
 **\[수락]** 버튼을 눌러주세요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B83.png)
 
@@ -136,17 +142,17 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 \[설치] 버튼을 눌러서 앱을 설치해주세요.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B85.png)
 
 설치가 완료되었구요.
 
 \[열기] 버튼을 눌러서 앱을 실행할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-
-
-<mark style="color:red;">**\[안내사항]**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4. 안내사항
 
 1\)이미지에서 보듯이 테스트버전앱은 이용기간이 있어요. (90일 제공)&#x20;
 
@@ -171,3 +177,4 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 6\)TestFlight는 애플 개발자 계정이 없어도 스윙투앱 개발자 계정으로 대신 등록해드리기 때문에 별도 애플 개발자 계정비가 들지 않아요.
 
 만약 사용자분의 애플 개발자 계정이 있다면 해당 계정을 알려주셔도 됩니다.&#x20;
+
