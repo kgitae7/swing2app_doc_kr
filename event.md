@@ -2,9 +2,7 @@
 description: 웹뷰앱, 푸시앱 전용 애드몹 광고 플러그인 출시 기념 이벤트
 ---
 
-# 진행 중 이벤트
-
-
+# 이벤트(진행 중)
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
