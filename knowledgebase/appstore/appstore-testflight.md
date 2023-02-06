@@ -4,13 +4,15 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 # 앱스토어 test-flight 앱출시 방법
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 앱스토어는 회사 내부용, 직원들만 쓰는 사내 어플에 대해서 공식 출시를 승인하지 않고 있습니다.
 
 즉, 모든 사용자들이 이용가능한 앱에 대해서만 앱스토어에 출시를 할 수 있어요.
 
 **따라서 회사내에서 직원들만 이용가능한 앱을 만들 경우 앱스토어에 출시가 되지 않아서, 아이폰 사용자들은 이용이 어려울 수 있어요.**
 
-<mark style="color:purple;">**이때 가능한 방법은 앱스토어에 공식 출시를 하지 않고 test-flight를 이용하여 추가된 사용자들만 앱을 이용하게끔 배포할 수 있습니다.**</mark>
+<mark style="color:orange;">이때 가능한 방법은 앱스토어에 공식 출시를 하지 않고 test-flight를 이용하여 추가된 사용자들만 앱을 이용하게끔 배포할 수 있습니다.</mark>
 
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
