@@ -338,6 +338,7 @@
   * [애드몹 - 테스트 아이디 설정](knowledgebase/admob/testad.md)
   * [애드몹 - 광고 노출 권한 설정](knowledgebase/admob/exposure-permission.md)
   * [애드몹 배너광고 노출빈도 설정](knowledgebase/admob/애드몹-배너광고-노출빈도-설정.md)
+  * [애드몹 - app-ads.txt 파일 설정하기](knowledgebase/admob/app-adstxt.md)
   * [애드몹-스윙투앱 계정 초대하기](knowledgebase/admob/admob-invite.md)
   * [애드몹 운영 주의사항](knowledgebase/admob/admob-operation.md)
   * [애드몹 플러그인 광고 셋팅 주의사항](knowledgebase/admob/admobplugin-check.md)
