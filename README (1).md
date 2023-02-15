@@ -23,6 +23,8 @@ description: 2023년 2월 5주차 스윙투앱 기능 업데이트
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.이전 대화목록 확인 가능**
 
+<figure><img src=".gitbook/assets/이전대화목록.gif" alt=""><figcaption></figcaption></figure>
+
 그룹채팅의 업데이트 기능 중 가장 큰 개선 사항은!&#x20;
 
 채팅방에 접속해 있지 않아도, 다른 사용자들이 나눈 대화목록을 확인할 수 있습니다.&#x20;
