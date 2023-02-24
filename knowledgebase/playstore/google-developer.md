@@ -100,13 +100,31 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ​
 
-### <mark style="color:blue;">**4. 구글 개발자 계정 등록 완료) 구글 플레이 콘솔 접속**</mark>&#x20;
+### <mark style="color:blue;">**4. 구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+
+<figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
+
+이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하는 경우가 대부분인데요.
+
+여기서 종료하지 말고! <mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
+
+콘솔로 이동하여 ‘본인 인증’까지 완료 해주셔야 최종 등록이 완료가 됩니다\~!
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/verify-identity" %}
+
+위의 매뉴얼을 확인하여, 본인 인증까지 완료해주세요.&#x20;
+
+<mark style="color:blue;">****</mark>
+
+### <mark style="color:blue;">**5. 완료 - 구글 플레이 콘솔 접속**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new3.png)
 
 계정 등록이 완료되면, 실제로 앱을 등록할 수 있는 구글 플레이 콘솔 페이지가 열립니다.
 
 <mark style="color:blue;">**\[앱 만들기]**</mark> 파란색 버튼을 선택해서 앱을 플레이스토어에 출시할 수 있어요.
+
+
 
 **​**
 
@@ -123,6 +141,8 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 **gmail 계정이 없거나 개발자용 계정을 새로 만들어야 한다면! 구글 계정 등록 사이트에서 계정을 먼저 만들어주세요.**
 
 \*지메일 계정 만들기: [http://accounts.google.co.kr/](http://accounts.google.co.kr/)
+
+### <mark style="color:blue;">****</mark>
 
 ### <mark style="color:blue;">**1. 계정만들기**</mark>
 
@@ -187,6 +207,22 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3\_20.01.png)
+
+### <mark style="color:blue;">**6. 구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+
+<figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
+
+이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하는 경우가 대부분인데요.
+
+여기서 종료하지 말고! <mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
+
+콘솔로 이동하여 ‘본인 인증’까지 완료 해주셔야 최종 등록이 완료가 됩니다\~!
+
+위의 매뉴얼을 확인하여, 본인 인증까지 완료해주세요
+
+
+
+### <mark style="color:blue;">**7. 완료 - 구글 플레이 콘솔 접속**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new3.png)
 
