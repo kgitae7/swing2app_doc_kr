@@ -142,7 +142,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 \*지메일 계정 만들기: [http://accounts.google.co.kr/](http://accounts.google.co.kr/)
 
-### <mark style="color:blue;">****</mark>
+<mark style="color:blue;">****</mark>
 
 ### <mark style="color:blue;">**1. 계정만들기**</mark>
 

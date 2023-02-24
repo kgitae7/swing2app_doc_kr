@@ -16,6 +16,14 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 매뉴얼을 통해서 구글 개발자 계정 본인 인증을 하는 방법을 확인해주세요.
 
+{% hint style="info" %}
+본인 인증은 구글 개발자 계정 등록시 모든 분들에게 요청되는 정보는 아닙니다.
+
+조직(비즈니스용) 계정이거나 본인 확인이 필요할 때, 계정 최초 등록시 등 본인 인증은 사용자들마다 다릅니다.&#x20;
+
+따라서 계정 등록시 본인 인증이 안뜬다면 모두 완료된 것이며, 바로 앱 등록이 가능합니다.&#x20;
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
