@@ -104,9 +104,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
 
-이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하는 경우가 대부분인데요.
+이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 말구요.&#x20;
 
-여기서 종료하지 말고! <mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
+&#x20;<mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
+
+콘솔에서 본인 인증이 필요한 경우가 있습니다.&#x20;
 
 콘솔로 이동하여 ‘본인 인증’까지 완료 해주셔야 최종 등록이 완료가 됩니다\~!
 
@@ -212,11 +214,15 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
 
-이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하는 경우가 대부분인데요.
+이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 마시구요.&#x20;
 
-여기서 종료하지 말고! <mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
+&#x20;<mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
+
+콘솔에서 본인 인증이 필요한 경우가 있습니다.&#x20;
 
 콘솔로 이동하여 ‘본인 인증’까지 완료 해주셔야 최종 등록이 완료가 됩니다\~!
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/verify-identity" %}
 
 위의 매뉴얼을 확인하여, 본인 인증까지 완료해주세요
 
