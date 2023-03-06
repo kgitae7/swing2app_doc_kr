@@ -55,7 +55,7 @@ description: 2023년 3월 1주차 스윙투앱 기능 업데이트
 
 1\)설문조사를 먼저 만들어주세요.&#x20;
 
-설문조사 만들기 이용방법 매뉴얼 보기&#x20;
+[설문조사 만들기 이용방법 매뉴얼 보기](https://documentation.swing2app.co.kr/manual/appmanage/service/survey)&#x20;
 
 2\)설문조사를 다 등록했다면, 앱제작으로 이동해서 메뉴에 개별 링크로 적용해주세요.&#x20;
 
