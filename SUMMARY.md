@@ -185,7 +185,7 @@
     * [앱 정책관리 - 회원가입 양식](manual/appmanage/service/signup.md)
     * [회원가입 양식 - 아이디 설정](manual/appmanage/service/signup-id.md)
     * [회원가입 양식 - 가입 항목 추가하기](manual/appmanage/service/set-membershipform.md)
-    * [앱 정책관리- 회원가입 완료 메시지 설정방법](manual/appmanage/service/subscription-completion-message.md)
+    * [앱 정책관리- 회원가입 완료 메시지 설정](manual/appmanage/service/subscription-completion-message.md)
     * [앱 이용약관, 개인정보취급방침](manual/appmanage/service/terms-of-app.md)
     * [비공개 앱만들기](manual/appmanage/service/private-app.md)
     * [앱 문자열 관리](manual/appmanage/service/app-text.md)
