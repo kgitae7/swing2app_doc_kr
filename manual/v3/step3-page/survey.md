@@ -216,6 +216,20 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 해당 항목을 선택하면 설문조사지로 이동합니다.
 
+
+
+<mark style="color:blue;">**▶ 설문조사 페이지 적용 화면 VS 설문조사 개별 링크 적용화면 비교**</mark>
+
+<figure><img src="../../../.gitbook/assets/설문조사업데이트2.png" alt=""><figcaption></figcaption></figure>
+
+설문조사 페이지 적용 화면과, 설문조사 개별 링크로 적용한 화면을 확인해주세요.
+
+설문조사 페이지로 적용시 등록된 모든 설문조사가 한 페이지에 모두 활성화되어 보여지구요.
+
+개별 링크 적용시, 연결된 하나의 설문조사만 보여지며 설문이 바로 시작됩니다.
+
+
+
 ![](../../../.gitbook/assets/수평성.PNG)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4.설문조사 결과 확인 & 설문조사 관리**
