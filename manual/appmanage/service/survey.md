@@ -32,7 +32,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP1. 설문조사 만들기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP1.설문조사 만들기
 
 <mark style="color:blue;">****</mark>
 
@@ -198,7 +198,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2. 앱에 설문조사 메뉴 적용하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2.앱에 설문조사 메뉴 적용하기
 
 앱운영에서 설문조사지를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
 
@@ -324,7 +324,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP3. 앱 실행화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP3.앱 실행화면
 
 **앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!**
 
@@ -336,7 +336,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 
 
-**▶ 설문조사 페이지 적용 화면 VS 설문조사 개별 링크 적용화면 비교**
+<mark style="color:blue;">**▶ 설문조사 페이지 적용 화면 VS 설문조사 개별 링크 적용화면 비교**</mark>
 
 <figure><img src="../../../.gitbook/assets/설문조사업데이트2.png" alt=""><figcaption></figcaption></figure>
 
@@ -348,7 +348,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP4. 설문조사 항목 답변하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP4.설문조사 항목 답변하기
 
 <mark style="color:purple;"></mark>
 
@@ -398,7 +398,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP5. 설문조사 결과 확인 & 설문조사 관리
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP5.설문조사 결과 확인 & 설문조사 관리
 
 **설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?**
 
