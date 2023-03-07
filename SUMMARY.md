@@ -290,6 +290,7 @@
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
 * [플레이스토어](knowledgebase/playstore/README.md)
+  * [구글 개발자 - 비즈니스 계정 만들기](knowledgebase/playstore/google-businessdeveloper.md)
   * [구글 개발자-개인 계정 만들기](knowledgebase/playstore/google-developer.md)
   * [구글 개발자 계정 본인 인증](knowledgebase/playstore/verify-identity.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
