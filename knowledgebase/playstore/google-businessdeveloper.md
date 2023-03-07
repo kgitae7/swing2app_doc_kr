@@ -13,7 +13,21 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 구글 비즈니스 개발자 계정을 만드는 방법을 확인해주세요.
 
 {% hint style="info" %}
-<mark style="color:blue;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
+**★구글 개발자 계정이란?**
+
+\-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
+
+\-계정 등록비 : 25달러 (한번 결제시 평생 이용, 한국 원화로 약 33,000\~36,000원 비용)
+
+**\*구글 플레이 개발자 콘솔 사이트** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
+
+\*일반 지메일 계정이 있다고 해서, 해당 계정이 구글 개발자 계정이 되는 것이 절대 아니에요.!
+
+구글 콘솔에서 25달러 등록수수료를 결제한 계정이 개발자 계정이 됩니다\~!
+{% endhint %}
+
+{% hint style="warning" %}
+<mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
 
 <mark style="color:blue;">****</mark>
 
