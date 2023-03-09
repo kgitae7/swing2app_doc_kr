@@ -30,7 +30,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 앱 회원가입 진행
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 앱 회원가입 진행
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83\_20.07.png)
 
@@ -44,7 +44,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 관리자 그룹변경
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 관리자 그룹변경
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -74,11 +74,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 관리자 로그인
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 부관리자 로그인 방법
 
 
 
-<mark style="color:blue;">**1.스윙 홈페이지: 부관리자 로그인**</mark>
+### <mark style="color:blue;">**1.홈페이지 부관리자 로그인**</mark>
 
 먼저 [\[스윙투앱 홈페이지\]](http://www.swing2app.co.kr) 접속하여 부관리자로 로그인해볼게요.
 
@@ -106,25 +106,35 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <mark style="color:red;"></mark>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 아이디란**?
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 아이디는 어디서 확인할 수 있나요?**
+
+앱 아이디는 **앱제작 - 1단계 앱기본정보**에서 입력한 앱 아이디 입니다.&#x20;
+
+
+
+**-앱제작 V3 버전 이용시 확인**
+
+<figure><img src="../../../.gitbook/assets/앱아이디1.png" alt=""><figcaption></figcaption></figure>
+
+**-앱제작 V2 버전 이용시 확인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%95%84%EC%9D%B4%EB%94%94-%ED%99%95%EC%9D%B8NEW.png)
 
-앱 아이디는 앱제작 페이지 1단계 앱기본정보에서 입력한 앱 아이디를 말해요.
-
-따라서 부관리자에게는 관리자가 설정한 앱 아이디를 알려주셔야 로그인이 가능합니다.
+부관리자에게는 관리자가 앱제작에서 정한 **앱 아이디**를 알려주셔야 로그인이 가능합니다.
 
 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%95.png)
 
-부관리자로 지정된 윈디 회원으로 로그인이 된 것을 확인할 수 있습니다.
+로그인 하시면,  부관리자로 지정된 윈디 회원으로 로그인이 된 것을 확인할 수 있습니다.
 
 윈디 부관리자는 이제 관리자가 제작한 앱을 함께 운영할 수 있어요.
 
 
 
-<mark style="color:blue;">**2.앱에서 부관리자로 로그인하기**</mark>&#x20;
+
+
+### <mark style="color:blue;">**2.앱에서 부관리자로 로그인하기**</mark>&#x20;
 
 앱에서 부관리자로 로그인하는 방법을 알려드릴게요!!
 
