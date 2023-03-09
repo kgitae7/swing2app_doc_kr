@@ -272,7 +272,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ### -앱제작 V3버전 이용시
 
-<figure><img src="../../../.gitbook/assets/게시판 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 - STEP3 페이지 선택
 

@@ -246,7 +246,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 **앱제작 V3버전)**
 
-<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/게시판 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 – STEP3 페이지 선택
 

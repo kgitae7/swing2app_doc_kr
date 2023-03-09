@@ -1,24 +1,26 @@
+---
+description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시보드, 앱에서 작성하기
+---
+
 # 게시판 - 게시물 입력방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B1%EC%A0%9C%EB%AA%A9.png)
-
-**게시판 – 게시물을 작성하는 방법**&#x20;
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 게시물 작성은 여러 방법으로 진행할 수 있구요, 아래 3가지 방법으로 작성하는 방법을 알려드릴게요!
 
-**1) 스윙 홈페이지→ 앱운영 페이지 → 게시물관리 메뉴에서 작성**
+**1. 스윙 홈페이지→ 앱운영 페이지 → 게시물관리 메뉴에서 작성**
 
-**2) 제작한 앱을 핸드폰에서 실행한 뒤 게시판에서 작성**
+**2. 제작한 앱을 핸드폰에서 실행한 뒤 게시판에서 작성**
 
-**3) 스윙 홈페이지→  앱제작 페이지 → 웹 가상머신에서 작성**
+**3. 스윙 홈페이지→  앱제작 페이지 → 웹 가상머신에서 작성**
 
 아래 매뉴얼을 통해서 게시물 입력방법을 확인해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.1 앱운영에서 게시물 작성하기(웹 대시보드에서 작성)**</mark>
+## STEP1. 앱운영에서 게시물 작성하기(웹 대시보드에서 작성)
 
-* **스윙 앱운영페이지 → 게시물관리**
+* **앱운영페이지 → 게시물관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%85%EB%A0%A54\_20.02.png)
 
@@ -30,7 +32,7 @@
 
 ****
 
-<mark style="color:orange;">**1. 게시판 선택 후 글 작성하기**</mark>
+### <mark style="color:blue;">**1. 게시판 선택 후 글 작성하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B1\_20.06.png)
 
@@ -50,7 +52,7 @@
 
 <mark style="color:red;"></mark>
 
-<mark style="color:orange;">**2. 간편 에디터(일반 글쓰기)글 작성하기**</mark>** **&#x20;
+### <mark style="color:blue;">**2. 간편 에디터(일반 글쓰기)글 작성하기**</mark>** **&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B11\_20.06.png)
 
@@ -62,7 +64,7 @@
 
 
 
-<mark style="color:orange;">**3. HTML 에디터 글쓰기**</mark>
+### <mark style="color:blue;">**3. HTML 에디터 글쓰기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B12\_20.06.png)
 
@@ -122,7 +124,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 
 
-<mark style="color:orange;">**4.작성한 게시물 목록**</mark>
+### <mark style="color:blue;">**4.작성한 게시물 목록**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%85%EB%A0%A52\_20.02.png)
 
@@ -136,11 +138,11 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
+<mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_18\_14\_56\_29\_409.gif)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면) 작성된 게시물 확인하기**</mark>&#x20;
+### <mark style="color:blue;">**5.앱 실행화면) 작성된 게시물 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_18\_15\_04\_25\_91.gif)
 
@@ -172,7 +174,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 7\)게시판 복사 : 해당 게시판을 다른 게시판으로 복사할 수 있는 기능입니다.
 
-상세 이용방법은 아래 포스팅을 참고해주세요.
+상세 이용방법은 아래 매뉴얼을 참고해주세요.
 
 **☞**[**\[게시판 복사 이용방법 보러가기\]**](board-copy.md)
 
@@ -190,34 +192,34 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 기능들이 보이지 않으면 \[게시판 관리]로 이동하셔서 게시판\[설정] 버튼을 누르고 허용범위 설정을 수정해주시면 됩니다.
 
+{% hint style="info" %}
+게시판 및 기능 설정 창 – \[허용범위] 설정에서 체크해주세요.
 
+영상첨부, 사진첨부, 파일첨부를 선택할 수 있습니다.
 
-> 게시판 및 기능 설정 창 – \[허용범위] 설정에서 체크해주세요.
->
-> 영상첨부, 사진첨부, 파일첨부를 선택할 수 있습니다.
->
-> **-사진 = 사진첨부**
->
-> **-동영상= 영상첨부**
->
-> **-파일, 음악 = 파일첨부 (파일첨부 선택시 파일, 음악 기능이 함께 생성됩니다)**
->
-> **-링크는 고정 기능입니다**.
+**-사진 => 사진첨부**
+
+**-동영상=> 영상첨부**
+
+**-파일, 음악 => 파일첨부 (파일첨부 선택시 파일, 음악 기능이 함께 생성됩니다)**
+
+**-링크는 고정 기능입니다**.
+{% endhint %}
 
 \*댓글, 좋아요, 댓글사진 첨부는 게시물관리에서 이용하는 기능이 아니라 앱 내 댓글창에서 이용하는 기능이에요.
 
 \*게시물 관리에 적용되는 기능은 – 영상첨부, 파일첨부, 사진첨부 이렇게 3가지 기능입니다!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP. 2 앱에서 게시물 작성하기**</mark>
+## STEP2. 앱에서 게시물 작성하기
 
 * **앱운영페이지에서 게시물을 작성하는 방법을 확인했다면, 이번에는 앱에서 글을 작성하는 방법을 알려드릴게요!**
 * **앱스토어, 플레이스토어에 출시한 앱뿐만 아니라 무료버전 앱도 핸드폰으로 설치해도 되고(안드로이드폰 가능) 미리보기로 확인하셔도 됩니다.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_02\_27\_17\_39\_15\_462.gif)
 
-<mark style="color:orange;">**1.앱 실행화면 –  게시물 작성하기**</mark>
+### <mark style="color:blue;">**1.앱 실행화면 –  게시물 작성하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B17.png)
 
@@ -225,25 +227,29 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 해당 버튼을 선택하면 오른쪽 첨부해드린 이미지처럼 글 작성 페이지가 열려요\~!
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B18.png)
 
 본문 글을 작성하고, 하단의 왼쪽 버튼을 선택해서 이미지도 첨부할 수 있습니다.
 
 글 작성이 완료되면, 하단 오른쪽 버튼을 선택하면 저장완료 됩니다.
 
-> <mark style="color:red;">**\*안내사항**</mark>
->
-> <mark style="color:red;">**앱에서 이미지를 첨부할 때는 한 번에 5개의 이미지만 선택이 가능해요.**</mark>&#x20;
->
-> **웹의 앱운영페이지에서는 한 번에 100장을 모두 선택할 수 있지만,  핸드폰의 경우 사진 용량이 매우 커서 앱을 로딩하는 속도가 오래 걸려요.**&#x20;
->
-> **따라서 로딩 속도를 위해서 한번씩 올리는 업로드 갯수에 제한을 두고 있어요.**
->
-> **동일하게 게시물 첨부 이미지는 총 100장까지 첨부할 수 있으니 **<mark style="color:red;">**5장 이상을 첨부해야 할 때는, 이미지 업로드를 5장씩 나눠서 등록해주시기 바랍니다.**</mark>&#x20;
+{% hint style="danger" %}
+<mark style="color:red;">**\*안내사항**</mark>
+
+<mark style="color:red;">앱에서 이미지를 첨부할 때는 한 번에 5개의 이미지만 선택이 가능해요.</mark>&#x20;
+
+웹의 앱운영페이지에서는 한 번에 100장을 모두 선택할 수 있지만,  핸드폰의 경우 사진 용량이 매우 커서 앱을 로딩하는 속도가 오래 걸려요.&#x20;
+
+따라서 로딩 속도를 위해서 한번씩 올리는 업로드 갯수에 제한을 두고 있어요.
+
+동일하게 게시물 첨부 이미지는 총 100장까지 첨부할 수 있으니 <mark style="color:red;">5장 이상을 첨부해야 할 때는, 이미지 업로드를 5장씩 나눠서 등록해주시기 바랍니다.</mark>&#x20;
+{% endhint %}
 
 
 
-<mark style="color:orange;">**2. 게시물 수정, 삭제, 공유 하기**</mark>
+### <mark style="color:blue;">**2. 게시물 수정, 삭제, 공유 하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B19-1.png)
 
@@ -253,9 +259,9 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 공유하기는 해당 게시물을 다른 어플 -카톡, 메일 등으로 공유할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 앱제작 페이지- 가상머신에서 작성하기**</mark>&#x20;
+## <mark style="color:blue;">**STEP3. 앱제작 페이지- 가상머신에서 작성하기**</mark>&#x20;
 
 * **가상머신에서도 게시판에 글을 작성할 수 있어요\~!!**
 
@@ -265,6 +271,8 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 <mark style="color:red;">**\*가상머신은 앱과 동일하기 때문에, 게시물 입력은 앱에서 하는 것과 동일해요.**</mark>
 
+<mark style="color:red;">****</mark>
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%85%EB%A0%A51\_20.02.png)
 
 하단의 글 작성 아이콘을 선택합니다.
@@ -273,7 +281,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
+<mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_28\_15\_52\_35\_766.gif)
 
@@ -286,3 +294,4 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 > **3. 앱제작 페이지 → 웹 가상머신에서 글 작성**
 
 게시판에 게시물을 입력하는 방법은 다양하기 때문에 스윙 사용자분들이 편한 방법으로 게시물을 입력해주시기 바랍니다.
+
