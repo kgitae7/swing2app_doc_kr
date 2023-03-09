@@ -1,6 +1,8 @@
-# 게시판 고급설정 - 게시물 상세 옵션 설정
+---
+description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설정하기
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%83%81%EC%84%B8%EC%98%B5%EC%85%98-%EC%A0%9C%EB%AA%A9.png)
+# 게시판 고급설정 - 게시물 상세 옵션 설정
 
 게시판 기능 중에서 – 게시물 상세 옵션을 설정하는 방법을 알려드립니다.&#x20;
 
@@ -12,15 +14,17 @@
 
 매뉴얼을 통해서 게시물 상세 옵션을 설정하는 방법을 확인해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">▶</mark> <mark style="color:blue;">**게시판- 게시물 상세 옵션 이용방법**</mark>
+&#x20;<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**게시판- 게시물 상세 옵션 이용방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%95%EC%98%B5%EC%85%98NEW1.png)
 
-스윙 앱운영 페이지의  1)서비스관리 → 게시판관리 메뉴로 이동합니다.
+스윙 앱운영 페이지의  [1)서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) 메뉴로 이동합니다.
 
-2\)\[게시판 생성] 버튼을 선택합니다.  \*기존 게시판에서 설정할 경우 \[설정] 버튼 or 게시판을 새로 만들 경우\[게시판 생성] 버튼 선택
+2\)\[게시판 생성] 버튼을 선택합니다.&#x20;
+
+\*기존 게시판에서 설정할 경우 \[설정] 버튼 or 게시판을 새로 만들 경우\[게시판 생성] 버튼 선택
 
 
 
@@ -36,7 +40,7 @@
 
 상세 옵션의 앱 실행화면은 아래 이미지를 참고해주세요 \~!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 게시물 상세 – 등록자 이름 표시 여부**</mark>
 
@@ -170,16 +174,19 @@
 
 
 
+{% hint style="danger" %}
 <mark style="color:red;">**\*안내사항**</mark>
 
-**게시물 상세 설정은 2019년 1월에 업데이트 된 기능이에요.**
+게시물 상세 설정은 2019년 1월에 업데이트 된 기능이에요.
 
-**그래서 혹시, 게시물 상세 설정을 이용하려고 하시는 사용자분들 중 업데이트 이전에 앱을 제작하셨다면!!**
+그래서 혹시, 게시물 상세 설정을 이용하려고 하시는 사용자분들 중 업데이트 이전에 앱을 제작하셨다면!!
 
-**앱 업데이트(앱 재제작) 하신 뒤 이용해주셔야 합니다.**
+앱 업데이트(앱 재제작) 하신 뒤 이용해주셔야 합니다.
+{% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%9D%B4%EB%AF%B8%EC%A7%80-4.png)
 
 앱 업데이트가 안된 사용자들에게는 이렇게 메시지가 기재가 됩니다.
 
 따라서 업데이트 이전에 앱을 제작하신 분들 중 위의 메시지가 보인다면, 앱 재제작을 하신 뒤(소프트업데이트 가능) 기능을 이용해주세요!
+
