@@ -1,14 +1,18 @@
+---
+description: 게시물 예약글 작성하기 [예약 설정 방법]
+---
+
 # 게시판 - 게시물 예약 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%88%EC%95%BD%EC%9E%91%EC%84%B1%EC%A0%9C%EB%AA%A9.png)
-
-**게시물 예약 설정 방법**
+****
 
 게시물 작성시 예약을 설정할 수 있습니다.&#x20;
 
 예약을 걸어놓으면 설정된 날짜와 시간에 맞춰 게시물이 앱에서 노출됩니다. &#x20;
 
 매뉴얼을 통해서 게시물 작성시 예약을 설정하는 방법을 확인해주세요.
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -58,9 +62,12 @@
 
 예약을 설정해놓은 시간이 되면 자동으로 게시판에서 해당 글이 노출됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="color:red;">**\*안내사항**</mark>
+
+{% hint style="success" %}
+<mark style="color:green;">**\*안내사항**</mark>
+
+<mark style="color:green;">****</mark>
 
 &#x20;1\. 예약글 설정은 새 글 등록시에만 설정이 가능합니다.
 
@@ -73,3 +80,6 @@
 예약설정은 정해진 시간 전까지는 글이 비공개 처리되고,  예약 시간이 되면 공개로 전환되기 때문에  해당 기능이 의미가 없습니다.&#x20;
 
 4\. 예약설정 기능은 웹 대시보드- 게시물 관리에서만 이용 가능합니다.
+{% endhint %}
+
+<mark style="color:red;">****</mark>
