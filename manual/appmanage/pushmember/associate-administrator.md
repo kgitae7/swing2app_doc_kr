@@ -2,7 +2,7 @@
 description: 부관리자 지정 방법 및 부관리자 로그인 방법
 ---
 
-# 회원조회 - 부관리자 설정하기
+# 회원조회 - 부관리자 설정 및 로그인 방법
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -120,7 +120,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%95%84%EC%9D%B4%EB%94%94-%ED%99%95%EC%9D%B8NEW.png)
 
-부관리자에게는 관리자가 앱제작에서 정한 **앱 아이디**를 알려주셔야 로그인이 가능합니다.
+부관리자에게는 관리자가 앱제작에서 설정한 **앱 아이디**를 알려주셔야 로그인이 가능합니다.
 
 
 
