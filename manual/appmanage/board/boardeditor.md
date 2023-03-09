@@ -268,11 +268,43 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:blue;">****</mark>
 
-### <mark style="color:blue;">**1. 앱에 게시판 적용하기**</mark>
+### <mark style="color:blue;">1.앱에 게시판 적용하기</mark>&#x20;
+
+### -앱제작 V3버전 이용시
+
+<figure><img src="../../../.gitbook/assets/게시판 (1).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 - STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+<mark style="color:red;">\*게시판은 내가 만들어놓지 않았는데 게시판이 있는 것을 확인할 수 있어요.</mark>&#x20;
+
+<mark style="color:red;">스윙투앱에서 샘플로 기본 제공해드리는 게시판이에요.</mark>&#x20;
+
+<mark style="color:red;">따라서 게시판을 이용하기 전에는 \*앱운영-서비스관리- 게시판관리에서 사용할 게시판만 만들어주시고 사용하지 않는 게시판은 삭제해주세요.</mark>&#x20;
+
+<mark style="color:red;">게시판 운영 정리를 모두 한 뒤 앱에 적용할 게시판을 등록해주세요.</mark>&#x20;
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+<mark style="color:blue;">****</mark>
+
+### -앱제작 V2버전 이용시
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png)
 
-<mark style="color:blue;">**스윙 앱제작 페이지에서 →  페이지 메뉴 로 이동합니다.**</mark>&#x20;
+앱제작 →  페이지 메뉴 로 이동합니다.&#x20;
 
 1\. \[카테고리 추가] 버튼을 선택해서 게시판을 적용할 메뉴를 추가합니다.&#x20;
 
@@ -292,16 +324,6 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 
 
-<mark style="color:orange;">**\* \*게시판을 적용하는 방법을 확인해주세요!**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_22\_17\_08\_53\_532.gif)
-
-만들어놓은 게시판은 이렇게 앱제작 페이지에서 앱 메뉴들로 모두 적용을 해주셔야 앱에도 반영이 됩니다!
-
-잊지 말고, 만든 게시판을 앱에 적용해주세요.
-
-
-
 ### <mark style="color:blue;">**2.게시물 입력 방법**</mark>
 
 게시물 입력방법: 만든 게시판에 게시물 입력은 어떻게 하나요?
@@ -310,7 +332,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 게시물을 입력하는 방법은 아래 매뉴얼을 확인해주세요.&#x20;
 
-**☞**[ **게시물 입력방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/board/post-write)****
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/post-write" %}
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -332,7 +354,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 셋팅된 게시판을 다 삭제하시고 새로 만드셔도 되고 있는 게시판을 수정해서 사용하셔도 됩니다.
 
-**2)게시판 이용시, 이미지를 첨부해주셔야 대표 섬네일 이미지가 설정됩니다.**
+**2)게시판 이용시, 이미지를 첨부해야 대표 섬네일 이미지가 설정됩니다.**
 
 게시판 이용시 게시판 리스트 페이지에 섬네일 이미지가 보이지 않고, 앱 아이콘으로 표시된다고 문의가 있으신데요.
 
