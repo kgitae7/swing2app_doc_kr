@@ -16,11 +16,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## **웹뷰 앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
+## **웹뷰앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
 
 &#x20;
 
-**• 1단계** **: 푸시전용 앱 제작 완료**
+**• 1단계** **: 웹뷰전용 앱 제작 완료**
 
 &#x20; \*앱 제작 방법은 아래 제작 매뉴얼로 확인해주세요.&#x20;
 
@@ -52,7 +52,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **Start. 앱제작 마법사 시작하기**
+## ****![](<../../../.gitbook/assets/image (2) (1).png>) **START. 앱제작 마법사 시작하기**
 
 **​**
 
@@ -472,8 +472,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 &#x20;
 
-**4) 애플, 구글 개발자 계정을 등록해주세요. (스토어 등록 전)**\
-
+<mark style="color:red;">**4) 애플, 구글 개발자 계정을 등록해주세요. (스토어 등록 전)**</mark>
 
 \*스윙투앱에 결제해야 하는 비용 외에 애플 개발자 계정 등록비(1년 129,000원), 구글 개발자 등록비(25달러, 평생이용)는 사용자분께서 직접 만들어서 결제 해주셔야 합니다.
 
@@ -481,7 +480,9 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 \-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
 
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer" %}
 
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer" %}
 
 **or**
 
@@ -519,19 +520,21 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 신청서 팝업이 뜨며, 신청 양식에 따라 내용을 기재한 뒤 업로드 신청을 해주셔야 스윙투앱으로 업로드 신청건이 전달됩니다.
 
-\*결제한 뒤 꼭 업로드 신청을 해주세요
-
-**☞** [**\[플레이스토어 업로드 신청방법\]**](https://wp.swing2app.co.kr/documentation/appmanage/version/playstore-upload/)
-
-**☞** [**\[앱스토어 업로드 신청 방법\]**](https://wp.swing2app.co.kr/documentation/appmanage/version/appstore-upload/)
-
-&#x20;
+<mark style="color:red;">\*결제한 뒤 꼭 업로드 신청을 해주세요.</mark>
 
 이용권 등 모든 상품 구매 후 플레이스토어, 앱스토어 업로드 신청 해주시면 저희가 대행하여 앱을 스토어에 올려드립니다.
 
-각 스토어별 정책은 반드시 확인해주셔야 합니다.
+아래 업로드 신청방법 매뉴얼, 스토어별로 심사가 거절되는 대표 사례 가이드를 확인해주세요.&#x20;
 
-**\***[**스토어 등록정책 보러가기**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)****
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload" %}
+
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload" %}
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/reject" %}
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/reject" %}
+
+{% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
 ****
 
@@ -571,9 +574,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 스토어 정책 내용을 꼭 확인해주셔야 이후 앱 출시 이용시 문제가 없습니다.
 
-**꼭꼭\~! 확인해주세요.☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
-
-****
+{% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
 ![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
