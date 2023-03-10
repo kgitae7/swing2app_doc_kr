@@ -472,21 +472,25 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 &#x20;
 
-<mark style="color:red;">**4) 애플, 구글 개발자 계정을 등록해주세요. (스토어 등록 전)**</mark>
+**4)  애플, 구글 개발자 계정을 등록해주세요. (스토어 등록 전)**
 
-\*스윙투앱에 결제해야 하는 비용 외에 애플 개발자 계정 등록비(1년 129,000원), 구글 개발자 등록비(25달러, 평생이용)는 사용자분께서 직접 만들어서 결제 해주셔야 합니다.
+\*스윙투앱에 결제해야 하는 비용 외에 애플과 구글에 등록하는 개발자 계정이 있으며, 사용자분께서 직접 만들어서 결제 해주셔야 합니다.
 
-\-구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능
+(1)애플 개발자 계정 등록비(1년 129,000원)
 
-\-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
+[\[애플 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
 
-{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer" %}
+(2)구글 개발자 등록비(25달러, 평생이용)
 
-{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer" %}
+[\[구글 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
+
+<mark style="color:red;">-구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능</mark>
+
+<mark style="color:red;">-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택</mark>
+
+
 
 **or**
-
-
 
 ### <mark style="color:blue;">**3.커스텀 패키지 이용 \*앱제작 대행 가능**</mark>
 

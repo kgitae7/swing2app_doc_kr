@@ -540,8 +540,6 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <figure><img src="../../../.gitbook/assets/푸시커스텀.png" alt=""><figcaption></figcaption></figure>
 
-
-
 [스윙투앱 커스텀 패키지 추천 페이지 이동하기](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom)
 
 푸시앱 제작 후, 커스텀 패키지 추천 페이지로 이동하셔서 \[구매하기] 버튼 눌러서 상세 내용 확인 가능합니다.&#x20;
@@ -560,21 +558,17 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 \*결제한 뒤 꼭 업로드 신청을 해주세요
 
-**☞** [**\[플레이스토어 업로드 신청방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)****
+아래 업로드 신청방법 매뉴얼, 스토어별로 심사가 거절되는 대표 사례 가이드를 확인해주세요.&#x20;
 
-**☞** [**\[앱스토어 업로드 신청 방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload)****
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload" %}
 
-&#x20;
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload" %}
 
-이용권 등 모든 상품 구매 후 플레이스토어, 앱스토어 업로드 신청 해주시면 저희가 대행하여 고객님 앱을 스토어에 올려드립니다.
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/reject" %}
 
-각 스토어별 정책은 반드시 확인해주셔야 합니다.
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/reject" %}
 
-[**\[스토어 등록정책 보러가기\]**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=722\&notice\_type=storeNotice)
-
-****[**\[앱스토어 자주 거절되는 심사 사례\]**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)****
-
-****[**\[플레이스토어 자주 거절되는 심사 사례\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/reject)****
+{% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
