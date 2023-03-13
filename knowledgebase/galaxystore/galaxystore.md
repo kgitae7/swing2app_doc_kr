@@ -1,8 +1,10 @@
-# 갤럭시스토어 앱 등록 및 출시하기
+---
+description: 삼성 갤럭시 스토어에 앱을 등록하고 출시하는 방법 매뉴얼
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A7%A4%EB%89%B4%EC%96%BC.png)
+# 갤럭시스토어 앱 등록 및 출시
 
-**삼성 갤럭시 스토어 앱 등록 및 출시하기**
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 갤럭시 스토어는 삼성에서 운영하는 안드로이드폰 전용 앱 스토어입니다.
 
@@ -12,11 +14,11 @@
 
 \-스윙투앱으로 앱을 제작하신 유료버전앱 사용자분들은 플레이스토어에 직접 앱을 등록하여 출시할 수 있습니다.
 
-**(무료버전은 스토어 출시가 불가합니다)**
+**(스윙투앱 무료버전앱은 스토어 출시가 불가한 버전입니다.)**
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**갤럭시 스토어 앱 등록 사이트**
+**갤럭시 스토어 앱 등록 사이트**
 
 [https://seller.samsungapps.com/main/sellerMain.as](https://seller.samsungapps.com/main/sellerMain.as)
 
@@ -24,9 +26,9 @@
 
 회원가입이 완료되면 메인 페이지 오른쪽 상단의 \[신규 앱등록] 버튼을 선택해서 앱등록을 진행합니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 신규앱 등록**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 신규앱 등록
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C1.png)
 
@@ -36,9 +38,9 @@
 
 3.기본 언어(스토어에서 보여지는 언어) 선택 후 다음 버튼 선택
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)<mark style="color:blue;">**STEP.2 앱 정보 등록**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP2. 앱 정보 등록
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C2.png)
 
@@ -80,7 +82,7 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 정보 항목 입력 완료**</mark>
+<mark style="color:orange;">**앱 정보 항목 입력 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C6.png)
 
@@ -90,7 +92,9 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.3 바이너리**</mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 바이너리
 
 **바이너리는 앱(APK파일)을 등록하는 단계입니다.**
 
@@ -128,13 +132,15 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 다운된 APK 파일을 업로드 해주시면 됩니다. \*인터넷 브라우저는 Chrome 으로 이용해주세요.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C8.png)
 
 7\. \[저장] 버튼을 선택하면 바이너리 항목도 등록이 완료됩니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.4 국가/지역&가격**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 국가/지역&가격
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C9.png)
 
@@ -148,27 +154,27 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 3\. 저장 버튼 선택 완료
 
-
-
-<mark style="color:orange;">**\*중요 안내**</mark>
+{% hint style="info" %}
+<mark style="color:blue;">**중요 안내**</mark>
 
 배포 국가는 전체 국가로 자동 설정됩니다.
 
 전체 국가로 출시되어도 괜찮다면 진행하셔도 되지만, **전체국가로 선택할 경우 한국어, 영어 2개 이상의 언어가 제공되어야 합니다.**
 
 갤럭시 스토어 정책상 하나의 언어는 전체 국가 출시가 불가하며 반드시 영어 내용을 함께 제출해야 합니다.
-
-
+{% endhint %}
 
 한국 사용자들에게만 배포한다면, 한국어로만 앱 출시해주세요.
 
 <mark style="color:red;">\*단순: 고급 버튼을 선택해서 배포 국가를 → 대한민국(Korea)만 선택해주세요.</mark>
 
+<mark style="color:red;"></mark>
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C16.png)
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)<mark style="color:blue;">**STEP.5 배포관리**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP5. 배포관리
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C10.png)
 
@@ -182,7 +188,7 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-<mark style="background-color:blue;">▶</mark><mark style="color:orange;">**그외 항목 소개**</mark>
+<mark style="color:orange;">**그외 항목 소개**</mark>
 
 아래 설명해드리는 인앱, 리뷰 카테고리는 입력하지 않아도 됩니다.
 
@@ -194,17 +200,19 @@ In App Purchas 페이지는 앱 내에 인앱 상품이 있을 경우 등록하�
 
 인앱 상품이 없을 경우 입력하지 않아도 됩니다.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C12.png)
 
 리뷰 메뉴는 담당부서에 남길 의견이 있을 경우, 참고해야 하는 문서가 있을 경우 등록하는 페이지입니다.
 
 역시 필수 입력 페이지가 아니므로 넘어가도 됩니다.
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)<mark style="color:blue;">**STEP.6 애플리케이션 제출하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP6. 애플리케이션 제출하기
 
-**위의 4가지 항목 – 앱정보, 바이너리, 국가/지역&가격, 배포관리 항목 입력이 완료되면 앱을 제출할 수 있습니다.**
+**위의 4가지 항목 – 앱 정보, 바이너리, 국가/지역&가격, 배포관리 항목 입력이 완료되면 앱을 제출할 수 있습니다.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C13.png)
 
@@ -214,9 +222,9 @@ In App Purchas 페이지는 앱 내에 인앱 상품이 있을 경우 등록하�
 
 3.애플리케이션 제출 메시지: “예” 체크
 
-***
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)<mark style="color:blue;">**STEP.7 앱 심사→ 등록완료**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP7. 앱 심사→ 등록완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C14.png)
 
@@ -226,11 +234,10 @@ Galaxy Watch, Galaxy Themes 및 특정 카테고리의 앱은 심사에 최대 5
 
 심사 결과는 메일로 전달하며, Seller Portal의 애플리케이션 목록에서도 앱 승인 절차의 현재 상태를 확인할 수 있습니다.
 
+{% hint style="warning" %}
+<mark style="color:orange;">**갤럭시 스토어 앱등록(출시) 안내사항**</mark>
 
-
-<mark style="background-color:blue;">▶</mark><mark style="color:orange;">**갤럭시 스토어 앱등록(출시) 안내사항**</mark>
-
-1\)스윙투앱에서는 갤럭시 스토어 앱 업로드 대행을 해드리지 않기 때문에, 사용자분들이 직접 앱을 등록해야 합니다.
+1\)스윙투앱에서는 갤럭시 스토어 앱 업로드 대행을 해드리지 않기 때문에, 사용자분이 직접 앱을 등록해야 합니다.
 
 2\)갤럭시 스토어 관련 상담이나 출시 대행을 진행해드리지 않습니다.
 
@@ -241,3 +248,8 @@ Galaxy Watch, Galaxy Themes 및 특정 카테고리의 앱은 심사에 최대 5
 (유료이용권을 결제한 유료버전앱만 올릴 수 있어요.)
 
 5\) 안드로이드폰 기반 스토어이기 때문에 아이폰은 이용할 수 없습니다. (아이폰은 앱스토어에만 출시 가능)
+{% endhint %}
+
+<mark style="color:orange;">****</mark>
+
+<mark style="color:orange;">****</mark>
