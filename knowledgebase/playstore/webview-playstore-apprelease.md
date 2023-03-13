@@ -4,7 +4,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 # 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
-****
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 웹앱(웹사이트를 연동한 앱) – 웹뷰, 푸시앱은 플레이스토어 앱 등록시 추가 요청사항이 있습니다.
 
@@ -354,11 +354,27 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="color:purple;">**★ 앱 패키지 네임(이름)은 어디서 확인할 수 있나요?**</mark>
+<mark style="color:orange;">**★ 앱 패키지 네임(이름)은 어디서 확인할 수 있나요?**</mark>
+
+\*앱제작 V3, V2 화면 디자인만 다를 뿐 확인하는 경로는 모두 동일합니다.
+
+
+
+<mark style="color:blue;">**앱제작 V3 버전 이용시)**</mark>
+
+<figure><img src="../../.gitbook/assets/고급설저_v3.png" alt=""><figcaption></figcaption></figure>
+
+**V3 앱제작 화면**
+
+1\)고급설정 → 2)설정: 앱제작 설정 → 3)안드로이드 패키지 아이디 \[EDIT] 버튼 선택→ 4)설정값에서 전체 아이디 확인할 수 있습니다. 해당 아이디를 복사해서 위의 패키지 네임에 붙여넣기 해주세요.
+
+****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%95.png)
 
-**스윙투앱 앱제작  → 고급설정 → 설정: 앱제작 설정 → 안드로이드 패키지 아이디 \[EDIT] 버튼 누르면 설정값에서 전체 아이디 확인할 수 있습니다.**
+**V2 앱제작 화면**
+
+1\)고급설정 → 2)설정: 앱제작 설정 → 3)안드로이드 패키지 아이디 \[EDIT] 버튼 선택→ 4)설정값에서 전체 아이디 확인할 수 있습니다. 해당 아이디를 복사해서 위의 패키지 네임에 붙여넣기 해주세요.
 
 <mark style="color:purple;"><mark style="color:blue;">com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 이름에 붙여넣기 해주세요.<mark style="color:blue;"></mark>
 
@@ -450,9 +466,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 설치 및 활성화를 진행했는데도 2주일 이상 앱이름으로 검색이 잘 되지 않는다면 구글 개발자 고객센터로 문의주시면 도움을 받을 수 있습니다.
 
-\*앱 검색에 어려움이 있으실 경우 구글 개발자 지원팀(고객센터)로 문의 부탁드립니다.
-
-[https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
+\*앱 검색에 어려움이 있으실 경우 [구글 개발자 지원팀(고객센터)](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)로 문의 부탁드립니다.
 
 ★앱 검색이 안되는데 플레이스토어에서 어떻게 앱을 다운 받나요?
 
@@ -474,22 +488,18 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 플레이스토어 업로드 신청방법은 아래 매뉴얼을 참고해주세요.
 
-[https://wp.swing2app.co.kr/documentation/appmanage/version/playstore-upload/](../../manual/appmanage/version/playstore-upload.md)
-
-&#x20;
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload" %}
 
 **★ 플레이스토어 앱 업데이트를 해야 할 경우는 아래 링크를 확인해주세요!**
 
-**☞** [**\[플레이스토어 앱 업데이트 보러가기\]**](../../manual/appmanage/version/playstore-upload.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update" %}
 
-
-
-이상으로 앱제작 스윙투앱에서 구글 플레이스토어에 웹뷰 앱 제출시 함께 등록해야 하는 사전고지 문서 제출방법을 알려드렸어요.
+이상으로 앱제작 스윙투앱에서 구글 플레이스토어에 웹뷰 앱 제출시 함께 등록해야 하는 사전고지 문서 제출방법을 알려드렸습니다.
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-<mark style="color:red;">**— 주의 사항 —**</mark>
+&#x20;<mark style="color:red;">**주의 사항**</mark>&#x20;
 
 <mark style="color:red;">****</mark>
 
