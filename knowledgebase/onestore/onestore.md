@@ -36,7 +36,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 4\) 안드로이드폰 기반 스토어이기 때문에 아이폰은 이용할 수 없습니다. (아이폰은 앱스토어에만 출시 가능)
 {% endhint %}
 
-****
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**원스토어 개발자센터 접속**</mark>
 
@@ -50,7 +50,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 로그인 후 상단 메뉴 ** **<mark style="color:blue;">**\[APPS]**</mark>를 선택합니다.
 
-**​**
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 신규 상품 등록
 
@@ -76,13 +76,29 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/info-2.png) **패키지 아이디 가져오는 방법**
 
+**\*앱제작 V3, V2 화면 디자인만 다를 뿐 확인하는 경로는 모두 동일합니다.**
+
+<mark style="color:blue;">**앱제작 V3 버전 이용시)**</mark>
+
+<figure><img src="../../.gitbook/assets/고급설저_v3.png" alt=""><figcaption></figcaption></figure>
+
+**V3 앱제작 화면**
+
+**1)고급설정 → 2)설정: 앱제작 설정 → 3)안드로이드 패키지 아이디 \[EDIT] 버튼 선택→ 4)설정값에서 전체 아이디 확인할 수 있습니다. 해당 아이디를 복사해서 위의 패키지 네임에 붙여넣기 해주세요.**
+
+com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 원스토어에 입력하는 패키지 네임이 됩니다.
+
+****
+
+<mark style="color:blue;">**앱제작 V2 버전 이용시)**</mark>
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%95.png)
 
-**앱제작 화면→ 고급설정 → 설정: 앱제작 설정 → 안드로이드 패키지 아이디 \[EDIT] 버튼 누르면 설정값에서 전체 아이디 확인할 수 있습니다.**
+**V2 앱제작 화면**
 
-com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 네임에 붙여넣기 해주세요.
+**1)고급설정 → 2)설정: 앱제작 설정 → 3)안드로이드 패키지 아이디 \[EDIT] 버튼 선택→ 4)설정값에서 전체 아이디 확인할 수 있습니다. 해당 아이디를 복사해서 위의 패키지 네임에 붙여넣기 해주세요.**
 
-해당 패키지 아이디가 원스토어에 입력하는 패키지 네임이 됩니다.
+com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 원스토어에 입력하는 패키지 네임이 됩니다.
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
