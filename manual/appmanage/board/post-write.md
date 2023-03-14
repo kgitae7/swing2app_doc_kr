@@ -265,6 +265,12 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 * **가상머신에서도 게시판에 글을 작성할 수 있어요\~!!**
 
+**-앱제작 V3 버전 이용시**
+
+<figure><img src="../../../.gitbook/assets/이미지 9.png" alt=""><figcaption></figcaption></figure>
+
+**-앱제작 V2 버전 이용시**
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B1NEW1.png)
 
 앱제작 페이지에서 게시판을 적용한 뒤, 가상머신에서 게시판으로 이동합니다.
