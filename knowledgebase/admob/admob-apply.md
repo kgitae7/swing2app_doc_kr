@@ -75,7 +75,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **\*그리고!  구글 애드몹 사이트에서 광고 검토를 안했거나, 결제 프로필 미입력 등,,, 입력을 빼먹은 항목이 없는지도 다시 확인해주세요**
 
-**▶** [**애드몹 플러그인 주의사항 확인하기**](https://wp.swing2app.co.kr/knowledgebase/admobplugin-check/)****
+**▶** [**애드몹 플러그인 주의사항 확인하기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admobplugin-check)****
 
 
 {% endhint %}
@@ -212,9 +212,37 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 <mark style="color:orange;"></mark>
 
-<mark style="color:blue;">**2)광고노출 패턴 설정**</mark>
+<mark style="color:blue;">**2)app-ads.txt 등록하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%842.png)
+<figure><img src="../../.gitbook/assets/애드몹광고단위3.png" alt=""><figcaption></figcaption></figure>
+
+**app-ads.txt 파일이란?**
+
+app-ads.txt 파일은 구글 애드몹에서 제공하는 정책으로, 광고 송출에 관련된 보안 시스템입니다.
+
+앱에서 광고를 판매할 수 있는 판매자를 더 효과적으로 관리할 수 있으며, 가짜 인벤토리가 광고주에게 판매되는 것을 방지할 수 있습니다.
+
+
+
+**app-ads.txt 파일 등록은 필수 인가요?​**
+
+권장사항이며, 필수로 설정해야 하는 항목은 아닙니다.&#x20;
+
+app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 있고, 광고 수익을 낼 수 있습니다.
+
+다만, **앱 광고를 운영하면서 보안 및 광고 수익에 영향을 줄 수 있기 때문에 등록하여 사용하는 것을 권장드리고 있습니다.**
+
+스윙투앱에서는 직접 셋팅하여 이용할 수 있도록 쉽고 간단하게 시스템을 구축해놓았습니다.
+
+<mark style="color:blue;">**app-ads.txt  등록 상세 방법은 아래 매뉴얼을 확인해주세요.**</mark>&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/app-adstxt" %}
+
+<mark style="color:blue;">****</mark>
+
+<mark style="color:blue;">**3)광고노출 패턴 설정**</mark>
+
+<figure><img src="../../.gitbook/assets/애드몹광고단위2.png" alt=""><figcaption></figcaption></figure>
 
 전면, 배너 광고 모두 노출 ‘사용’으로 체크해주세요.
 
