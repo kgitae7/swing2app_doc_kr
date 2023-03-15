@@ -2,9 +2,9 @@
 description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는 방법
 ---
 
-# 구글 개발자 - 비즈니스 계정 만들기
+# 구글 개발자-비즈니스 계정 만들기
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 구글 개발자 비즈니스 계정은 조직(회사)에서 만들 수 있는 계정이구요.
 
@@ -55,7 +55,7 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer" %}
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 구글 로그인 이동
 
@@ -139,7 +139,7 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 \[계정 만들기] 선택해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. Play Console 개발자 계정 만들기
 
@@ -255,7 +255,7 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3.결제하기(계정 등록비 결제)
 
@@ -317,7 +317,7 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 **\[Play Console로 이동]** 선택해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.본인 인증
 
@@ -427,4 +427,4 @@ OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니
 
 <mark style="color:red;">****</mark>
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>

@@ -12,7 +12,7 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 
 매뉴얼을 통해서 게시물 작성시 예약을 설정하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -4,7 +4,7 @@ description: 2023년 3월 1주차 스윙투앱 기능 업데이트
 
 # 스윙투앱 업데이트
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿**\[업데이트 내용]**
 
@@ -12,7 +12,7 @@ description: 2023년 3월 1주차 스윙투앱 기능 업데이트
 
 **2.푸시앱 툴바 리스트 메뉴 영문→한국어 변경**
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.설문조사 개별 링크 추가 업데이트**&#x20;
 
@@ -84,7 +84,7 @@ description: 2023년 3월 1주차 스윙투앱 기능 업데이트
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10532097/20233603.png) **2.푸시앱 툴바 리스트 메뉴 영문→한국어 변경**
 
@@ -112,4 +112,4 @@ See more, Share 버튼 → 더보기, 공유 한국어로 버튼명 수정 완�
 
 ****
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>

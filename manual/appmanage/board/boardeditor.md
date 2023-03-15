@@ -4,7 +4,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 # 게시판 만들기
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\*게시판 제작방법**</mark>
 
@@ -34,7 +34,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 {% embed url="https://youtu.be/kLlAkfMZQZ8" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -262,7 +262,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 &#x20;**** [**\[해시태그 이용방법 상세 보기\]**](hashtag-option1.md)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP2.앱에 만들어놓은 게시판 적용하기&#x20;
 
@@ -334,7 +334,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/post-write" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP3.앱 실행화면)게시판 적용 화면
 
@@ -346,7 +346,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 메뉴에 연동한 게시판을 선택하면 \[목록보기] 화면이 보이고 글 제목이나 이미지를 탭하면  → \[글 상세보기]로 이동하는 구조입니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP4.게시판 이용 안내사항
 

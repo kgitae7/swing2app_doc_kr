@@ -4,7 +4,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 # 회원조회 - 부관리자 설정 및 로그인 방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 관리자 외에 다른 회원을 **부관리자로 설정하여 권한을 변경하는 방법**을 알려드릴게요.\
 \
@@ -22,13 +22,13 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 매뉴얼을 통해서 앱 부관리자를 설정하는 방법과 스윙 웹, 앱에서 부관리자로 로그인하는 방법을 알려드릴게요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**부관리자 설정 방법은 영상을 통해서도 확인할 수 있습니다!!**</mark>
 
 {% embed url="https://youtu.be/d7Ox2GPMZKY" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 앱 회원가입 진행
 
@@ -42,7 +42,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 가입된 사용자 계정을 확인하여 아래에서, 해당 사용자를 관리자 그룹으로 변경해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 관리자 그룹변경
 
@@ -72,7 +72,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 저장이 완료되면 앞서 보셨던 사용자 **윈디 회원이 ‘관리자’ 그룹으로 변경** 된 것을 확인할 수 있어요! ****&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 부관리자 로그인 방법
 
@@ -168,7 +168,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 그리고 부관리자 역시 앱에서 운영하는 \[앱관리자 메뉴]를 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **부관리자 설정 및 로그인 방법 정리**

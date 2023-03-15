@@ -4,7 +4,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 # 설문조사
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;**** 설문조사 이용방법은 영상으로도 확인이 가능합니다.
 
@@ -30,7 +30,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **사용자들이 입력한 설문 결과 확인하기**\
 앱운영 페이지 → 서비스관리 →설문관리→참여 인원에서 ‘숫자’ 선택 → ‘사용자’를 선택하면 설문 결과를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP1.설문조사 만들기
 
@@ -196,7 +196,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 설문조사 관리 페이지에 보시면, 등록완료된 설문지를 확인할 수 있습니다\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2.앱에 설문조사 메뉴 적용하기
 
@@ -322,7 +322,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 \-메뉴별 다른 주제의 설문지를 연결해서 사용자들에게 다양한 설문조사지를 받을 때 활용할 수 있어요.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP3.앱 실행화면
 
@@ -346,7 +346,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 개별 링크 적용시, 연결된 하나의 설문조사만 보여지며 설문이 바로 시작됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP4.설문조사 항목 답변하기
 
@@ -396,7 +396,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 이렇게 전송된 설문조사는  앞에 보여드린 설문조사 관리 페이지에서 관리자가 설문 결과를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP5.설문조사 결과 확인 & 설문조사 관리
 

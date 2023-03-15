@@ -12,7 +12,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 매뉴얼을 통해서출석체크 게시물을 등록하고, 이벤트에 참여하는 방법 등 출석체크를 활용하는 방법을 확인해주세요!
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1. 출석체크 등록하기**
 
@@ -78,7 +78,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ****
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
 
@@ -108,7 +108,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ***
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
 

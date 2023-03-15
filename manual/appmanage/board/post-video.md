@@ -4,7 +4,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 # 게시물 동영상 등록하기(영상 등록방법)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 – 게시물 동영상 등록하는 방법**
 
@@ -28,7 +28,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 아래 매뉴얼을 통해서 게시물에 영상 파일을 등록하는 방법, 영상 URL링크를 입력하는 방법을 확인해주세요.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 #### **게시물 관리 이동**
 
@@ -130,7 +130,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Case.2 영상 링크(URL)로 등록하기
 

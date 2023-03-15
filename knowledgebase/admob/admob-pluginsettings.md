@@ -4,7 +4,7 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 # 애드몹 플러그인 설정이란?
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 애드몹 플러그인 설정 이란?
 
@@ -16,7 +16,7 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 이제는 사용자가 직접 광고아이디를 넣고 광고 노출 패턴을 자유롭게 설정하여 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 애드몹 플러그인 설정 기능의 장점!
 
@@ -34,7 +34,7 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 각 앱마다 광고 아이디가 어떻게 들어가 있는지, 노출 패턴은 어떻게 설정되어있는지 애드몹 공식 사이트를 들어가지 않아도 스윙투앱 사이트 내에서 보다 간편하게 확인 가능합니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 애드몹 플러그인 설정 이용방법
 
@@ -152,7 +152,7 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편하죠 \~!^^
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4. 안내사항
 

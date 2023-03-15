@@ -4,7 +4,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 # 플레이스토어 앱 업데이트
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **** STEP1. 새 버전의 AAB파일 업데이트
 
@@ -174,7 +174,7 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 구글에서 받은 거절 메일 확인하셔서 조치사항대로 처리해주셔야 합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP2. 스토어 등록정보 수정하여 업데이트하기
 
@@ -214,7 +214,7 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 심사가 완료되면 업데이트된 버전으로 스토어 정보가 바뀌게 됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP3. 스토어 설정
 
@@ -226,7 +226,7 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 <mark style="color:red;">**\*스토어 설정 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP4. 앱 콘텐츠 수정 <mark style="color:blue;">****</mark>&#x20;
 
@@ -246,7 +246,7 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 <mark style="color:red;">**\*앱 콘텐츠 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP5. 플레이스토어 앱업데이트 안내사항
 

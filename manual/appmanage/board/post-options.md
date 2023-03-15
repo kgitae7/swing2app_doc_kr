@@ -14,7 +14,7 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 
 매뉴얼을 통해서 게시물 상세 옵션을 설정하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**게시판- 게시물 상세 옵션 이용방법**</mark>
 
@@ -40,7 +40,7 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 
 상세 옵션의 앱 실행화면은 아래 이미지를 참고해주세요 \~!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 게시물 상세 – 등록자 이름 표시 여부**</mark>
 

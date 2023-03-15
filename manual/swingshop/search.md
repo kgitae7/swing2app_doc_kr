@@ -12,7 +12,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 상품검색 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
 
@@ -44,7 +44,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 스윙샵에서 상품 등록을 완료한 뒤 상품검색 페이지를 앱에 적용해주시기 바랍니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 상품검색 페이지 앱 실행화면**
 

@@ -4,7 +4,7 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 # 앱 활동 모음
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱운영: 내메뉴 – 앱 활동 모음**&#x20;
 
@@ -22,7 +22,7 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 앱운영- 내메뉴 -앱 활동 모음 이동하여 확인 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 활동 모음: 앱 필터, 활동 필터**
 

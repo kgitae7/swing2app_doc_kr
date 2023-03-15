@@ -4,7 +4,7 @@ description: 애드몹 광고 플러그인 - 테스트용 아이디 설정 방�
 
 # 애드몹 - 테스트 아이디 설정
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿**애드몹 테스트용 아이디 설정이란,**
 
@@ -32,7 +32,7 @@ description: 애드몹 광고 플러그인 - 테스트용 아이디 설정 방�
 
 \*애드몹 플러그인 이용은 - 구글 애드몹 적용 플러그인 상품을 구매한 사용자만 이용이 가능합니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 앱 실행) 테스트용 애드몹 광고 화면
 
@@ -48,7 +48,7 @@ description: 애드몹 광고 플러그인 - 테스트용 아이디 설정 방�
 
 일반적으로 스토어 출시 후 광고가 송출되어, 앱에서 노출이 됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 테스트용 광고 확인이 왜 필요한가요?
 

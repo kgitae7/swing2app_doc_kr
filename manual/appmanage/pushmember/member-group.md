@@ -4,7 +4,7 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 # 권한그룹설정 - 회원 등급
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **권한 그룹을 생성하여 회원에게 등급을 적용하는 방법**
 
@@ -28,7 +28,7 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 그룹 생성하기
 
@@ -84,7 +84,7 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 그룹을 수정하거나, 삭제할 때도 해당 페이지에서 작업해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 사용자에게 그룹 적용하기
 
@@ -138,7 +138,7 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 <mark style="color:red;">\*그룹 만료일은 관리자가 언제든지 변경이 가능합니다.</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면
 
@@ -160,7 +160,7 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 \*관리자는 회원들의 이용실적에 맞게 그룹을 자유롭게 수정할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP4.** 권한 그룹 설정 이용방법 정리
 

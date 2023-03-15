@@ -1,6 +1,6 @@
 # 플레이스토어 구글 개발자계정 초대하기
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **구글 개발자계정 초대란?**
 
@@ -30,7 +30,7 @@
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 구글 플레이 개발자 콘솔 사이트 접속
 
@@ -60,7 +60,7 @@
 
 7\)\[사용자 초대]를 선택하면 완료됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 사용자 초대 완료
 
@@ -78,7 +78,7 @@
 
 <mark style="color:red;">구글 개발자 초대는 사용자의 구글 계정에 접속하지 않고, 사용자분의 구글 플레이 콘솔만 확인하여  앱 등록만 진행하는 용도로 사용됩니다.</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 추후 관리
 

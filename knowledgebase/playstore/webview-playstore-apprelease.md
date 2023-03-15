@@ -4,7 +4,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 # 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 웹앱(웹사이트를 연동한 앱) – 웹뷰, 푸시앱은 플레이스토어 앱 등록시 추가 요청사항이 있습니다.
 
@@ -64,7 +64,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 7\)\[앱 만들기] 버튼 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP.1 대시보드: 앱 설정
 
@@ -78,7 +78,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 >
 > [https://wp.swing2app.co.kr/knowledgebase/playstore-apprelease](playstore-apprelease.md)
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP.2 스토어 설정 단계
 
@@ -172,7 +172,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 ****
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:purple;">****</mark> STEP.3 프로덕션 – 앱 등록하기
 
@@ -260,7 +260,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;"><mark style="color:red;">**\*\*중요\*\***<mark style="color:red;"></mark>
@@ -398,7 +398,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 **해당 메일을 받으시면, 다시 구글 플레이 콘솔로 이동하셔서 최종 앱 제출을 완료해주시면 됩니다.**
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;<mark style="color:blue;"></mark> ![](../../.gitbook/assets/단락1-1.png)STEP.5 프로덕션 앱 최종 출시하기 <mark style="color:blue;">****</mark>&#x20;
 
@@ -438,7 +438,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:blue;"></mark> STEP.6 앱 출시완료 (심사기간 7일 이내)&#x20;
 
@@ -496,7 +496,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 이상으로 앱제작 스윙투앱에서 구글 플레이스토어에 웹뷰 앱 제출시 함께 등록해야 하는 사전고지 문서 제출방법을 알려드렸습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 &#x20;<mark style="color:red;">**주의 사항**</mark>&#x20;

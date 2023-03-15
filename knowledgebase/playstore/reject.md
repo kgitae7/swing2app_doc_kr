@@ -20,7 +20,7 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 아래 본문을 통해 플레이스토어에서 자주 발생되는 심사 사유(사례)를 확인해주세요.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **1.앱 로그인 계정 정보**
 
@@ -205,7 +205,7 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 해당 내용을 다룬 앱이 아니더라도 앱 소개나 설명에 관련 컨텐츠를 기재하는 것 또한 거절될 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **그 외 플레이스토어 심사 정책 내용은 아래 내용으로 참고해주세요.**&#x20;
 

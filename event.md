@@ -4,7 +4,7 @@ description: 웹뷰앱, 푸시앱 전용 애드몹 광고 플러그인 출시 �
 
 # 이벤트(진행 중)
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 웹뷰, 푸시앱에 적용가능한 애드몹 플러그인 출시 기념!!
 

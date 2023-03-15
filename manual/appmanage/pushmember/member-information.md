@@ -4,7 +4,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 # 회원조회 - 회원정보 확인
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ****[**앱운영 페이지 → 푸시&회원 → 회원조회** ](http://www.swing2app.co.kr/view/member\_list)페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
 
@@ -14,7 +14,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 이번 매뉴얼에서는 회원 조회 페이지에서 회원 상세 정보를 확인하는 방법 과 그외 회원정보 메뉴를 이용하는 방법을 알려드리겠습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 회원조회 페이지&#x20;
 
