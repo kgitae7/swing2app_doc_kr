@@ -16,7 +16,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/푸시앱1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **푸시앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
 
@@ -246,7 +246,7 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **** STEP3 페이지
 
@@ -628,7 +628,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ****
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP9 주의사항 및 푸시앱 제작 Q\&A**
 

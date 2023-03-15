@@ -4,7 +4,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 # 웹뷰앱 매뉴얼
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **웹뷰앱이란?**
 
@@ -14,7 +14,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/웹뷰앱홍보이미지1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **웹뷰앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
 

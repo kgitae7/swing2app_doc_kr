@@ -1,10 +1,12 @@
+---
+description: 게시판 작성폼 사용방법 및 활용방법 안내
+---
+
 # 게시판 작성폼 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%9E%91%EC%84%B1%ED%8F%BC%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-**게시판 기능  ‘작성폼’ 이용방법**
-
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**게시판 작성폼이란?**</mark>
+<mark style="color:blue;">**게시판 작성폼이란?**</mark>
 
 관리자가 원하는 질문지를 넣으면 셋팅된 폼 양식으로 제공이 되는 게시판 기능입니다.
 
@@ -18,29 +20,29 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%8F%BC-KR.png)
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**게시판 작성글과는 어떻게 다른가요?**</mark>
+<mark style="color:blue;">**게시판 작성글과는 어떻게 다른가요?**</mark>
 
 작성폼과 비슷한 기능 중에서 게시판 작성글과는 조금 스타일이 다르구요.
 
 작성글은 폼 없이 게시판에 글만 보여지는 스타일입니다.
 
-**☞**[ **게시판 작성글 이용방법은 매뉴얼을 참고해주세요.**](write-bulletin-board.md)
+**☞ 게시판 작성글 이용방법은 매뉴얼을 참고해주세요.**
 
 ***
 
-<mark style="color:purple;">**작성폼은 앱에서 어떻게 보여지나요?**</mark>
+작성폼은 앱에서 어떻게 보여지나요?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4\_20.03.png)
 
-위의 앱 실행화면에서 보시는 것처럼 게시물 작성을 할때 입사지원서처럼 미리 질문 항목들이 기재되어 폼형식으로 제공되구요.
+위의 앱 실행화면에서 보시는 것처럼 게시물 작성을 할때 입사지원서처럼 미리 질문 항목들이 기재되어 폼형식으로 제공되구요
 
 질문에 맞게 사용자는 답변을 입력하여 저장할 수 있습니다.
 
 이미지 첨부 및 캘린더(날짜설정) 등을 활용할 수 있습니다.&#x20;
 
-.
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**1.게시판 작성폼 설정하기**</mark>
+## 1. 게시판 작성폼 설정하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%801\_20.03-1.png)
 
@@ -58,7 +60,7 @@
 
 해당 메뉴들은 게시판 만들기 매뉴얼을 참고하셔서 선택해주시기 바랍니다.
 
-**☞** [**\[게시판 만들기 보러가기\]**](boardeditor.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/boardeditor" %}
 
 
 
@@ -72,11 +74,9 @@
 
 **▶작성글 이용방법은 아래 매뉴얼을 참고해주세요.**
 
-**☞**[ **\[작성글 이용방법 보러가기\]**](write-bulletin-board.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/write-bulletin-board" %}
 
-
-
-> <mark style="color:purple;">**게시판 작성폼 양식 입력하기**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC5\_20.03.png)
 
@@ -110,11 +110,11 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_25\_16\_39\_51\_723.gif)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**작성폼 입력 완료**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC6\_20.03.png)
 
@@ -124,7 +124,37 @@
 
 ****
 
-### <mark style="color:blue;">**2. 앱에 게시판 적용하기**</mark>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+
+## 2. 앱에 게시판 적용하기
+
+
+
+<mark style="color:blue;">**앱제작 V3버전 이용시**</mark>
+
+<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
+
+****
+
+<mark style="color:blue;">**앱제작 V2버전 이용시**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png)
 
@@ -148,13 +178,17 @@
 
 ***
 
-### <mark style="color:blue;">**03. 앱 실행화면: 작성폼 확인하기**</mark>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-**핸드폰 앱 실행화면을 통해서 작성폼이 어떻게 나타나는지 확인해볼게요!!**
+## 3. 앱 실행화면: 작성폼 확인하기
+
+핸드폰 앱 실행화면을 통해서 작성폼이 어떻게 나타나는지 확인해볼게요
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC\_20.07.png)
 
 게시판 목록 화면으로 이동하면 오른쪽 상단 글작성 버튼을 선택해주시구요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4\_20.03.png)
 
@@ -162,26 +196,25 @@
 
 앱 사용자는 해당 작성폼 양식에 맞게 입력이 가능합니다.
 
-<mark style="color:purple;">\*작성폼이 적용된 게시판은 앱에서 해당 폼 스타일이 입혀지며, 앱에서만 폼 형식대로 글 작성이 가능합니다.</mark>
+<mark style="color:orange;">작성폼이 적용된 게시판은 앱에서 해당 폼 스타일이 입혀지며, 앱에서만 폼 형식대로 글 작성이 가능합니다.</mark>
 
-<mark style="color:purple;">앱운영- 게시물관리에서는 폼이 적용되지 않기 때문에 해당 기능은 반드시 앱에서 이용해주시기 바랍니다.</mark>
+<mark style="color:orange;">앱운영- 게시물관리에서는 폼이 적용되지 않기 때문에 해당 기능은 반드시 앱에서 이용해주시기 바랍니다.</mark>
 
-**작성폼은 원하는 스타일대로 적용하여 활용이 가능해요!**
+작성폼은 원하는 스타일대로 적용하여 활용이 가능해요!
 
-**문의게시판처럼 질문을 받을 항목을 구성할 수 있구요. 입사지원서 같은 양식으로도 활용이 가능합니다.**
+문의게시판처럼 질문을 받을 항목을 구성할 수 있구요. 입사지원서 같은 양식으로도 활용이 가능합니다.
 
-****
+<mark style="color:orange;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**등록 완료된 게시판 작성폼 확인하기**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
 
 글 등록이 완료된 후 게시판 작성폼을 확인해볼게요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2\_20.07.png)
 
-각 항목별로 답변이 입력된 것을 확인할 수 있습니다. ^^
+각 항목별로 답변이 입력된 것을 확인할 수 있습니다.&#x20;
 
-
-
+{% hint style="danger" %}
 <mark style="color:red;">**\*주의사항**</mark>
 
 작성폼 글 작성시 게시판에 표시되는 제목은 작성폼의 첫번째 문항 답변이 제목으로 셋팅됩니다.
@@ -190,8 +223,11 @@
 
 날짜가 첫번째 항목이라면 날짜 2020-07-09 이렇게 제목으로 표시됩니다.
 
+<mark style="color:red;">****</mark>
 
-
-<mark style="color:red;">**\*\*이미지 등록, 파일첨부등을 첫번째 항목으로 등록하지 않도록 해주세요.**</mark>
+<mark style="color:red;">**\*이미지 등록, 파일첨부등을 첫번째 항목으로 등록하지 않도록 해주세요.**</mark>
 
 <mark style="color:red;">항목에 입력되는 값이 없기 떄문에 임시 자동 숫자 번호가 제목으로 셋팅이 됩니다.</mark>
+{% endhint %}
+
+<mark style="color:red;">****</mark>

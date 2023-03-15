@@ -4,7 +4,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 # 앱 설치 링크주소로 앱 다운받기
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱 설치 링크 주소 발행, 링크 주소로 앱 다운받기**
 
@@ -16,7 +16,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 스윙투앱에서 앱제작시 앱 설치 파일 뿐만 아니라 링크도 발행받을 수 있구요. 해당 링크를 다양한 곳에서 공유할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱 설치 링크주소 복사하기**
 
@@ -54,7 +54,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 그럼 해당 링크로 어떻게 앱 다운을 할 수 있는지 확인해주세요\~
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 앱 설치 링크로 다운받기**
 

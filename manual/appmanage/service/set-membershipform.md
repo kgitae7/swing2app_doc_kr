@@ -8,7 +8,7 @@
 
 회원가입 양식 설정에서 가입 항목을 추가하는 방법을 아래 매뉴얼을 통해 확인해주세요.
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
 
 \
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **회원가입 양식 설정 – 회원 가입 항목 추가하기**
@@ -67,7 +67,7 @@
 
 일반사용자는 사용하지 않아도 됩니다.
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1. 입력정보 중 ‘전화번호’를 추가하는 방법**
 
@@ -139,7 +139,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)**1.가입 항목 수정하기**
 
@@ -177,7 +177,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 변경 후 \[정책 설정하기] 버튼까지 선택해주셔야 저장됩니다.
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면) 스윙헬스클럽 샘플앱**
 

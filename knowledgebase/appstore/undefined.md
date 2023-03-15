@@ -4,7 +4,7 @@ description: 앱스토어 – 애플 개발자 계정 멤버십 갱신하기
 
 # 애플 개발자 계정 멤버십 연장(갱신)방법
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 앱스토어 애플 개발자 계정 멤버십을 갱신하는 방법을 알려드립니다.&#x20;
 
@@ -26,7 +26,7 @@ description: 앱스토어 – 애플 개발자 계정 멤버십 갱신하기
 \-만료일이 지나,멤버십 결제를 할 경우 앱스토어에서 삭제된 앱은 24시간 후 다시 복구가 됩니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **1. 애플 개발자 멤버십 만료일 메시지 확인**
 
@@ -116,7 +116,7 @@ Apple Developer 사이트에서도 멤버십 이용내역을 확인할 수 있�
 
 애플 멤버십은 이렇게 간단하게 결제만 하여 바로 갱신할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;<mark style="color:blue;">**안내**</mark>

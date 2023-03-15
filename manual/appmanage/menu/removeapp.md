@@ -4,7 +4,7 @@ description: 제작한 앱을 삭제하는 방법을 알려드립니다.
 
 # 앱 제거(삭제)방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) 1.앱 제거 방법
 
@@ -28,7 +28,7 @@ description: 제작한 앱을 삭제하는 방법을 알려드립니다.
 
 \*삭제된 앱은 다시 복원이 되지 않으니 신중히 결정해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) 2.앱 제거 주의사항
 

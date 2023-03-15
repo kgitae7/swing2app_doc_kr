@@ -4,7 +4,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 # 게시판 권한 설정 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**게시판 권한 설정 이용용도?**</mark>
 
@@ -28,7 +28,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 게시판 권한을 설정하는 방법은 아주 간단하오니!! 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP**1. 게시판 권한 이용방법**
 
@@ -146,7 +146,7 @@ V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요. <mark
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 게시판 권한 설정 안내 및 주의사항**
 
@@ -222,7 +222,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 그룹 운영 TIP**
 
@@ -236,7 +236,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B6%8C%ED%95%9C.gif)
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 앱에 게시판 적용하기
 
@@ -262,7 +262,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP5. 앱 실행화면
 

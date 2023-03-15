@@ -4,7 +4,7 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 # 푸시 알림 방식 확인
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱 앱제작 – 일반 프로토타입 앱, 푸시전용 앱제작시 푸시 알림을 발송할 수 있습니다.
 
@@ -16,7 +16,7 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 ​푸시 기능을 이용한다면, 폰으로 푸시가 어떻게 발송이 되는지 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 푸시 알림 설정
 
@@ -68,7 +68,7 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 \-배너 알림(배지 등 추가 옵션 설정)
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 알림 방식별 푸시 알림 화면
 
