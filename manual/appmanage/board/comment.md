@@ -1,14 +1,12 @@
+---
+description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 입력하는 방법
+---
+
 # 게시물 댓글, 대댓글 입력방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%93%EA%B8%80%EB%8C%80%EB%8C%93%EA%B8%80-%EC%84%AC%EB%84%A4%EC%9D%BC.png)
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-**댓글, 대댓글 작성하기**
-
-앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 입력하는 방법을 알려드립니다.
-
-***
-
-<mark style="color:orange;">**\* 가장 먼저 게시판에 댓글 허용을 설정해주셔야 합니다.**</mark>
+<mark style="color:orange;">**가장 먼저 게시판에 댓글 허용을 설정해주셔야 합니다.**</mark>
 
 댓글은 게시판 옵션 기능이기 때문에 관리자가 필요할 경우 ‘댓글허용’에 체크를 하거나 사용하지 않음으로 설정할 수 있어요!
 
@@ -18,7 +16,7 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 게시판에 댓글 허용 설정하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 게시판에 댓글 허용 설정하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC2.png)
 
@@ -36,17 +34,41 @@
 
 6\)저장하기 버튼을 누르면 완료!!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.2 앱에 게시판 적용하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 앱에 게시판 적용하기
 
 만들어놓은 게시판을 앱에 적용해야 앱에서 이용이 가능하겠죠?
 
-앱제작v2에서 메뉴에 게시판을 적용해주세요
+앱제작으로 이동한 뒤, 메뉴에 게시판을 적용해주세요
+
+#### -앱제작 V3버전 이용시
+
+<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 - STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다) <mark style="color:red;"></mark>&#x20;
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+#### -앱제작 V2버전 이용시
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1-2.png)
 
-**스윙 앱제작 페이지에서 →  페이지 메뉴 로 이동합니다.**&#x20;
+앱제작 V2→  페이지 메뉴 로 이동합니다.&#x20;
 
 1\. \[카테고리 추가] 버튼을 선택해서 게시판을 적용할 메뉴를 추가합니다.&#x20;
 
@@ -66,9 +88,11 @@
 
 ***
 
-“앱에 게시판 적용이 완료되었다면, 앱을 실행해서 게시판 에서 댓글, 대댓글을 입력하는 방법을 확인해볼게요”
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.3 앱실행화면) 댓글 입력방법**</mark>
+앱에 게시판 적용이 완료되었다면, 앱을 실행해서 게시판 에서 댓글, 대댓글을 입력하는 방법을 확인해볼게요
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 앱실행화면) 댓글 입력방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%80%EC%9E%85%EB%A0%A5%EB%B0%A9%EB%B2%955.png)
 
@@ -82,15 +106,17 @@
 
 \*\*댓글 작성란 왼쪽에 이미지 파일첨부는 위의 게시판 설정에서 <mark style="color:blue;">​</mark><mark style="color:blue;">**‘댓글사진첨부 허용’**</mark>에 체크해야 이용가능합니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.4 앱 실행화면) 대댓글 입력방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 실행화면) 대댓글 입력방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%80%EC%9E%85%EB%A0%A5%EB%B0%A9%EB%B2%95.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%80%EC%9E%85%EB%A0%A5%EB%B0%A9%EB%B2%952.png)
 
-<mark style="color:orange;">**\*대댓글은 게시물의 댓글에서 작성할 수 있으며, 앱 업데이트 후 이용 가능합니다**</mark>** ** (2019년 5월 17일 이후 제작한 앱은 자동으로 반영)
+\*대댓글은 게시물의 댓글에서 작성할 수 있으며, 앱 업데이트 후 이용 가능합니다
+
+&#x20;**** (2019년 5월 17일 이후 제작한 앱은 자동으로 반영)
 
 1\)대댓글을 남기고자 하는 사용자의 댓글을 확인하구요.
 
@@ -102,7 +128,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**푸시 알림​​**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**푸시 알림**</mark><mark style="color:orange;">**​​**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%805.png)
 
@@ -114,7 +140,7 @@
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**자유로운 댓글, 대댓글 작성**</mark>
+<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**자유로운 댓글, 대댓글 작성**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%804.png)
 
@@ -130,4 +156,7 @@
 
 관리자에게 댓글을 달고, 관리자가 다시 답변을 다는 등의 용도로도 앱제작이 가능합니다.
 
-여러분의 앱제작 용도에 맞게 스윙투앱에서 제공하는 앱제작 기능을 다양하게 활용해주세요 ^^
+여러분의 앱제작 용도에 맞게 스윙투앱에서 제공하는 앱제작 기능을 다양하게 활용해주세요 .
+
+
+
