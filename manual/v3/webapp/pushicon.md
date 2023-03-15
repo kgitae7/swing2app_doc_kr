@@ -4,7 +4,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 # 푸시 아이콘 이미지 등록하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **푸시란? 푸시 아이콘 이미지란?**
 

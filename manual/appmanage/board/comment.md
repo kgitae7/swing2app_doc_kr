@@ -4,7 +4,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 # 게시물 댓글, 대댓글 입력방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**가장 먼저 게시판에 댓글 허용을 설정해주셔야 합니다.**</mark>
 
@@ -34,7 +34,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 6\)저장하기 버튼을 누르면 완료!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 앱에 게시판 적용하기
 
@@ -88,7 +88,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 앱에 게시판 적용이 완료되었다면, 앱을 실행해서 게시판 에서 댓글, 대댓글을 입력하는 방법을 확인해볼게요
 
@@ -106,7 +106,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 \*\*댓글 작성란 왼쪽에 이미지 파일첨부는 위의 게시판 설정에서 <mark style="color:blue;">​</mark><mark style="color:blue;">**‘댓글사진첨부 허용’**</mark>에 체크해야 이용가능합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 실행화면) 대댓글 입력방법
 

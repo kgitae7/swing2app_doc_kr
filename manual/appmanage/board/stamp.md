@@ -4,7 +4,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 # 스탬프 이용 및 등록방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**스윙투앱에서 제공하는 스탬프 란?**</mark>
 
@@ -22,7 +22,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 스탬프 이용방법 매뉴얼을 통해서 스탬프 게시판을 만드는 방법, 앱에 스탬프를 적용하는 방법, 회원들에게 스탬프를 넣어주는 방법, 앱 실행화면까지 모두 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 스탬프 만들기
 
@@ -192,7 +192,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱에 스탬프 적용하기
 
@@ -236,7 +236,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <mark style="color:red;">로그인이 되어야 해당 사용자에게 회원번호 및 QR이 생성됩니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 스탬프 등록하기(스탬프 추가)
 
@@ -324,7 +324,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 [**\[앱관리자메뉴:스탬프 등록방법 매뉴얼 보러가기\]**](../../appoperation/appmanager-stamp.md)
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 스탬프 삭제하는 방법**
 
@@ -340,7 +340,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 \-만약 스탬프를 초기할 경우는 스탬프 전체 수량을 입력하고 삭제하시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱 실행화면
 

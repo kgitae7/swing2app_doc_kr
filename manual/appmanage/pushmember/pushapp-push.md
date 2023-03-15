@@ -4,7 +4,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 # 푸시앱에서 푸시발송하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 푸시버전앱에서 푸시를 보내는 방법과 특이사항을 확인해주세요.
 
@@ -30,7 +30,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 따라서 스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. **푸시전용앱에서 푸시 발송하기**
 
@@ -40,7 +40,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 기본설정
 
@@ -56,7 +56,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 **모두 ‘손님’으로 표시되요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시 보내기
 
@@ -88,7 +88,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 발송하기 버튼을 선택하면 발송 완료됩니다!
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 푸시 발송 화면(안드로이드폰)
 
@@ -120,7 +120,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <mark style="color:red;">****</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP5. 푸시 발송 특이사항(푸시앱)
 
@@ -146,7 +146,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 푸시전용 앱으로 제작해서 사용중이라면, 푸시발송시 해당 내용들을 꼭\~! 체크해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP6. 테스트 발송
 
@@ -172,6 +172,6 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 ****
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ****

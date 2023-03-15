@@ -40,7 +40,7 @@ description: 스윙샵에서 등록한 상품을 수정하는 방법 안내
 앱 종료 후 재실행 하시면 수정한 내용 확인 가능합니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품 복사하기**
 

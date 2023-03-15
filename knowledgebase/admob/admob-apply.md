@@ -108,7 +108,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 스윙투앱 서버 자체에서의 문제는 없는 것이기 때문에 다시 사용자분의 광고 아이디로 변경하여 저장해주시면 됩니다.
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 앱제작 완료**
 
@@ -120,7 +120,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 앱은 나중에도 계속 수정 및 업데이트 가능하기 때문에 광고를 적용해도 계속 수정하여 사용가능합니다.
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 애드몹 플러그인 단품 상품 or 패키지 상품 구매**
 
@@ -160,7 +160,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 \*개별 상품으로 구입하는 것보다 245,000원 할인된 금액으로 제공됩니다.~~825,000~~→ 580,000원
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 애드몹 사이트 가입 및 광고 셋팅에 필요한 아이디 만들기**
 
@@ -188,7 +188,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **위의 광고 아이디 만들기 매뉴얼을 확인하여 위의 3가지 정보를 모두 준비해주세요!**
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 애드몹 플러그인 설정에서 광고 셋팅하기**
 
@@ -312,7 +312,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 <mark style="color:red;">****</mark>
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 앱 업데이트**
 
@@ -342,7 +342,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 <mark style="color:red;">이후 수정을 할 때에는 저장만 하시면 앱에 바로 반영됩니다. (앱 종료 후 재실행하시면 변경된 광고 설정으로 반영됨)</mark>
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 6. 광고 셋팅 앱제작 완료 (앱 테스트)**
 
@@ -446,7 +446,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/admob-operation" %}
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 8. 스토어 등록 진행하기**
 
@@ -486,7 +486,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 {% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 9. 애드몹 운영 주의사항 (사용자 확인)**
 
@@ -554,7 +554,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 <mark style="color:red;">\*애드몹 셋팅 후에는 광고에 대한 관리는 모두 직접 진행해야 하기 때문에 운영에 대한 부분들은 반드시 사용자가 확인하여 체크해주셔야 합니다.</mark>
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **10. 주의사항**
 
@@ -604,7 +604,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 <mark style="color:red;">-따라서 애드몹 공식 사이트에서 내용을 충분히 숙지해주셔야 합니다.</mark>
 
-![](<../../.gitbook/assets/구분선 (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 11. 환불 안내**
 

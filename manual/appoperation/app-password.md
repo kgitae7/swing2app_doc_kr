@@ -4,7 +4,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 # 앱 비밀번호 찾기
 
-<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 \
 **앱 – 비밀번호 찾기 방법**
@@ -21,7 +21,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱 실행) 로그인 메뉴 이동
 
@@ -73,7 +73,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 &#x20;다시 앱 내에서 비밀번호를 찾는 방법을 계속 진행해볼게요\~!!
 
-<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 비밀번호 찾기
 
@@ -85,7 +85,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 임시 비밀번호 발급
 
@@ -99,7 +99,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 새 비밀번호 설정**
 
@@ -111,7 +111,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 <mark style="color:green;">**일반 아이디로 앱 아이디를 설정했다면?**</mark>&#x20;

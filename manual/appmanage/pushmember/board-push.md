@@ -4,7 +4,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 # 게시물 푸시발송하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 푸시 발송은 스윙투앱에서 제공하는 기능으로 앱을 설치한 사용자들에게 푸시 알림을 보낼 수 있는 기능이에요.
 
@@ -16,7 +16,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 중요한 공지글, 이벤트, 홍보 안내글을 보다 많은 사용자들에게 알리고 싶다면\~! 작성해놓은 게시물에서 바로 푸시를 보낼 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 게시물 관리 이동(만들어놓은 게시판으로 이동)
 
@@ -24,7 +24,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 앱운영 페이지 → 게시물관리→ 만들어놓은 게시판으로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 게시물에서 푸시 발송하기 <mark style="color:blue;">****</mark>&#x20;
 
@@ -88,7 +88,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 7\) 푸시 발송하기버튼을 선택하면 발송 완료됩니다!
 
-<figure><img src="../../../.gitbook/assets/구분선 (2) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면) 게시물 푸시 발송 화면
 
