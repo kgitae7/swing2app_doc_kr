@@ -1,12 +1,18 @@
+---
+description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
+---
+
 # 위치등록(지도)게시판 고급설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D%EC%A0%9C%EB%AA%A91.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **위치등록(지도)게시판 고급설정 이용방법** &#x20;
 
 지도게시판에서 제공하는 고급설정은 필수 입력사항은 아니며, 선택사항입니다. 옵션을 이용할 경우만 이용방법을 참고해주세요!
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**위치등록 게시판이란?**</mark>
+<mark style="color:orange;">****</mark>
+
+<mark style="color:blue;">**위치등록 게시판이란?**</mark>
 
 위치를 등록하여 주소를 알려주는 게시판으로, 일반 위치등록 게시판은 카카오맵을 앱에 연동하여 사용하고 있어요.
 
@@ -16,27 +22,35 @@
 
 \*구글맵 게시판도 있으니, 해외 주소를 사용해야 할 경우 구글맵을 이용해주세요 \~!
 
-☞ [구글맵 이용방법 보러가기 ](google-map.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/google-map" %}
 
 \*위치등록 게시판 이용방법은 매뉴얼을 참고해주세요!
 
-☞ [위치등록 게시판 이용방법 보러가기 ](map-board.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/map-board" %}
 
-***
 
-### <mark style="color:blue;">**1. 위치등록 게시판 고급설정 이용방법**</mark>
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## 1. 위치등록 게시판 고급설정 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%955.png)
 
-1\)[앱운영 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) → \[게시판 생성] 버튼 선택 → 기능 설정창 기본설정→ UI및 기능선택: 위치등록 → \[고급설정] 적용 후 저장
+1\)[앱운영 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) → \[게시판 생성] 버튼 선택
 
-2\)기존에 만들어놓은 지도게시판이 있다면 \[설정] 버튼 → 기능 설정창 → \[고급설정]으로 이동한 뒤 이용 가능합니다.
+\*기존에 만들어놓은 지도게시판이 있다면 \[설정] 버튼 → 기능 설정창 → \[고급설정]으로 이동한 뒤 이용 가능합니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81-1.png)
 
-***
+2\)게시판 기능 설정창 →기본설정→ UI및 기능선택: 위치등록&#x20;
 
-### <mark style="color:blue;">**2. 지도 게시판 – 고급설정에서 제공되는 기능 안내**</mark>
+3\)\[고급설정] 메뉴&#x20;
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## 2. 지도 게시판 – 고급설정에서 제공되는 기능 안내
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%959.png)
 
@@ -54,11 +68,13 @@
 
 3\)초기 표시 형식:지도 게시판을 열면 지도로 화면을 보여주거나, 위성 화면으로 보이게 할지 선택할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**3. 모바일 앱 실행화면**</mark>
+## 3. <mark style="color:blue;">****</mark> 모바일 앱 실행화면
 
-<mark style="color:orange;">**1) 줌 레벨 설정**</mark>
+<mark style="color:orange;">****</mark>
+
+### <mark style="color:blue;">1) 줌 레벨 설정</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%954.png)
 
@@ -68,13 +84,15 @@
 
 줌 레벨을 따로 설정하지 않으면 기본 화면값으로 고정 셋팅되어서 보여집니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="color:orange;">**2)초기 위치 설정**</mark>
+
+### <mark style="color:blue;">**2)초기 위치 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%957.png)
 
 (1) 현재위치는 앱을 이용하는 사용자의 위치로 지도 화면이 보여집니다. (해당 설정이 기본값입니다)
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%956.png)
 
@@ -84,15 +102,17 @@
 
 0,1,2,3,4 입력시 ‘0’으로 입력한 값이 가장 먼저 화면에 보여지며, 위치를 우선순위로 정할경우 해당 위치 지도가 보여지게 됩니다.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%9510.png)
 
 (3)위치설정: 위도,경도를 입력해서 특정 위치를 지도 화면으로 보여지게 합니다.
 
 \*서울역 위도, 경도를 입력했습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="color:orange;">**3)표시형식-지도 or 위성 선택**</mark>
+
+### <mark style="color:blue;">3)표시형식-지도 or 위성 선택</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%952-1.png)
 
@@ -102,8 +122,7 @@
 
 (2)초기 표시형식을 ‘위성’으로 선택한 화면입니다. 현재 위치를 기반으로 위성 사진으로 표시가 됩니다.
 
-***
-
+{% hint style="success" %}
 스윙투앱에서 제공하는 위치등록(지도)게시판 고급설정은 필수 입력항목은 아닙니다.
 
 별도 설정하지 않아도 기본값으로 보여집니다.
@@ -113,3 +132,5 @@
 따라서 기본 스타일로 이용시 고급설정을 이용하지 않아도 되구요.
 
 스타일을 변경하고 싶을 경우 표시방식이나 위치설정, 줌 레벨을 설정할 수 있습니다.
+{% endhint %}
+
