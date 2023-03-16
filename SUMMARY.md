@@ -141,7 +141,6 @@
     * [게시판 작성폼 이용방법](manual/appmanage/board/form.md)
     * [게시판 작성글 이용방법](manual/appmanage/board/write-bulletin-board.md)
     * [게시판: 목록화면, 작성화면 이용방법](manual/appmanage/board/listscreen-creationscreen.md)
-    * [게시판 지정권한 이용하기](manual/appmanage/board/designated-authority.md)
     * [게시판 새글알람 설정방법](manual/appmanage/board/post-alarm.md)
     * [게시판 관리자 설정](manual/appmanage/board/administrator.md)
     * [위치등록(지도)게시판](manual/appmanage/board/map-board.md)
