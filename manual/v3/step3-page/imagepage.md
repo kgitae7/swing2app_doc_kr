@@ -36,7 +36,7 @@
 
 ****
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용단계**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 단계**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
@@ -44,11 +44,11 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 앱 실행화면**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 사례**
 
 ****
 
-**\*스윙투앱 공식앱 – 이미지 페이지 적용화면**
+<mark style="color:blue;">**\*스윙투앱 공식앱 – 이미지 페이지 적용화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW9.png)
 
@@ -64,11 +64,9 @@
 
 \-앱 실행시, 이미지의 특정 배너를 선택하면 연동된 페이지로 이동하게끔 제작할 수 있습니다
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
-
 ****
 
-**사용자 앱) 명덕외고앱 이미지페이지 적용화면**
+<mark style="color:blue;">**사용자 앱) 명덕외고앱 이미지페이지 적용화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%802.png)
 
@@ -76,7 +74,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 시작하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 시작하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
 
@@ -96,7 +94,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(제작도구)**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(제작도구)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
@@ -104,7 +102,7 @@
 
 
 
-**1.이미지 등록하기**
+### <mark style="color:blue;">1.이미지 등록하기</mark>
 
 가장 먼저 이미지를 등록해주세요.
 
@@ -120,7 +118,7 @@
 
 ****
 
-**2. 이미지 페이지 제작**&#x20;
+### <mark style="color:blue;">**2.이미지 페이지 제작**</mark>** **&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
 
@@ -140,7 +138,7 @@
 
 ****
 
-**3. 도형툴 – 스타일 확인하기**
+### <mark style="color:blue;">**3.도형툴 – 스타일 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png)
 
@@ -160,7 +158,7 @@
 
 ****
 
-**4. 링크 적용하기**
+### <mark style="color:blue;">**4.링크 적용하기**</mark>
 
 영역을 설정했다면 설정한 영역 안으로 링크를 적용하는 방법을 확인해볼게요.
 
@@ -220,7 +218,7 @@
 
 ****
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**이미지 페이지 제작 TIP**
+### <mark style="color:blue;">**5.제작 TIP - 스타일 복제**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/159009ee19bc2784599d2211fabc309b.gif)
 
@@ -232,7 +230,39 @@ TIP을 한가지 드리면요
 
 
 
-**5. 제작 완료**
+
+
+### <mark style="color:blue;">**6.제작 TIP - 배경색 추가하기**</mark>
+
+<figure><img src="../../../.gitbook/assets/이미지배경색추가.PNG" alt=""><figcaption></figcaption></figure>
+
+이미지 페이지는 이미지를 기반으로 웹페이지로 구성되는 사용자페이지 제작도구입니다.
+
+핸드폰 모바일 규격에 따라 가로 사이즈에 맞춰 적용이 되는데요.
+
+동일한 사이즈의 이미지페이지를 적용해도 핸드폰에 따라 화면이 길어 하단에 흰색 여백이 생기는 경우도 있고, 이미지페이지가 더 길어서 화면에 딱 맞지 않고 조금 넘어가서 스크롤이 되는 경우도 있습니다.
+
+​
+
+이러한 문제를 보완하기 위해 배경색 기능을 적용할 수 있습니다.
+
+이미지 배경색과 동일한 배경색을 넣어서 앱제작을 조금 더 퀄리티 있게 완성할 수 있습니다.
+
+
+
+<figure><img src="../../../.gitbook/assets/이미지배경색_업뎃2.png" alt=""><figcaption></figcaption></figure>
+
+1\)왼쪽 메뉴 '배경색 추가'
+
+2\)HEX 코드 값 입력
+
+3\)저장 버튼 선택
+
+배경색을 추가하면 흰색 여백에 이미지 페이지로 등록한 이미지 배경색과 동일한 색상이 입혀지기 때문에 하나의 페이지로 인식됩니다.
+
+****
+
+### <mark style="color:blue;">**7.제작 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%8010.18.09.png)
 
@@ -244,11 +274,13 @@ TIP을 한가지 드리면요
 
 그럼 다시 앱제작 페이지로 돌아가서 앱에 해당 이미지페이지를 적용해볼게요!!
 
+
+
 ![](../../../.gitbook/assets/수평성.PNG)
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
 
@@ -284,7 +316,7 @@ TIP을 한가지 드리면요
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
 
 이미지페이지에 링크 배너를 연동하는 것 외에 툴팁을 적용하는 방법도 알려드릴게요
 
@@ -300,7 +332,7 @@ TIP을 한가지 드리면요
 
 
 
-**1. 이미지 페이지- 툴팁 적용방법**
+### <mark style="color:blue;">**1. 툴팁 적용방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW11.png)
 
@@ -364,7 +396,7 @@ TIP을 한가지 드리면요
 
 
 
-**2. 툴팁 적용한 이미지 페이지 앱에 적용하기**
+### <mark style="color:blue;">**2. 툴팁 적용한 이미지 페이지 앱에 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B54.png)
 
@@ -402,7 +434,7 @@ TIP을 한가지 드리면요
 
 ​
 
-**3. 앱 실행화면) 이미지 페이지 툴팁**
+### <mark style="color:blue;">**3. 앱 실행화면) 이미지 페이지 툴팁**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
 
@@ -410,7 +442,7 @@ TIP을 한가지 드리면요
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(이미지페이지 수정 방법)**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(이미지페이지 수정 방법)**
 
 **수정은 동일하게 앱제작 메이커 – 이미지 페이지 \[수정하기]로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.**
 
