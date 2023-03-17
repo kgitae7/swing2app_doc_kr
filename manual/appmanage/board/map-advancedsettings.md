@@ -74,7 +74,7 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 <mark style="color:orange;">****</mark>
 
-### <mark style="color:blue;">1) 줌 레벨 설정</mark>
+### <mark style="color:blue;">1)줌 레벨 설정</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%954.png)
 
