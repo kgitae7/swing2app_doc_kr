@@ -1,5 +1,7 @@
 # 구글맵 API키 발급하기
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 **구글맵 API 발급방법**
 
 구글맵(지도)를 이용하기 해서는 구글맵 플랫폼 서비스에서 제공하는 API키 값을 받아야 해요.
@@ -10,9 +12,8 @@
 
 API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게시판  API 항목에 발급받은 키를 입력해주시기 바랍니다.
 
-
-
-<mark style="color:red;">**\* 안내사항**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
 1\)구글맵은 종량 요금제로 유료로 사용하는 플랫폼입니다.&#x20;
 
@@ -22,37 +23,60 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 **★ 구글맵 게시판 이용방법은 해당 매뉴얼을 확인해주세요**
 
-**☞** [**\[구글맵 게시판 이용방법 보러가기\]**](../../manual/appmanage/board/google-map.md)
+**☞** [**\[구글맵 게시판 이용방법 보러가기\]**](google-map.md)
+{% endhint %}
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**구글맵 플랫폼 사이트 접속하여 구글 계정으로 로그인해주세요.**&#x20;
+**구글맵 플랫폼 사이트 접속하여 구글 계정으로 로그인해주세요.**&#x20;
 
-&#x20;**** [**https://cloud.google.com/maps-platform/**](https://cloud.google.com/maps-platform/)
+{% embed url="https://cloud.google.com/maps-platform/" %}
+
+### 1.시작하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B51886.png)
 
-1.홈페이지 화면의 **\[시작하기]** 버튼을 선택해주세요.
+홈페이지 화면의 **\[시작하기]** 버튼을 선택해주세요.
+
+
+
+### 2.서비스약관
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B52.png)
 
-2.서비스 약관 체크 후 \[동의 및 계속하기] 선택
+서비스 약관 체크 후 \[동의 및 계속하기] 선택
+
+
+
+### 3.계정정보 입력
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B53.png)
 
-3.국가, 조직 선택, 서비스약관 체크 후 \[계속] 버튼 선택
+국가, 조직 선택, 서비스약관 체크 후 \[계속] 버튼 선택
+
+
+
+### 4.이메일 인증
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B54.png)
 
-4.이메일 주소 입력 \[코드 전송] → 코드 번호 입력 후 \[확인] 버튼 선택
+이메일 주소 입력 \[코드 전송] → 코드 번호 입력 후 \[확인] 버튼 선택
+
+
+
+### 5.핸드폰번호 인증
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B55.png)
 
-5.핸드폰 번호 입력  \[코드 전송] → 코드 번호 입력 후 \[확인] 버튼 선택
+핸드폰 번호 입력  \[코드 전송] → 코드 번호 입력 후 \[확인] 버튼 선택
+
+
+
+
+
+### **6.결제정보 확인**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B56886.png)
-
-**6.결제정보 확인**
 
 1\)결제 프로필 입력
 
@@ -80,7 +104,7 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ***
 
-**7. Google Maps Plarform 사용 설정**
+### **7. Google Maps Plarform 사용 설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B58.png)
 
@@ -98,7 +122,7 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 
 
-&#x20;**8. API 키 발급완료!!**
+### **8. API 키 발급완료!!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B59.png)
 
@@ -108,7 +132,7 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ***
 
-<mark style="color:red;">**추가 안내**</mark>
+### 9.추가안내
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B510.png)
 
@@ -124,9 +148,11 @@ API키 발급이 완료되면, 무료평가판 신청 안내 팝업창이 뜹니
 
 **☞**[ **** ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[구글맵 가격책정 보러가기\]**](https://cloud.google.com/maps-platform/pricing/?hl=ko)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-<mark style="color:red;">**안내사항**</mark>
+
+
+
+### 10.안내사항
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B511.png)
 
@@ -146,7 +172,7 @@ API키 보호 라고 하여 키를 제한하라는 메시지가 뜹니다.
 
 3\)\[키 제한] 버튼 선택합니다.&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 이렇게까지 하면 API 키 발급이 완료된것이구요.
 
@@ -168,6 +194,8 @@ API키를 발급 받은 뒤, 스윙 [앱운영 → 서비스관리 → 게시판
 
 4\)UI 및 기능 선택: 위치등록(구글맵) 선택합니다.&#x20;
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B513.png)
 
 5\)구글맵정보 메뉴로 이동합니다.
@@ -178,6 +206,8 @@ API키를 발급 받은 뒤, 스윙 [앱운영 → 서비스관리 → 게시판
 
 
 
-**구글맵 게시판 이용방법은 해당 매뉴얼을 확인해주세요**
+**구글맵 게시판 이용방법은 해당 매뉴얼을 확인해주세요.**
 
-**☞** [**\[구글맵 게시판 이용방법 보러가기\]**](../../manual/appmanage/board/google-map.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/google-map" %}
+
+****
