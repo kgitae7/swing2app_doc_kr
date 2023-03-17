@@ -146,7 +146,7 @@
     * [위치등록(지도)게시판](manual/appmanage/board/map-board.md)
     * [위치등록(지도)게시판 고급설정](manual/appmanage/board/map-advancedsettings.md)
     * [구글맵(구글지도)게시판](manual/appmanage/board/google-map.md)
-    * [구글맵 API키 발급하기](manual/appmanage/board/googlemap-apikey.md)
+    * [구글맵 API키 발급하기](knowledgebase/playstore/googlemap-apikey.md)
     * [HTML에디터글쓰기](manual/appmanage/board/htmleditor.md)
     * [게시물 신고 및 관리](manual/appmanage/board/report-post.md)
     * [게시물 차단하기](manual/appmanage/board/block-posts.md)

@@ -1,6 +1,6 @@
 # 구글맵 API키 발급하기
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **구글맵 API 발급방법**
 
@@ -23,10 +23,10 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 **★ 구글맵 게시판 이용방법은 해당 매뉴얼을 확인해주세요**
 
-**☞** [**\[구글맵 게시판 이용방법 보러가기\]**](google-map.md)
+**☞** [**\[구글맵 게시판 이용방법 보러가기\]**](../../manual/appmanage/board/google-map.md)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **구글맵 플랫폼 사이트 접속하여 구글 계정으로 로그인해주세요.**&#x20;
 
@@ -172,7 +172,7 @@ API키 보호 라고 하여 키를 제한하라는 메시지가 뜹니다.
 
 3\)\[키 제한] 버튼 선택합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 이렇게까지 하면 API 키 발급이 완료된것이구요.
 
