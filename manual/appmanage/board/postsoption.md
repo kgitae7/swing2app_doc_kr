@@ -1,28 +1,22 @@
+---
+description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일괄 삭제 기능 이용방법
+---
+
 # 게시물관리 옵션 기능
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B4%80%EB%A6%AC%EC%98%B5%EC%85%98%EA%B8%B0%EB%8A%A5.png)
-
-**게시물관리: 게시판복사, 게시물복사, 게시글다운, 게시물 일괄삭제**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 게시물관리에서 이용할 수 있는 다양한 옵션 기능을 알아볼텐데요.
 
 게시물 관리는 일반적으로 게시판에 글을 쓰는 메뉴이지만, 그외 옵션 기능인 아래와 같은 기능을 사용할 수 있어요.
 
-> **\[게시물 관리 옵션 기능]**
->
-> **1. 게시판 복사 : 특정 게시판을 다른 게시판으로 복사하는 기능(게시판 전체 복사)**
->
-> **2. 게시물 복사: 여러 게시물을 한번에 선택하여 특정 게시판으로 복사하는 기능**
->
-> **3. 게시글 다운: 게시판에 작성된 게시글을 엑셀파일로 다운받아 보관할 수 있는 기능**
->
-> **4. 게시물 일괄삭제 : 게시판에서 여러 게시물을 한번에 삭제하고자 할 때, 다중 선택된 게시물을 일괄로 삭제하는 기능**
+| 게시물 관리 옵션 기능                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>1. 게시판 복사 : 특정 게시판을 다른 게시판으로 복사하는 기능(게시판 전체 복사)</p><p>2. 게시물 복사: 여러 게시물을 한번에 선택하여 특정 게시판으로 복사하는 기능</p><p>3. 게시글 다운: 게시판에 작성된 게시글을 엑셀파일로 다운받아 보관할 수 있는 기능</p><p>4. 게시물 일괄삭제 : 게시판에서 여러 게시물을 한번에 삭제하고자 할 때, 다중 선택된 게시물을 일괄로 삭제하는 기능</p> |
 
-이용방법은 간단하오니, 아래 매뉴얼을 확인해주세요 ^^
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-***
-
-<mark style="color:blue;">**1. \[게시판 복사] 이용방법**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)1. \[게시판 복사] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC\_20.06.png)
 
@@ -38,7 +32,7 @@
 
 
 
-<mark style="color:purple;">**\[게시판 복사 방법]**</mark>
+### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**게시판 복사 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC1\_20.06.png)
 
@@ -52,9 +46,9 @@
 
 대상 게시판으로 이동하면 복사한 게시판이 그대로 옮겨진 것을 확인할 수 있습니다\~!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**2. \[게시글 복사] 이용방법**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)2. \[게시글 복사] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC\_20.06.png)
 
@@ -68,7 +62,7 @@
 
 
 
-<mark style="color:purple;">**\[게시물 복사하기]**</mark>​
+### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**게시물 복사하기**</mark><mark style="color:blue;">​</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC1\_20.06.png)
 
@@ -88,9 +82,8 @@
 
 \-복사를 원하는 게시물 몇개만 선택하여 복사할 수 있습니다.
 
-
-
-<mark style="color:red;">**\[안내사항]**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
 **1) 복사하여 옮겨진 게시물은 원본 게시물과 별개의 게시물로 운영됩니다.**
 
@@ -107,10 +100,13 @@
 **4)게시물은 같은 게시판으로는 복사할 수 없어요.**
 
 예를 들어 후기게시판에 있는 게시물을 다시 후기게시판으로 복사하는 것은 안되며, 다른 게시판으로 복사할 수 있습니다.
+{% endhint %}
 
-***
 
-<mark style="color:blue;">**3. \[게시글 다운] 이용방법**</mark>
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)3. \[게시글 다운] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B42.png)
 
@@ -124,27 +120,33 @@
 
 5\) 해당 게시물에서 노출된 값만큼의 게시물이 다운되어서 엑셀파일로 제공됩니다.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B43.png)
 
 다운된 엑셀파일을 열면 해당 게시물에 저장된 데이터를 확인할 수 있어요.
 
-<mark style="color:orange;">**\*게시글 다운 엑셀파일에는 \[게시물 제목, 게시물 내용, 조회수, 댓글수, 좋아요수, 작성자, 작성일시, 수정일시]가 제공됩니다.**</mark>
+**\*게시글 다운 엑셀파일에는 \[게시물 제목, 게시물 내용, 조회수, 댓글수, 좋아요수, 작성자, 작성일시, 수정일시]가 제공됩니다.**
 
-​
-
-<mark style="color:red;">**\[안내사항]**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
 1\) 게시글 다운은 전체 글을 한꺼번에 다운받을 수 없고, 최대 100개씩 다운 받을 수 있습니다.페이지를 넘겨서 다운받아주세요.
 
 2\) 게시글 다운시, 게시물에 저장된 이미지는 다운되지 않습니다. (텍스트만 다운 됩니다)
+{% endhint %}
 
-***
 
-<mark style="color:purple;">**4. \[게시물 일괄삭제] 이용방법**</mark>
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)4. \[게시물 일괄삭제] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C.png)
 
 앱운영 페이지 → 게시물관리→ 게시판(게시물을 삭제하고자하는 게시판)으로 이동합니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%82%AD%EC%A0%9C.png)
 
@@ -158,16 +160,13 @@
 
 &#x20;선택된 게시물을 한번에 삭제할 수 있습니다.
 
-​
-
-<mark style="color:red;">**\[안내사항]**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**안내사항**</mark>
 
 1\)삭제된 게시물은 복원이 되지 않으니 삭제 전에 지워도 되는 글인지 꼭 확인해주시기 바랍니다.
 
 2\)게시물 리스트는 기본 10개로 리스트가 보여집니다.
 
 더 많은 글을 선택할 때는 아래 \[\~개씩 보기 버튼]을 선택하시면 50개, 100개 선택이 가능합니다.
+{% endhint %}
 
-
-
-이용방법을 참고하여 게시물 관리 이용에 조금 더 유용하게 이용해주세요 ^^
