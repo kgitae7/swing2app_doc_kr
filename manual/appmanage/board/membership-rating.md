@@ -1,14 +1,16 @@
+---
+description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 안내
+---
+
 # 회원등급별 게시판 만들기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%93%B1%EA%B8%89%EB%B3%84-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**게시판에 등급별 권한을 설정하여 해당 등급별로 게시판을 이용하는 방법을 알려드리겠습니다.**
+**등급별 게시판은?**
 
-**▶등급별 게시판은?**
+<mark style="color:orange;">등급별 게시판은 게시판 이용 권한을 각각 다른 등급(그룹)의 회원을 설정하여 이용하도록 하는 기능이에요.</mark>
 
-<mark style="color:purple;">등급별 게시판은 게시판 이용 권한을 각각 다른 등급(그룹)의 회원을 설정하여 이용하도록 하는 기능이에요.</mark>
-
-<mark style="color:purple;">게시판을 이용할 때 회원 등급을 나눠서 게시판 이용 권한을 주고자 할 때 사용할 수 있어요.</mark>
+<mark style="color:orange;">게시판을 이용할 때 회원 등급을 나눠서 게시판 이용 권한을 주고자 할 때 사용할 수 있어요.</mark>
 
 예를 들어서) 학교 선생님은 모든 게시판의 글을 확인할 수 있고, 글을 쓸 수도 있어야 하겠죠.
 
@@ -20,9 +22,11 @@
 
 아래 매뉴얼을 확인하여 회원 권한 그룹을 만들고, 게시판마다 권한 설정, 앱 사용자에게 권한을 부여하는 방법을 확인해주세요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:green;">**\[이용방법]**</mark>
+<mark style="color:blue;">**\[이용방법 정리]**</mark>
+
+
 
 **STEP.1 그룹 만들기**
 
@@ -56,31 +60,37 @@
 
 3\)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.
 
-### &#x20;<mark style="color:orange;"><mark style="color:blue;">**STEP.1 회원 그룹 만들기**<mark style="color:blue;"></mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">**1. 권한 그룹설정 메뉴 이동**</mark>
+\
+&#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP1. 회원 그룹 만들기
+----------------------------------------------------------------------------
+
+<mark style="color:orange;"><mark style="color:blue;">****<mark style="color:blue;"></mark>
+
+### <mark style="color:blue;">**1. 권한 그룹설정 메뉴 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B6%8C%ED%95%9CNEW23.png)
 
-앱운영 페이지 → 푸시&회원 → 권한 그룹설정 메뉴로 이동합니다.
+[앱운영 페이지 → 푸시&회원 → 권한 그룹설정](http://www.swing2app.co.kr/view/group\_list) 메뉴로 이동합니다.
 
 &#x20;<mark style="color:orange;"></mark>&#x20;
 
-<mark style="color:orange;">**2. 권한 그룹 생성하기**</mark>
+### <mark style="color:blue;">**2. 권한 그룹 생성하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B92.png)
 
 권한 그룹 설정 페이지에서 **\[권한그룹생성하기]** 버튼을 선택하면, 권한 그룹 설정 창이 뜹니다.
 
-<mark style="color:orange;">**-권한은 운영(관리자), 사용자(회원가입된 일반회원), 손님 이렇게 3가지 그룹이 기본으로  제공되구요.**</mark>&#x20;
+<mark style="color:orange;">-권한은 운영(관리자), 사용자(회원가입된 일반회원), 손님 이렇게 3가지 그룹이 기본으로  제공되구요.</mark>&#x20;
 
-<mark style="color:orange;">**-그룹 등급은 총 9등급(1등급\~9등급)이 제공이 되기 때문에 기본 셋팅된 등급 외에 9등급의 그룹을 더 만들 수 있어요.**</mark>
+<mark style="color:orange;">-그룹 등급은 총 9등급(1등급\~9등급)이 제공이 되기 때문에 기본 셋팅된 등급 외에 9등급의 그룹을 더 만들 수 있어요.</mark>
 
-<mark style="color:orange;">**– 9등급을 모두 사용하지 않으셔도 되구요. 원하는 등급까지만 사용하시면 됩니다.**</mark>
+<mark style="color:orange;">– 9등급을 모두 사용하지 않으셔도 되구요. 원하는 등급까지만 사용하시면 됩니다.</mark>
 
 &#x20;
 
-<mark style="color:orange;">**3. 그룹 만들기**</mark>
+### <mark style="color:blue;">**3. 그룹 만들기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B93.png)
 
@@ -94,21 +104,21 @@
 
 4\)저장 버튼을 누르면 그룹생성이 완료됩니다.
 
-> **\*\*저는 여기서 1등급 , 2, 3, 4 등급만 이용했구요.**
->
-> <mark style="color:purple;">**-1등급: 우수회원**</mark>
->
-> <mark style="color:purple;">**-2등급: 정회원**</mark>
->
-> <mark style="color:purple;">**-3등급: 준회원**</mark>
->
-> <mark style="color:purple;">**-4등급: 일반회원**</mark>
->
-> 이렇게 그룹을 정해서 만들었습니다.
+**\* 1등급 , 2, 3, 4 등급만 이용했구요.**
+
+<mark style="color:orange;">**-1등급: 우수회원**</mark>
+
+<mark style="color:orange;">**-2등급: 정회원**</mark>
+
+<mark style="color:orange;">**-3등급: 준회원**</mark>
+
+<mark style="color:orange;">**-4등급: 일반회원**</mark>
+
+이렇게 그룹을 정해서 만들었습니다.
 
 &#x20;<mark style="color:orange;"></mark>&#x20;
 
-<mark style="color:orange;">**4. 그룹 생성 완료**</mark>
+### <mark style="color:blue;">**4. 그룹 생성 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B9.4.png)
 
@@ -121,26 +131,23 @@
 <mark style="color:red;">**\* 운영(관리자), 사용자(회원가입된 일반회원), 손님 등급은 기본값이기 때문에 그룹을 삭제 할 수 없습니다.**</mark>\
 
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP2. 게시판 등급 권한 설정하기
+
+그룹을 만들었다면, 게시판에 등급권한을 설정해볼게요!
 
 &#x20;
 
-### <mark style="color:blue;">**STEP.2 게시판 등급 권한 설정하기**</mark>
-
-**그룹을 만들었다면, 게시판에 등급권한을 설정해볼게요!**
-
-&#x20;
-
-<mark style="color:orange;">**1.게시판관리 이동**</mark>
+### <mark style="color:blue;">**1. 게시판관리 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%952.png)
 
-<mark style="color:blue;">**앱운영 페이지 → 서비스관리 → 게시판관리 메뉴**</mark>**로 이동합니다.**\
-
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**앱운영 페이지 → 서비스관리 → 게시판관리 메뉴**</mark>](http://www.swing2app.co.kr/view/board\_edit)**로 이동합니다.**
 
 &#x20;
 
-<mark style="color:orange;">**2.게시판 만들기**</mark>
+### <mark style="color:blue;">**2. 게시판 만들기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%953.png)
 
@@ -152,15 +159,15 @@
 
 4\) 게시판 UI 및 기능 선택  (원하시는 게시판 디자인 스타일을 선택해주세요)
 
-5\) <mark style="color:red;">상세설정에서 글쓰기 권한, 글상세 보기 권한, 목록 보기 권한을 선택할 수 있습니다.</mark>
+5\) 상세설정에서 글쓰기 권한, 글상세 보기 권한, 목록 보기 권한을 선택할 수 있습니다.
 
-<mark style="color:red;">권한 설정은 아래에서 다시 설명드릴게요</mark>
+권한 설정은 아래에서 다시 설명드릴게요
 
 6\) 허용범위 설정 : 게시물 댓글, 댓글 사진 첨부, 좋아요/ 영상첨부, 사진첨부, 파일첨부 체크&#x20;
 
 7\) \[저장] 버튼을 클릭합니다.
 
-<mark style="color:red;">**\*이미 게시판을 만들어놓았다면 \[설정] 버튼을 눌러서 권한만 수정해주시면 됩니다.**</mark>
+<mark style="color:red;">**이미 게시판을 만들어놓았다면 \[설정] 버튼을 눌러서 권한만 수정해주시면 됩니다.**</mark>
 
 <mark style="color:red;">**새로 게시판을 만들 경우에만 \[게시판생성] 버튼을 눌러서 만들어주시면 됩니다.**</mark>&#x20;
 
@@ -178,17 +185,17 @@
 
 \-게시판마다 다른 권한을 셋팅할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP3. 회원별 등급 적용하기&#x20;
 
-### <mark style="color:blue;">**STEP.3 회원별 등급 적용하기**</mark>&#x20;
+앱 회원들에게 그룹을 적용해야 게시판별 이용이 가능하겠죠? &#x20;
 
-**앱 회원들에게 그룹을 적용해야 게시판별 이용이 가능하겠죠?  회원 그룹 적용은 회원조회 페이지에서 이용 가능합니다.**
+회원 그룹 적용은 회원조회 페이지에서 이용 가능합니다.
 
 &#x20;<mark style="color:orange;"></mark>&#x20;
 
-<mark style="color:orange;">**1. 회원조회 페이지 이동**</mark>
+### <mark style="color:blue;">**1. 회원조회 페이지 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B6%8C%ED%95%9C%EA%B7%B85.png)
 
@@ -196,7 +203,7 @@
 
 &#x20;
 
-<mark style="color:orange;">**2. 회원 그룹 변경하기**</mark>
+### <mark style="color:blue;">**2. 회원 그룹 변경하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EB%B3%80%EA%B2%BD\_20.07.png)
 
@@ -204,7 +211,7 @@
 
 여기서 그룹을 변경할 회원들을 선택해서, 회원정보→그룹을 변경할 수 있습니다.
 
-<mark style="color:purple;">저는 ‘스윙’ 회원을 ‘우수회원’ 그룹으로 변경해볼게요!</mark>
+<mark style="color:blue;">저는 ‘스윙’ 회원을 ‘우수회원’ 그룹으로 변경해볼게요!</mark>
 
 **1)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.**
 
@@ -214,7 +221,7 @@
 
 &#x20;<mark style="color:orange;"></mark>&#x20;
 
-<mark style="color:orange;">**3. 그룹 변경 완료**</mark>
+### <mark style="color:blue;">**3. 그룹 변경 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B97.png)
 
@@ -222,9 +229,9 @@
 
 회원조회 페이지 목록에 보시면, 아까 ‘사용자’ 였던 회원이 → ‘우수회원’으로 변경된 것을 확인할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.4 앱 실행화면**</mark>
+## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP4. 앱 실행화면
 
 앱을 실행하여 다른 등급의 회원이 게시판에 접근시 어떻게 표시되는지 확인해볼게요!
 
@@ -233,11 +240,15 @@
 우수회원 보다 한 단계 낮은 ‘정회원’ 회원이 해당 게시판을 접속할 때 다음과 같이 **‘권한이 없습니다**‘ 메시지 창이 뜨면서 게시판에 접근할 수 없음을 확인할 수 있습니다.\
 
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**\[이용방법 정리]**</mark>
+<details>
 
-<mark style="color:purple;">**STEP.1 그룹 만들기**</mark>
+<summary><mark style="color:blue;"><strong>이용방법 정리</strong></mark></summary>
+
+<mark style="color:purple;">****</mark>
+
+**STEP1. 그룹 만들기**
 
 앱운영 페이지 → 푸시&회원 → 권한 그룹 설정 메뉴로 이동합니다.
 
@@ -247,24 +258,28 @@
 
 &#x20;<mark style="color:blue;"></mark>&#x20;
 
-<mark style="color:purple;">**STEP.2 게시판에서 권한 그룹 설정하기**</mark>
+**STEP2. 게시판에서 권한 그룹 설정하기**
 
-앱운영 페이지 → 서비스관리 → 게시판관리 메뉴
+1\)앱운영 페이지 → 서비스관리 → 게시판관리 메뉴
 
-**2)게시판 생성 버튼 선택**
+2\)게시판 생성 버튼 선택
 
-**3)게시판 및 기능설정 창 기본정보 설정(게시판이름, 게시판 UI선택 등)**
+3\)게시판 및 기능설정 창 기본정보 설정(게시판이름, 게시판 UI선택 등)
 
-**4)게시판 권한 설정 항목: 글쓰기 권한, 글상세보기 권한, 목록 보기 권한 셋팅**
+4\)게시판 권한 설정 항목: 글쓰기 권한, 글상세보기 권한, 목록 보기 권한 셋팅
 
 &#x20;
 
-<mark style="color:purple;">**STEP.3 사용자에게 그룹 적용하기**</mark>
+**STEP3. 사용자에게 그룹 적용하기**
 
 앱운영 페이지 → 푸시&회원 → 회원조회 메뉴로 이동합니다.
 
-**1)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.**
+1\)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.
 
-**2)현재 그룹정보 박스에서 변경할 그룹을 선택**
+2\)현재 그룹정보 박스에서 변경할 그룹을 선택
 
-**3)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.**
+3\)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.
+
+</details>
+
+<mark style="color:purple;">****</mark>
