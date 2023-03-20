@@ -124,7 +124,7 @@
 
 <mark style="color:orange;">**2. 다른 사용자로 로그인 (게시물 작성을 하지 않은)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%906\_19.10.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%906_19.10.png" alt=""><figcaption></figcaption></figure>
 
 **반대로 글을 작성한 사용자가 아닌 다른 사용자로 로그인을 한 뒤 1:1 문의게시판으로 이동하면 게시물이 없다고 나옵니다.**
 
