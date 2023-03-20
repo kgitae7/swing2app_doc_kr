@@ -1,38 +1,40 @@
-# 게시물 이동
+---
+description: 게시물을 선택하여, 다른 게시판으로 글을 이동하는 방법
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EB%8F%84%EC%9B%80%EB%A7%90-%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%A0%9C%EB%AA%A9%EC%95%B1%EC%A0%9C%EC%9E%91%EC%9A%A9.png)
+# 게시물 이동
 
 **게시글 이동이란?**
 
 게시글 이동은 게시글(게시물)을 선택하여 원하는 게시판으로 이동시킬 수 있는 기능입니다.
 
-게시글 복사와는 다르게 기존 게시판에 등록된 글은 삭제되고, 작성일은 기존 등록일로 유지됩니다
+게시글 복사와는 다르게 기존 게시판에 등록된 글은 삭제되고, 작성일은 기존 등록일로 유지됩니다.
 
-***
 
-> **게시물 복사와 게시물 이동의 차이점**
->
-> <mark style="background-color:blue;">​▶</mark>게시물 복사
->
-> 게시물을 다른 게시판으로 복사하는 기능
->
-> \+기존 게시판에도 해당 글은 유지됩니다.
->
-> \+복사된 글은 복사된 일자로 등록일자가 수정됩니다.
->
-> ​
->
-> <mark style="background-color:blue;">▶</mark>게시물 이동
->
-> 게시물을 다른 게시판으로 이동시키는 기능(=잘라내기)
->
-> \+기존 게시판에는 해당 글은 삭제 처리됩니다.
->
-> \+이동한 글은 기존 작성일로 등록일자가 유지됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**게시물 복사와 게시물 이동의 차이점**</mark>
 
-**게시글 이동 이용방법**
+<mark style="background-color:blue;">​</mark>**게시물 복사**
+
+게시물을 다른 게시판으로 복사하는 기능
+
+\+기존 게시판에도 해당 글은 유지됩니다.
+
+\+복사된 글은 복사된 일자로 등록일자가 수정됩니다.
+
+​
+
+**게시물 이동**
+
+게시물을 다른 게시판으로 이동시키는 기능(=잘라내기)
+
+\+기존 게시판에는 해당 글은 삭제 처리됩니다.
+
+\+이동한 글은 기존 작성일로 등록일자가 유지됩니다.
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## ****![](<../../../.gitbook/assets/image (2) (1).png>)**게시글 이동 이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png)
 
@@ -64,4 +66,4 @@
 
 해당 게시판으로 이동시, 선택한 게시글이 이동된 것을 확인할 수 있습니다.
 
-**☞** [**게시물 복사 기능 이용방법**](post-copy.md)****
+****

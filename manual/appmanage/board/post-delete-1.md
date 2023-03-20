@@ -1,16 +1,16 @@
-# 게시물 일괄 삭제 이용방법
+---
+description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [일괄 삭제] 기능 이용방법
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C%EC%A0%9C%EB%AA%A9.png)
+# 게시물 일괄 삭제
 
-**게시물 일괄 삭제 방법**
+****
 
 게시물 일괄 삭제 기능은 다중 선택된 게시물을 일괄로 삭제할 수 있는 기능이에요.
 
-따라서 게시판에서 여러 게시물을 한번에 삭제하고자 할 때 유용하게 사용할 수 있습니다.
+게시판에서 여러 게시물을 한번에 삭제하고자 할 때 유용하게 사용할 수 있습니다.
 
-이용방법은 간단하오니\~! 아래 매뉴얼을 확인해주세요 ^^
-
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/001.png)
 
@@ -22,7 +22,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/002.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%82%AD%EC%A0%9C.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%82%AD%EC%A0%9C.png" alt=""><figcaption></figcaption></figure>
 
 1\) 게시물 \[리스트 보기]로 선택해주시구요. (두 번째 아이콘)
 
