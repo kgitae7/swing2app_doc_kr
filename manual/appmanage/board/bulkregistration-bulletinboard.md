@@ -1,20 +1,26 @@
+---
+description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일괄 등록 게시판 이용방법 안내
+---
+
 # 일괄등록 게시판 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**일괄등록 게시판은 게시판 하나에만 글을 등록하는 것이 아니라, 원하는 게시판 여러개에 동일한 글을 모두 등록할 수 있는 기능입니다.**
+일괄등록 게시판은 게시판 하나에만 글을 등록하는 것이 아니라, 원하는 게시판 여러개에 동일한 글을 모두 등록할 수 있는 기능입니다.
 
-**즉, 여러 개의 게시판에 동일한 게시물을 올리고자 할 경우 일괄등록 게시판을 이용하면 한 번에 모두 일괄적으로 등록이 됩니다.**
+즉, 여러 개의 게시판에 동일한 게시물을 올리고자 할 경우 일괄등록 게시판을 이용하면 한 번에 모두 일괄적으로 등록이 됩니다.
 
 매뉴얼을 통해서 일괄등록 게시판 이용방법을 확인해주세요.
 
 ***
 
-<mark style="color:blue;">**1. 일괄등록 게시판 이동**</mark>
+## 1. 일괄등록 게시판 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D3\_20.06.png)
 
 앱운영 페이지 → 게시물관리 → 일괄등록게시판 선택해주세요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D4\_20.06.png)
 
@@ -23,6 +29,8 @@
 한가지 다른 점은! 게시물 등록 옆에 \[게시판 선택 ] 버튼이 있다는 것입니다.
 
 게시물 작성 후 \[게시판 선택] 버튼을 눌러서 게시물을 공유할(일괄 등록) 게시판을 선택할 수 있습니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D5\_20.06.png)
 
@@ -38,9 +46,9 @@
 
 **4)등록 버튼을 누르면 완료됩니다.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**2.  움짤 이미지로 확인하기**</mark>
+## 2.  움짤 이미지로 확인하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_16\_16\_56\_44\_51.gif)
 
@@ -48,9 +56,11 @@
 
 글 등록은 모두 동일하구요, 공유할 게시판만 선택하면 추가된 게시판으로 일괄 등록이 됩니다.
 
-***
 
-<mark style="color:blue;">**3. 앱 실행화면) 일괄 등록 게시물 확인하기**</mark>&#x20;
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## 3. 앱 실행화면) 일괄 등록 게시물 확인하기 <mark style="color:blue;">****</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D2\_20.06.png)
 
@@ -60,13 +70,13 @@
 
 일괄 등록은 이렇게 원하는 게시판으로 한꺼번에 글 등록이 가능하답니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**4.  게시물 수정- 공유 게시판 추가 등록 가능**</mark>
+## 4.  게시물 수정- 공유 게시판 추가 등록 가능
 
-\-그런데 만약 게시판 선택을 못하고 글 등록을 했어요!
+**-그런데 만약 게시판 선택을 못하고 글 등록을 했어요!**
 
-\-공유할 게시판을 더 추가하고 싶어요!
+**-공유할 게시판을 더 추가하고 싶어요!**
 
 이렇게 게시판 선택을 해야 하는데 글만 등록했거나, 공유 게시판을 더 추가하고 싶다면!
 
@@ -88,10 +98,11 @@
 
 그러면 위에서 선택된 게시판으로 게시물이 일괄 등록됩니다.
 
+{% hint style="info" %}
+일괄등록 게시판은 스윙투앱 홈페이지 웹대시보드에서만 이용가능합니다.
 
+게시물관리에서 사용할 수 있습니다.
 
-<mark style="color:orange;">**\*\* 일괄등록 게시판은 스윙투앱 홈페이지 웹대시보드에서만 이용가능합니다.**</mark>
+앱 에서 직접 게시판 글을 작성할때는 적용되지 않으니, 해당 기능을 적용하려면 홈페이지에서 이용해주시기 바랍니다.
+{% endhint %}
 
-<mark style="color:orange;">**게시물관리에서 사용할 수 있습니다.**</mark>
-
-<mark style="color:orange;">**앱 에서 직접 게시판 글을 작성할때는 적용되지 않으니, 해당 기능을 적용하려면 홈페이지에서 이용해주시기 바래요 ^^**</mark>
