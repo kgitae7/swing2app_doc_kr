@@ -1,8 +1,10 @@
+---
+description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안내'
+---
+
 # 캘린더 응용-활용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A9.png)
-
-**캘린더 기능을 다양한 사례로 활용하여 응용하는 방법**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 캘린더는 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.
 
@@ -16,15 +18,15 @@
 
 **캘린더 제작 및 운영방법 상세 내용은 해당 매뉴얼을 확인해주세요!**
 
-**☞**[ **\[캘린더 기능 이용방법 매뉴얼 보러가기\]**](calander.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/calander" %}
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 캘린더 만들기**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 캘린더 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94\_20.06.png)
 
-<mark style="color:orange;">**앱운영페이지 → 서비스관리 → 게시판 관리 페이지로 이동해주세요.**</mark>&#x20;
+[앱운영페이지 → 서비스관리 → 게시판 관리](http://www.swing2app.co.kr/view/board\_edit) 페이지로 이동해주세요.&#x20;
 
 <mark style="color:orange;">****</mark>
 
@@ -48,39 +50,71 @@
 
 6\)저장 버튼을 누르면 완료! 캘린더 제작이 완료됩니다
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 앱에 캘린더 게시판 적용하기**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2.앱에 캘린더 게시판 적용하기
 
 만들어놓은 캘린더는 앱에 적용해야 하겠죠?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%98%EB%A6%B0%EB%8D%94%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png)
 
-1\. \[카테고리 추가] 버튼을 선택해서 게시판을 적용할 메뉴를 추가합니다.
 
-2\. 메뉴 이름을 입력해주세요.
+### <mark style="color:blue;">1.앱제작 V3버전 이용시</mark>
 
-3\. 메뉴 유형: \[게시판]을 선택해주세요.
+<figure><img src="../../../.gitbook/assets/캘린더.png" alt=""><figcaption></figcaption></figure>
 
-4\. \[링크마법사] 버튼을 선택해주세요.
+1\)앱제작 화면 – STEP3 페이지 선택
 
-5\. 메뉴에 적용할 ‘캘린더 게시판’을 선택한 뒤 \[반영] 버튼 선택
+2\)메뉴 선택 \*메뉴를 아직 안만들었다면, + 모양 버튼 선택하여 메뉴 추가 할 수 있습니다.&#x20;
 
-6\. \[적용] 버튼
+3\)메뉴 이름을 입력해주세요.
 
-7\. \[저장] 버튼을 누르면 완료됩니다.
+4\)페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[캘린더]를 선택해주세요.&#x20;
+
+6\)만들어놓은 캘린더를 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+\*캘린더게시판을 먼저 만들어주세요. 만들어놓은 캘린더가 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.&#x20;
+
+\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 캘린더 응용하기**</mark>&#x20;
+
+### <mark style="color:blue;">2.앱제작 V2버전 이용시</mark>
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%98%EB%A6%B0%EB%8D%94%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png)
+
+앱제작 화면 –  페이지메뉴 선택
+
+1\)\[카테고리 추가] 버튼을 선택해서 게시판을 적용할 메뉴를 추가합니다.
+
+2\)메뉴 이름을 입력해주세요.
+
+3\)메뉴 유형: \[게시판]을 선택해주세요.
+
+4\)\[링크마법사] 버튼을 선택해주세요.
+
+5\)메뉴에 적용할 ‘캘린더 게시판’을 선택한 뒤 \[반영] 버튼 선택
+
+6\)\[적용] 버튼
+
+7\)\[저장] 버튼을 누르면 완료됩니다.
+
+\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 캘린더 응용하기 <mark style="color:blue;">****</mark>&#x20;
 
 본격적으로 캘린더를 다양하게 응용해서 사용하는 방법을 알려드릴게요!
 
 <mark style="color:orange;"></mark>
 
-<mark style="color:orange;">**1. 캘린더 응용1 : 모든 사용자가 일정 작성**</mark>&#x20;
+### <mark style="color:blue;">**1. 캘린더 응용1 : 모든 사용자가 일정 작성**</mark>** **<mark style="color:orange;">****</mark>&#x20;
 
 **★ 활용예: 커뮤니티용으로(대학교 과제, 동아리 등) 앱 회원들이 자신의 일정을 작성하여 서로의 일정을 공유합니다.**
 
@@ -106,7 +140,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**응용사례1과 같은 캘린더를 제작하는 방법**</mark>
+<mark style="color:orange;">**응용사례1과 같은 캘린더를 제작하는 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-17.png)
 
@@ -122,9 +156,9 @@
 
 해당 권한을 설정해주셔야 합니다. (사용자 외에 다른 그룹을 만들었다면 그룹별로도 적용이 가능합니다)
 
-***
+<mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**2. 캘린더 응용2 : 관리자만 일정 작성**</mark>
+### <mark style="color:blue;">**2. 캘린더 응용2 : 관리자만 일정 작성**</mark>
 
 **★ 활용예: 학원, 학교, 교육시설 어플에서 관리자가 학생들에게 시간표와 학업일정 등을 공지하는 캘린더로 사용할 수 있습니다.**
 
@@ -148,7 +182,7 @@
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**응용사례2와 같은 캘린더를 제작하는 방법**</mark>
+<mark style="color:orange;">**응용사례2와 같은 캘린더를 제작하는 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png)
 
@@ -166,7 +200,7 @@
 
 ***
 
-<mark style="color:orange;">**3. 캘린더 응용3 : 관리자만 일정 작성**</mark>
+### <mark style="color:blue;">**3. 캘린더 응용3 : 관리자만 일정 작성**</mark>
 
 **★ 활용예: 네일샵,헤어샵 등 가게 예약 현황등을 앱 사용자들에게 공지하는 방법으로 활용합니다.**
 
@@ -188,13 +222,13 @@
 
 ****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**응용사례3과 같은 캘린더를 제작하는 방법**</mark>
+&#x20;** **<mark style="color:orange;">**응용사례3과 같은 캘린더를 제작하는 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png)
 
 위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board\_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
 
-<mark style="color:purple;">**\[게시판 권한 설정]**</mark>
+**\[게시판 권한 설정]**
 
 **-글쓰기 권한: 관리자**
 

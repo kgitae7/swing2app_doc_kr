@@ -1,16 +1,12 @@
+---
+description: '게시물 링크 생성: 링크마법사에서 게시물 링크를 생성하는 방법'
+---
+
 # 게시물 링크 생성하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%A7%81%ED%81%AC%EC%83%9D%EC%84%B1%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**게시판-게시물 링크 생성하기**
-
-게시판 게시물 작성시, 해당 게시물에 대한 링크를 발행하는 방법을 알려드리겠습니다.
-
-게시물은 일반적으로 링크가 제공이 되지 않습니다. 따라서 우회하여 링크를 생성해서 이용하실 수 있는 방법을 알려드릴게요!
-
-***
-
-### <mark style="color:blue;">**1. 게시물관리에서 링크 생성하기**</mark>&#x20;
+## 1. 게시물관리에서 링크 생성하기 <mark style="color:blue;">****</mark>&#x20;
 
 **앱운영페이지 → 게시물 관리에서 → 게시판 선택 → HTML 에디터 글쓰기 선택**
 
@@ -44,11 +40,39 @@
 
 ***
 
-### <mark style="color:blue;">**2. 어떻게 활용할 수 있나요?**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-게시물은 링크마법사에서 게시물 검색으로 다 연결을 하실 수 있구요.
+## 2. 어떻게 활용할 수 있나요?
+
+게시물은 링크마법사에서 게시물 검색으로 다 연결을 할 수 있구요.
 
 카테고리에서 직접 연결해서 쓸 경우는 게시물을 바로 연결할 수 없기 때문에, 생성한 링크를 가져와서 웹링크로 적용할 수 있습니다.
+
+### <mark style="color:blue;">1)앱제작 V3버전 이용시</mark>
+
+<figure><img src="../../../.gitbook/assets/게시물-링크마법사연결.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 - STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름을 입력해주세요.
+
+4\)페이지 디자인에서 \[링크] 선택
+
+5\)\[인터넷 주소]를 선택해주세요.
+
+6\)웹사이트 주소란에 앞에서 복사한 게시물 링크를 붙여넣기 해주세요&#x20;
+
+7\)\[URL 적용하기] 버튼 선택
+
+8\)\[저장] 버튼을 누르면 완료됩니다.
+
+
+
+### <mark style="color:blue;">2)앱제작 V2버전 이용시</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%A7%81%ED%81%AC%EC%83%9D%EC%84%B13.png)
 
@@ -74,15 +98,14 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면**</mark>
+### <mark style="color:blue;">**3)앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%85%B9%ED%99%94\_2021\_04\_29\_15\_50\_23\_219.gif)
 
 메뉴 선택시 해당 게시물 페이지로 바로 이동하는 것을 확인할 수 있습니다.&#x20;
 
-***
-
-<mark style="color:red;">**\[주의사항]**</mark>
+{% hint style="warning" %}
+<mark style="color:orange;">**주의사항**</mark>
 
 1.생성된 게시물 링크는 앱 내에서만 이용가능합니다. 외부에서 이용 가능한 링크가 아닙니다.&#x20;
 
@@ -93,3 +116,5 @@
 예를들어 A앱에서 생성한 게시물 링크는 A 앱에서만 반영되며, B앱이나 C앱으로 적용할 수 없습니다.
 
 \*연결된 앱에서만 이용 가능
+{% endhint %}
+

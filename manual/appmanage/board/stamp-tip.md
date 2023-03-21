@@ -1,10 +1,10 @@
+---
+description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
+---
+
 # 스탬프 응용: 스탬프 완료시 쿠폰발행하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%84%EC%BF%A0%ED%8F%B0%EB%B0%9C%EC%86%A1-%EC%A0%9C%EB%AA%A9.png)
-
-**스탬프 완료시 쿠폰 발행 이용방법**
-
-스탬프 완료시 쿠폰발행 기능을 이용하는 방법에 대해서 알려드립니다. (2019.03.27 업데이트)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 해당 기능을 이용하면 스탬프가 정해진 갯수만큼 다 채워질 경우 자동으로 스탬프 화면이 초기화 되구요.
 
@@ -12,7 +12,7 @@
 
 ***
 
-### <mark style="color:blue;">**01. 스탬프 완료시 쿠폰발행이란?**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 스탬프 완료시 쿠폰발행이란?
 
 스탬프 상세설정에 새롭게 추가된 기능이구요.(2019.03.27)
 
@@ -20,23 +20,19 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B0.png)
 
-<mark style="color:orange;">**\*관리자가 설정한 스탬프 숫자만큼 모두 찍히면, 자동으로 사용자의 앱에서 스탬프가 모두 비워진 화면으로 리셋되구요!**</mark>
+\*관리자가 설정한 스탬프 숫자만큼 모두 찍히면, 자동으로 사용자의 앱에서 스탬프가 모두 비워진 화면으로 리셋되구요!
 
-<mark style="color:orange;">**\*자동으로 관리자가 설정해놓은 쿠폰을 사용자 앱으로 발행됩니다.**</mark>
+\*자동으로 관리자가 설정해놓은 쿠폰을 사용자 앱으로 발행됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**02. 이용방법**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 이용방법
 
-해당 포스팅에서는 스탬프 완료시 쿠폰을 발행하는 방법을 다루는 매뉴얼이에요!
+스탬프를 만드는 전체과정은 해당 매뉴얼을 참고해주시기 바랍니다.
 
-따라서 스탬프를 만드는 전체과정은 해당 포스팅을 참고해주시기 바랍니다.
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/stamp" %}
 
-**☞** [**스탬프 만들기 상세 방법 보러가기**](stamp.md)
-
-
-
-<mark style="color:orange;">**1.게시판 관리 이동**</mark>
+### <mark style="color:blue;">**1.게시판 관리 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
@@ -44,7 +40,7 @@
 
 
 
-<mark style="color:orange;">**2. 기본설정**</mark>
+### <mark style="color:blue;">**2.기본설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%841\_20.02.png)
 
@@ -76,7 +72,7 @@ or
 
 <mark style="color:orange;">​</mark>
 
-<mark style="color:orange;">**3. 스탬프 상세설정**</mark>
+### <mark style="color:blue;">**3.스탬프 상세설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%842\_20.02.png)
 
@@ -106,13 +102,15 @@ or
 
 ***
 
-<mark style="color:blue;">**03. 앱 실행화면**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_28\_14\_15\_58\_592.gif)
 
 **움짤이미지를 통해서 스탬프 등록이 완료되면 앱에서 화면이 어떻게 전환되는지 확인해주세요!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-4.png)
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B02.png)
 
@@ -120,11 +118,9 @@ or
 
 확인을 선택하면 사용자가 발급받은 쿠폰 목록을 확인할 수 있습니다.
 
-***
 
-쿠폰발행 기능을 선택하지 않고 스탬프를 제작할 경우 10개 스탬프를 모으면, 무료 음료 쿠폰 제공한다고 하였을 때 10개가 다 채워져도
 
-**스탬프 화면이 리셋되지 않고, 10개가 그대로 남아 있었어요.**
+쿠폰발행 기능을 선택하지 않고 스탬프를 제작할 경우 10개 스탬프를 모으면, 무료 음료 쿠폰 제공한다고 하였을 때 10개가 다 채워져도 **스탬프 화면이 리셋되지 않고, 10개가 그대로 남아 있었어요.**
 
 따라서 관리자는 스윙 스탬프 관리화면에서 회원을 조회한뒤, 다 채워진 10개를 삭제하는 방법으로 관리해야 했어요.
 
@@ -132,7 +128,7 @@ or
 
 **↓**
 
-<mark style="color:orange;">**\[스탬프 완료시 쿠폰발행]을 선택해서 제작할 경우**</mark>
+**\[스탬프 완료시 쿠폰발행]을 선택해서 제작할 경우**
 
 **\*관리자가 설정한 스탬프 숫자만큼 모두 찍히면, 자동으로 사용자의 앱에서 스탬프가 모두 비워진 화면으로 리셋되구요!**
 
