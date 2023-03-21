@@ -108,7 +108,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 \*But 계정은 바로 사용할수 있는 것은 아니구요. 약 2주 후부터 엔터프라이즈에서 계정을 사용할 수 있어요.
 
-
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">5. 스윙투앱 신청방법</mark>
 
