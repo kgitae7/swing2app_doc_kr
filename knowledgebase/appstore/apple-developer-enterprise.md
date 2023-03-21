@@ -1,10 +1,12 @@
 # Apple Developer Enterprise Program
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 **Apple Developer Enterprise Program**
 
 [https://developer.apple.com/kr/programs/enterprise/](https://developer.apple.com/kr/programs/enterprise/)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**Apple Developer Enterprise Program 란?**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">1.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Apple Developer Enterprise Program 란?**</mark>
 
 앱스토어에 공식 출시를 할 수 없는 특정 앱으로 **회사 및 조직 내부 사용을 위한 앱 배포**를 말합니다. &#x20;
 
@@ -12,9 +14,9 @@
 
 내부 시스템을 이용하여 회사 내 직원들에게 비공개로 배포하여 이용할 수 있습니다.&#x20;
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**자격 요건**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">2.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**자격 요건**</mark>
 
 Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 것은 아니며, 아래의 조건에 충족해야 합니다.&#x20;
 
@@ -30,9 +32,9 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 [**test-flight 이용방법 보러가기** ](appstore-testflight.md)
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**엔터프라이즈 계정 멤버쉽 비용 (1년)**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">3.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 계정 멤버쉽 비용 (1년)**</mark>
 
 \-사내 내부용 : 엔터프라이즈(Enterprise) 계정 **$299**&#x20;
 
@@ -40,11 +42,11 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 \-사내, 외부 모두 사용 시 : **$299 + $99 = $398**&#x20;
 
-****
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**엔터프라이즈 프로그램(Enterprise Program) 가입 신청방법**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">4.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 프로그램(Enterprise Program) 가입 신청방법**</mark>
 
-1\. 애플 개발자 사이트: **** [**https://developer.apple.com/** ](https://developer.apple.com/)접속해서 애플 개발자 계정을 먼저 만들어주세요.&#x20;
+1\) 애플 개발자 사이트: **** [**https://developer.apple.com/** ](https://developer.apple.com/)접속해서 애플 개발자 계정을 먼저 만들어주세요.&#x20;
 
 <mark style="color:orange;">\[개발자 계정 등록시 주의사항]</mark>
 
@@ -66,7 +68,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 ****
 
-**2.계정 등록이 완료되었다면  Enterprise Program 으로 이동해주세요**
+**2)계정 등록이 완료되었다면  Enterprise Program 으로 이동해주세요**
 
 [https://developer.apple.com/kr/programs/enterprise/](https://developer.apple.com/kr/programs/enterprise/)
 
@@ -80,7 +82,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 
 
-**3. 등록해야 할 사항 확인**&#x20;
+**3) 등록해야 할 사항 확인**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/01/%EC%95%A0%ED%94%8C2.png)
 
@@ -96,7 +98,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 
 
-4\. 마지막까지 신청 했으면 “애플 직원이 확인 후 연락이 갈 것이며 다음 진행사항을 진행한다”라는 문구가 뜹니다.
+4\) 마지막까지 신청 했으면 “애플 직원이 확인 후 연락이 갈 것이며 다음 진행사항을 진행한다”라는 문구가 뜹니다.
 
 그렇게 진행하면 1차적으로 신청이 완료 된 것입니다.
 
@@ -104,11 +106,51 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 결제을 진행하면 엔터프라이즈 계정을 최종 발급 됩니다.
 
-\*but 계정은 바로 사용할수 있는 것은 아니구요. 약 2주 후부터 엔터프라이즈에서 계정을 사용할 수 있어요.
+\*But 계정은 바로 사용할수 있는 것은 아니구요. 약 2주 후부터 엔터프라이즈에서 계정을 사용할 수 있어요.
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**안내 사항**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">5. 스윙투앱 신청방법</mark>
+
+이용방법은 유료앱 이용과 동일합니다. (무료버전앱 이용불가)
+
+**1)앱제작을 완료한 뒤 **<mark style="color:purple;">**스윙투앱 유료앱 이용권, 앱스토어 업로드 티켓(20,000원)**</mark>** 구매해주세요.**
+
+(이용권은 기본, 확장, 프리미엄 그외 플러그인 상품 중 원하는 상품으로 구매해주세요.)
+
+\*이용권, 티켓 구매 페이지 ☞ [https://www.swing2app.co.kr/view/shop\_list](https://www.swing2app.co.kr/view/shop\_list)
+
+\*웹뷰, 푸시전용으로 앱을 제작하신 분들은 **무제한 유료앱 상품(이용기간 제한 없는 무제한 상품)**으로 구매가 가능합니다.
+
+스윙 플러그인 구매 페이지 ☞ [http://www.swing2app.co.kr/view/shop\_list\_by\_plugin](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)
+
+
+
+**2)유료앱 이용권, 앱스토어 업로드 티켓 구매 후 \***[**앱운영 →버전관리 → 앱제작 이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 앱스토어 업로드 신청을 해주세요.**
+
+실제 공식 출시를 하는 것은 아니지만, 엔터프라이즈 배포 앱도 앱스토어 애플의 심사를 받은 후에 이용이 가능해요.
+
+따라서 업로드 신청서에 기재된 항목을 모두 입력해서 신청해주셔야 합니다.
+
+\*업로드 신청서 애플 계정란에 애플 엔터프라이즈 개발자 계정을 기재해주셔야 합니다.&#x20;
+
+\*업로드 신청서 업로드 요청사항란에 **“엔터프라이즈 출시”**라고 기재해주시기 바랍니다.&#x20;
+
+**☞**[ **\[앱스토어 업로드 신청방법 매뉴얼 확인하기\]**](../../manual/appmanage/version/appstore-upload.md)
+
+
+
+**3)앱스토어 등록은 심사기간 3\~5일 정도가 소요됩니다.**
+
+심사 후 승인이 완료되면 앱 설치 방법이 기재된 메일을 발송해드립니다.&#x20;
+
+해당 메일을 확인하여 앱을 설치할 수 있습니다.&#x20;
+
+공식 출시로 배포로 하는 것보다 앱 출시보다는 금방 되며, 거절 없이 거의 대부분은 승인이 되고 있습니다.
+
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">6.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**안내 사항**</mark>
 
 1.애플 엔터프라이즈 개발자 계정을 알려주시면, 앱을 등록하고 배포하는 과정은 모두 스윙투앱에서 진행해드립니다.
 
@@ -126,4 +168,5 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 4.엔터프라이즈 이용이 불가하거나 가입이 리젝될 경우 test-flight로 이용하는 방법도 있으니 해당 방법도 함께 확인해주세요.
 
-[https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/](appstore-testflight.md)
+{% embed url="https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/" %}
+
