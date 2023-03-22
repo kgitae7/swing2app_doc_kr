@@ -14,7 +14,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1. 출석체크 등록하기**
+## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1. 출석체크 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
 
@@ -22,7 +22,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ****
 
-<mark style="color:blue;">**1. 출석체크 등록하기**</mark>
+### <mark style="color:blue;">**1. 출석체크 등록하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC\_2.png)
 
@@ -42,7 +42,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 <mark style="color:purple;">****</mark>
 
-<mark style="color:blue;">**2. 출석체크 자동등록**</mark>
+### <mark style="color:blue;">**2. 출석체크 자동등록**</mark>
 
 **\*설정한 주기에 맞춰 출석체크 게시물을 자동으로 게시되고자 할 때 이용해주세요!!**
 
@@ -64,7 +64,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 <mark style="color:purple;"></mark>
 
-<mark style="color:blue;">**3. 출석체크 마감**</mark>
+### <mark style="color:blue;">**3. 출석체크 마감**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC\_3.png)
 
@@ -80,11 +80,35 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
+## <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
 
 출석체크 작성이 완료되면, 앱에 적용해야하겠죠?
 
 앱제작 – 페이지 메뉴로 이동해서, 출석체크를 앱에 적용해볼게요!
+
+
+
+### <mark style="color:blue;">1.앱제작 V3버전 이용</mark>
+
+<figure><img src="../../../.gitbook/assets/출석체크.png" alt=""><figcaption></figcaption></figure>
+
+1\) 앱제작 화면 - STEP3 페이지 단계로 이동합니다.
+
+2\) 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[기본 기능] - \[페이지]를 선택해주세요.&#x20;
+
+5\) ‘출석체크’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.&#x20;
+
+
+
+### <mark style="color:blue;">2.앱제작 V2버전 이용</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99-%EA%B8%B0%EB%8A%A5-%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%ACnew.png)
 
@@ -110,7 +134,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
+## <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
 
 앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 
@@ -120,21 +144,21 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4_20.03.png" alt=""><figcaption></figcaption></figure>
 
 게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있어요.
 
 
 
-<mark style="color:blue;">**\[출석체크 이벤트 마감]**</mark>
+### <mark style="color:blue;">**1.출석체크 이벤트 마감**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5_20.03.png" alt=""><figcaption></figcaption></figure>
 
 이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="color:blue;">**앱 운영자 대시보드 확인**</mark>
+
+### <mark style="color:blue;">**2.앱 운영자 대시보드 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
 

@@ -14,8 +14,6 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-***
-
 ### <mark style="color:blue;">**1. 예약설정 이용방법**</mark> &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%88%EC%95%BD%EC%9E%91%EC%84%B11.png)

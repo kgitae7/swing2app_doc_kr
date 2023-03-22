@@ -4,6 +4,8 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 # 팝업 이용방법
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 **팝업이란?**&#x20;
 
 앱 실행시 새로운  이미지 창을 띄어서 앱 공지나 이벤트 등을 보여줄 수 있는 기능입니다.
@@ -96,7 +98,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**앱 실행화면 – 팝업 적용 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_02\_16\_23\_24\_13\_769.gif)
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_02_16_23_24_13_769.gif" alt=""><figcaption></figcaption></figure>
 
 앱을 실행하면 팝업 이미지 화면을 확인할 수 있어요.
 
@@ -104,7 +106,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면)팝업 스타**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면)팝업 스타일**
 
 <mark style="color:orange;">****</mark>
 

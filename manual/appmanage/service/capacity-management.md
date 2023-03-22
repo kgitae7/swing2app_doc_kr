@@ -1,10 +1,12 @@
+---
+description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 가능 용량 체크 방법'
+---
+
 # 리소스관리- 용량관리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-앱 용량을 확인할 수 있는 리소스 관리 이용방법을 알려드립니다.
-
-<mark style="background-color:blue;">**▶**</mark><mark style="color:purple;">**리소스 관리란?**</mark>
+<mark style="color:blue;">**리소스 관리란?**</mark>
 
 **앱에 제공되는 총 용량을 확인할 수 있고, 현재 사용 용량, 잔여 사용 가능 용량을 확인할 수 있는 기능입니다.**
 
@@ -18,15 +20,23 @@
 
 ***
 
-> <mark style="color:blue;">**Q\&A 앱 용량 관련 자주 묻는 질문**</mark>
+<mark style="color:blue;">**Q\&A 앱 용량 관련 자주 묻는 질문**</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**앱 용량에는 어떤 항목들이 집계되나요?**
+<details>
 
-게시물에 등록한 이미지, 동영상 등의 첨부 파일이 집계됩니다. (게시판 외에 다른 항목은 용량에 집계되지 않아요)
+<summary><strong>앱 용량에는 어떤 항목들이 집계되나요?</strong></summary>
 
+앱에 등록되는 파일, 이미지 등의 용량
 
+게시판에-게시물에 등록한 이미지, 동영상 등의 첨부 파일이 집계됩니다.&#x20;
 
-<mark style="background-color:blue;">**▶**</mark>**제공되는 앱 용량이 초과되면 어떻게 되나요?**
+게시물에 작성된 글을 용량에 집계되지 않습니다.&#x20;
+
+</details>
+
+<details>
+
+<summary><strong>제공되는 앱 용량이 초과되면 어떻게 되나요?</strong></summary>
 
 제공되는 앱 용량이 초과되면 앱 이용이 정지됩니다. 앱 실행시 이용만료 메시지가 뜨구요.
 
@@ -34,35 +44,43 @@
 
 용량이 초과되면, 앱 이용기간이 남아 있더라도 앱 이용이 정지가 되오니 반드시 용량을 체크해주세요!
 
+</details>
 
+<details>
 
-<mark style="background-color:blue;">**▶**</mark>** 용량을 추가로 구매할 수 있나요?**
+<summary><strong>용량을 추가로 구매할 수 있나요?</strong></summary>
 
 네 필요한 용량만 추가로 구매할 수 있어요.
 
-결제 -스윙 이용권, 티켓 결제 페이지에서 저저용량 상품을 구매해주세요.
+[결제/이용권구매-플러그인 추가 상품구매  페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)에서 저장용량 상품을 구매할 수 있습니다.
+
+</details>
+
+<details>
+
+<summary><strong>필요 없는 게시물, 이미지 등을 삭제하면 앱 용량을 줄일 수 있나요?</strong></summary>
+
+네 리소스 관리자 페이지로 이동 후 \[새로고침] 버튼 선택하면 등록된 게시물 목록 및 집계된 용량을 확인할 수 있습니다.&#x20;
+
+미리보기-\[이동]을 선택해서 게시물 내용을 확인 한 뒤, **필요 없는 게시물이면 \[삭제하기] 버튼을 선택해서 지울 수 있습니다.**
+
+**\[새로고침] 버튼 선택 시, 지운 용량만큼 용량이 추가되요!**
+
+</details>
 
 
 
-<mark style="background-color:blue;">**▶**</mark>** 필요 없는 게시물, 이미지 등을 삭제하면 앱 용량을 줄일 수 있나요?**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-네 리소스 관리자 페이지로 이동하시면 각 게시물 목록을 확인할 수 있구요.
-
-미리보기-\[이동]을 선택하셔서 게시물 내용을 확인 한 뒤, **필요 없는 게시물이면 \[삭제하기] 버튼을 선택해서 지울 수 있습니다.**
-
-**지운 용량만큼 용량이 추가되요!**
-
-***
-
-<mark style="color:blue;">**1. 리소스 관리 페이지 이동**</mark>
+## 1. 리소스 관리 페이지 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4new%EC%82%AC%EC%9D%B4%EC%A6%88%EC%88%98%EC%A0%95.png)
 
 [**앱운영 페이지 → 서비스관리 → 리소스관리**](http://www.swing2app.co.kr/view/storage\_manager) **메뉴로 이동합니다.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**2. 리소스 관리자 페이지**</mark>
+## 2. 리소스 관리자 페이지
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC2\_18.09.png)
 
@@ -78,13 +96,13 @@
 
 \-기능명을 선택하면 각 게시판 별로 필터링하여 볼 수 있습니다.
 
-> <mark style="color:purple;">\*무료버전 앱 용량: 100MB (리소스 관리 화면에는 0.10GB 표시됩니다)</mark>
+> **\*무료버전 앱 용량: 100MB (리소스 관리 화면에는 0.10GB 표시됩니다)**
 >
-> <mark style="color:purple;">\*유료버전 기본형 이용권 : 2GB , 확장형 이용권: 10GB,  프리미엄 이용권: 50GB</mark>&#x20;
->
-> <mark style="color:purple;"></mark>
+> **\*유료버전 기본형 이용권 : 2GB , 확장형 이용권: 10GB,  프리미엄 이용권: 50GB**&#x20;
 
-<mark style="color:orange;">**무료버전 앱 용량**</mark>
+<mark style="color:orange;">****</mark>
+
+<mark style="color:blue;">**무료버전 앱 용량**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3.png)
 
@@ -96,9 +114,9 @@
 
 <mark style="color:red;">따라서 필요한 용량만큼을 구매하거나,  용량을 차지하는 파일을 삭제해서 용량에 맞게 관리를 해야 합니다.</mark>
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**3. 미리보기 – 이동 버튼**</mark>
+## 3. 미리보기 – 이동 버튼
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3\_18.09.png)
 
@@ -106,9 +124,9 @@
 
 그래서 **미리보기에 \[이동] 버튼을 선택하면 어떤 이미지를 등록했는지 확인할 수 있어요.**
 
-****
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**4. 게시물 삭제하기**</mark>
+## 4. 게시물 삭제하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC4\_18.09.png)
 
@@ -116,22 +134,33 @@
 
 이렇게 게시물을 삭제하시면 부족한 용량을 확보할 수 있어요.
 
-***
+\[새로고침] 버튼 선택 후 다시 리셋된 용량을 확인할 수 있습니다.&#x20;
 
-<mark style="color:red;">**★주의사항**</mark>
 
-**1. 앱 용량은 무료 이용은 100mb 제공되며, 유료이용은 상품 유형에 따라서 기본형-2GB, 확장형-10GB, 프리미엄-50GB를 제공합니다.**
+
+{% hint style="danger" %}
+<mark style="color:red;">**안내사항**</mark>
+
+<mark style="color:red;">****</mark>
+
+**1. 앱 용량은 무료 이용은 100MB 제공되며, 유료이용은 상품 유형에 따라서 기본형-2GB, 확장형-10GB, 프리미엄-50GB를 제공합니다.**
 
 따라서 각 상품별 앱 용량을 확인하여 앱 운영을 해주시기 바랍니다.
 
+
+
 **2. 용량만 추가하여 결제할 수 있습니다.**
 
-앱 용량이 부족할 경우 결제- [<mark style="color:purple;">**\[**</mark>**스윙 이용권 티켓 구매\]**](http://www.swing2app.co.kr/view/shop\_list)- 용량 추가 상품을 구매해주세요.
+앱 용량이 부족할 경우 [결제/이용권구매-플러그인 추가 상품구매  페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)에서 용량 추가 상품을 구매해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-5.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-5.png" alt="" data-size="original">
+
+****
 
 **3. 앱 용량이 초과되면 앱 이용이 정지됩니다.**
 
 유료앱 이용권이 적용된 앱의 경우도, 이용일수가 아직 남아 있더라도 용량이 초과되면 앱 이용이 정지됩니다.
 
 따라서 용량을 반드시 확인하여 운영해주시기 바랍니다.
+{% endhint %}
+
