@@ -1,69 +1,55 @@
 ---
-description: 게시물을 선택하여, 다른 게시판으로 글을 이동하는 방법
+description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [일괄 삭제] 기능 이용방법
 ---
 
-# 게시물 이동
+# 게시물 일괄 삭제
 
-**게시글 이동이란?**
+****
 
-게시글 이동은 게시글(게시물)을 선택하여 원하는 게시판으로 이동시킬 수 있는 기능입니다.
+게시물 일괄 삭제 기능은 다중 선택된 게시물을 일괄로 삭제할 수 있는 기능이에요.
 
-게시글 복사와는 다르게 기존 게시판에 등록된 글은 삭제되고, 작성일은 기존 등록일로 유지됩니다.
-
-
-
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**게시물 복사와 게시물 이동의 차이점**</mark>
-
-<mark style="background-color:blue;">​</mark>**게시물 복사**
-
-게시물을 다른 게시판으로 복사하는 기능
-
-\+기존 게시판에도 해당 글은 유지됩니다.
-
-\+복사된 글은 복사된 일자로 등록일자가 수정됩니다.
-
-​
-
-**게시물 이동**
-
-게시물을 다른 게시판으로 이동시키는 기능(=잘라내기)
-
-\+기존 게시판에는 해당 글은 삭제 처리됩니다.
-
-\+이동한 글은 기존 작성일로 등록일자가 유지됩니다.
+게시판에서 여러 게시물을 한번에 삭제하고자 할 때 유용하게 사용할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>)**게시글 이동 이용방법**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/001.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C.png)
 
-1\)앱운영 – 게시물 관리에서 만들어놓은 게시판을 선택해서 이동합니다. (게시글을 이동하고자 하는 게시판 선택)
+앱운영 페이지 → 게시물관리→ 게시판(게시물을 삭제하고자하는 게시판)으로 이동합니다.
 
-2\)\[리스트형] 선택
+***
 
-3\)작성된 게시물 리스트에서 이동하고자 하는 게시물을 선택합니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/002.png)
 
-4\)\[게시글 이동] 버튼을 선택합니다.
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%82%AD%EC%A0%9C.png" alt=""><figcaption></figcaption></figure>
 
+1\) 게시물 \[리스트 보기]로 선택해주시구요. (두 번째 아이콘)
 
+2\)삭제하고자하는 게시물 다중 선택 (전체글 선택 하시면 한번에 게시물이 전체 선택됩니다)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%992.png)
+3\)\[게시물 일괄 삭제] 버튼을 선택
 
-5\)대상 게시판을 선택한 뒤 \[이동] 버튼을 선택합니다.
+4\) 게시글 삭제 \[확인] 버튼 선택&#x20;
 
-6\)\[확인] 버튼 선택시 완료됩니다.
+&#x20;   선택된 게시물을 한번에 삭제할 수 있습니다.
 
-게시글 이동 이용방법 이렇게 간단하게 이용할 수 있어요!!
+***
 
-\-해당 게시판의 전체 글을 이동할 수도 있구요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/003.png)
 
-\-게시글 몇 개만 선택하여 이동할 수 있습니다.
+<mark style="color:orange;">**움짤이미지로 게시글 일괄 삭제 확인하기**</mark>
 
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94\_2020\_06\_17\_18\_41\_12\_982.gif)
 
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%993.png)
+<mark style="color:orange;">**–안내 사항–**</mark>​
 
-해당 게시판으로 이동시, 선택한 게시글이 이동된 것을 확인할 수 있습니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C3.png)
 
-****
+\* 삭제된 게시물은 복원이 되지 않으니 삭제 전에 지워도 되는 글인지 꼭 확인해주시기 바랍니다.
+
+\*게시물 리스트는 기본 10개로 리스트가 보여집니다.
+
+더 많은 글을 선택할 때는 아래 \[\~개씩 보기 버튼]을 선택하시면 50개, 100개 선택이 가능합니다.
