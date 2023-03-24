@@ -12,7 +12,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 1.채팅 공지 메시지
 
-<figure><img src="../../../.gitbook/assets/공지메시지 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/공지메시지.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 4.이전 대화목록 확인
 
-<figure><img src="../../../.gitbook/assets/이전대화목록 (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/이전대화목록.gif" alt=""><figcaption></figcaption></figure>
 
 채팅방에 접속한 상태가 아니라도 사용자들이 채팅방에서 주고 받은 대화목록을 확인할 수 있습니다.
 
@@ -62,7 +62,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 5.채팅 알림 푸시
 
-<figure><img src="../../../.gitbook/assets/푸시알림 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/푸시알림.png" alt=""><figcaption></figcaption></figure>
 
 채팅 메시지 발송시, 사용자 앱으로 푸시 알림이 발송됩니다.
 
@@ -74,7 +74,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 6. 사용자 프로필 이미지 생성
 
-<figure><img src="../../../.gitbook/assets/프로필이미지 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/프로필이미지.png" alt=""><figcaption></figcaption></figure>
 
 대화 메시지 옆에 사용자 프로필 이미지가 표시됩니다.&#x20;
 

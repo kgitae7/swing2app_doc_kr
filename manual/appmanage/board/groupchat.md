@@ -168,7 +168,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**2. 채팅방 메시지 푸시 알림**</mark>
 
-<figure><img src="../../../.gitbook/assets/푸시알림.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/푸시알림 (1).png" alt=""><figcaption></figcaption></figure>
 
 그룹채팅방에서 메시지를 입력하면 상대방에 푸시 알림이 발송이 되요.
 
@@ -182,7 +182,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**1) 채팅 공지 메시지**</mark>
 
-<figure><img src="../../../.gitbook/assets/공지메시지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/공지메시지 (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;<mark style="color:green;">****</mark> 채팅방 입장시 입력된 공지사항메시지 창이 뜹니다.&#x20;
 
@@ -212,7 +212,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 그룹채팅에서 제공하는 다양한 기능을 확인해주세요.
 
-
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/groupchat-function" %}
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
