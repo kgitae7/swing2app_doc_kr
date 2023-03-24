@@ -160,6 +160,7 @@
     * [게시물 이동](manual/appmanage/board/post-move.md)
     * [게시물 일괄 삭제](manual/appmanage/board/post-delete.md)
     * [그룹채팅](manual/appmanage/board/groupchat.md)
+    * [그룹채팅 기능 소개](manual/appmanage/board/groupchat-function.md)
     * [비밀게시판 만들기(1:1 고객센터)](manual/appmanage/board/secret-board.md)
     * [게시물 링크 생성하기](manual/appmanage/board/post-link.md)
     * [캘린더 이용방법](manual/appmanage/board/calander.md)

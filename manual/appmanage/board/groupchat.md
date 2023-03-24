@@ -12,8 +12,6 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 매뉴얼을 통해서 그룹채팅방 이용방법을 확인해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%85-KR.png)
-
 {% hint style="info" %}
 **스윙 상품 유형별 그룹채팅방 이용 정책**
 
@@ -156,13 +154,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 **앱을 실행하여서 채팅방이 앱에서 어떻게 보여지는지 확인해보겠습니다.**&#x20;
 
-<figure><img src="../../../.gitbook/assets/ㅇㅇㅇ.PNG" alt=""><figcaption></figcaption></figure>
-
 ### <mark style="color:blue;">**1. 그룹채팅방 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%854\_20.06.png)
+<figure><img src="../../../.gitbook/assets/그룹채팅-메인.png" alt=""><figcaption></figcaption></figure>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%855\_20.06.png)
+<figure><img src="../../../.gitbook/assets/이전대화목록 (1).gif" alt=""><figcaption></figcaption></figure>
 
 채팅방에는 본인 외에 다른 사용자의 입장을 확인할 수 있으며, 인원 및 글을 입력하는 상태도 확인할 수 있습니다.
 
@@ -170,15 +166,9 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%856\_20.06.png)
-
-채팅방에서 사진(이미지) 전송도 할 수 있습니다.
-
-
-
 ### <mark style="color:blue;">**2. 채팅방 메시지 푸시 알림**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8510\_20.06.png)
+<figure><img src="../../../.gitbook/assets/푸시알림.png" alt=""><figcaption></figcaption></figure>
 
 그룹채팅방에서 메시지를 입력하면 상대방에 푸시 알림이 발송이 되요.
 
@@ -192,15 +182,15 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**1) 채팅 공지 메시지**</mark>
 
-<figure><img src="../../../.gitbook/assets/챗1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/공지메시지.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;<mark style="color:green;">****</mark> 채팅방 입장시 입력된 공지사항메시지 창이 뜹니다.&#x20;
 
 
 
-<mark style="color:green;">**2) 비밀번호 설정**</mark>&#x20;
+<mark style="color:green;">**2) 비밀번호 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%858\_20.06.png)
+<figure><img src="../../../.gitbook/assets/비밀번호 (1).png" alt=""><figcaption></figcaption></figure>
 
 채팅방 입장시 채팅방 비밀번호 입력 창이 뜹니다.
 
@@ -210,13 +200,23 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**3) 사용자 목록 보기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%859\_20.06.png)
+<figure><img src="../../../.gitbook/assets/사용자목록보기 (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;채팅방의 오른쪽 상단 버튼을 누르면 채팅방에 입장한 사용자 목록을 확인할 수 있어요.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 그룹채팅 Q\&A
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 그룹채팅 기능 소개
+
+
+
+그룹채팅에서 제공하는 다양한 기능을 확인해주세요.
+
+
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP5. 그룹채팅 Q\&A
 
 ****
 
