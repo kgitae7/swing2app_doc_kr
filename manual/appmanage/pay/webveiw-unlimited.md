@@ -1,8 +1,12 @@
+---
+description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제한 유료앱 상품 소개
+---
+
 # 웹뷰 무제한 유료앱
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9B%B9%EB%B7%B0%EB%AC%B4%EC%A0%9C%ED%95%9C%EC%A0%9C%EB%AA%A9-1.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**웹뷰 무제한 유료앱이란?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**웹뷰 무제한 유료앱이란?**
 
 1\) 웹뷰무제한 유료앱은 **스윙 프로토타입- 웹뷰 스타일로 제작된 앱에 한해서 이용이 가능**합니다.
 
@@ -16,29 +20,9 @@
 
 **매월 내야 하는 유료앱 이용료 비용이 부담이 되는 경우, 오랜 기간 앱을 이용해야 할 때 부담없이 앱을 무제한으로 사용할 수 있습니다.**&#x20;
 
-****
-
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**웹뷰 무제한 유료앱 상품 종류**</mark>&#x20;
-
-**1)웹뷰 무제한 이용 플러그인 통합(안드로이드+아이폰)   300,000원**
-
-**2)웹뷰 무제한 이용 플러그인 (아이폰)  230,000원**
-
-**3)웹뷰 무제한 이용 플러그인 (안드로이드) 99,000원**
-
-스토어 출시 여부에 따라 상품 선택을 해주시면 됩니다.
-
-<mark style="color:purple;">-앱스토어, 플레이스토어 모두 출시할 예정이라면 → 웹뷰 무제한 통합(아이폰+안드로이드) 상품을 구매해주시구요.</mark>
-
-<mark style="color:purple;">-앱스토어만 출시한다면 → 웹뷰 무제한 플러그인(아이폰)</mark>
-
-<mark style="color:purple;">-플레이스토어만 출시한다면 → 웹뷰 무제한 플러그인(안드로이드)</mark>&#x20;
-
-운영하고자 하는 플랫폼 및 스토어 출시 여부에 따라 앱에 맞는 상품을 구매하실 수 있습니다.
 
 
-
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**프로토타입 : 웹뷰 란?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**프로토타입 : 웹뷰 란?**
 
 스윙에서는 여러 스타일의 UI디자인 – 프로토타입을 제공하고 있는데요.
 
@@ -51,30 +35,11 @@
 **매 월 내야 하는 유료앱 이용료 비용이 부담이 되는 경우, 오랜 기간 앱을 이용해야 할 때 부담없이 앱을 무제한으로 사용할 수 있습니다.** \
 
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-* **먼저 웹뷰로 앱을 제작하는 방법을 알아볼까요?**
-* ****
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP1. 웹뷰앱 제작방법**
 
-### <mark style="color:blue;">**1. 웹뷰 프로토타입으로 앱 제작하기**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%913\_20.08\_886.png)
-
-스윙 홈페이지 로그인 후 \[앱제작 페이지] 1단계 앱 기본정보
-
-**앱 아이디 → 앱 이름 → 앱 아이콘 이미지 → 앱 대기화면 이미지 입력** 후 저장해주세요.
-
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%912\_20.08\_886.png)
-
-​2단계 디자인테마 **\*프로토타입: ‘웹뷰 전용’ 선택**&#x20;
-
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91120.08\_886.png)
-
-3단계 페이지 메뉴  **사이트주소 란에 URL주소 입력 → 저장 버튼 → 앱제작하기 버튼 선택 →  제작하기 선택**
+<figure><img src="../../../.gitbook/assets/제작방법_V3버전.png" alt=""><figcaption></figcaption></figure>
 
 제작요청을 하면 10분 내로 웹뷰앱이 제작됩니다.
 
@@ -84,7 +49,7 @@
 
 <mark style="color:orange;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**웹뷰앱 특징**</mark>
+&#x20;** **<mark style="color:blue;">**웹뷰앱 특징**</mark>
 
 \-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
@@ -92,35 +57,43 @@
 
 \-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**2. 웹뷰 무제한 유료앱 구매 및 이용방법**</mark>
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP**2. 웹뷰 무제한 유료앱 구매 및 이용방법
 
-위에서 알려드린 방법으로 웹뷰 프로토타입 앱제작을 완료 한다음! 스윙 플러그인 구매 페이지로 이동할게요.&#x20;
+위에서 알려드린 방법으로 웹뷰 프로토타입 앱제작을 완료 한다음! 구매 페이지로 이동할게요.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9B%B9%EB%B7%B0%EB%AC%B4%EC%A0%9C%ED%95%9C\_20.07.png)
+<figure><img src="../../../.gitbook/assets/spaces_msJj00k8mj8AcVpnn9Xs_uploads_OXUP7UZMHnmhSEn9TzEW_웹뷰상품구매.webp" alt=""><figcaption></figcaption></figure>
 
-**1)**[**스윙 앱운영 페이지 → 결제 → 스윙 플러그인 구매 페이지에서 → 웹뷰 무제한 이용 플러그인 상품**](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)**을 선택합니다.**&#x20;
+**1) 구매 상품 안내**
 
-> <mark style="color:red;">**★ 웹뷰 무제한 플러그인 상품은 총 3가지로 운영할 플랫폼에 따라 구매가 가능합니다.**</mark>
->
-> <mark style="color:purple;">-앱스토어, 플레이스토어 모두 출시할 예정이라면 → 웹뷰 무제한 통합(아이폰+안드로이드) 상품을 구매해주시구요.</mark>
->
-> <mark style="color:purple;">-앱스토어만 출시한다면 → 웹뷰 무제한 플러그인(아이폰) 구매</mark>
->
-> <mark style="color:purple;">-플레이스토어만 출시한다면 → 웹뷰 무제한 플러그인(안드로이드) 구매</mark>&#x20;
+[앱운영 →결제/이용권 구매 → 스윙투앱 이용권 추천 페이지](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_voucher)로 이동해주세요&#x20;
+
+**웹뷰 무제한 유료앱 +플레이스토어 업로드티켓 (10,000원) +앱스토어 업로드 티켓 (20,000원)**
+
+웹뷰앱으로 이용기간 제한 없이 계속 이용하길 원하시면, ‘웹뷰무제한 유료앱’ 상품을 구매할 수 있습니다.
+
+{% hint style="success" %}
+<mark style="color:green;">**웹뷰 무제한 플러그인 상품은 총 3가지로 운영할 플랫폼에 따라 구매가 가능합니다.**</mark>
+
+\-앱스토어, 플레이스토어 모두 출시할 예정이라면 → 웹뷰 무제한 통합(아이폰+안드로이드) 상품을 구매해주시구요.
+
+\-앱스토어만 출시한다면 → 웹뷰 무제한 플러그인(아이폰) 구매
+
+\-플레이스토어만 출시한다면 → 웹뷰 무제한 플러그인(안드로이드) 구매&#x20;
+{% endhint %}
 
 상품을 결정하셨다면! \[구매하기] 버튼을 누르면 구매 상세 페이지로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9B%B9%EB%B7%B0%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B82\_2020.07.png)
-
-<mark style="color:red;">\*웹뷰 무제한 플러그인 통합(300,000원) 상품을 선택하였구요!</mark>
-
 <mark style="color:red;">상품 구매를 선택하면 이용에 관련된 상세 내용을 확인할 수 있어요,  결제 전 반드시 내용을 확인한 뒤에 구매하기를 진행해주세요.</mark>
+
+<mark style="color:red;"></mark>
 
 2\) 구매가 완료되면 개발팀에서 웹뷰 무제한 유료앱을 적용한 내용으로 사용자의 앱을 새 버전으로 다시 제작해드립니다.&#x20;
 
 **1시간\~2시간 이내로 개발팀에서 별도로 처리 후 메일드립니다. (바로 적용되지 않아요!)**
+
+****
 
 3\) 완료 메일을 받은 뒤 웹뷰 무제한이 적용된 새 버전의 앱을 플레이스토어, 앱스토어에 등록할 수 있습니다.&#x20;
 
@@ -128,41 +101,49 @@
 
 \*기존 앱이 출시된 사용자는 스토어에 다시 업데이트하여 재출시 해야 합니다.
 
-4\) 스토어 업로드 신청하기&#x20;
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-플레이스토어, 앱스토어 등 출시를 원하는 스토어에 업로드 신청을 해주세요.
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
 
-1\)[**결제 → 스윙이용권, 티켓 구매 페이지**](http://www.swing2app.co.kr/view/shop\_list)에서  업로드 티켓을 구매합니다.
+플레이스토어, 앱스토어 등 출시를 원하는 스토어에 업로드 신청을 해주세요.
 
-2\)티켓을 구매하셨다면 [**\*앱운영- 버전관리- 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)에서
+&#x20;[**\*앱운영- 버전관리- 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)에서
 
 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청]  버튼을 눌러서 신청서 작성하시면 접수 됩니다.&#x20;
+
+업로드티켓이 없을 경우, [결제/이용권  구매 - 업로드티켓구매](http://www.swing2app.co.kr/view/new\_product\_list\_by\_publish\_service) 페이지에서 업로드 티켓 구매 후 신청해주세요.&#x20;
 
 **\*플레이스토어는 직접 등록이 가능할 경우 업로드 티켓 구매하실 필요 없으며, 해당 버전앱을 직접 출시해주시면 됩니다.**
 
 **\*앱스토어는 직접 업로드 불가하며, 스윙 대행으로만 업로드 출시 가능합니다.**
 
-****
+{% hint style="warning" %}
+<mark style="color:orange;">**스토어 업로드 관련 주의사항**</mark>
 
-<mark style="color:orange;">**\[스토어 업로드 관련 주의사항]**</mark>
+1\)푸시전용 무제한 유료앱 패키지 상품(33만원)구매시 업로드티켓이 모두 제공됩니다.&#x20;
 
-1\)푸시전용 무제한 유료앱 상품에는 스토어 업로드 티켓이 포함되어 있지 않습니다.&#x20;
+2\)무제한 이용권 단품(30만원)만 구매시에는 스토어 업로드 티켓이 포함되어 있지 않습니다.&#x20;
 
-<mark style="color:red;">스토어 업로드 대행은 \[플레이스토어 업로드 티켓(10,000원), 앱스토어 업로드 티켓(20,000원)]을 구매해서 업로드 신청을 할 수 있습니다.</mark>&#x20;
+\[플레이스토어 업로드 티켓(10,000원), 앱스토어 업로드 티켓(20,000원)]을 별도 구매해서,&#x20;
 
-[**\[플레이스토어 업로 티켓 구매하기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4) **,**  [**\[앱스토어 업로드티켓 구매하기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)
+업로드 신청을 할 수 있습니다.&#x20;
 
-**2)플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다.** [**\[상품 상세 내용 보기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)&#x20;
+[\[플레이스토어 업로 티켓 구매하기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4) ,  [\[앱스토어 업로드티켓 구매하기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)
 
-**3)앱스토어는 개발자 계정을 만들거나 당사 스윙투앱 회사 계정인 휴스테이로 대리등록이 가능합니다.** [**\[상품 상세 내용 보기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3) ****&#x20;
+3\)플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)&#x20;
+
+4\)앱스토어는 개발자 계정을 만들거나 당사 스윙투앱 회사 계정인 휴스테이로 대리등록이 가능합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)&#x20;
 
 \*각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다. &#x20;
+{% endhint %}
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### &#x20;<mark style="color:blue;">**3. 웹뷰 무제한 유료앱 이용시 주의사항**</mark>
+## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP4**. 웹뷰 무제한 유료앱 이용시 주의사항
+
+
 
 1\) 웹뷰 무제한 이용 중, 앱에 적용된 웹링크 주소를 변경해야 할 경우는 앱 업데이트가 필요합니다.&#x20;
 
@@ -202,20 +183,15 @@
 
 앱 이전에 필요한 정보에 대해 안내드립니다.&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**4. 환불안내**</mark>
+## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP**4. 환불안내
 
-1\)웹뷰 무제한 유료앱 상품은 결제 후, 상품 적용 전이라면 환불이 가능합니다.&#x20;
+* 사용하지 않은 이용권은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment\_list) 환불 신청 가능
+* **무제한 셋팅 작업이 완료되면 환불이 불가합니다.** 취소 및 환불은 상품 적용 전  [문의게시판](http://www.swing2app.co.kr/view/service\_qa) 혹은 [채팅 상담](https://direct.lc.chat/12036120/)으로 문의주시기 바랍니다.
+* 구매한 이용권은 다른 앱으로 옮길 수 없습니다.
+* 구매일 기준 30일 이후에는 어떤 경우라도 환불이 불가합니다.
 
-2\)이미 웹뷰 무제한 상품이 적용되었다면 환불해드릴 수 없습니다
-
-\*환불을 할 경우 상품을 적용하기 전 미리 연락주시기 바랍니다.
-
-3\)카드 자동환불이 되지 않을 경우 환불금액을 입금해드립니다. 계좌번호, 은행명, 입금주명을 알려주시기 바랍니다.
-
-4\)스윙투앱 환불정책을 확인해주시기 바랍니다.
-
-****[**\[이용정책-환불규정 확인하기\]**](https://wp.swing2app.co.kr/help/user-protocol/)
+{% embed url="https://documentation.swing2app.co.kr/user-protocol" %}
 
 \[제2장 서비스의 이용] 제10조 (이용권 및 상품 환불에 대한 규정)

@@ -26,7 +26,7 @@ description: 웹사이트를 연결한 웹앱 - 웹뷰전용앱을 소개합니�
 
 ## 웹뷰앱 제작방법
 
-<figure><img src="../../../.gitbook/assets/제작방법_V3버전 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/제작방법_V3버전 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
