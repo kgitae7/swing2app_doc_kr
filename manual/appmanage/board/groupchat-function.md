@@ -4,7 +4,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 # 그룹채팅 기능 소개
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 그룹 채팅방을 만들고 운영하는 방법은 아래 매뉴얼을 확인해주세요.
 

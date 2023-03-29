@@ -32,7 +32,7 @@ description: 게시물을 선택하여, 다른 게시판으로 글을 이동하�
 
 \+이동한 글은 기존 작성일로 등록일자가 유지됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ****![](<../../../.gitbook/assets/image (2) (1).png>)**게시글 이동 이용방법**
 

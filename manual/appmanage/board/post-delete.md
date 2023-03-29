@@ -10,7 +10,7 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 게시판에서 여러 게시물을 한번에 삭제하고자 할 때 유용하게 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/001.png)
 

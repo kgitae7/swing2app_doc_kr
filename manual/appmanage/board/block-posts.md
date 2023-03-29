@@ -4,7 +4,7 @@ description: 게시물을 차단하여 게시물을 안보이게 하는 방법
 
 # 게시물 차단하기
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시물 차단은,**
 
@@ -14,7 +14,7 @@ description: 게시물을 차단하여 게시물을 안보이게 하는 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EC%B0%A8%EB%8B%A8%EA%B8%B0%EB%8A%A5.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 게시물 차단하기
 

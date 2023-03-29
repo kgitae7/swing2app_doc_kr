@@ -242,7 +242,33 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**상품 카테고리 적용하기**
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱제작 V3버전 이용시 - 상품 카테고리 적용하기**
+
+<figure><img src="../../.gitbook/assets/등급_상품구매1.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[상품 카테고리]를 선택해주세요.&#x20;
+
+\*카테고리는 스윙샵 상품등록시 미리 만들어주셔야 합니다. 상품 카테고리가 없을 경우 적용이 불가합니다.
+
+6\) 적용할 카테고리를 찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+
+
+****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱제작 V2버전 이용시 - 상품 카테고리 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%93%B1%EA%B8%89%EA%B6%8C%ED%95%9C.png)
 
@@ -282,7 +308,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP6. 스윙 주식 샘플앱) 권한변경 상품 구매 확인하기**</mark>
+### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP6. 스윙 주식 샘플앱) 권한변경 상품 구매 확인하기
 
 스윙 주식 샘플앱을 통해서 앱에 권한변경 상품이 어떻게 등록되었는지 확인해주세요.
 

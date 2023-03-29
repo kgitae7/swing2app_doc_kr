@@ -4,7 +4,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 # 게시판: 목록화면, 작성화면 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 게시판을 적용할 때, 게시판을 불러오는 스타일을 선택하게 되는데요.
 
@@ -70,7 +70,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <mark style="color:blue;">****</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 2. 게시판: 작성화면
 
@@ -112,7 +112,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 3. 게시판 작성화면 이용목적
 
@@ -150,7 +150,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="앱제작 V2 매뉴얼" %}

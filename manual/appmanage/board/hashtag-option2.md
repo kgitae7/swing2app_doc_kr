@@ -4,7 +4,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 # 해시태그 검색옵션 이용방법2
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8-KR.png)
 
@@ -40,7 +40,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 매뉴얼을 통해서 해시태그 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 게시판 관리 – 해시태그 관리
 
@@ -58,7 +58,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2. 해시태그 검색 옵션 만들기 <mark style="color:blue;">****</mark>&#x20;
 
@@ -136,7 +136,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_05\_28\_15\_48\_09\_538.gif)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 게시물에 해시태그 검색어 입력하기
 
@@ -164,7 +164,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_05\_28\_15\_45\_08\_671.gif)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 앱에 해시태그 게시판 적용하기
 

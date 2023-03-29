@@ -10,7 +10,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 예를 들어 입력된 해시태그 중 ‘ #스윙투앱’ 을 선택하면, 스윙투앱 태그 단어가 포함된 모든 게시물을 찾아서 보여주는 것이죠\~!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱 실행화면) 해시태그 검색 기능
 
@@ -30,7 +30,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 <mark style="color:red;">**#스윙 들어간 게시물 목록들이 모두 검색됩니다.**</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 해시태그 입력하기
 

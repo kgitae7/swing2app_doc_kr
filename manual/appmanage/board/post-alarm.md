@@ -4,7 +4,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 # 게시판 새글알람 설정방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **새글 알람 이란?**
 
@@ -20,7 +20,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 <mark style="color:red;">-앱 운영자가 웹대시보드(스윙투앱 홈페이지 게시물관리에서 작성한 글)에서 작성한 글에는 알림이 발송되지 않습니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. **** 게시판 <mark style="color:blue;"></mark> 관리
 
@@ -28,7 +28,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 스윙 홈페이지 접속 후 [**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) 메뉴로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 게시판 생성 및 설정&#x20;
 
@@ -50,7 +50,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/administrator" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 **4) 새글알람에 회원이 잘 추가되었는지 확인 후 \[저장] 버튼을 눌러주세요.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 앱에 게시판 적용하기
 
@@ -140,7 +140,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 새글 알람 푸시를 받기 위해서는 반드시 알람을 적용한 해당 계정으로 로그인해주셔야 합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 5. 새글 알람 푸시 확인
 

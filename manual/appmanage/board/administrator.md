@@ -4,7 +4,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 # 게시판 관리자 설정
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 관리자란?**
 
@@ -14,7 +14,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 해당 매뉴얼에서는 게시판 관리자를 설정하는 방법과 앱실행화면을 통해서 어떻게 관리자가 적용되는지 안내해드리겠습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 게시판 관리
 
@@ -24,7 +24,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 게시판 생성 및 설정     <mark style="color:blue;">****</mark>    &#x20;
 
@@ -46,7 +46,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/post-alarm" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 게시판 관리자 설정
 
@@ -60,7 +60,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 4\) 관리자로 설정된 회원이 잘 추가되었는지 확인 후 \[저장]버튼을 눌러주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 앱에 게시판 적용하기
 
@@ -130,7 +130,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 앱을 실행하실 때는 반드시,, 관리자로 지정된 계정으로 로그인하셔야 합니다!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 5.앱 실행화면) 게시판 관리자 확인
 

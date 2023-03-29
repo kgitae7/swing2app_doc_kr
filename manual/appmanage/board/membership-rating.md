@@ -4,7 +4,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 # 회원등급별 게시판 만들기
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **등급별 게시판은?**
 
@@ -22,7 +22,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 아래 매뉴얼을 확인하여 회원 권한 그룹을 만들고, 게시판마다 권한 설정, 앱 사용자에게 권한을 부여하는 방법을 확인해주세요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\[이용방법 정리]**</mark>
 
@@ -60,7 +60,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 3\)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 \
 &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP1. 회원 그룹 만들기
@@ -131,7 +131,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 <mark style="color:red;">**\* 운영(관리자), 사용자(회원가입된 일반회원), 손님 등급은 기본값이기 때문에 그룹을 삭제 할 수 없습니다.**</mark>\
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP2. 게시판 등급 권한 설정하기
 
@@ -185,7 +185,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 \-게시판마다 다른 권한을 셋팅할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP3. 회원별 등급 적용하기&#x20;
 
@@ -229,7 +229,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 회원조회 페이지 목록에 보시면, 아까 ‘사용자’ 였던 회원이 → ‘우수회원’으로 변경된 것을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP4. 앱 실행화면
 
@@ -240,7 +240,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 우수회원 보다 한 단계 낮은 ‘정회원’ 회원이 해당 게시판을 접속할 때 다음과 같이 **‘권한이 없습니다**‘ 메시지 창이 뜨면서 게시판에 접근할 수 없음을 확인할 수 있습니다.\
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 <details>
 

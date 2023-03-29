@@ -12,7 +12,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
 먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!
 
@@ -52,7 +52,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 디지털제품 – PDF 상품 등록하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 디지털제품 – PDF 상품 등록하기**
 
 이제 카테고리 등록이 끝났다면! 본격적으로 상품을 등록해볼게요 <mark style="color:orange;">****</mark>&#x20;
 
@@ -152,35 +152,63 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP3. 앱에 상품 카테고리 적용하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP3. 앱에 상품 카테고리 적용하기**
 
 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.
+
+
+
+<mark style="color:blue;">**1.앱제작V3버전 이용시**</mark>
+
+<figure><img src="../../.gitbook/assets/pdf_상품카테고리1.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[상품 카테고리]를 선택해주세요.&#x20;
+
+\*카테고리는 스윙샵 상품등록시 미리 만들어주셔야 합니다. 상품 카테고리가 없을 경우 적용이 불가합니다.
+
+6\) 적용할 카테고리를 찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+<mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2.png)
 
 **앱제작 – 페이지 메뉴 단계로 이동합니다.**
 
-1\. \[카테고리 추가] 버튼을 선택해서 적용할 메뉴를 추가합니다.&#x20;
+1\) \[카테고리 추가] 버튼을 선택해서 적용할 메뉴를 추가합니다.&#x20;
 
-2\. 메뉴명: 메뉴 이름을 입력해주세요.
+2\) 메뉴명: 메뉴 이름을 입력해주세요.
 
-3\. 메뉴 유형: \[상품카테고리]를 선택해주세요.
+3\) 메뉴 유형: \[상품카테고리]를 선택해주세요.
 
-4\. \[링크마법사] 버튼을 선택해주세요.
+4\) \[링크마법사] 버튼을 선택해주세요.
 
-5\. 카테고리 검색에서 적용할 카테고리 이름으로 검색 후 선택합니다.  &#x20;
+5\) 카테고리 검색에서 적용할 카테고리 이름으로 검색 후 선택합니다.  &#x20;
 
-6\. \[반영] 버튼 선택
+6\) \[반영] 버튼 선택
 
-7\. \[적용] 버튼 선택
+7\) \[적용] 버튼 선택
 
-8\. \[저장] 버튼을 누르면 완료됩니다.
+8\) \[저장] 버튼을 누르면 완료됩니다.
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP4. 앱 실행화면) 디지털상품 판매 앱**
+## &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP4. 앱 실행화면) 디지털상품 판매 앱**
 
 스윙 학원 샘플앱을 통해서 앱에 디지털제품-pdf파일이 어떻게 등록되었는지 확인해주세요.
 
@@ -192,13 +220,13 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A47-1.png)
 
-**▶ 구매 진행단계 및 구매한 PDF 파일을 열람하는 방법을 움짤이미지로 확인해주세요.**
+**▶구매 진행단계 및 구매한 PDF 파일을 열람하는 방법을 움짤이미지로 확인해주세요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_09\_24\_12\_30\_50\_728.gif)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP5. 앱 실행화면) 구매한 PDF파일 확인하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP5. 앱 실행화면) 구매한 PDF파일 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B0.png)
 
@@ -212,9 +240,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 **그리고 결제 이후 구매한 파일을 다시 확인하고 싶다면, 디지털 구매 페이지와 마이페이지에서 확인할 수 있습니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
-
-<mark style="color:blue;">**1. 디지털 상품 구매완료 페이지**</mark>
+### <mark style="color:blue;">**1. 디지털 상품 구매완료 페이지**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B03.png)
 
@@ -228,9 +254,39 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-<mark style="color:red;">★ 앱제작에서 스윙페이지에서 ‘디지털 상품 구매완료 페이지’를 앱에 적용해주셔야 앱에서 이용이 가능합니다.</mark>
+### <mark style="color:blue;">**2.디지털 상품 구매 완료 페이지 적용하기**</mark>
+
+{% hint style="info" %}
+<mark style="color:blue;">‘디지털 상품 구매완료 페이지’를 앱에 적용해주셔야 앱에서 이용이 가능합니다.</mark>
 
 아래 이용방법 화면을 보시고 앱 메뉴에 구매완료 페이지를 추가해주세요.
+{% endhint %}
+
+****
+
+**-앱제작 V3 버전 이용시**
+
+<figure><img src="../../.gitbook/assets/디지털구매페이지.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지] 선택해주세요.&#x20;
+
+6\)'디지털 상품 구매완료 페이지' 선택 후, \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+**-앱제작 V2 버전 이용시**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C.png)
 
@@ -244,7 +300,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 4\. \[링크마법사] 버튼을 선택해주세요.
 
-5\. <mark style="color:blue;">‘</mark><mark style="color:blue;">**디지털상품 구매완료 페이지**</mark><mark style="color:blue;">’</mark> 를 선택한 뒤 \[반영] 버튼 선택
+5\. <mark style="color:blue;">‘디지털상품 구매완료 페이지’</mark> 를 선택한 뒤 \[반영] 버튼 선택
 
 6\. \[적용] 버튼
 
@@ -252,9 +308,9 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="color:blue;">**2. 마이페이지 – 디지털 제품 보기**</mark>
+
+### <mark style="color:blue;">**3.마이페이지 – 디지털 제품 보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B02.png)
 
@@ -262,15 +318,45 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 구매완료 상품 페이지에서 \[보기] 버튼을 선택합니다.
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png)
 
 컨텐츠 열람 페이지에서 해당 파일의 pdf 버튼을 선택하면 pdf를 다시 볼 수 있습니다.
 
-​
 
-<mark style="color:red;">**★ 마이페이지는 앱제작에서 스윙페이지에서 마이페이지를 앱에 적용해주셔야 앱에서 이용이 가능합니다.**</mark>
+
+{% hint style="info" %}
+<mark style="color:blue;">마이페이지는 앱제작에서 스윙페이지에서 마이페이지를 앱에 적용해주셔야 앱에서 이용이 가능합니다.</mark>
 
 아래 이용방법 화면을 보시고 앱 메뉴에 마이페이지를 추가해주세요.
+{% endhint %}
+
+**-앱제작 V3 버전 이용시**
+
+<figure><img src="../../.gitbook/assets/마이페이지1.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지] 선택해주세요.&#x20;
+
+6\)'마이페이지' 선택 후, \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+
+
+**-앱제작 V2 버전 이용시**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 

@@ -4,7 +4,7 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 # 게시물 음악파일 첨부방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**음악 파일 첨부 주의사항**</mark>
@@ -48,7 +48,7 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 게시판을 다 만들었다면 서비스관리 → 게시물관리에서 파일을 등록할 게시판을 선택해서 이동해주세요.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **음악 파일첨부는 2가지 방법으로 이용 가능합니다.**
 
@@ -90,7 +90,7 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 게시판 에디터 – 오디오 업로드 버튼 선택하기
 

@@ -4,7 +4,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 # 캘린더 응용-활용방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 캘린더는 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.
 
@@ -20,7 +20,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/calander" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 캘린더 만들기
 
@@ -50,7 +50,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 6\)저장 버튼을 누르면 완료! 캘린더 제작이 완료됩니다
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2.앱에 캘린더 게시판 적용하기
 
@@ -106,7 +106,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 캘린더 응용하기 <mark style="color:blue;">****</mark>&#x20;
 

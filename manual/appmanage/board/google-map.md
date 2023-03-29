@@ -4,7 +4,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 # 구글맵(구글지도)게시판
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 <mark style="color:green;">**구글맵은 별도 구글맵 플랫폼에서 신청을 한 뒤 이용해주셔야 합니다.**</mark>
@@ -28,7 +28,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/googlemap-apikey" %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -84,7 +84,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 그럼, 만들어놓은 구글맵 게시판에 위치를 등록해볼게요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 구글맵 게시판에 위치 등록하기
 
@@ -142,7 +142,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 위치 수정 및 삭제가 가능하며, 여러 업체들을 관리하는 앱이라면 여러 업체들의 주소를 추가하여 등록 할 수 있어요\~
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. 앱에 지도게시판 적용하기
 
@@ -198,7 +198,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. 앱 실행화면
 
