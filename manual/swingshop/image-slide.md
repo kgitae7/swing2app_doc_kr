@@ -8,7 +8,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 이때 상점관리에서 – 상점 상세 이미지를 여러 장 등록하면 자동으로 슬라이딩 되어서 보여집니다.
 
-
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
 
@@ -22,7 +22,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 스윙샵 기본정보설정**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 스윙샵 기본정보설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%EA%B4%80%EB%A6%AC.png)
 
@@ -62,9 +62,39 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 쇼핑몰 메인 페이지 앱에 적용하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 쇼핑몰 메인 페이지 앱에 적용하기**
 
 상점 상세 이미지 등록을 완료했다면!! 앱에 해당 페이지를 적용해볼게요
+
+
+
+<mark style="color:blue;">**1)앱제작 V3버전 이용시**</mark>
+
+<figure><img src="../../.gitbook/assets/쇼핑몰메인1.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면-STEP3 페이지 단계로 이동합니다.
+
+2\)HOME 선택
+
+홈화면에 적용해도 되고, 메뉴로 추가해도 됩니다.
+
+메뉴로 추가할 경우 + 모양 버튼 선택하여 새 메뉴를 먼저 만들어주세요.&#x20;
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지]를 선택해주세요.&#x20;
+
+6\) ‘쇼핑몰 메인’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+<mark style="color:blue;">**2)앱제작 V2버전 이용시**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EB%A9%94%EC%9D%B81.png)
 
@@ -84,17 +114,11 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 7\) \[저장]버튼 앱 적용 완료됩니다.&#x20;
 
-
-
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **움짤 이미지로 적용방법 확인하기**&#x20;
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_01\_28\_16\_21\_40\_228.gif)
-
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 앱 실행화면 – 슬라이드 확인하기**
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 앱 실행화면 – 슬라이드 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C.gif)
+<figure><img src="../../.gitbook/assets/슬라이드2.gif" alt=""><figcaption></figcaption></figure>
 
 스윙의류 앱을 실행한 화면입니다.
 
@@ -121,5 +145,7 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 <mark style="color:green;">**앱 업데이트**</mark> 후 새 버전으로 업데이트 해주시면 정상 반영됩니다.
 {% endhint %}
+
+<mark style="color:red;">****</mark>
 
 <mark style="color:red;">****</mark>
