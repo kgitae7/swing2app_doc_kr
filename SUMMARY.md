@@ -222,7 +222,7 @@
     * [1,000건 SMS 발송 티켓 이용방법](manual/appmanage/pay/sms-ticket.md)
     * [모바일웹 이용방법](manual/appmanage/pay/mobile-web.md)
     * [웹뷰 무제한 유료앱](manual/appmanage/pay/webveiw-unlimited.md)
-    * [푸시전용 무제한 유료앱](manual/appmanage/pay/push-unlimited.md)
+    * [푸시 무제한 유료앱](manual/appmanage/pay/push-unlimited.md)
     * [스윙 알뜰형 패키지(24개월)](manual/appmanage/pay/budget-package.md)
     * [애드몹 파워패키지](manual/appmanage/pay/admob-powerpackage/.md)
     * [대용량 패키지](manual/appmanage/pay/largestorage-packages.md)

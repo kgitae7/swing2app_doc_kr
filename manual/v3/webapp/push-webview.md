@@ -1,5 +1,7 @@
 # 푸시앱, 웹뷰앱 초간단 제작방법
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 **운영중인 홈페이지(웹사이트)가 있다면,**&#x20;
 
 **웹 사이트 URL 링크를 그대로 앱에 연동하여 앱을 제작할 수 있어요.**&#x20;
@@ -14,9 +16,11 @@
 
 **푸시전용앱, 웹뷰전용 앱을 제작하는 방법을 알려드리겠습니다.**
 
-## <mark style="color:blue;">**푸시전용앱 제작 방법**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-****
+<mark style="color:blue;">****</mark>
+
+## <mark style="color:blue;">**STEP1.푸시앱 제작하기**</mark>
 
 {% hint style="info" %}
 **푸시 앱이란?**
@@ -183,9 +187,11 @@
 
 ***
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 ****
 
-## <mark style="color:blue;">**웹뷰 앱제작하기**</mark>
+## <mark style="color:blue;">**STEP2.웹뷰 앱제작하기**</mark>
 
 ****
 
@@ -401,15 +407,13 @@
 
 **3) 앱 상용화(스토어 출시)가 목적이라면 반드시 유료버전으로 이용해주세요.**
 
-**푸시 혹은 웹뷰 앱도 플레이스토어, 앱스토어에 앱을 출시하기 위해서는 스윙 유료앱 이용권을 구매하여 유료버전으로 이용해주셔야 합니다.**&#x20;
+푸시 혹은 웹뷰 앱도 플레이스토어, 앱스토어에 앱을 출시하기 위해서는 스윙 유료앱 이용권을 구매하여 유료버전으로 이용해주셔야 합니다.&#x20;
 
-**TIP. 웹뷰, 푸시앱으로 스토어 출시할 경우 무제한 이용권을 구매하시면 이용기간 제한없이 앱을 유료로 무제한 이용할 수 있어요.**&#x20;
+TIP. 웹뷰, 푸시앱으로 스토어 출시할 경우 무제한 이용권을 구매하시면 이용기간 제한없이 앱을 유료로 무제한 이용할 수 있어요.&#x20;
 
-**☞** [**웹뷰 무제한 유료앱 상품 보러가기**](https://wp.swing2app.co.kr/documentation/appmanage/pay/webveiw-unlimited/)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/pay/webveiw-unlimited" %}
 
-[**☞ 푸시 무제한 유료앱 상품 보러가기**](https://wp.swing2app.co.kr/documentation/appmanage/pay/push-unlimited/)
-
-
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/pay/push-unlimited" %}
 
 **4) 푸시 앱, 웹뷰앱 이용시 적용된 웹링크(사이트 URL)은 이용 중에도 변경할 수 있습니다. (앱제작 필요 없이 저장만 누르면 자동 반영)**
 
