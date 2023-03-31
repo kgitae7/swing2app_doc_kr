@@ -30,7 +30,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## **\* 앱 공유란?**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱 공유란?**
 
 <mark style="color:blue;">**앱 공유하기는 앱 기능 중: 설정 메뉴에서 이용할 수 있습니다.**</mark>&#x20;
 
@@ -46,7 +46,9 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 앱 공유와 마찬가지로 다양한 어플로 공유 할 수 있습니다.
 
-**\* **<mark style="color:red;">**앱 공유는 안드로이드폰만 가능, 아이폰에서는 무료버전앱은 공유 설치가 안되요\~! 앱스토어에 출시된 앱만 다운 받을 수 있어요.**</mark>
+<mark style="color:red;">앱 공유는 안드로이드폰만 가능, 아이폰에서는 무료버전앱은 공유 설치가 안되요\~!</mark>&#x20;
+
+<mark style="color:red;">아이폰은 앱스토어에 출시된 앱만 다운 받을 수 있어요.</mark>
 
 –앱 공유하기는 위의 이미지처럼 설정 메뉴에서 이용할 수 있습니다.&#x20;
 
@@ -54,9 +56,29 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 \-플레이스토어에 출시된 앱을 공유하면, 앱이 출시된 플레이스토어 페이지로 이동하여 앱을 다운받을 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="color:red;">**\*만약 앱제작시 설정, 앱공유하기 메뉴를 삭제했다면 다시 추가해서 적용해주세요.**</mark>
+
+<mark style="color:red;">**\*만약 앱제작시 설정, 앱공유하기 메뉴를 삭제했다면 앱제작에서  다시 적용해주세요.**</mark>
+
+**앱제작V3 버전 이용시**
+
+<figure><img src="../../.gitbook/assets/앱공유하기-1.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 - STEP3 페이지 단계로 이동합니다.
+
+2\)새 메뉴를 만들어주세요. (+모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[기본 기능] -\[기능]을 선택해주세요.&#x20;
+
+5\) ‘앱 공유하기’ 메뉴 \[적용하기] 버튼을 선택해주세요.
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+**앱제작V2 버전 이용시**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%95%B1%EA%B3%B5%EC%9C%A0NEW2-2.png)
 
@@ -80,7 +102,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## **1. 카카오톡으로 공유한 앱 설치하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 카카오톡으로 공유한 앱 설치하기**
 
 <mark style="color:blue;">****</mark>
 
@@ -182,7 +204,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 이렇게 해서 공유 받은 앱을 설치해서 이용할 수 있습니다 ^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+
 
 <mark style="color:blue;">****</mark>
 
@@ -192,7 +214,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## **2. 이메일로 공유된 앱 설치하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 이메일로 공유된 앱 설치하기**
 
 다음은 이메일로 앱 공유를 한 뒤, 해당 공유 링크를 통해 다운 및 앱 설치를 하는 과정을 알려드리겠습니다.
 
