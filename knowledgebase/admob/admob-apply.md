@@ -316,7 +316,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 앱 업데이트**
 
-<figure><img src="../../.gitbook/assets/업데이트 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/업데이트 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 애드몹 플러그인 설정 입력이 완료되면 앱제작 화면으로 이동해서 앱 업데이트를 해주세요.&#x20;
 

@@ -50,7 +50,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 
 
-<figure><img src="../../../.gitbook/assets/업데이트 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/업데이트.png" alt=""><figcaption></figcaption></figure>
 
 5\) 앱제작 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요.
 
