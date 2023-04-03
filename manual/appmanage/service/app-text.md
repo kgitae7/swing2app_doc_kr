@@ -1,6 +1,10 @@
+---
+description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 수정 방법
+---
+
 # 앱 문자열 관리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 \[앱 문자열 관리]는 앱에서 표시 및 사용되는 모든 문구와 메시지를 확인할 수 있는 관리 페이지이구요. \_2019년 6월 오픈 기능
 
@@ -12,9 +16,9 @@
 
 아래 이용방법을 확인해주세요\~!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱 문자열 관리란?**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱 문자열 관리란?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
 
@@ -26,9 +30,9 @@
 
 \*\*기존에 커스터마이징(앱개발)으로 진행되었던 앱 문구 변경 및 외국어 전환은 이제 개발을 하지 않아도 사용자가 직접 내용을 수정하여 사용할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 메시지 내용 수정 방법**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 메시지 내용 수정 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC3.png)
 
@@ -46,25 +50,27 @@
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B42.png)
+<figure><img src="../../../.gitbook/assets/업데이트 (2).png" alt=""><figcaption></figcaption></figure>
 
-5\) 앱제작 페이지로 이동 → \[앱제작하기] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요.
+5\) 앱제작 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요.
 
-<mark style="color:red;">\*문구만 수정해서는 앱에 반영되지 않으며, 반드시 앱제작 페이지에서 앱제작요청하여 새 버전으로 업데이트 해야 합니다.</mark>
+<mark style="color:red;">\*문구만 수정해서는 앱에 반영되지 않으며, 반드시 앱제작 페이지에서 새 버전으로 앱 업데이트 해주셔야 합니다.</mark>
 
-<mark style="color:red;">\*업데이트 유형 안내</mark>
+{% hint style="info" %}
+<mark style="color:blue;">**업데이트 유형 안내**</mark>
 
 \-플레이스토어, 앱스토어 등에 앱이 출시되어 있을 경우: 하드 업데이트(앱 재설치) 선택 해주시구요. 새 버전앱 다시 스토어에 업데이트 해주셔야 합니다.&#x20;
 
 \-무료이용 혹은 스토어 출시를 안하셨다면 : 소프트 업데이트(앱 재실행) 선택&#x20;
 
 \-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
+{% endhint %}
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**3.운영 TIP**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 운영 TIP
 
-<mark style="color:red;">**TIP 1)**</mark> 문구가 너무 많아서 내용을 찾기가 힘들다면 \*컨트롤(control) + F 버튼을 누르면 내용을 검색하여 찾을 수 있습니다!!
+<mark style="color:red;">**TIP 1)**</mark> 몇 개 단어만 수정할 경우 **\*컨트롤(control) + F 버튼**을 누르면 내용을 검색하여 찾을 수 있습니다!!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC7.png)
 
@@ -76,9 +82,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC2.png)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4.문구 변경 후) 앱 실행화면**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4.문구 변경 후) 앱 실행화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png)
 
