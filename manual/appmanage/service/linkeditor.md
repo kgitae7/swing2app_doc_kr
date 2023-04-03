@@ -1,10 +1,14 @@
+---
+description: 링크마법사 이용방법, 사용예시 매뉴얼
+---
+
 # 링크마법사
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제공하는 앱운영 기능인 ‘링크마법사’ 이용방법 매뉴얼입니다.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**링크 마법사란?**</mark>
+### <mark style="color:blue;">**링크 마법사란?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C3\_19.09.png)
 
@@ -32,9 +36,9 @@
 
 **푸시, 팝업, 게시물 작성(HTML에디터 글쓰기), 사용자페이지:이미지페이지, 웹템플릿, HTML에디터페이지에서 이용할 수 있습니다**.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-<mark style="color:blue;">**사용 예시1) 푸시 발송에서 \[링크마법사] 이용하기**</mark>
+
+### <mark style="color:blue;">**사용 예시1) 푸시 발송에서 \[링크마법사] 이용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC3.png)
 
@@ -48,7 +52,7 @@
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면**</mark>
+&#x20;** **<mark style="color:orange;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_13\_47\_33\_456.gif)
 
@@ -56,9 +60,9 @@
 
 링크마법사 기능을 통해서 웹사이트 링크로 연동 할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**사용 예시2) 웹템플릿 페이지에서 \[링크마법사] 이용하기**</mark>
+### <mark style="color:blue;">**사용 예시2) 웹템플릿 페이지에서 \[링크마법사] 이용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png)
 
@@ -80,15 +84,15 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면**</mark>
+<mark style="color:orange;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_13\_46\_04\_734.gif)
 
 앱 실행 후 템플릿 페이지가 적용된 홈화면의 \[전화하기] 버튼을 선택하면, 입력해놓은 번호로 전화 연결이 됩니다.
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-
-<mark style="color:blue;">**사용 예시3) 팝업 에서 \[링크마법사] 이용하기**</mark>
+### <mark style="color:blue;">**사용 예시3) 팝업 에서 \[링크마법사] 이용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC5.png)
 
@@ -100,7 +104,7 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면**</mark>
+<mark style="color:orange;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_14\_10\_13\_709.gif)
 
