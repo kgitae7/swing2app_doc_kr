@@ -10,9 +10,13 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 스윙투앱 앱제작 후 유료버전앱을 앱스토어에 출시하기 위해서 앱스토어 업로드 신청을 해주면 당사에서 대행에서 앱을 올려드려요.
 
+
+
 <mark style="color:purple;">**Q. 앱스토어에 스윙투앱으로 제작한 앱을 올리고 싶으면 어떻게해야 하나요?**</mark>
 
 ​먼저, 유료앱 이용권 구매하셔서 유료전환을 해주시구요. 앱스토어 업로드티켓을 구매합니다.&#x20;
+
+앱스토어는 사용자가 직접 등록이 불가하기 때문에 업로드티켓을 구매해서, 스윙투앱으로 업로드 신청을 해주셔야 합니다.&#x20;
 
 [**앱운영페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지**](http://www.swing2app.co.kr/view/shop\_list)에서 **스윙 유료이용권 결제와 함께 앱스토어 업로드 티켓(1회 20,000원)을 구매해주시면 됩니다.**
 
@@ -68,19 +72,15 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 ★앱스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
-**☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
-
-
+{% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
 ★앱스토어 심사에서 자주 거절되는 사례를 확인해주세요.&#x20;
 
-**☞** [앱스토어 심사 거절 사례 보러가기](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
-
-****
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/reject" %}
 
 ★ 플레이스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!
 
-**☞** [**\[플레이스토어 업로드 신청방법 보러가기\]**](playstore-upload.md)
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload" %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
 
@@ -100,7 +100,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 스윙 유료앱 이용권, 앱스토어 업로드티켓을 모두 구매 완료하구요.
 
-앱스토어 업로드티켓(1회 20,000원)은 [**\[이용권 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/shop\_list)에서 구매 가능합니다.&#x20;
+앱스토어 업로드티켓(1회 20,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)에서 구매 가능합니다.&#x20;
 
 **\*구매가 완료되었다면,** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)**로 이동한 뒤 \[앱스토어 업로드 신청] 버튼을 눌러주세요.**
 
