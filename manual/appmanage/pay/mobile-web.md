@@ -1,6 +1,10 @@
+---
+description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하는 방법
+---
+
 # 모바일웹 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9B%B9%EC%97%85%EB%A1%9C%EB%93%9C%EC%A0%9C%EB%AA%A9.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**모바일 웹이란(모바일웹 등록)?**
 
@@ -16,7 +20,7 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**스윙투앱 공식앱으로 적용한 모바일웹 실행화면**</mark>
+<mark style="color:orange;">**스윙투앱 공식앱으로 적용한 모바일웹 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png)
 
@@ -28,9 +32,8 @@
 
 ****
 
-****
-
-> **모바일 웹등록 이용(신청)방법**
+{% hint style="info" %}
+**모바일 웹등록 이용(신청)방법**
 
 앱 제작 완료
 
@@ -41,16 +44,15 @@
 → [버전관리-앱제작이력](https://www.swing2app.co.kr/view/app\_work\_history) 페이지에서 모바일 웹업로드 신청
 
 → 신청 후 약 2일 후 모바일 웹사이트 출시
-
-&#x20;
+{% endhint %}
 
 <mark style="color:red;">★모바일웹등록은 무료버전에서는 이용할 수 없어요.</mark>
 
 **스윙투앱 확장형 or 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.**
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 모바일 웹 업로드 티켓 구매하기**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 모바일 웹 업로드 티켓 구매하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%8012.png)
 
@@ -58,15 +60,15 @@
 
 ****[**※스윙 앱운영 페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지**](https://www.swing2app.co.kr/view/shop\_list) 에서 스윙 확장형 유료앱 이용권 혹은 프리미엄 이용권을 구매해주세요.
 
-**확장형, 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.**&#x20;
+확장형, 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.&#x20;
 
-&#x20;**\*모바일웹 신청은 확장형 및 프리미엄 이용시에만 해당됩니다.** <mark style="color:red;">\*기본형 이용권과 알뜰형 패키지 상품은 적용되지 않습니다.</mark>
+모바일웹 신청은 확장형 및 프리미엄 이용시에만 해당되며, <mark style="color:red;">기본형 이용권과 알뜰형 패키지 상품은 적용되지 않습니다.</mark>
 
-<mark style="color:purple;">-확장형 이용권 구매 후 모바일 웹등록 티켓을 구매해주세요.\[모바일 웹 등록 티켓 20,000원]</mark>
+1\)확장형 이용권 구매 후 모바일 웹등록 티켓을 구매해주세요.\[모바일 웹 등록 티켓 20,000원]
 
-<mark style="color:purple;">-프리미엄 이용권은 모바일웹 등록 티켓 무제한 제공되기 때문에 모바일웹 등록 티켓을 따로 구매하지 않아도 됩니다.</mark>&#x20;
+2\)프리미엄 이용권은 모바일웹 등록 티켓 무제한 제공되기 때문에 모바일웹 등록 티켓을 따로 구매하지 않아도 됩니다.&#x20;
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:orange;">**★모바일 웹 이용기간은?**</mark>
 
@@ -74,9 +76,9 @@
 
 1년치를 결제했다면, 모바일 웹사이트도 1년간 이용할 수 있습니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 모바일 웹 등록 신청하기**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 모바일 웹 등록 신청하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EC%8B%A0%EA%B7%9C1.png)
 
@@ -86,7 +88,7 @@
 
 
 
-<mark style="color:orange;">**\[모바일 웹 업로드 신청서]**</mark>
+<mark style="color:blue;">**\[모바일 웹 업로드 신청서]**</mark>
 
 **모바일 웹 업로드 입력창이 뜨면 순서대로 해당 내용을 입력합니다.**
 
@@ -110,9 +112,9 @@
 
 **담당자 확인 후에 약 2일 정도 후에 등록된 웹사이트를 확인할 수 있습니다.**&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 모바일 웹 등록 완료**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 모바일 웹 등록 완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A92.png)
 
@@ -120,9 +122,9 @@
 
 \[모바일웹 등록 확인]을 선택합니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 모바일 웹 실행하기**</mark>
+## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 모바일 웹 실행하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png)
 
@@ -134,7 +136,8 @@
 
 ****
 
-<mark style="color:red;">**★ 활용 TIP**</mark>
+{% hint style="info" %}
+<mark style="color:blue;">**활용 TIP**</mark>
 
 1.모바일웹은 홈페이지나 사이트가 없는 분들이 유용하게 사용할 수 있어요.
 
@@ -143,18 +146,20 @@
 3\. 앱스토어 심사에서 거절될 경우 대체안으로 모바일웹을 이용하여 아이폰사용자들이 이용할 수 있습니다.
 
 4\. 모바일웹사이트가 필요한데 제작비용이 부담스러울 경우 앱과 함께 이용할 수 있어요!
+{% endhint %}
 
-***
 
-<mark style="color:red;">**\[모바일 웹 등록 주의사항]**</mark>\
-\
+
+{% hint style="danger" %}
+<mark style="color:red;">**모바일 웹 등록 주의사항**</mark>
+
 **1) 모바일 웹등록 신청 전, 사이트를 연동할 수 있는 도메인은 별도로 구매해주셔야 합니다. (카페 24 등)**
 
 모바일 웹등록 티켓을 구매한 뒤 모바일 웹 등록 신청을 해주시면 해당 도메인으로 앱 사이트를 등록해드립니다.
 
 **2) 모바일웹은 유료앱이 적용되어 있어야 이용가능합니다.**
 
-무료버전에서는이용할 수 없으며, <mark style="color:purple;">**스윙 확장형 및 프리미엄 이용권 구매시에만 신청할 수 있습니다.**</mark>&#x20;
+무료버전에서는이용할 수 없으며, <mark style="color:orange;">**스윙 확장형 및 프리미엄 이용권 구매시에만 신청할 수 있습니다.**</mark>&#x20;
 
 **3) 모바일웹 이용기간은 유료앱 이용기간과 동일합니다.**
 
@@ -174,4 +179,7 @@ PC에서도 웹사이트는 열리지만 화면 해상도가 모바일 기준으
 
 포털사이트에서 제공하는 검색 서비스에서 별도 신청하여 이용주셔야 합니다.
 
-스윙투앱에서는 모바일웹 등록만 진행하며/ 검색 서비스, 키워드 노출 등의 서비스 등록 대행을 진행해드리지 않습니다.
+스윙투앱에서는 모바일웹 등록만 진행하며/ 검색 서비스, 키워드 노출 등의 서비스 등록 대행을 진행해드리지 않습니다.\
+\
+
+{% endhint %}
