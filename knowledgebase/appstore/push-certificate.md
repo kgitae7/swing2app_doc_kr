@@ -4,7 +4,7 @@ description: 애플 푸시 인증서 연장 매뉴얼 (아이폰 푸시 이용�
 
 # 아이폰 푸시 인증서 연장
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 **애플 푸시 인증서 연장이란?**
 
@@ -28,6 +28,8 @@ description: 애플 푸시 인증서 연장 매뉴얼 (아이폰 푸시 이용�
 2\)사용자의 애플 개발자 계정으로 앱스토어 앱 운영하는 분들에만 해당됩니다.
 
 3\)안드로이드폰은 해당 없습니다. 아이폰만 해당됩니다.
+
+4\)인증기간 전에 연장해주셔야 하며, 연장이 안될 경우 아이폰에서 푸시 발송이 되지 않습니다.
 {% endhint %}
 
 {% hint style="success" %}
@@ -40,7 +42,7 @@ description: 애플 푸시 인증서 연장 매뉴얼 (아이폰 푸시 이용�
 \*1년마다 재등록 할 필요 없이, 한번 등록 해놓으면 기간 제한 없이 푸시 발송이 가능합니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/푸시연장1.png" alt=""><figcaption></figcaption></figure>
 
@@ -118,5 +120,12 @@ Key ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 15\. \[저장] 클릭하면 완료입니다.
 
+{% hint style="warning" %}
+﻿<mark style="color:orange;">**안내사항**</mark>
 
+사용자 본인의 애플 개발자 계정으로 앱스토어에 앱이 등록된 분들은 아래 매뉴얼을 보시고 인증기간 만료 전 연장 조치를 해주셔야 합니다.
 
+스윙투앱 계정으로 앱스토어에 앱을 출시한 분들은 신경쓰지 않으셔도 되요\~
+
+스윙투앱 계정으로 등록된 앱은 스윙투앱 자체적으로 모두 연장 조치해드립니다.
+{% endhint %}

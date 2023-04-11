@@ -328,7 +328,7 @@ TIP을 한가지 드리면요
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line">**툴팁 적용 예시)**&#x20;
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**툴팁 적용 예시)**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
 

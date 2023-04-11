@@ -4,7 +4,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 # 게시물 동영상 등록하기(영상 등록방법)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 – 게시물 동영상 등록하는 방법**
 
@@ -64,7 +64,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_09\_24\_15\_11\_22\_588.gif)
 
@@ -102,7 +102,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**모바일 앱 실행화면) 영상 파일 확인**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**모바일 앱 실행화면) 영상 파일 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_16\_03\_21.gif)
 
@@ -150,11 +150,11 @@ URL입력란에 유튜브 영상 링크(URL)을 입력한 뒤, 저장하기를 �
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_07\_01\_10\_23\_13\_511.gif)
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 영상 화면**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 영상 화면**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_07\_01\_10\_49\_20\_674.gif)
 
@@ -200,7 +200,7 @@ URL을 복사한 뒤 위의 동영상 삽입에 붙여넣기 해주시면 됩니
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 동영상 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 동영상 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_14\_49\_272.gif)
 
@@ -254,7 +254,7 @@ PC 유튜브 사이트 접속 후 앱에 적용하고자 하는 동영상을 재
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 임베디드 링크로 연결한 영상 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 임베디드 링크로 연결한 영상 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_15\_13\_499.gif)
 

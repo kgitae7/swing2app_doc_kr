@@ -52,7 +52,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 **​**
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 검색은 앱에 어떻게 적용하나요?**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 검색은 앱에 어떻게 적용하나요?**</mark>
 
 **-앱제작 V3 버전 이용시**
 
@@ -100,7 +100,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
 

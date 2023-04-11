@@ -8,7 +8,7 @@
 
 매뉴얼을 통해서 채팅 설정 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 채팅 관리자 페이지 이동&#x20;
 
@@ -16,7 +16,7 @@
 
 스윙 홈페이지 접속 후 [**앱운영 페이지에서 → 서비스관리 →  채팅 관리자페이지 →  채팅 설정** ](http://www.swing2app.co.kr/view/admin\_chatting\_setting)으로 이동합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 채팅 설정
 
@@ -28,7 +28,7 @@
 
 \*채팅 소개 메시지, 채팅 가능 요일/ 시간, 채팅 불가능 메시지를 설정하고, 아래 \[설정하기] 버튼을 눌러서 저장해주세요.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 채팅 설정 – 앱 실행화면
 
@@ -67,7 +67,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 앱에 1:1채팅을 적용하는 방법
 

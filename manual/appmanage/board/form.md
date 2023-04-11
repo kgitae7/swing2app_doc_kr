@@ -76,7 +76,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/write-bulletin-board" %}
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC5\_20.03.png)
 
@@ -118,11 +118,11 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_25\_16\_39\_51\_723.gif)
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC6\_20.03.png)
 
@@ -214,7 +214,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
 
 글 등록이 완료된 후 게시판 작성폼을 확인해볼게요.
 

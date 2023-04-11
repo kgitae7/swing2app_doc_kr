@@ -4,7 +4,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 # 앱미리보기 이용방법
 
-<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 미리보기란?**
+<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 미리보기란?**
 
 스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.
 
@@ -110,7 +110,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 
 
-<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
+<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2021\_07\_08\_14\_33\_38\_528.gif)
 
@@ -120,7 +120,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 
 
-<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
+<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
 
 ![](../.gitbook/assets/수정\_미리보기.gif)
 

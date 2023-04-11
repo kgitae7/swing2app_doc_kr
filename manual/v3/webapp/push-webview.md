@@ -1,6 +1,6 @@
 # 푸시앱, 웹뷰앱 초간단 제작방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **운영중인 홈페이지(웹사이트)가 있다면,**&#x20;
 
@@ -16,7 +16,7 @@
 
 **푸시전용앱, 웹뷰전용 앱을 제작하는 방법을 알려드리겠습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -187,7 +187,7 @@
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 

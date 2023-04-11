@@ -4,7 +4,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 # 게시판 - 게시물 입력방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물 작성은 여러 방법으로 진행할 수 있구요, 아래 3가지 방법으로 작성하는 방법을 알려드릴게요!
 
@@ -16,7 +16,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 아래 매뉴얼을 통해서 게시물 입력방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. 앱운영에서 게시물 작성하기(웹 대시보드에서 작성)
 
@@ -210,7 +210,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 \*게시물 관리에 적용되는 기능은 – 영상첨부, 파일첨부, 사진첨부 이렇게 3가지 기능입니다!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 앱에서 게시물 작성하기
 
@@ -259,7 +259,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 공유하기는 해당 게시물을 다른 어플 -카톡, 메일 등으로 공유할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**STEP3. 앱제작 페이지- 가상머신에서 작성하기**</mark>&#x20;
 

@@ -78,7 +78,7 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**음악 파일 첨부 게시판 앱 실행화면**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**음악 파일 첨부 게시판 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC4.png)
 
@@ -122,7 +122,7 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**오디오 업로드 게시판 앱 실행화면**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**오디오 업로드 게시판 앱 실행화면**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC5.png)
 

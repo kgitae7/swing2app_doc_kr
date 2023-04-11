@@ -4,7 +4,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 # 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 웹앱(웹사이트를 연동한 앱) – 웹뷰, 푸시앱은 플레이스토어 앱 등록시 추가 요청사항이 있습니다.
 

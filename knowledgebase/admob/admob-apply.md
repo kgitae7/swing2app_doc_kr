@@ -4,7 +4,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 # 애드몹 플러그인 광고 셋팅
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **애드몹 플러그인 광고 셋팅 방법**
 
@@ -16,9 +16,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 셋팅부터 스토어 출시 과정까지 안내드리오니 애드몹 광고 셋팅을 희망하신다면 해당 매뉴얼을 보시고 진행해주시기 바랍니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> 애드몹 광고 적용 앱
+### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> 애드몹 광고 적용 앱
 
 <figure><img src="../../.gitbook/assets/애드몹 광고화면.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -264,7 +264,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**전면광고 노출 설정**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**전면광고 노출 설정**</mark>
 
 {% hint style="danger" %}
 일반 프로토타입으로 제작한 앱에서만 전면광고 노출을 설정할 수 있습니다.
@@ -378,7 +378,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **테스트 광고 화면**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **테스트 광고 화면**
 
 ![](<../../.gitbook/assets/애드몹테스트광고 (1).png>)
 
@@ -394,7 +394,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 다운 받는 방법 확인하기**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 다운 받는 방법 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_12\_44\_788.gif)
 
@@ -414,7 +414,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **7. 광고 송출 체크하기**
 

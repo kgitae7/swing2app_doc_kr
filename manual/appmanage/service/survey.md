@@ -4,30 +4,30 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 # 설문조사
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;**설문조사 이용방법 정리**
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line">  **설문조사지 만들기** \
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">  **설문조사지 만들기** \
 앱운영 페이지 → 서비스관리 →설문관리 → \[설문 추가] 버튼을 선택 → 설문조사명, 설문기간 설정 후\
 → \[새 설문항목 추가] 버튼을 눌러서 질문 및 답변 항목을 입력해주시면 됩니다.\
 \
 \
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **설문지 앱에 적용하는 방법** \
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **설문지 앱에 적용하는 방법** \
 만들어진 설문지는 앱에 적용해주세요.\
 앱제작 페이지 → 페이지메뉴 → 메뉴추가 →메뉴이름 →\[스윙 페이지] 불러오기 → ‘설문조사’ 선택 적용 후 저장\
 \
 \
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱에서 설문 참여하기**\
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱에서 설문 참여하기**\
 앱을 실행 한뒤 설문조사에 참여할 수 있습니다.\
 적용된 메뉴를 선택한 뒤 화면을 터치하면 설문에 참여할 수 있어요.\
 **\*설문조사는 앱에 가입된 회원 – 사용자 등급부터 이용할 수 있어요.** \
 **손님은 이용할 수 없으니 이용시 참고 부탁드려요.**\
 \
 \
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **사용자들이 입력한 설문 결과 확인하기**\
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **사용자들이 입력한 설문 결과 확인하기**\
 앱운영 페이지 → 서비스관리 →설문관리→참여 인원에서 ‘숫자’ 선택 → ‘사용자’를 선택하면 설문 결과를 확인할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
@@ -344,7 +344,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 개별 링크 적용시, 연결된 하나의 설문조사만 보여지며 설문이 바로 시작됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP4.설문조사 항목 답변하기
 

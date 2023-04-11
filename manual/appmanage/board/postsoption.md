@@ -32,7 +32,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-### <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:blue;">**게시판 복사 방법**</mark>
+### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**게시판 복사 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC1\_20.06.png)
 
@@ -62,7 +62,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-### <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:blue;">**게시물 복사하기**</mark><mark style="color:blue;">​</mark>
+### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**게시물 복사하기**</mark><mark style="color:blue;">​</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC1\_20.06.png)
 

@@ -10,7 +10,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘카테고리 리스�
 
 ***
 
-<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**카테고리 리스트 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> <mark style="color:blue;">**카테고리 리스트 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
 

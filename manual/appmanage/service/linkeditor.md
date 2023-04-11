@@ -4,7 +4,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 # 링크마법사
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제공하는 앱운영 기능인 ‘링크마법사’ 이용방법 매뉴얼입니다.
 
@@ -60,7 +60,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 링크마법사 기능을 통해서 웹사이트 링크로 연동 할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**사용 예시2) 웹템플릿 페이지에서 \[링크마법사] 이용하기**</mark>
 
@@ -90,7 +90,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 앱 실행 후 템플릿 페이지가 적용된 홈화면의 \[전화하기] 버튼을 선택하면, 입력해놓은 번호로 전화 연결이 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**사용 예시3) 팝업 에서 \[링크마법사] 이용하기**</mark>
 

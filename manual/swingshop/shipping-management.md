@@ -66,7 +66,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-&#x20;<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+&#x20;<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png)
 
@@ -82,7 +82,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**배송관리 입력방법 움짤로 확인하기**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송관리 입력방법 움짤로 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.gif)
 
@@ -96,7 +96,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png)
 
@@ -104,7 +104,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 포함**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 포함**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png)
 

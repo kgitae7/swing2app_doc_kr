@@ -4,13 +4,13 @@ description: 2023년 4월 4주차 스윙투앱 기능 업데이트
 
 # 스윙투앱 업데이트
 
-<figure><img src=".gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿**\[업데이트 내용]**
 
 **푸시앱 – 웹사이트 회원 연동 기능 업데이트**
 
-<figure><img src=".gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시앱 – 웹사이트 회원 연동 기능 추가**&#x20;
 
@@ -79,4 +79,4 @@ description: 2023년 4월 4주차 스윙투앱 기능 업데이트
 단, 푸시 발송시 전체 회원에게만 발송이 가능합니다.&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>

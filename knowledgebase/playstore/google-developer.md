@@ -4,7 +4,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 # 구글 개발자-개인 계정 만들기
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **★구글 개발자 계정이란?**
@@ -61,7 +61,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
 
@@ -171,7 +171,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
 

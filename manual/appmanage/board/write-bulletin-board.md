@@ -144,7 +144,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_13_20_21_625.gif" alt=""><figcaption></figcaption></figure>
 

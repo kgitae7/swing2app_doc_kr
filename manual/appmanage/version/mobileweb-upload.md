@@ -4,9 +4,9 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 # 모바일웹 업로드 신청방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line">**모바일 웹 등록이란?**
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**모바일 웹 등록이란?**
 
 모바일 웹 등록은 웹사이트가 없는 분들은 유용하게 사용할 수 있는데요.
 
@@ -18,7 +18,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 ***
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line">**모바일 웹등록 이용(신청)방법**
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**모바일 웹등록 이용(신청)방법**
 
 앱 제작 완료
 
@@ -62,7 +62,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 1년치를 결제했다면, 모바일 웹사이트도 1년간 이용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 모바일 웹 등록 신청하기
 
@@ -98,7 +98,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 **담당자 확인 후에 약 2일 정도 후에 등록된 웹사이트를 확인할 수 있습니다.**&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 모바일 웹 등록 완료
 
@@ -108,7 +108,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 \[모바일웹 등록 확인]을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 모바일 웹 실행하기
 
@@ -132,7 +132,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 4\. 모바일웹사이트가 필요한데 제작비용이 부담스러울 경우 앱과 함께 이용할 수 있어요!
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 모바일 웹 등록 주의사항
 

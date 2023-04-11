@@ -128,7 +128,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**푸시 알림**</mark><mark style="color:orange;">**​​**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**푸시 알림**</mark><mark style="color:orange;">**​​**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%805.png)
 
@@ -140,7 +140,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 **​**
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**자유로운 댓글, 대댓글 작성**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**자유로운 댓글, 대댓글 작성**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EB%8C%80%EB%8C%93%EA%B8%804.png)
 

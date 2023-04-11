@@ -4,7 +4,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 # 플레이스토어 업로드 신청방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Q. 플레이스토어에 스윙으로 제작한 앱을 올리고 싶으면 어떻게해야 하나요?**</mark>
 
@@ -246,7 +246,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C4.png)
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
 
 업로드 신청서에 보시면\[마케팅 정보 활용 약관 보기] 버튼이 있습니다.
 

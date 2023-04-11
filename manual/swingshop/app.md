@@ -30,7 +30,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**쇼핑몰 메인 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**쇼핑몰 메인 페이지 – 앱 홈화면에 적용하는 방법**
 
 <figure><img src="../../.gitbook/assets/쇼핑몰메인1.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**쇼핑몰 정보 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**쇼핑몰 정보 페이지 – 앱 홈화면에 적용하는 방법**
 
 <figure><img src="../../.gitbook/assets/쇼핑몰정보-홈화면.png" alt=""><figcaption></figcaption></figure>
 
@@ -118,7 +118,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**웹 템플릿 페이지-스윙샵 상품을 넣어서 제작하는 방법**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**웹 템플릿 페이지-스윙샵 상품을 넣어서 제작하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B48.png)
 
@@ -162,7 +162,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**템플릿 페이지 앱에 적용하기**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**템플릿 페이지 앱에 적용하기**
 
 <figure><img src="../../.gitbook/assets/템플릿페이지2.png" alt=""><figcaption></figcaption></figure>
 
@@ -218,7 +218,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**이미지 페이지-스윙샵 상품을 넣어서 제작하는 방법**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**이미지 페이지-스윙샵 상품을 넣어서 제작하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B411.png)
 
@@ -248,7 +248,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**이미지 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**이미지 페이지 – 앱 홈화면에 적용하는 방법**
 
 <figure><img src="../../.gitbook/assets/이미지맵2-1 (1).png" alt=""><figcaption></figcaption></figure>
 

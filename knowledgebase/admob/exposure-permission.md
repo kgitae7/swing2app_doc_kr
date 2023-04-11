@@ -4,7 +4,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 # 애드몹 - 광고 노출 권한 설정
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿<mark style="color:blue;">**구글 애드몹(Admob)이란,**</mark>
 
@@ -26,7 +26,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 <mark style="color:red;">웹사이트를 연결한 웹앱-웹뷰, 푸시앱은 지정 불가합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)﻿1.이용방법
 
@@ -180,7 +180,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 [앱운영-버전관리-앱제작이력](https://documentation.swing2app.co.kr/knowledgebase/admob/testad) 페이지 이동, 업데이트 설정: “필수 업데이트(재설치)”로 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 애드몹 노출 지정 권한 운영방법 TIP
 
@@ -192,7 +192,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 이처럼 앱 이용 목적에 맞게 광고 노출 범위를 운영자가 직접 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 안내사항
 
@@ -218,5 +218,5 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 6\)기능 업데이트일 기준 2023년 1월 20일 이후 신규 앱제작 혹은 앱 업데이트를 하고 애드몹 플러그인 구매시, 애드몹 플러그인 설정 화면에 광고 노출 권한 설정 기능을 즉시 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: 쇼핑몰 메인페이지 이용방법 및 적용방법 매뉴얼
 
 # 스윙샵-쇼핑몰 메인페이지 이용방법
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **스윙샵 쇼핑몰 메인페이지 이용방법**
 
@@ -128,7 +128,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 실행화면**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_19\_16\_31\_07\_548.gif)
 
@@ -188,7 +188,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **이벤트 등록하기**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **이벤트 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B89.png)
 

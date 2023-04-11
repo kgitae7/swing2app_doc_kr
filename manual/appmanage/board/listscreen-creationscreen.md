@@ -54,7 +54,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW4.png)
 
@@ -98,7 +98,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW5.png)
 
@@ -124,7 +124,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**예시: 작성화면으로 사용하는 경우**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**예시: 작성화면으로 사용하는 경우**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98.png)
 
@@ -138,7 +138,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 &#x20;
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 게시판 작성화면 적용시**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 게시판 작성화면 적용시**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/53ebfd866f6ef882516eb24a072a2d00.png)
 

@@ -12,7 +12,7 @@ description: 게시물을 선택하여, 다른 게시판으로 글을 이동하�
 
 
 
-<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 복사와 게시물 이동의 차이점**</mark>
+<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 복사와 게시물 이동의 차이점**</mark>
 
 <mark style="background-color:blue;">​</mark>**게시물 복사**
 

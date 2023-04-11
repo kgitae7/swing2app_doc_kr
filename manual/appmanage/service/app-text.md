@@ -4,7 +4,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 # 앱 문자열 관리
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 \[앱 문자열 관리]는 앱에서 표시 및 사용되는 모든 문구와 메시지를 확인할 수 있는 관리 페이지이구요. \_2019년 6월 오픈 기능
 
@@ -16,7 +16,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 아래 이용방법을 확인해주세요\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱 문자열 관리란?
 
@@ -30,7 +30,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 \*\*기존에 커스터마이징(앱개발)으로 진행되었던 앱 문구 변경 및 외국어 전환은 이제 개발을 하지 않아도 사용자가 직접 내용을 수정하여 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 메시지 내용 수정 방법
 
@@ -66,7 +66,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 \-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 운영 TIP
 
@@ -82,7 +82,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC2.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.문구 변경 후) 앱 실행화면
 

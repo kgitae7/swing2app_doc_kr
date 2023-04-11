@@ -4,7 +4,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 # 웹뷰 무제한 유료앱
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**웹뷰 무제한 유료앱이란?**
 
@@ -35,7 +35,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 **매 월 내야 하는 유료앱 이용료 비용이 부담이 되는 경우, 오랜 기간 앱을 이용해야 할 때 부담없이 앱을 무제한으로 사용할 수 있습니다.** \
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP1. 웹뷰앱 제작방법**
 
@@ -61,7 +61,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 \-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP**2. 웹뷰 무제한 유료앱 구매 및 이용방법
 
@@ -105,7 +105,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 \*기존 앱이 출시된 사용자는 스토어에 다시 업데이트하여 재출시 해야 합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
 
@@ -143,7 +143,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 \*각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다. &#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP4**. 웹뷰 무제한 유료앱 이용시 주의사항
 
@@ -187,7 +187,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 앱 이전에 필요한 정보에 대해 안내드립니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP5**. 환불안내
 

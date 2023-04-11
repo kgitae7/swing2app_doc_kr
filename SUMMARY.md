@@ -203,7 +203,7 @@
     * [푸시 아이콘 이미지 가이드라인](manual/appmanage/pushmember/undefined.md)
     * [푸시 아이콘 이미지 등록](manual/appmanage/pushmember/pushicon.md)
     * [푸시 장치 관리 이용방법](manual/appmanage/pushmember/pushtest.md)
-    * [아이폰 푸시 인증서 연장](manual/appmanage/pushmember/push-certificate.md)
+    * [아이폰 푸시 인증서 연장](manual/tip/push-certificate.md)
     * [회원조회 - 회원정보 확인](manual/appmanage/pushmember/member-information.md)
     * [회원조회 - 부관리자 설정 및 로그인 방법](manual/appmanage/pushmember/associate-administrator.md)
     * [푸시앱, 웹뷰앱 이용 부관리자 설정](manual/appmanage/pushmember/webappadmin.md)

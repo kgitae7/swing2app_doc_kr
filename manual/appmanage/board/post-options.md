@@ -14,9 +14,9 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 
 매뉴얼을 통해서 게시물 상세 옵션을 설정하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:blue;">**게시판- 게시물 상세 옵션 이용방법**</mark>
+&#x20;<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**게시판- 게시물 상세 옵션 이용방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%95%EC%98%B5%EC%85%98NEW1.png)
 
@@ -40,7 +40,7 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 
 상세 옵션의 앱 실행화면은 아래 이미지를 참고해주세요 \~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 게시물 상세 – 등록자 이름 표시 여부**</mark>
 

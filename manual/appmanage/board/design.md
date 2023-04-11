@@ -21,7 +21,7 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 &#x20;게시판 UI및 기능을 선택할 수 있습니다. \
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 이미지 게시판**</mark>
 

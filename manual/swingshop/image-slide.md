@@ -8,9 +8,9 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 이때 상점관리에서 – 상점 상세 이미지를 여러 장 등록하면 자동으로 슬라이딩 되어서 보여집니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_01\_28\_16\_25\_34\_467.gif)
 
@@ -52,7 +52,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> 움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> 움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_12\_11\_04\_11\_286.gif)
 

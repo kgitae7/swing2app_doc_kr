@@ -4,7 +4,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 # 앱 이용약관, 개인정보취급방침
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **이용약관? 개인정보 처리방침이란?**
 
