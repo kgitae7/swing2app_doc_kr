@@ -47,7 +47,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 스윙투앱 푸시앱 제작방법은 아래 매뉴얼을 보시면 보다 상세하게 확인 가능합니다.
 
-****[**푸시앱 제작 전체 매뉴얼**](https://help-7.gitbook.io/undefined/manual/v3/webapp/push)****
+[**푸시앱 제작 전체 매뉴얼**](https://help-7.gitbook.io/undefined/manual/v3/webapp/push)
 {% endhint %}
 
 {% hint style="info" %}
@@ -55,8 +55,8 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 상품 상세 내용을 확인해주세요!
 
-****[**푸시 무제한 유료앱 이용권 보러가기**](https://help-7.gitbook.io/undefined/manual/appmanage/pay/push-unlimited)****
+[**푸시 무제한 유료앱 이용권 보러가기**](https://help-7.gitbook.io/undefined/manual/appmanage/pay/push-unlimited)
 {% endhint %}
 
-****
+
 

@@ -26,7 +26,7 @@
 
 **스윙투앱 홈페이지 로그인 후 메인 대시보드 화면에서 \[앱제작V2] 페이지로 이동합니다.**
 
-앱제작 마법사 화면 상단에  <mark style="color:blue;">**\[앱 추가 제작]**</mark>** ** 버튼이 있습니다.
+앱제작 마법사 화면 상단에  <mark style="color:blue;">**\[앱 추가 제작]**</mark> 버튼이 있습니다.
 
 앱 추가 제작을 선택하면 **\[새 앱 만들기]** 팝업 창이 뜹니다.
 
@@ -70,7 +70,7 @@
 
 &#x20;
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**보유 앱 관리**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**보유 앱 관리**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%B6%94%EA%B0%80new3.png)
 

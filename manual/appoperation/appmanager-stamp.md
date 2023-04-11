@@ -24,7 +24,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 관리자메뉴 이동**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 관리자메뉴 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%84-1.png)
 
@@ -72,7 +72,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP 2. QR코드로 스탬프 등록하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP 2. QR코드로 스탬프 등록하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%843.png)
 
@@ -84,7 +84,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP3. 스탬프 적립 완료**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP3. 스탬프 적립 완료**</mark>
 
 사용자 앱을 실행해서, 스탬프를 확인해볼게요
 
@@ -92,7 +92,7 @@
 
 위에서 QR코드를 스캔하여 적립한 스탬프 수만큼 사용자의 스탬프가 추가된 것을 확인할 수 있어요.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤이미지를 통해서 스탬프 등록방법을 확인해주세요.**</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤이미지를 통해서 스탬프 등록방법을 확인해주세요.**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_04\_15\_15\_24\_28\_174.gif)
 
@@ -136,7 +136,7 @@
 
 **\*만약 해당 게시판을 특정 회원들만 이용하게 하고 싶다면 \[지정권한 사용기능 허용] 에 체크하고 지정할 회원그룹을 선택해주세요.**
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**2. 스탬프 게시판 상세설정**</mark>
 
@@ -160,7 +160,7 @@
 
 **2019.3.22 이전에 제작한 사용자분은 업데이트를 먼저 하고 이용해주세요.**
 
-****
+
 
 <mark style="color:orange;">**3. 앱에 스탬프 적용하기**</mark>
 

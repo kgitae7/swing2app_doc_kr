@@ -20,7 +20,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 (푸시 발송용 아이콘 이미지는 안드로이드폰에서만 지원)
 
-****
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.푸시 아이콘 이미지 에러 문제**
 
@@ -42,7 +42,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 흰색/검정/회색/흑백 등의 배경색을 입혀서 제작했다면, 안드로이드 기기에서 아이콘 이미지를 인식하지 못해 자동으로 이미지를 회색으로 변경하여 출력합니다. &#x20;
 
-****
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.아이콘 이미지 색상 가이드 **<mark style="color:red;">**\*중요\***</mark>
 
@@ -64,7 +64,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 [https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications](https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications)
 
-****
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**푸시 아이콘 이미지 디자인 가이드
 

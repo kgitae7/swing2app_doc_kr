@@ -4,7 +4,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 # 애드몹 플러그인 광고 셋팅 주의사항
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 애드몹 플러그인에서 셋팅을 완료했는데도 앱에서 광고가 바로 뜨지 않아서 어려움을 겪는 분들도 계실텐데요.
 
@@ -14,7 +14,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 ***
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 애드몹 플러그인에 광고 아이디, 앱 아이디가 정확히 들어갔는지 체크해주세요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 애드몹 플러그인에 광고 아이디, 앱 아이디가 정확히 들어갔는지 체크해주세요.
 
 가장 간단하면서도 중요하죠!
 
@@ -32,9 +32,9 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 **☞**[**애드몹 플러그인 설정 이용방법 보러가기**](admob-apply.md)
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 광고 송출 시간은 일주일 이상 소요될 수 있습니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 광고 송출 시간은 일주일 이상 소요될 수 있습니다.
 
 <mark style="color:red;">\*해당 경우가 광고가 바로 노출되지 않는 가장 대표적인 사례입니다.(일반적인 사례)</mark>
 
@@ -48,9 +48,9 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 **광고 송출 시간은 정상적이며, 평균 일주일 이상 걸릴 수 있으니 기다려주시기 바랍니다.**
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 애드몹 대시보드에서 ‘결제 프로필’ 입력을 모두 완료했나요?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 애드몹 대시보드에서 ‘결제 프로필’ 입력을 모두 완료했나요?
 
 해당 내용은 애드몹을 처음 이용하시는 분들, 즉 애드몹 가입을 처음 진행하신 분들에게 해당 됩니다.
 
@@ -58,7 +58,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 결제 프로필 입력이 완료되지 않으면, 광고 아이디를 만들고 앱에 셋팅해도 반영이 되지 않습니다.
 
-따라서 첫 가입을 하신 분들은 반드시! ** **<mark style="color:purple;">**\*애드몹 대시보드에서 결제프로필을 입력했는지 확인해주시기 바랍니다.**</mark>
+따라서 첫 가입을 하신 분들은 반드시! <mark style="color:purple;">**\*애드몹 대시보드에서 결제프로필을 입력했는지 확인해주시기 바랍니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B41.png)
 
@@ -68,9 +68,9 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B4%91%EA%B3%A03.png)
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4. 광고 검토 – 미검토, 차단된 광고가 없는지 모두 확인하셨나요?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4. 광고 검토 – 미검토, 차단된 광고가 없는지 모두 확인하셨나요?
 
 애드몹 대시보드의 차단 관리에서 미검토 광고가 없는지 확인해주셔야 합니다.
 
@@ -98,15 +98,15 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 ☞ [**\[스윙투앱 애드몹 운영 주의사항 보러가기\]**](admob-operation.md)
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)5. 부정클릭, 무효크래픽 정책 위반이 발생되지 않았는지 확인해주세요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)5. 부정클릭, 무효크래픽 정책 위반이 발생되지 않았는지 확인해주세요.
 
 부정클릭 무효크래픽은 모두 애드몹 광고를 인위적으로 많이 클릭하여 정책상 위반이 발생한 경우입니다.
 
 물론 처음 애드몹 광고를 만들어서 사용하는 분들은 광고 자체가 아직 생성이 안되었기 때문에 이러한 위반이 발생되지는 않는데요.
 
-만약 ** **<mark style="color:purple;">**\*애드몹 계정 내에서 다른 앱에 적용된 광고 아이디가 정책 위반으로 정지가 되었다면, 계정도 정지가 될 수 있어요.**</mark>
+만약 <mark style="color:purple;">**\*애드몹 계정 내에서 다른 앱에 적용된 광고 아이디가 정책 위반으로 정지가 되었다면, 계정도 정지가 될 수 있어요.**</mark>
 
 광고 단위 아이디만 정지가 되는 것이 아니라, 경우에 따라 애드몹 계정 까지도 정지가 됩니다.
 
@@ -120,9 +120,9 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 <mark style="color:red;">\*정책 위반으로 정지가 될 경우는 정지가 풀릴 때까지 기다려 주셔야 합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)6. 애드몹 테스트 광고 확인하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)6. 애드몹 테스트 광고 확인하기
 
 <mark style="color:red;">\*해당 방법은 스윙투앱에서 제작한 앱 자체에 문제가 있거나 스윙투앱에서 제공하는 애드몹 서버에 문제는 없는지 사용자분께서 직접 확인하는 방법이에요.</mark>
 
@@ -142,7 +142,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 저장 한 뒤 앱을 다시 실행해볼게요. **(앱을 완전히 종료한 뒤, 재실행해주세요)**
 
-****
+
 
 <mark style="color:blue;">**핸드폰 앱 실행) 테스트용 애드몹 광고 화면**</mark>
 
@@ -156,9 +156,9 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 일반적으로 광고 송출 시간 때문에 광고가 앱으로 배포되기까지 통상적인 시간이 걸리는 것일 수 있어요.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)7. 안내사항
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)7. 안내사항
 
 <mark style="color:blue;">-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​</mark>
 
@@ -206,7 +206,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 <mark style="color:red;">-따라서 애드몹 공식 사이트에서 내용을 충분히 숙지해주셔야 합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제공하는 애드몹 플러그인 설정은 스윙투앱의 ‘애드몹 적용 플러그인(22만원)’ 상품을 구매해야 이용가능합니다.
 

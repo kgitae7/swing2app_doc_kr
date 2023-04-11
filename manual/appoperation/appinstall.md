@@ -22,9 +22,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱제작 완료하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱제작 완료하기**
 
-****
+
 
 <mark style="color:blue;">**1. 앱제작하기 버튼 선택**</mark>
 
@@ -88,7 +88,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
 
 스윙투앱에서 제작한 무료버전 앱을 다운 받는 방법은 3가지입니다.
 
@@ -130,7 +130,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:red;">스윙투앱 공식앱에서 가입한 계정이 아닙니다.</mark>&#x20;
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
 
@@ -150,9 +150,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-****
 
-<mark style="color:blue;"><mark style="color:orange;">****<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> ** **<mark style="color:blue;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
+
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_03\_24\_12\_34\_24\_881.gif)
 
@@ -210,7 +210,7 @@ APK파일이 핸드폰으로 다운됩니다.
 
 무료이용자도 유료이용자와 동일한 기능, 앱운영을 이용할 수 있습니다\~!!
 
-<mark style="color:green;">****</mark>
+
 
 {% hint style="danger" %}
 <mark style="color:red;">메일에서 정상적으로 다운이 안된다면, 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!</mark>
@@ -244,7 +244,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 ​
 
-****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> ** **<mark style="color:blue;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_09\_22\_13\_50\_52\_221.gif)
 
@@ -300,7 +300,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 **앱 설치가 잘 안된다면, 아래 매뉴얼을 참고해주세요!**
 
-****
+
 
 **▶** [**\[무료버전앱 설치가 안된다면 확인해주세요\]**](not-installed1.md)
 

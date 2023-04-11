@@ -13,7 +13,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
-****[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]**](http://www.swing2app.co.kr/view/app\_setting) **메뉴로 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]**](http://www.swing2app.co.kr/view/app\_setting) **메뉴로 이동합니다.**
 
 ***
 
@@ -36,7 +36,8 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%831.18.09.png)
 
-<mark style="color:orange;">**\* 앱공개범위 : 앱을 이용하기 위해 회원가입이 필수인지 아닌지 설정합니다.**</mark> \ <mark style="color:orange;"></mark>
+<mark style="color:orange;">**\* 앱공개범위 : 앱을 이용하기 위해 회원가입이 필수인지 아닌지 설정합니다.**</mark> \
+
 
 <mark style="color:orange;">**\*4가지 앱 공개 범위 내용을 알려드릴게요!**</mark>
 
@@ -48,7 +49,7 @@
 >
 > **4)비공개(회원가입시 이용가능) : 회원가입을 필수로 해야 하는 것은 위와 동일하나, 관리자의 승인 없이도 가입을 하면 바로 앱을 이용할 수 있어요.**
 >
-> ****
+>
 
 <mark style="color:red;">\*앱의 운영 특성에 맞게 공개 범위를 설정해서 이용해주세요!!</mark>
 
@@ -74,7 +75,7 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**미인증 회원 인증하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**미인증 회원 인증하기**</mark>
 
 **관리자는 웹에서 미인증회원을 인증 처리할 수 있어요!**
 
@@ -104,7 +105,7 @@
 
 **해당 페이지에서 안내 문구 내용을 수정한 뒤, \[정책 설정하기] 버튼을 누르면 저장됩니다.**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면: 앱 가입 문구 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면: 앱 가입 문구 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%856-514x1024.png)
 
@@ -115,7 +116,8 @@
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c7574360e9aa312995b45efd5305c0fe.png)
 
 앱에 들어갈 앱 이용약관과 개인정보 취급방침 항목 역시 사용자가 수정하여 사용할 수 있습니다.\
-<mark style="color:red;">**각 문항별로 스윙에서 내용을 기본셋팅하여 넣어드렸는데요.**</mark> \ <mark style="color:red;"></mark><mark style="color:red;">**그대로 쓰셔도 되지만 해당 내용은 어떤 앱을 제공하는지 서비스마다 내용이 달라지기 때문에 사용자가 확인하여서  수정하여 사용해주세요**</mark>\
+<mark style="color:red;">**각 문항별로 스윙에서 내용을 기본셋팅하여 넣어드렸는데요.**</mark> \
+<mark style="color:red;">**그대로 쓰셔도 되지만 해당 내용은 어떤 앱을 제공하는지 서비스마다 내용이 달라지기 때문에 사용자가 확인하여서  수정하여 사용해주세요**</mark>\
 해당 페이지에서 내용을 수정한 뒤  **\[정책 설정하기]** 버튼을 누르면 저장됩니다.\
 
 
@@ -165,7 +167,7 @@
 
 **그럼, 위에서 작성한 앱 개인정보처리방침 내용이 플레이스토어, 앱스토어에서는 어떻게 적용되어 보여지는지 확인해볼게요!**
 
-****
+
 
 <mark style="color:orange;">**1) 플레이스토어**</mark>&#x20;
 

@@ -12,17 +12,17 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%882.png)
 
 장바구니 페이지 역시 스윙샵 기능 이용시 이용가능하오니, **스윙샵 서비스 신청 후 적용해주세요.**&#x20;
 
-☞ [**\[스윙샵 신청방법\]**](apply.md)****
+☞ [**\[스윙샵 신청방법\]**](apply.md)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 장바구니 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱에 장바구니 메뉴 적용하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png)
 
@@ -36,7 +36,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 4\. \[링크마법사] 버튼을 선택합니다.
 
-5\. 링크마법사 창에서 <mark style="color:blue;">**\[장바구니]**</mark>** ** 메뉴 선택, \[반영]버튼 선택
+5\. 링크마법사 창에서 <mark style="color:blue;">**\[장바구니]**</mark> 메뉴 선택, \[반영]버튼 선택
 
 6\. \[적용] 버튼 선택
 
@@ -44,7 +44,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 장바구니 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 장바구니 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_28\_03\_56\_34\_792.gif)
 

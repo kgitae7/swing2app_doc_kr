@@ -24,7 +24,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**팝업 스타일**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%851\_2020.02.png)
 
@@ -46,7 +46,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) **1. 팝업관리 페이지 이동**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **1. 팝업관리 페이지 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%851.png)
 
@@ -54,7 +54,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 팝업 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 팝업 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%853\_2020.02.png)
 
@@ -94,9 +94,9 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 \*이미지 변경, 이미지 삭제: 해당 팝업 이미지를 다른 이미지를 변경할 수 있고, 이미지를 삭제할 수도 있습니다.
 
-<mark style="color:orange;">****</mark>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**앱 실행화면 – 팝업 적용 화면**</mark>
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면 – 팝업 적용 화면**</mark>
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_02_16_23_24_13_769.gif" alt=""><figcaption></figcaption></figure>
 
@@ -108,9 +108,9 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면)팝업 스타일**
 
-<mark style="color:orange;">****</mark>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**두번째 팝업 스타일**</mark>
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**두번째 팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85\_%EB%91%90%EB%B2%88%EC%A7%B8\_%EC%8A%A4%ED%83%80%EC%9D%BC.png)
 
@@ -128,7 +128,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**세번째 팝업 스타일**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**세번째 팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EC%84%B8%EB%B2%88%EC%A7%B8\_%EC%8A%A4%ED%83%80%EC%9D%BC.png)
 
@@ -148,7 +148,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**네번째 팝업 스타일**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**네번째 팝업 스타일**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EB%84%A4%EB%B2%88%EC%A7%B8%EC%8A%A4%ED%83%80%EC%9D%BC.png)
 

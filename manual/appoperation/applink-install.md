@@ -40,7 +40,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱 설치 링크주소 복사하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱 설치 링크주소 복사하기**
 
 <mark style="color:red;">\*중요\* PC에서 진행, 웹브라우저: 크롬을 이용해주세요!!</mark>
 
@@ -70,7 +70,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 **‘링크 주소 복사’** 하시면 앱 설치(다운로드) 주소를 복사할 수 있습니다.
 
-****
+
 
 이렇게 하면 제작하신 앱 파일이 아닌 링크로 받을 수 있습니다.&#x20;
 
@@ -78,9 +78,9 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 앱 설치 링크로 다운받기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 앱 설치 링크로 다운받기**
 
-<mark style="color:orange;">****</mark>
+
 
 ### <mark style="color:blue;">**1.이메일로 앱 설치 링크 발송 후 다운**</mark>
 

@@ -2,7 +2,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC%EC%A0%9C%EB%AA%A9.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**통합 알림 설정 이란?**</mark>\
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**통합 알림 설정 이란?**</mark>\
 
 
 \[통합 알림] 이란 앱 운영에 관련된 푸시 알림을 관리하고, 설정할 수 있는 기능이구요.
@@ -13,7 +13,7 @@
 
 통합 알림은 별도로 신청을 하지 않아도 사이트 알림을 받는 것으로 기본 셋팅되어 제공됩니다.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**통합 알림 설정의 장점 및 활용 방법**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:purple;">**통합 알림 설정의 장점 및 활용 방법**</mark>
 
 1\)앱 푸시 알림 뿐만 아니라 웹, 이메일, SMS를 선택적으로 사용할 수 있다는 면에서 다양한 매체로 알림을 활용할 수 있어요.
 
@@ -112,7 +112,7 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 **이메일 알림도 체크해놓으셨다면, 푸시 알림처럼 관리자 이메일로도 구매완료 알림이 들어옵니다.**
 
-****
+
 
 <mark style="color:blue;">**2. 웹(PC) 알림창**</mark>
 

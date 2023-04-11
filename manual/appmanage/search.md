@@ -42,7 +42,7 @@
 
 **2) 게시판, 게시물, 회원, 스윙소식 등 메뉴별로 조회된 검색어를 확인할 수 있습니다.**
 
-****
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**움짤이미지로 전체검색 기능 확인하기**</mark>
 

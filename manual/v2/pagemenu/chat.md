@@ -68,7 +68,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면: 채팅방 화면**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면: 채팅방 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2.png)
 
@@ -84,7 +84,7 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 사용자가 앱 관리자와 채팅을 하는 방법**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 사용자가 앱 관리자와 채팅을 하는 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW4.png)
 
@@ -94,7 +94,7 @@
 
 
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:orange;">**채팅목록**</mark>&#x20;
+<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**채팅목록**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png)
 
@@ -122,11 +122,11 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 관리자가 앱 회원과 채팅을 하는 방법**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 관리자가 앱 회원과 채팅을 하는 방법**</mark>
 
 **관리자는 웹(스윙 홈페이지)에서 채팅을 할 수도 있고, 앱에서도 이용할 수 있어요.**
 
-****
+
 
 <mark style="color:orange;">**1) 회원조회 페이지 이동**</mark>
 
@@ -144,7 +144,7 @@
 
 **회원조회 페이지에서 대화를 할 회원을 선택 후 해당 대화하기 버튼을 선택하면 채팅이 시작되요!!**
 
-****
+
 
 > **전용대화? 공용대화란?**
 
@@ -196,7 +196,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-<mark style="color:red;">**— 추가안내**</mark>** **&#x20;
+<mark style="color:red;">**— 추가안내**</mark>&#x20;
 
 앱에서 기존에 채팅을 한 회원과 다시 대화를 하고 싶다면, 채팅 목록을 이용해주세요.
 
@@ -222,7 +222,7 @@
 
 ,
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5. 새글알람 푸시 알림 -관리자, 회원**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5. 새글알람 푸시 알림 -관리자, 회원**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%858.png)
 
@@ -244,7 +244,7 @@
 
 **2. 운영자와 채팅하기 메뉴(1:1 채팅)는 \*앱제작 페이지→ 페이지메뉴 →스윙페이지에서 \[관리자 채팅] 으로 적용해주시기 바랍니다.**
 
-****
+
 
 3\. **관리자와 여러명의 사용자와 대화할 수 있는 \[그룹채팅]** 도 이용할 수 있습니다.
 

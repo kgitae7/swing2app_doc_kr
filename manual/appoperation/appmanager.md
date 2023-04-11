@@ -36,7 +36,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-<mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">간편 로그인으로 이용중인 사용자분들은</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**\*부관리자로 등록하여 이용할수있습니다.**</mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">간편 로그인으로 이용중인 사용자분들은</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**\*부관리자로 등록하여 이용할수있습니다.**</mark>
 
 만든 앱에서 회원가입을 한 뒤 해당 회원의 그룹을 → 관리자로 설정해주세요.&#x20;
 
@@ -50,7 +50,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/20212906.png)
 
-****[**\[부관리자 설정 상세 이용방법 매뉴얼\]**](../appmanage/pushmember/associate-administrator.md)을 참고해주세요.
+[**\[부관리자 설정 상세 이용방법 매뉴얼\]**](../appmanage/pushmember/associate-administrator.md)을 참고해주세요.
 
 ***
 

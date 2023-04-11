@@ -9,7 +9,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 {% hint style="info" %}
 <mark style="color:blue;">**앱 공유 안내**</mark>
 
-****
+
 
 **안드로이드폰**
 
@@ -48,7 +48,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 4\)해당 기능은 아이폰은 이용 할 수 없어요. 안드로이드폰에서만 앱 다운이 가능합니다.
 {% endhint %}
 
-****
+
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -126,7 +126,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 카카오톡으로 공유한 앱 설치하기**
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**1) 앱 공유하기 – 카카오톡**</mark>
 
@@ -140,7 +140,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 메뉴를 삭제했다면, 위에 안내드린 방법으로 \[설정] 혹은 \[앱 공유하기] 메뉴를 앱에 적용해주세요.&#x20;
 
-<mark style="color:red;"></mark>
+
 
 앱 공유하기 버튼 누르면 여러 어플 경로로 앱을 공유할 수 있구요.
 
@@ -168,9 +168,9 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 \*플레이스토어에 앱이 출시되어있다면  \[어플 설치 및 실행하기] 버튼을 눌러주세요.  플레이스토어 출시 링크로 이동합니다.&#x20;
 
-<mark style="color:orange;">****</mark>
 
-&#x20;<mark style="color:orange;">****</mark> <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**움짤이미지로 앱 다운 방법 확인하기**</mark>&#x20;
+
+&#x20;<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**움짤이미지로 앱 다운 방법 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_12\_07\_15\_25\_10\_743.gif)
 
@@ -200,7 +200,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 \*\*\*브라우저는 반드시 IE 로 열어주셔야 합니다. (크롬, 사파리 등은 불가)
 
-<mark style="color:orange;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A03.png)
 
@@ -228,7 +228,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 
 
-<mark style="color:blue;">****</mark>
+
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**설치방법은 아래 움짤 이미지로 보시면 더욱 쉽게 확인이 가능합니다.**</mark>&#x20;
 
@@ -266,7 +266,7 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 앱 공유 해당URL을 복사해서 인터넷 새 브라우저 창에서 앱 다운 후 설치를 진행해주세요.
 
-****
+
 
 <mark style="color:green;">**★ 앱 공유 URL복사해서 이용**</mark>
 

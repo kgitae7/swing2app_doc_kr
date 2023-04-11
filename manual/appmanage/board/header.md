@@ -4,7 +4,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 # 게시판 헤더 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**게시판 헤더란?**</mark>
 
@@ -16,9 +16,9 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 등록된 게시물 순위를 정해서 순서대로 **게시물 섬네일을 정렬시킬 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP1. 게시판 헤더 적용하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 게시판 헤더 적용하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW1.png)
 
@@ -54,9 +54,9 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 >
 > **헤더에 게시물 우선순위를 설정하여 고정글을 적용할 경우 아래  STEP.2 방법을 확인하여 따라주시기 바랍니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2. 게시물에 헤더 우선순위 적용하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 게시물에 헤더 우선순위 적용하기
 
 게시판관리에서 헤더 적용을 끝냈다면 게시판으로 이동해서, 헤더에 보여질 우선순위를 적용해주셔야 합니다.
 
@@ -96,9 +96,9 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP3. 앱에 게시판 적용하기 <mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱에 게시판 적용하기&#x20;
 
 헤더를 설정한 게시판을 앱에 적용해야 하겠죠?
 
@@ -150,9 +150,9 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP4. 앱 실행화면
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 앱 실행화면
 
 앱에서 헤더가 어떻게 보여지는지 확인해볼까요?
 
@@ -180,9 +180,9 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 게시판 설명글은 **\[게시판 및 기능 설정창] → 기본설정 항목에서→ 게시판 및 기능설명란**에 입력해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP5. 게시판 헤더글은 어떻게 내릴 수 있나요? (헤더글 삭제)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 게시판 헤더글은 어떻게 내릴 수 있나요? (헤더글 삭제)
 
 <mark style="color:red;">게시판 헤더 기능을 쓰지 않을 경우 앞서 보셨던 게시판 관리 – ‘게시판 헤더 사용하기’ 체크를 풀면 되구요.</mark>
 
@@ -214,4 +214,3 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 게시판에서 공지글이나 이벤트 글을 더욱 강조해서 보이게끔 하거나, 게시물 순서를 새로 정할 때, 오래된 게시글을 다시 앞 순서로 정렬하고자 할 때 유용하게 활용할 수 있습니다.&#x20;
 {% endhint %}
 
-<mark style="color:blue;">****</mark>

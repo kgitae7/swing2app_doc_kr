@@ -44,7 +44,7 @@
 
 **공지사항으로 많은 사용자들에게 설문조사를 알려야 한다면 푸시를 사용하는 것도 좋은 방법입니다.**
 
-****
+
 
 <mark style="color:orange;">**3. 설문조사 항목 입력**</mark>
 
@@ -140,7 +140,7 @@
 
 **-**<mark style="color:blue;">**‘설문추가**</mark><mark style="color:blue;">‘</mark> 버튼을 선택하면 기존 설문지 외에도 새로운 설문을 추가할 수 있습니다.
 
-**-**<mark style="color:blue;">**‘수정’**</mark>** ** 버튼을 선택해서 질문 내용을 수정할 수 있으며, <mark style="color:blue;">‘</mark><mark style="color:blue;">**삭제**</mark><mark style="color:blue;">‘</mark> 버튼 선택하여 설문을 삭제할 수도 있습니다.
+**-**<mark style="color:blue;">**‘수정’**</mark> 버튼을 선택해서 질문 내용을 수정할 수 있으며, <mark style="color:blue;">‘</mark><mark style="color:blue;">**삭제**</mark><mark style="color:blue;">‘</mark> 버튼 선택하여 설문을 삭제할 수도 있습니다.
 
 ***
 
@@ -148,7 +148,7 @@
 
 **☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](../../appmanage/service/survey.md) **상세보러가기**
 
-****
+
 
 <mark style="background-color:blue;">**▶**</mark>** 설문조사지 만들기**
 

@@ -14,7 +14,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품게시물관리 – 상품문의**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 상품게시물관리 – 상품문의**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EA%B2%8C%EC%8B%9C%EB%AC%BC1.png)
 
@@ -32,7 +32,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 **관리자는 해당 페이지(상품게시물관리)에서 사용자들의 문의글을 확인하고, 답변을 작성할 수 있습니다.**&#x20;
 
-****
+
 
 <mark style="color:blue;">**–사용자 문의에 댓글 입력하기**</mark>&#x20;
 
@@ -64,7 +64,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 상품게시물관리-상품리뷰**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품게시물관리-상품리뷰**
 
 **두번째 메뉴인 상품리뷰도 같은 페이지에서 확인할 수 있어요.**
 
@@ -102,7 +102,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면- 리뷰 및 질의**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면- 리뷰 및 질의**
 
 앱에서는 리뷰화면과 상품문의 화면이 어떻게 표시되는지 확인해봐야겠죠?
 
@@ -120,7 +120,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 리뷰 남기기 버튼을 선택하면 리뷰를 작성할 수 있으며, **별모양으로 된 아이콘으로 평점을 매길 수 있습니다.**&#x20;
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B05.png)
 
@@ -175,7 +175,7 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-리뷰 작성 권한은 **** [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)에서 설정할 수 있어요.
+리뷰 작성 권한은 [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)에서 설정할 수 있어요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B07.png)
 
@@ -189,4 +189,3 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 **사용자들이 작성한 리뷰글, 문의글은 상품게시물 관리 페이지에서 확인하고 관리할 수 있습니다. \~!!**
 
-****

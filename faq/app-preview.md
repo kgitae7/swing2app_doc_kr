@@ -64,7 +64,7 @@
 
 **앱 부관리자 설정 방법, 로그인하는 방법은 아래 매뉴얼을 참고해주세요!**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**스윙미리보기 상세방법 매뉴얼 확인하기**](https://wp.swing2app.co.kr/documentation/swingpreview/)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**스윙미리보기 상세방법 매뉴얼 확인하기**](https://wp.swing2app.co.kr/documentation/swingpreview/)
 
 </details>
 
@@ -78,7 +78,7 @@
 
 QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이 가능합니다. \*웹뷰, 푸시앱으로 제작한 앱은 이용 불가
 
-****
+
 
 **★ QR코드 이용방법**
 
@@ -173,7 +173,7 @@ QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이
 
 스윙투앱 가입시 간편로그인으로 진행하셨던 분들은 네이버, 구글, 페이스북 아이콘을 선택해서 로그인을 진행해주세요.
 
-****![](../.gitbook/assets/al.PNG)****
+![](../.gitbook/assets/al.PNG)
 
 **\*아이폰은 간편 로그인 기능이 제공되지 않습니다.**
 

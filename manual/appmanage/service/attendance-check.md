@@ -14,13 +14,13 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1. 출석체크 등록하기**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1. 출석체크 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
 
 [앱운영 페이지 → 서비스관리 → 출석체크 ](http://www.swing2app.co.kr/view/attendance\_board)메뉴로 이동합니다.
 
-****
+
 
 ### <mark style="color:blue;">**1. 출석체크 등록하기**</mark>
 
@@ -40,7 +40,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 <mark style="color:purple;">**\*푸시 발송도 가능해요! 출석 이벤트를 앱 회원들에게 알리고자 할때는 푸시설정 버튼을 선택해서 푸시 알림을 보낼 수 있습니다.**</mark>
 
-<mark style="color:purple;">****</mark>
+
 
 ### <mark style="color:blue;">**2. 출석체크 자동등록**</mark>
 
@@ -62,7 +62,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 <mark style="color:red;">\*\* 자동 등록 설정 역시 푸시 설정을 등록할 수 있습니다.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 ### <mark style="color:blue;">**3. 출석체크 마감**</mark>
 
@@ -76,11 +76,11 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 수정 및 삭제도 가능하니 원하는 기능을 사용해주세요**.**
 
-****
+
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP2. 출석체크 메뉴 앱에 적용하기**
 
 출석체크 작성이 완료되면, 앱에 적용해야하겠죠?
 
@@ -134,7 +134,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP3. 앱 실행화면 – 출석체크 확인**
 
 앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 

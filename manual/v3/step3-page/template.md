@@ -70,7 +70,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **업종별 템플릿 스타일 보러가**
 
-****[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)****
+[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
@@ -116,7 +116,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 **\*사용자분들은 원하는 디자인의 페이지를 선택할 수 있습니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
 
@@ -160,7 +160,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
-****<img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
+<img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5\_19.09.png)
 
@@ -232,7 +232,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-****<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
+<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
 

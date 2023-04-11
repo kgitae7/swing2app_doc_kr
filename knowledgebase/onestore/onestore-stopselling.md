@@ -42,10 +42,10 @@
 
 **이후에 다시 앱을 출시하고 싶다면 위와 동일한 방법으로 다시 앱으로 들어가서 판매 상태를 ‘판매중’으로 변경해주시면 됩니다!!**
 
-****
+
 
 **원스토어 앱 등록방법? 앱 업데이트 방법은 아래 매뉴얼로 확인해주세요 ^^**
 
-<mark style="background-color:blue;">**▶**</mark>** ** [**원스토어 앱 등록하기 보러가기**](onestore.md)
+<mark style="background-color:blue;">**▶**</mark> [**원스토어 앱 등록하기 보러가기**](onestore.md)
 
-<mark style="background-color:blue;">**▶**</mark>** ** [**원스토어 앱 업데이트 보러가기**](onestore-update.md)
+<mark style="background-color:blue;">**▶**</mark> [**원스토어 앱 업데이트 보러가기**](onestore-update.md)

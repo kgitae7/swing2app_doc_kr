@@ -4,7 +4,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 # 애드몹 - 광고 노출 권한 설정
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿<mark style="color:blue;">**구글 애드몹(Admob)이란,**</mark>
 
@@ -26,11 +26,11 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 <mark style="color:red;">웹사이트를 연결한 웹앱-웹뷰, 푸시앱은 지정 불가합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)﻿1.이용방법
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)﻿1.이용방법
 
-### <mark style="color:blue;"></mark>
+###
 
 ### <mark style="color:blue;">Case 1. 신규앱 애드몹 적용 (스토어 출시 전,애드몹 첫 셋팅)</mark>
 
@@ -90,7 +90,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 <mark style="color:orange;">→지정 권한설정에 추가 되어 있는 그룹 및 사용자에게 광고가 노출 됩니다.</mark>
 
-<mark style="color:orange;"></mark>
+
 
 6\)저장한 뒤 새로 제작된(업데이트 한) 앱 버전으로 확인해주세요.
 
@@ -156,7 +156,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 <mark style="color:orange;">→지정 권한설정에 추가 되어 있는 그룹 및 사용자에게 광고가 노출 됩니다.</mark>
 
-<mark style="color:orange;"></mark>
+
 
 6\)저장한 뒤, 새로 제작된 앱(업데이트 버전 앱)을 다시 다운받아 확인해주세요.
 
@@ -180,9 +180,9 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 [앱운영-버전관리-앱제작이력](https://documentation.swing2app.co.kr/knowledgebase/admob/testad) 페이지 이동, 업데이트 설정: “필수 업데이트(재설치)”로 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 애드몹 노출 지정 권한 운영방법 TIP
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 애드몹 노출 지정 권한 운영방법 TIP
 
 앱 내에서 유료 회원권 등의 상품을 구매하는 경우, 회원권을 구매한 유료 사용자에게는 앱 광고가 노출되지 않게 설정할 수 있습니다.
 
@@ -192,9 +192,9 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 이처럼 앱 이용 목적에 맞게 광고 노출 범위를 운영자가 직접 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 안내사항
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 안내사항
 
 1\)해당 기능은 ‘구글 애드몹 적용 플러그인’ 상품을 구매한 사용자만 이용 가능합니다.
 
@@ -218,5 +218,5 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 6\)기능 업데이트일 기준 2023년 1월 20일 이후 신규 앱제작 혹은 앱 업데이트를 하고 애드몹 플러그인 구매시, 애드몹 플러그인 설정 화면에 광고 노출 권한 설정 기능을 즉시 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 

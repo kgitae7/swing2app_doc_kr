@@ -76,7 +76,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/write-bulletin-board" %}
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC5\_20.03.png)
 
@@ -118,11 +118,11 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_25\_16\_39\_51\_723.gif)
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC6\_20.03.png)
 
@@ -130,7 +130,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 **앱제작페이지에서 해당 게시판을 앱에 연동해주셔야 반영이 되요, 아래에서 앱에 적용하는 방법 확인해주세요.**
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -160,7 +160,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-****
+
 
 <mark style="color:blue;">**앱제작 V2버전 이용시**</mark>
 
@@ -212,9 +212,9 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 문의게시판처럼 질문을 받을 항목을 구성할 수 있구요. 입사지원서 같은 양식으로도 활용이 가능합니다.
 
-<mark style="color:orange;">****</mark>
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
 
 글 등록이 완료된 후 게시판 작성폼을 확인해볼게요.
 
@@ -231,11 +231,10 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 날짜가 첫번째 항목이라면 날짜 2020-07-09 이렇게 제목으로 표시됩니다.
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:red;">**\*이미지 등록, 파일첨부등을 첫번째 항목으로 등록하지 않도록 해주세요.**</mark>
 
 <mark style="color:red;">항목에 입력되는 값이 없기 떄문에 임시 자동 숫자 번호가 제목으로 셋팅이 됩니다.</mark>
 {% endhint %}
 
-<mark style="color:red;">****</mark>

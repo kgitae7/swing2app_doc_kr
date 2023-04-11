@@ -142,7 +142,7 @@
 
 애드몹 플러그인 셋팅 상세 내용은 아래 매뉴얼로 확인해주세요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**\[애드몹 플러그인 광고셋팅방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**\[애드몹 플러그인 광고셋팅방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
 
 </details>
 
@@ -174,7 +174,7 @@
 
 가입 및 광고 단위를 만드는 방법은 아래 매뉴얼로 확인해주시기 바랍니다.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**\[애드몹 가입 및 광고단위 만드는 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/admob-register/)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**\[애드몹 가입 및 광고단위 만드는 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/admob-register/)
 
 </details>
 
@@ -238,7 +238,7 @@
 
 애드몹 신청후 체크방법, 운영주의사항을 아래 매뉴얼로 확인해주세요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **** ](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)[**\[애드몹 광고 운영 주의사항\]**](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ ](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)[**\[애드몹 광고 운영 주의사항\]**](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)
 
 </details>
 

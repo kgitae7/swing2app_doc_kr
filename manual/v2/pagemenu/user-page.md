@@ -16,7 +16,7 @@
 
 ​
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark><mark style="color:green;">**사용자 페이지에서 제공하는 제작도구**</mark>
+&#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:green;">**사용자 페이지에서 제공하는 제작도구**</mark>
 
 **1)웹템플릿 페이지**
 

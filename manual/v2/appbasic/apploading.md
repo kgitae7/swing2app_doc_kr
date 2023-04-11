@@ -17,7 +17,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 {% hint style="info" %}
 <mark style="color:blue;">**대기화면 이미지 사이즈 중요 안내**</mark>
 
-****
+
 
 **대기화면 이미지는 정사각형 사이즈로 (2282\*2282)로 제공하고 있는데요.**
 
@@ -67,7 +67,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)**3. 제작방법1–포토샵 실행 **<mark style="color:blue;">****</mark>&#x20;
+### &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)**3. 제작방법1–포토샵 실행**&#x20;
 
 **먼저 대기화면 이미지를 제작할 수 있도록 포토샵을 열어서 작업해볼게요!!**
 
@@ -89,7 +89,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 파란색 영역 안으로 만드시고자 하는 이미지 혹은 회사의 로고를 넣어서 이미지를 만들어주십니다. \
 \
-<mark style="color:red;"></mark><mark style="color:red;">**\* 파란색 영역 안으로만 작업해주세요.**</mark>
+<mark style="color:red;">**\* 파란색 영역 안으로만 작업해주세요.**</mark>
 
 <mark style="color:red;">**회색은 핸드폰 상에서 잘리는 부분이기 때문에 파란색 영역을 넘어가지 않도록 해주세요.**</mark>&#x20;
 
@@ -133,7 +133,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 자! 이렇게 대기화면 가이드라인 방법을 보시고 이미지를 제작하시면 절대\~ 핸드폰에서 잘리거나 찌그러져 보이지 않아요 ^^
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**그림판으로 대기화면 이미지 만들기!!**</mark>
 
@@ -187,9 +187,9 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **8. 대기화면 잘못된 예시**
 
-****
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/91d217c38ad4ecd313e29f23ff870d61.png)
 
@@ -205,7 +205,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1be27db8531d4701dae081e6279e74fa.png)
 
@@ -215,7 +215,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 보통 대기화면 이미지는 글자를 많이 넣지 않는 것을 권장드리고 싶어요. 간단하고 심플한 이미지를 넣는 것을 추천드려요!
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**어플실행 화면) 잘못된 방법의 대기화면 이미지 확인**</mark>
 
@@ -234,6 +234,5 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 가운데 정사각형 영역에만 이미지를 적용한다는 것!!(실제로 핸드폰에서 보여지는 이미지) 꼭 잊지 말아주세요
 {% endhint %}
 
-<mark style="color:red;">****</mark>
 
-****
+

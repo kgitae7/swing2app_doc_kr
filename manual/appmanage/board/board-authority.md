@@ -30,7 +30,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP**1. 게시판 권한 이용방법**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP**1. 게시판 권한 이용방법**
 
 <figure><img src="../../../.gitbook/assets/게시판권한1.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 **+기존에 만들어놓은 게시판을 수정할 경우 \[설정] 버튼을 선택해주세요.**
 
-****
+
 
 <mark style="color:red;">★ 권한 설정 전 기본설정- 서비스 용도 '사용자 정의' 선택</mark>
 
@@ -86,7 +86,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 \*2022년 11월 17일 이후 제작한 신규앱은 바로 이용 가능합니다.
 {% endhint %}
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -110,7 +110,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 게시판 기능 창-\[기본설정 메뉴]에서 제일 밑으로 내리면 게시판 권한을 설정할 수 있는 메뉴를 확인할 수 있어요.
 
-V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요. <mark style="color:red;"></mark>&#x20;
+V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요.&#x20;
 
 <mark style="color:red;">V3에서 제공되는 권한 지정 유형, 노출 메시지는 제공되지 않습니다.</mark>&#x20;
 
@@ -148,9 +148,9 @@ V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요. <mark
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 게시판 권한 설정 안내 및 주의사항**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 게시판 권한 설정 안내 및 주의사항**
 
-****
+
 
 <mark style="color:blue;">**1.권한 지정 유형별 옵션**</mark>
 
@@ -224,13 +224,13 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 그룹 운영 TIP**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 그룹 운영 TIP**
 
 **앱에서 기본 제공되는 그룹(관리자, 사용자, 손님)외에 운영자는 새로운 그룹을 만들어서 추가할 수 있습니다.**
 
 그룹을 만드는 방법과 게시판에 그룹을 적용하는 방법은 아래 링크로 확인해주시기 바랍니다.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**권한 그룹 설정(그룹만들고 분류하기) 바로가기**](../pushmember/member-group.md)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**권한 그룹 설정(그룹만들고 분류하기) 바로가기**](../pushmember/member-group.md)
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> 권한그룹을 만들고 게시판에 권한을 반영하는 방법을 확인해주세요!
 
@@ -238,7 +238,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 앱에 게시판 적용하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 앱에 게시판 적용하기
 
 위에서 제작한 게시판을 앱에 적용해야 앱에서 이용 가능하겠죠?
 
@@ -264,7 +264,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP5. 앱 실행화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 앱 실행화면
 
 <mark style="color:blue;">**1. 목록보기 : 사용자 권한 설정**</mark>
 

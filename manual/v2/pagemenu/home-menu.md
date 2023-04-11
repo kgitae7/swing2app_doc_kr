@@ -32,7 +32,7 @@
 >
 > <mark style="color:red;">**\*홈화면에 웹링크(웹사이트)는 적용하지 않도록 해주세요. 웹사이트를 연결하신다면 일반 프로토타입이 아닌 웹뷰, 푸시로 제작해주시기 바랍니다.**</mark>&#x20;
 
-<mark style="background-color:blue;">****</mark>
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:purple;">**홈화면 제작방법 영상으로 확인하기**</mark>
 
@@ -40,9 +40,9 @@
 
 **홈화면 제작은 스윙 앱제작 페이지 → 페이지 메뉴 →  메인&메뉴관리 →  홈화면에서 적용할 수 있습니다.**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**1.  이미지 적용**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1.  이미지 적용**</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면)이미지 적용된 홈화면**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면)이미지 적용된 홈화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%88%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80new2.png)
 
@@ -74,7 +74,7 @@
 
 ​
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>
+<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>
 
 **​**
 
@@ -130,7 +130,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_11\_26\_16\_43\_45\_953.gif)
 
@@ -174,7 +174,7 @@
 
 <mark style="color:red;">\*이미지페이지는 페이지 제작도구에서 입력한 ‘페이지 이름’이 홈화면 이름으로 적용됩니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:orange;">**★ 이미지 기반 페이지 제작방법은 아래 매뉴얼을 참고해주세요!**</mark>
 
@@ -182,7 +182,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>​
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>​
 
 **​**
 
@@ -192,7 +192,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4.  사용자 페이지 – 웹템플릿 페이지 적용**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4.  사용자 페이지 – 웹템플릿 페이지 적용**</mark>
 
 * **네번째 방법은 사용자페이지- 웹템플릿 페이지를 만들어서 적용하는 방법입니다.**
 
@@ -232,13 +232,13 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**홈화면에 웹템플릿페이지 적용하는 방법 움짤로 보기.gif**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**홈화면에 웹템플릿페이지 적용하는 방법 움짤로 보기.gif**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF.gif)
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5.  사용자 페이지 – HTML에디터 페이지 적용**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5.  사용자 페이지 – HTML에디터 페이지 적용**</mark>
 
 **다섯번째 방법은 사용자페이지- 에디터 페이지를 만들어서 적용하는 방법입니다.**
 
@@ -288,7 +288,7 @@
 
 .
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**6.  앱소개 페이지 적용**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**6.  앱소개 페이지 적용**</mark>
 
 <mark style="color:red;">앱 소개 페이지는 처음 스윙투앱에서 앱을 제작할 때 홈화면으로 기본 셋팅이 되는 홈화면이에요.</mark>
 
@@ -322,7 +322,7 @@
 
 7\)\[저장] 버튼을 누르면 완료!!
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**홈화면에 앱소개 페이지 적용하는 방법 움짤로 보기.gif**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**홈화면에 앱소개 페이지 적용하는 방법 움짤로 보기.gif**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_11\_26\_17\_33\_58\_450.gif)
 

@@ -4,7 +4,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 # 게시물 동영상 등록하기(영상 등록방법)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 – 게시물 동영상 등록하는 방법**
 
@@ -42,15 +42,15 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 게시판을 만드는 방법은 아래 매뉴얼을 참고해서 만들어주세요.&#x20;
 
-**☞** [**\[게시판 제작방법 보러가기\]**](https://documentation.swing2app.co.kr/manual/appmanage/board/boardeditor)****
+**☞** [**\[게시판 제작방법 보러가기\]**](https://documentation.swing2app.co.kr/manual/appmanage/board/boardeditor)
 
-<mark style="color:orange;">****</mark>
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**Case.1 동영상 파일로 등록하기**&#x20;
 
 **동영상 파일을 게시물에 첨부할 수 있습니다. 영상 파일을 첨부하는 방법은 2가지입니다.**
 
-****
+
 
 ### <mark style="color:blue;">**1. 동영상 파일 첨부하기**</mark>
 
@@ -64,7 +64,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_09\_24\_15\_11\_22\_588.gif)
 
@@ -78,7 +78,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 게시판을 만들 때 게시판 기능 창에서 하용범위를 설정할 수 있는데요.&#x20;
 
-게시판관리 -설정- 게시판 및 기능설정 창에서 ** **<mark style="color:purple;">**\[허용범위 설정 : 영상첨부]**</mark> 에 체크해주세요
+게시판관리 -설정- 게시판 및 기능설정 창에서 <mark style="color:purple;">**\[허용범위 설정 : 영상첨부]**</mark> 에 체크해주세요
 
 
 
@@ -102,7 +102,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">**모바일 앱 실행화면) 영상 파일 확인**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**모바일 앱 실행화면) 영상 파일 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_16\_03\_21.gif)
 
@@ -138,7 +138,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 **영상 링크로 등록하는 방법은 총3가지입니다.**
 
-****
+
 
 ### <mark style="color:blue;">**1.영상 링크(URL)로 등록하기**</mark>&#x20;
 
@@ -150,17 +150,17 @@ URL입력란에 유튜브 영상 링크(URL)을 입력한 뒤, 저장하기를 �
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_07\_01\_10\_23\_13\_511.gif)
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 영상 화면**</mark>&#x20;
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 영상 화면**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_07\_01\_10\_49\_20\_674.gif)
 
 링크로 영상URL을 넣으시면, 앱에서 화면에 맞게 영상 섬네일이 지정되며 재생이 가능합니다.
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**2. HTML에디터 동영상 삽입 버튼: 동영상 URL 입력**</mark>
 
@@ -200,7 +200,7 @@ URL을 복사한 뒤 위의 동영상 삽입에 붙여넣기 해주시면 됩니
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 동영상 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 동영상 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_14\_49\_272.gif)
 
@@ -254,7 +254,7 @@ PC 유튜브 사이트 접속 후 앱에 적용하고자 하는 동영상을 재
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 임베디드 링크로 연결한 영상 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 임베디드 링크로 연결한 영상 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_15\_13\_499.gif)
 
@@ -266,4 +266,3 @@ PC 유튜브 사이트 접속 후 앱에 적용하고자 하는 동영상을 재
 
 **( HTML에디터 글쓰기: 폰트 크기, 폰트체, 폰트 색상, 표, 웹링크, 사진, 동영상, 음악파일, 서식 등 이용 가능)**
 
-****

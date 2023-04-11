@@ -12,7 +12,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 사용자는 스윙샵 메뉴를 통해서 자유롭게 상점관리를 하실 수 있습니다.
 
-****
+
 
 **1. 앱운영 페이지 → 내메뉴 → 쇼핑몰(결제시스템)신청**
 
@@ -30,11 +30,11 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 **그리고 전자결제 서비스 페이앱에 판매점 가입을 진행해주시고 앱에 가입 아이디를 연동하면 실제 앱에서 결제가 가능해집니다.**
 
-****
+
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP.1 스윙샵 (스윙쇼핑몰) 신청하기**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.1 스윙샵 (스윙쇼핑몰) 신청하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B5%EC%8B%A0%EC%B2%AD2\_2020.02.png)
 
@@ -42,7 +42,7 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP.2  스윙샵 신청서 작성**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP.2  스윙샵 신청서 작성**
 
 해당 스윙샵 신청서에 순서대로 내용을 입력하고 신청해주시면 됩니다.
 
@@ -78,9 +78,9 @@ description: 스윙샵 신청 및 전자결제서비스-페이앱 가입방법
 
 스윙샵 상점관리 → 기본정보설정 페이지에서 수정 후 저장해주세요.
 
-****
 
-&#x20;** **<mark style="color:blue;">**스윙샵 메뉴 생성**</mark>
+
+&#x20;<mark style="color:blue;">**스윙샵 메뉴 생성**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B5%EC%8B%A0%EC%B2%AD4\_2020.02.png)
 

@@ -10,17 +10,17 @@ description: 스윙샵에서 제공하는 페이지 중 ‘마이페이지’를
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**마이페이지 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**마이페이지 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
 마이페이지 역시 스윙샵 기능 이용시 이용가능하오니, **스윙샵 서비스 신청 후 적용해주세요.**&#x20;
 
-☞ [**\[스윙샵 신청방법\]**](apply.md)****
+☞ [**\[스윙샵 신청방법\]**](apply.md)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 마이페이지 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱에 마이페이지 메뉴 적용하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
@@ -42,7 +42,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘마이페이지’를
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 마이페이지 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 마이페이지 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_26\_18\_24\_50\_988.gif)
 

@@ -56,7 +56,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면- 인터넷 주소 적용화면**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면- 인터넷 주소 적용화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew3.png)
 
@@ -94,7 +94,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면- 전화번호 적용화면**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면- 전화번호 적용화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew2.png)
 
@@ -132,7 +132,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면- 문자메시지 번호 적용화면**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면- 문자메시지 번호 적용화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew4.png)
 

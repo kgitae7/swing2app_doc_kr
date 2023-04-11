@@ -34,7 +34,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 해시태그 검색 기능
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 해시태그 검색 기능
 
 **첫번째 방법은 게시물 입력시 해시태그 ‘ # ‘ 을  입력해서 태그로 값을 보여주는 방법이에요.**
 
@@ -52,7 +52,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <mark style="color:red;">**#스윙 들어간 게시물 목록들이 모두 검색됩니다.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ### <mark style="color:blue;">**1) 앱에서 해시태그 작성하기**</mark>
 
@@ -66,7 +66,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 특정 해시태그를 선택하면, 태그가 들어간 게시물을 모두 검색해서 보여줍니다.
 
-<mark style="color:orange;"></mark>
+
 
 ### <mark style="color:blue;">**2) 웹에서 해시태그 작성하기**</mark>
 
@@ -82,7 +82,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 **웹에서는 해시태그 입력란에 태그 입력 후 엔터를 치면, 해시태그가 생성됩니다.**
 
-****
+
 
 <mark style="color:red;">**\* 해시태그 안내**</mark>
 
@@ -98,7 +98,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 고급 설정) 해시태그 연산자검색 옵션
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  2. 고급 설정) 해시태그 연산자검색 옵션
 
 **해시태그 두 번째 이용방법은 검색옵션으로 이용할 수 있어요.**
 
@@ -106,7 +106,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 따라서 <mark style="color:red;">앱에서 사용자가 입력하는 용도 X → 관리자가 웹에서 지정해놓은 값으로 앱에서 검색을 할 때 사용할 수 있습니다.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:orange;">**\*앱 실행화면 – 해시태그 검색옵션 예시**</mark>
 
@@ -116,7 +116,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 업직종 검색에서  원하는 직종을 선택 + 지역 검색에서 원하는 지역을 선택시 해당 조건에 맞는 게시물을 보여주는 기능이에요.
 
-<mark style="color:orange;"></mark>
+
 
 ### <mark style="color:blue;">**1) 해시태그 검색 옵션 만들기**</mark>
 
@@ -142,7 +142,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 **\*옵션값을 입력할 때는 검색어 입력 후 엔터를 치면 해시태그 영역이 지정됩니다.**
 
-****
+
 
 ### <mark style="color:blue;">**2) 게시물 태그 입력**</mark>
 
@@ -162,7 +162,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <mark style="color:orange;">앞서 해시태그 옵션값을 입력한 것처럼, 동일하게 검색어 입력 후 엔터를 치면, 해시태그가 적용이 됩니다.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 ### <mark style="color:blue;">**3) 앱 적용하기**</mark>
 
@@ -188,7 +188,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**(2)앱제작 V2버전 이용시**</mark>
 

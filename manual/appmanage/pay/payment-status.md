@@ -3,7 +3,7 @@
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A9-%EC%A0%9C%EB%AA%A9.png)
 
 \[내 결제 현황] 메뉴를 이용하는 방법\
-&#x20;**** \
+&#x20;\
 내 결제 현황은 스윙 앱운영페이지의 \[결제] 메뉴에서 이용할 수 있구요.
 
 내 결제 현황은 **스윙 유료상품을 결제한 내역, 쿠폰을 사용한 내역 등 모든 결제현황을 확인할 수 있습니다.**\
@@ -22,7 +22,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 내 결제 현황 메뉴**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 내 결제 현황 메뉴**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A9.png)
 
@@ -30,7 +30,7 @@
 
 내 결제 현황 페이지로 이동하면 결제 내역 리스트를 확인할 수 있어요.
 
-결제완료된 상품부터, 환불처리된 상품, 쿠폰으로 받은 상품 등 모든 정보를 확인할 수 있습니다. ****&#x20;
+결제완료된 상품부터, 환불처리된 상품, 쿠폰으로 받은 상품 등 모든 정보를 확인할 수 있습니다.&#x20;
 
 ***
 
@@ -46,7 +46,7 @@
 
 뿐만 아니라 **저장** **용량추가 상품도 이용기간이 정해져 있기 때문에 해당 상품도 기간을 확인할 수 있습니다.**
 
-&#x20;****&#x20;
+&#x20;
 
 <mark style="color:red;">**★운영 TIP.**</mark>
 
@@ -60,7 +60,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 환불신청**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 환불신청**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A94.png)
 
@@ -82,13 +82,13 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**4. 영수증 보기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**4. 영수증 보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A95.png)
 
 **결제현황에서 \[영수증보기] 를 선택하면 결제한 상품의 영수증을 확인하거나 이메일로 전송, 인쇄 할 수 있어요.**
 
-1\) **** 영수증은 결제 내역외에도, 환불건에 대해서도 확인이 가능합니다.
+1\) 영수증은 결제 내역외에도, 환불건에 대해서도 확인이 가능합니다.
 
 2\) 해당 기능은 2017년 11월 4주차에 적용된 기능에요. 따라서 2017년 12월 이전에 결제한 내역은 영수증 보기가 제공되지 않습니다.&#x20;
 

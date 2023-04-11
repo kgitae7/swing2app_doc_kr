@@ -12,7 +12,7 @@
 
 페이지메뉴 단계에서 **앱을 구성하는 메인 홈화면과 카테고리, 메뉴들을 제작합니다.**&#x20;
 
-****
+
 
 페이지 메뉴는 앱 제작에서 가장 중요한 단계이자 앱을 구성하는 메인 홈화면과 메뉴들을 적용할 수 있습니다.
 
@@ -20,7 +20,7 @@
 
 **\*1,2단계 앱제작 방법 매뉴얼은 스윙투앱 앱제작 단계별 매뉴얼을 확인해주세요\~!**
 
-<mark style="background-color:blue;">**▶**</mark>** ** [**스윙투앱 앱제작 매뉴얼 확인하기**](https://blog.naver.com/swing2app/221192509056)
+<mark style="background-color:blue;">**▶**</mark> [**스윙투앱 앱제작 매뉴얼 확인하기**](https://blog.naver.com/swing2app/221192509056)
 
 
 
@@ -95,7 +95,7 @@
 
 **홈화면을 적용해보았다면 이어서 메뉴를 적용해보겠습니다.**
 
-****
+
 
 ### <mark style="color:blue;">**STEP.2 메뉴 관리**</mark>
 
@@ -109,7 +109,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_21.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**기본 셋팅된 메뉴들을 삭제하는 방법**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**기본 셋팅된 메뉴들을 삭제하는 방법**</mark>
 
 **\*필요 없는 메뉴는 삭제해서 메뉴를 정리할 수 있습니다.**
 
@@ -119,7 +119,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 메뉴 삭제방법 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 메뉴 삭제방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%A9%94%EB%89%B4%EC%82%AD%EC%A0%9C.gif)
 
@@ -143,9 +143,9 @@
 
 <mark style="color:orange;">**=가상머신을 통해서 새 메뉴가 생성된 것을 확인할 수 있습니다.**</mark>
 
-<mark style="color:orange;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 카테고리 추가방법 확인하기**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 카테고리 추가방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_12\_15\_15\_13\_12\_966.gif)
 
@@ -167,7 +167,7 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 메뉴 이동방법 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 메뉴 이동방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_12\_15\_15\_14\_19\_953.gif)
 

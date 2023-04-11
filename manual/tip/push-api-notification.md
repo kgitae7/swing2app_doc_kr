@@ -194,7 +194,7 @@ echo $response;
 {% endtab %}
 {% endtabs %}
 
-****
+
 
 <mark style="color:blue;">\[javascript 구현 예시 – 전체발송]</mark>
 

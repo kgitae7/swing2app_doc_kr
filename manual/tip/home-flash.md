@@ -22,7 +22,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**스윙투앱으로 제작한 앱: 올댓모델 앱**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**스윙투앱으로 제작한 앱: 올댓모델 앱**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_15\_17\_04\_54\_162.gif)
 
@@ -74,7 +74,7 @@
 >
 > 템플릿 페이지는 스윙투앱에서 제공하는 다양한 업종의 페이지 툴 종류를 확인할 수 있어요.
 
-****
+
 
 <mark style="color:orange;">**2.템플릿 페이지: 헤더 이미지 수정**</mark>
 
@@ -112,7 +112,7 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 <mark style="color:purple;">미리 꼭 사이즈에 맞게 작업해주세요\~!</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:orange;">**3.템플릿 페이지 그 외 메뉴 수정**</mark>
 
@@ -134,7 +134,7 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 <mark style="color:red;">**★페이지명도 수정해주셔야 하는 것!! 잊지마세요. 페이지명으로 앱에 표시됩니다.**</mark>&#x20;
 
-<mark style="color:red;">****</mark>
+
 
 **\*템플릿 페이지 제작방법 상세 방법은 아래 매뉴얼을 확인해주시기 바랍니다.**
 

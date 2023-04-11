@@ -4,7 +4,7 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 # 구글 개발자-비즈니스 계정 만들기
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 구글 개발자 비즈니스 계정은 조직(회사)에서 만들 수 있는 계정이구요.
 
@@ -29,7 +29,7 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 {% hint style="warning" %}
 <mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 1. Google Play 개발자 계정을 만들려면 만 18세 이상이어야 합니다.&#x20;
 2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다.                                                                              이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
@@ -55,7 +55,7 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 구글 로그인 이동
 
@@ -139,7 +139,7 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 \[계정 만들기] 선택해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. Play Console 개발자 계정 만들기
 
@@ -255,7 +255,7 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3.결제하기(계정 등록비 결제)
 
@@ -317,7 +317,7 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 **\[Play Console로 이동]** 선택해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.본인 인증
 
@@ -425,6 +425,6 @@ OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니
 단, 정책 위반시 앱 삭제 및 개발자 계정이 삭제될 수 있으므로 구글 플레이 정책 내용은 반드시 확인해주시기 바랍니다.&#x20;
 {% endhint %}
 
-<mark style="color:red;">****</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>

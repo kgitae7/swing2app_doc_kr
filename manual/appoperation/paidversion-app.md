@@ -34,11 +34,11 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1**. <mark style="color:blue;">****</mark>** 이용권 및 업로드 티켓 구매**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1**. **이용권 및 업로드 티켓 구매**
 
-****
 
-&#x20; <mark style="color:blue;">****</mark>  <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**기본형 이용권(월 납부 이용권)**</mark>
+
+&#x20; <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**기본형 이용권(월 납부 이용권)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png)
 
@@ -110,11 +110,11 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 &#x20;\*웹뷰, 푸시로 제작한 앱은 구매 할 수 없습니다.&#x20;
 
-****[**패키지 상품 구매 페이지**](http://www.swing2app.co.kr/view/new\_product\_list\_by\_package)****
+[**패키지 상품 구매 페이지**](http://www.swing2app.co.kr/view/new\_product\_list\_by\_package)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### &#x20;<mark style="color:blue;">****</mark> ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. **<mark style="color:blue;">****</mark>** 스토어 업로드 신청**
+### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.** **스토어 업로드 신청**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
 
@@ -128,7 +128,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**&#x20;
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**&#x20;
 
 플레이스토어 업로드 대행을 하지 않고, 직접 등록을 한다면 플레이스토어 업로드 티켓 구매를 하지 않아도 됩니다.
 
@@ -170,7 +170,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 업로드 신청완료, 담당자 업로드 진행**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 업로드 신청완료, 담당자 업로드 진행**
 
 <figure><img src="../../.gitbook/assets/심사시간.png" alt=""><figcaption></figcaption></figure>
 
@@ -192,7 +192,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 스토어 출시 완료 (심사 후 출시)**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 스토어 출시 완료 (심사 후 출시)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%844.png)
 
@@ -214,7 +214,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP5.** 유료앱 이용에서 자주 묻는 질문 Q\&A
 
-****
+
 
 **Q. 유료앱 이용시 앱 관리 및 운영은 어떻게 하면 되나요?(무료버전과 다른게 있나요?)**
 

@@ -146,7 +146,7 @@ API키 발급이 완료되면, 무료평가판 신청 안내 팝업창이 뜹니
 
 구글맵 가격정책에 대한 상세 내용은 플랫폼에서 제공하는 내용을 확인해주세요.
 
-**☞**[ **** ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[구글맵 가격책정 보러가기\]**](https://cloud.google.com/maps-platform/pricing/?hl=ko)
+**☞**[ ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[구글맵 가격책정 보러가기\]**](https://cloud.google.com/maps-platform/pricing/?hl=ko)
 
 
 
@@ -210,4 +210,3 @@ API키를 발급 받은 뒤, 스윙 [앱운영 → 서비스관리 → 게시판
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/google-map" %}
 
-****

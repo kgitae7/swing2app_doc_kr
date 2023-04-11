@@ -24,9 +24,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C2\_new.png)
 
-왼쪽 메뉴에서 ** **<mark style="color:blue;">**1)설정 > 고급 설정**</mark>을 선택합니다.
+왼쪽 메뉴에서 <mark style="color:blue;">**1)설정 > 고급 설정**</mark>을 선택합니다.
 
-<mark style="color:blue;">**2)앱 이용 가능 여부**</mark> 탭에서 ** **<mark style="color:blue;">**3)출시안됨**</mark>에 체크해주세요.
+<mark style="color:blue;">**2)앱 이용 가능 여부**</mark> 탭에서 <mark style="color:blue;">**3)출시안됨**</mark>에 체크해주세요.
 
 <mark style="color:blue;">**4)변경사항 저장**</mark>버튼을 누르면 완료됩니다.&#x20;
 

@@ -26,7 +26,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 **\[앱스토어 업로드 신청]을 해주셔야만 담당자가 확인 후 해당 앱을 마켓에 등록해드릴 수 있습니다.**
 
-****
+
 
 <mark style="color:purple;">**Q. 업로드 신청은 어디서 어떻게 하는건가요?**</mark>
 
@@ -38,7 +38,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 **양식에 기재된 항목들을 입력 한 뒤 ‘신청’ 해주시면 해당 양식으로 담당자가 앱을 앱스토어에 올려드릴 수 있어요!**
 
-****
+
 
 <mark style="color:purple;">**Q. 업로드 신청하면, 앱이 바로 앱스토어 출시되나요?**</mark>
 
@@ -94,7 +94,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱스토어 업로드 신청
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱스토어 업로드 신청
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%952.png)
 
@@ -106,11 +106,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱스토어 업로드 신청서 가이드
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱스토어 업로드 신청서 가이드
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4new1.png)
 
-업로드 신청 버튼은 누르면, 업로드 신청서 팝업창이  뜹니다.  **** &#x20;
+업로드 신청 버튼은 누르면, 업로드 신청서 팝업창이  뜹니다. &#x20;
 
 각 항목별로 내용을 입력해주시면 됩니다.&#x20;
 
@@ -124,7 +124,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 앱스토어  업로드 신청서 작성방법
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱스토어  업로드 신청서 작성방법
 
 **업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.**
 
@@ -174,11 +174,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 <mark style="color:blue;">또한 앱과 관련없는 이미지를 넣을 수 없으며, 앱 실행화면을 캡쳐해야 합니다.</mark>
 
 * 일반 프로토타입으로 앱을 제작한 분은 ‘아이폰 앱미리보기’에서 앱화면을 캡쳐해주세요.
-* 웹뷰 or 푸시앱으로 제작한 분은 아이폰에서 앱 미리보기 지원이 안되요 <mark style="color:red;"></mark>&#x20;
+* 웹뷰 or 푸시앱으로 제작한 분은 아이폰에서 앱 미리보기 지원이 안되요&#x20;
 * 아이폰에서 웹을 실행해서 캡쳐를 하거나 or 안드로이드폰으로 캡쳐한 뒤 포토샵 등을 이용하여 안드로이드 표시항목 제거 한 뒤 사이즈를 수정해주셔야 합니다.&#x20;
 {% endhint %}
 
-<mark style="color:red;"></mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B85-1-e1618375867185.png)
 
@@ -228,7 +228,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <mark style="color:red;">→ 2가지 방법 중에서 한 가지를 선택해주세요.</mark>
 
-<mark style="color:red;"></mark>
+
 
 **(1)스윙 애플 앱스토어 개발자 계정 사용 -스윙투앱 계정으로 대리등록**
 
@@ -260,7 +260,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 해당 버튼을 눌러서 앱스토어 이용정책을 반드시 숙지한 뒤 **‘동의함’**에 체크해주세요.
 
-16\) ** **<mark style="color:blue;">**\[신청하기]**</mark> 버튼을 누르면 앱스토어 업로드 신청이 완료됩니다.
+16\) <mark style="color:blue;">**\[신청하기]**</mark> 버튼을 누르면 앱스토어 업로드 신청이 완료됩니다.
 
 반드시 업로드 이용정책을 확인해주세요!
 
@@ -268,7 +268,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 앱스토어 업로드 신청완료
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱스토어 업로드 신청완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png)
 
@@ -322,7 +322,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 1년마다 갱신이 안될 경우 출시된 앱이 내려가거나, 계정이 삭제될 수 있습니다.
 {% endhint %}
 
-<mark style="color:red;">****</mark>
+
 
 ★앱스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 

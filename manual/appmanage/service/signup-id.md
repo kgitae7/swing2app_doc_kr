@@ -40,9 +40,9 @@
 
 **\*아이디 설정 후 화면 아래에 \[정책 설정하기] 버튼을 누르면 앱에 반영됩니다.**
 
-****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면) 회원가입, 로그인**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면) 회원가입, 로그인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C3.png)
 
@@ -70,15 +70,15 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D6.png)
 
-****[ **\[SMS 발송 티켓 구매하러 가기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)****
+[ **\[SMS 발송 티켓 구매하러 가기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)
 
-****
+
 
 <mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**전화번호 아이디 – 회원가입, 로그인 미리보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94\_2020\_04\_09\_14\_07\_40\_398.gif)
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:orange;">**앱 실행화면) 회원가입**</mark>
+<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**앱 실행화면) 회원가입**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C7.png)
 
@@ -94,7 +94,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면)로그인**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면)로그인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C11.png)
 
@@ -126,7 +126,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**이메일 아이디 – 회원가입, 로그인 미리보기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**이메일 아이디 – 회원가입, 로그인 미리보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94\_2020\_04\_09\_13\_45\_37\_401.gif)
 
@@ -150,7 +150,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면) 로그인**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면) 로그인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C6.png)
 

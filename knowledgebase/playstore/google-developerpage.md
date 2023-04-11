@@ -4,7 +4,7 @@ description: 구글 개발자 페이지 등록 및 이용방법
 
 # 플레이스토어 개발자 페이지
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**개발자 페이지란?**
 
@@ -28,7 +28,7 @@ description: 구글 개발자 페이지 등록 및 이용방법
 ​개발자 페이지 등록이 필요한 분들은 아래 내용을 통해 이용방법 확인해주시기 바랍니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1. 개발자 페이지 접속
 
@@ -90,7 +90,7 @@ description: 구글 개발자 페이지 등록 및 이용방법
 
 pc 인터넷이나 모바일 웹에 붙여넣기 하면 개발자 페이지를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 2. 등록완료. 개발자 페이지 확인
 

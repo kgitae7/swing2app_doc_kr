@@ -126,4 +126,4 @@ APK파일은 스윙투앱 홈페이지 → 앱운영 페이지 →버전관리 �
 
 **원스토어 초기 앱 등록 방법은 해당 매뉴얼을 참고해주세요\~!**
 
-<mark style="background-color:blue;">**▶**</mark>** ** [**원스토어 앱 등록(출시) 하는 방법 보러가기**](onestore.md)
+<mark style="background-color:blue;">**▶**</mark> [**원스토어 앱 등록(출시) 하는 방법 보러가기**](onestore.md)

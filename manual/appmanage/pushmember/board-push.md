@@ -10,7 +10,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 **푸시 발송에 대한 상세 내용은 아래 가이드를 참고해주세요.**&#x20;
 
-****[ **푸시 발송 보내기 가이드**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/push)****
+[ **푸시 발송 보내기 가이드**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/push)
 
 기본 메뉴에서 푸시 발송을 하는 것 외에 게시물에서도 푸시를 발송할 수 있어요.
 
@@ -18,7 +18,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 게시물 관리 이동(만들어놓은 게시판으로 이동)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 게시물 관리 이동(만들어놓은 게시판으로 이동)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A14.png)
 
@@ -26,7 +26,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 게시물에서 푸시 발송하기 <mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 게시물에서 푸시 발송하기&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
@@ -74,7 +74,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 <mark style="color:red;">해당 내용 그대로 보내셔도 되구요. 수정할 경우 해당 내용을 지우고 입력해주세요.</mark>&#x20;
 
-<mark style="color:purple;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%B4%EB%AF%B8%EC%A7%80-5.png)
 
@@ -90,7 +90,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면) 게시물 푸시 발송 화면
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면) 게시물 푸시 발송 화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94\_2019\_11\_20\_10\_30\_45\_555.gif)
 
@@ -98,7 +98,7 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 해당 푸시를 터치하면 해당 게시물로 페이지가 이동합니다.
 
-<mark style="color:orange;">****</mark>
+
 
 {% hint style="success" %}
 <mark style="color:green;">**작성해놓은 게시물이 아니더라도 게시물을 작성하는 중에도 푸시설정을 할 수 있어요\~!**</mark>

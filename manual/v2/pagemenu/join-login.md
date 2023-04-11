@@ -14,7 +14,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 스윙 페이지: 회원가입**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 스윙 페이지: 회원가입**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%852-1.png)
 
@@ -56,7 +56,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**2. 스윙 페이지: 로그인**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**2. 스윙 페이지: 로그인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EB%A1%9C%EA%B7%B8%EC%9D%B82-1.png)
 
@@ -80,7 +80,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**앱 실행화면) 로그인**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 실행화면) 로그인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
 
@@ -94,7 +94,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**로그인이 완료되면 로그인 메뉴는 ‘로그아웃’으로 변경됩니다.**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**로그인이 완료되면 로그인 메뉴는 ‘로그아웃’으로 변경됩니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
 
@@ -102,7 +102,7 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**3. 스윙 페이지: 설정**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**3. 스윙 페이지: 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EB%A1%9C%EA%B7%B8%EC%9D%B83-1.png)
 
@@ -126,7 +126,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면) 설정**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면) 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
 

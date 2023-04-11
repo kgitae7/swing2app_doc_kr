@@ -4,7 +4,7 @@
 
 **푸시전용앱에서 푸시 툴바를 제거하는 방법**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**푸시 툴바란?**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**푸시 툴바란?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%ED%91%B8%EC%8B%9C%EC%95%B11.png)
 
@@ -130,7 +130,7 @@
 
 > #### <mark style="color:blue;">**그 외 푸시앱 관련 이용방법**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**1) 푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**</mark>
 

@@ -8,11 +8,11 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**앱 실행화면 : 업데이트 유형**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 실행화면 : 업데이트 유형**</mark>
 
 **업데이트 방법과 중요 내용을 확인했다면! 업데이트 유형에 따라서 실제 앱에서 어떻게 업데이트가 진행되는지 확인해볼게요**
 
-****
+
 
 <mark style="color:green;">**1. 소프트 업데이트 & 권장**</mark>
 
@@ -36,7 +36,7 @@
 
 **소프트 업데이트, 필수로 선택해서 앱을 업데이트 하면 → 사용자에게 물어보지 않고, 바로 앱 내 업데이트가 진행되요.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9C%A0%ED%98%956-1.png)
 

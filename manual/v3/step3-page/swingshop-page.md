@@ -46,7 +46,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 **-상품 검색**
 
-****
+
 
 따라서 스윙샵을 이용하시는 분들은 앱제작에서 **페이지디자인 – 쇼핑몰 기능 – 페이지**를 선택하면 스윙샵에 관련된 메뉴들을 모두 확인할 수 있구요.
 
@@ -76,7 +76,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%94%EC%82%B4%ED%91%9C.png)
 
-#### ****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **적용방법**&#x20;
+#### <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **적용방법**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%87%BC%ED%95%91%EB%AA%B0-%EB%A9%94%EC%9D%B8.png)
 
@@ -223,7 +223,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 {% hint style="warning" %}
 **스윙샵 (쇼핑몰) 기본 페이지 안내사항**
 
-****
+
 
 1\)스윙샵에서 제공되는 스윙 페이지는 디자인 및 별도 수정이 불가합니다.
 
@@ -248,5 +248,5 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 3\) 가상머신으로 적용된 화면을 확인할 수 있으니, 제작시 가상머신을 100% 활용해주세요 ^^
 {% endhint %}
 
-****
+
 

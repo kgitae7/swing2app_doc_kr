@@ -36,13 +36,13 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 **1)캘린더 만들기**&#x20;
 
-앱운영페이지 → 서비스관리 → 게시판 관리 → 게시판 생성 버튼 선택 → 새롭게 추가된 \[캘린더]를 확인할 수 있어요! ****&#x20;
+앱운영페이지 → 서비스관리 → 게시판 관리 → 게시판 생성 버튼 선택 → 새롭게 추가된 \[캘린더]를 확인할 수 있어요!&#x20;
 
 **2) 캘린더에 일정 작성하기**&#x20;
 
 캘린더는 게시판 기능이기 때문에, 게시물 입력과 동일하게 이용해주시면 됩니다.&#x20;
 
-위에서 캘린더 게시판 저장 후 \*앱운영페이지 → 게시물관리 → 캘린더 게시물로 이동하여 입력해주시면 됩니다. ****&#x20;
+위에서 캘린더 게시판 저장 후 \*앱운영페이지 → 게시물관리 → 캘린더 게시물로 이동하여 입력해주시면 됩니다.&#x20;
 
 **3) 캘린더 앱 적용 방법**&#x20;
 
@@ -52,11 +52,11 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> 1. 캘린더 만들기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) 1. 캘린더 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%98%EB%A6%B0%EB%8D%94\_20.06.png)
 
-****[**앱운영 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) **페이지**로 이동합니다.&#x20;
+[**앱운영 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) **페이지**로 이동합니다.&#x20;
 
 
 
@@ -90,7 +90,7 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 **9)저장 버튼을 누르면 완료!**
 
-&#x20;**** V3버전 이용시 위의 가이드대로 진행해주세요.&#x20;
+&#x20;V3버전 이용시 위의 가이드대로 진행해주세요.&#x20;
 
 V3 이용중임에도 위의 메뉴처럼 뜨지 않는다면, 앱제작으로 이동하여  \[앱 업데이트]를 해주세요.&#x20;
 
@@ -122,7 +122,7 @@ V3 이용중임에도 위의 메뉴처럼 뜨지 않는다면, 앱제작으로 �
 
 **6)저장 버튼을 누르면 완료! 캘린더 제작이 완료됩니다.**&#x20;
 
-****
+
 
 **캘린더는 게시판 기능이기 때문에 상세설정을 수정하여 사용할 수 있어요**.
 
@@ -160,7 +160,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 캘린더 일정 입력하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 캘린더 일정 입력하기
 
 **캘린더를 만들었으면 일정을 등록해야겠죠? 캘린더 입력은 웹에서만 가능합니다!!**
 
@@ -204,7 +204,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 \
 \
-<mark style="color:orange;"></mark><mark style="color:blue;">2</mark><mark style="color:blue;">**) 일정 수정, 삭제**</mark>
+<mark style="color:blue;">2</mark><mark style="color:blue;">**) 일정 수정, 삭제**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/60059ccf57be31d89549858ae48c5e6f.png)
 
@@ -213,7 +213,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 일정은 다시 수정할 수 있고, 필요 없는 일정은 삭제하는 등 간편한 일정관리가 가능해요!\
 \
 \
-<mark style="color:orange;"></mark><mark style="color:blue;">**3) 일정 추가하기**</mark>
+<mark style="color:blue;">**3) 일정 추가하기**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c5a4d8d42c33aa9b320643a2addb76bf.png)
 
@@ -237,7 +237,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 앱에 캘린더 적용하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱에 캘린더 적용하기
 
 앱에 캘린더를 적용해주세요.&#x20;
 
@@ -267,7 +267,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 앱 실행화면
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱 실행화면
 
 <figure><img src="../../../.gitbook/assets/캘린더2-5420.png" alt=""><figcaption></figcaption></figure>
 
@@ -283,7 +283,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱에서 캘린더 일정 작성하는 방법
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 앱에서 캘린더 일정 작성하는 방법
 
 <mark style="color:orange;">**캘린더 일정은 앱에서도 작성이 가능해요!**</mark>
 
@@ -303,25 +303,25 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 >
 > **☞ 글쓰기 권한: 관리자 선택, 글상세보기 권한, 목록보기 권한: 사용자 선택**
 >
-> ****
+>
 >
 > 2\)커뮤니티 용도로, 앱을 사용하는 모든 사용자가 일정을 작성할 수 있고 모든 사용자가 일정을 공유하도록 할 경우
 >
 > **☞ 글쓰기 권한, 글상세보기 권한, 목록보기 권한: 모두 ‘사용자’ 선택**
 >
-> ****
+>
 >
 > 3\)내가 작성한 일정은 다른 사람은 못보고 나만 보게 할경우 (캘린더를 개인사용으로 이용할 경우)
 >
 > **☞ 글쓰기 권한: 사용자 선택, 글상세보기 권한: 사용자 선택, 목록보기 권한: 관리자 선택**
 >
-> ****
+>
 >
 > \*비밀게시판(1:1 고객센터)처럼 권한을 설정하면 글을 쓴 사용자는 자신이 쓴 글만 확인이 가능하며, 다른 사용자들은 자신이 쓴 글 외에 다른 사람의 글을 확인할 수 없습니다.
 >
 > 단, 관리자는 모든 사용자의 글을 확인할 수 있습니다.
 
-<mark style="background-color:blue;">****</mark>
+
 
 <mark style="color:blue;">**앱에서 캘린더 일정을 작성하는 방법**</mark>
 
@@ -341,7 +341,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 **5)오른쪽 상단의 \[작성 완료] 아이콘 버튼을 눌러주시면 저장됩니다.**
 
-****
+
 
 <mark style="color:blue;">**1. 날짜 설정 방법**</mark>
 

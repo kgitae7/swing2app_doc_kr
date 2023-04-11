@@ -52,7 +52,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **START. 앱제작 마법사 시작하기**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **START. 앱제작 마법사 시작하기**
 
 **​**
 
@@ -138,7 +138,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
 
 ![](../../../.gitbook/assets/웹뷰1.png)
 
@@ -166,9 +166,9 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 **아이콘과 대기화면은 먼저 제작 가이드라인 매뉴얼을 보시고 만들어주시기 바랍니다!**
 
-**​**[**아이콘 이미지 제작 가이드 보러가기**](../../v2/appbasic/appicon.md)****
+**​**[**아이콘 이미지 제작 가이드 보러가기**](../../v2/appbasic/appicon.md)
 
-****[**대기화면 이미지 제작 가이드 보러가기**](../../v2/appbasic/apploading.md)****
+[**대기화면 이미지 제작 가이드 보러가기**](../../v2/appbasic/apploading.md)
 
 
 
@@ -188,7 +188,7 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) STEP2 디자인&#x20;
+## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP2 디자인&#x20;
 
 ![](../../../.gitbook/assets/웹뷰2.png)
 
@@ -240,7 +240,7 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## <mark style="color:red;">****</mark>![](<../../../.gitbook/assets/image (2) (1).png>) <mark style="color:red;">****</mark> STEP3 페이지
+## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP3 페이지
 
 ![](../../../.gitbook/assets/웹뷰3.png)
 
@@ -266,7 +266,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
 
 ![](../../../.gitbook/assets/웹뷰4.png)
 
@@ -290,7 +290,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B05.png)
 
-웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 **** 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
+웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
 
 **연결한 웹사이트 내에서 외부 연결을 막아놓는 즉, 외부공유 및 퍼가기 금지 보안이 설정되어 있을 경우 해당 메시지가 보여집니다.**
 
@@ -350,7 +350,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 **\*웹뷰앱은 안드로이드폰에서만 이용 가능해요. (아이폰은 이용불가)**
 
-****
+
 
 <mark style="color:green;">**▶ 앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
@@ -374,7 +374,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP6 이용권 및 티켓 구매**
 
-****
+
 
 웹뷰앱을 플레이스토어 or 앱스토어에 출시한다면 스윙투앱 유료앱 이용권 및 업로드티켓을 구매해주셔야 합니다.(무료앱은 스토어 출시 불가)
 
@@ -446,7 +446,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 **플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
 
@@ -498,7 +498,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 </details>
 
-****
+
 
 **3)업로드 티켓 이슈 및 상품 상세 설명을 확인해주세요.**
 
@@ -562,7 +562,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 웹뷰앱 제작 후, 커스텀 패키지 추천 페이지로 이동하셔서\[구매하기] 버튼 눌러서 상세 내용 확인 가능합니다.&#x20;
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -592,13 +592,13 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 {% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP8 스토어 출시 완료 (심사 후 출시)**
 
-****
+
 
 신청이 완료되면, 스윙투앱의 플레이스토어 업로드 담당자 / 앱스토어 업로드 담당자가 사용자분의 앱을 스토어에 올려드리는 업로드 진행을 시작합니다.
 

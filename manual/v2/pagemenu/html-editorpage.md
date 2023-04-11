@@ -30,7 +30,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 HTML 에디터 페이지 만들기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 HTML 에디터 페이지 만들기**</mark>
 
 <mark style="color:orange;">**1.  \[에디터 페이지] 새로 만들기**</mark>
 
@@ -41,7 +41,7 @@
 
 HTML에디터 페이지 만들기는 앱제작 화면 상단에 \[사용자페이지 설정] 버튼을 선택하여 이용 가능합니다.
 
-\[사용자페이지 설정] 버튼을 탭하고, <mark style="color:blue;">**HTML에디터 페이지**</mark>** ** 메뉴 선택해주세요.&#x20;
+\[사용자페이지 설정] 버튼을 탭하고, <mark style="color:blue;">**HTML에디터 페이지**</mark> 메뉴 선택해주세요.&#x20;
 
 <mark style="color:blue;">\[+새로만들기]</mark>를 클릭하면 페이지 제작도구 화면이 열립니다.
 
@@ -235,7 +235,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STET.2 HTML에디터 페이지 앱에 적용하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STET.2 HTML에디터 페이지 앱에 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8012\_20.07-1.png)
 
@@ -263,7 +263,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**HTML에디터 페이지 제작 TIP**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**HTML에디터 페이지 제작 TIP**</mark>
 
 **제작에 필요한 몇가지 기능들을 더 소개해드리면요!**
 

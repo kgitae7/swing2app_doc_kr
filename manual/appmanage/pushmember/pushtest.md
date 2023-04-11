@@ -6,7 +6,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 푸시 장치 관리 기능이란?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 푸시 장치 관리 기능이란?
 
 
 
@@ -33,7 +33,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP1. 푸시 장치 관리 이동
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 푸시 장치 관리 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98%EA%B4%80%EB%A6%AC2.png)
 
@@ -73,7 +73,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**\[움짤 이미지로 확인하기]**</mark>
 
@@ -105,7 +105,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** STEP2. 테스트 푸시 발송하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 테스트 푸시 발송하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98%EA%B4%80%EB%A6%AC4.png)
 
@@ -129,6 +129,5 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 **푸시장치 관리는 안드로드이폰에서만 푸시 테스트가 가능합니다. (아이폰 이용 불가)**
 
-****
 
-****
+

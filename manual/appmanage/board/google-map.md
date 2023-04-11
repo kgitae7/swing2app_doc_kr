@@ -40,7 +40,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90NEW3.png)
 
-****[**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) 메뉴로 이동합니다.
+[**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) 메뉴로 이동합니다.
 
 
 
@@ -70,7 +70,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 >
 > **+기존의 한국 지도 게시판을 쓰고 싶다면, \[위치등록]을 선택해주시면 됩니다. (카카오 지도)**&#x20;
 
-<mark style="color:orange;">****</mark>
+
 
 ### <mark style="color:blue;">**2. 구글맵정보**</mark>
 
@@ -100,7 +100,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 **위치 등록은상단의 검색 툴바를 이용해서 주소를 입력하거나 상호명(키워드)로 검색해주세요.** \
 \
-<mark style="color:orange;"></mark>
+
 
 ### <mark style="color:blue;">**1. 위치등록**</mark>
 
@@ -110,7 +110,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 2\) 주소에서 위치가 생성이 되면 \[추가] 버튼을 선택해서 위치에 대한 정보 및 상세정보 등을 입력해주세요.\
 **\*저는 홍콩에 있는 호텔들을 구글맵으로 보여줄 수 있도록, 홍콩 호텔들을 검색하여 위치에 추가해볼게요!**
 
-### <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:blue;">**2. 위치등록 – 상세 정보 입력**</mark>
+### &#x20;<mark style="color:blue;">**2. 위치등록 – 상세 정보 입력**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4e14559916f7948acc9333f8485ba1f4.png)
 
@@ -174,7 +174,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**앱제작 V2버전 이용시)**</mark>
 

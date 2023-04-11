@@ -6,7 +6,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. 스윙투앱 알뜰형 패키지 상품이란?**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. 스윙투앱 알뜰형 패키지 상품이란?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EC%BA%A1%EC%B2%98.png)
 
@@ -22,7 +22,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**제공 서비스**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**제공 서비스**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/03-%EC%95%8C%EB%9C%B0%ED%8C%A8%ED%82%A4%EC%A7%80%EC%A0%9C%EA%B3%B5%EC%84%9C%EB%B9%84%EC%8A%A4.jpg)
 
@@ -42,7 +42,7 @@
 
 <mark style="color:red;">\*패키지 상품 구매는 일반 프로토타입(탑,푸터,슬라이드,드롭다운)으로 제작한 앱만 신청 가능 \*푸시, 웹뷰버전앱은 구매가 불가합니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 2\) [앱운영 페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지](https://www.swing2app.co.kr/view/shop\_list)에서 ‘스윙 알뜰형 페키지(24개월) 330,000원’ 구매하기를 선택해주세요.
 
@@ -76,7 +76,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**03. 알뜰형 패키지 이용 안내 및 주의사항**</mark>   <mark style="color:blue;"></mark><mark style="color:blue;"></mark>  &#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. 알뜰형 패키지 이용 안내 및 주의사항**</mark>  &#x20;
 
 **\*앱을 유료버전으로 전환하는 이용권이며 패키지 상품으로, 단품으로 구매하는 것보다 저렴하게 이용할 수 있습니다.**
 

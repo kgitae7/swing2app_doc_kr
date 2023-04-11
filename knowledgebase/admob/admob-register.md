@@ -6,7 +6,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 **애드몹 가입 방법, 애드몹 광고 단위 아이디를 만드는 방법**
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**애드몹이란?**</mark>
 
@@ -64,7 +64,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 애드몹 가입하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 애드몹 가입하기**
 
 애드몹 사이트 [https://apps.admob.com/](https://apps.admob.com/)에 접속 가입이 안된 분들은 구글(지메일) 계정으로 가입이 가능합니다.
 
@@ -100,7 +100,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 애드몹 시작하기**&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 애드몹 시작하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B928.png)
 
@@ -114,9 +114,9 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 새 앱 설정 - 앱 추가하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 새 앱 설정 - 앱 추가하기**
 
-****
+
 
 {% hint style="success" %}
 **​앱을 추가하기 전 확인해주세요.**
@@ -160,7 +160,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 7\)정상적으로 앱 연결이 되었으면 **계속** 버튼 선택해주세요.
 
-****
+
 
 ![](../../.gitbook/assets/애드몹6.png)
 
@@ -302,7 +302,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 따라서 광고 단위는 **배너와 전면 각각** 만들어주시면 됩니다.
 
-먼저 ** **<mark style="color:blue;">**배너**</mark>를 선택해서 만들어볼게요.
+먼저 <mark style="color:blue;">**배너**</mark>를 선택해서 만들어볼게요.
 
 ​
 
@@ -322,7 +322,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 
 
-&#x20;<mark style="color:orange;">****</mark>** **<mark style="color:blue;">**2.**</mark>**  **<mark style="color:blue;">**전면 광고 단위 아이디 만들기**</mark>&#x20;
+&#x20;<mark style="color:blue;">**2.**</mark> <mark style="color:blue;">**전면 광고 단위 아이디 만들기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%946.png)
 
@@ -356,21 +356,21 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%949.png)
 
-광고 단위 아이디를 모두 만든 뒤 왼쪽 카테고리의 <mark style="color:blue;">**\[광고 단위]**</mark>** ** 메뉴를 선택하면 추가된 광고단위를 확인할 수 있어요.
+광고 단위 아이디를 모두 만든 뒤 왼쪽 카테고리의 <mark style="color:blue;">**\[광고 단위]**</mark> 메뉴를 선택하면 추가된 광고단위를 확인할 수 있어요.
 
 아이디 옆에 복사 버튼을 선택해서 광고 단위 아이디를 각각 복사할 수 있어요.
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP5. 앱 ID복사하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 앱 ID복사하기**
 
 광고 셋팅을 하기 위해서는 앱 아이디도 함께 확인해야 합니다.
 
 **광고 단위 아이디를 만들었다면, 앱 ID를 확인해서 복사해주세요 – Android 앱 ID , IOS 앱ID**
 
-****
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">****</mark>** Android 앱 ID , IOS 앱ID은 어디서 확인하나요?**
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Android 앱 ID , IOS 앱ID은 어디서 확인하나요?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9-%EC%95%84%EC%9D%B4%EB%94%94-2.png)
 
@@ -392,7 +392,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 애드몹 가입 후 광고단위 아이디를 만들었다면 이후에 진행해야 할 내용을 알려드릴게요.
 
-<mark style="color:red;">중요</mark> **** <mark style="color:red;">내용이니 반드시 확인해주세요\~!</mark>
+<mark style="color:red;">중요</mark> <mark style="color:red;">내용이니 반드시 확인해주세요\~!</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B915.png)
 
@@ -400,7 +400,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 해당페이지에서 관리를 해주시면 됩니다.
 
-<mark style="color:orange;">****</mark>
+
 
 ### **1. 결제 정보 입력**
 
@@ -434,7 +434,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 <mark style="color:purple;">**애드몹 대시보드 왼쪽 카테고리에서 차단관리 → \[광고 심사 센터로 이동하기] 선택합니다.**</mark>  &#x20;
 
-<mark style="color:purple;">****</mark>
+
 
 <mark style="color:blue;">**1) 미검토 광고**</mark>
 

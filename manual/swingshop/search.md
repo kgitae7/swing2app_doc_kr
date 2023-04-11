@@ -8,13 +8,13 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 상품 검색 외에도 등록된 모든 상품을 리스트로 보여주며, 목록&필터 기능을 이용하여 상품을 조회할 수 있습니다.&#x20;
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 상품검색 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱에 상품검색 메뉴 적용하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%891.png)
 
@@ -28,7 +28,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 4\. \[링크마법사] 버튼을 선택합니다.
 
-5\. 링크마법사 창에서 <mark style="color:blue;">**\[상품검색]**</mark>** ** 메뉴 선택, \[반영]버튼 선택
+5\. 링크마법사 창에서 <mark style="color:blue;">**\[상품검색]**</mark> 메뉴 선택, \[반영]버튼 선택
 
 6\. \[적용] 버튼 선택
 
@@ -46,7 +46,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 상품검색 페이지 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 상품검색 페이지 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_17\_17\_34\_18\_503.gif)
 

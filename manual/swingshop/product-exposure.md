@@ -14,7 +14,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품 노출관리 페이지**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 상품 노출관리 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC.png)
 
@@ -22,7 +22,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **2. 상품노출관리페이지- 메인페이지 콜렉션 선택**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품노출관리페이지- 메인페이지 콜렉션 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC2-1.png)
 
@@ -54,7 +54,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 등록완료**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 등록완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC3-1.png)
 
@@ -64,7 +64,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **4. 앱제작에서 쇼핑몰 메인 페이지 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱제작에서 쇼핑몰 메인 페이지 적용하기**
 
 <mark style="color:red;">★등록한 상품노출관리 내용은 \[쇼핑몰 메인] 페이지에서 보여집니다.</mark>&#x20;
 
@@ -94,7 +94,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **5. 앱 실행 화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5. 앱 실행 화면**
 
 **쇼핑몰 앱을 실행해서, 위에서 등록한 상품노출관리 페이지가 앱에서는 어떻게 보여지는지 확인해볼게요\~!**
 
@@ -106,7 +106,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 **\*위에서 등록한 \[메인페이지-콜렉션]은 앱에서 \[주요상품]에 표시되어서 나타납니다.**
 
-<mark style="color:purple;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%A9%94%EC%9D%B8%EC%BB%AC%EB%A0%89%EC%85%982.png)
 

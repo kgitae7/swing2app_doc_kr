@@ -4,7 +4,7 @@ description: 쇼핑몰 메인페이지 이용방법 및 적용방법 매뉴얼
 
 # 스윙샵-쇼핑몰 메인페이지 이용방법
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **스윙샵 쇼핑몰 메인페이지 이용방법**
 
@@ -32,7 +32,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../.gitbook/assets/image (2) (1).png>) **STEP1. 쇼핑몰 메인페이지 적용하기**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP1. 쇼핑몰 메인페이지 적용하기**
 
 
 
@@ -84,7 +84,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:red;">\*그런데 아래 첨부된 앱 화면처럼 메인페이지에 아무것도 뜨지 않는 분들이 있을 거에요.</mark>
 
@@ -128,7 +128,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:orange;">****</mark>** 앱 실행화면**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_19\_16\_31\_07\_548.gif)
 
@@ -160,7 +160,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B85.png)
 
-****[1)스윙샵 상품관리 → 2)상품 카테고리 등록 관리](http://www.swing2app.co.kr/view/store\_product\_category)→ 3)카테고리를 등록하면, 쇼핑몰 메인 페이지의 카테고리 항목으로 노출되요.
+[1)스윙샵 상품관리 → 2)상품 카테고리 등록 관리](http://www.swing2app.co.kr/view/store\_product\_category)→ 3)카테고리를 등록하면, 쇼핑몰 메인 페이지의 카테고리 항목으로 노출되요.
 
 <mark style="color:red;">\*카테고리는 상품을 등록할 때 필요한 대분류 항목이에요.</mark>
 
@@ -174,7 +174,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B87.png)
 
-****[1)스윙샵 상품관리 → 2)상품 노출관리](http://www.swing2app.co.kr/view/store\_product\_expression) → 3)노출유형: 메인페이지-콜렉션 → 4)이벤트를 등록하면, 쇼핑몰 메인 페이지의 ‘주요상품’ 항목으로 노출됩니다.
+[1)스윙샵 상품관리 → 2)상품 노출관리](http://www.swing2app.co.kr/view/store\_product\_expression) → 3)노출유형: 메인페이지-콜렉션 → 4)이벤트를 등록하면, 쇼핑몰 메인 페이지의 ‘주요상품’ 항목으로 노출됩니다.
 
 주요상품 항목은 이벤트 기능으로, 더 노출을 하고 싶은 상품이 있다면 해당 섹션에서 보여줄 수 있구요.
 
@@ -188,7 +188,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **이벤트 등록하기**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **이벤트 등록하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B89.png)
 
@@ -220,7 +220,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## <mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (2) (1).png>) <mark style="color:blue;">****</mark>** STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_20\_17\_54\_01\_331.gif)
 

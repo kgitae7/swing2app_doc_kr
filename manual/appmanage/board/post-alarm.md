@@ -22,7 +22,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## 1. **** 게시판 <mark style="color:blue;"></mark> 관리
+## 1. 게시판 관리
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%83%88%EA%B8%80%EC%95%8C%EB%9E%8C\_20.05.png)
 
@@ -44,7 +44,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 **3)해당 메뉴에서 \[새글알림설정] 버튼을 확인할 수 있어요.**
 
-<mark style="color:green;"></mark>
+
 
 게시판 관리자 설정 이용방법은 아래 매뉴얼 참고해주세요.
 
@@ -54,7 +54,7 @@ description: 게시판 새글 알람 - 게시판 글 등록시 알림이 발송�
 
 
 
-## 3. 새글 알람 설정   <mark style="color:blue;">****</mark>  &#x20;
+## 3. 새글 알람 설정  &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%83%88%EA%B8%80%EC%95%8C%EB%9E%8C3\_20.05.png)
 

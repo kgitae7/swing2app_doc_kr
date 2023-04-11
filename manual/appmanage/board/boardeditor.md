@@ -4,7 +4,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 # 게시판 만들기
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\*게시판 제작방법**</mark>
 
@@ -20,7 +20,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:blue;">**\***</mark>[**게시물 입력방법 보러가기**](post-write.md)
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**앱 실행화면) 게시판 적용 화면**</mark>
 
@@ -34,13 +34,13 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 {% embed url="https://youtu.be/kLlAkfMZQZ8" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1.게시판 생성하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1.게시판 생성하기
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**1. 게시판 생성**</mark>
 
@@ -48,7 +48,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
-게시판은 **** [**앱운영페이지→서비스관리 → 게시판관리**](http://www.swing2app.co.kr/view/board\_edit)메뉴로 이동해주세요.
+게시판은  [**앱운영페이지→서비스관리 → 게시판관리**](http://www.swing2app.co.kr/view/board\_edit)메뉴로 이동해주세요.
 
 
 
@@ -60,7 +60,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 > 이 게시판들은 스윙에서 기본 셋팅해놓은 게시판으로, 해당 게시판을 사용하셔도 되구요\
 > 필요 없다면 다 삭제하시고, 원하는 게시판을 새로 만드셔도 됩니다.
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**2. 게시판 및 기능설정: 기본설정**</mark>
 
@@ -70,7 +70,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 \*서비스 용도에서 \[사용자정의]로 체크하면 회색 고정 영역이 풀리게 됩니다.
 
-아래 상세설정 내용을 수정해야 한다면 <mark style="color:orange;"></mark> <mark style="color:red;">‘사용자정의’</mark>를 선택하시고 게시판을 설정해주세요.
+아래 상세설정 내용을 수정해야 한다면 <mark style="color:red;">‘사용자정의’</mark>를 선택하시고 게시판을 설정해주세요.
 
 
 
@@ -152,7 +152,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 **10) \[저장] 버튼을 누르면 게시판 생성이 완료됩니다.**
 
-****
+
 
 **\[게시판 생성 완료]**
 
@@ -200,7 +200,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 모든 사용자들에게 동일하게 받아야 할 답변 목록이 있을 경우, 관리자가 미리 해당 질문지를 게시판에 작성하여 사용자들에게 제공할 수 있어요.
 
-&#x20;**** [**게시판 작성글 이용방법**](write-bulletin-board.md)
+&#x20;[**게시판 작성글 이용방법**](write-bulletin-board.md)
 
 **(2)작성폼**
 
@@ -230,7 +230,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 [**\[새글알람 설정 이용방법 보러가기\]**](post-alarm.md)
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**3) 고급 스타일**</mark>
 
@@ -260,13 +260,13 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 각 검색 옵션을 다양하게 설정하여 앱에 적용할 수 있습니다.
 
-&#x20;**** [**\[해시태그 이용방법 상세 보기\]**](hashtag-option1.md)
+&#x20;[**\[해시태그 이용방법 상세 보기\]**](hashtag-option1.md)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP2.앱에 만들어놓은 게시판 적용하기&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2.앱에 만들어놓은 게시판 적용하기&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">1.앱에 게시판 적용하기</mark>&#x20;
 
@@ -298,7 +298,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<mark style="color:blue;">****</mark>
+
 
 ### -앱제작 V2버전 이용시
 
@@ -334,9 +334,9 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/post-write" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP3.앱 실행화면)게시판 적용 화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3.앱 실행화면)게시판 적용 화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png)
 
@@ -346,9 +346,11 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 메뉴에 연동한 게시판을 선택하면 \[목록보기] 화면이 보이고 글 제목이나 이미지를 탭하면  → \[글 상세보기]로 이동하는 구조입니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> STEP4.게시판 이용 안내사항
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4.게시판 이용 안내사항
+
+
 
 1\) 스윙투앱을 처음 이용하시는 분들은 게시판을 만들지 않아도, 당사에서 게시판을 셋팅하여 제공이 됩니다.
 

@@ -2,7 +2,7 @@
 
 **플레이스토어 앱 등록시 – 스토어 등록정보 메뉴 에서 ‘개인정보 처리방침’을 입력하는 방법에 대해서 알려드립니다.**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**개인정보처리방침 이란?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**개인정보처리방침 이란?**</mark>
 
 개인정보처리방침은 회원가입 시 요구하는 내용들이 무엇인지, 어떻게 활용하는지를 정책으로 제공하는 내용이에요.
 
@@ -146,9 +146,9 @@
 
 ***
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**플레이스토어 개인정보처리방침 링크 등록하는 방법 정리**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**플레이스토어 개인정보처리방침 링크 등록하는 방법 정리**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 **1.개인정보처리방침 입력 or링크 복사하기**
 

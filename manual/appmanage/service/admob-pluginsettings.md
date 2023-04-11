@@ -134,7 +134,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_16\_43\_781.gif)
 

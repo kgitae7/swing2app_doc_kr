@@ -44,7 +44,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면) 이미지 적용된 화면**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면) 이미지 적용된 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%B2%A8%EB%B6%80\_20.07.png)
 
@@ -60,7 +60,7 @@
 
 두 손가락으로 확대 및 축소해서 볼 수 있고, 다운로드 버튼, 공유 버튼이 제공됩니다.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**이미지 다운로드**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**이미지 다운로드**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%B2%A8%EB%B6%803\_20.07.png)
 
@@ -70,7 +70,7 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**공유하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**공유하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%B2%A8%EB%B6%802\_20.07.png)
 

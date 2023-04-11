@@ -36,7 +36,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 4\) 안드로이드폰 기반 스토어이기 때문에 아이폰은 이용할 수 없습니다. (아이폰은 앱스토어에만 출시 가능)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**원스토어 개발자센터 접속**</mark>
 
@@ -48,9 +48,9 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 회원가입을 아직 안하셨다면 가입 먼저 진행해주세요\~
 
-로그인 후 상단 메뉴 ** **<mark style="color:blue;">**\[APPS]**</mark>를 선택합니다.
+로그인 후 상단 메뉴 <mark style="color:blue;">**\[APPS]**</mark>를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 신규 상품 등록
 
@@ -88,7 +88,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 원스토어에 입력하는 패키지 네임이 됩니다.
 
-****
+
 
 <mark style="color:blue;">**앱제작 V2 버전 이용시)**</mark>
 
@@ -312,7 +312,7 @@ APK파일을 등록할 경우
 
 
 
-&#x20;**** ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/question-1.png) **APK파일or AAB파일은 어디서 가져오는 건가요?**
+&#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/question-1.png) **APK파일or AAB파일은 어디서 가져오는 건가요?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B412-1.png)
 
@@ -404,12 +404,12 @@ APK파일을 등록할 경우
 
 <mark style="color:red;">★TIP. 원스토어에 앱을 출시하면 네이버에서도 검색 반영이 됩니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 {% hint style="warning" %}
 <mark style="color:orange;">**원스토어 앱등록(출시) 안내사항**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 1\)스윙투앱에서는 별도로 원스토어는 앱 업로드 대행을 해드리지 않기 때문에, 사용자분들이 직접 앱을 등록해야 합니다.
 
@@ -422,6 +422,5 @@ APK파일을 등록할 경우
 4\) 안드로이드폰 기반 스토어이기 때문에 아이폰은 이용할 수 없습니다. (아이폰은 앱스토어에만 출시 가능)
 {% endhint %}
 
-<mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">****</mark>
+

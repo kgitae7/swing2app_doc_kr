@@ -72,9 +72,9 @@
 
 {% embed url="https://youtu.be/N7GXahXzjt0" %}
 
-### <mark style="color:blue;"></mark>
+###
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 웹템플릿 페이지 새로 제작하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 웹템플릿 페이지 새로 제작하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%93%B1%EB%A1%9D.png)
 
@@ -110,7 +110,7 @@
 
 **\*사용자분들은 원하는 디자인의 페이지를 선택할 수 있습니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
 
@@ -130,7 +130,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤로 이용방법을 확인해주세요\~!**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 이용방법을 확인해주세요\~!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
 
@@ -154,7 +154,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**다른 스타일의 템플릿 페이지 제작**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**다른 스타일의 템플릿 페이지 제작**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5\_19.09.png)
 
@@ -228,7 +228,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF-1.gif)
 
@@ -240,7 +240,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**STEP. 4 템플릿은 다시 어​떻게 수정하나요? (편집 방법)**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**STEP. 4 템플릿은 다시 어​떻게 수정하나요? (편집 방법)**</mark>
 
 <mark style="color:orange;">**템플릿 수정은 동일하게  사용자페이지- 페이지 템플릿에서  \[편집]으로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.**</mark>
 

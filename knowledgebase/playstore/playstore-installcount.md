@@ -82,7 +82,7 @@
 
 **\*모든 사용자 획득 선택 → 사용자 →사용자 획득 → 새 사용자 수 선택**
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**3) 통계-보고서 내보내기**</mark>
 
@@ -100,7 +100,7 @@
 
 ### <mark style="color:purple;">**\*업데이트 된 구글 플레이콘솔에서 확인하는 방법\***</mark>
 
-<mark style="color:purple;">****</mark>
+
 
 **11월에는 구글 플레이 콘솔이 새 버전으로 업데이트가 되는데요.**
 
@@ -114,7 +114,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:red;">**플레이스토어 앱 통계보기 정리**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:red;">**플레이스토어 앱 통계보기 정리**</mark>
 
 **구글 플레이 콘솔 접속** [**https://play.google.com/apps/publish**](https://play.google.com/apps/publish)
 

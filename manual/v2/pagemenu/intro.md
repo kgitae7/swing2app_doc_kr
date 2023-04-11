@@ -10,11 +10,11 @@
 
 <mark style="color:purple;">홈화면은 당연히!  앱소개 페이지 외에 다른 다양한 메뉴들 – 이미지 페이지, 웹템플릿, HTML에디터 페이지, 이미지, 게시판, 웹링크 등으로 자유롭게 변경하여 제작할 수 있습니다.</mark>\ <mark style="color:purple;">\*앱소개는 기본 샘플 페이지이기 때문에 다른 메뉴로 변경하여 제작하시기를 권장드립니다.</mark>
 
-**☞** [**\[홈화면 제작 매뉴얼 보러가기\]**](home-menu.md)****
+**☞** [**\[홈화면 제작 매뉴얼 보러가기\]**](home-menu.md)
 
-****
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01.  앱에 \[앱소개 페이지] 적용하기**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01.  앱에 \[앱소개 페이지] 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%95%B1%EC%86%8C%EA%B0%9CNEW1.png)
 
@@ -38,7 +38,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. 앱 실행화면: 앱소개 페이지 확인**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. 앱 실행화면: 앱소개 페이지 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EC%86%8C%EA%B0%9C2.png)
 
@@ -54,7 +54,7 @@
 
 
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:purple;">**움짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**</mark>
+<mark style="background-color:blue;">▶</mark> <mark style="color:purple;">**움짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
 
@@ -96,7 +96,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. 앱소개 내용, 버튼 삭제 방법**</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. 앱소개 내용, 버튼 삭제 방법**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%95new2-1.png)
 

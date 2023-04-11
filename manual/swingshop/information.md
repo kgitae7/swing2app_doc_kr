@@ -27,7 +27,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.  기본정보 내용 입력하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.  기본정보 내용 입력하기**
 
 기본정보 항목들을 순서대로 입력해볼게요
 
@@ -61,7 +61,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 7.전화번호: 전화번호를 입력해주세요.
 
-<mark style="color:red;">**\*\*필수\*\***</mark>** ** 전화번호는 반드시 입력해주셔야 합니다. 결제시 전화번호 인증을 위해 SMS를 발송하게 됨으로 발신 전화번호가 기재되어 있어야 정상 발송됩니다.
+<mark style="color:red;">**\*\*필수\*\***</mark> 전화번호는 반드시 입력해주셔야 합니다. 결제시 전화번호 인증을 위해 SMS를 발송하게 됨으로 발신 전화번호가 기재되어 있어야 정상 발송됩니다.
 
 8\. 이메일: 관리자 이메일 주소를 입력해주세요
 
@@ -94,7 +94,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 12\. 상점푸터: 쇼핑몰 하단에 들어가는 문구를 입력해주세요.\
 13\. 모든 내용 입력이 완료된 후 \[저장]버튼을 누르면 기본정보 설정 입력이 완료됩니다.
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**\[앱 실행화면]**</mark>
 
@@ -108,7 +108,7 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. <mark style="color:blue;"></mark> 앱에 적용하기 – 쇼핑몰 정보, 쇼핑몰메인
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 앱에 적용하기 – 쇼핑몰 정보, 쇼핑몰메인
 
 **+쇼핑몰정보, 쇼핑몰메인은 어디에서 적용할 수 있나요?**
 
@@ -132,13 +132,13 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 7\) \[저장]버튼 앱 적용 완료됩니다.&#x20;
 
-<mark style="color:orange;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)<mark style="color:orange;"></mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
 <mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
 
-****
+
 
 <mark style="color:blue;">**쇼핑몰 메인 앱 실행화면**</mark>
 
@@ -154,4 +154,3 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 그러나 해당 페이지 역시 스윙에서 기본으로 제공하는 옵션이기 때문에 사용자가 직접 쇼핑몰 메인 페이지, 정보 페이지를 따로 만들어서 적용하셔도 됩니다.
 {% endhint %}
 
-<mark style="color:red;">****</mark>

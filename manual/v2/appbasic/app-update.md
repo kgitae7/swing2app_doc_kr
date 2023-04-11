@@ -14,7 +14,7 @@
 
 ***
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**스윙투앱 앱 업데이트 중요 내용**</mark>**  **<mark style="color:red;">**\*중요한 내용이니 꼭 먼저 확인해주세요!!**</mark>
+&#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**스윙투앱 앱 업데이트 중요 내용**</mark> <mark style="color:red;">**\*중요한 내용이니 꼭 먼저 확인해주세요!!**</mark>
 
 **1.앱제작 단계 중 3단계 \[페이지 메뉴]에 해당 되는 내용 수정 및 앱운영 모든 기능 이용**
 
@@ -36,7 +36,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**플레이스토어, 앱스토어 업데이트 안내**</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**플레이스토어, 앱스토어 업데이트 안내**</mark>&#x20;
 
 **1)스토어 업데이트가 필요한 경우**
 
@@ -66,7 +66,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**앱 업데이트 방법**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 업데이트 방법**</mark>
 
 <mark style="color:orange;">**★ 스윙투앱에서는 제작한 앱을 수시로 수정하고 업데이트할 수 있답니다!!**</mark>
 
@@ -126,7 +126,7 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**앱 실행화면 : 업데이트 유형**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 실행화면 : 업데이트 유형**</mark>
 
 업데이트 방법과 중요 내용을 확인했다면! 업데이트 유형에 따라서 실제 앱에서 어떻게 업데이트가 진행되는지 확인해볼게요
 
@@ -154,7 +154,7 @@
 
 **소프트 업데이트, 필수로 선택해서 앱을 업데이트 하면 → 사용자에게 물어보지 않고, 바로 앱 내 업데이트가 진행되요.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9C%A0%ED%98%956-1.png)
 

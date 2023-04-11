@@ -6,7 +6,7 @@ description: 앱제작 스윙투앱 이용안내 가이드
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**스윙투앱이란?**
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**스윙투앱이란?**
 
 스윙투앱은 사용자가 직접 제작하는 앱제작 빌더 서비스입니다.
 
@@ -16,7 +16,7 @@ description: 앱제작 스윙투앱 이용안내 가이드
 
 
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**스윙투앱 이용방법**
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**스윙투앱 이용방법**
 
 **스윙투은 앱제작 및 앱운영에 필요한 모든 기능 및 메뉴를 무료로 이용할 수 있습니다.**
 
@@ -30,7 +30,7 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**무료앱제작인데 유료상품이 있는 이유?**
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**무료앱제작인데 유료상품이 있는 이유?**
 
 스윙투앱은 무료로 앱제작 및 앱운영을 하실 수 있습니다.
 
@@ -50,12 +50,12 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**무료버전앱, 유료버전앱 사용 범위**
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**무료버전앱, 유료버전앱 사용 범위**
 
 {% hint style="info" %}
 **무료 및 유료버전 사용 범위**
 
-****
+
 
 **-무료버전 사용용도**
 
@@ -74,7 +74,7 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**스윙투앱 이용 방법**
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**스윙투앱 이용 방법**
 
 안내드린 것처럼 제작한 앱을 스토어에 출시하여 상용화하시는 것이 목적이라면 반드시 유료앱 이용권을 결제해주셔야 합니다.
 
@@ -88,9 +88,9 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 앱을 제작하시고 운영하시는 것은 모두 무료이기 때문에 충분히 무료버전에서 테스트해보시고, 유료버전으로 전환해주시기 바랍니다.&#x20;
 
-****
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제작한 앱은 안드로이드폰에 직접 설치하여 확인이 가능합니다.**
+
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **제작한 앱은 안드로이드폰에 직접 설치하여 확인이 가능합니다.**
 
 무료로 제작된 앱을 안드로이드폰에서 직접 다운받아 설치하여 이용할 수 있습니다.
 
@@ -118,9 +118,9 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요.  \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">[**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">[**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">****[**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">[**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
 2\) 앱 실행 후 → 카테고리 상단에 \[앱미리보기] 메뉴를 선택한 뒤 스윙웹사이트 가입 계정(아이디, 비밀번호)으로 로그인해주세요.
 
@@ -134,11 +134,11 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.&#x20;
 
-****[**☞ \[앱미리보기 이용방법 상세보기\]**](../swingpreview.md)****
+[**☞ \[앱미리보기 이용방법 상세보기\]**](../swingpreview.md)
 
 
 
-### ****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱을 제작하는데 어려움이 있다면?**
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱을 제작하는데 어려움이 있다면?**
 
 스윙은 오프라인으로 교육을 하지 않습니다.
 
@@ -152,7 +152,7 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 해당 버튼을 선택하면 바로 해당 메뉴의 도움말로 이동하니 앱제작시 어려운 부분이 있다면 이렇게 확인을 해주세요.
 
-**스윙투앱 앱제작 및 앱운영 이용방법 TIP을 확인해주세요**  [**\[이용방법 TIP안내\]**](https://documentation.swing2app.co.kr/manual/guide/appproduction-tip)****
+**스윙투앱 앱제작 및 앱운영 이용방법 TIP을 확인해주세요**  [**\[이용방법 TIP안내\]**](https://documentation.swing2app.co.kr/manual/guide/appproduction-tip)
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

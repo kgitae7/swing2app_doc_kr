@@ -156,7 +156,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**이용권 구매 옵션 \[업로드 티켓 구매]**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**이용권 구매 옵션 \[업로드 티켓 구매]**</mark>
 
 플레이스토어/ 앱스토어 업로드 티켓이란? 사용자분의 앱을 스윙투앱에서 대신 올려드리는 스토어 등록 대행비입니다.
 
@@ -176,7 +176,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**이용권 서비스 및 이용안내**</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**이용권 서비스 및 이용안내**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%8E%98%EC%9D%B4%EC%A7%803\_20.06.png)
 
@@ -186,7 +186,7 @@
 
 
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**결제정보 확인하기**</mark>&#x20;
+&#x20;<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**결제정보 확인하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%EB%A9%94%EB%89%B47-1.png)
 
@@ -196,7 +196,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:red;">**무통장입금은 꼭 확인해주세요\~\~!!**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:red;">**무통장입금은 꼭 확인해주세요\~\~!!**</mark>
 
 무통장 입금을 선택하시면 결제정보 확인페이지에서 입금계좌 정보가 표시됩니다.
 
@@ -234,9 +234,9 @@
 
 **\*영수증은 무통장, 실시간계좌이체 결제를 제외한 전자결제로 결제한 내역에 대해서만 확인할 수 있습니다.**
 
-****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**세금계산서 or 현금영수증 발행은 아래 방법으로 요청해주세요.**</mark>&#x20;
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**세금계산서 or 현금영수증 발행은 아래 방법으로 요청해주세요.**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/20200506-1.png)
 

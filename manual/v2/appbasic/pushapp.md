@@ -4,7 +4,7 @@
 
 **푸시앱 제작, 스토어 출시방법, Q\&A**
 
-****
+
 
 **푸시앱이란?**
 
@@ -14,7 +14,7 @@
 
 웹뷰앱과는 다르게 푸시앱은 <mark style="color:purple;">앱을 설치한 사용자들에게푸시 알림을 보낼 수 있다는 것이 가장 큰 특징입니다!</mark>
 
-<mark style="color:purple;"></mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%EC%95%B11.png)
 
@@ -30,7 +30,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.1 푸시 앱제작**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 푸시 앱제작**</mark>
 
 <mark style="color:orange;">**1단계 앱 기본정보**</mark>
 
@@ -106,7 +106,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**푸시앱 제작 영상으로 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**푸시앱 제작 영상으로 확인하기**</mark>
 
 {% embed url="https://youtu.be/sdKsK1tRS2U" %}
 
@@ -136,7 +136,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.2 제작한 앱 다운받아 확인하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 제작한 앱 다운받아 확인하기**</mark>
 
 **\*푸시, 웹뷰로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인할 수 없어요\~)**
 
@@ -164,7 +164,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EB%85%B9%ED%99%94\_2020\_09\_09\_15\_12\_16\_838.gif)
 
@@ -182,7 +182,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.3 이용권 및 티켓 구매**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 이용권 및 티켓 구매**</mark>
 
 <mark style="color:red;">푸시앱을 플레이스토어 or 앱스토어에 출시한다면 스윙투앱 유료앱 이용권 및 업로드티켓을 구매해주셔야 합니다.(무료앱은 스토어 출시 불가)</mark>
 
@@ -200,7 +200,7 @@
 
 앱운영 →결제 →스윙 이용권, 티켓 구매 페이지로 이동해주세요.​ [http://www.swing2app.co.kr/view/shop\_list](http://www.swing2app.co.kr/view/shop\_list)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**스윙 기본형 이용권(1개월) 33,000원 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:purple;">**스윙 기본형 이용권(1개월) 33,000원 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**</mark>
 
 \-스윙 기본형 이용권(1개월)상품은 30일 이용기간이 적용되며, 계속 스토어 앱 운영을 하실 경우 1개월마다 구매해주셔야 합니다.
 
@@ -220,7 +220,7 @@
 
 <mark style="color:green;">**or**</mark>
 
-<mark style="color:green;">****</mark>
+
 
 <mark style="color:orange;">**2. 장기이용: 푸시전용 무제한 유료앱 (한 번 결제시 기간 제한이 없이 무제한 이용 가능)**</mark>
 
@@ -236,7 +236,7 @@
 
 **한번 구매시 재구매 없이! 이용기간 제한 없이! 무제한!으로 이용 가능합니다.**
 
-****
+
 
 <mark style="color:purple;">**2)상품은 총 3가지이며 출시하고자 하는 플랫폼에 따라 상품 구매가 가능해요!**</mark>
 
@@ -246,7 +246,7 @@
 
 **(3)앱스토어만 출시한다면 → 푸시전용 무제한 유료앱(아이폰) 350,000원**
 
-****
+
 
 <mark style="color:purple;">**3)추천 TIP**</mark>
 
@@ -304,7 +304,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP. 4 스토어 업로드 신청**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 4 스토어 업로드 신청**</mark>
 
 위에서 이용권과 티켓을 모두 구매했다면! 업로드 신청을 해야 스윙투앱으로 업로드 신청서가 접수됩니다.
 
@@ -348,7 +348,7 @@
 
 **-심사가 거절될 경우 거절 사유 및 조치사항 안내드리면 재심사는 업로드 티켓 비용 추가 없이 해드립니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%844.png)
 
@@ -396,7 +396,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**푸시앱 특징 – 툴바**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**푸시앱 특징 – 툴바**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/Info\_toolbar\_Main\_886%EC%82%AC%EC%9D%B4%EC%A6%88.png)
 
@@ -420,9 +420,9 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**주의사항 및 푸시앱 제작 Q\&A**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**주의사항 및 푸시앱 제작 Q\&A**</mark>
 
-****
+
 
 **Q.푸시앱은 앱스토어, 플레이스토어에 출시가 어렵다고 하는데 맞나요?**
 
@@ -474,7 +474,7 @@
 
 따라서 **도메인 등록 정보로 내가 만든 사이트 임을 입증할 수 있는 홈페이지, 회사에서 만든다면 사업자등록증으로 증명할 수 있는 웹사이트(홈페이지)를 적용해주셔야 합니다.**
 
-****
+
 
 **Q. 직접 만드는게 어려운데 개발비를 낸다면, 위의 과정을 스윙투앱에서 다 대행해줄 수 있나요?**
 
@@ -520,7 +520,7 @@
 
 <mark style="color:red;">단, 웹뷰 무제한 이용권, 푸시 무제한 이용권을 이용하시는 분들은 다른 프로토타입으로 변경이 불가합니다. (일반 이용권 사용중에만 변경 가능)</mark>
 
-<mark style="color:red;"></mark>
+
 
 **Q. 푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
 
@@ -534,7 +534,7 @@
 
 <mark style="color:red;">\*단, 푸시 무제한 유료앱 이용권 사용자분들은 저장 후 앱제작 다시 해주셔야 합니다. 새 버전으로 업데이트해야 반영됩니다.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 **Q. 푸시앱에서 일반 프로토타입으로는 변경되나요?**
 
@@ -542,7 +542,7 @@
 
 <mark style="color:purple;">\*푸시 기반에서 다른 프로토타입으로 변경해야 할 경우는 앱을 새로 제작해서 만들어주셔야 합니다.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. 푸시앱은 웹사이트에서 수정되거나 업데이트 되는 사항이 앱에도 바로 반영되나요?**
 

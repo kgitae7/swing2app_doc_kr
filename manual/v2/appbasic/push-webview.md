@@ -96,9 +96,9 @@
 
 **\*웹뷰,  푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인 할 수 없어요\~)**
 
-****
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**푸시앱 특징**</mark>
+
+&#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**푸시앱 특징**</mark>
 
 \-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
@@ -107,7 +107,7 @@
 <mark style="color:red;">**-앱 제작시 앱 화면 하단에 푸시툴바가 생성됩니다.**</mark> \
 
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**</mark>
+&#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**</mark>
 
 앱에 적용된 웹링크 주소를 변경하는 것도 동일합니다.
 
@@ -119,7 +119,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**    **<mark style="color:blue;">**푸시 앱) 앱 실행화면**</mark>
+<mark style="background-color:blue;">**▶**</mark>  <mark style="color:blue;">**푸시 앱) 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png)
 
@@ -145,7 +145,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**푸시 발송하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**푸시 발송하기**</mark>
 
 푸시버전으로 앱제작 후 푸시 알림을 발송할 수 있어요.
 
@@ -157,7 +157,7 @@
 
 
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:blue;">**푸시 버전앱 제작방법 영상으로 확인하기**</mark>
+<mark style="background-color:blue;">▶</mark> <mark style="color:blue;">**푸시 버전앱 제작방법 영상으로 확인하기**</mark>
 
 {% embed url="https://youtu.be/sdKsK1tRS2U" %}
 
@@ -231,9 +231,9 @@
 
 **\*웹뷰, 푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인 할 수 없어요\~)**
 
-****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**웹뷰 특징**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**웹뷰 특징**</mark>
 
 \-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
@@ -243,7 +243,7 @@
 
 
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**웹뷰앱 제작 후 웹링크 주소는 어떻게 변경하나요?**</mark>
+&#x20;<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**웹뷰앱 제작 후 웹링크 주소는 어떻게 변경하나요?**</mark>
 
 앱에 적용된 웹링크 주소를 변경하는 것도 동일합니다.
 
@@ -259,9 +259,9 @@
 
 <mark style="color:red;">일반 이용권 이용중에는 변경 가능합니다.</mark>
 
-<mark style="color:red;"></mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**웹뷰앱) 앱 실행화면**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**웹뷰앱) 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png)
 
@@ -273,7 +273,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**웹뷰 버전 앱제작 영상으로 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**웹뷰 버전 앱제작 영상으로 확인하기**</mark>
 
 {% embed url="https://youtu.be/OO2ZcMKS0l8" %}
 
@@ -301,7 +301,7 @@
 
 <mark style="color:red;">\*단, 내부 사용 목적의 URL  및 회사 내부 서버에서 이용하는 사이트 주소는 연결이 불가하며,  웹앱으로 제작이 불가합니다.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 제작한 앱을 다운(설치)받는 방법은 아래 매뉴얼에서 확인해주시기 바랍니다.
 
@@ -311,7 +311,7 @@
 
 > <mark style="color:orange;">**\*푸시버전과 웹뷰버전 앱제작시 주의해주세요.**</mark>
 
-****
+
 
 **1) 웹링크 중에서  앱과 연동이 되지 않는, 즉  퍼가기를 금지해 놓은 사이트가 있어요.**
 
@@ -335,7 +335,7 @@
 
 <mark style="color:red;">**\*웹뷰 기반에서 다른 프로토타입으로 변경해야 할 경우는 앱을 새로 제작해서 만들어주셔야 합니다.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **3) 앱 상용화(스토어 출시)가 목적이라면 반드시 유료버전으로 이용해주세요.**
 

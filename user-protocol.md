@@ -4,11 +4,11 @@ description: 스윙투앱 서비스 이용정책
 
 # 스윙투앱 서비스 이용약관
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **스윙투앱 이용정책**
 
-****
+
 
 1\. 스윙투앱의 앱 개발소스  및 프로그램 소스는 사용자에게 제공하지 않습니다.
 
@@ -26,7 +26,7 @@ description: 스윙투앱 서비스 이용정책
 
 7\. 앱과 관련된 내용이 아닌 앱스토어, 플레이스토어 등과 같은 스토어에서의 문제는 스윙투앱에서 상담해드리지 않습니다.
 
-8\. 스윙투앱 이용권 등 유료상품에 대한 결제 및 사용방법은 반드시 [**해당 이용권 안내사항**](http://www.swing2app.co.kr/view/swing\_payment\_notice) **** 메뉴를 확인해주시기 바랍니다.
+8\. 스윙투앱 이용권 등 유료상품에 대한 결제 및 사용방법은 반드시 [**해당 이용권 안내사항**](http://www.swing2app.co.kr/view/swing\_payment\_notice) 메뉴를 확인해주시기 바랍니다.
 
 주의사항을 확인하지 않아 생기는 피해는 스윙투앱에서 책임지지 않습니다.
 
@@ -52,15 +52,15 @@ description: 스윙투앱 서비스 이용정책
 
 14\. 플레이스토어 업로드시, 반드시 구글 개발자 계정을 먼저 만들어주시기 바랍니다. &#x20;
 
-****[**\[구글 개발자 계정 만드는 방법\]**](knowledgebase/playstore/google-developer.md)****
+[**\[구글 개발자 계정 만드는 방법\]**](knowledgebase/playstore/google-developer.md)
 
-****
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **이용약관**
 
-****
+
 
 **\[제1장 총칙]**
 
@@ -272,7 +272,7 @@ description: 스윙투앱 서비스 이용정책
 10. 환불은 [스윙투앱 앱운영 – 결제 – 내 결제 현황](http://www.swing2app.co.kr/view/payment\_list)에서 \[환불신청] 버튼을 눌러서 신청해주세요.
 11. 취소, 환불에 대해 도움이 필요하실 경우 [문의게시판](http://www.swing2app.co.kr/view/service\_qa) 혹은 [채팅 상담](https://direct.lc.chat/12036120/)으로 문의주시기 바랍니다.
 
-****
+
 
 **\[제3장 의무사항]**
 
@@ -336,7 +336,7 @@ description: 스윙투앱 서비스 이용정책
 6. 회사 및 제3자의명예를 손상시키거나 업무를 방해하는 행위
 7. 기타 이 약관, 법률의규정 및 공서양속에 반하는 행위
 
-****
+
 
 **\[제4장 기타규정]**
 
@@ -354,7 +354,7 @@ description: 스윙투앱 서비스 이용정책
 
 ② 회사와 이용자간에 발생한 분쟁에 관한 소송은 민사소송법상의관할법원에 제기합니다.
 
-****
+
 
 **\[부칙]**
 

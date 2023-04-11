@@ -24,7 +24,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)1. 섬네일 이미지 등록하기
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 섬네일 이미지 등록하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC2\_20.06.png)
 
@@ -46,7 +46,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 반드시 **\[사진] 첨부 버튼을 선택해서 이미지를 등록해주셔야 대표 섬네일 이미지가 앱에서 표시됩니다.**&#x20;
 {% endhint %}
 
-<mark style="color:purple;">****</mark>
+
 
 그런데 저는 게시물관리 글 작성 페이지에서 사진 버튼이 안보여요!! 하시는 분들도 있는데요.&#x20;
 
@@ -60,7 +60,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 <mark style="color:orange;">여기서 허용범위 설정 :</mark>  <mark style="color:orange;"></mark><mark style="color:orange;">**‘사진첨부 허용’ 항목에 체크해주시기 바랍니다.**</mark>
 
-<mark style="color:purple;">****</mark>
+
 
 \-게시판을 새로 만들 경우 게시판 생성 버튼을 눌러서 새로 만들어주시구요.
 
@@ -70,7 +70,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)2. 섬네일 이미지를 본문에 나오지 않게 설정하기
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)2. 섬네일 이미지를 본문에 나오지 않게 설정하기
 
 섬네일 이미지가 게시물 목록에서 대표이미지로만 보이게 하고, 본문에는 나오지 않게 하고 싶다면 아래 방법을 확인해주세요!
 

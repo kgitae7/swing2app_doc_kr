@@ -4,7 +4,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 # 구글 개발자 계정 본인 인증
 
-****
+
 
 구글 개발자 계정 등록시 필요한 본인 인증에 대해 알려드립니다.
 
@@ -24,7 +24,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 따라서 계정 등록시 본인 인증이 안뜬다면 모두 완료된 것이며, 바로 앱 등록이 가능합니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 **\[본인 인증]**을 선택해주세요.
 
-****
+
 
 ## **STEP2. 본인 확인 절차**
 
@@ -72,7 +72,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 따라서 국가 및 주소는 꼭 동일하게 기재해주시기 바랍니다.
 {% endhint %}
 
-****
+
 
 ## **STEP3. OTP(인증 코드 번호) 입력**
 
@@ -82,7 +82,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 발송된 코드(6자리)를 입력하고 \[확인] 버튼을 눌러주세요.
 
-****
+
 
 ## **STEP4. 확인 완료**
 
@@ -90,7 +90,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니다.
 
-****
+
 
 ## **STEP5. 완료 – 콘솔 이용 가능**
 

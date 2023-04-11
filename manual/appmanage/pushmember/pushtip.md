@@ -32,7 +32,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 푸시 발송하기 <mark style="color:blue;">****</mark>&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 푸시 발송하기&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
@@ -40,7 +40,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 기본설정
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 기본설정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C1\_19.09.png)
 
@@ -72,7 +72,7 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시보내기 <mark style="color:blue;">****</mark>&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 푸시보내기&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804-2.png)
 
@@ -142,4 +142,3 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 4\)해당 기능은 일반 프로토타입(탑, 푸터, 슬라이드, 드롭다운)으로 제작한 앱만 이용 가능하며 <mark style="color:red;">\*프로토타입-푸시버전으로 제작한 앱은 이용할 수 없습니다.</mark>
 {% endhint %}
 
-<mark style="color:red;">****</mark>

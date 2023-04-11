@@ -24,7 +24,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 복사 <mark style="color:blue;">****</mark>&#x20;
+## ![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 복사&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC\_20.06.png)
 
@@ -58,7 +58,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>)2.움짤이미지로 게시물 복사 방법 확인하기
+## ![](<../../../.gitbook/assets/image (2) (1).png>)2.움짤이미지로 게시물 복사 방법 확인하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2020\_06\_11\_14\_41\_55\_250.gif)
 
@@ -66,7 +66,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>)3.복사된 게시물 확인하기
+## ![](<../../../.gitbook/assets/image (2) (1).png>)3.복사된 게시물 확인하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B521\_20.06.png)
 
@@ -94,7 +94,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 예를 들어 후기게시판에 있는 게시물을 다시 후기게시판으로 복사하는 것은 안되며, 다른 게시판으로만 복사할 수 있습니다.
 {% endhint %}
 
-<mark style="color:red;">****</mark>
+
 
 기존에는 게시판 복사 기능만 제공되었는데요.
 

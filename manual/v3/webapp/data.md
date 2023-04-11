@@ -12,7 +12,7 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 1.고급설정: 데이터 유형 설정방법
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1.고급설정: 데이터 유형 설정방법
 
 {% hint style="info" %}
 \*웹뷰, 푸시앱의 데이터 유형 선택 항목은 – 카메라, 외부 저장공간, 위치 권한 3가지 입니다.
@@ -68,7 +68,7 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 위와 같은 허용 여부 메시지 팝업이 뜹니다.
 
-****
+
 
 ### **2)외부 저장공간 사용 – YES로 체크한 경우**
 

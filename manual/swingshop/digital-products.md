@@ -14,7 +14,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘디지털상품 구�
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**디지털상품 구매완료 페이지 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:blue;">**디지털상품 구매완료 페이지 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C.1png.png)
 
@@ -38,7 +38,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘디지털상품 구�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 앱에 디지털상품 구매완료 페이지 적용하기 **<mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱에 디지털상품 구매완료 페이지 적용하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C.png)
 
@@ -52,7 +52,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘디지털상품 구�
 
 4\. \[링크마법사] 버튼을 선택합니다.
 
-5\. 링크마법사 창에서 <mark style="color:blue;">**\[디지털상품 구매완료 페이지]**</mark>** ** 메뉴 선택, \[반영]버튼 선택
+5\. 링크마법사 창에서 <mark style="color:blue;">**\[디지털상품 구매완료 페이지]**</mark> 메뉴 선택, \[반영]버튼 선택
 
 6\. \[적용] 버튼 선택
 
@@ -60,7 +60,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘디지털상품 구�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 디지털상품 구매완료 페이지 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 디지털상품 구매완료 페이지 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_28\_03\_46\_38\_29.gif)
 
@@ -86,7 +86,7 @@ PDF 보기를 선택하면 컨텐츠 내용을 확인할 수 있습니다.&#x20;
 
 
 
-****<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_28\_03\_49\_47\_21.gif)
 
@@ -96,4 +96,3 @@ PDF 보기를 선택하면 컨텐츠 내용을 확인할 수 있습니다.&#x20;
 
 &#x20;**따라서 디지털 상품을 판매하는 쇼핑몰 앱에서 반드시 꼭\~ 적용해주시기 바랍니다.**&#x20;
 
-****

@@ -68,7 +68,7 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**활용 방법**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**활용 방법**</mark>
 
 관리자 채팅 후 사용자는 채팅방에 다시 들어가면 채팅한 목록을 확인할 수 있는데요.
 

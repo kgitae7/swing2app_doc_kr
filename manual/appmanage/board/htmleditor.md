@@ -23,7 +23,7 @@ HTML 에디터를 선택하면, 이미지에서 보시는 것과 같이 다양�
 
 <mark style="color:red;">**글 중간 중간에 이미지를 넣거나, 하이퍼링크(웹사이트 링크) 추가, 동영상 등을 본문에 자유롭게 배치할 수 있어요.**</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤이미지 보시면 더욱 쉽게 이해가 되실거에요!**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤이미지 보시면 더욱 쉽게 이해가 되실거에요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_03\_28\_17\_36\_28\_624.gif)
 
@@ -49,7 +49,7 @@ HTML 에디터를 선택하면, 이미지에서 보시는 것과 같이 다양�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/HTML%EC%97%90%EB%94%94%ED%84%B0%EA%B8%80%EC%93%B0%EA%B8%B0\_218.09.png)
 
-작성된 게시글 상단에 <mark style="color:blue;">**연필 모양 아이콘\[수정]**</mark>** ** 버튼을 선택해주세요
+작성된 게시글 상단에 <mark style="color:blue;">**연필 모양 아이콘\[수정]**</mark> 버튼을 선택해주세요
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/HTML%EC%97%90%EB%94%94%ED%84%B0%EA%B8%80%EC%93%B03\_18.09.png)
 
@@ -59,7 +59,7 @@ HTML 에디터를 선택하면, 이미지에서 보시는 것과 같이 다양�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/HTML%EC%97%90%EB%94%94%ED%84%B0%EA%B8%80%EC%93%B0%EA%B8%B04\_18.09.png)
 
-에디터글쓰기 페이지에서 수정을 한 뒤 다시<mark style="color:blue;">**\[적용]**</mark>** ** 버튼을 누르면 수정사항이 반영됩니다.
+에디터글쓰기 페이지에서 수정을 한 뒤 다시<mark style="color:blue;">**\[적용]**</mark> 버튼을 누르면 수정사항이 반영됩니다.
 
 <mark style="color:orange;">**★ 추가 안내**</mark>
 

@@ -26,7 +26,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## 2. 게시판 생성 및 설정     <mark style="color:blue;">****</mark>    &#x20;
+## 2. 게시판 생성 및 설정    &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%952\_20.5.png)
 
@@ -40,7 +40,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 **3)해당 메뉴에서 \[관리자설정] 버튼을 확인할 수 있어요.**
 
-<mark style="color:orange;">****</mark>
+
 
 \*새글 알람 설정 방법은 해당 포스팅 참고해주세요 .
 
@@ -146,7 +146,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 **관리자로 적용된 게시판에서는 다른 사용자가 등록한 게시글을 삭제하거나 고정글로 설정 하실 수 있습니다.**
 
-<mark style="color:red;">****</mark>
+
 
 **우선순위 고정글 기능은 게시판 헤더가 적용되어 있어야 이용가능합니다.**
 

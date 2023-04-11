@@ -36,13 +36,13 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 게시판 공유하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 게시판 공유하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B3%B5%EC%9C%A01.png)
 
 **앱 – 게시판을 \[공유]버튼을 이용하여 다른 어플로 공유할 수 있습니다.**
 
-<mark style="color:purple;">**★게시판에서 화면 하단에 위치한**</mark> <mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**\[+ 아이콘]을 선택하면 화살표 모양의 ‘공유하기’ 버튼이 나타납니다.**</mark>
+<mark style="color:purple;">**★게시판에서 화면 하단에 위치한**</mark> <mark style="color:purple;"></mark> <mark style="color:purple;">**\[+ 아이콘]을 선택하면 화살표 모양의 ‘공유하기’ 버튼이 나타납니다.**</mark>
 
 공유 버튼을 누르면 앱을 공유할 수 있는 다양한 어플 목록이 열립니다.
 
@@ -62,7 +62,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 게시물 공유하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 게시물 공유하기**</mark>
 
 * **게시판 내의 게시물도 공유 버튼으로 공유할 수 있습니다.**
 
@@ -76,7 +76,7 @@
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:purple;">**\[:점3개 모양의] 아이콘을 선택해도 ‘공유하기’를 선택하여 공유할 수 있습니다.**</mark>
 
-<mark style="color:purple;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B3%B5%EC%9C%A02.png)
 
@@ -100,7 +100,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3.다른 어플로 공유하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3.다른 어플로 공유하기**</mark>
 
 **공유하고자 하는 어플이 없으면 \[기타 공유하기]를 선택해서 더 다양한 경로로 공유를 할 수 있어요!**
 

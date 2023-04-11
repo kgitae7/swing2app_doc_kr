@@ -18,11 +18,11 @@
 
 ### <mark style="color:blue;">**2. 인앱 결제 화면**</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**아이폰 – 인앱 결제 창**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**아이폰 – 인앱 결제 창**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C2-1-511x1024.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**안드로이드폰- 인앱 결제 창**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**안드로이드폰- 인앱 결제 창**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C1-1002x1024.png)
 

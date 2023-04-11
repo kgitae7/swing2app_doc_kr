@@ -56,7 +56,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **Start. 앱제작 마법사 시작하기**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **Start. 앱제작 마법사 시작하기**
 
 **​**스윙투앱에서 처음 앱을 제작하거나, 앱 추가 제작을 시작할 때 앱제작 마법사 시작 화면(팝업창)이 먼저 뜹니다.
 
@@ -142,7 +142,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
+## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
 
 ![](../../../.gitbook/assets/푸시1.png)
 
@@ -170,9 +170,9 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 **아이콘과 대기화면은 먼저 제작 가이드라인 매뉴얼을 보시고 만들어주시기 바랍니다!**
 
-****[**아이콘 이미지 제작 가이드 보러가기**](https://documentation.swing2app.co.kr/manual/v2/appbasic/appicon)****
+[**아이콘 이미지 제작 가이드 보러가기**](https://documentation.swing2app.co.kr/manual/v2/appbasic/appicon)
 
-****[**대기화면 이미지 제작 가이드 보러가기**](https://documentation.swing2app.co.kr/manual/v2/appbasic/apploading)****
+[**대기화면 이미지 제작 가이드 보러가기**](https://documentation.swing2app.co.kr/manual/v2/appbasic/apploading)
 
 \*앱 아이디를 제외한 앱이름, 아이콘, 대기화면 이미지는 제한없이 수정 가능하며 업데이트가 가능합니다.
 
@@ -190,7 +190,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>) **** STEP2 디자인
+## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP2 디자인
 
 ![](../../../.gitbook/assets/푸시2.png)
 
@@ -248,7 +248,7 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **** STEP3 페이지
+## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP3 페이지
 
 ![](../../../.gitbook/assets/푸시3.png)
 
@@ -308,7 +308,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ![](../../../.gitbook/assets/웹뷰5.PNG)
 
-웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 **** 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
+웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
 
 **연결한 웹사이트 내에서 외부 연결을 막아놓는 즉, 외부공유 및 퍼가기 금지 보안이 설정되어 있을 경우 해당 메시지가 보여집니다.**
 
@@ -374,7 +374,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:green;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
 <figure><img src="../../../.gitbook/assets/녹화_2020_09_09_15_12_16_838.gif" alt=""><figcaption></figcaption></figure>
 
@@ -394,7 +394,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP6 이용권 및 티켓 구매**
 
-****
+
 
 푸시앱을 플레이스토어 or 앱스토어에 출시한다면 스윙투앱 유료앱 이용권 및 업로드티켓을 구매해주셔야 합니다.(무료앱은 스토어 출시 불가)
 
@@ -408,7 +408,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;**** <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**구매 상품 안내**
+&#x20;<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**구매 상품 안내**
 
 앱운영 →결제 →스윙 이용권, 티켓 구매 페이지로 이동해주세요.​ [http://www.swing2app.co.kr/view/shop\_list](http://www.swing2app.co.kr/view/shop\_list)
 
@@ -418,7 +418,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 –어떤 스토어에 출시를 할 것인지는 사용자분의 선택사항이기 때문에 앱스토어만 출시할 경우 앱스토어 업로드티켓만 구매하셔도 됩니다.
 
-****
+
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**추천 TIP**
 
@@ -633,7 +633,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 {% hint style="info" %}
 **스토어 심사 안내**
 
-****
+
 
 1\)업로드 진행을 시작하면 각 스토어별 정책 및 중요 공지 안내 메일 보내드립니다.
 
@@ -648,7 +648,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 \*기간이 정해진 유료앱 이용권(기본형 이용권 1개월 등)을 구매했을 경우만 해당, 무제한 상품 이용시 해당 없음
 {% endhint %}
 
-****
+
 
 &#x20;
 

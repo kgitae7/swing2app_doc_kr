@@ -12,7 +12,7 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**통계 기능 이용방법**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**통계 기능 이용방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%86%B5%EA%B3%84.png)
 
@@ -80,7 +80,7 @@
 
 <mark style="color:red;">조회하는 날짜에 가입된 회원 수만 확인이 가능합니다.</mark> &#x20;
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:red;background-color:blue;">**▶**</mark><mark style="color:orange;">**보유앱 관리 페이지에서 앱 이용 회원수를 확인할 수 있어요.**</mark>
 

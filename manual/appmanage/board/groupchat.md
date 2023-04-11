@@ -36,13 +36,13 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 그룹채팅방 만들기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 그룹채팅방 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%851\_20.06.png)
 
 스윙 앱운영 페이지 → 서비스관리 → 게시판 관리 메뉴로 이동합니다.
 
-****
+
 
 ### <mark style="color:blue;">**1. 그룹채팅방 생성 – 기본설정**</mark>
 
@@ -56,7 +56,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:red;">\*채팅방 입장 권한은 기본 ‘손님’으로 셋팅되어 있어요.</mark>
 
-<mark style="color:red;">권한을 수정하시려면, 서비스 용도에서 ‘사용자 정의’를 선택하면 고정된 회색 영역이 풀리며 권한을 수정할 수 있습니다.</mark> <mark style="color:red;"></mark><mark style="color:red;">****</mark>&#x20;
+<mark style="color:red;">권한을 수정하시려면, 서비스 용도에서 ‘사용자 정의’를 선택하면 고정된 회색 영역이 풀리며 권한을 수정할 수 있습니다.</mark>&#x20;
 
 3\) UI 및 기능 선택: \[대화] 를 선택해주세요.&#x20;
 
@@ -70,7 +70,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:red;">\*게시판 및 기능설정 내용은 입력하지 않아도 됩니다. (작성해도 앱에서 보여지지 않아요!)</mark>
 
-****
+
 
 ### <mark style="color:blue;">**2.그룹채팅방 생성 – 채팅 상세설정**</mark>
 
@@ -94,7 +94,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 앱에 그룹채팅방 적용하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 그룹채팅방 적용하기
 
 그룹 채팅 게시판을 만들었다면, 앱에 채팅방을 적용해야겠죠?&#x20;
 
@@ -150,7 +150,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면
 
 **앱을 실행하여서 채팅방이 앱에서 어떻게 보여지는지 확인해보겠습니다.**&#x20;
 
@@ -184,7 +184,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/공지메시지 (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;<mark style="color:green;">****</mark> 채팅방 입장시 입력된 공지사항메시지 창이 뜹니다.&#x20;
+&#x20;채팅방 입장시 입력된 공지사항메시지 창이 뜹니다.&#x20;
 
 
 
@@ -196,7 +196,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 비밀번호는 채팅방 상세설정에서 입력해놓은 번호로 지정이 되고, 공지사항이나 다른 경로를 통해서 사용자들과 공유할 수 있습니다.
 
-<mark style="color:green;"></mark>
+
 
 <mark style="color:green;">**3) 사용자 목록 보기**</mark>
 
@@ -206,7 +206,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 그룹채팅 기능 소개
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 그룹채팅 기능 소개
 
 
 
@@ -216,9 +216,9 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP5. 그룹채팅 Q\&A
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 그룹채팅 Q\&A
 
-****
+
 
 **Q.앱에서 사용자가 다른 사용자를 선택하여 채팅을 할 수 있나요?**
 
@@ -250,7 +250,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 단, 위에서 안내드렸듯이 <mark style="color:green;">상품에 따라 접속 인원이 정해져있기 때문에 적용된 상품에 기재된 인원만 접속할 수 있습니다.</mark>
 
-<mark style="color:green;"></mark>
+
 
 **Q. 그룹채팅방은 관리자가 항상 들어와야 운영이 되나요?**
 

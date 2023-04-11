@@ -4,7 +4,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 # 앱 이용약관, 개인정보취급방침
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **이용약관? 개인정보 처리방침이란?**
 
@@ -32,7 +32,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 **앱 이용약관과 개인정보 처리방침은 어디서, 어떻게 보여지나요?**
 
-****
+
 
 ![](<../../../.gitbook/assets/가입정책\_핸드폰1 (1).png>)
 
@@ -54,11 +54,11 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
-****[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]** ](http://www.swing2app.co.kr/view/app\_setting)**메뉴로 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]** ](http://www.swing2app.co.kr/view/app\_setting)**메뉴로 이동합니다.**
 
 ***
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) **2. 이용약관, 개인정보 취급방침 내용 작성하기**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 이용약관, 개인정보 취급방침 내용 작성하기**
 
 
 
@@ -98,7 +98,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 <mark style="color:red;">**★ 앱을 처음 제작하는 분들은 꼭 정책 설정하기를 눌러주셔야 앱에 해당 정책 내용이 반영됩니다.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 {% hint style="info" %}
 개인정보 처리방침 항목은 7가지로 사용자가 직접 앱의 서비스에 맞게 작성을 해서 넣어주셔야 합니다.
@@ -154,9 +154,9 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**. **<mark style="color:blue;">****</mark>** 서비스 이용약관 및 개인정보 처리방침 확인 – 앱 실행화면**
+### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**.** **서비스 이용약관 및 개인정보 처리방침 확인 – 앱 실행화면**
 
-****
+
 
 이용약관은 설정, 회원가입 화면에서 확인이 가능합니다.&#x20;
 
@@ -186,9 +186,9 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 위에서 작성한 앱 개인정보처리방침 내용이 플레이스토어, 앱스토어에서는 어떻게 적용되어 보여지는지 확인해볼게요!
 
-****
 
-**1) 플레이스토어 **<mark style="color:orange;">****</mark>&#x20;
+
+**1) 플레이스토어**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41\_20.04.png)
 
@@ -211,7 +211,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 {% hint style="danger" %}
 ﻿<mark style="color:red;">**안내사항**</mark>
 
-****
+
 
 1\)푸시, 웹뷰앱은 사용자분의 웹사이트(홈페이지)를 앱에 연결하여 제작한 웹앱입니다.
 
@@ -248,6 +248,5 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 ﻿
 {% endhint %}
 
-****
 
-****
+

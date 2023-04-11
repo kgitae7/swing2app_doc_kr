@@ -4,7 +4,7 @@ description: 애드몹 적용 앱) 앱에 app-ads.txt 파일 설정하기
 
 # 애드몹 - app-ads.txt 파일 설정하기
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ​애드몹을 연결한 앱에서 app-ads.txt 파일을 설정하고 등록하는 방법
 
@@ -59,11 +59,11 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 4단계: AdMob 계정에서 app-ads.txt 파일이 확인되었는지 살펴보기
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. **개발자 웹사이트 구축 및 스토어 정보에 개발자 웹사이트 추가하기**
 
-****
+
 
 ### **1.개발자 웹사이트를 제출해야 합니다.**
 
@@ -99,7 +99,7 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 앱 출시 후 해당 정보로 다시 업데이트 해야 한다면, 앱스토어 업로드티켓(20,000원) 구매 후 다시 신청해주셔야 합니다.
 
-****
+
 
 ### **4.스토어 업데이트 유무**
 
@@ -107,7 +107,7 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 앱 출시 후, 사이트 주소를 추가하여 적용했다면 앱 업데이트를 다시 해야 합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. app-ads.txt 파일 확인 및 앱에 코드 스니펫 적용하기**
 
@@ -153,7 +153,7 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. AdMob이 app-ads.txt 파일을 크롤링하고 확인할 때까지 기다리기**
 
@@ -181,7 +181,7 @@ AdMob에서 app-ads.txt 파일을 크롤링하고 확인하는 데 최대 24시�
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. AdMob 계정에서 app-ads.txt 파일이 확인되었는지 살펴보기**
 
@@ -209,9 +209,9 @@ app-ads.txt 파일을 등록한다고 해서 앱에서 광고 노출이 더 잘 
 앱에 애드몹 광고를 적용하여 이용하시는 분들은, 스윙투앱에서 제공하는 매뉴얼을 확인하여 운영해주시기 바랍니다.
 {% endhint %}
 
-****
 
-****
+
+
 
 **Related Articles**
 

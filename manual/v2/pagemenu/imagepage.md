@@ -90,7 +90,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP 2. 이미지페이지 제작하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP 2. 이미지페이지 제작하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
@@ -146,7 +146,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:green;">**움짤 이미지를 통해서 영역을 설정하는 방법을 확인해주세요**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:green;">**움짤 이미지를 통해서 영역을 설정하는 방법을 확인해주세요**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
 
@@ -198,7 +198,7 @@
 
 예를 들어 **배너를 선택했을때 블로그로 이동하게 하고 싶다고 할 때는 **<mark style="color:blue;">**\[링크마법사] 선택 후 \[웹링크]에서 – 블로그 사이트 주소 URL 입력 후 반영해주시면 됩니다.**</mark>&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;background-color:blue;">**▶**</mark><mark style="color:orange;">**움짤로 이미지페이지 제작방법 확인하기**</mark>
 
@@ -208,7 +208,7 @@
 
 **Background Opacity 에서 ‘0’으로  설정하면 배너를 투명하게 설정할 수도 있습니다.**&#x20;
 
-****
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:green;">**이미지 페이지 제작 TIP**</mark>
 
@@ -216,7 +216,7 @@
 
 TIP을 한가지 드리면요
 
-리스트에서 ** **<mark style="color:blue;">**\[스타일 복제 버튼]**</mark>을 이용하면, **동일한 영역 스타일과 기본 스타일을 그대로 가져올 수 있습니다.**
+리스트에서 <mark style="color:blue;">**\[스타일 복제 버튼]**</mark>을 이용하면, **동일한 영역 스타일과 기본 스타일을 그대로 가져올 수 있습니다.**
 
 링크 설정만 변경을 하면 되니, 좀 더 간편하게 만들 수 있어요!
 
@@ -270,7 +270,7 @@ TIP을 한가지 드리면요
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80-1.gif)
 
@@ -280,7 +280,7 @@ TIP을 한가지 드리면요
 
 .
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 이미지페이지 제작도구 – 툴팁 적용하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 이미지페이지 제작도구 – 툴팁 적용하기**</mark>
 
 이미지페이지에 링크 배너를 연동하는 것 외에 툴팁을 적용하는 방법도 알려드릴게요
 
@@ -288,9 +288,9 @@ TIP을 한가지 드리면요
 
 **툴팁은 이미지 위에 메시지창 모양의 아이콘을 첨부하여, 부가설명을 기재하는 방법으로 활용됩니다.**
 
-****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**툴팁 적용 예시)**</mark>&#x20;
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**툴팁 적용 예시)**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
 

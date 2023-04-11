@@ -72,7 +72,7 @@ APP공유하기 버튼을 누르면 기본 셋팅된 링크인 스윙투앱 홈�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%85%8B%ED%8C%851.png)
 
-****[**\[카카오 개발자 센터\]**](https://developers.kakao.com/apps)**로 이동합니다.**
+[**\[카카오 개발자 센터\]**](https://developers.kakao.com/apps)**로 이동합니다.**
 
 \[시작하기] 버튼을 선택해주시구요.
 
@@ -204,7 +204,7 @@ https://www.swing2app.com
 
 <mark style="color:red;">\*스토어 출시된 분들은 새로 제작된 버전으로 업데이트 해주셔야 합니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면**</mark>
 

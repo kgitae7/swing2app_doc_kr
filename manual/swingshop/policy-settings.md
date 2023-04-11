@@ -16,7 +16,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> **STEP1. **<mark style="color:blue;">****</mark>** 정책 설정 메뉴 이동**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.** **정책 설정 메뉴 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95.png)
 
@@ -42,7 +42,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 교환 및 반품, 쇼핑몰 이용약관 정책**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 교환 및 반품, 쇼핑몰 이용약관 정책**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%952.png)
 
@@ -52,7 +52,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 
 
-<mark style="color:orange;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**교환 및 환불정책 & 이용약관 정책 – 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**교환 및 환불정책 & 이용약관 정책 – 앱 실행화면**</mark>
 
 이용정책이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요\~!!
 
@@ -64,7 +64,7 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 비회원 권한 설정**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 비회원 권한 설정**
 
 비회원 권한을 설정하는 방법을 알아보겠습니다.
 
@@ -78,9 +78,9 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 >
 > 4.마지막으로 저장하기 버튼을 눌러서 정책설정을 완료해주세요.
 
-****
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**앱 실행화면-비회원 권한 설정**</mark>
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면-비회원 권한 설정**</mark>
 
 비회원 권한설정이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요.
 

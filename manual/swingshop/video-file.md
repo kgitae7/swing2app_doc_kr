@@ -12,13 +12,13 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. 스윙샵 신청 후 상품 카테고리 등록**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
 먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
-**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%93%B1%EB%A1%9D.png)
 
@@ -40,7 +40,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 <mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D3\_19.09\_1.png)
 
@@ -80,7 +80,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 <mark style="color:red;">-외부 공유 및 연동이 되어도 괜찮다면 체크를 풀어주세요.</mark>
 
-<mark style="color:red;"></mark>
+
 
 5\. 상품명 : 상품 이름을 입력해주세요.
 
@@ -96,7 +96,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 <mark style="color:red;">**\*위에서 알려드린 것처럼 상품카테고리는 먼저 만들어주셔야 상품등록에서 카테고리를 선택할 수 있으니! 잊지말고 카테고리를 먼저 만들어주세요^^**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%812\_19.09.png)
 
@@ -120,7 +120,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 **​**
 
-****<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인인해주세요!**
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인인해주세요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -152,7 +152,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱에 상품 카테고리 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 상품 카테고리 적용하기**
 
 위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.
 
@@ -180,7 +180,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 디지털-영상 파일 판매 앱**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 디지털-영상 파일 판매 앱**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_10\_01\_01\_36\_09\_304.gif)
 

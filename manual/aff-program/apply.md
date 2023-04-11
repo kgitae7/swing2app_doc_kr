@@ -4,15 +4,15 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 # 제휴프로그램 신청방법
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴프로그램이란?**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **제휴프로그램이란?**
 
 스윙투앱을 사용자들에게 홍보하고, 해당 사용자가 이용료를 결제하면 해당 이용료의 일정 수수료를 수익료(커미션)로 지급받는 프로그램입니다.
 
 스윙투앱 사용자라면 누구나 다 신청할 수 있습니다!
 
-****
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
 
 스윙투앱 제휴를 신청하고, 승인을 받으시면 접속할 수 있는 제휴 URL을 발행해드립니다.
 
@@ -28,7 +28,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1.제휴신청
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 1.제휴신청
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%EC%8B%A0%EC%B2%AD.png)
 
@@ -36,7 +36,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2.신청서 작성
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 2.신청서 작성
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%EC%8B%A0%EC%B2%AD2-e1611557249483.png)
 
@@ -74,7 +74,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3.심사 완료 및 승인 완료&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 3.심사 완료 및 승인 완료&#x20;
 
 심사가 완료되어 승인이 완료되면, 사용자 메일로 승인 완료 메일을 보내드립니다.
 
@@ -88,7 +88,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4.제휴프로그램 운영하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 4.제휴프로그램 운영하기
 
 스윙투앱 앱운영 페이지- 내메뉴에 제휴 관리 페이지가 생성됩니다.&#x20;
 
@@ -98,7 +98,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 <mark style="color:red;">\*승인 전까지는 해당 메뉴가 열리지 않기때문에, 승인 메일 확인 후 제휴관리 메뉴를 확인하시면 됩니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%EC%8B%A0%EC%B2%AD3.png)
 
@@ -106,7 +106,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 **앞으로 제휴를 통한 통계 내역은 해당 페이지에서 확인이 가능합니다.**&#x20;
 
-관리자 정보를 통해서 ** **<mark style="color:blue;">**제휴 URL**</mark>을 확인할 수 있구요. 해당 URL을 사용자들에게 배포하거나 공유하여 유입을 유도할 수 있습니다.&#x20;
+관리자 정보를 통해서 <mark style="color:blue;">**제휴 URL**</mark>을 확인할 수 있구요. 해당 URL을 사용자들에게 배포하거나 공유하여 유입을 유도할 수 있습니다.&#x20;
 
 통계지표, 정산관리, 광고관리 등의 메뉴를 확인하면서 제휴프로그램을 관리할 수 있습니다.
 
@@ -114,7 +114,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5.제휴프로그램 수익 정산
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 5.제휴프로그램 수익 정산
 
 제휴 프로그램을 통해 매출 수익이 발생했을 경우 **매월 1일 정산이되어, 수익금이 입금됩니다.**
 
@@ -128,13 +128,13 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 ***
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **** 제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> 제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
 
 [**제휴프로그램으로 스윙투앱 홍보하기**](promotion.md)
 
 
 
-<mark style="color:orange;"></mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **스윙 제휴프로그램의 장점**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **스윙 제휴프로그램의 장점**
 
 \-지속적인 수익의 보장 & 지급한도 무제한
 
@@ -152,9 +152,9 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 \-블로그 SNS 등 매체별 광고 실적 관리 가능
 
-****
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **제휴프로그램 이용약관**
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **제휴프로그램 이용약관**
 
 1\. 제휴 프로그램 정산 단가표는 6개월 단위로 변경될 수 있습니다.
 

@@ -8,7 +8,7 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 기본정보는 **앱제작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
 
-****
+
 
 ### **STEP1 기본정보**
 
@@ -63,14 +63,14 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 {% hint style="info" %}
 일반 이미지가 아닌 앱 아이콘과 대기화면으로 사용하는 가이드가 따로 있어요! 반드시 해당 가이드대로 이미지를 디자인 후 적용해주세요.​
 
-[**아이콘 이미지 제작 가이드 보러가기**](../v2/appbasic/appicon.md)****
+[**아이콘 이미지 제작 가이드 보러가기**](../v2/appbasic/appicon.md)
 
-****[**대기화면 이미지 제작 가이드 보러가기**](../v2/appbasic/apploading.md)****
+[**대기화면 이미지 제작 가이드 보러가기**](../v2/appbasic/apploading.md)
 {% endhint %}
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.기본정보 입력완료**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.기본정보 입력완료**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B4%EC%9E%85%EB%A0%A5%EC%99%84%EB%A3%8C.png)
 
@@ -140,5 +140,5 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 따라서 지정된 사이즈보다 큰 이미지를 사용하시는 것을 권장드립니다.&#x20;
 {% endhint %}
 
-<mark style="color:red;">****</mark>
+
 

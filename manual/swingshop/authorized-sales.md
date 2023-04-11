@@ -10,7 +10,7 @@ description: '디지털제품 : 권한변경 상품을 등록 및 이용하는 �
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**디지털 제품 ‘권한 변경’ 이란?**</mark>
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:blue;">**디지털 제품 ‘권한 변경’ 이란?**</mark>
 
 등급을 부여해서, 앱에서 제공하는 등급을 구매하여 컨텐츠를 열람할 수 있도록 만드는 쇼핑몰 상품 유형이에요.
 
@@ -42,7 +42,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1. **<mark style="color:blue;">****</mark>** 권한 그룹 만들기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.** **권한 그룹 만들기**
 
 먼저 판매할 권한(그룹)을 만들어볼게요!
 
@@ -76,13 +76,13 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 게시판 관리 – 권한 설정하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 게시판 관리 – 권한 설정하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EA%B6%8C%ED%95%9C8\_19.09.png)
 
 서비스관리 → 게시판 관리로 이동한 뒤 <mark style="color:blue;">**\[게시판 생성]**</mark> 버튼을 선택해주세요.
 
-원하는 게시판을 만들 되 하단의 ** **<mark style="color:blue;">**\[상세설정]**</mark>만 잘 입력해주시면 됩니다.
+원하는 게시판을 만들 되 하단의 <mark style="color:blue;">**\[상세설정]**</mark>만 잘 입력해주시면 됩니다.
 
 **=글쓰기 권한, 글 상세 보기 권한, 목록 보기 권한에 앞서 만들어놓은 권한을 적용해주시면 됩니다.**
 
@@ -98,11 +98,11 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 스윙샵 신청 후 상품 카테고리 등록**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 스윙샵 신청 후 상품 카테고리 등록**
 
 **먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!**
 
-**☞** [**스윙샵 신청방법 보러가기**](apply.md)****
+**☞** [**스윙샵 신청방법 보러가기**](apply.md)
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
@@ -114,7 +114,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 **스윙샵 → 상품관리→ 상품카테고리 등록관리 메뉴로 이동합니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09.png)
 
@@ -126,7 +126,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 <mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EA%B6%8C%ED%95%9C1\_19.09.png)
 
@@ -138,7 +138,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP4. 디지털 – 권한 변경 상품 등록하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 디지털 – 권한 변경 상품 등록하기**
 
 카테고리 등록이 끝났다면! 본격적으로 디지털 상품 중에서 ‘권한변경’ 상품을 적용하고 등록해볼게요.
 
@@ -202,7 +202,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 **​**
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:blue;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:blue;">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
@@ -236,13 +236,13 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP5. 앱에 상품 카테고리 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 앱에 상품 카테고리 적용하기**
 
 위에서 디지털제품 등록이 완료되었다면, 앱에서 실제 상품을 구매할 수 있는 페이지를 적용해볼게요.
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱제작 V3버전 이용시 - 상품 카테고리 적용하기**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱제작 V3버전 이용시 - 상품 카테고리 적용하기**
 
 <figure><img src="../../.gitbook/assets/등급_상품구매1.png" alt=""><figcaption></figcaption></figure>
 
@@ -268,7 +268,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱제작 V2버전 이용시 - 상품 카테고리 적용하기**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱제작 V2버전 이용시 - 상품 카테고리 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%93%B1%EA%B8%89%EA%B6%8C%ED%95%9C.png)
 
@@ -308,7 +308,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP6. 스윙 주식 샘플앱) 권한변경 상품 구매 확인하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP6. 스윙 주식 샘플앱) 권한변경 상품 구매 확인하기
 
 스윙 주식 샘플앱을 통해서 앱에 권한변경 상품이 어떻게 등록되었는지 확인해주세요.
 
@@ -328,7 +328,7 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 **\*권한 변경이 앱 이용에 어떤 영향을 미치는지, 마스터 권한을 이용하는 방법을 확인해볼게요.**
 
-****
+
 
 <mark style="color:blue;">**\[권한 구매 전]**</mark>
 

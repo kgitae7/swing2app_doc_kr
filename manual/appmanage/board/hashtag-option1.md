@@ -12,7 +12,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱 실행화면) 해시태그 검색 기능
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱 실행화면) 해시태그 검색 기능
 
 **게시물 입력시 해시태그 ‘ # ‘ 을  입력해서 태그로 값을 보여주는 방법이에요.**
 
@@ -32,7 +32,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 해시태그 입력하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 해시태그 입력하기
 
 ### <mark style="color:blue;">**1) 앱에서 해시태그 입력하기**</mark>
 
@@ -62,7 +62,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 **웹에서는 해시태그 입력란에 태그 입력 후 엔터를 치면, 해시태그가 생성됩니다.**
 
-****
+
 
 <mark style="color:orange;">**게시물에 해시태그 입력하는 방법. 움짤이미지로 확인하기**</mark>
 
@@ -70,7 +70,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 ***
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**기존 게시물에 해시태그를 추가하거나, 수정할 경우**</mark>
 
@@ -84,7 +84,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 (3)수정완료 버튼을 눌러주면 해시태그 기능이 반영됩니다.
 
-****
+
 
 ### <mark style="color:blue;">**3) 해시태그 안내**</mark>
 
@@ -96,6 +96,5 @@ description: '해시태그 # 검색기능 이용방법'
 
 **그럼 앱 게시판 – 게시물에서도 해시태그가 보여집니다.**
 
-****
 
-****
+

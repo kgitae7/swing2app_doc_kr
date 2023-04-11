@@ -22,13 +22,13 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 캘린더 만들기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 캘린더 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94\_20.06.png)
 
 [앱운영페이지 → 서비스관리 → 게시판 관리](http://www.swing2app.co.kr/view/board\_edit) 페이지로 이동해주세요.&#x20;
 
-<mark style="color:orange;">****</mark>
+
 
 게시판관리 페이지에서 \[게시판 생성] 버튼을 선택하면, 게시판 및 기능설정 창이 뜹니다.
 
@@ -52,7 +52,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2.앱에 캘린더 게시판 적용하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2.앱에 캘린더 게시판 적용하기
 
 만들어놓은 캘린더는 앱에 적용해야 하겠죠?
 
@@ -108,13 +108,13 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 캘린더 응용하기 <mark style="color:blue;">****</mark>&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 캘린더 응용하기&#x20;
 
 본격적으로 캘린더를 다양하게 응용해서 사용하는 방법을 알려드릴게요!
 
-<mark style="color:orange;"></mark>
 
-### <mark style="color:blue;">**1. 캘린더 응용1 : 모든 사용자가 일정 작성**</mark>** **<mark style="color:orange;">****</mark>&#x20;
+
+### <mark style="color:blue;">**1. 캘린더 응용1 : 모든 사용자가 일정 작성**</mark>&#x20;
 
 **★ 활용예: 커뮤니티용으로(대학교 과제, 동아리 등) 앱 회원들이 자신의 일정을 작성하여 서로의 일정을 공유합니다.**
 
@@ -156,7 +156,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 해당 권한을 설정해주셔야 합니다. (사용자 외에 다른 그룹을 만들었다면 그룹별로도 적용이 가능합니다)
 
-<mark style="color:orange;">****</mark>
+
 
 ### <mark style="color:blue;">**2. 캘린더 응용2 : 관리자만 일정 작성**</mark>
 
@@ -180,7 +180,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 **\*관리자는 앱에서도 일정 작성이 가능하고, 스윙홈페이지) 앱운영페이지- 게시물관리에서도 웹으로 작성이 가능합니다.**
 
-****
+
 
 <mark style="color:orange;">**응용사례2와 같은 캘린더를 제작하는 방법**</mark>
 
@@ -220,9 +220,9 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 **\*관리자는 앱에서도 일정 작성이 가능하고, 스윙홈페이지) 앱운영페이지- 게시물관리에서도 웹으로 작성이 가능합니다.**
 
-****
 
-&#x20;** **<mark style="color:orange;">**응용사례3과 같은 캘린더를 제작하는 방법**</mark>
+
+&#x20;<mark style="color:orange;">**응용사례3과 같은 캘린더를 제작하는 방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png)
 

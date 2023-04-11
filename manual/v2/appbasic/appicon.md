@@ -164,9 +164,9 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 <mark style="color:red;">\* 따라서 앱 아이콘을 사각형으로 만들거나, 동그랗게 만들거나, 세모로 만들어도!! 아이폰에서는 모든 앱 아이콘 스타일이 라운드형 스타일로 보여지는 것입니다.</mark>
 
-<mark style="color:red;">****</mark>
 
-<mark style="color:blue;">**2)**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:orange;">****<mark style="color:orange;"></mark><mark style="color:blue;">** **</mark><mark style="color:blue;">**안드로이드폰에서 보이는 앱 아이콘 – 안드로이드 11 버전**</mark>
+
+<mark style="color:blue;">**2)**</mark> <mark style="color:blue;">**안드로이드폰에서 보이는 앱 아이콘 – 안드로이드 11 버전**</mark>
 
 ![](../../../.gitbook/assets/영문아이콘\_안드로이드버전1.png)
 
@@ -182,7 +182,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 아이콘은 다르게 보일 수 있다는 점 유념해주세요\~!
 
-****
+
 
 **따라서 어떤 OS플랫폼을 이용하는지에 따라서 앱 아이콘 모양이 달라질 수 있으니, 스윙으로 앱을 운영하시는 분들은 참고하시어 앱 아이콘 제작 및 디자인을 해주세요.**
 

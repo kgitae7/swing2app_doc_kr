@@ -1,6 +1,6 @@
 # 푸시앱, 웹뷰앱 초간단 제작방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **운영중인 홈페이지(웹사이트)가 있다면,**&#x20;
 
@@ -16,9 +16,9 @@
 
 **푸시전용앱, 웹뷰전용 앱을 제작하는 방법을 알려드리겠습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark>
+
 
 ## <mark style="color:blue;">**STEP1.푸시앱 제작하기**</mark>
 
@@ -34,7 +34,7 @@
 
 앱제작 마법사에서 단계별 정보를 입력하면 간단하게 푸시전용앱을 제작할 수 있습니다!
 
-****
+
 
 **1.앱제작마법사 시작하기 팝업에서 – 웹사이트를 기반한 웹앱 스타일을 선택하고 \[다음] 버튼을 선택해주세요.**
 
@@ -187,13 +187,13 @@
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-****
+
 
 ## <mark style="color:blue;">**STEP2.웹뷰 앱제작하기**</mark>
 
-****
+
 
 {% hint style="info" %}
 **웹뷰 앱이란?**
@@ -285,7 +285,7 @@
 
 <mark style="color:red;">\*앱 아이디는 앱의 고유 식별자이며 설정 후에는 변경할 수 없습니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 단계별로 내용을 입력하면 완료됩니다.
 
@@ -305,7 +305,7 @@
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
@@ -403,7 +403,7 @@
 
 **\*웹뷰 기반에서 다른 프로토타입으로 변경해야 할 경우는 앱을 새로 제작해서 만들어주셔야 합니다.**
 
-****
+
 
 **3) 앱 상용화(스토어 출시)가 목적이라면 반드시 유료버전으로 이용해주세요.**
 

@@ -48,7 +48,7 @@ Apple Developer 웹사이트로 이동하여 멤버십 구입이 가능합니다
 
 Apple Developer 웹사이트 이동 후, 화면에 표시된 <mark style="color:blue;">Renew membership</mark> 파란색 버튼을 선택해주세요.
 
-****
+
 
 ### **3. 앱스토어 개발자 계정 로그인**
 

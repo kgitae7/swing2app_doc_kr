@@ -36,13 +36,13 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%801\_20.03.png)
 
-****[**앱운영 페이지 → 서비스관리 → 게시판 관리 페이지**](http://www.swing2app.co.kr/view/board\_edit)**로 이동합니다**.
+[**앱운영 페이지 → 서비스관리 → 게시판 관리 페이지**](http://www.swing2app.co.kr/view/board\_edit)**로 이동합니다**.
 
 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%802\_20.03.png)
 
-게시판 관리 페이지에서  게시판을 새로 만들어야 할 경우는 <mark style="color:blue;">**\[게시판 생성]**</mark>** ** 버튼을 선택하구요.
+게시판 관리 페이지에서  게시판을 새로 만들어야 할 경우는 <mark style="color:blue;">**\[게시판 생성]**</mark> 버튼을 선택하구요.
 
 만들어놓은 게시판이 있을 경우는 **해당 게시판에 있는 **<mark style="color:blue;">**\[설정]**</mark>버튼을 선택합니다.
 
@@ -74,7 +74,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 ## 2. 앱에 게시판 적용하기
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**-앱제작 V3버전 이용시**</mark>
 
@@ -138,13 +138,13 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 따라서 사용자는 게시판에 작성된 작성글 양식에 따라 답변을 작성할 수 있습니다.
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%806\_20.03.png)
 
-<mark style="color:orange;">****</mark>
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_13_20_21_625.gif" alt=""><figcaption></figcaption></figure>
 

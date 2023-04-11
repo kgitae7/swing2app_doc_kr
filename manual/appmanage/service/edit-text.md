@@ -4,7 +4,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 # 엡에 셋팅된 문구(메시지) 수정 방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 앱에서 사용되는 기본 문구는 \*앱운영 – 서비스관리 – 앱 문자열 관리에서 문구를 수정할 수 있습니다.
 
@@ -14,11 +14,11 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 \*한글 문구를 → 영문으로 수정하는 방법, 셋팅된 문구 메시지 내용을 수정하는 방법을 알려드립니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 한글 문구 → 영문으로 수정**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 한글 문구 → 영문으로 수정**
 
-****
+
 
 ### <mark style="color:blue;">**1. 앱 문자열 관리 이동**</mark>
 
@@ -36,11 +36,11 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 앱에 셋팅된 문구는 수없이 많기 때문에 모든 문구를 수정하지 않고 몇개 문구만 수정을 할 경우에는
 
-<mark style="color:red;">**\*컨트롤(control) + F**</mark>** ** 버튼을 누르면 원하는 문구를 검색하여 찾을 수 있습니다!!
+<mark style="color:red;">**\*컨트롤(control) + F**</mark> 버튼을 누르면 원하는 문구를 검색하여 찾을 수 있습니다!!
 
-<mark style="color:red;">**★**</mark> 앱 문구 전체를 수정할 경우 <mark style="color:red;">**\[다운로드]**</mark>** ** 버튼을 눌러서 엑셀파일로 받아주세요.
+<mark style="color:red;">**★**</mark> 앱 문구 전체를 수정할 경우 <mark style="color:red;">**\[다운로드]**</mark> 버튼을 눌러서 엑셀파일로 받아주세요.
 
-내용을 수정한 뒤 저장하고 ** **<mark style="color:red;">**\[업로드]**</mark><mark style="color:red;">로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.</mark>
+내용을 수정한 뒤 저장하고 <mark style="color:red;">**\[업로드]**</mark><mark style="color:red;">로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
@@ -92,11 +92,11 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 \-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**2. 메시지 내용 수정하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**2. 메시지 내용 수정하기**
 
-****
+
 
 ### <mark style="color:blue;">**1. 문자열관리 이동 : 메시지 변경하기**</mark>
 
@@ -157,7 +157,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 {% hint style="danger" %}
 <mark style="color:red;">**\[안내사항]**</mark>
 
-****
+
 
 **앱에서 수정된 문구를 적용하기 위해서는 앱  업데이트가 필요합니다. (업데이트 필수)**
 

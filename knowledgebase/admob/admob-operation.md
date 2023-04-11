@@ -4,7 +4,7 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 # 애드몹 운영 주의사항
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 애드몹 플러그인을 신청한 후 애드몹 광고 운영방법을 숙지해주셔야 합니다.
 
@@ -18,7 +18,7 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 
 
-### ![](<../../.gitbook/assets/image (6).png>) 1. 결제 정보 입력
+### ![](<../../.gitbook/assets/image (6) (1).png>) 1. 결제 정보 입력
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B41-1.png)
 
@@ -46,9 +46,9 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 <mark style="color:red;">따라서 해당 화면에서는 수익을 받을 계좌, 은행 등을 입력하지 않습니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (3).png>) 2. 차단 관리 – 앱 광고 관리
+### ![](<../../.gitbook/assets/image (3) (1).png>) 2. 차단 관리 – 앱 광고 관리
 
 결제 정보 입력이 완료되었다면 광고 게시가 될 수 있도록 \*차단 관리에서 미검토 광고, 차단된 광고가 없는지 확인해주세요.
 
@@ -108,9 +108,9 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 애드몹 주의사항 (앱운영자 확인)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 애드몹 주의사항 (앱운영자 확인)
 
 **1) 애드몹 계정은 한 사람 당 계정 1개만 운영하여 사용할 수 있습니다.**
 
@@ -172,7 +172,7 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 **\*애드몹 셋팅 후에는 광고에 대한 관리는 모두 직접 진행해야 하기 때문에 운영에 대한 부분들은 반드시 사용자가 확인하여 체크해주셔야 합니다.**
 
-****
+
 
 **6)특정 사용자 폰에서 앱 실행횟수가 무분별하게 많거나 or 광고를 클릭한 수가 많을 경우 구글에서 일시적으로 해당 폰에서의 광고 송출을 중단합니다.**
 
@@ -186,9 +186,9 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 4. 안내사항
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 안내사항
 
 <mark style="color:blue;">**-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​**</mark>
 
@@ -238,4 +238,3 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 <mark style="color:red;">-따라서 애드몹 공식 사이트에서 내용을 충분히 숙지해주셔야 합니다.</mark>
 
-<mark style="color:red;"></mark>

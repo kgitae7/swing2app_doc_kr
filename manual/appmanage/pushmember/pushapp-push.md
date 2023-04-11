@@ -22,7 +22,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 푸시 스타일은 폰 기종마다 다르며, <mark style="color:red;">특히 아이폰은 푸시 이미지가 표시되지 않습니다!</mark>
 
-<mark style="color:red;"></mark>
+
 
 ### <mark style="color:blue;">**아이폰) 발송된 푸시 확인**</mark>
 
@@ -32,7 +32,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. **푸시전용앱에서 푸시 발송하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. **푸시전용앱에서 푸시 발송하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
@@ -42,7 +42,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 기본설정
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 기본설정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B2%84%EC%A0%84%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A13.png)
 
@@ -58,7 +58,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 푸시 보내기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 푸시 보내기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B2%84%EC%A0%84%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A1.png)
 
@@ -68,7 +68,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 **2. 메시지 내용**
 
-내용은 너무 길게 입력하지 않도록 해주세요. 글자수가 많으면 짤려서 보입니다. ** **<mark style="color:red;">**\*필수 입력**</mark>
+내용은 너무 길게 입력하지 않도록 해주세요. 글자수가 많으면 짤려서 보입니다. <mark style="color:red;">**\*필수 입력**</mark>
 
 **3. 이미지 등록**
 
@@ -90,9 +90,9 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP4. 푸시 발송 화면(안드로이드폰)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 푸시 발송 화면(안드로이드폰)
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**1.푸시에 웹링크 연결 X**</mark>
 
@@ -118,13 +118,13 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 앱은 종료한 상태에서 푸시를 보내주세요.  (안드로이드폰에서 확인 가능, 아이폰은 앱스토어에 출시한 경우만 확인 가능)
 {% endhint %}
 
-<mark style="color:red;">****</mark>
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP5. 푸시 발송 특이사항(푸시앱)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 푸시 발송 특이사항(푸시앱)
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**1. 링크마법사를 이용할 수 없습니다.**</mark>
 
@@ -148,7 +148,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP6. 테스트 발송
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP6. 테스트 발송
 
 푸시앱 출시 전, 혹은 출시 후 푸시가 잘 발송되는지 먼저 테스트 해보고 싶다면?
 
@@ -168,10 +168,9 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 푸시 장치 관리는 새롭게 추가된 기능으로 **\[푸시 장치 관리] 기능을 이용하여 테스트 기기 등록을 한 뒤, 푸시발송하기에서 테스트 발송하기로 푸시 테스트를 이용할 수 있습니다.**
 
-\*[**\[푸시 장치 관리- 테스트 푸시 발송 매뉴얼\]**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/pushtest)****
+\*[**\[푸시 장치 관리- 테스트 푸시 발송 매뉴얼\]**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/pushtest)
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-****

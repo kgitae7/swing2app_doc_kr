@@ -2,7 +2,7 @@
 
 **플레이스토어 비공개 앱출시 방법(알파 테스트 출시)**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**알파 출시란?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**알파 출시란?**</mark>
 
 플레이스토어 공식 출시가 아닌 , 비공개로 앱을 출시하여 관리자가 등록한 사용자들만 앱을 이용할 수 있게 하는 프로그램입니다.
 
@@ -38,7 +38,7 @@
 
 <mark style="color:orange;">**비공개 앱 출시는 해당 단계에서부터 주의해서 확인해주세요!! 일반 프로덕션 출시와는 다릅니다.**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**1. 비공개 트랙 – 알파 선택**</mark>
 

@@ -60,7 +60,7 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## 3. 앱 실행화면) 일괄 등록 게시물 확인하기 <mark style="color:blue;">****</mark>&#x20;
+## 3. 앱 실행화면) 일괄 등록 게시물 확인하기&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D2\_20.06.png)
 

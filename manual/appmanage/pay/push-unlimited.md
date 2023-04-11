@@ -4,7 +4,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 # 푸시 무제한 유료앱
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**푸시전용 무제한 유료앱이란?**
 
@@ -20,7 +20,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 **매월 내야 하는 유료앱 이용료 비용이 부담이 되는 경우, 오랜 기간 앱을 이용해야 할 때 부담없이 앱을 무제한으로 사용할 수 있습니다.**&#x20;
 
-****
+
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**프로토타입 : 푸시 란?**
 
@@ -32,9 +32,9 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 또한 푸시앱은 앱을 설치한 사용자들에게 푸시 메시지를 발송할 수 있습니다. \*푸시도 무제한 발송됩니다. &#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** ​**STEP1. 푸시앱 제작방법**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ​**STEP1. 푸시앱 제작방법**
 
 <figure><img src="../../../.gitbook/assets/V3푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 **\*푸시, 웹뷰로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인할 수 없어요\~)**
 
-****[**제작한 앱을 설치하여 안드로이드폰으로 다운받는 방법**](https://documentation.swing2app.co.kr/manual/appoperation/appinstall)****
+[**제작한 앱을 설치하여 안드로이드폰으로 다운받는 방법**](https://documentation.swing2app.co.kr/manual/appoperation/appinstall)
 
 
 
@@ -52,9 +52,9 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 제작 및 운영은 별도 비용이 없이 무료로 가능하오니, 먼저 무료로 앱을 제작해서 만들어보시고 테스트해주세요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 푸시전용 무제한 유료앱 구매 및 이용방법
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 푸시전용 무제한 유료앱 구매 및 이용방법
 
 제작한 앱 확인 후 문제가 없으면 스윙 푸시전용 무제한  상품을 구매할 수 있습니다.
 
@@ -86,7 +86,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 **1시간\~2시간 이내로 개발팀에서 별도로 처리 후 메일드립니다. (바로 적용되지 않아요!)**
 
-****
+
 
 4\) 완료 메일을 받은 뒤 푸시전용 무제한이 적용된 새 버전의 앱을 플레이스토어, 앱스토어에 등록할 수 있습니다.&#x20;
 
@@ -94,9 +94,9 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 \*기존 앱이 출시된 사용자는 스토어에 다시 업데이트하여 재출시 해야 합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
+## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
 
 플레이스토어, 앱스토어 등 출시를 원하는 스토어에 업로드 신청을 해주세요.&#x20;
 
@@ -138,7 +138,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP4**. 푸시 무제한 유료앱 이용시 주의사항
 
@@ -180,7 +180,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 앱 이전에 필요한 정보에 대해 안내드립니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP5**. 환불안내
 

@@ -96,7 +96,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 &#x20;
 
-#### &#x20;** **<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면 – 슬라이드UI 적용**</mark>
+#### &#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면 – 슬라이드UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C.png)
 
@@ -127,7 +127,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 &#x20;
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면 – 탑 UI 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면 – 탑 UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%83%91.png)
 
@@ -147,7 +147,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 탑 프로토타입과 반대로, 하단에 메뉴가 위치하고 있으며 메뉴를 선택하면 하위 메뉴들이 열립니다.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면 – 푸터 UI 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면 – 푸터 UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%91%B8%ED%84%B0.png)
 
@@ -169,7 +169,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 여러 메뉴 및 카테고리를 구성할 수 있기 때문에 앱에 많은 메뉴를 넣어야 할 때 유용하게 사용할 수 있습니다.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면 – 드롭다운리스트 UI 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면 – 드롭다운리스트 UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4%EB%A6%AC%EC%8A%A4%ED%81%AC.png)
 
@@ -190,7 +190,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 **메뉴를 선택하면, 박스 모양의 정사각형 하위 메뉴들이 열리는 스타일입니다.**\
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면 – 드롭다운 박스 UI 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면 – 드롭다운 박스 UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4%EB%B0%95%EC%8A%A4.png)
 
@@ -212,7 +212,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 푸시는 메시지 수, 사용자 수 제한 없이 자유롭게 보낼 수 있으며 앱 설치시 하단 툴바가 생성됩니다.
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면 – 푸시 UI 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면 – 푸시 UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%91%B8%EC%8B%9C.png)
 
@@ -220,7 +220,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 하단 푸시 설정 버튼을 누르면 푸시 알림을 끄거나 켤 수 있습니다.
 
-<mark style="color:red;">**★**</mark>** ** [**\[푸시앱 제작 매뉴얼 보러가기\]**](../appbasic/pushapp.md)
+<mark style="color:red;">**★**</mark> [**\[푸시앱 제작 매뉴얼 보러가기\]**](../appbasic/pushapp.md)
 
 ***
 
@@ -240,7 +240,7 @@ BUT, 스윙투앱 플러그인 이용권 – 웹뷰 무제한 유료앱, 푸시 
 
 &#x20;
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면 – 웹뷰 UI 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면 – 웹뷰 UI 적용**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%EB%B7%B0-1.png)
 

@@ -4,7 +4,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 # 웹뷰 무제한 유료앱
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**웹뷰 무제한 유료앱이란?**
 
@@ -35,7 +35,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 **매 월 내야 하는 유료앱 이용료 비용이 부담이 되는 경우, 오랜 기간 앱을 이용해야 할 때 부담없이 앱을 무제한으로 사용할 수 있습니다.** \
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP1. 웹뷰앱 제작방법**
 
@@ -49,11 +49,11 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 <mark style="color:orange;">(아이폰은 웹뷰버전 앱 확인할 수 없습니다.)</mark>
 
-****[**제작한 앱을 설치하여 안드로이드폰으로 다운받는 방법**](https://documentation.swing2app.co.kr/manual/appoperation/appinstall)****
+[**제작한 앱을 설치하여 안드로이드폰으로 다운받는 방법**](https://documentation.swing2app.co.kr/manual/appoperation/appinstall)
 
-<mark style="color:orange;">****</mark>
 
-&#x20;** **<mark style="color:blue;">**웹뷰앱 특징**</mark>
+
+&#x20;<mark style="color:blue;">**웹뷰앱 특징**</mark>
 
 \-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
@@ -61,7 +61,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 \-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP**2. 웹뷰 무제한 유료앱 구매 및 이용방법
 
@@ -91,13 +91,13 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 <mark style="color:red;">상품 구매를 선택하면 이용에 관련된 상세 내용을 확인할 수 있어요,  결제 전 반드시 내용을 확인한 뒤에 구매하기를 진행해주세요.</mark>
 
-<mark style="color:red;"></mark>
+
 
 3\) 구매가 완료되면 개발팀에서 웹뷰 무제한 유료앱을 적용한 내용으로 사용자의 앱을 새 버전으로 다시 제작해드립니다.&#x20;
 
 **1시간\~2시간 이내로 개발팀에서 별도로 처리 후 메일드립니다. (바로 적용되지 않아요!)**
 
-****
+
 
 4\) 완료 메일을 받은 뒤 웹뷰 무제한이 적용된 새 버전의 앱을 플레이스토어, 앱스토어에 등록할 수 있습니다.&#x20;
 
@@ -105,7 +105,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 \*기존 앱이 출시된 사용자는 스토어에 다시 업데이트하여 재출시 해야 합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
 
@@ -143,7 +143,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 \*각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다. &#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP4**. 웹뷰 무제한 유료앱 이용시 주의사항
 
@@ -187,7 +187,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 앱 이전에 필요한 정보에 대해 안내드립니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP5**. 환불안내
 

@@ -20,7 +20,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 실물상품 판매 : 주문관리**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 실물상품 판매 : 주문관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC.png)
 
@@ -30,7 +30,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC2\_19.08.png)
 
-주문리스트에서 ** **<mark style="color:green;">**‘주문ID’**</mark>** ** 를 선택하면, 사용자의 주문정보 팝업을 확인할 수 있습니다.&#x20;
+주문리스트에서 <mark style="color:green;">**‘주문ID’**</mark> 를 선택하면, 사용자의 주문정보 팝업을 확인할 수 있습니다.&#x20;
 
 
 
@@ -50,7 +50,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 디지털 상품 판매 : 디지털 주문관리**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 디지털 상품 판매 : 디지털 주문관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC.png)
 
@@ -64,7 +64,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 예약상품 판매 : 예약주문관리**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 예약상품 판매 : 예약주문관리**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png)
 
@@ -80,11 +80,11 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 
 **\*캘린더에서 예약건을 선택하면 주문 목록을 확인할 수 있습니다.**
 
-<mark style="color:green;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC2\_19.08.png)
 
-주문리스트에서 ** **<mark style="color:green;">**‘주문ID’**</mark>를 선택하면, 사용자의 주문정보 팝업을 확인할 수 있습니다.
+주문리스트에서 <mark style="color:green;">**‘주문ID’**</mark>를 선택하면, 사용자의 주문정보 팝업을 확인할 수 있습니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC1\_19.09.png)
 
@@ -95,7 +95,7 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 {% hint style="warning" %}
 <mark style="color:orange;">**안내사항**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 **1) 스윙샵 앱제작 상품 유형에 따라서, 주문관리 페이지는 각각 따로 운영됩니다.**
 
@@ -114,4 +114,3 @@ description: 스윙샵 – 주문관리에서 주문된 상품들의 목록을 �
 따라서 주문관리: 주문정보 기능은 스윙샵을 이용하고 실제 상품을 판매 운영하는 분들에 한해서 이용할 수 있습니다.
 {% endhint %}
 
-<mark style="color:orange;">****</mark>

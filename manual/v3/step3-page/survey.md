@@ -18,7 +18,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 가장 먼저 앱운영페이지에서 설문조사지를 만들어주세요.
 
-****
+
 
 **1. 설문관리 메뉴 이동**
 
@@ -102,7 +102,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2.설문조사 앱적용하기**&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2.설문조사 앱적용하기**&#x20;
 
 앱운영에서 설문조사를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
 
@@ -246,7 +246,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 **\*참여 인원을 선택하면 설문조사에 참여한 회원정보를 확인할 수 있으며, 회원을 선택하면 설문 결과 확인이 가능합니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW4.png)
 
@@ -276,7 +276,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 **설문조사 만들기, 앱에서 설문 참여하기 상세 내용은 아래 매뉴얼을 꼭\~ 확인해주세요!**
 
-**☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](../../appmanage/service/survey.md)****
+**☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](../../appmanage/service/survey.md)
 
 
 
@@ -314,8 +314,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 <summary></summary>
 
-****
+
 
 </details>
 
-****

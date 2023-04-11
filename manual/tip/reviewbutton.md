@@ -4,13 +4,13 @@
 
 **앱 리뷰버튼 활성화 기능 이용방법**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 리뷰 버튼 이용방법 영상으로 확인하기**</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 리뷰 버튼 이용방법 영상으로 확인하기**</mark>&#x20;
 
 {% embed url="https://youtu.be/gjWAIMpMZBg" %}
 
-<mark style="background-color:blue;">****</mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**리뷰 버튼이란?**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**리뷰 버튼이란?**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%A6%AC%EB%B7%B0%EC%B0%BD.png)
 
@@ -28,7 +28,7 @@
 
 ***
 
-### <mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**앱 실행화면 : 리뷰 버튼**</mark>
+### <mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 실행화면 : 리뷰 버튼**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%A6%AC%EB%B7%B0%EC%B0%BD2.png)
 
@@ -74,7 +74,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%AC%B8%EA%B5%AC%EC%88%98%EC%A0%95.gif)
 
-****
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면: 수정된 리뷰 메시지**</mark>&#x20;
 
@@ -82,7 +82,7 @@
 
 문자열 관리 이용방법은 해당 매뉴얼을 참고해주세요.
 
-**☞** [**\[앱에 셋팅된 문구 수정방법\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/edit-text/)****
+**☞** [**\[앱에 셋팅된 문구 수정방법\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/edit-text/)
 
 ***
 

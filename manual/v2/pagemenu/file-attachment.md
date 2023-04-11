@@ -20,7 +20,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱에 파일첨부 적용하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱에 파일첨부 적용하기**</mark>
 
 ​
 
@@ -64,11 +64,11 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 확인하기: PDF파일 첨부 확인**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 확인하기: PDF파일 첨부 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%85%B9%ED%99%94\_2020\_07\_09\_13\_33\_07\_964.gif)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**이미지 파일 첨부 확인**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**이미지 파일 첨부 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%85%B9%ED%99%94\_2020\_07\_09\_15\_13\_15\_146.gif)
 

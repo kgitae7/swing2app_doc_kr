@@ -12,7 +12,7 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](<../../.gitbook/assets/image (2) (1).png>) **1. 예약주문관리 페이지**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **1. 예약주문관리 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png)
 
@@ -64,7 +64,7 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 **\[주문상태]에서 상태를 ‘환불완료‘으로 변경해보겠습니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC5.png)
 

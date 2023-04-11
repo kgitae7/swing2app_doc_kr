@@ -18,9 +18,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW10.png)
 
-****[**앱운영→ 서비스관리 → 정책관리 → 회원가입 양식**](http://www.swing2app.co.kr/view/app\_policy) **메뉴로 이동합니다.**
+[**앱운영→ 서비스관리 → 정책관리 → 회원가입 양식**](http://www.swing2app.co.kr/view/app\_policy) **메뉴로 이동합니다.**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**1.  아이디 형태**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1.  아이디 형태**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW11.png)
 
@@ -34,7 +34,7 @@
 
 <mark style="color:purple;">전화번호를 선택하기 위해서는 스윙 유료상품: 1,000건 SMS발송 상품(20,000원)을 구매해야 이용할 수 있어요.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:red;">**★중요 안내**</mark>
 
@@ -48,7 +48,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행 화면**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면**</mark>
 
 아이디 형태에 따라 앱실행화면- 회원가입 화면이 어떻게 다른지 확인해볼게요.
 
@@ -58,7 +58,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D8.png)
 
-<mark style="color:purple;">****</mark>
+
 
 <mark style="color:purple;">**2) 아이디 형태: 일반 아이디**</mark>
 
@@ -66,7 +66,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D7.png)
 
-****
+
 
 <mark style="color:purple;">**3) 아이디 형태: 전화번호**</mark>
 
@@ -74,13 +74,13 @@
 
 전화번호는 입력한 번호로 인증번호를 받도록 합니다.
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:red;">**★전화번호 아이디는 위에서 설명했듯이!**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/2df5a0567da835ab1e3a62868b47e003.png)
 
-****[**스윙 결제 페이지에서 스윙유료상품: 1000건 SMS메시지발송 상품을 구매**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)해야 전화번호 아이디를 선택할 수 있습니다.
+[**스윙 결제 페이지에서 스윙유료상품: 1000건 SMS메시지발송 상품을 구매**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)해야 전화번호 아이디를 선택할 수 있습니다.
 
 상품 결제가 안되어 있으면 전화번호 선택이 안됩니다.
 
@@ -108,7 +108,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**회원가입 내에 항목을 추가하는 방법을 움짤로 확인해주세요!!**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**회원가입 내에 항목을 추가하는 방법을 움짤로 확인해주세요!!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif)
 
@@ -124,7 +124,7 @@
 >
 > **예를 들어 결혼기념일의 경우, 항목명칭은 결혼기념일로 입력, 답변입력UI형태는 날짜를 선택하시면 됩니다.**
 
-****
+
 
 <mark style="color:purple;">**\[답변입력UI 항목]**</mark>
 
@@ -175,7 +175,7 @@
 
 <mark style="color:orange;">**3) 문장 작성 UI (단문작성)**</mark>
 
-&#x20;****&#x20;
+&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png)
 

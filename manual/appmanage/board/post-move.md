@@ -12,7 +12,7 @@ description: 게시물을 선택하여, 다른 게시판으로 글을 이동하�
 
 
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**게시물 복사와 게시물 이동의 차이점**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 복사와 게시물 이동의 차이점**</mark>
 
 <mark style="background-color:blue;">​</mark>**게시물 복사**
 
@@ -34,7 +34,7 @@ description: 게시물을 선택하여, 다른 게시판으로 글을 이동하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>)**게시글 이동 이용방법**
+## ![](<../../../.gitbook/assets/image (2) (1).png>)**게시글 이동 이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png)
 
@@ -66,4 +66,3 @@ description: 게시물을 선택하여, 다른 게시판으로 글을 이동하�
 
 해당 게시판으로 이동시, 선택한 게시글이 이동된 것을 확인할 수 있습니다.
 
-****

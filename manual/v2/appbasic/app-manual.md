@@ -30,7 +30,7 @@
 
 {% embed url="https://youtu.be/69fXQ7Troa0" %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.1 앱 기본정보**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 기본정보**</mark>
 
 **1단계 \[앱 기본정보]는 앱작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
 
@@ -66,7 +66,7 @@
 
 **사이즈가 달라서 편집이 필요할 경우 이미지편집도구 창으로 이동합니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_05.png)
 
@@ -80,7 +80,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.2 디자인테마**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 디자인테마**</mark>
 
 **앱제작 2단계 \[디자인테마]는 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
 
@@ -122,9 +122,9 @@
 
 <mark style="color:orange;">**\*디자인테마에서 프로토타입과 스킨컬러를 모두 적용했다면 저장하신 뒤 다음단계인 페이지메뉴로 이동합니다.**</mark>
 
-<mark style="color:orange;">****</mark>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.3 페이지메뉴**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 페이지메뉴**</mark>
 
 **3단계 \[페이지메뉴]는 앞서 만들어놓은 전체적인 앱 툴에 카테고리와 메뉴를 만들어서 본격적으로 앱 내용을 구성하는 단계입니다.**
 
@@ -268,7 +268,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.4 앱제작 요청**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱제작 요청**</mark>
 
 **앱제작이 완료되면 \[앱제작 요청]버튼을 눌러주세요.**
 
@@ -280,7 +280,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.5 앱제작 완료**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.5 앱제작 완료**</mark>
 
 <mark style="color:orange;">**1. 앱 제작 진행상태 확인**</mark>
 

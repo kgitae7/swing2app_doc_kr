@@ -18,13 +18,13 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark>** STEP1. 비밀게시판 만들기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP1. 비밀게시판 만들기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B0\_19.09-1.png)
 
 1\. [앱운영 페이지 → 서비스관리→ 게시판관리](https://www.swing2app.co.kr/view/board\_edit) 이동합니다.
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%902\_19.10.png)
 
@@ -84,9 +84,9 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 ***
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 앱에 만들어놓은 게시판 적용하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 만들어놓은 게시판 적용하기
 
-****
+
 
 **비밀게시판을 만들었다면, 앱에 적용해야 하겠죠?**
 
@@ -112,7 +112,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-****
+
 
 ### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
 
@@ -138,13 +138,13 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP3.  앱 실행화면- 1:1 고객센터
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP3.  앱 실행화면- 1:1 고객센터
 
 앱을 실행해서 1:1고객센터(비밀게시판)이 어떻게 운영되는지 확인해볼게요.
 
 1: 1 문의게시판에서는 사용자 본인이 쓴 글은 확인 할 수 있구요.
 
-****
+
 
 ### <mark style="color:blue;">**1.앱 관리자 접속**</mark>
 

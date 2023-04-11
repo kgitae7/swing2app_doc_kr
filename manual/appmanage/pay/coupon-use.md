@@ -70,7 +70,7 @@
 
 **\***[**결제 → 내결제 현황**](http://www.swing2app.co.kr/view/payment\_list)**으로 이동하시면, 쿠폰으로 받은 이용권을 확인할 수 있습니다.**&#x20;
 
-****
+
 
 <mark style="color:red;">**\[주의사항]**</mark>
 

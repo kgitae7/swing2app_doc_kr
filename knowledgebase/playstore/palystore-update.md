@@ -4,9 +4,9 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 # 플레이스토어 앱 업데이트
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **** STEP1. 새 버전의 AAB파일 업데이트
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP1. 새 버전의 AAB파일 업데이트
 
 \*구글 플레이 콘솔: [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
@@ -44,7 +44,7 @@ AAB파일로 등록 및 출시 후 업데이트를 한다면 **→** AAB파일�
 <mark style="color:blue;">\*3단계 페이지 메뉴는 내용 입력 후 저장만 하면 앱 자동 반영되오니 제작 다시 할 필요 없고 업데이트 하실 필요 없습니다.</mark>
 {% endhint %}
 
-<mark style="color:red;">****</mark>
+
 
 
 
@@ -56,7 +56,7 @@ AAB파일로 등록 및 출시 후 업데이트를 한다면 **→** AAB파일�
 
 &#x20;<mark style="color:red;">\*구글 플레이 콘솔은 인터넷 브라우저 Chrome 으로 이용해주세요.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 ### <mark style="color:blue;">**2.프로덕션 → 새 버전 만들기**</mark>&#x20;
 
@@ -64,7 +64,7 @@ AAB파일로 등록 및 출시 후 업데이트를 한다면 **→** AAB파일�
 
 **콘솔 사이트 왼쪽 메뉴 **<mark style="color:green;">**1) \[프로덕션] 선택 → 2)\[새 버전 만들기]**</mark>** 버튼을 선택합니다.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**3.프로덕션 버전 만들기 – AAB파일 \[업로드] 하기**</mark>
 
@@ -110,13 +110,13 @@ AAB파일로 등록 및 출시 후 업데이트를 한다면 **→** AAB파일�
 따로 파일을 저장하여 불러오는 것보다 보다 편하게 작업 하실 수 있겠죠?^^
 {% endhint %}
 
-### <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:blue;">4.AAB파일 업로드 완료</mark>
+### &#x20;<mark style="color:blue;">4.AAB파일 업로드 완료</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82-1.png)
 
 AAB파일을 다 올리면 하단의 저장 , 검토버튼이 활성화됩니다.
 
-<mark style="color:blue;">**1)저장 → 2)버전검토 선택**</mark>** **<mark style="color:green;">****</mark>&#x20;
+<mark style="color:blue;">**1)저장 → 2)버전검토 선택**</mark>&#x20;
 
 <mark style="color:red;">\*’이번 버전의 새로운 기능(출시노트)’은 새로 업데이트 된 내용을 작성하는 칸입니다.</mark>&#x20;
 
@@ -174,9 +174,9 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 구글에서 받은 거절 메일 확인하셔서 조치사항대로 처리해주셔야 합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP2. 스토어 등록정보 수정하여 업데이트하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP2. 스토어 등록정보 수정하여 업데이트하기
 
 이어서 스토어 등록정보를 수정하여 업데이트 하는 방법을 알려드릴거에요!!
 
@@ -204,7 +204,7 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84new.png)
 
-수정을 하면 화면 하단에 안보였던 ** **<mark style="color:blue;">**\[저장]**</mark>** 버튼**이 파란색으로 바뀌면서 활성화됩니다.
+수정을 하면 화면 하단에 안보였던 <mark style="color:blue;">**\[저장]**</mark>** 버튼**이 파란색으로 바뀌면서 활성화됩니다.
 
 해당 버튼을 누르면 업데이트가 진행됩니다.
 
@@ -214,9 +214,9 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 심사가 완료되면 업데이트된 버전으로 스토어 정보가 바뀌게 됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP3. 스토어 설정
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP3. 스토어 설정
 
 앱 카테고리, 연락처 수정은 스토어 설정에서 수정 가능합니다.&#x20;
 
@@ -226,9 +226,9 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 <mark style="color:red;">**\*스토어 설정 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP4. 앱 콘텐츠 수정 <mark style="color:blue;">****</mark>&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP4. 앱 콘텐츠 수정&#x20;
 
 개인정보 처리방침 링크 수정, 광고 여부 수정, 콘텐츠(카테고리 수정), 타켓 수정은 \[앱 콘텐츠]페이지에서 수정가능합니다.
 
@@ -246,11 +246,11 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 <mark style="color:red;">**\*앱 콘텐츠 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">****</mark> STEP5. 플레이스토어 앱업데이트 안내사항
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP5. 플레이스토어 앱업데이트 안내사항
 
-****
+
 
 **1.플레이스토어에 출시된 앱은 자유롭게 업데이트가 가능합니다. (제한이 있지 않아요!)**
 
@@ -260,7 +260,7 @@ AAB파일 저장이 완료되면, 다시 하단에 \[프로덕션 트랙으로 �
 
 **2.안드로이드폰에서는 플레이스토어에서 다운 받은 앱이 업데이트 되어도, 앱 실행시 업데이트 안내 창이 뜨지 않을 수 있습니다.**
 
-****
+
 
 **3. 플레이스토어에 앱 업데이트가 완료되어도, 안드로이드폰마다 업데이트 되는 시간이 다릅니다.**
 

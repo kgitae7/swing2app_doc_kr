@@ -12,9 +12,9 @@
 
 ***
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**구글 플레이 콘솔 사이트 접속**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**구글 플레이 콘솔 사이트 접속**</mark>
 
-**☞** [**구글 플레이 콘솔 사이트 이동**](https://play.google.com/console/developers) ****&#x20;
+**☞** [**구글 플레이 콘솔 사이트 이동**](https://play.google.com/console/developers)&#x20;
 
 <mark style="color:orange;">**\*\*리뷰는 플레이스토어 앱에서 확인이 가능하지만, 리뷰에 대한 답글 작성은 구글 플레이 콘솔 사이트에서만 이용 가능합니다**</mark>
 
@@ -24,7 +24,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**평점 및 리뷰**</mark>&#x20;
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**평점 및 리뷰**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B05\_new.png)
 

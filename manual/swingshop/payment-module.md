@@ -16,7 +16,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**결제모듈관리 페이지 이동**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**결제모듈관리 페이지 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88\_20.04.png)
 
@@ -24,7 +24,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 결제모듈 페이지는 스윙샵에서 제공하는 결제수단을 설정할 수 있는 페이지입니다.
 
-<mark style="color:purple;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804\_20.04.png)
 
@@ -44,7 +44,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](<../../.gitbook/assets/image (2) (1).png>) **1. 페이앱**
+### ![](<../../.gitbook/assets/image (2) (1).png>) **1. 페이앱**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%882\_20.04.png)
 
@@ -70,15 +70,15 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 **페이앱 가입은 사용자분이 직접 페이앱 공식 홈페이지에서 판매점으로 가입해주시면 됩니다.**&#x20;
 
-**☞**[**\[스윙샵 서비스 신청방법 보러가기\]**](apply.md)****
+**☞**[**\[스윙샵 서비스 신청방법 보러가기\]**](apply.md)
 
 &#x20;판매점 승인이 완료되면 페이앱 계정을 앱에 연결할 수 있구요.&#x20;
 
 실제 결제가 가능해집니다. \*페이앱 API적용 완료
 
-<mark style="color:orange;">****</mark>
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱 실행화면: 페이앱 결제화면**
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱 실행화면: 페이앱 결제화면**
 
 ![](../../.gitbook/assets/결제모듈\_22.08.png)
 
@@ -112,7 +112,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱 실행화면: 무통장입금 결제화면**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱 실행화면: 무통장입금 결제화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8810\_20.04.png)
 
@@ -138,7 +138,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ​
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**앱 실행화면: 현장결제 화면**
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">**앱 실행화면: 현장결제 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802\_20.04.png)
 
@@ -188,7 +188,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ​
 
-****[**\[카카오페이 가맹점 신청\]**](http://with.kakao.com/kakaopay/index)****
+[**\[카카오페이 가맹점 신청\]**](http://with.kakao.com/kakaopay/index)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%885.png)
 
@@ -206,7 +206,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 **스윙샵에서 원하는 결제수단을 선택해서 이용할 때는 결제모듈 페이지에서 설정해주시기 바랍니다.**
 
-<mark style="color:red;">****</mark>
+
 
 **\*결제수단별 앱 실행화면 상세 내용은 아래 매뉴을 참고해주세요!**
 

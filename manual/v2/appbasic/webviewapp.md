@@ -30,7 +30,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP.1 웹뷰앱 제작**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 웹뷰앱 제작**</mark>
 
 <mark style="color:orange;">**1단계 앱 기본정보**</mark>
 
@@ -100,7 +100,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**웹뷰앱 제작 영상으로 확인하기**</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**웹뷰앱 제작 영상으로 확인하기**</mark>&#x20;
 
 {% embed url="https://youtu.be/OO2ZcMKS0l8" %}
 
@@ -156,9 +156,9 @@
 
 <mark style="color:red;">\*웹뷰앱은 안드로이드폰에서만 이용 가능해요. (아이폰은 이용불가)</mark>
 
-<mark style="color:red;"></mark>
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/06/%EB%85%B9%ED%99%94\_2020\_09\_01\_17\_44\_17\_212.gif)
 
@@ -208,7 +208,7 @@
 
 <mark style="color:green;">**or**</mark>
 
-****
+
 
 <mark style="color:orange;">**2.장기이용: 웹뷰 무제한 유료앱 (한 번 결제시 기간 제한이 없이 무제한 이용 가능)**</mark>
 
@@ -216,7 +216,7 @@
 
 **1) 구매 상품 안내**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**웹뷰 무제한 유료앱 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:purple;">**웹뷰 무제한 유료앱 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**</mark>
 
 웹뷰앱으로 이용기간 제한 없이 계속 이용하길 원하시면, 스윙 플러그인 구매 페이지 에서 ‘웹뷰무제한 유료앱’ 상품이 있습니다.
 
@@ -232,7 +232,7 @@
 >
 > <mark style="color:purple;">**3)플레이스토어만 출시한다면 → 웹뷰 무제한 플러그인(안드로이드) 99,000원**</mark>
 
-****
+
 
 **2) 추천**
 
@@ -310,7 +310,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) ** **<mark style="color:blue;">**STEP.5 스토어 출시 완료 (심사 후 출시)**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**STEP.5 스토어 출시 완료 (심사 후 출시)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/06/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%843.png)
 
@@ -328,7 +328,7 @@
 
 **-심사가 거절될 경우 거절 사유 및 조치사항 안내드리면 재심사는 업로드 티켓 비용 추가 없이 해드립니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/06/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%844.png)
 
@@ -350,9 +350,9 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**주의사항 및 웹뷰앱 제작 Q\&A**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**주의사항 및 웹뷰앱 제작 Q\&A**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 **Q.웹뷰앱은 앱스토어, 플레이스토어에 출시가 어렵다고 하는데 맞나요?**
 
@@ -404,7 +404,7 @@
 
 따라서 **도메인 등록 정보로 내가 만든 사이트 임을 입증할 수 있는 홈페이지, 회사에서 만든다면 사업자등록증으로 증명할 수 있는 웹사이트(홈페이지)를 적용해주셔야 합니다.**
 
-****
+
 
 **Q. 웹뷰앱은 푸시는 못 보내나요?**
 
@@ -412,7 +412,7 @@
 
 <mark style="color:purple;">푸시 발송이 필요하면 웹뷰 앱이 아닌 푸시버전앱으로 제작해주셔야 합니다.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. 직접 만드는게 어려운데 개발비를 낸다면, 위의 과정을 스윙투앱에서 다 대행해줄 수 있나요?**
 
@@ -444,7 +444,7 @@
 
 <mark style="color:purple;">단, 웹뷰 무제한 상품을 이용하는 사용자분은 변경이 안됩니다.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. 웹뷰앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
 
@@ -466,7 +466,7 @@
 
 <mark style="color:purple;">\*웹뷰 기반에서 다른 프로토타입으로 변경해야 할 경우는 앱을 새로 제작해서 만들어주셔야 합니다.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. 기본형 이용권을 쓰다가 웹뷰 무제한 플러그인으로 변경할 수 있나요?**
 

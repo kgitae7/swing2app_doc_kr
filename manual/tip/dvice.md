@@ -56,7 +56,7 @@
 
 <mark style="color:red;">-landscape (가로)</mark>
 
-<mark style="color:red;"></mark>
+
 
 > **\*가로-세로 복합: 화면이 세로, 가로 자유롭게 회전이 가능합니다.**
 >
@@ -90,7 +90,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**핸드폰 설정- 자동 회전(자동화면전환) 체크**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**핸드폰 설정- 자동 회전(자동화면전환) 체크**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EB%AA%A8%EB%93%9C3.png)
 

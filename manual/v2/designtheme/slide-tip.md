@@ -72,7 +72,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_01\_17\_25\_27\_983.gif)
 

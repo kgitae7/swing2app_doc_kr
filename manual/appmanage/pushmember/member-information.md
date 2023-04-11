@@ -4,9 +4,9 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 # 회원조회 - 회원정보 확인
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-****[**앱운영 페이지 → 푸시&회원 → 회원조회** ](http://www.swing2app.co.kr/view/member\_list)페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
+[**앱운영 페이지 → 푸시&회원 → 회원조회** ](http://www.swing2app.co.kr/view/member\_list)페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
 
 특히 앱 회원가입 양식에 여러 항목을 추가한 경우 (**\*예: 전화번호, 주소, 성별, 이메일주소 등**)
 
@@ -14,9 +14,9 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 이번 매뉴얼에서는 회원 조회 페이지에서 회원 상세 정보를 확인하는 방법 과 그외 회원정보 메뉴를 이용하는 방법을 알려드리겠습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 회원조회 페이지&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 회원조회 페이지&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -100,7 +100,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 해당 내용은 앱 가입시 입력한 회원 정보(답변)를 확인할 수 있습니다
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**앱 실행화면: 회원가입 양식(정보 입력 항목)**</mark>
 
@@ -118,7 +118,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 [set-membershipform.md](../service/set-membershipform.md)
 {% endcontent-ref %}
 
-****
+
 
 **회원정보에서 제공되는\[포인트 관리]는 \*\*커스터마이징이 된 앱에서만 이용할 수 있는 기능이에요.**
 

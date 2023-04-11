@@ -12,7 +12,7 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 ***
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 스탬프 완료시 쿠폰발행이란?
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 스탬프 완료시 쿠폰발행이란?
 
 스탬프 상세설정에 새롭게 추가된 기능이구요.(2019.03.27)
 
@@ -26,7 +26,7 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 이용방법
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 이용방법
 
 스탬프를 만드는 전체과정은 해당 매뉴얼을 참고해주시기 바랍니다.
 
@@ -104,7 +104,7 @@ or
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_28\_14\_15\_58\_592.gif)
 
@@ -114,7 +114,7 @@ or
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B02.png)
 
-관리자가 설정한 갯수만큼 스탬프 **** 등록이 완료되면, 스탬프가 모두 리셋(사라지며)되면서 쿠폰이 발행되었다는 팝업창이 뜹니다.
+관리자가 설정한 갯수만큼 스탬프 등록이 완료되면, 스탬프가 모두 리셋(사라지며)되면서 쿠폰이 발행되었다는 팝업창이 뜹니다.
 
 확인을 선택하면 사용자가 발급받은 쿠폰 목록을 확인할 수 있습니다.
 

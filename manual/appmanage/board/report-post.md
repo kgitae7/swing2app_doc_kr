@@ -16,7 +16,7 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 ***
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 신고하기
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 신고하기
 
 <figure><img src="../../../.gitbook/assets/게시판관리자1.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](<../../../.gitbook/assets/image (2) (1).png>)2. 관리자 신고글 삭제 or 신고 취소하기
+## ![](<../../../.gitbook/assets/image (2) (1).png>)2. 관리자 신고글 삭제 or 신고 취소하기
 
 사용자가 신고 했다면, 관리자는 신고글을 확인하여 글을 삭제할 것인지 유지할 것인지 관리할 수 있어야 하겠죠?
 

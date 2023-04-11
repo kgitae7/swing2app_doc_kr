@@ -17,7 +17,7 @@ description: 무료버전앱이 핸드폰에 설치가 안될 때 확인해주�
 
 2\)스윙 미리보기 어플을 이용하여 앱 다운로드
 
-**☞** [**설치방법 상세보기**](https://documentation.swing2app.co.kr/manual/swingpreview)****
+**☞** [**설치방법 상세보기**](https://documentation.swing2app.co.kr/manual/swingpreview)
 {% endhint %}
 
 그런데 앱 설치 방법대로 진행을 해도, 앱을 설치하는 과정에서 오류가 나거나 앱이 제대로 설치되지 않는다는 분들도 있어요.
@@ -32,9 +32,9 @@ description: 무료버전앱이 핸드폰에 설치가 안될 때 확인해주�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. 안드로이드폰 \[설정] 메뉴에서 보안항목 체크하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 1. 안드로이드폰 \[설정] 메뉴에서 보안항목 체크하기
 
-&#x20;**** 먼저 안드로이드폰 \[설정]에서 보안 항목들을 모두 체크해주세요!
+&#x20;먼저 안드로이드폰 \[설정]에서 보안 항목들을 모두 체크해주세요!
 
 <figure><img src="../../.gitbook/assets/보안4.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,7 +88,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 2. 안드로이드폰에서 앱검색 \[내 파일]
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 2. 안드로이드폰에서 앱검색 \[내 파일]
 
 **최신버전의 안드로이드 폰에서는 \[내파일]이 검색이 될 것입니다.**
 
@@ -110,7 +110,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** 3. 안드로이드폰에서 앱검색 \[file manager]
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 3. 안드로이드폰에서 앱검색 \[file manager]
 
 <figure><img src="../../.gitbook/assets/APK파일설치430.png" alt=""><figcaption></figcaption></figure>
 
@@ -136,7 +136,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 ***
 
-<mark style="color:red;">****</mark>
 
-<mark style="color:red;">****</mark>
+
+
 

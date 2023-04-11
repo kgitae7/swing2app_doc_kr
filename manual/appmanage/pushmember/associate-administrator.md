@@ -4,11 +4,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 # 회원조회 - 부관리자 설정 및 로그인 방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 관리자 외에 다른 회원을 **부관리자로 설정하여 권한을 변경하는 방법**을 알려드릴게요.\
 \
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **부관리자란?**
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **부관리자란?**
 
 부관리자는 **관리자와 같은 권한을 갖는 사용자로 관리자가 특정회원을 선택하여 관리자 권한을 부여할 수 있어요.**
 
@@ -22,19 +22,19 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 매뉴얼을 통해서 앱 부관리자를 설정하는 방법과 스윙 웹, 앱에서 부관리자로 로그인하는 방법을 알려드릴게요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**부관리자 설정 방법은 영상을 통해서도 확인할 수 있습니다!!**</mark>
 
 {% embed url="https://youtu.be/d7Ox2GPMZKY" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP1. 앱 회원가입 진행
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입 진행
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83\_20.07.png)
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **부관리자로 지정을 하기 위해서는 앱에서 회원가입이 되어 있어야 해요!**
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **부관리자로 지정을 하기 위해서는 앱에서 회원가입이 되어 있어야 해요!**
 
 부관리자로 지정할 회원이 있어야 하겠죠?
 
@@ -42,15 +42,15 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 가입된 사용자 계정을 확인하여 아래에서, 해당 사용자를 관리자 그룹으로 변경해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 관리자 그룹변경
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 관리자 그룹변경
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
 **스윙 홈페이지 접속 후,** [**앱운영 → 푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member\_list) **메뉴로 이동합니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%902\_18.1.18.png)
 
@@ -70,11 +70,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%904\_18.1.18.png)
 
-저장이 완료되면 앞서 보셨던 사용자 **윈디 회원이 ‘관리자’ 그룹으로 변경** 된 것을 확인할 수 있어요! ****&#x20;
+저장이 완료되면 앞서 보셨던 사용자 **윈디 회원이 ‘관리자’ 그룹으로 변경** 된 것을 확인할 수 있어요!&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 부관리자 로그인 방법
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 부관리자 로그인 방법
 
 
 
@@ -104,9 +104,9 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <mark style="color:red;">앱을 제작한 상태가 아닐 경우 앱 아이디가 인식이 되지 않아요, 따라서 앱을 제작해놓은 뒤 부관리자 로그인을 이용해주시기 바랍니다.</mark>&#x20;
 
-<mark style="color:red;"></mark>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 아이디는 어디서 확인할 수 있나요?**
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 아이디는 어디서 확인할 수 있나요?**
 
 앱 아이디는 **앱제작 - 1단계 앱기본정보**에서 입력한 앱 아이디 입니다.&#x20;
 
@@ -114,7 +114,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 **-앱제작 V3 버전 이용시 확인**
 
-<figure><img src="../../../.gitbook/assets/앱아이디1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱아이디1 (1).png" alt=""><figcaption></figcaption></figure>
 
 **-앱제작 V2 버전 이용시 확인**
 
@@ -168,12 +168,12 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 그리고 부관리자 역시 앱에서 운영하는 \[앱관리자 메뉴]를 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **부관리자 설정 및 로그인 방법 정리**
 
-<mark style="color:green;">****</mark>
+
 
 <mark style="color:green;">**1. 부관리자 설정하기**</mark>
 
@@ -206,4 +206,3 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 앱 가입 아이디, 비밀번호 입력하면 관리자로 로그인됩니다.
 {% endhint %}
 
-<mark style="color:green;">****</mark>

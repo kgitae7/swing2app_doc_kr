@@ -16,7 +16,7 @@ description: '구글 플레이 콘솔 정책 - 민감한 권한 API: 쿼리 권�
 새 버전의 앱으로 프로덕션에 다시 제출하면 됩니다.&#x20;
 {% endhint %}
 
-****
+
 
 <mark style="color:red;">**\*\*민감한 권한 API: 쿼리 권한 정책이란?**</mark><mark style="color:red;">\*</mark>
 
@@ -40,7 +40,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 
 
-## <mark style="color:blue;">****</mark>
+##
 
 > ### **조치사항 안내**
 

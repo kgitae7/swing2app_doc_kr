@@ -24,7 +24,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 스탬프 만들기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 스탬프 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
@@ -198,7 +198,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 앱에 스탬프 적용하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱에 스탬프 적용하기
 
 **게시판에서 스탬프를 만들었다면!! 만든 스탬프를 앱에 적용하는 방법을 알려드릴게요.**
 
@@ -222,13 +222,13 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-****
+
 
 <mark style="color:blue;">**스탬프 적용 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png)
 
-스탬프 게시판에는 ** **<mark style="color:blue;">**QR코드, 회원번호**</mark>**가 각 사용자 계정으로 발행이 됩니다.**
+스탬프 게시판에는 <mark style="color:blue;">**QR코드, 회원번호**</mark>**가 각 사용자 계정으로 발행이 됩니다.**
 
 **-앱 관리자가 QR코드로 사용자에게 스탬프를 추가할 수 있구요.**
 
@@ -240,13 +240,13 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 스탬프 등록하기(스탬프 추가)
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 스탬프 등록하기(스탬프 추가)
 
 스탬프 게시판을 만들고, 앱에 적용까지 다 했다면!
 
 실제로 앱 회원들에게 스탬프를 등록해주는 방법을 알려드릴게요.
 
-****
+
 
 ### <mark style="color:blue;">**1)스탬프 추가방법 1 – 회원번호로 추가하기**</mark>
 
@@ -328,7 +328,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 스탬프 삭제하는 방법**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 스탬프 삭제하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84%EC%82%AD%EC%A0%9C.png)
 
@@ -344,7 +344,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱 실행화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 앱 실행화면
 
 **앱에서는 스탬프 게시판이 어떻게 실행되고, 스탬프가 어떻게 추가되는지 확인해볼게요!!**
 
@@ -372,7 +372,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/37804d6d6b74e71f7046d198a37ee7aa.png)
 
-<mark style="color:blue;"></mark>
+
 
 <mark style="color:blue;">▶</mark><mark style="color:blue;">**스탬프 완료시 쿠폰발행에 체크한 경우**</mark>
 
@@ -408,5 +408,5 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 초기화 방법은 위에서 설명해드린 방법처럼 웹관리자페이지에서 \[삭제] 버튼을 눌러서 등록된 스탬프 갯수만큼을 삭제해주시면 됩니다.
 {% endhint %}
 
-<mark style="color:orange;">****</mark>
+
 

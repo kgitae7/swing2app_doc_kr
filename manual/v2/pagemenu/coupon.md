@@ -69,7 +69,7 @@
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**\*움짤 이미지를 통해서 앱에 쿠폰조회하기 메뉴를 적용하는 방법을 확인해주세요!**</mark>
 
@@ -89,7 +89,7 @@
 
 
 
-&#x20;** **<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**사용 가능한 쿠폰**</mark>
+&#x20;<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**사용 가능한 쿠폰**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%BF%A0%ED%8F%B08.png)
 
@@ -101,7 +101,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**사용된 쿠폰**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**사용된 쿠폰**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%BF%A0%ED%8F%B010.png)
 

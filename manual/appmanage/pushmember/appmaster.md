@@ -4,7 +4,7 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 
 # 앱 관리자 설정하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱 관리자 그룹 설정하는 방법**
 
@@ -18,9 +18,9 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 
 **회원그룹 설정을 통해서 ‘관리자’로 그룹을 변경하는 방법을 확인해주세요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 관리자 설정 방법**
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 관리자 설정 방법**
 
 **1. 앱에서 회원가입 먼저 해주세요.**
 
@@ -42,15 +42,15 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 [associate-administrator.md](associate-administrator.md)
 {% endcontent-ref %}
 
-<mark style="background-color:blue;">****</mark>
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 관리자 설정방법 영상으로 확인하기**
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 관리자 설정방법 영상으로 확인하기**
 
 {% embed url="https://youtu.be/d7Ox2GPMZKY" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;background-color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입하기&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입하기&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%956\_19.09.png)
 
@@ -66,7 +66,7 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**회원가입 완료: 사용자 등급**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**회원가입 완료: 사용자 등급**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%957\_19.09.png)
 
@@ -74,9 +74,9 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 해당 등급을 ‘관리자’로 변경해볼게요!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 회원조회-관리자 등급 변경하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 회원조회-관리자 등급 변경하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
@@ -84,7 +84,7 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 [**앱운영 → 푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member\_list) **메뉴로 이동합니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EB%B3%80%EA%B2%BD.png)
 
@@ -116,9 +116,9 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 변경 완료 후 회원조회 목록 페이지를 보시면 앞서 **사용자 등급이었던 회원이 ‘관리자’로 등급이 변경된 것을 확인할 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP3. 앱 실행화면: 변경된 등급 확인하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면: 변경된 등급 확인하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%958\_19.09.png)
 
@@ -144,6 +144,5 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 >
 > **따라서 위의 방법을 확인하시고, 앱 관리자로 지정해서 사용해주시기 바랍니다.**
 
-****
 
-****
+

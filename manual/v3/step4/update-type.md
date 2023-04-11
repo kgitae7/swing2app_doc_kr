@@ -14,11 +14,11 @@
 \*앱을 새 버전으로 업데이트 하였으나, 스토어에 해당 버전으로 다시 올리지 않을 경우 사용자들은 업데이트를 받을 수 없습니다.&#x20;
 {% endhint %}
 
-****
+
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) **1**.**소프트 업데이트 & 권장**
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **1**.**소프트 업데이트 & 권장**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
 
@@ -30,9 +30,9 @@
 
 소프트 업데이트의 경우 **앱을 다시 설치하지 않아도, 앱 내에서 다운로드 되며 자동 업데이트 됩니다.**
 
-****
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) **2. 소프트 업데이트 & 필수**
+
+### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 소프트 업데이트 & 필수**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.png)
 
@@ -42,9 +42,9 @@
 
 **‘확인’ 선택시  바로 앱 내 업데이트가 진행되요.**
 
-****
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) 3. **하드 업데이트&권장**
+
+### ![](<../../../.gitbook/assets/image (2) (1).png>) 3. **하드 업데이트&권장**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
 

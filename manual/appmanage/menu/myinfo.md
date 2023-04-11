@@ -4,7 +4,7 @@ description: '앱운영: 내 메뉴 – 내 정보 수정'
 
 # 내 정보 수정
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **1. 내 정보 수정**
 
@@ -22,11 +22,11 @@ description: '앱운영: 내 메뉴 – 내 정보 수정'
 
 상세 이용방법은 아래 가이드를 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **2. 내 정보 수정 – 회원정보, 로그인 정보, 시간대 설정**
 
-****
+
 
 <mark style="color:blue;">**1)회원정보**</mark>
 
@@ -52,7 +52,7 @@ description: '앱운영: 내 메뉴 – 내 정보 수정'
 계정 동의서를 받아 변경해드리고 있습니다.
 {% endhint %}
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:blue;">**2)로그인 정보**</mark>
 

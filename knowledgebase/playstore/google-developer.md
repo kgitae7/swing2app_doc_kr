@@ -4,7 +4,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 # 구글 개발자-개인 계정 만들기
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **★구글 개발자 계정이란?**
@@ -23,7 +23,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 {% hint style="warning" %}
 <mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 1. Google Play 개발자 계정을 만들려면 만 18세 이상이어야 합니다.&#x20;
 2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다.                                                                              이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
@@ -61,11 +61,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
 
-****
+
 
 사용하는 구글 gmail(지메일) 계정이 있고, 해당 계정을 개발자 계정으로 사용한다면 로그인한 상태에서 바로 구글 플레이 콘솔 사이트로 이동합니다.
 
@@ -155,7 +155,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 위의 매뉴얼을 확인하여, 본인 인증까지 완료해주세요.&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**5. 완료 - 구글 플레이 콘솔 접속**</mark>&#x20;
 
@@ -169,17 +169,17 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 **플레이스토어 앱 출시방법은 스윙투앱 – 플레이스토어 앱 등록 출시하기 매뉴얼을 확인해주세요\~!**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
 
 **gmail 계정이 없거나 개발자용 계정을 새로 만들어야 한다면! 구글 계정 등록 사이트에서 계정을 먼저 만들어주세요.**
 
 \*지메일 계정 만들기: [http://accounts.google.co.kr/](http://accounts.google.co.kr/)
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**1. 계정만들기**</mark>
 
@@ -229,7 +229,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D9\_20.01.png)
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**5. 구글 플레이 콘솔 사이트 이동하여, 등록 수수료 결제하기**</mark>
 
@@ -309,11 +309,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 계정 등록이 완료되면, 실제로 앱을 등록할 수 있는 구글 플레이 콘솔 페이지가 열립니다.
 
-<mark style="color:blue;">**\[앱만들기]**</mark>** ** 파란색 버튼을 선택해서 앱을 플레이스토어에 출시할 수 있어요.
+<mark style="color:blue;">**\[앱만들기]**</mark> 파란색 버튼을 선택해서 앱을 플레이스토어에 출시할 수 있어요.
 
 **플레이스토어 앱 출시방법은 스윙투앱 – 플레이스토어 앱 등록 출시하기 매뉴얼을 확인해주세요\~!**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
 
 
 
@@ -343,4 +343,3 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 단, 정책 위반시 앱 삭제 및 개발자 계정이 삭제될 수 있으므로 구글 플레이 정책 내용은 반드시 확인해주시기 바랍니다.&#x20;
 {% endhint %}
 
-<mark style="color:red;">****</mark>

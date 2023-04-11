@@ -16,7 +16,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 ***
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)1. 개별 게시판-게시물 검색
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 개별 게시판-게시물 검색
 
 게시판에는 검색창이 기본 셋팅되어서 제작이 되요.
 
@@ -40,7 +40,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)2. 전체 게시판 게시물 검색
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)2. 전체 게시판 게시물 검색
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%892.png)
 
@@ -52,7 +52,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 **​**
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**게시물 검색은 앱에 어떻게 적용하나요?**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 검색은 앱에 어떻게 적용하나요?**</mark>
 
 **-앱제작 V3 버전 이용시**
 
@@ -76,7 +76,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 \*적용 후에도 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-<mark style="color:orange;">****</mark>
+
 
 **-앱제작 V2 버전 이용시**
 
@@ -100,7 +100,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
 
@@ -116,4 +116,3 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 다른 기능을 추가하지 않아도 게시판을 적용하시면, 게시판 내에 검색어 입력 창이 기본 셋팅되어서 제공됩니다.
 {% endhint %}
 
-****

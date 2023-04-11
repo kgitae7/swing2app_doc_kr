@@ -4,7 +4,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 # 게시판 - 게시물 입력방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물 작성은 여러 방법으로 진행할 수 있구요, 아래 3가지 방법으로 작성하는 방법을 알려드릴게요!
 
@@ -16,7 +16,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 아래 매뉴얼을 통해서 게시물 입력방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. 앱운영에서 게시물 작성하기(웹 대시보드에서 작성)
 
@@ -30,7 +30,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 \*게시판이 많을 경우 게시물관리에 모든 게시판이 다 보이지 않습니다. **이때에는 \[게시판 더보기]로 이동하여 확인할 수 있습니다.**
 
-****
+
 
 ### <mark style="color:blue;">**1. 게시판 선택 후 글 작성하기**</mark>
 
@@ -50,9 +50,9 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 <mark style="color:red;">-아래에서 일반 방식과 HTML에디터 글쓰기 차이점을 보여드릴게요!</mark>
 
-<mark style="color:red;"></mark>
 
-### <mark style="color:blue;">**2. 간편 에디터(일반 글쓰기)글 작성하기**</mark>** **&#x20;
+
+### <mark style="color:blue;">**2. 간편 에디터(일반 글쓰기)글 작성하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%91%EC%84%B11\_20.06.png)
 
@@ -136,7 +136,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 **\*푸시: 해당 게시물을 푸시알림으로 보낼 수 있습니다.**
 
-****
+
 
 <mark style="color:orange;">**움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.**</mark>
 
@@ -210,7 +210,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 \*게시물 관리에 적용되는 기능은 – 영상첨부, 파일첨부, 사진첨부 이렇게 3가지 기능입니다!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 앱에서 게시물 작성하기
 
@@ -259,7 +259,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 공유하기는 해당 게시물을 다른 어플 -카톡, 메일 등으로 공유할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**STEP3. 앱제작 페이지- 가상머신에서 작성하기**</mark>&#x20;
 
@@ -277,7 +277,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 <mark style="color:red;">**\*가상머신은 앱과 동일하기 때문에, 게시물 입력은 앱에서 하는 것과 동일해요.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9E%85%EB%A0%A51\_20.02.png)
 

@@ -62,7 +62,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **게시판을 만들고 앱에 적용하는 방법 상세 매뉴얼을 확인해주세요.**
 
-**☞** [**게시판 만들기 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/boardeditor/)****
+**☞** [**게시판 만들기 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/boardeditor/)
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
@@ -108,7 +108,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **위치등록(지도) 게시판 이용방법 상세 매뉴얼을 확인해주세요.**
 
-**☞** [**위치등록(지도)게시판 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/map-board/)****
+**☞** [**위치등록(지도)게시판 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/map-board/)
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
@@ -152,7 +152,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **그룹채팅방을 만드는 방법, 채팅방 이용 방법 상세 내용은 아래 매뉴얼을 참고해주세요.**
 
-**☞**[**그룹채팅방 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/groupchat/)****
+**☞**[**그룹채팅방 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/groupchat/)
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
@@ -196,7 +196,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **캘린더 이용방법 상세 매뉴얼은 아래 매뉴얼을 확인해주세요.**
 
-**☞** [**캘린더 이용방법 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/calander/)****
+**☞** [**캘린더 이용방법 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/calander/)
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
@@ -242,5 +242,5 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **스탬프 게시판 등록 및 스탬프 이용방법 상세 매뉴얼은 아래 매뉴얼을 참고해주세요.**
 
-**☞** [**스탬프 이용 및 등록방법 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/stamp/)****
+**☞** [**스탬프 이용 및 등록방법 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/stamp/)
 

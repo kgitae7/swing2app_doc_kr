@@ -63,10 +63,10 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 \
-&#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP1. 회원 그룹 만들기
-----------------------------------------------------------------------------
+&#x20;![](<../../../.gitbook/assets/image (2) (1).png>)STEP1. 회원 그룹 만들기
+-----------------------------------------------------------------------
 
-<mark style="color:orange;"><mark style="color:blue;">****<mark style="color:blue;"></mark>
+
 
 ### <mark style="color:blue;">**1. 권한 그룹설정 메뉴 이동**</mark>
 
@@ -74,7 +74,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 [앱운영 페이지 → 푸시&회원 → 권한 그룹설정](http://www.swing2app.co.kr/view/group\_list) 메뉴로 이동합니다.
 
-&#x20;<mark style="color:orange;"></mark>&#x20;
+&#x20;
 
 ### <mark style="color:blue;">**2. 권한 그룹 생성하기**</mark>
 
@@ -116,7 +116,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 이렇게 그룹을 정해서 만들었습니다.
 
-&#x20;<mark style="color:orange;"></mark>&#x20;
+&#x20;
 
 ### <mark style="color:blue;">**4. 그룹 생성 완료**</mark>
 
@@ -133,7 +133,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP2. 게시판 등급 권한 설정하기
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)STEP2. 게시판 등급 권한 설정하기
 
 그룹을 만들었다면, 게시판에 등급권한을 설정해볼게요!
 
@@ -143,7 +143,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%952.png)
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**앱운영 페이지 → 서비스관리 → 게시판관리 메뉴**</mark>](http://www.swing2app.co.kr/view/board\_edit)**로 이동합니다.**
+[<mark style="color:blue;">**앱운영 페이지 → 서비스관리 → 게시판관리 메뉴**</mark>](http://www.swing2app.co.kr/view/board\_edit)**로 이동합니다.**
 
 &#x20;
 
@@ -187,13 +187,13 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP3. 회원별 등급 적용하기&#x20;
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)STEP3. 회원별 등급 적용하기&#x20;
 
 앱 회원들에게 그룹을 적용해야 게시판별 이용이 가능하겠죠? &#x20;
 
 회원 그룹 적용은 회원조회 페이지에서 이용 가능합니다.
 
-&#x20;<mark style="color:orange;"></mark>&#x20;
+&#x20;
 
 ### <mark style="color:blue;">**1. 회원조회 페이지 이동**</mark>
 
@@ -219,7 +219,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 **3)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.**
 
-&#x20;<mark style="color:orange;"></mark>&#x20;
+&#x20;
 
 ### <mark style="color:blue;">**3. 그룹 변경 완료**</mark>
 
@@ -231,7 +231,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (2) (1).png>)STEP4. 앱 실행화면
+## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)STEP4. 앱 실행화면
 
 앱을 실행하여 다른 등급의 회원이 게시판에 접근시 어떻게 표시되는지 확인해볼게요!
 
@@ -246,7 +246,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 <summary><mark style="color:blue;"><strong>이용방법 정리</strong></mark></summary>
 
-<mark style="color:purple;">****</mark>
+
 
 **STEP1. 그룹 만들기**
 
@@ -256,7 +256,7 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 2\)**그룹명, 3)그룹설명 입력 후 4)저장 버튼을 누르면** 그룹생성이 완료됩니다.
 
-&#x20;<mark style="color:blue;"></mark>&#x20;
+&#x20;
 
 **STEP2. 게시판에서 권한 그룹 설정하기**
 
@@ -282,4 +282,3 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 </details>
 
-<mark style="color:purple;">****</mark>

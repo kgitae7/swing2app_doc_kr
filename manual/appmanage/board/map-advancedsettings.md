@@ -10,7 +10,7 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 지도게시판에서 제공하는 고급설정은 필수 입력사항은 아니며, 선택사항입니다. 옵션을 이용할 경우만 이용방법을 참고해주세요!
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**위치등록 게시판이란?**</mark>
 
@@ -70,9 +70,9 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## 3. <mark style="color:blue;">****</mark> 모바일 앱 실행화면
+## 3. 모바일 앱 실행화면
 
-<mark style="color:orange;">****</mark>
+
 
 ### <mark style="color:blue;">1)줌 레벨 설정</mark>
 

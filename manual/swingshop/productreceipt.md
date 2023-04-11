@@ -16,7 +16,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 상품 수령방법 설정방법**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 상품 수령방법 설정방법**
 
 **1) 상품 신규 등록**
 
@@ -40,7 +40,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 3\)수정할 상품을 선택합니다.
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%83%81%ED%92%88-%EB%B0%B0%EC%86%A12.png)
 
@@ -48,7 +48,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 5\)수정하기 버튼 누르면 완료
 
-****
+
 
 상품은 동일하게 등록하구요. 새롭게 추가된 상품수령방법만 체크하신 뒤 저장해주시면 됩니다.
 
@@ -74,7 +74,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 앱 실행화면) 수령방법: ‘택배 배송’ 선택**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면) 수령방법: ‘택배 배송’ 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%88%98%EB%A0%B9%EB%B0%A9%EB%B2%95-%ED%83%9D%EB%B0%B0.png)
 
@@ -92,7 +92,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 앱 실행화면) 수령방법: ‘직접 수령’ 선택**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면) 수령방법: ‘직접 수령’ 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%88%98%EB%A0%B9%EB%B0%A9%EB%B2%95-%EC%A7%81%EC%A0%91%EC%88%98%EB%A0%B9.png)
 
@@ -106,7 +106,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 앱 실행화면) 수령방법: ‘사용자 선택’ **<mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행화면) 수령방법: ‘사용자 선택’**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%88%98%EB%A0%B9%EB%B0%A9%EB%B2%95-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%84%A0%ED%83%9D.png)
 
@@ -118,7 +118,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 주문자 배송정보 확인하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5. 주문자 배송정보 확인하기**
 
 **상품을 구매한 사용자의 배송정보는 어디서 확인 가능한가요?**
 

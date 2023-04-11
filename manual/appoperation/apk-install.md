@@ -28,7 +28,7 @@ PC에서는 앱 설치가 되지 않기 때문에 모바일(안드로이드폰)�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 모바일-스윙투앱 사이트 접속**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 모바일-스윙투앱 사이트 접속**
 
 모바일(안드로이드폰)에서 [**\[스윙투앱 홈페이지\]**](http://www.swing2app.co.kr/)에 접속합니다.
 
@@ -46,7 +46,7 @@ PC에서는 앱 설치가 되지 않기 때문에 모바일(안드로이드폰)�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)**2. 앱 다운 및 설치 **<mark style="color:blue;">****</mark>&#x20;
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)**2. 앱 다운 및 설치**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%982.png)
 
@@ -68,7 +68,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작됩니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)**3. 앱 설치 완료**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)**3. 앱 설치 완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%985.png)
 

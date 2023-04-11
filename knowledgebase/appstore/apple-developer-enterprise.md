@@ -6,7 +6,7 @@
 
 [https://developer.apple.com/kr/programs/enterprise/](https://developer.apple.com/kr/programs/enterprise/)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">1.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Apple Developer Enterprise Program 란?**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">1.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Apple Developer Enterprise Program 란?**</mark>
 
 앱스토어에 공식 출시를 할 수 없는 특정 앱으로 **회사 및 조직 내부 사용을 위한 앱 배포**를 말합니다. &#x20;
 
@@ -16,7 +16,7 @@
 
 <figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">2.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**자격 요건**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">2.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**자격 요건**</mark>
 
 Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 것은 아니며, 아래의 조건에 충족해야 합니다.&#x20;
 
@@ -34,7 +34,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 <figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">3.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 계정 멤버쉽 비용 (1년)**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">3.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 계정 멤버쉽 비용 (1년)**</mark>
 
 \-사내 내부용 : 엔터프라이즈(Enterprise) 계정 **$299**&#x20;
 
@@ -44,9 +44,9 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 <figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">4.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 프로그램(Enterprise Program) 가입 신청방법**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">4.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 프로그램(Enterprise Program) 가입 신청방법**</mark>
 
-1\) 애플 개발자 사이트: **** [**https://developer.apple.com/** ](https://developer.apple.com/)접속해서 애플 개발자 계정을 먼저 만들어주세요.&#x20;
+1\) 애플 개발자 사이트:  [**https://developer.apple.com/** ](https://developer.apple.com/)접속해서 애플 개발자 계정을 먼저 만들어주세요.&#x20;
 
 <mark style="color:orange;">\[개발자 계정 등록시 주의사항]</mark>
 
@@ -66,7 +66,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 [https://wp.swing2app.co.kr/knowledgebase/apple-developer/](apple-developer.md#undefined)
 
-****
+
 
 **2)계정 등록이 완료되었다면  Enterprise Program 으로 이동해주세요**
 
@@ -110,7 +110,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 <figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">5. 스윙투앱 신청방법</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">5. 스윙투앱 신청방법</mark>
 
 이용방법은 유료앱 이용과 동일합니다. (무료버전앱 이용불가)
 
@@ -150,7 +150,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 <figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">6.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**안내 사항**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">6.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**안내 사항**</mark>
 
 1.애플 엔터프라이즈 개발자 계정을 알려주시면, 앱을 등록하고 배포하는 과정은 모두 스윙투앱에서 진행해드립니다.
 

@@ -4,7 +4,7 @@ description: 게시판- 게시물 정렬 설정 방법
 
 # 게시물 정렬 순서 설정 방법
 
-****
+
 
 게시판에 등록된 게시물의 정렬 순서를 변경하는 방법을 알려드립니다.&#x20;
 
@@ -40,7 +40,7 @@ description: 게시판- 게시물 정렬 설정 방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/warning-2-3.png) ** **<mark style="color:red;">**앱제작 V2버전 이용시**</mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/warning-2-3.png) <mark style="color:red;">**앱제작 V2버전 이용시**</mark>
 
 앱제작 V2버전을 이용하는 분들은 고급스타일- 게시물 옵션 설정에서 이용 가능합니다.
 

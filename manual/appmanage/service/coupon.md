@@ -16,7 +16,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 쿠폰 만들기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 쿠폰 만들기
 
 가장 먼저 사용자에게 발행할 쿠폰을 만들어볼게요!
 
@@ -42,7 +42,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 5\)저장하기 버튼 선택
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B03.png)
 
@@ -50,7 +50,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 캘린더 아이콘과 시계 아이콘을 선택해서 유효 날짜, 시간을 설정할 수 있습니다.
 
-<mark style="color:orange;">****</mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B011.png)
 
@@ -64,7 +64,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 쿠폰 발송하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 쿠폰 발송하기
 
 
 
@@ -84,7 +84,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 **\*회원은 전체 사용자에게 모두 보낼 수 있구요. 원하는 사용자만 선택해서 보낼 수 있습니다.**
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B05.png)
 
@@ -194,11 +194,11 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3.** **쿠폰 사용처리 방법**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3.** **쿠폰 사용처리 방법**
 
 **그럼 관리자가 쿠폰을 사용처리 하는 방법에 대해서 알려드릴게요.**
 
-****
+
 
 ### <mark style="color:blue;">**1.쿠폰 사용처리하기**</mark>
 
@@ -234,7 +234,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 사용자계정으로 다시 앱을 실행한 뒤 – 쿠폰 조회 페이지 \[사용된 쿠폰] 메뉴에서 사용처리 된 것을 확인할 수 있습니다.
 
-<mark style="color:orange;"></mark>
+
 
 ### <mark style="color:blue;">**4.앱에서 쿠폰처리하기(관리자 메뉴)**</mark>
 
@@ -258,7 +258,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 쿠폰을 만들고 이용하는 방법을 다시 정리해드릴게요!
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**1. 쿠폰 만들기**</mark>
 

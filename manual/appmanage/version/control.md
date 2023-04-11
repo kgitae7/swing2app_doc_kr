@@ -44,7 +44,7 @@
 >
 > **5) 웹 미리보기로 앱 보기**
 
-****
+
 
 \
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**마켓 이동하기**</mark>
@@ -59,7 +59,7 @@
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**플레이스토어 정보 / 앱스토어 정보**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**플레이스토어 정보 / 앱스토어 정보**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC3\_19.09.png)
 
@@ -121,7 +121,7 @@
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**업로드 신청**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**업로드 신청**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC8\_19.09.png)
 

@@ -10,7 +10,7 @@
 
 ***
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:blue;">**세금계산서  및 현금영수증 요청방법**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**세금계산서  및 현금영수증 요청방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD.png)
 
@@ -18,7 +18,7 @@
 
 **입금 완료 후, **<mark style="color:blue;">**앱운영 페이지 → 결제 → 내결제 현황**</mark>**으로 이동하면 영수증 항목에서 \[세금계산서] or \[현금영수증]을 요청할 수 있습니다.**
 
-****
+
 
 <mark style="color:blue;">**1. 세금계산서 요청**</mark>
 
@@ -48,7 +48,7 @@
 
 추가 요청사항이 있다면 입력해주세요.
 
-<mark style="color:blue;"></mark>
+
 
 <mark style="color:blue;">**3. 발행완료 – 영수증 보기**</mark>
 
@@ -56,7 +56,7 @@
 
 발행이 완료된 후 다시 <mark style="color:blue;">**\[내 결제현황]**</mark>으로 이동하시면, 발행된 내역을 확인할 수 있어요.
 
-&#x20;** **<mark style="color:blue;">**\[영수증 보기]**</mark>를 선택하면 발행된 세금계산서 혹은 현금영수증 사본 이미지를 확인할 수 있습니다.
+&#x20;<mark style="color:blue;">**\[영수증 보기]**</mark>를 선택하면 발행된 세금계산서 혹은 현금영수증 사본 이미지를 확인할 수 있습니다.
 
 **세금계산서가 필요하시면 위의 방법으로 요청해주시면 , 바로 발행 도와드리겠습니다.**
 

@@ -128,7 +128,7 @@
 
 유튜브 링크 url 을 다음과 같은 형식으로 변경하시면 원활하게 동작합니다.\
 \
-**예시)** [**https://youtu.be/W8Ysr18ZxxU?t=1**](https://youtu.be/W8Ysr18ZxxU?t=1)****
+**예시)** [**https://youtu.be/W8Ysr18ZxxU?t=1**](https://youtu.be/W8Ysr18ZxxU?t=1)
 
 **→** [**https://www.youtube.com/embed/W8Ysr18ZxxU?t=1**](https://www.youtube.com/embed/W8Ysr18ZxxU?t=1)
 

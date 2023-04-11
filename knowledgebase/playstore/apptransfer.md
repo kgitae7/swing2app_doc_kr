@@ -34,7 +34,7 @@
 
 \*또한 대상 계정 거래 ID를 함께 준비해주셔야 합니다.
 
-확인이 완료 되시면 이전 요청 제출 항목에 있는 <mark style="color:blue;">‘</mark><mark style="color:blue;">**이전 요청 제출’**</mark>** ** 파란색 글자를 선택해주세요.
+확인이 완료 되시면 이전 요청 제출 항목에 있는 <mark style="color:blue;">‘</mark><mark style="color:blue;">**이전 요청 제출’**</mark> 파란색 글자를 선택해주세요.
 
 ***
 
@@ -92,7 +92,7 @@
 >
 > PDS.1234-5678-9012-3456
 
-****
+
 
 ### <mark style="color:blue;">**04. 앱 이전 신청 완료**</mark>
 

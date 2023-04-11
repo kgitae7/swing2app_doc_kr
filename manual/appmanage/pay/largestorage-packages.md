@@ -22,7 +22,7 @@
 
 
 
-<mark style="background-color:blue;">▶</mark> ** **<mark style="color:orange;">**제공 서비스**</mark>
+<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**제공 서비스**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/02-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%A0%9C%EA%B3%B5-%EC%84%9C%EB%B9%84%EC%8A%A4.jpg)
 
@@ -40,7 +40,7 @@
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**02. 대용량 패키지 구매 및 이용 방법**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. 대용량 패키지 구매 및 이용 방법**</mark>
 
 1\) 앱은 최종적으로 다 제작 후 테스트까지 완료해주세요.
 
@@ -88,7 +88,7 @@
 
 **\* 더 많은 앱 용량이 필요할 경우 개별로 구매하지 않아도 한번에 30GB가 추가됩니다!(기본형이용권 단품 구매시 앱 용량은 2GB 기본 제공)**
 
-****
+
 
 1\) 무료로 제작된 앱을 유료버전으로 전환하는 이용권(패키지 상품)이며 플레이스토어, 앱스토어 등 마켓에 상용화 할 경우 구매합니다.
 

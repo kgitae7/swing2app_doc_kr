@@ -10,7 +10,7 @@
 
 <mark style="color:red;">\*앱스토어를 스윙투앱 계정으로 대리등록한 분들은 확인할 수 없습니다. 사용자의 애플 개발자 계정으로 등록한 분들만 확인 가능해요!</mark>
 
-<mark style="color:red;"></mark>
+
 
 \*구글 플레이스토어 앱 설치수 확인은 아래 매뉴얼을 확인해주시기 바랍니다.
 
@@ -86,7 +86,7 @@ csv파일을 선택하셔도 괜찮습니다.
 
 
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**앱 판매량 통계 엑셀파일**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**앱 판매량 통계 엑셀파일**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/16984cc11235493c2ee1854474bf0d93.png)
 
@@ -94,7 +94,7 @@ csv파일을 선택하셔도 괜찮습니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**앱스토어 판매량에서는 다양한 콘텐츠 유형별로 앱 설치수를 확인할 수 있어요.**</mark>&#x20;
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**앱스토어 판매량에서는 다양한 콘텐츠 유형별로 앱 설치수를 확인할 수 있어요.**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%95%B1%EC%84%A4%EC%B9%98%EC%88%9845png-1.png)
 

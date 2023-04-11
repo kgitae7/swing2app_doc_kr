@@ -42,11 +42,11 @@
 
 &#x20;**앱 가입 정책 페이지에서 앱 공개 범위 : 공개, 비공개 여부를 선택할 수 있습니다.**
 
-앱 가입 정책에서 앱 공개 범위를 ** **<mark style="color:purple;">**\[비공개(회원가입시 관리자 승인 후 이용가능]**</mark>으로 설정한 다음 하단의 **\[정책 설정하기]** 버튼을 선택해서 저장해주세요.
+앱 가입 정책에서 앱 공개 범위를 <mark style="color:purple;">**\[비공개(회원가입시 관리자 승인 후 이용가능]**</mark>으로 설정한 다음 하단의 **\[정책 설정하기]** 버튼을 선택해서 저장해주세요.
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  **  **<mark style="color:blue;">**2. 앱 실행화면: 비공개 앱**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  <mark style="color:blue;">**2. 앱 실행화면: 비공개 앱**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C1.png)
 
@@ -74,7 +74,7 @@
 
 **관리자 승인 이후부터 앱을 사용할 수 있어요.**&#x20;
 
-****
+
 
 관리자는 앱운영 페이지에서 가입한 회원들을 확인하여 승인해주셔야 합니다.
 
@@ -110,15 +110,15 @@
 
 <mark style="color:purple;">**따라서 \[관리자 승인 비공개] 앱을 이용하시는 관리자 분들은, 회원조회 페이지에서 미인증의 회원들을 ‘인증’으로 변경하여 운영해주세요!**</mark>
 
-<mark style="color:purple;">****</mark>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  <mark style="color:blue;"></mark>  <mark style="color:blue;"></mark><mark style="color:blue;">**4. 앱에서 사용자가 회원가입을 했는지 어떻게 알 수 있나요?**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  <mark style="color:blue;">**4. 앱에서 사용자가 회원가입을 했는지 어떻게 알 수 있나요?**</mark>
 
 <mark style="color:red;">=> 회원가입 안내 푸시 알림 전송, 메일 알림을 받을 수 있습니다.</mark>&#x20;
 
 통합 알림 설정에 보시면 회원가입시 알림 발송을 이용할 수 있어요.&#x20;
 
-****[**\[앱운영-서비스관리-통합알림설정\]**](http://www.swing2app.co.kr/view/notification\_setting)
+[**\[앱운영-서비스관리-통합알림설정\]**](http://www.swing2app.co.kr/view/notification\_setting)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%80-25-1.png)
 
@@ -148,7 +148,7 @@
 
 > **02. 비공개 회원가입시 이용가능**
 
-### &#x20;**** ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**비공개 – 회원가입시 이용 가능**</mark>
+### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**비공개 – 회원가입시 이용 가능**</mark>
 
 **두 번째 비공개앱은 \[회원가입을 하면 관리자 승인 없이도 이용가능] 앱을 제작해볼게요.**&#x20;
 
@@ -156,7 +156,7 @@
 
 **앱 가입 정책에서 앱 공개 범위를 \[비공개(회원가입시 이용가능]으로 설정한 다음 하단에 \[정책 설정하기] 버튼을 선택해서 저장해주세요.**
 
-****
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**앱 실행화면**</mark>
 
@@ -168,7 +168,7 @@
 
 그리고 <mark style="color:red;">**회원가입을 하면, 관리자의 승인 없어도 바로 앱을 이용할 수 있습니다.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **비공개 앱은 이렇게 2가지 스타일로 운영을 할 수 있어요.**
 

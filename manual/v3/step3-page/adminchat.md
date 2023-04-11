@@ -16,7 +16,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 매뉴얼통해서 관리자 채팅(1:1 채팅)을 이용하는 방법을 확인해주세요.
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
 
@@ -58,7 +58,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 
 
-#### <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**채팅목록  기능도 추가해주세요!**</mark>
+#### <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**채팅목록  기능도 추가해주세요!**</mark>
 
 채팅목록은 채팅한 내역을 확인할 수 있는 메뉴에요.
 
@@ -116,7 +116,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 
 
-#### <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> **채팅목록**&#x20;
+#### <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **채팅목록**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png)
 
@@ -147,14 +147,14 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 {% hint style="success" %}
 **관리자는 어떻게 앱 회원들과 채팅을 할 수 있을까요?**
 
-관리자는 스윙 웹(앱운영페이지)에서 제공하는 회원조회 메뉴에서 회원을 선택하여 대화를 할 수 있습니다. **** 아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
+관리자는 스윙 웹(앱운영페이지)에서 제공하는 회원조회 메뉴에서 회원을 선택하여 대화를 할 수 있습니다. 아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
 {% endhint %}
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 관리자가 앱 회원과 채팅을 하는 방법**
 
 관리자는 웹(스윙 홈페이지)에서 채팅을 할 수도 있고, 앱에서도 이용할 수 있어요.
 
-****
+
 
 **1) 회원조회 페이지 이동**
 
@@ -173,7 +173,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 {% hint style="info" %}
 **전용대화? 공용대화란?**
 
-****
+
 
 대화하기 옵션은 앱 회원에게는 크게 상관은 없구요. 관리자들이 선택할 수 있는 채팅 옵션이에요.
 
@@ -190,7 +190,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 공용대화하기로 채팅을 하면, 앱 회원이 채팅 메시지 입력시 다른 관리자들에게도 채팅 푸시가 들어와요.
 {% endhint %}
 
-****
+
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/2dc13263a89461196d4b6b6b8e942d77.png)
 
@@ -222,11 +222,11 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 **\*채팅관리자 페이지 이용방법은 해당 매뉴얼을 참고해주세요**
 
-**☞** [**\[채팅 관리자 페이지 이용방법 보러가기\]**](../../appmanage/service/admin-chat.md)****
+**☞** [**\[채팅 관리자 페이지 이용방법 보러가기\]**](../../appmanage/service/admin-chat.md)
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](<../../../.gitbook/assets/image (2) (1).png>) 5**. 추가안내**&#x20;
+### ![](<../../../.gitbook/assets/image (2) (1).png>) 5**. 추가안내**&#x20;
 
 앱에서 기존에 채팅을 한 회원과 다시 대화를 하고 싶다면, 채팅 목록을 이용해주세요.
 
@@ -255,7 +255,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 {% hint style="danger" %}
 <mark style="color:red;">**안내사항**</mark>
 
-<mark style="color:red;"><mark style="color:orange;">****<mark style="color:orange;"></mark>
+
 
 **1) 1:1 채팅은 관리자 채팅으로, 관리자와 앱 회원간의 채팅 기능입니다.**
 
@@ -269,7 +269,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 **2) 운영자와 채팅하기 메뉴(1:1 채팅)는 \*앱제작 페이지→ STEP3페이지 →페이지에서 \[관리자 채팅] 으로 적용해주시기 바랍니다.**
 
-****
+
 
 **3) 관리자와 여러명의 사용자와 대화할 수 있는 \[그룹채팅]** 도 이용할 수 있습니다.
 
@@ -280,4 +280,3 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 {% endhint %}
 
-****

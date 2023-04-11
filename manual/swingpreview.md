@@ -4,7 +4,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 # 앱미리보기 이용방법
 
-****<img src="../.gitbook/assets/image.png" alt="" data-size="line"> **앱 미리보기란?**
+<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 미리보기란?**
 
 스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.
 
@@ -34,7 +34,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ![](<../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **** 1. **** 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png)
 
@@ -108,9 +108,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행)안드로이드, 아이폰 앱 미리보기**
 
-<mark style="color:blue;"><mark style="color:orange;">****<mark style="color:orange;"></mark>
 
-<mark style="color:blue;">****</mark><img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
+
+<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2021\_07\_08\_14\_33\_38\_528.gif)
 
@@ -118,9 +118,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:red;">**안드로이폰에서는 스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱 다운로드로만 설치가 가능합니다.**</mark>
 
-<mark style="color:red;">****</mark>
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
+
+<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
 
 ![](../.gitbook/assets/수정\_미리보기.gif)
 
@@ -138,9 +138,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ![](<../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 5. 앱미리보기에서 제공되는 기능
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 앱미리보기에서 제공되는 기능
 
-<mark style="color:purple;">****</mark>
+
 
 #### <mark style="color:blue;">**1. 부관리자 로그인**</mark>
 
@@ -186,7 +186,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 2\)**\[그룹변경저장] 버튼을 선택합니다.**&#x20;
 
-&#x20;****&#x20;
+&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%954\_19.09.png)
 
@@ -204,7 +204,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ![](<../.gitbook/assets/구분선 (1) (1).PNG>)
 
-#### &#x20;** **<mark style="color:blue;">**2. QR코드로 앱 미리보기**</mark>&#x20;
+#### &#x20;<mark style="color:blue;">**2. QR코드로 앱 미리보기**</mark>&#x20;
 
 스윙 앱미리보기는 관리자 로그인 외에, QR코드로 찍어서도 앱을 미리보기로 확인할 수 있어요
 
@@ -226,7 +226,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **\*스윙투앱** [**앱운영페이지 → 버전관리 → 앱제작 이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동합니다.**
 
-앱제작이력 페이지 \[앱 미리보기]에서 ** **<mark style="color:blue;">**\[미리보기]**</mark> 메뉴를 확인할 수 있어요.
+앱제작이력 페이지 \[앱 미리보기]에서 <mark style="color:blue;">**\[미리보기]**</mark> 메뉴를 확인할 수 있어요.
 
 
 
@@ -240,7 +240,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **각 앱마다 다른 QR코드가 뜨기 때문에 자신의 계정에 있는 다른 앱들도 동일하게 확인할 수 있어요.**
 
-****
+
 
 <mark style="color:orange;">**\[QR 미리보기 이용방법 움짤 이미지로 확인하기]**</mark>
 
@@ -268,6 +268,5 @@ description: 앱 미리보기 이용방법 매뉴얼
 4\)QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이 가능합니다. \*웹뷰, 푸시앱으로 제작한 앱은 이용 불가&#x20;
 {% endhint %}
 
-<mark style="color:red;">****</mark>
 
-<mark style="color:red;">****</mark>
+

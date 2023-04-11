@@ -22,11 +22,11 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 &#x20;<mark style="color:red;">구글 콘솔에서 25달러 등록 수수료를 결제한 계정이 개발자 계정이 됩니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 **구글 개발자계정 등록방법은 도움말 매뉴얼을 참고해주세요.**
 
-****<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**구글 개발자 계정 등록방법 매뉴얼 보러가기**](google-developer.md)****
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**구글 개발자 계정 등록방법 매뉴얼 보러가기**](google-developer.md)
 
 플레이스토어 출시는 스윙투앱 유료버전앱만 가능합니다.
 
@@ -34,7 +34,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ***
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**플레이스토어 앱 등록 방법은 영상으로도 확인 가능합니다.**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**플레이스토어 앱 등록 방법은 영상으로도 확인 가능합니다.**</mark>
 
 {% embed url="https://youtu.be/uHmzXjdjook" %}
 
@@ -42,11 +42,11 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ## <mark style="color:blue;">**구글 플레이 콘솔 접속**</mark>&#x20;
 
-&#x20;<mark style="color:blue;">****</mark> [https://play.google.com/console/developers](https://play.google.com/console/developers)
+&#x20;[https://play.google.com/console/developers](https://play.google.com/console/developers)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C1.png)
 
-<mark style="color:blue;">**\[앱 만들기]**</mark>** ** 버튼을 선택합니다.
+<mark style="color:blue;">**\[앱 만들기]**</mark> 버튼을 선택합니다.
 
 
 
@@ -256,7 +256,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 <mark style="color:red;">\*코로나 관련 앱은 구글 정책상 출시가 불가합니다.\_보건복지부, 질병예방본부와 같은 인증받은 국가기관에서만 본 앱을 출시할 수 있습니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 ### <mark style="color:blue;">**8.데이터 보안 (21.11 추가 메뉴)**</mark>
 
@@ -294,7 +294,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 그리고 증빙할 수 있는 서류를 반드시 함께 제출해주셔야 합니다.
 
-****
+
 
 <mark style="color:blue;">**앱 콘텐츠 입력 완료!**</mark>
 
@@ -312,11 +312,11 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> STEP2. 스토어 설정 단계
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 스토어 설정 단계
 
 **앱 콘텐츠 단계 입력이 끝났으면, 왼쪽 메뉴의 앱정보 – 스토어 설정으로 이동합니다.**
 
-****
+
 
 ### <mark style="color:blue;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
 
@@ -334,7 +334,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 <mark style="color:red;">\* 필수 입력 항목이며, 그외 항목 입력은 선택사항입니다.</mark>
 
-<mark style="color:red;"></mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C4.png)
 
@@ -342,7 +342,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 **다음은 \[스토어 등록정보 설정]을 선택해주세요.**
 
-****
+
 
 ### <mark style="color:blue;">**2.기본 스토어 등록정보 설정**</mark>
 
@@ -368,7 +368,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 \*그래픽 이미지는 어떻게 보여지나요?
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">****</mark>** 그래픽 이미지의 용도?**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **그래픽 이미지의 용도?**
 
 <figure><img src="../../.gitbook/assets/그래픽이미지_업로드신청서용.png" alt=""><figcaption></figcaption></figure>
 
@@ -416,7 +416,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C6.png)
 
-파란색 글자로 된 <mark style="color:blue;">**국가/지역 추가**</mark>** ** 를 선택합니다.
+파란색 글자로 된 <mark style="color:blue;">**국가/지역 추가**</mark> 를 선택합니다.
 
 
 
@@ -436,7 +436,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 다음으로 프로덕션 화면에서 \[출시] 를 선택합니다.
 
-<mark style="color:blue;">**\[새 버전 만들기]**</mark>** ** 버튼을 선택합니다.
+<mark style="color:blue;">**\[새 버전 만들기]**</mark> 버튼을 선택합니다.
 
 \*상단의 \[새 버전 만들기] 버튼을 선택해도 되구요. 본문 가운데 있는 버튼을 선택해도 상관없습니다.
 
@@ -450,7 +450,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 파일 업로드가 완료되면, **화면 하단의 **<mark style="color:green;">**\[저장]**</mark>**버튼 선택 → **<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
 
-****
+
 
 {% hint style="info" %}
 #### <mark style="color:blue;">**\*AAB파일은 어디서 다운받나요??**</mark>
@@ -468,7 +468,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
 
-앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) **** 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
+앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
 
 \[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
 
@@ -506,7 +506,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B45.png)
 
-<mark style="color:blue;">**\[프로덕션 트랙으로 출시 시작]**</mark> 버튼 선택 → 프로덕션 트랙 출시 메시지 창에서 ** **<mark style="color:blue;">**\[출시]**</mark>** ** 버튼을 선택해주세요.
+<mark style="color:blue;">**\[프로덕션 트랙으로 출시 시작]**</mark> 버튼 선택 → 프로덕션 트랙 출시 메시지 창에서 <mark style="color:blue;">**\[출시]**</mark> 버튼을 선택해주세요.
 
 
 
@@ -522,7 +522,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 **\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능합니다.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**3.프로덕션 등록완료**</mark>
 
@@ -540,7 +540,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 출시 완료 (심사기간 7일 이내)
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 출시 완료 (심사기간 7일 이내)
 
 **\*출시는 바로 되는 것이 아니라, 구글 심사를 거친 뒤 승인이 되는 것이라서 기다려주셔야 해요\~!**
 
@@ -606,4 +606,4 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 **★ 플레이스토어 앱 업데이트를 해야 할 경우는 아래 링크를 확인해주세요!**
 
-**☞** [**\[플레이스토어 앱 업데이트 보러가기\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)****
+**☞** [**\[플레이스토어 앱 업데이트 보러가기\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)

@@ -34,7 +34,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-****
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 단계**
 
@@ -46,7 +46,7 @@
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 사례**
 
-****
+
 
 <mark style="color:blue;">**\*스윙투앱 공식앱 – 이미지 페이지 적용화면**</mark>
 
@@ -64,7 +64,7 @@
 
 \-앱 실행시, 이미지의 특정 배너를 선택하면 연동된 페이지로 이동하게끔 제작할 수 있습니다
 
-****
+
 
 <mark style="color:blue;">**사용자 앱) 명덕외고앱 이미지페이지 적용화면**</mark>
 
@@ -116,9 +116,9 @@
 기존에 작업을 한 내용 물 외에 수정된 이미지를 다시 올려야 할 경우 \[이미지 업로드] 버튼을 이용하는 것이 좋아요 !
 {% endhint %}
 
-****
 
-### <mark style="color:blue;">**2.이미지 페이지 제작**</mark>** **&#x20;
+
+### <mark style="color:blue;">**2.이미지 페이지 제작**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
 
@@ -136,7 +136,7 @@
 마우스를 선택했을 때 해당 툴이 보이지 않기를 원한다면 투명도를 ‘0’으로 설정하면 됩니다**.**
 {% endhint %}
 
-****
+
 
 ### <mark style="color:blue;">**3.도형툴 – 스타일 확인하기**</mark>
 
@@ -156,7 +156,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
 
-****
+
 
 ### <mark style="color:blue;">**4.링크 적용하기**</mark>
 
@@ -206,7 +206,7 @@
 
 예를 들어 **배너를 선택했을때 블로그로 이동하게 하고 싶다고 할 때는 \[링크마법사] 선택 후 \[웹링크]에서 – 블로그 사이트 주소 URL 입력 후 반영해주시면 됩니다.**&#x20;
 
-****
+
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**움짤로 이미지페이지 제작방법 확인하기**
 
@@ -216,7 +216,7 @@
 
 **Background Opacity 에서 ‘0’으로  설정하면 배너를 투명하게 설정할 수도 있습니다.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**5.제작 TIP - 스타일 복제**</mark>
 
@@ -260,7 +260,7 @@ TIP을 한가지 드리면요
 
 배경색을 추가하면 흰색 여백에 이미지 페이지로 등록한 이미지 배경색과 동일한 색상이 입혀지기 때문에 하나의 페이지로 인식됩니다.
 
-****
+
 
 ### <mark style="color:blue;">**7.제작 완료**</mark>
 
@@ -326,9 +326,9 @@ TIP을 한가지 드리면요
 
 **툴팁은 이미지 위에 메시지창 모양의 아이콘을 첨부하여, 부가설명을 기재하는 방법으로 활용됩니다.**
 
-****
 
-****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line">**툴팁 적용 예시)**&#x20;
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line">**툴팁 적용 예시)**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
 

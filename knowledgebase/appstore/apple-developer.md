@@ -6,7 +6,7 @@
 
 앱스토어에 앱을 등록하기 위해서 구글 플레이스토어와 동일하게 애플 개발자 계정을 만들어주셔야 합니다.
 
-\*애플 개발자 사이트: **** [**https://developer.apple.com/**](https://developer.apple.com/) ****&#x20;
+\*애플 개발자 사이트:  [**https://developer.apple.com/**](https://developer.apple.com/)&#x20;
 
 **\*애플은 개발자 등록비 1년 129,000원입니다. 1년마다 등록비 갱신해주셔야 합니다.**&#x20;
 
@@ -18,7 +18,7 @@
 
 <mark style="color:red;">애플 기기 인증이 있어야만 애플개발자 계정 등록이 가능하오니, 개발자 등록시 참고해주시기 바랍니다!</mark>
 
-<mark style="color:red;"></mark>
+
 
 ### <mark style="color:blue;">**STEP.1  애플 개발자 등록사이트 접속**</mark>
 
@@ -26,11 +26,11 @@
 
 
 
-애플 개발자 사이트: **** [**https://developer.apple.com/**](https://developer.apple.com/) ****&#x20;
+애플 개발자 사이트:  [**https://developer.apple.com/**](https://developer.apple.com/)&#x20;
 
 **애플 개발자 사이트로 들어가서, 오른쪽 상단의 \[Account] 버튼을 선택해주세요.**
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**STEP.2 애플 개발자 등록사이트 접속**</mark>
 
@@ -98,7 +98,7 @@ D-U-N-S number는 아래에서 다시 설명해드릴게요\~!!
 저는 개인으로 선택했구요.\
 하단의**\[ Continue ]**를 선택해주세요
 
-****
+
 
 ### <mark style="color:blue;">**STEP.8 기본정보 입력**</mark>
 
@@ -122,7 +122,7 @@ postal Code: 우편번호 입력\
 
 동의함에 체크하고 **Continue** 선택합니다.
 
-****
+
 
 ### <mark style="color:blue;">**STEP.10 기본정보 최종 확인**</mark>
 
@@ -142,7 +142,7 @@ postal Code: 우편번호 입력\
 <mark style="color:red;">1년 이용기간이 끝나면 다시 재결제를 해야 합니다.</mark>\
 **\[Purchase]**버튼을 선택해주세요.
 
-****
+
 
 ### <mark style="color:blue;">**STEP.12 애플 개발자 등록비 결제완료**</mark>
 
@@ -166,9 +166,9 @@ postal Code: 우편번호 입력\
 
 <mark style="color:purple;">해당 메일을 받으셨다면, 안내링크를 눌러서 제출해야만 계정 생성과 앱스토어 개발자 등록 절차가 완료됩니다.</mark>
 
-<mark style="color:purple;"></mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:blue;">**D-U-N-S Number**</mark>
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**D-U-N-S Number**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/7a3f0d81afe06560db9cd61073385386.png)
 
@@ -209,9 +209,9 @@ D\&B가 기업에 무료 D-U-N-S 번호를 이미 할당했을 수도 있습니�
 
 사업자 등록 서류를 준비해 두시기 바랍니다.
 
-&#x20;****&#x20;
+&#x20;
 
-****
+
 
 <mark style="color:red;">**TIP. 영어로 보기가 힘들다면 한국어로 번역할 수 있어요.**</mark>
 

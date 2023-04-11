@@ -26,9 +26,9 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 ‘목록화면(List Screen)'으로 선택할지 ‘작성화면(Create Screen)’으로 선택할지 체크할 수 있습니다.
 
-<mark style="color:blue;">****</mark>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 1. 게시판: 목록화면 <mark style="color:blue;">****</mark>&#x20;
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 게시판: 목록화면&#x20;
 
 <figure><img src="../../../.gitbook/assets/게시판목록1.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,9 +52,9 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 8\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW4.png)
 
@@ -68,11 +68,11 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 따라서 특별한 경우가 아니면 수정하지 않고, 목록화면으로 보기로 이용해주시면 됩니다.&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 2. 게시판: 작성화면
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 게시판: 작성화면
 
 <figure><img src="../../../.gitbook/assets/게시판작성1.png" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +98,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW5.png)
 
@@ -114,7 +114,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 3. 게시판 작성화면 이용목적
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 게시판 작성화면 이용목적
 
 작성화면 설정은 **\*설문지, 동의서, 신청서, 입사지원서 등 사용자에게 필요한 내용을 작성 받을 때 이용할 수 있어요.**
 
@@ -124,7 +124,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**예시: 작성화면으로 사용하는 경우**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**예시: 작성화면으로 사용하는 경우**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98.png)
 
@@ -138,7 +138,7 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 &#x20;
 
-<mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 게시판 작성화면 적용시**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 게시판 작성화면 적용시**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/53ebfd866f6ef882516eb24a072a2d00.png)
 

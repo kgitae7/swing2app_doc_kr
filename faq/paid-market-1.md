@@ -40,7 +40,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B52-1.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [**스윙샵 신청방법 상세보기**](https://wp.swing2app.co.kr/documentation/swingshop/apply/)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**스윙샵 신청방법 상세보기**](https://wp.swing2app.co.kr/documentation/swingshop/apply/)
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
 

@@ -14,13 +14,13 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ***
 
-<mark style="color:blue;">****</mark><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP1.  기본정보설정**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.  기본정보설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EA%B4%80%EB%A6%AC-3.png)
 
@@ -54,7 +54,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 7.전화번호: 전화번호를 입력해주세요.
 
-<mark style="color:red;">**\*\*필수\*\***</mark>** ** 전화번호는 반드시 입력해주셔야 합니다. 결제시 전화번호 인증을 위해 SMS를 발송하게 됨으로 발신 전화번호가 기재되어 있어야 정상 발송됩니다.
+<mark style="color:red;">**\*\*필수\*\***</mark> 전화번호는 반드시 입력해주셔야 합니다. 결제시 전화번호 인증을 위해 SMS를 발송하게 됨으로 발신 전화번호가 기재되어 있어야 정상 발송됩니다.
 
 8\. 이메일: 관리자 이메일 주소를 입력해주세요
 
@@ -80,7 +80,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP2. 쇼핑몰 정보 메뉴 적용하기 **<mark style="color:blue;">****</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 쇼핑몰 정보 메뉴 적용하기**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%87%BC%ED%95%91%EB%AA%B0%EC%A0%95%EB%B3%B4.png)
 
@@ -102,7 +102,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** STEP3. 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
 

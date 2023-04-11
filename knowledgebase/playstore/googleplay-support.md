@@ -33,7 +33,7 @@
 
 [https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
 
-문의하기의 방법은 <mark style="color:blue;">**채팅요청 or 이메일 지원**</mark>** ** 두가지 방법이 있구요.
+문의하기의 방법은 <mark style="color:blue;">**채팅요청 or 이메일 지원**</mark> 두가지 방법이 있구요.
 
 채팅 요청을 하여 전문가와 채팅 상담을 하거나, 메일을 보내 답장을 요청할 수 있습니다.
 

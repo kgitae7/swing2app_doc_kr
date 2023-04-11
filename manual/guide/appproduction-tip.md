@@ -8,7 +8,7 @@ description: 스윙투앱 앱제작 및 앱운영 이용방법 TIP
 
 스윙투앱 앱제작 및 앱운영 이용방법  TIP을 확인해주세요!
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 앱제작 – 튜토리얼 확인
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 앱제작 – 튜토리얼 확인
 
 ![](../../.gitbook/assets/이용팁1\_886.png)
 

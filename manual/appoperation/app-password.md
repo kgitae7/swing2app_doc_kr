@@ -23,7 +23,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 앱 실행) 로그인 메뉴 이동
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱 실행) 로그인 메뉴 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png)
 
@@ -41,7 +41,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 **따라서 처음 앱 제작시 관리자가 이러한 부분을 염두한다면 아이디를 꼭!! ‘이메일’로 설정해주세요.**
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**회원가입에서 아이디를 "이메일"로 설정하는 방법**</mark>
 
@@ -75,7 +75,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 2. 비밀번호 찾기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 비밀번호 찾기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B83.png)
 
@@ -87,7 +87,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 임시 비밀번호 발급
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 임시 비밀번호 발급
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B84.png)
 
@@ -101,11 +101,11 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 새 비밀번호 설정**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 새 비밀번호 설정**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B85.png)
 
-<mark style="color:blue;">**\[설정]**</mark>** ** 에서 ** **<mark style="color:blue;">**\[회원정보 수정]**</mark>** ** 메뉴를 선택해주세요.
+<mark style="color:blue;">**\[설정]**</mark> 에서 <mark style="color:blue;">**\[회원정보 수정]**</mark> 메뉴를 선택해주세요.
 
 현재 비밀번호와 새 비밀번호를 입력한 뒤 저장해주세요.
 
@@ -139,4 +139,3 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 **앱에서 로그인하는 비밀번호를 잊어버린 경우 관리자가 이렇게 비밀번호를 재설정해줄 수 있으니, 유용하게 사용해주세요 .**
 
-****

@@ -4,7 +4,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 # 플레이스토어 업로드 신청방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Q. 플레이스토어에 스윙으로 제작한 앱을 올리고 싶으면 어떻게해야 하나요?**</mark>
 
@@ -18,7 +18,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **\[플레이스토어 업로드 신청]을 해주셔야만 담당자가 확인 후 해당 앱을 마켓에 등록해드릴 수 있습니다.**
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**Q. 업로드 신청은 어디서 어떻게 하는건가요?**</mark>
 
@@ -30,7 +30,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **양식에 기재된 항목들을 입력 한 뒤  ‘신청’ 해주시면 해당 양식으로 담당자가 앱을 플레이스토어에 올려드릴 수 있어요!**
 
-****
+
 
 <mark style="color:blue;">**Q. 업로드 신청하면, 앱이 바로 플레이스토어 출시되나요?**</mark>
 
@@ -60,7 +60,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
 
-★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다. <mark style="color:orange;">****</mark>&#x20;
+★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
 {% content-ref url="../../../market-policy.md" %}
 [market-policy.md](../../../market-policy.md)
@@ -74,7 +74,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 1. 플레이스토어 업로드 신청방법
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 플레이스토어 업로드 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%88%98%EC%A0%951.png)
 
@@ -82,19 +82,19 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 플레이스토어 업로드티켓(1회 10,000원)은 [**\[이용권 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/shop\_list)에서 구매 가능합니다.
 
-\*구매가 완료되었다면, **** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
+\*구매가 완료되었다면, [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 플레이스토어 업로드 신청서**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 플레이스토어 업로드 신청서**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C-1.png)
 
-업로드 신청 버튼은 누르면, 업로드 신청서 팝업창이  뜹니다.  **** &#x20;
+업로드 신청 버튼은 누르면, 업로드 신청서 팝업창이  뜹니다. &#x20;
 
 항목들을 입력해주시면 되구요.
 
-&#x20;** **<mark style="color:red;">**\* 빨간색**</mark> 으로 표시된 항목은 필수 입력해주셔야 합니다.
+&#x20;<mark style="color:red;">**\* 빨간색**</mark> 으로 표시된 항목은 필수 입력해주셔야 합니다.
 
 
 
@@ -106,7 +106,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 3. 플레이스토어 업로드 신청서 작성방법
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 플레이스토어 업로드 신청서 작성방법
 
 업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.&#x20;
 
@@ -198,7 +198,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 개인정보 취급방침 URL은 기본 셋팅되어서 제공되는데요. 이용정책 관련 내용은 고객님께서 직접 수정해서 사용하셔야 합니다.
 
-개인정보 처리방침 등의 이용정책을 수정하기 위해서는 ** **<mark style="color:blue;">**\[스윙 이용정책 수정하기]​​**</mark> 버튼을 눌러서 수정한 뒤, 저장해주시면 됩니다.
+개인정보 처리방침 등의 이용정책을 수정하기 위해서는 <mark style="color:blue;">**\[스윙 이용정책 수정하기]​​**</mark> 버튼을 눌러서 수정한 뒤, 저장해주시면 됩니다.
 
 <mark style="color:red;">\*사용자의 홈페이지를 그대로 앱에 적용해서 만든 푸시 or 웹뷰 버전 앱은 해당 홈페이지에서 제공하는 개인정보 처리방침 URL을 복사해서 붙여넣어주세요.</mark>
 
@@ -227,7 +227,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 {% hint style="warning" %}
 <mark style="color:orange;">구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.</mark>&#x20;
 
-**☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer-invitation)****
+**☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer-invitation)
 {% endhint %}
 
 개발자 초대를 해주셔야 사용자분의 계정 대시보드 접근이 가능하며, 앱 등록 작업을 해드릴 수 있습니다.
@@ -246,7 +246,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C4.png)
 
-****<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
+<img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
 
 업로드 신청서에 보시면\[마케팅 정보 활용 약관 보기] 버튼이 있습니다.
 
@@ -282,7 +282,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> 4. 업로드 신청완료
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 업로드 신청완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%EC%88%98%EC%A0%95\_19.10.png)
 
@@ -302,7 +302,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> 5. 안내사항
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 안내사항
 
 **1) 업로드 티켓 10,000원은 1회 비용입니다.**
 
@@ -324,7 +324,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 4\) 플레이스토어 업로드 신청 전 반드시 사용자 분의 구글 개발자 계정을 미리 만들어주셔야 합니다.
 
-(구글 개발자 등록 수수료 25달러 있습니다.)   [**\[구글 개발자 계정 콘솔\]**](https://play.google.com/apps/publish/)****
+(구글 개발자 등록 수수료 25달러 있습니다.)   [**\[구글 개발자 계정 콘솔\]**](https://play.google.com/apps/publish/)
 
 5\)구글 개발자 계정을 스윙에서 대리로 결제해드리지 않으며, 반드시 사용자분의 개별 계정으로만 이용이 가능합니다.
 
@@ -342,7 +342,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 
 
-★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다. <mark style="color:orange;">****</mark>&#x20;
+★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
-**☞** [**\[스토어 이용약관 확인하기\]**](https://documentation.swing2app.co.kr/market-policy)****
+**☞** [**\[스토어 이용약관 확인하기\]**](https://documentation.swing2app.co.kr/market-policy)
 

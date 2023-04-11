@@ -16,17 +16,17 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 배송관리**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 배송관리**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.png)
 
 스윙샵 신청후 [스윙샵 → 1)상점관리 → 2)배송관리 ](http://www.swing2app.co.kr/view/store\_info\_delivery\_setting)페이지로 이동합니다.
 
-****
+
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 배송관리 항목 입력**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 배송관리 항목 입력**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC5.png)
 
@@ -48,7 +48,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 배송입력 항목**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 배송입력 항목**
 
 배송 입력 항목에 내용을 입력한 후, 앱에서 어떻게 해당 내용이 나타나는지 알아볼게요\~!
 
@@ -66,7 +66,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-&#x20;<mark style="color:orange;">****</mark> <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+&#x20;<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png)
 
@@ -80,23 +80,23 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 >
 > 해당 정보 외에 다른 내용이 필요하다면 이용해주시고, 필요하지 않으면 사용하지 않아도 됩니다.
 
-<mark style="color:orange;">****</mark>
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**배송관리 입력방법 움짤로 확인하기**</mark>
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**배송관리 입력방법 움짤로 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.gif)
 
-<mark style="color:blue;"></mark>
+
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행화면**
 
 배송비 금액을 설정한 뒤, 앱에서는 어떻게 나타나는지 앱을 실행하여 확인해보겠습니다.
 
 
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png)
 
@@ -104,7 +104,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**배송비 포함**</mark>
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 포함**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png)
 

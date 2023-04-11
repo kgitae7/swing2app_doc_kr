@@ -4,7 +4,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 # 애드몹 플러그인 광고 셋팅
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **애드몹 플러그인 광고 셋팅 방법**
 
@@ -16,9 +16,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 셋팅부터 스토어 출시 과정까지 안내드리오니 애드몹 광고 셋팅을 희망하신다면 해당 매뉴얼을 보시고 진행해주시기 바랍니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **** 애드몹 광고 적용 앱
+### <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> 애드몹 광고 적용 앱
 
 <figure><img src="../../.gitbook/assets/애드몹 광고화면.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 {% hint style="info" %}
 **애드몹 광고 중요 안내- 왜 광고가 바로 안뜨나요?**
 
-****
+
 
 순서대로 광고 아이디를 만들고, 애드몹 플러그인에 광고 아이디 셋팅을 완료한 다음 앱제작 후 앱을 확인했지만 광고가 바로 안뜰 수 있습니다.
 
@@ -71,9 +71,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **=> 구글에서 가이드라인으로 제시한 시간은 2일 이내 길게는 일주일 정도 소요될 수 있습니다.**
 
-****
 
-따라서 광고가 바로 뜨지 않아도 애드몹 적용된 앱은 스토어 출시 및 업데이트를 **** 바로 진행하셔도 됩니다.
+
+따라서 광고가 바로 뜨지 않아도 애드몹 적용된 앱은 스토어 출시 및 업데이트를 바로 진행하셔도 됩니다.
 
 스토어 출시도 심사 기간이 있기 때문에 해당 심사 기간 동안 광고가 뜰 수 있구요.
 
@@ -83,12 +83,12 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **\*그리고!  구글 애드몹 사이트에서 광고 검토를 안했거나, 결제 프로필 미입력 등,,, 입력을 빼먹은 항목이 없는지도 다시 확인해주세요**
 
-**▶** [**애드몹 플러그인 주의사항 확인하기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admobplugin-check)****
+**▶** [**애드몹 플러그인 주의사항 확인하기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admobplugin-check)
 
 
 {% endhint %}
 
-****
+
 
 ![](<../../.gitbook/assets/info (2).png>)
 
@@ -106,7 +106,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 저장 한 뒤 앱을 다시 실행하시면 테스트 광고가 뜨는 것을 확인할 수 있습니다.  **(앱을 완전히 종료한 뒤, 재실행해주세요)**
 
-****
+
 
 <mark style="color:blue;">**핸드폰 앱 실행) 테스트용 애드몹 광고 화면**</mark>
 
@@ -118,7 +118,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 1. 앱제작 완료**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱제작 완료**
 
 애드몹 광고 적용 전 앱제작을 완료해주세요.
 
@@ -130,9 +130,9 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 2. 애드몹 플러그인 단품 상품 or 패키지 상품 구매**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 애드몹 플러그인 단품 상품 or 패키지 상품 구매**
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**1) 구글 애드몹 적용 플러그인 상품 구매 (단품)**</mark>
 
@@ -148,7 +148,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **or**
 
-****
+
 
 <mark style="color:blue;">**2) 애드몹 파워 패키지**</mark>
 
@@ -170,7 +170,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 3. 애드몹 사이트 가입 및 광고 셋팅에 필요한 아이디 만들기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 애드몹 사이트 가입 및 광고 셋팅에 필요한 아이디 만들기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9\_20.10.png)
 
@@ -198,7 +198,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 4. 애드몹 플러그인 설정에서 광고 셋팅하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 애드몹 플러그인 설정에서 광고 셋팅하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png)
 
@@ -206,7 +206,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 **앱운영 →서비스관리→ 애드몹 플러그인 설정**&#x20;
 
-****
+
 
 <mark style="color:blue;">**1)광고단위 아이디 설정**</mark>
 
@@ -218,7 +218,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 \-안드로이드, 아이폰 앱 아이디 입력
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:blue;">**2)app-ads.txt 등록하기**</mark>
 
@@ -246,7 +246,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/admob/app-adstxt" %}
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**3)광고노출 패턴 설정**</mark>
 
@@ -264,7 +264,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> ** **<mark style="color:blue;">**전면광고 노출 설정**</mark>
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:blue;">**전면광고 노출 설정**</mark>
 
 {% hint style="danger" %}
 일반 프로토타입으로 제작한 앱에서만 전면광고 노출을 설정할 수 있습니다.
@@ -318,11 +318,11 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 <mark style="color:red;">\*광고 정책 위반으로 광고가 정지될 경우 스윙투앱에서 해결해드리지 않는 점 유념해주세요.</mark>
 {% endhint %}
 
-<mark style="color:red;">****</mark>
+
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 5. 앱 업데이트**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5. 앱 업데이트**
 
 <figure><img src="../../.gitbook/assets/업데이트 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -352,9 +352,9 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 6. 광고 셋팅 앱제작 완료 (앱 테스트)**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **6. 광고 셋팅 앱제작 완료 (앱 테스트)**
 
-****
+
 
 <mark style="color:blue;">**1)스토어 출시 전 앱은 광고가 바로 뜨지 않기 때문에 테스트 광고 아이디를 넣어서 테스트 해볼 수 있습니다.**</mark>
 
@@ -376,9 +376,9 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 **테스트 광고가 앱에서 잘 뜬다면 광고 셋팅이 잘 된 것이므로 앱을 플레이스토어, 앱스토어에 등록하여 출시해주세요.**
 
-****
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **테스트 광고 화면**
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **테스트 광고 화면**
 
 ![](<../../.gitbook/assets/애드몹테스트광고 (1).png>)
 
@@ -392,9 +392,9 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
-<mark style="color:blue;">****</mark>
 
-****<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> **앱 다운 받는 방법 확인하기**
+
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **앱 다운 받는 방법 확인하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_12\_44\_788.gif)
 
@@ -414,9 +414,9 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 7. 광고 송출 체크하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **7. 광고 송출 체크하기**
 
 플레이스토어 출시 전 앱 광고는 바로 뜨지 않을 수 있습니다.
 
@@ -448,7 +448,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 해당 내용 진행이 안되실 경우 애드몹 광고를 셋팅완료해도, 실제 앱 광고 게시가 지연될 수 있습니다.
 
-<mark style="color:red;">****</mark>
+
 
 **\*해당 내용 외 광고가 바로 뜨지 않는 이유들이 더 있으니 애드몹 플러그인 운영 주의사항을 확인해주세요!**
 
@@ -456,7 +456,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 8. 스토어 등록 진행하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **8. 스토어 등록 진행하기**
 
 
 
@@ -482,9 +482,9 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 \*결제한 뒤 꼭 업로드 신청을 해주세요
 
-**☞**[**\[플레이스토어 업로드 신청방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)****
+**☞**[**\[플레이스토어 업로드 신청방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)
 
-**☞**[**\[앱스토어 업로드 신청 방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload)****
+**☞**[**\[앱스토어 업로드 신청 방법\]**](https://documentation.swing2app.co.kr/manual/appmanage/version/appstore-upload)
 
 
 
@@ -496,7 +496,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 9. 애드몹 운영 주의사항 (사용자 확인)**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **9. 애드몹 운영 주의사항 (사용자 확인)**
 
 **1) 애드몹 계정은 한 사람 당 계정 1개만 운영하여 사용할 수 있습니다.**
 
@@ -510,7 +510,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 **계정에는 여러 앱의 광고 아이디를 등록할 수 있습니다.**&#x20;
 
-****
+
 
 **2)애드몹 광고는 운영자가 계속 체크해서 관리해야 합니다.**
 
@@ -538,7 +538,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 **=무효트래픽으로 광고가 내려갔을 경우 구글에서 광고를 다시 게시하기까지 기다리는 방법 밖에는 없습니다.**
 
-****
+
 
 **4)트래픽이 저조할 경우 앱 광고 게시가 중단될 수 있습니다.**
 
@@ -564,7 +564,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **10. 주의사항**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **10. 주의사항**
 
 <mark style="color:blue;">-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​</mark>
 
@@ -614,7 +614,7 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 ![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark>** 11. 환불 안내**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **11. 환불 안내**
 
 1\)사용하지 않은 플러그인 상품은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment\_list) 환불 신청 가능
 

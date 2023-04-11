@@ -14,7 +14,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 홈화면- 앱소개 페이지 적용하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 홈화면- 앱소개 페이지 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%88%ED%99%94%EB%A9%B4-%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80new1-1.png)
 
@@ -36,11 +36,11 @@
 
 7\)\[저장] 버튼을 누르면 완료!!
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**홈화면에 앱소개 페이지 적용하는 방법 움짤로 보기.gif**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**홈화면에 앱소개 페이지 적용하는 방법 움짤로 보기.gif**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_11\_26\_17\_33\_58\_450.gif)
 
-<mark style="color:red;">**★ 앱소개 화면은 스윙투앱으로 앱제작을 처음 할 경우는 초기 기본셋팅값으로 적용되기 때문에 따로 적용할 필요는 없습니다.**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark>&#x20;
+<mark style="color:red;">**★ 앱소개 화면은 스윙투앱으로 앱제작을 처음 할 경우는 초기 기본셋팅값으로 적용되기 때문에 따로 적용할 필요는 없습니다.**</mark>&#x20;
 
 그러나 다른 메뉴를 사용하다 홈화면을 앱소개 화면으로 다시 변경할 경우는, 위의 방법으로 적용해주시면 됩니다.
 
@@ -84,11 +84,11 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 앱소개 내용, 배너 삭제하기**</mark> &#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 앱소개 내용, 배너 삭제하기**</mark> &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%95new2.png)
 
-배너 버튼이나 앱 소개, 설명을모두 지우고 싶을 경우 각 항목의 <mark style="color:purple;">**\[초기화]**</mark>** ** 버튼을 누른 뒤 \[저장] 누르면 앱에서 배너가 제거됩니다.
+배너 버튼이나 앱 소개, 설명을모두 지우고 싶을 경우 각 항목의 <mark style="color:purple;">**\[초기화]**</mark> 버튼을 누른 뒤 \[저장] 누르면 앱에서 배너가 제거됩니다.
 
 
 
@@ -100,13 +100,13 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 앱 실행화면**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 앱 실행화면**</mark>
 
 **앱 실행화면을 통해서 앱소개 하단의 아이콘배너를 선택하면 페이지가 어떻게 연동되는지 확인해볼게요!**
 
-****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
 
@@ -116,7 +116,7 @@
 
 **전화 버튼을 선택하면, 입력해놓은 전화번호로 자동으로 전화걸기 페이지로 이동합니다.**
 
-****
+
 
 <mark style="color:orange;">**2) 이메일 발송**</mark>
 
@@ -127,7 +127,7 @@
 
 **메일 버튼을 선택하면, 입력해놓은 이메일주소로 이메일발송 페이지로 이동합니다.**&#x20;
 
-****
+
 
 <mark style="color:orange;">**3) 공유하기**</mark>
 

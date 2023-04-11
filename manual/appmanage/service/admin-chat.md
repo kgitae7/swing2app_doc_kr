@@ -1,29 +1,30 @@
+---
+description: 서비스관리-채팅 관리자 페이지 이용방법 안내
+---
+
 # 채팅 관리자 페이지 (웹 대시보드용)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B1%84%ED%8C%85-%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%9C%EB%AA%A9.png)
-
-**채팅 관리자 페이지 – 채팅 목록 이용방법**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 채팅목록은 1:1채팅(관리자채팅)을 이용하시는 분들께 유용한 기능이에요.&#x20;
 
 채팅방에서 앱 회원이 메시지를 보내면 채팅 관리자 페이지를 통해서 숫자 뱃지, 웹 알림 등으로 빠르게 내용을 확인할 수 있구요.
 
-목록 페이지에서 회원들의 채팅 목록을 확인하여 직접 메시지를 주고 받을 수 있습니다. \
-
+목록 페이지에서 회원들의 채팅 목록을 확인하여 직접 메시지를 주고 받을 수 있습니다.&#x20;
 
 매뉴얼을 통해서 채팅 목록 메뉴를 이용하는 방법을 확인해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**1. 채팅 관리자 페이지 이동**</mark>
+## 1. 채팅 관리자 페이지 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%B1%84%ED%8C%85%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 스윙 홈페이지 접속 후  [**앱운영 페이지에서 → 서비스관리** ](http://www.swing2app.co.kr/view/admin\_chatting)**→  채팅 관리자페이지** 로 이동합니다.&#x20;
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**2. 채팅 목록**</mark>
+## 2. 채팅 목록
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85%ED%8E%98%EC%9D%B4%EC%A7%80new2.png)
 
@@ -48,7 +49,9 @@
 
 ***
 
-<mark style="color:blue;">**3. 채팅 목록 기능**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## 3. 채팅 목록 기능
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9bde13d64efa084d8bbe556856d87a7e.png)
 
@@ -60,7 +63,7 @@
 
 **메시지를 읽으면 숫자 뱃지는 사라집니다.**&#x20;
 
-****
+
 
 <mark style="color:orange;">**2) PC 알림 창**</mark>
 
@@ -70,7 +73,8 @@
 
 **PC 화면 하단에 채팅방 메시지가 오면 알림창이 표시가 됩니다.**
 
-<mark style="color:orange;"></mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**3) 웹사이트 채팅방 개설**</mark>
+\
+<mark style="color:orange;">**3) 웹사이트 채팅방 개설**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4cf31405ee64937a401b0f5d2516bb7a.png)
 
@@ -80,7 +84,7 @@
 
 (앱에서도 당연히 기존의 방법처럼 채팅 이용하실 수 있어요 ^^)
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:red;">**★ 안내 사항**</mark>
 
@@ -90,19 +94,45 @@
 
 \
 \
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:purple;">**알림 숫자 뱃지, PC알림창 확인하기**</mark>
+<mark style="color:purple;">**알림 숫자 뱃지, PC알림창 확인하기**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6801a505faff31d0e090b981ddad98cb.png)
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:purple;">**웹에서 채팅방 실행하기**</mark>
+<mark style="color:purple;">**웹에서 채팅방 실행하기**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/791f5b0f06f783dc7d00417368182fa3.png)
 
-<mark style="color:blue;">**4. 앱에 1:1채팅을 적용하는 방법**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## 4. 앱에 1:1채팅을 적용하는 방법
 
 마지막으로 1:1 채팅을 앱에 적용하는 방법을 알려드릴게요.
 
-1:1 채팅은 스윙 페이지에서 **\[관리자 채팅]**으로 제공하고 있어요.
+
+
+### <mark style="color:blue;">**1)앱제작 V3 버전 이용시**</mark>
+
+<figure><img src="../../../.gitbook/assets/관리자채팅.png" alt=""><figcaption></figcaption></figure>
+
+앱제작 화면 이동
+
+1\)STEP3 페이지 단계로 이동합니다.
+
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.&#x20;
+
+5\) ‘관리자 채팅’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.&#x20;
+
+
+
+### <mark style="color:blue;">**2)앱제작 V2 버전 이용시**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW1-1.png)
 

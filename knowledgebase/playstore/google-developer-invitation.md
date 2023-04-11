@@ -1,6 +1,6 @@
 # 플레이스토어 구글 개발자계정 초대하기
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **구글 개발자계정 초대란?**
 
@@ -8,7 +8,7 @@
 
 **스윙투앱 계정을 고객님의 구글 개발자계정에 사용자로 추가해주시면, 저희가 플레이스토어에 고객님의 앱을 올려드릴 수 있습니다.**
 
-****
+
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **개발자계정 초대 방법**
 
@@ -30,9 +30,9 @@
 
 ***
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 구글 플레이 개발자 콘솔 사이트 접속
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 구글 플레이 개발자 콘솔 사이트 접속
 
 먼저 구글 개발자 계정을 이용하시려면, 콘솔 사이트에서 계정 등록비를 결제해야 하는것 아시죠? 결제 후 등록을 완료해주세요.
 
@@ -60,9 +60,9 @@
 
 7\)\[사용자 초대]를 선택하면 완료됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 사용자 초대 완료
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 사용자 초대 완료
 
 \*이렇게 스윙투앱 계정을 입력하고 초대장을 보내주시면 끝납니다.
 
@@ -78,9 +78,9 @@
 
 <mark style="color:red;">구글 개발자 초대는 사용자의 구글 계정에 접속하지 않고, 사용자분의 구글 플레이 콘솔만 확인하여  앱 등록만 진행하는 용도로 사용됩니다.</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ****![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 추후 관리
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 추후 관리
 
 초대된 개발자 계정은 어디서 확인하고, 어디서 관리할 수 있나요?
 

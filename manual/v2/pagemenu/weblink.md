@@ -14,7 +14,7 @@
 
 페이지메뉴 단계에서 \[웹링크] 메뉴를 이용하는 방법을 알려드리겠습니다**.**&#x20;
 
-****
+
 
 > <mark style="color:red;">**★ 잠깐!!**</mark>
 
@@ -30,7 +30,7 @@
 
 **앱 안에서 링크를 여는 스타일이 아니라, 앱에 새로운 창을 띄어서 해당 사이트가 문제 없이 열릴 수 있도록 하는 것이죠!!**
 
-****
+
 
 외부 앱으로 열기도 동일한데요. 새창으로 보기와 다른 점은 어플이 실행되어 링크가 열리는 구조입니다.&#x20;
 
@@ -71,7 +71,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 웹링크 메뉴 이용시 주의사항**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 웹링크 메뉴 이용시 주의사항**</mark>
 
 <mark style="color:purple;">**웹링크는 카테고리에만 적용해주세요.  홈화면에는 적용하지 않도록 해주세요.**</mark>
 
@@ -87,13 +87,13 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 어플 실행 화면**</mark>&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 어플 실행 화면**</mark>&#x20;
 
 **앱을 실행하여 새창으로보기와 외부앱으로 보기가 어떻게 다른지 확인할게요!**
 
-****
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**새창으로 보기**</mark>
+
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**새창으로 보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_15\_59\_42\_883.gif)
 
@@ -105,7 +105,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>**  **<mark style="color:orange;">**외부앱으로 열기**</mark>
+<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**외부앱으로 열기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_16\_02\_05\_720.gif)
 

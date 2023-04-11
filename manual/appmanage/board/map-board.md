@@ -4,7 +4,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 # 위치등록(지도)게시판
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **위치등록 게시판이란?**
 
@@ -20,9 +20,9 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/google-map" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**앱 실행화면 – 지도게시판**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>&#x20;
+<mark style="color:blue;">**앱 실행화면 – 지도게시판**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90\_8.13.png)
 
@@ -32,7 +32,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 아래에서 지도게시판을 만들고 앱에 적용하는 과정을 모두 알려드리겠습니다\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. 지도 게시판 생성
 
@@ -42,11 +42,11 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 [앱운영 페이지 → 서비스관리 ](http://www.swing2app.co.kr/view/board\_edit)→ 게시판 관리 로 이동합니다.
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90NEW2.png)
 
-게시판 관리 페이지에서 <mark style="color:blue;">**\[게시판 생성]**</mark>** ** ​버튼을 선택하면 게시판 설정 창이 뜹니다.
+게시판 관리 페이지에서 <mark style="color:blue;">**\[게시판 생성]**</mark> ​버튼을 선택하면 게시판 설정 창이 뜹니다.
 
 
 
@@ -86,7 +86,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 해외 주소를 사용하여 지도게시판을 만들어야 할 경우 위치등록(구글맵)을 이용해주세요\~
 {% endhint %}
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**2.고급설정**</mark>
 
@@ -102,7 +102,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 만든 게시판에 위치를 등록해보겠습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 지도게시판 – 위치등록하기
 
@@ -117,7 +117,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 **주소를 입력하거나, 다음(카카오맵)에 등록된 업체라면 업체나 회사명, 키워드를 검색해서도 추가할 수 있습니다.**
 
-****
+
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e035eb92f5c6be6bade780e7e0a2ae46.png)
 
@@ -169,7 +169,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 그리고 여러 업체들을 관리하는 앱이라면 여러 업체들의 주소를 추가하여 등록 할 수 있어요\~
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**위치를 추가할 때는 어떻게 하나요?**</mark>
 
@@ -190,7 +190,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 앱제작 페이지로 이동하여서 앱에 게시판을 적용해볼게요
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;STEP3. 앱에 지도게시판 적용하기
 
@@ -250,7 +250,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. 앱 실행화면
 

@@ -4,7 +4,7 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 
 # 게시판 - 게시물 예약 설정
 
-****
+
 
 게시물 작성시 예약을 설정할 수 있습니다.&#x20;
 
@@ -12,7 +12,7 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 
 매뉴얼을 통해서 게시물 작성시 예약을 설정하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 예약설정 이용방법**</mark> &#x20;
 
@@ -34,7 +34,7 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 
 <mark style="color:red;">\*예약설정을 할 때는 반드시 현재 시간 보다 이후 시간에만 예약이 가능한 점 유념해주세요.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%88%EC%95%BD%EC%9E%91%EC%84%B13.png)
 
@@ -65,7 +65,7 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 {% hint style="success" %}
 <mark style="color:green;">**\*안내사항**</mark>
 
-<mark style="color:green;">****</mark>
+
 
 &#x20;1\. 예약글 설정은 새 글 등록시에만 설정이 가능합니다.
 
@@ -80,4 +80,3 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 4\. 예약설정 기능은 웹 대시보드- 게시물 관리에서만 이용 가능합니다.
 {% endhint %}
 
-<mark style="color:red;">****</mark>

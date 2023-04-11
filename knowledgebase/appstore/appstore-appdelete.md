@@ -46,7 +46,7 @@
 
 ***
 
-&#x20;<mark style="color:blue;"></mark>&#x20;
+&#x20;
 
 ### <mark style="color:blue;">**STEP.3 가격 및 사용가능 여부 선택**</mark>
 
@@ -64,7 +64,7 @@
 
 바로 밑에 있는<mark style="color:purple;">**‘판매 중단’**</mark>에 체크를 해주시구요.
 
-상단의 <mark style="color:purple;">**‘저장’**</mark>** ** 버튼을 누르면 삭제가 완료됩니다.
+상단의 <mark style="color:purple;">**‘저장’**</mark> 버튼을 누르면 삭제가 완료됩니다.
 
 **\*\* 구글 플레이스토어와 마찬가지로 애플도 앱을 삭제했다고 마켓에서 바로 없어지는 것이 아니구요.**
 

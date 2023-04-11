@@ -4,7 +4,7 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 
 # 게시판 종류, 디자인스타일
 
-****
+
 
 스윙투앱은 여러 스타일의 게시판을 제공하고 있습니다.&#x20;
 
@@ -21,7 +21,7 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 &#x20;게시판 UI및 기능을 선택할 수 있습니다. \
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 이미지 게시판**</mark>
 
@@ -85,7 +85,7 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 
 **일반 지도를 이용하실 경우 카카오지도 서비스가 연동된 \[9.위치등록 게시판]을 이용해주시면 됩니다.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**12. 캘린더 게시판**</mark>
 
