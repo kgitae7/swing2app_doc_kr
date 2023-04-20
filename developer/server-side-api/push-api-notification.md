@@ -100,7 +100,9 @@ messageImageUrl:이미지 주소
 
 
 
-\[제목 내용만 전송할 경우] {"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }
+\[제목 내용만 전송할 경우]&#x20;
+
+{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}

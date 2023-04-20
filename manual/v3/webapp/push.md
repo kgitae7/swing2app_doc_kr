@@ -474,7 +474,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 업로드티켓도 동일하게 각각 구매해주시면 됩니다. (플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원)
 
-<figure><img src="../../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **푸시전용 무제한 유료앱 상품은 일반 이용권과는 다른 이용 주의사항이 있습니다.**
 
