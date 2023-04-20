@@ -6,12 +6,6 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-푸시버전앱에서 푸시를 보내는 방법과 특이사항을 확인해주세요.
-
-푸시앱제작 방법은 아래 매뉴얼을 확인해주세요.
-
-**☞** [**푸시앱제작 매뉴얼 보러가기**](../../v2/appbasic/pushapp.md)
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%A9%94%EC%8B%9C%EC%A7%80-KR.png)
 
 ### <mark style="color:blue;">**안드로이드폰) 발송된 푸시 확인**</mark>
@@ -20,81 +14,119 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 안드로이드폰에 발송된 푸시 입니다.
 
-푸시 스타일은 폰 기종마다 다르며, <mark style="color:red;">특히 아이폰은 푸시 이미지가 표시되지 않습니다!</mark>
-
 
 
 ### <mark style="color:blue;">**아이폰) 발송된 푸시 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A1%ED%99%94%EB%A9%B4.png)
 
-따라서 스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
+<mark style="color:red;">특히 아이폰은 푸시 이미지가 표시되지 않습니다!</mark>
+
+푸시 스타일은 폰 기종마다 다르며,  스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
+
+
+
+푸시앱제작 방법은 아래 매뉴얼을 확인해주세요.
+
+{% embed url="https://documentation.swing2app.co.kr/manual/v3/webapp/push" %}
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. **푸시전용앱에서 푸시 발송하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. **푸시 발송하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A11.png)
 
 스윙 홈페이지 접속 후 [앱운영 페이지 → 푸시&회원 → 푸시발송하기](http://www.swing2app.co.kr/view/push) 페이지로 이동합니다.
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 기본설정
+### <mark style="color:blue;">1.기본설정</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B2%84%EC%A0%84%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A13.png)
 
-푸시발송하기 첫번째 단계는 기본설정인데요.
+푸시발송하기 첫번째 단계는 기본설정입니다. &#x20;
 
-<mark style="color:green;">**\*\*푸시버전앱 – 푸시 발송 시 회원을 선택할 수 없고 전체발송만 가능합니다.**</mark>
+\- 푸시를 보낼 회원을 선택하는 단계에요.
 
-**푸시전용앱은 웹사이트(홈페이지)링크를 그대로 앱에 적용해서 만든앱이기 때문에 앱에서 가입하는 회원이 없어요.​**
+\-푸시앱은 회원연동을 하지 않을 경우 회원 선택이 되지 않으며 전체발송만 가능합니다.&#x20;
 
-**따라서 앱에서는 회원을 인식할 수 없기 때문에 회원을 선택할 수 없고, 전체발송만 가능합니다.**
+푸시앱은 웹사이트(홈페이지)링크를 그대로 앱에 적용해서 만든앱이기 때문에 앱에서 가입하는 회원이 없어요.​
 
-**모두 ‘손님’으로 표시되요.**
+따라서 앱에서는 회원을 인식할 수 없기 때문에 회원을 선택할 수 없고, 전체발송만 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+모두‘손님’으로 표시됩니다.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 푸시 보내기
+푸시앱에서 회원을 선택해서 개별 푸시를 발송하길 원하시면, 아래 방법을 확인해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B2%84%EC%A0%84%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A1.png)
 
-**1.푸시 메시지 제목**
 
-제목을 입력해주세요. <mark style="color:red;">**\*필수입력**</mark>
+> ### <mark style="color:blue;">웹사이트 회원 연동 가능</mark>
 
-**2. 메시지 내용**
+웹사이트의 회원을 앱으로 연동할 수 있습니다.&#x20;
 
-내용은 너무 길게 입력하지 않도록 해주세요. 글자수가 많으면 짤려서 보입니다. <mark style="color:red;">**\*필수 입력**</mark>
+회원을 연동하면 웹사이트의 회원 정보를 가져올 수 있고, 푸시 역시 개별 회원을 선택해서 보낼 수 있습니다.
 
-**3. 이미지 등록**
+<figure><img src="../../../.gitbook/assets/푸시앱_회원연동5.png" alt=""><figcaption></figcaption></figure>
 
-푸시발송시 보여질 이미지를 등록해주세요 <mark style="color:red;">\*필수가 아니라서 이미지를 넣지 않아도 됩니다</mark>.
+\[자세히보기] 버튼을 클릭하면, 웹사이트 연동에 관련된 가이드를 확인할 수 있습니다.
+
+사용자분의 웹사이트 내에서 회원을 연동하는 방법을 가이드를 통해 확인해주시구요.
+
+해당 방법대로 진행시 스윙투앱으로 웹사이트의 회원 정보가 표시됩니다.&#x20;
+
+<mark style="color:red;">\*연동후 앱에서 사이트를 실행한 사용자부터 스윙투앱 콘솔 회원조회화면에서 표시가 됩니다.</mark>
+
+<mark style="color:red;">연동 전 가입한 이전 회원 목록은 불러오지 못합니다.</mark>
+
+{% embed url="https://documentation.swing2app.co.kr/developer/webview/user-integration" %}
+일반 웹사이트 회원 연동시 해당 가이드로 확인해주세요.
+{% endembed %}
+
+{% embed url="https://documentation.swing2app.co.kr/developer/webview/user-integration/wordpress" %}
+워드프레스 웹사이트 회원 연동시 해당 가이드로 확인해주세요.
+{% endembed %}
+
+
+
+### <mark style="color:blue;">2.푸시보내기</mark>
+
+<figure><img src="../../../.gitbook/assets/푸시발송_업뎃1.png" alt=""><figcaption></figcaption></figure>
+
+**1)푸시 메시지 제목 **<mark style="color:red;">**\*필수입력**</mark>
+
+제목을 입력해주세요.&#x20;
+
+**2) 메시지 내용 **<mark style="color:red;">**\*필수 입력**</mark>
+
+내용은 너무 길게 입력하지 않도록 해주세요. 글자수가 많으면 짤려서 보입니다.&#x20;
+
+**3) 이미지 등록** <mark style="color:red;">\*선택사항 (이미지를 넣지 않아도 됩니다)</mark>
+
+푸시발송시 보여질 이미지를 등록해주세요&#x20;
 
 <mark style="color:red;">-이미지는 가로 1000px, 세로 500px 권장</mark>
 
 <mark style="color:red;">-아이폰에서는 기기 특성상 푸시 이미지가 보이지 않고, 안드로이드폰에서만 보입니다.</mark>
 
-**4. 링크 등록**
+**4) 링크 등록** <mark style="color:red;">\*선택사항</mark>
 
 푸시 메시지 클릭시 이동하는 링크를 입력할 수 있습니다.
 
-**푸시버전앱은 \[링크마법사] 버튼은 이용불가입니다!** <mark style="color:red;">\*아래에서 상세내용 확인해주세요.</mark>
+일반 웹링크(URL)입력은 링크등록란에 바로 입력하실 수 있구요.
 
-**5. 푸시 발송하기**
+\[링크마법사] 버튼 선택시 앱 내에서 사용되는 페이지 링크를 적용할 수 있습니다.&#x20;
+
+**5) 푸시 발송하기**
 
 발송하기 버튼을 선택하면 발송 완료됩니다!
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 푸시 발송 화면(안드로이드폰)
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 푸시 발송 화면(안드로이드폰)
 
 
 
-<mark style="color:blue;">**1.푸시에 웹링크 연결 X**</mark>
+### <mark style="color:blue;">**1.푸시에 웹링크 연결 X**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94\_2021\_04\_02\_18\_14\_31\_444.gif)
 
@@ -102,7 +134,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 
 
-<mark style="color:blue;">**2.웹링크 연결시**</mark>&#x20;
+### <mark style="color:blue;">**2.웹링크 연결시**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94\_2019\_11\_06\_18\_04\_54\_939.gif)
 
@@ -111,44 +143,20 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 {% hint style="danger" %}
 <mark style="color:red;">**\*중요\***</mark>
 
-푸시는 핸드폰에 앱이 설치되어야 발송이 됩니다. <mark style="color:red;">\*가상머신, 앱 미리보기 상태에서는 발송 되지 않습니다.</mark>
+푸시는 핸드폰에 앱이 설치되어야 발송이 됩니다.&#x20;
+
+<mark style="color:red;">\*가상머신, 앱 미리보기 상태에서는 발송 되지 않습니다.</mark>
 
 따라서 만든 앱을 핸드폰에 설치하거나 다운 받은 뒤, 푸시 발송을 진행해주시구요.
 
-앱은 종료한 상태에서 푸시를 보내주세요.  (안드로이드폰에서 확인 가능, 아이폰은 앱스토어에 출시한 경우만 확인 가능)
+앱은 종료한 상태에서 푸시를 보내주세요. &#x20;
+
+(안드로이드폰에서 확인 가능, 아이폰은 앱스토어에 출시한 경우만 확인 가능)
 {% endhint %}
 
-
-
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 푸시 발송 특이사항(푸시앱)
-
-
-
-<mark style="color:blue;">**1. 링크마법사를 이용할 수 없습니다.**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C6\_19.09.png)
-
-앱에 연동되는 메뉴가 없기 때문에 링크마법사는 이용할 수 없구요.
-
-\[링크등록] 입력란에 웹링크주소 (URL)만 넣어서 발송이 가능합니다.
-
-
-
-<mark style="color:blue;">**2. ‘알림 확인 후 푸시 메시지 표시’ 옵션 기능을 이용할 수 없습니다.**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B2%84%EC%A0%84%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A12.png)
-
-해당 기능 역시 일반 프로토타입으로 제작된 앱에서만 이용이 가능하구요.
-
-푸시버전으로 제작된 앱에서는 이용이 불가합니다.
-
-푸시전용 앱으로 제작해서 사용중이라면, 푸시발송시 해당 내용들을 꼭\~! 체크해주세요.
-
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP6. 테스트 발송
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 푸시  테스트 발송
 
 푸시앱 출시 전, 혹은 출시 후 푸시가 잘 발송되는지 먼저 테스트 해보고 싶다면?
 
