@@ -364,7 +364,7 @@
   * [푸시 API를 이용하여 푸시 발송하기](developer/server-side-api/push-api-notification.md)
 * [웹뷰(웹뷰,푸시전용) 개발도구](developer/webview/README.md)
   * [웹사이트 회원 연동 가이드](developer/webview/user-integration.md)
-  * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/wordpress.md)
+  * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
   * [Javascript 연동 API 문서](developer/webview/javascript-api.md)
 
 ***
