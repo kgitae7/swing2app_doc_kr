@@ -86,9 +86,21 @@ messageImageUrl:이미지 주소
 \*링크주소와 이미지 주소가 없을 경우 생략 가능\
 입력 예:)
 
+
+
 \[제목,내용,링크,이미지를 전송할 경우]
 
-{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"} \[제목,내용,이미지만 전송할 경우] {"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageImageUrl":"http://www.swing2app.com/abc.png"} \[제목 내용만 전송할 경우] {"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }
+{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}&#x20;
+
+
+
+\[제목,내용,이미지만 전송할 경우]&#x20;
+
+{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageImageUrl":"http://www.swing2app.com/abc.png"}&#x20;
+
+
+
+\[제목 내용만 전송할 경우] {"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
