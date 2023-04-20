@@ -30,6 +30,10 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 {% embed url="https://documentation.swing2app.co.kr/manual/v3/webapp/push" %}
 
+일반 프로토타입 앱 푸시 발송 방법은 아래 매뉴얼을 확인해주세요.&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/pushmember/push" %}
+
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. **푸시 발송하기**
@@ -42,13 +46,29 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 ### <mark style="color:blue;">1.기본설정</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%ED%91%B8%EC%8B%9C%EB%B2%84%EC%A0%84%EC%95%B1-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A13.png)
+<figure><img src="../../../.gitbook/assets/푸시발송_업뎃2.png" alt=""><figcaption></figcaption></figure>
 
 푸시발송하기 첫번째 단계는 기본설정입니다. &#x20;
 
-\- 푸시를 보낼 회원을 선택하는 단계에요.
+기본설정에서 수신자 선택, 예약설정, 반복 여부를 설정할 수 있어요.&#x20;
 
-\-푸시앱은 회원연동을 하지 않을 경우 회원 선택이 되지 않으며 전체발송만 가능합니다.&#x20;
+
+
+**1)발송 플랫폼**
+
+전체 OS플랫폼으로 보낼 것인지, 안드로이드 /아이폰 따로 보낼 것인지 선택할 수 있습니다.
+
+일반적으로 전체를 선택해서 보내지만 필요할 경우 각 플랫폼별로 따로 푸시 발송을 할 수도 있습니다.
+
+
+
+**2)발송 대상 선택**
+
+<mark style="color:red;">발송 대상 선택은 '전체발송하기'로 체크해주세요.</mark>&#x20;
+
+'테스트 발송하기'는 STEP3.푸시 테스트 발송 내용으로 확인해주세요.&#x20;
+
+푸시앱은 회원연동을 하지 않을 경우 회원 선택이 되지 않으며 전체발송만 가능합니다.&#x20;
 
 푸시앱은 웹사이트(홈페이지)링크를 그대로 앱에 적용해서 만든앱이기 때문에 앱에서 가입하는 회원이 없어요.​
 
@@ -85,6 +105,30 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 {% embed url="https://documentation.swing2app.co.kr/developer/webview/user-integration/wordpress" %}
 워드프레스 웹사이트 회원 연동시 해당 가이드로 확인해주세요.
 {% endembed %}
+
+
+
+**3)예약설정**
+
+예약설정은 푸시 발송을 원하는 날짜와 시간으로 지정해서 보낼 수 있는 기능이에요.
+
+바로 보낼 분들은 예약설정에 체크하지 않고, 푸시보내기로 바로 넘어가구요.
+
+예약을 설정할 분들은 체크한 뒤 아래 방법대로 설정을 완료해주세요.
+
+<figure><img src="../../../.gitbook/assets/푸시7_19.09.png" alt=""><figcaption></figcaption></figure>
+
+(1)예약설정 후 푸시발송을 희망하는 날짜를 선택한 뒤, 시간을 선택해주세요.
+
+(2)반복여부: 해당 푸시를 반복해서 보낸다면 반복주기-요일, 시간을 설정하구요.&#x20;
+
+반복을 원하지 않으면 체크를 풀어주세요.
+
+(3)무제한 : 푸시 종료일자 없이 무제한으로 보낸다면 ‘무제한’으로 체크해주세요.&#x20;
+
+제한을 두고 싶다면 종료일정을 설정해주세요.
+
+**푸시 기본설정이 완료 되었다면, 다음 단계인 \[푸시보내기]로 이동합니다.**
 
 
 
