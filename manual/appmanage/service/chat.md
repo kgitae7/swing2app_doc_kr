@@ -4,13 +4,13 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 # 관리자채팅 \[1:1 채팅] 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **관리자와 앱 회원 1:1 채팅 이용방법 \[관리자 채팅]**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱에 관리자 채팅 적용하기
 
@@ -122,7 +122,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -140,7 +140,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 아래에 채팅을 하는 방법을 확인해주세요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 사용자가 앱 관리자와 채팅을 하는 방법
 
@@ -176,7 +176,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 관리자가 앱 회원과 채팅을 하는 방법**
 
@@ -280,7 +280,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 새글알람 푸시 알림 – 관리자, 회원
 

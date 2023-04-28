@@ -4,7 +4,7 @@ description: 애플 푸시 인증서 연장 매뉴얼 (아이폰 푸시 이용�
 
 # 아이폰 푸시 인증서 연장
 
-<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **애플 푸시 인증서 연장이란?**
 
@@ -42,7 +42,7 @@ description: 애플 푸시 인증서 연장 매뉴얼 (아이폰 푸시 이용�
 \*1년마다 재등록 할 필요 없이, 한번 등록 해놓으면 기간 제한 없이 푸시 발송이 가능합니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/푸시연장1.png" alt=""><figcaption></figcaption></figure>
 

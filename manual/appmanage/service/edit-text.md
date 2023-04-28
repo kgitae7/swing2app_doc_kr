@@ -4,7 +4,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 # 엡에 셋팅된 문구(메시지) 수정 방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 앱에서 사용되는 기본 문구는 \*앱운영 – 서비스관리 – 앱 문자열 관리에서 문구를 수정할 수 있습니다.
 
@@ -14,7 +14,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 \*한글 문구를 → 영문으로 수정하는 방법, 셋팅된 문구 메시지 내용을 수정하는 방법을 알려드립니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 한글 문구 → 영문으로 수정**
 
@@ -92,7 +92,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 \-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**2. 메시지 내용 수정하기**
 

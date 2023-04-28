@@ -4,7 +4,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 # 모바일웹 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**모바일 웹이란(모바일웹 등록)?**
 
@@ -50,7 +50,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 **스윙투앱 확장형 or 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 모바일 웹 업로드 티켓 구매하기
 
@@ -76,7 +76,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 1년치를 결제했다면, 모바일 웹사이트도 1년간 이용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 모바일 웹 등록 신청하기
 
@@ -112,7 +112,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 **담당자 확인 후에 약 2일 정도 후에 등록된 웹사이트를 확인할 수 있습니다.**&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 모바일 웹 등록 완료
 
@@ -122,7 +122,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 \[모바일웹 등록 확인]을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 모바일 웹 실행하기
 

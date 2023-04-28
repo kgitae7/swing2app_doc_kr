@@ -4,7 +4,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 # 비공개 앱만들기
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)비공개 앱 2가지 종류
 
@@ -32,7 +32,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 매뉴얼을 통해서 각각의 비공개 앱 설정이 어떻게 다른지 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** STEP1.비공개 회원가입시 관리자 승인 후 이용**
 
@@ -154,7 +154,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 <mark style="color:red;">\*메일 알림은 스윙투앱 가입계정 이메일로 발송되며, 다른 메일로 받기를 원하시면 ‘수신 이메일’에 이메일주소를 입력해주세요.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -8,7 +8,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 이때 상점관리에서 – 상점 상세 이미지를 여러 장 등록하면 자동으로 슬라이딩 되어서 보여집니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
 

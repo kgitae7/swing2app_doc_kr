@@ -4,7 +4,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 # 푸시앱, 웹뷰앱 이용 부관리자 설정
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **부관리자란?**
 
@@ -38,7 +38,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)1.회원 생성하기
 
@@ -76,7 +76,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 회원이 '관리자'로 변경된 것을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 홈페이지에서 부관리자로 로그인하는 방법을 알려드릴게요.
 
@@ -132,7 +132,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 김스윙 부관리자는 이제 관리자가 제작한 앱을 함께 운영할 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)3.부관리자 설정 정리
 

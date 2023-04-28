@@ -4,7 +4,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 # 푸시 무제한 유료앱
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**푸시전용 무제한 유료앱이란?**
 
@@ -32,7 +32,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 또한 푸시앱은 앱을 설치한 사용자들에게 푸시 메시지를 발송할 수 있습니다. \*푸시도 무제한 발송됩니다. &#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ​**STEP1. 푸시앱 제작방법**
 
@@ -52,7 +52,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 제작 및 운영은 별도 비용이 없이 무료로 가능하오니, 먼저 무료로 앱을 제작해서 만들어보시고 테스트해주세요!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 푸시전용 무제한 유료앱 구매 및 이용방법
 
@@ -94,7 +94,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 \*기존 앱이 출시된 사용자는 스토어에 다시 업데이트하여 재출시 해야 합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
 
@@ -138,7 +138,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP4**. 푸시 무제한 유료앱 이용시 주의사항
 
@@ -180,7 +180,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 앱 이전에 필요한 정보에 대해 안내드립니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP5**. 환불안내
 

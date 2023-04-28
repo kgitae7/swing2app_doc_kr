@@ -4,7 +4,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 # 채팅 관리자 페이지 (웹 대시보드용)
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 채팅목록은 1:1채팅(관리자채팅)을 이용하시는 분들께 유용한 기능이에요.&#x20;
 
@@ -14,7 +14,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 매뉴얼을 통해서 채팅 목록 메뉴를 이용하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 채팅 관리자 페이지 이동
 
@@ -22,7 +22,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 스윙 홈페이지 접속 후  [**앱운영 페이지에서 → 서비스관리** ](http://www.swing2app.co.kr/view/admin\_chatting)**→  채팅 관리자페이지** 로 이동합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 채팅 목록
 
@@ -49,7 +49,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 채팅 목록 기능
 
@@ -102,7 +102,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/791f5b0f06f783dc7d00417368182fa3.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 앱에 1:1채팅을 적용하는 방법
 

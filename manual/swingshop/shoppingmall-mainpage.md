@@ -4,7 +4,7 @@ description: 쇼핑몰 메인페이지 이용방법 및 적용방법 매뉴얼
 
 # 스윙샵-쇼핑몰 메인페이지 이용방법
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 **스윙샵 쇼핑몰 메인페이지 이용방법**
 

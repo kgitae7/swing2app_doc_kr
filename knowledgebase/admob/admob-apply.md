@@ -16,7 +16,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 셋팅부터 스토어 출시 과정까지 안내드리오니 애드몹 광고 셋팅을 희망하신다면 해당 매뉴얼을 보시고 진행해주시기 바랍니다.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> 애드몹 광고 적용 앱
 
