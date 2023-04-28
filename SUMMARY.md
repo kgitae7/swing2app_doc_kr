@@ -369,7 +369,8 @@
 
 ***
 
+* [스윙투앱 업데이트 히스토리](update-history.md)
 * [스윙투앱 서비스 이용약관](user-protocol.md)
 * [스토어 이용약관](market-policy.md)
-* [스윙투앱 업데이트 히스토리](update-history.md)
-* [스윙투앱 어플리케이션 개인정보 처리방침](swing2app-appprivacy.md)
+* [스윙투앱 개인정보 처리방침](privacy.md)
+* [스윙투앱 어플리케이션 개인정보 처리방침](appprivacy.md)
