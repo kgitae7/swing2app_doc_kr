@@ -220,7 +220,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 <mark style="color:blue;">**▶ 설문조사 페이지 적용 화면 VS 설문조사 개별 링크 적용화면 비교**</mark>
 
-<figure><img src="../../../.gitbook/assets/설문조사업데이트2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/설문조사업데이트2 (1).png" alt=""><figcaption></figcaption></figure>
 
 설문조사 페이지 적용 화면과, 설문조사 개별 링크로 적용한 화면을 확인해주세요.
 
