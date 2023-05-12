@@ -52,7 +52,11 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 ### 2.아이폰 알림 설정
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 아이폰 역시 설정 앱을 선택해서 앱 알림을 선택할 수 있습니다.
 
@@ -78,7 +82,11 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 <mark style="color:blue;">**1)잠금화면 푸시 알림**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 핸드폰 잠금 화면 설정시, 잠금 화면 위로 푸시 알림이 들어오구요.
 
@@ -88,7 +96,11 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 <mark style="color:blue;">**2)배지 푸시 알림**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EB%B0%B0%EC%A7%80%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 푸시가 발송된 횟수가 아이콘 위로 숫자로 표시됩니다.
 
@@ -96,7 +108,11 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 <mark style="color:blue;">**3)팝업 푸시 알림**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%ED%8C%9D%EC%97%85%ED%91%B8%EC%8B%9C.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 푸시 발송시, 알림창에서 팝업으로 표시됩니다.
 
@@ -108,19 +124,31 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 
 <mark style="color:blue;">**1)잠금화면 푸시 알림**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
 <mark style="color:blue;">**2)알림센터 푸시 알림**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
 <mark style="color:blue;">**3)배너 푸시 알림**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%84%EC%9D%B4%ED%8F%B0%ED%91%B8%EC%8B%9C2.png" alt="">
+
+</div>
 
 \*푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있습니다.(웹뷰 전용앱은 이용 불가)
 
@@ -133,9 +161,9 @@ description: 폰으로 발송되는 푸시 알림 방식 확인하기
 {% hint style="info" %}
 스윙투앱 푸시 발송 방법은 아래 매뉴얼을 확인해주세요.​
 
-****[**일반 프로토타입앱 푸시 발송하기**](https://help-7.gitbook.io/undefined/manual/appmanage/pushmember/push)****
+[**일반 프로토타입앱 푸시 발송하기**](https://help-7.gitbook.io/undefined/manual/appmanage/pushmember/push)
 
-****[**푸시앱에서 푸시 발송하기**](https://help-7.gitbook.io/undefined/manual/appmanage/pushmember/pushapp-push)****
+[**푸시앱에서 푸시 발송하기**](https://help-7.gitbook.io/undefined/manual/appmanage/pushmember/pushapp-push)
 {% endhint %}
 
 

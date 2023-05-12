@@ -36,17 +36,29 @@ description: 무료버전앱이 핸드폰에 설치가 안될 때 확인해주�
 
 &#x20;먼저 안드로이드폰 \[설정]에서 보안 항목들을 모두 체크해주세요!
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/보안4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 \[설정] 메뉴 → 보안 및 개인정보 보호 메뉴로 이동합니다.
 
 <mark style="color:red;">\*안드로이드폰 기종, 버전마다 메뉴는 조금씩 달라요! 동일한 메뉴가 없다면 설정 메뉴에서 ‘</mark><mark style="color:red;">**보안’**</mark> <mark style="color:red;"></mark><mark style="color:red;">관련 메뉴로 들어가주세요</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**1) 출처를 알 수 없는 앱 설정 해제**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B3%B4%EC%95%883.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B3%B4%EC%95%883.png" alt="">
+
+</div>
 
 출처를 알 수 없는 앱 설치 “예”에 체크 합니다.
 
@@ -72,9 +84,17 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 **플레이스토어 어플에 들어가서 직접 구글 프로텍트 보안 설정을 해제해주시면 됩니다.**
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/프로텍트1.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/프로텍트2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../../.gitbook/assets/프로텍트3.png" alt=""><figcaption></figcaption></figure>
 
@@ -92,7 +112,11 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 **최신버전의 안드로이드 폰에서는 \[내파일]이 검색이 될 것입니다.**
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/APK파일설치430 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 \[내파일] 앱을 선택해주세요.
 
@@ -102,7 +126,11 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 설치파일(APK)을 선택한 뒤, Download 메뉴를 선택해주세요.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/APK파일설치13-430png.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 해당 메뉴에서 마찬가지로 설치가 완료되지 못한 APK파일을 확인할 수 있습니다.
 
@@ -112,7 +140,11 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 3. 안드로이드폰에서 앱검색 \[file manager]
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/APK파일설치430.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 안드로이드폰 버전이 조금 이전 버전이라면 핸드폰에서 \[file manager] 앱을 실행해주세요.
 

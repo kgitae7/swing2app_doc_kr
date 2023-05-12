@@ -24,7 +24,11 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/form" %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%807\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%807_20.03.png" alt="">
+
+</div>
 
 위의 앱 실행화면에서 보시는 것처럼 게시물 작성을 할때 설문지 혹은 질문지 처럼 미리 질문 항목들이 기재되어 있구요.
 
@@ -140,13 +144,21 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%806\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%806_20.03.png" alt="">
+
+</div>
 
 
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_13_20_21_625.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 게시판 작성글은 글을 작성할 수 있는 양식을 설정해놓는 것으로, **사용자들은 양식에 맞게 글을 입력할 수 있습니다.**&#x20;
 

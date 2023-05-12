@@ -256,25 +256,45 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D11\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D11_20.04.png" alt="">
+
+</div>
 
 상품 상세보기를 확인한 뒤 \[예약하기] 버튼을 눌러주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12_20.04.png" alt="">
+
+</div>
 
 \[구매진행하기] 버튼을 눌러주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D15\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D15_20.04.png" alt="">
+
+</div>
 
 이때 결제수단은 페이앱 카드 및 전자결제, 무통장입금 중에서 선택할 수 있습니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13_20.04.png" alt="">
+
+</div>
 
 주문상세 페이지에서 전화번호 인증번호 확인해주시구요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14_20.04.png" alt="">
+
+</div>
 
 결제요청하기를 진행하시면, 결제까지 진행됩니다.
 

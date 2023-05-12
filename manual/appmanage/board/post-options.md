@@ -28,7 +28,11 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%B5%EC%85%98-%EC%97%85%EB%8E%831.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%B5%EC%85%98-%EC%97%85%EB%8E%831.png" alt="">
+
+</div>
 
 3\) 게시판 및 기능설정 창에서 \[고급설정] 탭을 선택합니다.
 
@@ -148,7 +152,11 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%A1%B0%ED%9A%8C%EC%88%98-%ED%91%9C%EC%8B%9C%EC%97%AC%EB%B6%802.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%A1%B0%ED%9A%8C%EC%88%98-%ED%91%9C%EC%8B%9C%EC%97%AC%EB%B6%802.png" alt="">
+
+</div>
 
 조회수는 등록일시, 등록자 이름 표시여부 설정에 따라 표시되는 위치가 달라집니다.
 
@@ -184,7 +192,11 @@ description: 게시판관리 - 고급스타일에서 게시물 상세 옵션 설
 앱 업데이트(앱 재제작) 하신 뒤 이용해주셔야 합니다.
 {% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%9D%B4%EB%AF%B8%EC%A7%80-4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%9D%B4%EB%AF%B8%EC%A7%80-4.png" alt="">
+
+</div>
 
 앱 업데이트가 안된 사용자들에게는 이렇게 메시지가 기재가 됩니다.
 

@@ -290,7 +290,11 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 이미지 참고) \*이용기간 만료 후 앱 실행화면
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/1-1.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/1-1.jpg" alt="">
+
+</div>
 
 기존에 마켓에서 앱을 다운받았던 사용자 역시 해당 메시지가 뜨면서 앱 이용이 제한됩니다.
 

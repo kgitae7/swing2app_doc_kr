@@ -116,7 +116,11 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt="">
+
+</div>
 
 카테고리 리스트는 앱에 등록된 모든 카테고리 목록이 한 화면에 표시되는 스타일이에요.
 

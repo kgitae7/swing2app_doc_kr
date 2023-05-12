@@ -82,7 +82,11 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)2. 홈페이지- 부관리자 로그인하기
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/부관리자-로그인_20.07.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 스윙투앱 홈페이지 접속 후 – 로그인 화면 이동해주세요.
 
@@ -116,7 +120,11 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 <mark style="color:blue;">**앱제작 V3 버전 화면**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/앱아이디1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 앱 아이디는 **앱제작 - STEP1 기본정보에서 입력한 앱 아이디**를 말합니다.
 
@@ -124,7 +132,11 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/웹앱부관리자5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 로그인 하면, 관리자가 이용했던 동일한 웹 대시보드 화면이 표시되구요.
 

@@ -77,7 +77,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**1. 새 개발자 계정 만들기**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new1.png" alt="">
+
+</div>
 
 구글 개발자 프로필을 입력합니다.
 
@@ -111,7 +115,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 구글 개발자 등록비는 카드결제만 이용 가능합니다. \*해외결제 가능한 카드만 가능
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png" alt="">
+
+</div>
 
 결제할 카드 정보를 입력합니다. <mark style="color:red;">\*개발자 등록비 결제는 해외 결제가 가능한 카드 결제만 됩니다.</mark>
 
@@ -139,7 +147,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**4. 구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 말구요.&#x20;
 
@@ -183,7 +195,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**1. 계정만들기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1.png" alt="">
+
+</div>
 
 계정 만들기 선택한 뒤 – 본인 계정 선택 – 다음 선택
 
@@ -239,7 +255,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new1.png" alt="">
+
+</div>
 
 구글 개발자 프로필을 입력합니다.
 
@@ -257,7 +277,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png" alt="">
+
+</div>
 
 구글 개발자 등록비 25달러를카결제합니다.  \*카드 결제만 가능합니다.&#x20;
 
@@ -285,7 +309,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**6. 구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 마시구요.&#x20;
 

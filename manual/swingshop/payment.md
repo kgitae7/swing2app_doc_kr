@@ -52,13 +52,25 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>)**1. 페이앱 전자결제**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886\_20.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886_20.png" alt="">
+
+</div>
 
 페이앱 결제모듈 선택시, 페이앱 결제 화면으로 이동합니다.
 
-![](../../.gitbook/assets/결제모듈\_22.08.png)
+<div align="left">
 
-![](../../.gitbook/assets/결제모듈2\_22.08.png)
+<img src="../../.gitbook/assets/결제모듈_22.08.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../../.gitbook/assets/결제모듈2_22.08.png" alt="">
+
+</div>
 
 페이앱은 다양한 결제 방식을 제공하고 있습니다.
 
@@ -66,7 +78,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%889\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%889_20.04.png" alt="">
+
+</div>
 
 앱에서 결제가 완료되면 앱 관리자에게도 구매알림이 들어옵니다.
 
@@ -78,7 +94,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **1)푸시 알림**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png" alt="">
+
+</div>
 
 **-앱으로는 관리자에게 구매알림 푸시가 들어옵니다.**
 
@@ -88,7 +108,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **2)메일 알림**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png" alt="">
+
+</div>
 
 **-메일로도 알림이 들어옵니다.**
 
@@ -110,7 +134,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>)**2. 무통장입금 결제 화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887\_20.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887_20.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8810\_20.04.png)
 
@@ -134,7 +162,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**관리자(앱 운영자)는 어떻게 무통장 입금 확인 요청 메일을 받을 수 있나요?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8811\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8811_20.04.png" alt="">
+
+</div>
 
 관리자 통합 알림- 쇼핑몰 알림에서 메일 알림이 모두 설정되어있다면 앱 관리자에게 입금 확인 메일이 들어옵니다.
 
@@ -162,7 +194,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**현장결제 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802_20.04.png" alt="">
+
+</div>
 
 상품 선택 후 구매하기 결제수단: \[현장결제]를 선택합니다.
 
@@ -180,11 +216,19 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **1)푸시 알림**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8814\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8814_20.04.png" alt="">
+
+</div>
 
 **2)메일 알림**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8812\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8812_20.04.png" alt="">
+
+</div>
 
 다른 결제 수단과 동일하게 앱 운영자(관리자)에게 **현장 구매 푸시 알림, 메일이 발송되요.**
 

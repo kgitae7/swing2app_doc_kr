@@ -66,7 +66,11 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 먼저 유료앱 이용기간이 종료된 앱 실행화면을 확인해볼게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/1.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/1.jpg" alt="">
+
+</div>
 
 유료앱을 이용하다가 이용기간이 만료된 앱을 실행하면 위의 이미지처럼 ‘이용기간 만료’ 메시지가 뜨구요.
 
@@ -76,7 +80,11 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP2.** **설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/3.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/3.jpg" alt="">
+
+</div>
 
 무료로 전환된 앱을 다시 다운 받아야 하기 때문에 기존에 안드로이드폰에 설치된 유료앱은 삭제해주세요.
 
@@ -106,7 +114,11 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP4. 앱 다운 받기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/4.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/4.jpg" alt="">
+
+</div>
 
 앱 다운은 동일하게! 스윙투앱 공식앱 → 앱 미리보기에서 이용할 수 있습니다.
 
@@ -118,7 +130,11 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP5. 무료앱 전환 완료**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/2.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/2.jpg" alt="">
+
+</div>
 
 앱을 다시 다운 받으면 정상적으로 앱이 구동되는 것을 확인할 수 있습니다.
 

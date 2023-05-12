@@ -58,7 +58,11 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면 -템플릿 페이지 적용**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif" alt="">
+
+</div>
 
 스윙 호텔 샘플앱을 실행한 화면이에요.
 
@@ -234,7 +238,11 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif" alt="">
+
+</div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 

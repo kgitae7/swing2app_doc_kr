@@ -68,7 +68,11 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 해당 포스팅에서는 ‘PDF보기’를 선택해서 등록할게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D7\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D7_19.09.png" alt="">
+
+</div>
 
 3\. PDF파일 업로드: 등록하고자 하는 pdf 파일을 업로드 해주세요 \[미리보기] 버튼을 선택해서 등록한 파일을 확인할 수 있어요.
 
@@ -122,7 +126,11 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 &#x20;<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif" alt="">
+
+</div>
 
 16\. 상품간단설명: 상품을 소개하는 간단한 한 줄 설명을 입력합니다.
 
@@ -216,13 +224,25 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%882\_19.09-1.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A46-1.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A47-1.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A46-1.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A47-1.png" alt="">
+
+</div>
 
 **▶구매 진행단계 및 구매한 PDF 파일을 열람하는 방법을 움짤이미지로 확인해주세요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_09\_24\_12\_30\_50\_728.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_09_24_12_30_50_728.gif" alt="">
+
+</div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
@@ -244,7 +264,11 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B03.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png" alt="">
+
+</div>
 
 디지털구매완료 메뉴를 선택해주세요.
 
@@ -320,7 +344,11 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png" alt="">
+
+</div>
 
 컨텐츠 열람 페이지에서 해당 파일의 pdf 버튼을 선택하면 pdf를 다시 볼 수 있습니다.
 

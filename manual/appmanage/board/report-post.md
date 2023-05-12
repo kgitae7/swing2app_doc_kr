@@ -18,7 +18,11 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 ## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 신고하기
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/게시판관리자1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 게시판 – 게시물 상세보기에서 오른쪽 상단을 보시면, 점 3개로 표시된 아이콘이 있어요.
 
@@ -26,7 +30,11 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8B%A0%EA%B3%A0%EA%B8%80%EA%B4%80%EB%A6%ACNEW3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8B%A0%EA%B3%A0%EA%B8%80%EA%B4%80%EB%A6%ACNEW3.png" alt="">
+
+</div>
 
 \[신고하기]를 선택하면 신고할 내용을 입력하게 됩니다.
 
@@ -44,13 +52,21 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 <mark style="color:red;">**\*신고글은 앱운영 웹 대시보드에서 확인 가능합니다.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8B%A0%EA%B3%A0%EA%B8%80%EA%B4%80%EB%A6%ACNEW1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8B%A0%EA%B3%A0%EA%B8%80%EA%B4%80%EB%A6%ACNEW1.png" alt="">
+
+</div>
 
 [**앱운영 페이지 → 게시물관리 → 신고글 관리**](http://www.swing2app.co.kr/view/board\_article\_report) **메뉴로 이동합니다.**
 
 &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8B%A0%EA%B3%A0%EA%B8%80%EA%B4%80%EB%A6%ACNEW2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8B%A0%EA%B3%A0%EA%B8%80%EA%B4%80%EB%A6%ACNEW2.png" alt="">
+
+</div>
 
 신고글관리 페이지로 이동하면 방금 사용자가 신고한 게시물을 확인할 수 있습니다.
 

@@ -82,13 +82,21 @@ description: 페이지 기본 기능에서 제공하는 출석체크 앱에 적�
 
 앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3_20.03.png" alt="">
+
+</div>
 
 출석체크 게시물을 확인하면, 출석체크 등록시 입력했던 게시물 내용과 이미지를 확인할 수 있어요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4_20.03.png" alt="">
+
+</div>
 
 게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있습니다.&#x20;
 
@@ -96,7 +104,11 @@ description: 페이지 기본 기능에서 제공하는 출석체크 앱에 적�
 
 **▶출석체크 이벤트 마감**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5_20.03.png" alt="">
+
+</div>
 
 이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
 

@@ -8,7 +8,11 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 회원가입완료 메시지란?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C%EB%A9%94%EC%8B%9C%EC%A7%803.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C%EB%A9%94%EC%8B%9C%EC%A7%803.png" alt="">
+
+</div>
 
 회원 가입완료 메시지는 앱에서 회원가입을 완료 한 사용자에게 보여지는 메시지 팝업창입니다.
 
@@ -74,7 +78,11 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 ↓ 업데이트가 안되신 분들은 아래 이미지처럼 업데이트 안내 문구가 뜹니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 2\)회원가입 완료 메시지이기 때문에 가입이 완료된 사용자에게만 최초 한 번만 보여집니다.
 

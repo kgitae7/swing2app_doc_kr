@@ -235,7 +235,11 @@ description: 회원 그룹 설정 후, 등급별 게시판을 만드는 방법 �
 
 앱을 실행하여 다른 등급의 회원이 게시판에 접근시 어떻게 표시되는지 확인해볼게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%954.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%954.png" alt="">
+
+</div>
 
 우수회원 보다 한 단계 낮은 ‘정회원’ 회원이 해당 게시판을 접속할 때 다음과 같이 **‘권한이 없습니다**‘ 메시지 창이 뜨면서 게시판에 접근할 수 없음을 확인할 수 있습니다.\
 

@@ -154,7 +154,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 ### <mark style="color:blue;">**2) 공유된 앱(APK) 다운로드 받기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A0NEW1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A0NEW1.png" alt="">
+
+</div>
 
 자세히보기를 선택하면 앱 다운로드 페이지가 열립니다.
 
@@ -172,7 +176,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 &#x20;<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**움짤이미지로 앱 다운 방법 확인하기**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_12\_07\_15\_25\_10\_743.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94_2020_12_07_15_25_10_743.gif" alt="">
+
+</div>
 
 그런데 ,,, <mark style="color:red;">카톡 화면에서  \[앱(APK) 다운로드]를 선택시  앱이 ZIP파일로 변환되거나 앱 다운이 아예 안되신다는 분들도 있으실거에요!</mark>
 
@@ -182,13 +190,21 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 ### <mark style="color:blue;">**3) 다른 브라우저로 열기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A0%EC%84%A4%EC%B9%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A0%EC%84%A4%EC%B9%98.png" alt="">
+
+</div>
 
 카톡 내 보안 때문에 설치를 막아 놓은 거구요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A02.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:red;">**★ 여기서 중요합니다.**</mark>
 
@@ -202,7 +218,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A03.png" alt="">
+
+</div>
 
 새롭게 열린 인터넷 브라우저 창에서 \[앱(APK) 다운로드] 버튼을 선택해서 설치해주시기 바랍니다.
 
@@ -232,7 +252,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**설치방법은 아래 움짤 이미지로 보시면 더욱 쉽게 확인이 가능합니다.**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_03\_11\_10\_19\_17\_877.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94_2020_03_11_10_19_17_877.gif" alt="">
+
+</div>
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -240,9 +264,17 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 다음은 이메일로 앱 공유를 한 뒤, 해당 공유 링크를 통해 다운 및 앱 설치를 하는 과정을 알려드리겠습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%9D%B4%EB%AF%B8%EC%A7%80-25.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_03\_11\_10\_26\_32\_901.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%9D%B4%EB%AF%B8%EC%A7%80-25.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94_2020_03_11_10_26_32_901.gif" alt="">
+
+</div>
 
 이메일로 발송된 앱 공유 링크를 선택하면 – 새로운 웹브라우저 창이 열리구요.
 
@@ -260,9 +292,17 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <mark style="color:green;">**★메일에서 정상적으로 다운이 안된다면, 공유 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94\_2020\_03\_11\_10\_40\_08\_142.gif)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A09.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EB%85%B9%ED%99%94_2020_03_11_10_40_08_142.gif" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A09.png" alt="">
+
+</div>
 
 앱 공유 해당URL을 복사해서 인터넷 새 브라우저 창에서 앱 다운 후 설치를 진행해주세요.
 
@@ -270,7 +310,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <mark style="color:green;">**★ 앱 공유 URL복사해서 이용**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A08.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A08.png" alt="">
+
+</div>
 
 **​앱 공유 URL을 복사해서 인터넷 새 창에서 붙여 넣어서도 이용할 수 있습니다.**
 
@@ -288,7 +332,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**안드로이드폰에서 \[내 파일]검색해서 앱 설치하기**</mark>
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/APK파일설치430 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **안드로이드 폰에서 \[내파일]** 앱을 검색해서 선택해주세요.
 
@@ -300,7 +348,11 @@ description: 안드로이드폰에서 공유하기로 앱 설치하는 방법- �
 
 
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/08/%EC%95%B1%EA%B3%B5%EC%9C%A07.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 해당 메뉴에서 마찬가지로 **설치가 완료되지 못한 APK파일을 확인할 수 있습니다.**
 

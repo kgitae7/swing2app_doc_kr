@@ -46,7 +46,11 @@ description: 게시판- 게시물 정렬 설정 방법
 
 \[게시물 정렬 순서] 항목으로 체크
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%A0%95%EB%A0%AC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%A0%95%EB%A0%AC.png" alt="">
+
+</div>
 
 V3 버전으로 전환시 보다 다양한 앱 기능을 이용할 수 있습니다.
 

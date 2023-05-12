@@ -76,7 +76,11 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%B4%EB%AF%B8%EC%A7%80-5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%B4%EB%AF%B8%EC%A7%80-5.png" alt="">
+
+</div>
 
 6\) 이미지 등록
 
@@ -92,7 +96,11 @@ description: 작성된 게시물에서 푸시를 보내는 방법
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면) 게시물 푸시 발송 화면
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94\_2019\_11\_20\_10\_30\_45\_555.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94_2019_11_20_10_30_45_555.gif" alt="">
+
+</div>
 
 웹에서 게시물 푸시 발송을 보내면, 어플에 바로 푸시 알림이 들어오구요.&#x20;
 

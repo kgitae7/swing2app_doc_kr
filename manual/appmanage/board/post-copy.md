@@ -26,7 +26,11 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 복사&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC_20.06.png" alt="">
+
+</div>
 
 1\)앱운영 페이지 – 게시물 관리에서 글을 복사할 게시판을 선택해주세요
 
@@ -38,7 +42,11 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC1\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC1_20.06.png" alt="">
+
+</div>
 
 **1) 복사할 게시물 선택 후**
 
@@ -60,7 +68,11 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)2.움짤이미지로 게시물 복사 방법 확인하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2020\_06\_11\_14\_41\_55\_250.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2020_06_11_14_41_55_250.gif" alt="">
+
+</div>
 
 게시물을 복사한 후 복사된 게시판을 확인해보시면, 정상적으로 게시물이 해당 게시판으로 복사된 것을 확인할 수 있어요!
 
@@ -68,7 +80,11 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)3.복사된 게시물 확인하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B521\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B521_20.06.png" alt="">
+
+</div>
 
 게시물을 복사한 후 복사된 게시판을 확인해보시면, 정상적으로 게시물이 해당 게시판으로 복사된 것을 확인할 수 있어요!
 

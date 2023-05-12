@@ -20,7 +20,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> 애드몹 광고 적용 앱
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/애드몹 광고화면.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -90,7 +94,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 
 
-![](<../../.gitbook/assets/info (2).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/info (2).png" alt="">
+
+</div>
 
 **애드몹 셋팅 후 앱에서 광고가 잘 연결되었는지 확인하는 방법**
 
@@ -98,7 +106,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 애드몹 플러그인 설정 화면에서 아이디 입력란에 기재된 아이디를 모두 지우고, 공란으로 두고 저장해주세요.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/테스트광고1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 공란으로 두시면 아래 빨간 메시지로 “테스트용 아이디가 사용중입니다” 라고 표시될 거에요.
 
@@ -200,7 +212,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 애드몹 플러그인 설정에서 광고 셋팅하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png" alt="">
+
+</div>
 
 애드몹 가입 후 광고단위 아이디를 모두 만들었다면, 이제 내가 만든 앱에! 광고 셋팅 작업을 해볼게요.
 
@@ -210,7 +226,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 <mark style="color:blue;">**1)광고단위 아이디 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%841.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%841.png" alt="">
+
+</div>
 
 \-안드로이드 전면 광고, 배너 광고 아이디 입력
 
@@ -222,7 +242,11 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 <mark style="color:blue;">**2)app-ads.txt 등록하기**</mark>
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/애드몹광고단위3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **app-ads.txt 파일이란?**
 
@@ -364,7 +388,11 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 애드몹 플러그인 설정 화면에서 아이디 입력란에 기재된 아이디를 모두 지우고, 공란으로 두고 저장해주세요.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/테스트광고1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 공란으로 두시면 아래 빨간 메시지로 “테스트용 아이디가 사용중입니다” 라고 표시될 거에요.
 
@@ -380,7 +408,11 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **테스트 광고 화면**
 
-![](<../../.gitbook/assets/애드몹테스트광고 (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/애드몹테스트광고 (1).png" alt="">
+
+</div>
 
 **​**
 
@@ -396,13 +428,25 @@ app-ads.txt 파일을 등록하지 않아도 앱에서 광고를 송출할 수 �
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 다운 받는 방법 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_12\_44\_788.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_12_44_788.gif" alt="">
+
+</div>
 
 앱 실행 후 광고가 잘 뜨는지 확인해볼게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_16\_43\_781.gif)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_17\_59\_915.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_16_43_781.gif" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_17_59_915.gif" alt="">
+
+</div>
 
 해당 앱 광고 설정은 배너 광고 노출 사용 했구요.
 

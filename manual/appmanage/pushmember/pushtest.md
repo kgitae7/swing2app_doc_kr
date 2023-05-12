@@ -55,7 +55,11 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/info (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:blue;">**안드로이드폰에서 device\_token은 어떻게 확인할 수 있나요?**</mark>
 
@@ -77,7 +81,11 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 <mark style="color:blue;">**\[움짤 이미지로 확인하기]**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/녹화_2023_01_13_15_36_23_106.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 

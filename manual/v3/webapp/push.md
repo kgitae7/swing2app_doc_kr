@@ -230,7 +230,11 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 
 변경하길 원하면 색상 영역을 선택하면, 다른 색상으로 변경할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png" alt="">
+
+</div>
 
 **4)저장** 버튼 선택
 
@@ -280,7 +284,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
 
-![](../../../.gitbook/assets/푸시4.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/푸시4.png" alt="">
+
+</div>
 
 모든 단계 입력이 완료되었습니다.
 
@@ -302,11 +310,19 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:red;">**푸시앱 제작 안내사항**</mark>
 
-![](../../../.gitbook/assets/웹뷰5.PNG)
+<div align="left">
+
+<img src="../../../.gitbook/assets/웹뷰5.PNG" alt="">
+
+</div>
 
 웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
 
@@ -348,7 +364,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 스윙투앱 공식앱 – \[앱 미리보기]에서 제작한 앱을 다운받아 확인해주세요.
 
-![](<../../../.gitbook/assets/앱미리보기-1 (1).png>)
+<div align="left">
+
+<img src="../../../.gitbook/assets/앱미리보기-1 (1).png" alt="">
+
+</div>
 
 **1) 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요.**&#x20;
 
@@ -376,7 +396,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:green;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/녹화_2020_09_09_15_12_16_838.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 움짤 이미지를 통해서 앱미리보기에서 앱을 다운받는 과정을 확인해주세요.
 
@@ -406,7 +430,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ### <mark style="color:blue;">**1. 단기이용: 스윙투앱 기본 이용권 (1개월 이용권 매달 구매 or 원하는 기간별 이용권 구매)**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 &#x20;<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**구매 상품 안내**
 
@@ -438,7 +466,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ### <mark style="color:blue;">**2. 무제한 이용: 푸시전용 무제한 유료앱 (한 번 결제시 추가 결제 없으며, 이용 기간 제한 없이 평생 이용)**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/푸시무제한상품구매 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **1) 구매 상품 안내**&#x20;
 
@@ -474,7 +506,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 업로드티켓도 동일하게 각각 구매해주시면 됩니다. (플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원)
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **푸시전용 무제한 유료앱 상품은 일반 이용권과는 다른 이용 주의사항이 있습니다.**
 
@@ -584,7 +620,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 푸시앱 제작시에만 적용 가능한 상품입니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/푸시커스텀.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 [스윙투앱 커스텀 패키지 추천 페이지 이동하기](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom)
 
@@ -620,7 +660,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP8 스토어 출시 완료 (심사 후 출시)**
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/유료버전3.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **1.업로드 신청서 접수 및 스토어 심사 진행**
 

@@ -80,7 +80,11 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ### <mark style="color:blue;">**1.앱 액세스 권한**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80\_%EC%95%A1%EC%84%B8%EC%8A%A42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80_%EC%95%A1%EC%84%B8%EC%8A%A42.png" alt="">
+
+</div>
 
 \-앱 내에 로그인 기능이 없다면(회원가입 포함) **“특수한 액세스 권한 없이 모든 기능 이용 가능”**에 체크하면 완료!
 

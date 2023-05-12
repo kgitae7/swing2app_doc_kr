@@ -16,7 +16,11 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+
+</div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
@@ -104,7 +108,11 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+
+</div>
 
 쇼핑몰 정보 페이지를 적용한 앱 실행화면입니다.
 

@@ -22,7 +22,11 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 <mark style="color:orange;">**스윙투앱 공식앱으로 적용한 모바일웹 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png" alt="">
+
+</div>
 
 스윙투앱 공식앱에 도메인을 연결하여 모바일 웹으로 만들었구요.
 
@@ -54,7 +58,11 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 모바일 웹 업로드 티켓 구매하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%8012.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%8012.png" alt="">
+
+</div>
 
 <mark style="color:red;">**\*\* 모바일 웹 등록 신청을 하기 위해서는 먼저 스윙 유료이용권 구매가 되어 있어야 합니다.**</mark>
 
@@ -80,7 +88,11 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 모바일 웹 등록 신청하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EC%8B%A0%EA%B7%9C1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EC%8B%A0%EA%B7%9C1.png" alt="">
+
+</div>
 
 구매가 완료되면 [**버전관리 →앱 제작 이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동합니다.**
 
@@ -92,7 +104,11 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 **모바일 웹 업로드 입력창이 뜨면 순서대로 해당 내용을 입력합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9-5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9-5.png" alt="">
+
+</div>
 
 1\) 웹사이트 명: 웹사이트 이름을 기재합니다.
 
@@ -116,7 +132,11 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 모바일 웹 등록 완료
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A92.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A92.png" alt="">
+
+</div>
 
 모바일 웹 등록이 완료되면 사용자 메일(스윙투앱 계정 이메일)로 등록완료 메일이 발송됩니다.&#x20;
 
@@ -126,7 +146,11 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 모바일 웹 실행하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png" alt="">
+
+</div>
 
 등록 완료된 모바일 웹사이트를 확인할 수 있습니다.
 

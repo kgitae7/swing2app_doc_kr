@@ -94,7 +94,11 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 ### <mark style="color:blue;">**1.앱 실행화면: 푸시 알림 메시지 표시**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804-1-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804-1-1.png" alt="">
+
+</div>
 
 푸시 알림을 선택하면, 메시지창이 뜨구요. \*푸시발송시 기재한 제목, 메시지 내용
 
@@ -110,7 +114,11 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 **1) 메시지 표시 기능에 체크하지 않고, 기존의 푸시 발송 방법대로 보낸 경우**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EB%85%B9%ED%99%94\_2019\_04\_01\_15\_49\_17\_572.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EB%85%B9%ED%99%94_2019_04_01_15_49_17_572.gif" alt="">
+
+</div>
 
 ☞ 핸드폰으로 발송된 푸시 알림 선택시 바로 링크 페이지로 이동합니다. (따로 푸시 메시지를 보여주지 않습니다)
 
@@ -118,7 +126,11 @@ description: '푸시 발송 옵션 기능: 푸시 알림 확인 후 메시지 �
 
 **2) 푸시 알림 확인 후 푸시 메시지 표시에 체크한 경우**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EB%85%B9%ED%99%94\_2019\_04\_02\_13\_10\_49\_79.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EB%85%B9%ED%99%94_2019_04_02_13_10_49_79.gif" alt="">
+
+</div>
 
 ☞ 핸드폰으로 발송된 푸시 알림 선택시, 메시지창이 먼저 보여집니다.
 

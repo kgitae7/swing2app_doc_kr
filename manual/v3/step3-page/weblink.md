@@ -88,7 +88,11 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  **새창으로 열기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_15\_59\_42\_883.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_03_15_59_42_883.gif" alt="">
+
+</div>
 
 홈페이지 URL을 연결해놓았구요.
 
@@ -100,7 +104,11 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **새 앱으로 열기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_16\_02\_05\_720.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_03_16_02_05_720.gif" alt="">
+
+</div>
 
 유튜브 링크는 ‘외부 앱으로 보기’로 연결했구요.
 

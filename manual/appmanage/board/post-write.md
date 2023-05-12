@@ -144,7 +144,11 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 ### <mark style="color:blue;">**5.앱 실행화면) 작성된 게시물 확인하기**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_18\_15\_04\_25\_91.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_06_18_15_04_25_91.gif" alt="">
+
+</div>
 
 ***
 
@@ -217,7 +221,11 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 * **앱운영페이지에서 게시물을 작성하는 방법을 확인했다면, 이번에는 앱에서 글을 작성하는 방법을 알려드릴게요!**
 * **앱스토어, 플레이스토어에 출시한 앱뿐만 아니라 무료버전 앱도 핸드폰으로 설치해도 되고(안드로이드폰 가능) 미리보기로 확인하셔도 됩니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_02\_27\_17\_39\_15\_462.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_02_27_17_39_15_462.gif" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**1.앱 실행화면 –  게시물 작성하기**</mark>
 

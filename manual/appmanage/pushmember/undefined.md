@@ -30,7 +30,11 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 <mark style="color:green;">이미지 참고)</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 안드로이드 스펙에 맞는 notification설정을 해야 하는데 등록된 이미지 색상 배합이 스펙에 맞지 않아 발생한 문제에요.
 

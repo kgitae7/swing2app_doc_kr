@@ -72,7 +72,11 @@ AAB파일로 등록 및 출시 후 업데이트를 한다면 **→** AAB파일�
 
 프로덕션 버전 만들기 페이지에서 \[업로드] 버튼을 선택해서 새로운 버전의 AAB파일을 등록해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt="">
+
+</div>
 
 <mark style="color:red;">**\*AAB파일은 어디서 다운받나요??**</mark>
 

@@ -56,7 +56,11 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면: 앱소개 페이지 확인**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 **앱소개 페이지를 적용한 화면이에요.**
 
@@ -72,7 +76,11 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 **▶ 움짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_06_02_16_18_41_940.gif" alt="">
+
+</div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 

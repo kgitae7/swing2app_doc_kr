@@ -18,7 +18,11 @@ description: 애드몹 광고 플러그인 - 테스트용 아이디 설정 방�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 테스트용 아이디 셋팅방법
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/테스트광고1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 [애드몹 플러그인 설정](http://www.swing2app.co.kr/view/app\_plugin\_by\_admob) 화면에서 안드로이드 전면, 배너 광고 아이디 입력란에 기재된 아이디를 모두 지워주세요.
 

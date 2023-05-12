@@ -26,7 +26,11 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 **특정 게시판 검색 기능은 별도로 기능을 적용하지 않아도, **<mark style="color:orange;">**게시판을 만들면 자동으로 게시판 상단에 \[검색어 입력]이 배치됩니다.**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89NEW1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89NEW1.png" alt="">
+
+</div>
 
 게시판 목록화면 상단 ‘돋보기’ 모양 아이콘을 탭하면, 검색어 입력 창이 뜨구요.
 
@@ -102,7 +106,11 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_29_16_53_54_855.gif" alt="">
+
+</div>
 
 {% hint style="info" %}
 <mark style="color:blue;">**게시물 검색 정리 TIP**</mark>

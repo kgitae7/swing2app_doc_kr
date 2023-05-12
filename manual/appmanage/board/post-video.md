@@ -66,7 +66,11 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_09\_24\_15\_11\_22\_588.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94_2020_09_24_15_11_22_588.gif" alt="">
+
+</div>
 
 **그런데 게시물 등록시 위의 이미지처럼 파란색 라인에 동영상 버튼이 안보인다는 사용자분들도 있으실거에요. 그이유는!!**
 
@@ -74,7 +78,11 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%8F%99%EC%98%81%EC%83%813.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%8F%99%EC%98%81%EC%83%813.png" alt="">
+
+</div>
 
 게시판을 만들 때 게시판 기능 창에서 하용범위를 설정할 수 있는데요.&#x20;
 
@@ -96,7 +104,11 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%8F%99%EC%98%81%EC%83%81%EB%93%B1%EB%A1%9D6\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%8F%99%EC%98%81%EC%83%81%EB%93%B1%EB%A1%9D6_20.03.png" alt="">
+
+</div>
 
 영상이 잘 첨부되었는지 확인 후 내용 및 이미지 등을 첨부한 뒤 \[등록] 버튼을 눌러주시면 완료됩니다.
 
@@ -104,7 +116,11 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**모바일 앱 실행화면) 영상 파일 확인**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_16\_03\_21.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94_2020_03_08_12_16_03_21.gif" alt="">
+
+</div>
 
 {% hint style="danger" %}
 <mark style="color:red;">**영상 파일 첨부 주의사항**</mark>
@@ -152,11 +168,19 @@ URL입력란에 유튜브 영상 링크(URL)을 입력한 뒤, 저장하기를 �
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**움짤로 적용방법 확인하기**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_07\_01\_10\_23\_13\_511.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94_2020_07_01_10_23_13_511.gif" alt="">
+
+</div>
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 영상 화면**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_07\_01\_10\_49\_20\_674.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94_2020_07_01_10_49_20_674.gif" alt="">
+
+</div>
 
 링크로 영상URL을 넣으시면, 앱에서 화면에 맞게 영상 섬네일이 지정되며 재생이 가능합니다.
 
@@ -190,7 +214,11 @@ URL을 붙여넣은 뒤 \[삽입] 버튼을 선택합니다.&#x20;
 
 > <mark style="color:red;">**\*잠깐!! 동영상 URL은 어디서, 어떻게 가져올 수 있나요?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%8F%99%EC%98%81%EC%83%81%EB%93%B1%EB%A1%9D\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%8F%99%EC%98%81%EC%83%81%EB%93%B1%EB%A1%9D_20.03.png" alt="">
+
+</div>
 
 PC 유튜브 사이트 접속 후 앱에 적용하고자 하는 동영상을 재생시켜주시구요.
 
@@ -202,7 +230,11 @@ URL을 복사한 뒤 위의 동영상 삽입에 붙여넣기 해주시면 됩니
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 링크로 연결한 동영상 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_14\_49\_272.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94_2020_03_08_12_14_49_272.gif" alt="">
+
+</div>
 
 그런데 , 게시물에 첨부된 영상을 보시면 영상 화면이 딱 맞지 않고 가로 길이에 맞춰 세로가 좀 길게 보이게 되요.
 
@@ -256,7 +288,11 @@ PC 유튜브 사이트 접속 후 앱에 적용하고자 하는 동영상을 재
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**앱 실행화면) 임베디드 링크로 연결한 영상 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2020\_03\_08\_12\_15\_13\_499.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94_2020_03_08_12_15_13_499.gif" alt="">
+
+</div>
 
 임베디드 링크로 입력시 프레임 사이즈를 수정할 수 있기 때문에 게시물에서 영상 화면(섬네일)이 모바일 화면에 좀 더 맞게 배치할 수 있습니다.&#x20;
 

@@ -45,7 +45,11 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 \*1번\~5번 항목에서 입력한 내용이 앱에서는 어떻게 보여지는지 확인해볼게요.
 
-![](../../.gitbook/assets/스윙샵-기본정보\_앱실행화면1-540x1024.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/스윙샵-기본정보_앱실행화면1-540x1024.png" alt="">
+
+</div>
 
 \* 상점이름, 이메일,주소, 상점 소개말은 모두 쇼핑몰정보 페이지에서 확인할 수 있습니다.&#x20;
 
@@ -136,13 +140,21 @@ description: 스윙샵 – 상점관리에서 쇼핑몰 기본정보를 입력�
 
 <mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+
+</div>
 
 
 
 <mark style="color:blue;">**쇼핑몰 메인 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt="">
+
+</div>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**안내사항**</mark>

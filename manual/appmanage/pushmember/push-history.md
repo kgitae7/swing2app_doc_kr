@@ -123,7 +123,11 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 \*앱 실행 후 \[설정] 메뉴에서 – **푸시 알림 설정을 \[ON-OFF]**로 설정할 수 있습니다.  \
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/캡처33 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -135,7 +139,11 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <mark style="color:blue;">**1) V3버전 제작 푸시앱 \_안드로이드폰**</mark>&#x20;
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/푸시끄기.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 &#x20;V3 버전에서 제작된 푸시앱은 툴바'- 설정' 페이지 상단 알림 설정에서 알림을 끌 수 있습니다.&#x20;
 
@@ -145,7 +153,11 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <mark style="color:blue;">**2) V2버전 제작 푸시앱 \_안드로이드폰**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.png" alt="">
+
+</div>
 
 앱 화면 하단의 푸시 툴바에서 → 톱니바퀴 모양의 아이콘을 선택 한 뒤 → 푸시 메시지 수신 설정 체크 박스를 풀어주시면 됩니다.
 

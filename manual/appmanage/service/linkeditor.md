@@ -54,7 +54,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 &#x20;<mark style="color:orange;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_13\_47\_33\_456.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_47_33_456.gif" alt="">
+
+</div>
 
 앱에서 푸시가 발송된 알림 화면을 탭하면 위에서 연동한 웹링크인 블로그 페이지로 이동하게 됩니다.
 
@@ -86,7 +90,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <mark style="color:orange;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_13\_46\_04\_734.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_46_04_734.gif" alt="">
+
+</div>
 
 앱 실행 후 템플릿 페이지가 적용된 홈화면의 \[전화하기] 버튼을 선택하면, 입력해놓은 번호로 전화 연결이 됩니다.
 
@@ -106,7 +114,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <mark style="color:orange;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_14\_10\_13\_709.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_14_10_13_709.gif" alt="">
+
+</div>
 
 앱 실행 후 팝업창이 뜨구요.
 

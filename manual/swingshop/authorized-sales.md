@@ -296,7 +296,11 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 **\[앱 실행화면]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%93%B1%EA%B8%89%EA%B6%8C%ED%95%9C1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%93%B1%EA%B8%89%EA%B6%8C%ED%95%9C1.png" alt="">
+
+</div>
 
 상품 카테고리는 해당 카테고리가 메뉴에 구성이 되는 스타일이구요.
 
@@ -314,15 +318,27 @@ A 게시판은 모든 등급이 다 볼 수 있도록 하고, B 게시판은 1�
 
 그리고 샘플앱을 통해서 권한 변경 상품을 구매하고, 이용하는 방법도 확인할 수 있습니다. ^^
 
-![](../../.gitbook/assets/권한판매10.png)
+<div align="left">
 
-![](../../.gitbook/assets/권한판매11.png)
+<img src="../../.gitbook/assets/권한판매10.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../../.gitbook/assets/권한판매11.png" alt="">
+
+</div>
 
 마스터 권한 구매가 완료되었습니다.
 
 
 
-![](<../../.gitbook/assets/권한판매14 (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/권한판매14 (1).png" alt="">
+
+</div>
 
 구매가 완료된 동시에 권한이 ‘마스터’로 변경이 됩니다.
 

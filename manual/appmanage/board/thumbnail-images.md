@@ -8,7 +8,11 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 **게시판 섬네일이미지란?**
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/게시판섬네일이미지.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 게시판 게시물 목록화면에서 보여지는 대표 이미지를 말해요.
 
@@ -92,7 +96,11 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 **1) \[첫 이미지 섬네일 사용]을 선택했을 경우**
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6d2895ec8bfe177d32fad1756161cba3.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6d2895ec8bfe177d32fad1756161cba3.png" alt="">
+
+</div>
 
 게시판 목록에 섬네일 이미지가 표시되며, 게시물 상세보기에는 섬네일로 이용한 이미지가 보이지 않습니다.  (본문에 대표이미지가 보이지 않음)
 
@@ -100,7 +108,11 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 **2) \[첫 이미지 섬네일 사용]을 선택하지 않을 경우**&#x20;
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/7f557a5bde674fee4d703e6756d01629.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/7f557a5bde674fee4d703e6756d01629.png" alt="">
+
+</div>
 
 게시판 목록에 섬네일이미지가 표시되며, 게시물 상세보기에도 섬네일이미지가 본문에 중복으로 보여지는 것을 확인할 수 있습니다.
 

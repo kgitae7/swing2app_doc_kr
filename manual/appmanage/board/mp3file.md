@@ -22,7 +22,11 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 게시판을 아직 만들지 않았다면 게시판을 먼저 만들어주세요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%803.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%803.png" alt="">
+
+</div>
 
 [앱운영페이지 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) →\[게시판 생성] 버튼 선택하여 게시판 만들어주세요.
 
@@ -34,7 +38,11 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 <mark style="color:red;">파일첨부에 체크가 안되어 있으면 음악파일 첨부가 되지않아요.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC2.png" alt="">
+
+</div>
 
 게시판 및 기능설정 창이 뜨구요.
 
@@ -44,7 +52,11 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%807.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%807.png" alt="">
+
+</div>
 
 게시판을 다 만들었다면 서비스관리 → 게시물관리에서 파일을 등록할 게시판을 선택해서 이동해주세요.&#x20;
 
@@ -80,7 +92,11 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**음악 파일 첨부 게시판 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC4.png" alt="">
+
+</div>
 
 앱을 실행해서 해당 게시물을 확인해볼게요\~
 
@@ -124,7 +140,11 @@ description: 게시판에 음악파일을 첨부하는 방법 매뉴얼
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:orange;">**오디오 업로드 게시판 앱 실행화면**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%98%A4%EB%94%94%EC%98%A4%ED%8C%8C%EC%9D%BC5.png" alt="">
+
+</div>
 
 HTML에디터 글쓰기 작성화면에서 오디오 업로드시 자유롭게 오디오 파일을 본문에 첨부할 수 있어요.
 

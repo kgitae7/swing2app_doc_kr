@@ -18,7 +18,11 @@ description: V3버전 앱제작 - 메뉴 아이콘 이미지를 등록 방법 �
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **앱 실행화면) 아이콘 이미지 등록된 앱 확인하기**
 
-![](../../../.gitbook/assets/아이콘적용1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/아이콘적용1.png" alt="">
+
+</div>
 
 ​푸터 프로토타입 앱이구요,
 
@@ -90,7 +94,11 @@ STEP3 페이지 단계는 작업 후 저장만 하면, 앱에 자동 반영되�
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **앱 실행화면) 아이콘 이미지 확인하기**
 
-![](<../../../.gitbook/assets/아이콘적용1 (1).png>)
+<div align="left">
+
+<img src="../../../.gitbook/assets/아이콘적용1 (1).png" alt="">
+
+</div>
 
 메뉴에 적용된 아이콘 이미지가 적용된 화면입니다.
 
@@ -104,7 +112,11 @@ STEP3 페이지 단계는 작업 후 저장만 하면, 앱에 자동 반영되�
 
 **​**
 
-![](../../../.gitbook/assets/아이콘적용2.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/아이콘적용2.png" alt="">
+
+</div>
 
 그외 슬라이드 프로토타입으로 제작한 앱에서도 메뉴 아이콘 이미지를 등록해보았구요.
 

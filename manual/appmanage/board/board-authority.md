@@ -8,7 +8,11 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 <mark style="color:blue;">**게시판 권한 설정 이용용도?**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/이미지-4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 게시판에 접근할 수 있는 권한 – 글쓰기, 글상세보기, 목록보기에 각각 다른 이용자를 설정할 수 있습니다.
 
@@ -32,7 +36,11 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP**1. 게시판 권한 이용방법**
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/게시판권한1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)앱운영-서비스관리 선택
 
@@ -88,7 +96,11 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:blue;">**\*앱제작 V2버전 이용) 사용자분들은 아래 가이드로 확인해주세요.**</mark>&#x20;
 
@@ -190,13 +202,21 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 **1)기본 셋팅 메시지-노출메시지 설정하지 않았을 경우**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C%EC%95%B1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C%EC%95%B1.png" alt="">
+
+</div>
 
 &#x20;
 
 **2)노출 메시지 설정시- 입력한 내용으로 노출**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C%EC%95%B12.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C%EC%95%B12.png" alt="">
+
+</div>
 
 &#x20;
 
@@ -212,7 +232,11 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <mark style="color:blue;">**5.주의사항**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 게시판 기능 등 옵션을 설정하기 위해서는 반드시! **서비스용도에서 \[사용자 정의]로 선택해주셔야 합니다.**
 
@@ -220,7 +244,11 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%94%EC%82%B4%ED%91%9C.png)
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -268,7 +296,11 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <mark style="color:blue;">**1. 목록보기 : 사용자 권한 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%953.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%953.png" alt="">
+
+</div>
 
 게시판 목록보기를 사용자 권한으로 설정했구요.
 
@@ -288,7 +320,11 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <mark style="color:blue;">**3.신규 그룹 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%955.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%955.png" alt="">
+
+</div>
 
 손님, 사용자, 관리자 그룹외에 추가로 여러 그룹을 만들었구요.
 

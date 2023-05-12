@@ -62,7 +62,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1. 쇼핑몰 메인 페이지**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt="">
+
+</div>
 
 쇼핑몰메인 페이지는 홈화면에 적용하기 적합한 메인홈화면 페이지에요.
 
@@ -100,21 +104,37 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2. 장바구니**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" alt="">
+
+</div>
 
 장바구니는 **관심이 있는 상품, 구매할 예정이 있는 상품을 보관하는 페이지이구요.**&#x20;
 
 장바구니에 넣은 상품을 확인하여 구매할 수 있습니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3. 카테고리 리스트**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt="">
+
+</div>
 
 **카테고리 리스트는 개별 상품이 아닌 카테고리를 리스트로 보여주는 페이지입니다.**
 
@@ -132,7 +152,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 따라서 이렇게 만들어놓은 카테고리도, 카테고리 리스트 페이지로 앱 메뉴 구성을 할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4. 디지털 상품 구매완료 페이지**
 
@@ -148,11 +172,19 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 해당 페이지를 적용하셔야 앱에서 사용자들이 구매한 컨텐츠를 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **5. 마이페이지**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt="">
+
+</div>
 
 \[마이페이지]는 사용자 구매 정보부터 결제, 배송에 관련된 모든 내역을 확인할 수 있는 페이지에요.
 
@@ -160,21 +192,37 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 이미지에서 보시는 것처럼 주문현황, 배송조회, 배송완료, 구매완료 , 교환 조회 등의 기능을 제공합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **6. 쇼핑몰 정보**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+
+</div>
 
 상점 정보 페이지이구요.
 
 쇼핑몰 기본 정보로 구성된 페이지로 고객센터 및 운영시간 등을 제공합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **7. 상품 검색**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt="">
+
+</div>
 
 앱에 등록한 상품을 검색하여 찾을 수 있는 상품 검색 페이지입니다.
 
@@ -184,7 +232,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 \*필터를 선택하면 – 우선순위, 최신순, 상품가격순, 인기순으로 필터링 됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
+
+</div>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **8. 기간(날짜)예약 상품 예약하기**
 

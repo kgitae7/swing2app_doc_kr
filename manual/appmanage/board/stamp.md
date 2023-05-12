@@ -226,7 +226,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <mark style="color:blue;">**스탬프 적용 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png" alt="">
+
+</div>
 
 스탬프 게시판에는 <mark style="color:blue;">**QR코드, 회원번호**</mark>**가 각 사용자 계정으로 발행이 됩니다.**
 
@@ -262,7 +266,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <mark style="color:orange;">**↓↓ 회원번호는 아래 앱 실행화면을 보면, 사용자마다 회원번호를 확인할 수 있습니다.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B03.png" alt="">
+
+</div>
 
 
 
@@ -302,7 +310,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/관리자_420.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 관리자메뉴에서 – \[스탬프 추가]를 선택합니다.
 
@@ -318,7 +330,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 앱 관리자에서 스탬프를 추가하는 방법! 움짤 이미지로 확인해주세요!!
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c8c3a0e0ef1750d37952356f491e6e3c.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c8c3a0e0ef1750d37952356f491e6e3c.png" alt="">
+
+</div>
 
 실제로 앱 관리자메뉴- 스탬프 등록 화면에서  QR코드를 실행하여서 사용자의 스탬프를 등록했습니다.
 
@@ -348,7 +364,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 **앱에서는 스탬프 게시판이 어떻게 실행되고, 스탬프가 어떻게 추가되는지 확인해볼게요!!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png" alt="">
+
+</div>
 
 스탬프 게시판에는 <mark style="color:red;">QR코드와 회원번호가 사용자마다 랜덤으로 발행이 됩니다.</mark>
 
@@ -358,7 +378,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B04.png" alt="">
+
+</div>
 
 게시판기능 – 상세설정에서 입력한 사용방법 메시지 내용은 스탬프 화면 하단에 배치됩니다.
 

@@ -39,7 +39,11 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 ## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP1. 웹뷰앱 제작방법**
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/제작방법_V3버전 (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 제작요청을 하면 10분 내로 웹뷰앱이 제작됩니다.
 
@@ -67,7 +71,11 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 
 위에서 알려드린 방법으로 웹뷰 프로토타입 앱제작을 완료 한다음! 구매 페이지로 이동할게요.&#x20;
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/spaces_msJj00k8mj8AcVpnn9Xs_uploads_OXUP7UZMHnmhSEn9TzEW_웹뷰상품구매.webp" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **1) 구매 상품 안내**
 

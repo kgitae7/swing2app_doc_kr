@@ -220,7 +220,11 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 파일 업로드가 완료되면, **화면 하단의 \[저장]버튼 선택 → \[버전검토]버튼을 선택합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png" alt="">
+
+</div>
 
 <mark style="color:red;">**\*AAB파일은 어디서 다운받나요??**</mark>
 
@@ -426,7 +430,11 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 <mark style="color:red;">**★ 잠깐!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B2%BD%EA%B3%A0.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B2%BD%EA%B3%A0.png" alt="">
+
+</div>
 
 해당 경고 메시지가 뜨는 분들도 있을 거에요.
 

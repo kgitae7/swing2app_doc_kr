@@ -86,7 +86,11 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC4.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94\_2021\_03\_27\_09\_17\_57\_698.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94_2021_03_27_09_17_57_698.gif" alt="">
+
+</div>
 
 이메일로 앱 설치 링크를 받은 뒤 앱 다운을 진행할 수 있습니다.
 

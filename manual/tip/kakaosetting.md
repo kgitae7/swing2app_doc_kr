@@ -1,6 +1,10 @@
 # 카카오톡 앱공유-앱 셋팅 방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%A0%9C%EB%AA%A9.png)
+<div align="center">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%A0%9C%EB%AA%A9.png" alt="">
+
+</div>
 
 **카카오톡 앱공유 – 개발자센터에서 앱셋팅하기**
 

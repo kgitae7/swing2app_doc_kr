@@ -40,7 +40,11 @@
 
 **모바일 사이트에서 \[앱 추가 제작]을 선택하는 방법도 함께 알려드릴게요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%B6%94%EA%B0%80%EC%A0%9C%EC%9E%91-%EB%AA%A8%EB%B0%94%EC%9D%BC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%B6%94%EA%B0%80%EC%A0%9C%EC%9E%91-%EB%AA%A8%EB%B0%94%EC%9D%BC.png" alt="">
+
+</div>
 
 모바일에서 스윙투앱 사이트에 접속했구요. 동일하게 앱제작 페이지로 이동합니다.
 

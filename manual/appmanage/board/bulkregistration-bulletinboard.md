@@ -62,9 +62,17 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 ## 3. 앱 실행화면) 일괄 등록 게시물 확인하기&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D2\_20.06.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D1\_20.06.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D2_20.06.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%BC%EA%B4%84%EB%93%B1%EB%A1%9D1_20.06.png" alt="">
+
+</div>
 
 동일 게시물(글)이 스윙프로그램 게시판과 스윙 컨텐츠 게시판으로 등록된 것을 확인할 수 있습니다.
 

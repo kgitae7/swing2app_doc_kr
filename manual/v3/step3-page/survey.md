@@ -56,7 +56,11 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 **3. 설문조사 항목 입력**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png" alt="">
+
+</div>
 
 **1) 질문내용**: 설문지에 들어갈 질문을 입력합니다.
 
@@ -210,7 +214,11 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png" alt="">
+
+</div>
 
 설문조사 입력이 완료 된 후 다시 앱을 실행하면, 입력된 설문조사가 뜨구요.
 

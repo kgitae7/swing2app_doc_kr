@@ -18,7 +18,11 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 스탬프 등록이 완료되면 자동으로 스탬프가 초기화(리셋)되며, 사용자 앱으로 관리자가 설정해놓은 쿠폰이 자동 발행되는 기능입니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B0.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B0.png" alt="">
+
+</div>
 
 \*관리자가 설정한 스탬프 숫자만큼 모두 찍히면, 자동으로 사용자의 앱에서 스탬프가 모두 비워진 화면으로 리셋되구요!
 

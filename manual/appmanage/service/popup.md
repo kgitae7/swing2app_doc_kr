@@ -12,7 +12,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 스윙앱에서 팝업 서비스를 제공하고 있으며, 다양한 스타일 중에서 원하는 스타일을 선택해서 팝업을 앱에 적용할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%856\_2020.02.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%856_2020.02.png" alt="">
+
+</div>
 
 <mark style="color:red;">\*팝업은 푸시, 웹뷰 프로토타입에서는 이용할 수 없습니다.</mark>
 
@@ -98,7 +102,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면 – 팝업 적용 화면**</mark>
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_02_16_23_24_13_769.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 앱을 실행하면 팝업 이미지 화면을 확인할 수 있어요.
 
@@ -112,9 +120,17 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**두번째 팝업 스타일**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85\_%EB%91%90%EB%B2%88%EC%A7%B8\_%EC%8A%A4%ED%83%80%EC%9D%BC.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%852.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85_%EB%91%90%EB%B2%88%EC%A7%B8_%EC%8A%A4%ED%83%80%EC%9D%BC.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%852.gif" alt="">
+
+</div>
 
 **화면에 꽉차는 전체 이미지 3장을 등록하구요.**
 
@@ -130,7 +146,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**세번째 팝업 스타일**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EC%84%B8%EB%B2%88%EC%A7%B8\_%EC%8A%A4%ED%83%80%EC%9D%BC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EC%84%B8%EB%B2%88%EC%A7%B8_%EC%8A%A4%ED%83%80%EC%9D%BC.png" alt="">
+
+</div>
 
 **2가지의 다른 팝업 이미지가 위 아래로 보여지는 팝업 스타일입니다.**
 
@@ -140,7 +160,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%853.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%853.gif" alt="">
+
+</div>
 
 팝업이 적용된 앱 실행화면입니다.
 
@@ -150,7 +174,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**네번째 팝업 스타일**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EB%84%A4%EB%B2%88%EC%A7%B8%EC%8A%A4%ED%83%80%EC%9D%BC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%85%EB%84%A4%EB%B2%88%EC%A7%B8%EC%8A%A4%ED%83%80%EC%9D%BC.png" alt="">
+
+</div>
 
 **총 9개의 분할 이미지가 등록되며, 하단 이미지 선택시 상단에 이미지가 확대되어 보이는 스타일입니다.**
 
@@ -160,7 +188,11 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%854.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%854.gif" alt="">
+
+</div>
 
 팝업이 적용된 앱 실행화면입니다.
 

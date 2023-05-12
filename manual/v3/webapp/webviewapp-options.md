@@ -26,11 +26,19 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 ### 1. 당겨서 새로고침
 
-![](../../../.gitbook/assets/새로고팀.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/새로고팀.png" alt="">
+
+</div>
 
 #### **-움짤 이미지로 확인하기**
 
-![](../../../.gitbook/assets/녹화\_2022\_06\_20\_11\_53\_50\_900.gif)
+<div align="left">
+
+<img src="../../../.gitbook/assets/녹화_2022_06_20_11_53_50_900.gif" alt="">
+
+</div>
 
 움짤 이미지에서 보듯이 손가락으로 터치한 화면을 당겼다 올리면 새고로침 로딩 아이콘이 뜨며, 화면이 새로 전환되는 것을 확인할 수 있습니다.
 
@@ -44,13 +52,21 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 ### 2. 탑 버튼
 
-![](../../../.gitbook/assets/탑버튼.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/탑버튼.png" alt="">
+
+</div>
 
 
 
 #### -움짤 이미지로 확인하기
 
-![](../../../.gitbook/assets/녹화\_2022\_06\_20\_11\_54\_37\_886.gif)
+<div align="left">
+
+<img src="../../../.gitbook/assets/녹화_2022_06_20_11_54_37_886.gif" alt="">
+
+</div>
 
 ​움짤 이미지에서 보듯이 아래로 스크롤을 진행시, 화면 하단에 탑 버튼이 생성되는 것을 확인할 수 있습니다.
 
@@ -70,7 +86,11 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 **참고 이미지)**
 
-![](../../../.gitbook/assets/탑버튼2.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/탑버튼2.png" alt="">
+
+</div>
 
 이미지에서 보듯이 웹사이트내 탑버튼과 웹뷰앱 탑버튼이 함께 보이는 문제가 발생합니다.
 
@@ -90,7 +110,11 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 **참고 이미지)**
 
-![](../../../.gitbook/assets/시스템폰트1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/시스템폰트1.png" alt="">
+
+</div>
 
 사용자의 폰에서 글자 크기를 크게 설정했을 경우, 앱에서 보여지는 본문 글자도 동일하게 보여집니다.
 

@@ -98,7 +98,11 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 9\. 상품 수령방법 선택: 앱 사용자가 상품 구매시 수령을 ‘택배배송’으로 할지 ‘직접 수령’ , ‘선택사항’으로 할지 설정해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%843.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%843.png" alt="">
+
+</div>
 
 9\. 상품별 결제수단: 통장입금, PAY APP(페이앱)카드결제를 체크해주세요.
 
@@ -108,7 +112,11 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 <mark style="color:red;">\*할인금액은 할인이 된 최종 금액을 입력해주셔야 합니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%844.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%844.png" alt="">
+
+</div>
 
 11\. 재고 관리 사용: 상품 재고관리를 사용할 것인지 체크합니다.
 
@@ -190,7 +198,11 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 **\[앱 실행화면]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12_19.09.png" alt="">
+
+</div>
 
 앱을 실행하면 홈화면에 쇼핑몰 메인페이지가 뜨구요.
 
@@ -232,7 +244,11 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 **\[앱 실행화면]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13_19.09.png" alt="">
+
+</div>
 
 상품 카테고리는 해당 카테고리가 메뉴에 구성이 되는 스타일이구요.
 
@@ -268,11 +284,19 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png" alt="">
+
+</div>
 
 **\[앱 실행화면]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14_19.09.png" alt="">
+
+</div>
 
 카테고리 리스트는 앱에 등록된 모든 카테고리 목록이 한 화면에 표시되는 스타일이에요.&#x20;
 

@@ -88,7 +88,11 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 5\) \[ADMOB 계정 만들기] 버튼을 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B927.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B927.png" alt="">
+
+</div>
 
 6\) 기본정보 입력 후 해당 항목들에 체크한 뒤 **\[계속해서 ADMOB 사용]** 버튼을 선택합니다.
 
@@ -180,7 +184,11 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 광고 단위 추가 방법은 아래 "​**STEP4.앱 광고단위 아이디 만들기 - 배너, 전면**" 파트에서 확인해주세요.
 
-![](<../../.gitbook/assets/캡처33 (1) (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/캡처33 (1) (1).png" alt="">
+
+</div>
 
 ### **2.스토어에 출시되지 않았다면 '아니요' 에 체크하고 진행해주세요**
 
@@ -352,7 +360,11 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 **광고 단위 아이디는 아래에서 확인 가능합니다.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%949.png)
 
@@ -412,7 +424,11 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 **\[결제 정보 추가]** 메뉴로 들어가주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B44-1.png)
 
@@ -424,7 +440,11 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 <mark style="color:red;">따라서 해당 화면에서는 수익을 받을 계좌, 은행 등을 입력하지 않습니다.</mark>
 
-![](<../../.gitbook/assets/캡처33 (1) (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/캡처33 (1) (1).png" alt="">
+
+</div>
 
 ### **2. 차단 관리 – 앱 광고 관리**
 
@@ -444,7 +464,11 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 2\)<mark style="color:blue;">**\[모두 검토됨으로 표시]**</mark> 버튼을 선택해서 상태를 ‘검토완료’로 변경해주셔야 합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9-%EA%B4%91%EA%B3%A0%EA%B4%80%EB%A6%AC2-1.png)
 

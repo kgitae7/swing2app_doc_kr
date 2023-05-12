@@ -157,7 +157,11 @@
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EB%A9%94%EC%8B%9C%EC%A7%804.png" alt="">
+
+</div>
 
 푸시 알림을 선택하면, 메시지창이 뜨구요. \*푸시발송시 기재한 제목, 메시지 내용
 
@@ -177,7 +181,11 @@
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면: 푸시 발송된 화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C2.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2018\_10\_02\_17\_41\_50\_731.gif)
 
@@ -199,7 +207,11 @@
 
 <mark style="color:blue;">**1) 안드로이드폰 앱 푸시 발송 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2021\_02\_17\_14\_15\_07\_413.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2021_02_17_14_15_07_413.gif" alt="">
+
+</div>
 
 **안드로이드폰에서는 푸시발송에서 등록한 제목, 내용, 이미지가 모두 표시됩니다.**
 
@@ -215,7 +227,11 @@
 
 <mark style="color:blue;">**2) 아이폰 앱 푸시 발송 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A1%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%91%B8%EC%8B%9C%EB%B0%9C%EC%86%A1%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 **아이폰에서는 푸시 제목, 메시지 내용만 표시가 되구요.**
 

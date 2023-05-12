@@ -20,7 +20,11 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.채팅목록 이란?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 \-위의 이미지처럼 누구와 대화를 했는지 각 사용자 혹은 관리자별로 채팅목록이구분되어서 표시가 됩니다.
 
@@ -92,13 +96,21 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png" alt="">
+
+</div>
 
 그러나!! 이제 \[채팅목록]을 이용하시면 대화를 했던 각 관리자별 목록을 확인할 수 있습니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_12\_17\_14\_21\_497.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94_2019_03_12_17_14_21_497.gif" alt="">
+
+</div>
 
 \*채팅을 한 여러 관리자 중에서 나와 마지막에 채팅을 주고 받은 ‘김스윙’ 관리자에게 다시 문의를 하고 싶을 경우, 채팅목록에서 ‘김스윙’ 관리자를 선택해서 채팅을 시작할 수 있습니다.
 

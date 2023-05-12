@@ -8,7 +8,11 @@ description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.프로그레스바란?**&#x20;
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%ED%91%9C%EC%8B%9C%EC%A4%84.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **프로그레스바는**, 모바일 웹 상단에 표시되는 진행 표시줄입니다.
 

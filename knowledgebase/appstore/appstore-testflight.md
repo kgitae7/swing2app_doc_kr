@@ -116,7 +116,11 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. TestFlight 출시 후 앱 설치 방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B81.png" alt="">
+
+</div>
 
 **TestFlight 앱 출시가 완료되면 등록된 사용자 애플 아이디로 앱 설치 초대 메일이 발송됩니다.**
 
@@ -124,7 +128,11 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B82.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B82.png" alt="">
+
+</div>
 
 <mark style="color:red;">★중요: TestFlight 앱이 설치가 안된 분들은 앱스토어에서 TestFlight앱 검색해서 설치 먼저 해주셔야 합니다.</mark>
 
@@ -134,19 +142,31 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B83.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B83.png" alt="">
+
+</div>
 
 TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 \*이용약관은 TestFlight를 처음 이용하는 분들만 뜨기 때문에 한번이라도 이용을 한 사용자들은 위의 페이지가 뜨지 않고 바로 앱 설치화면으로 이동합니다!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B84.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B84.png" alt="">
+
+</div>
 
 \[설치] 버튼을 눌러서 앱을 설치해주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B85.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B85.png" alt="">
+
+</div>
 
 설치가 완료되었구요.
 

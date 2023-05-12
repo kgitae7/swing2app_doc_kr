@@ -154,6 +154,7 @@
     * [게시물 검색 기능](manual/appmanage/board/post-search.md)
     * [게시물관리 옵션 기능](manual/appmanage/board/postsoption.md)
     * [일괄등록 게시판 이용방법](manual/appmanage/board/bulkregistration-bulletinboard.md)
+    * [복합게시판](manual/appmanage/board/combination-board.md)
     * [게시판 복사](manual/appmanage/board/board-copy.md)
     * [게시물 복사](manual/appmanage/board/post-copy.md)
     * [게시물 이동](manual/appmanage/board/post-move.md)

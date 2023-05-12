@@ -193,19 +193,31 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 **1.전화번호**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png" alt="">
+
+</div>
 
 &#x20;
 
 **2. 생일**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png" alt="">
+
+</div>
 
 &#x20;
 
 **3.추천 트레이너 – 문장 작성 UI (단문 작성)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png" alt="">
+
+</div>
 
 &#x20;
 

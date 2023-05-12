@@ -56,7 +56,11 @@ description: 게시물 검색 기능 이용방법:게시판 통합 검색, 개�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94_2020_12_29_16_53_54_855.gif" alt="">
+
+</div>
 
 만들어놓은 \[게시물 검색] 메뉴를 선택하면 위의 이미지처럼 앱에 적용된 모든 게시판의 게시물 목록이 나열되어서 보입니다.
 

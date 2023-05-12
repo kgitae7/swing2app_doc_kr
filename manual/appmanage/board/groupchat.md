@@ -38,7 +38,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 그룹채팅방 만들기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%851\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%851_20.06.png" alt="">
+
+</div>
 
 스윙 앱운영 페이지 → 서비스관리 → 게시판 관리 메뉴로 이동합니다.
 
@@ -74,7 +78,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**2.그룹채팅방 생성 – 채팅 상세설정**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/그룹채팅수정.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:red;">채팅 상세설정은 필수가 아닌 ‘선택 옵션’이에요.</mark>&#x20;
 
@@ -156,9 +164,17 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**1. 그룹채팅방 화면**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/그룹채팅-메인.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/이전대화목록 (1).gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 채팅방에는 본인 외에 다른 사용자의 입장을 확인할 수 있으며, 인원 및 글을 입력하는 상태도 확인할 수 있습니다.
 
@@ -182,7 +198,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**1) 채팅 공지 메시지**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/공지메시지 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 &#x20;채팅방 입장시 입력된 공지사항메시지 창이 뜹니다.&#x20;
 
@@ -190,7 +210,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**2) 비밀번호 설정**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/비밀번호 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 채팅방 입장시 채팅방 비밀번호 입력 창이 뜹니다.
 
@@ -200,7 +224,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**3) 사용자 목록 보기**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/사용자목록보기 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 &#x20;채팅방의 오른쪽 상단 버튼을 누르면 채팅방에 입장한 사용자 목록을 확인할 수 있어요.
 
@@ -246,7 +274,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 앱에서 사용자들이 받은 푸시를 선택하면 바로 그룹채팅방으로 이동하기 때문에 해당 방법으로 채팅방 참여를 유도할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512_20.06.png" alt="">
+
+</div>
 
 단, 위에서 안내드렸듯이 <mark style="color:green;">상품에 따라 접속 인원이 정해져있기 때문에 적용된 상품에 기재된 인원만 접속할 수 있습니다.</mark>
 

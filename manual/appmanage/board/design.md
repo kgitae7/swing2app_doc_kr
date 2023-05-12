@@ -25,35 +25,67 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 
 ### <mark style="color:blue;">**1. 이미지 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/01\_%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/01_%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**2. 타임라인(자유)게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/02\_%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-%EA%B2%8C%EC%8B%9C%ED%8C%90.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/02_%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-%EA%B2%8C%EC%8B%9C%ED%8C%90.jpg" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**3. 목록형 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/03\_%EB%AA%A9%EB%A1%9D%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/03_%EB%AA%A9%EB%A1%9D%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**4. 아코디언(공지사항) 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/04\_-%EC%95%84%EC%BD%94%EB%94%94%EC%96%B8%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/04_-%EC%95%84%EC%BD%94%EB%94%94%EC%96%B8%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**5. 섬네일 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/05\_%EC%8D%B8%EB%84%A4%EC%9D%BC%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/05_%EC%8D%B8%EB%84%A4%EC%9D%BC%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**6. 큰이미지 목록형 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/06\_%ED%81%B0%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A9%EB%A1%9D%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/06_%ED%81%B0%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A9%EB%A1%9D%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**7. 중간이미지 목록형 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/07\_%EC%A4%91%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A9%EB%A1%9D%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/07_%EC%A4%91%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A9%EB%A1%9D%ED%98%95-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**8. 대화(그룹채팅) 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/08\_%EB%8C%80%ED%99%94%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%85-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/08_%EB%8C%80%ED%99%94%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%85-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 <mark style="color:red;">**\*관리자와 1:1 채팅을 할 수 있는 \[관리자 채팅] 은 게시판 기능이 아닌, 스윙 페이지에서 제공하는 기능이에요.**</mark>
 
@@ -65,15 +97,27 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 
 ### <mark style="color:blue;">**9. 위치등록 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/09\_2\_%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D-%EA%B2%8C%EC%8B%9C%ED%8C%90.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/09_2_%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D-%EA%B2%8C%EC%8B%9C%ED%8C%90.jpg" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**10. 스탬프 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/10\_%EC%8A%A4%ED%83%AC%ED%94%84%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/10_%EC%8A%A4%ED%83%AC%ED%94%84%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**11. 구글맵 (Google 지도) 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/11\_2\_%EA%B5%AC%EA%B8%80%EC%A7%80%EB%8F%84-%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/11_2_%EA%B5%AC%EA%B8%80%EC%A7%80%EB%8F%84-%EA%B2%8C%EC%8B%9C%ED%8C%90.png" alt="">
+
+</div>
 
 <mark style="color:red;">\*구글지도를 연동하기 위해서는 구글맵 플랫폼 사이트에서 가입을 하신 뒤에 API 라는 키 값을 발급받아야 합니다.</mark>
 
@@ -89,4 +133,8 @@ description: 스윙투앱에서 제공하는 게시판 종류 및 디자인 스�
 
 ### <mark style="color:blue;">**12. 캘린더 게시판**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/12\_%EC%BA%98%EB%A6%B0%EB%8D%94.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/12_%EC%BA%98%EB%A6%B0%EB%8D%94.png" alt="">
+
+</div>

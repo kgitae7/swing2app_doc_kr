@@ -158,7 +158,11 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 #### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png" alt="">
+
+</div>
 
 툴바 영역에서 보듯이 앱제작시 제공되는 기본 아이콘 외에, 다른 이미지를 업로드하여 툴바 아이콘을 꾸밀 수 있습니다.
 

@@ -19,7 +19,11 @@ description: 2023년 5월 1주차 스윙투앱 기능 업데이트
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 설문지 복사 기능 출시
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/설문복사_업데이트.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **설문지 복사, 설문지 항목(질문) 복사 기능이 추가되었습니다.**
 

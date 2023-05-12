@@ -138,7 +138,11 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 앱을 실행하여 관리자가 적용된 해당 게시판을 확인해볼게요.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/게시판관리자.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 앱에서 해당 관리자 계정으로 로그한 뒤, 관리자로 지정된 게시판으로 이동해주세요.
 
@@ -158,7 +162,11 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 <mark style="color:blue;">**만약 게시판 관리자가 아닌 일반 사용자로 접속시, 어떻게 보여지나요?**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/게시판관리자1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 일반 사용자 혹은 게시판관리자가 아닌 일반 관리자의 경우는 **\[신고하기, 차단, 공유하기]** 메뉴만 확인할 수 있어요!
 

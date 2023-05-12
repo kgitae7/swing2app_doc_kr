@@ -182,7 +182,11 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 디지털-영상 파일 판매 앱**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_10\_01\_01\_36\_09\_304.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_10_01_01_36_09_304.gif" alt="">
+
+</div>
 
 앱에 적용된 영상 파일을 구매할 수 있구요.
 
@@ -192,6 +196,14 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%815\_19.09.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%816\_19.09.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%817\_19.09.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%816_19.09.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%817_19.09.png" alt="">
+
+</div>

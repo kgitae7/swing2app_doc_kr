@@ -26,7 +26,11 @@ description: 구글 플레이스토어 정책 - 사용자 제작 콘텐츠(UGC)
 
 \-기존 출시된 앱들은 2021년 11월을 기준으로 해당 정책이 마련되어 있지 않을 경우 앱이 스토어에 삭제 되는 등의 제재를 받고 있습니다.
 
-![](../../.gitbook/assets/줄라인.PNG)
+<div align="left">
+
+<img src="../../.gitbook/assets/줄라인.PNG" alt="">
+
+</div>
 
 ### **2.사용자 제작 콘텐츠 정책 조치사항 안내**
 
@@ -120,7 +124,11 @@ UGC를 포함하거나 제공하는 앱은 다음 요건을 충족해야 합니�
 
 ​
 
-![](../../.gitbook/assets/줄라인.PNG)
+<div align="left">
+
+<img src="../../.gitbook/assets/줄라인.PNG" alt="">
+
+</div>
 
 ### **4.어떤 앱이 사용자 제작 콘텐츠 앱인가요?**
 
@@ -140,7 +148,11 @@ UGC를 포함하거나 제공하는 앱은 다음 요건을 충족해야 합니�
 
 ​
 
-![](../../.gitbook/assets/줄라인.PNG)
+<div align="left">
+
+<img src="../../.gitbook/assets/줄라인.PNG" alt="">
+
+</div>
 
 ### **5.스윙투앱 일반 프로토타입 앱은, 어떻게 조치할 수 있나요?**
 
@@ -206,7 +218,11 @@ UGC를 포함하거나 제공하는 앱은 다음 요건을 충족해야 합니�
 
 관리자가 확인 후 삭제하는 시스템은 적합하지 않습니다. 신고 즉시 해당 글 및 사용자가 웹에서 삭제되어 안보이도록 처리해주세요.
 
-![](../../.gitbook/assets/줄라인.PNG)
+<div align="left">
+
+<img src="../../.gitbook/assets/줄라인.PNG" alt="">
+
+</div>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**안내**</mark>

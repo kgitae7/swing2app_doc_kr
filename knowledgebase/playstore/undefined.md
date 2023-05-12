@@ -22,7 +22,11 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 &#x20;\*이미지 참고) 이렇게 앱 내 로그인 기능이 있을 경우 테스트용 계정 필수 제출입니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/앱로그인화면.png" alt=""><figcaption><p> <mark style="color:red;"></mark> 앱 로그인 기</p></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/앱로그인화면.png" alt=""><figcaption><p> 앱 로그인 기</p></figcaption></figure>
+
+</div>
 
 
 
@@ -60,7 +64,11 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 아래 방법으로 수정하여 제출해주세요.
 
-![](../../.gitbook/assets/구글\_액세스2.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/구글_액세스2.png" alt="">
+
+</div>
 
 \-앱 내에 회원가입, 로그인 메뉴가 있다면 **"전체 또는 일부 기능이 제한됨"**으로 체크해주셔야 합니다.
 
@@ -70,7 +78,7 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 <mark style="color:red;">\*\*웹사이트를 연결한 웹앱 - 푸시앱, 웹뷰앱 역시 해당 웹사이트에서 로그인 기능을 제공하고 있다면 동일하게 "전체 또는 일부 기능이 제한됨" 체크해주세요.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

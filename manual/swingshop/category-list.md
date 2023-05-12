@@ -12,7 +12,11 @@ description: 스윙샵에서 제공하는 페이지 중 ‘카테고리 리스�
 
 <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> <mark style="color:blue;">**카테고리 리스트 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png" alt="">
+
+</div>
 
 카테고리 리스트는 실물상품, 디지털 상품시에만 적용해주세요.
 
@@ -60,7 +64,11 @@ description: 스윙샵에서 제공하는 페이지 중 ‘카테고리 리스�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 카테고리 리스트 페이지 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_26\_16\_46\_56\_168.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_26_16_46_56_168.gif" alt="">
+
+</div>
 
 카테고리 리스트 페이지가 적용된 앱 실행화면입니다.&#x20;
 

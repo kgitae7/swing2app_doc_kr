@@ -18,7 +18,11 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 쇼핑몰 메인 페이지 스타일과, 앱 홈화면에 적용하는 방법을 알려드릴게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png" alt="">
+
+</div>
 
 쇼핑몰 메인 페이지를 적용한 스윙샵 앱 메인 홈화면입니다.
 
@@ -58,7 +62,11 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 쇼핑몰 정보 페이지 스타일과, 앱 홈화면에 적용하는 방법을 알려드릴게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B44.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B44.png" alt="">
+
+</div>
 
 쇼핑몰 정보 페이지를 적용한 스윙샵 앱 메인 홈화면입니다.
 
@@ -194,7 +202,11 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 다른 스타일의 웹템플릿으로도 예약상품 페이지를 구성할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B412.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B412.png" alt="">
+
+</div>
 
 다른 업종 템플릿의 \[정보 페이지]를 사용했구요.
 
@@ -202,7 +214,11 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 이렇게 다양한 웹템플릿 디자인을 이용해서 쇼핑몰 화면을 구성할 수 있어요!
 
-![](../../.gitbook/assets/줄라인.PNG)
+<div align="left">
+
+<img src="../../.gitbook/assets/줄라인.PNG" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**2)이미지 페이지 이용하기**</mark>
 

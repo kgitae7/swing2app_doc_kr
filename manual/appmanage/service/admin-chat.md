@@ -36,7 +36,11 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/501e2b073e3179fefc05518335da28ec.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/501e2b073e3179fefc05518335da28ec.png" alt="">
+
+</div>
 
 1\)목록 필터: 읽은 채팅 목록, 읽지 않은 채팅 목록을 선택하여 확인할 수 있습니다.\
 2\)검색: 채팅을 했던 회원명, 회원 ID를 검색하여 회원을 찾아볼 수 있습니다.\
@@ -53,7 +57,11 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 ## 3. 채팅 목록 기능
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9bde13d64efa084d8bbe556856d87a7e.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9bde13d64efa084d8bbe556856d87a7e.png" alt="">
+
+</div>
 
 <mark style="color:orange;">**1) 알림 숫자 뱃지**</mark>
 
@@ -76,7 +84,11 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 \
 <mark style="color:orange;">**3) 웹사이트 채팅방 개설**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4cf31405ee64937a401b0f5d2516bb7a.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4cf31405ee64937a401b0f5d2516bb7a.png" alt="">
+
+</div>
 
 채팅 목록 페이지에서 **메시지가 온 회원을 선택하면 웹에서 바로 대화가 가능하도록 채팅창이 뜹니다.**
 

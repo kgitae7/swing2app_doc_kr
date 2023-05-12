@@ -18,7 +18,11 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 **앱운영- 게시물관리에서는 폼이 적용되지 않기 때문에 해당 기능은 반드시 앱에서만 이용해주시기 바랍니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%8F%BC-KR.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%8F%BC-KR.png" alt="">
+
+</div>
 
 <mark style="color:blue;">**게시판 작성글과는 어떻게 다른가요?**</mark>
 
@@ -192,13 +196,21 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 핸드폰 앱 실행화면을 통해서 작성폼이 어떻게 나타나는지 확인해볼게요
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC_20.07.png" alt="">
+
+</div>
 
 게시판 목록 화면으로 이동하면 오른쪽 상단 글작성 버튼을 선택해주시구요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4\_20.03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4_20.03.png" alt="">
+
+</div>
 
 글작성 페이지로 이동하면, 작성폼에서 입력한 내용처럼 질문 항목과 답변 항목 양식이 만들어졌습니다.
 
@@ -218,7 +230,11 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 글 등록이 완료된 후 게시판 작성폼을 확인해볼게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2_20.07.png" alt="">
+
+</div>
 
 각 항목별로 답변이 입력된 것을 확인할 수 있습니다.&#x20;
 

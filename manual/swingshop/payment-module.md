@@ -80,9 +80,17 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면: 페이앱 결제화면**
 
-![](../../.gitbook/assets/결제모듈\_22.08.png)
+<div align="left">
 
-![](../../.gitbook/assets/결제모듈2\_22.08.png)
+<img src="../../.gitbook/assets/결제모듈_22.08.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../../.gitbook/assets/결제모듈2_22.08.png" alt="">
+
+</div>
 
 **페이앱 결제수단을 선택하면 페이앱에서 제공하는 결제모듈을 선택할 수 있어요.**
 
@@ -140,7 +148,11 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면: 현장결제 화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802_20.04.png" alt="">
+
+</div>
 
 상품 선택 후 구매하기 결제수단: \[현장결제]를 선택합니다.
 

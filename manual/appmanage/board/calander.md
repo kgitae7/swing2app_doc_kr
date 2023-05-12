@@ -269,7 +269,11 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱 실행화면
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/캘린더2-5420.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **앱 실행 후 캘린더 메뉴로 이동하면, 적용된 캘린더를 확인할 수 있습니다.**
 
@@ -289,7 +293,11 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 먼저 앱 내에서 사용자 혹은 손님, 특정그룹에서 캘린더 글 작성이 가능하도록 게시판 권한 설정을 해주셔야 합니다!
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/권한new4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board\_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
 
@@ -363,7 +371,11 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/2019.%EC%BA%98%EB%A6%B0%EB%8D%944.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/2019.%EC%BA%98%EB%A6%B0%EB%8D%944.png" alt="">
+
+</div>
 
 이렇게 앱에서도 일정을 작성하고, 앱에서 캘린더 일정을 공유할 수 있습니다!
 

@@ -116,7 +116,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <mark style="color:red;">**\* 빨간색**</mark>** 으로 표시된 항목은 필수 입력해주셔야 합니다.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%951.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%951.png" alt="">
+
+</div>
 
 <mark style="color:purple;">**? 물음표 아이콘**</mark>을 선택하면 가이드라인을 확인할 수 있어요!
 
@@ -198,7 +202,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 \*아이패드 스크린샷 이미지 사이즈 (2048x2732 or 2732x2048)
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/이미지 1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 10\)**로그인 계정 입력**: 앱에서 로그인 가능한 계정을 입력합니다.
 
@@ -238,7 +246,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 내용 확인을 한 뒤 **“앱스토어 앱등록 이용정책에 동의해주시기 바랍니다”** 버튼을 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%8C%80%EB%A6%AC%EB%93%B1%EB%A1%9D-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%8C%80%EB%A6%AC%EB%93%B1%EB%A1%9D-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.png" alt="">
+
+</div>
 
 **(2) 애플 앱스토어 개발자 계정 등록**
 
@@ -256,7 +268,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 15\) **앱스토어 앱등록 이용정책 동의**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B86.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B86.png" alt="">
+
+</div>
 
 해당 버튼을 눌러서 앱스토어 이용정책을 반드시 숙지한 뒤 **‘동의함’**에 체크해주세요.
 
@@ -270,7 +286,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱스토어 업로드 신청완료
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png" alt="">
+
+</div>
 
 **\*앱스토어 업로드 신청이 들어오면 스윙 마켓업로드 지원팀 담당자가 확인하여 앱스토어에 등록해드립니다.**
 

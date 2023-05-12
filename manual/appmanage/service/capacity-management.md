@@ -74,7 +74,11 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 ## 1. 리소스 관리 페이지 이동
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4new%EC%82%AC%EC%9D%B4%EC%A6%88%EC%88%98%EC%A0%95.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4new%EC%82%AC%EC%9D%B4%EC%A6%88%EC%88%98%EC%A0%95.png" alt="">
+
+</div>
 
 [**앱운영 페이지 → 서비스관리 → 리소스관리**](http://www.swing2app.co.kr/view/storage\_manager) **메뉴로 이동합니다.**
 
@@ -82,7 +86,11 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 ## 2. 리소스 관리자 페이지
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC2\_18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC2_18.09.png" alt="">
+
+</div>
 
 저는 유료로 이용중인 앱 리소스 관리 페이지로 이동을 했는데요.&#x20;
 
@@ -108,7 +116,11 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 <mark style="color:blue;">**무료버전 앱 용량**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3.png" alt="">
+
+</div>
 
 그리고 무료 버전은 기본 제공 용량 100MB가 제공됩니다.
 
@@ -122,7 +134,11 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 ## 3. 미리보기 – 이동 버튼
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3\_18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3_18.09.png" alt="">
+
+</div>
 
 게시물 제목만 봐서는 어떤 게시물인지 모르겠죠.
 
@@ -132,7 +148,11 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 ## 4. 게시물 삭제하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC4\_18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC4_18.09.png" alt="">
+
+</div>
 
 용량을 차지하고 있는 게시물 중, 필요가 없는 게시물은 **게시물 선택 후 \[삭제하기] 버튼을 선택해서 삭제할 수 있어요.**
 

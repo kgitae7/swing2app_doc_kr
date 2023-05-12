@@ -100,7 +100,11 @@ pc 인터넷이나 모바일 웹에 붙여넣기 하면 개발자 페이지를 �
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**모바일에서 확인**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt="">
+
+</div>
 
 
 

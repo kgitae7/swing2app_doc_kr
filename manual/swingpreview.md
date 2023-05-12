@@ -36,7 +36,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png" alt="">
+
+</div>
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요.
 
@@ -84,7 +88,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:blue;"><mark style="color:orange;">**아이폰 미리보기 화면**<mark style="color:orange;"></mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="">
+
+</div>
 
 아이폰은 \[미리보기] 버튼을 눌러서 확인이 가능합니다.
 
@@ -92,7 +100,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 ​<mark style="color:orange;">**\[안드로이드폰 미리보기 화면]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="">
+
+</div>
 
 안드로이드폰에서는 \[앱 미리보기], \[앱 다운로드] 모두 가능하구요.
 
@@ -112,7 +124,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2021\_07\_08\_14\_33\_38\_528.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_07_08_14_33_38_528.gif" alt="">
+
+</div>
 
 안드로이드폰에서는 \[앱 다운로드] 버튼을 통해서 제작한 앱을 직접 핸드폰으로 다운받아 설치할 수 있어요!
 
@@ -122,7 +138,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
 
-![](../.gitbook/assets/수정\_미리보기.gif)
+<div align="left">
+
+<img src="../.gitbook/assets/수정_미리보기.gif" alt="">
+
+</div>
 
 아이폰은 앱 다운이 안되기 때문에 \[미리보기] 버튼을 통해서 제작한 앱을 미리보기로 확인 할 수 있습니다.
 
@@ -144,7 +164,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 #### <mark style="color:blue;">**1. 부관리자 로그인**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="">
+
+</div>
 
 앱 미리보기 에서는 관리자 로그인 분만 아니라  앱 부관리자도 로그인하여 앱을 확인할 수 있습니다.
 
@@ -244,7 +268,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:orange;">**\[QR 미리보기 이용방법 움짤 이미지로 확인하기]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2021\_04\_19\_17\_12\_28\_478.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_04_19_17_12_28_478.gif" alt="">
+
+</div>
 
 <mark style="color:red;">**★ QR코드 이용방법 정리**</mark>
 

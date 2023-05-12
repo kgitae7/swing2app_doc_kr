@@ -54,13 +54,21 @@ description: 페이지 기본 기능에서 제공하는 나의 글 보기 기능
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
 
-![](../../../.gitbook/assets/녹화\_2022\_07\_14\_10\_36\_55\_432.gif)
+<div align="left">
+
+<img src="../../../.gitbook/assets/녹화_2022_07_14_10_36_55_432.gif" alt="">
+
+</div>
 
 앱에 적용된 \[나의 글 보기] 메뉴로 이동하면 내가 작성한 게시물을 모두 모아서 볼 수 있어요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03\_2019.11.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03_2019.11.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B02\_2019.11.png)
 

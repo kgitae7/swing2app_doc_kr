@@ -64,7 +64,11 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 ### **1)카메라 사용여부 – YES로 체크한 경우**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%82%AC%EC%9A%A9%EC%98%B5%EC%85%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%82%AC%EC%9A%A9%EC%98%B5%EC%85%98.png" alt="">
+
+</div>
 
 위와 같은 허용 여부 메시지 팝업이 뜹니다.
 
@@ -72,11 +76,19 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 ### **2)외부 저장공간 사용 – YES로 체크한 경우**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%A0%80%EC%9E%A5%EA%B3%B5%EA%B0%84.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%A0%80%EC%9E%A5%EA%B3%B5%EA%B0%84.png" alt="">
+
+</div>
 
 ### **3)위치 권한 사용 – YES로 체크한 경우**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%9C%84%EC%B9%98%EA%B6%8C%ED%95%9C%EC%98%B5%EC%85%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%9C%84%EC%B9%98%EA%B6%8C%ED%95%9C%EC%98%B5%EC%85%98.png" alt="">
+
+</div>
 
 \-설정값을 사용하지 않을 경우 위의 메시지 창은 뜨지 않구요.
 
@@ -88,7 +100,11 @@ description: 웹뷰, 푸시앱 - 데이터 유형 및 앱 설정방법
 
 ### **4)추가 안내) 푸시 알림 허용**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%ED%91%B8%EC%8B%9C%ED%97%88%EC%9A%A9.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%ED%91%B8%EC%8B%9C%ED%97%88%EC%9A%A9.png" alt="">
+
+</div>
 
 ‘푸시 알림 허용’은 푸시앱에서 필수로 뜨는 메시지창입니다.&#x20;
 

@@ -20,7 +20,11 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 공지 메시지 설정은 그룹채팅 생성시 → 채팅 상세 설정에서 채팅 공지 메시지 입력을 통해 적용할 수 있습니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/공지.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -34,7 +38,11 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 사용자 목록보기 설정은 그룹채팅 생성시 → 채팅 상세 설정에서 사용자 목록보기 기능 '예' 체크를 통해 적용할 수 있습니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/목록보기.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -46,7 +54,11 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 비밀번호 설정은 그룹채팅 생성시 → 채팅 상세 설정에서 비밀번호 설정 체크를 통해 적용할 수 있습니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/비밀.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 

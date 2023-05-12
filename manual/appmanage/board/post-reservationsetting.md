@@ -54,7 +54,11 @@ description: 게시물 예약글 작성하기 [예약 설정 방법]
 
 ### <mark style="color:blue;">**3. 앱 실행화면) 예약글 확인하기**</mark> &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%88%EC%95%BD%EC%9E%91%EC%84%B15-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%88%EC%95%BD%EC%9E%91%EC%84%B15-1.png" alt="">
+
+</div>
 
 앱을 실행해서 작성된 게시판으로 이동하시면, 예약을 설정해놓은 시간 전까지는 글이 노출되지 않구요.
 

@@ -6,9 +6,17 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/애드몹이미지.jpg" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/애드몹플러그인광고.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -16,7 +24,11 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 ### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 애드몹 플러그인 설정 이란?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%95.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%95.png" alt="">
+
+</div>
 
 애드몹 적용 플러그인 상품 구매 후, 애드몹 광고를 사용자의 앱 내에 직접 셋팅할 수 있는 기능이에요.
 
@@ -46,7 +58,11 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 애드몹 플러그인 설정 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%84%A4%EC%A0%953.png" alt="">
+
+</div>
 
 **앱운영 → 서비스관리 → 애드몹 플러그인 설정** 으로 이동해주세요.
 
@@ -56,7 +72,11 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 <mark style="color:blue;">**1)광고단위 아이디 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%841.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%841.png" alt="">
+
+</div>
 
 \-안드로이드 전면 광고, 배너 광고 아이디 입력
 
@@ -70,7 +90,11 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 <mark style="color:blue;">**2)광고노출 패턴 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%842.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%842.png" alt="">
+
+</div>
 
 전면, 배너 광고 모두 노출 ‘사용’으로 체크해주세요.
 
@@ -146,9 +170,17 @@ description: 스윙투앱에서 제공하는 구글 애드몹 플러그인 기�
 
 <mark style="color:blue;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_16\_43\_781.gif)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_17\_59\_915.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_16_43_781.gif" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_17_59_915.gif" alt="">
+
+</div>
 
 **해당 앱 광고 설정은 배너 광고 노출 사용 했구요.**
 

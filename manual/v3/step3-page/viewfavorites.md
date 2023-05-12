@@ -2,7 +2,7 @@
 description: 페이지 기본 기능 - 관심글보기 이용방법
 ---
 
-# 페이지 기능-관심글 보기
+# 페이지 기능 - 관심글 보기
 
 스윙투앱에서 제공하는 ‘관심글보기’ 이용방법에 대해서 알려드리겠습니다.
 
@@ -60,7 +60,11 @@ description: 페이지 기본 기능 - 관심글보기 이용방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.png" alt="">
+
+</div>
 
 ‘좋아요’ 한 글이 없다면, 게시물이 없다고 표시되구요.
 

@@ -32,7 +32,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입 진행
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83_20.07.png" alt="">
+
+</div>
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **부관리자로 지정을 하기 위해서는 앱에서 회원가입이 되어 있어야 해요!**
 
@@ -82,7 +86,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 먼저 [\[스윙투앱 홈페이지\]](http://www.swing2app.co.kr) 접속하여 부관리자로 로그인해볼게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png" alt="">
+
+</div>
 
 홈페이지 접속 후 – 로그인 화면에서&#x20;
 
@@ -138,7 +146,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 앱에서 부관리자로 로그인하는 방법을 알려드릴게요!!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B84\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B84_20.07.png" alt="">
+
+</div>
 
 **앱 로그인은 가입하신 아이디, 비밀번호로 동일하게 로그인을 하시면 됩니다.**
 
@@ -158,7 +170,11 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <mark style="color:blue;">**★ 관리자 등급 변경 푸시 발송**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B86\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B86_20.07.png" alt="">
+
+</div>
 
 **★ 등급 변경시에는 사용자에게 푸시 알림이 함께 발송이 됩니다.**
 

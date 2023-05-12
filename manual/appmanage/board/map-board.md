@@ -26,7 +26,11 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90\_8.13.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_07\_24\_16\_18\_40\_943.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt="">
+
+</div>
 
 앱 실행화면을 통해서 지도게시판이 어떻게 보여지는지 확인해주시구요.
 
@@ -260,7 +264,11 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 여러 위치를 등록했다면,리스트에서 등록한 위치 목록을 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_07\_24\_16\_18\_40\_943.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt="">
+
+</div>
 
 **\[전화걸기] 버튼을 선택하면 입력된 전화번호로 바로 전화연결이 됩니다.**
 

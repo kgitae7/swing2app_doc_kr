@@ -12,7 +12,11 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면 - 상단 이미지 슬라이딩 효과**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_01\_28\_16\_25\_34\_467.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_01_28_16_25_34_467.gif" alt="">
+
+</div>
 
 <mark style="color:red;">**★이용방법**</mark>
 
@@ -118,7 +122,11 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면 – 슬라이드 확인하기**
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/슬라이드2.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 스윙의류 앱을 실행한 화면입니다.
 

@@ -42,7 +42,11 @@ description: 삼성 갤럭시 스토어에 앱을 등록하고 출시하는 방�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP2. 앱 정보 등록
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C2.png" alt="">
+
+</div>
 
 1.앱 정보 항목 선택
 
@@ -50,7 +54,11 @@ description: 삼성 갤럭시 스토어에 앱을 등록하고 출시하는 방�
 
 3.설명 : 앱에 대한 설명을 기재합니다. (12,000자 이내)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C3.png" alt="">
+
+</div>
 
 4.아이콘: 앱 아이콘 이미지를 등록합니다. (사이즈:512×512 픽셀)
 
@@ -66,7 +74,11 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 7.연령제한: 앱을 이용하는 연령을 설정해주세요. 4세 이상이 가장 일반적입니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C4.png" alt="">
+
+</div>
 
 8.지원언어: 애플리케이션이 지원하는 언어를 선택합니다. 한국어, 영어 등 앱 지원언어를 추가해주세요.
 
@@ -74,7 +86,11 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C5.png" alt="">
+
+</div>
 
 9.고객지원 이메일: 애플리케이션 정보에 등록되는 이메일주소를 기재합니다.(사용자들에게 보여지는 용도)
 
@@ -84,7 +100,11 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 <mark style="color:orange;">**앱 정보 항목 입력 완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C6.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C6.png" alt="">
+
+</div>
 
 앱 정보 항목이 등록완료되었습니다.
 
@@ -98,7 +118,11 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 **바이너리는 앱(APK파일)을 등록하는 단계입니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C7.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C7.png" alt="">
+
+</div>
 
 1.왼쪽 카테고리 – 바이너리 선택
 

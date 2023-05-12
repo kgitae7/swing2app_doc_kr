@@ -2,7 +2,7 @@
 description: 앱에서 발급받은 쿠폰을 조회하는 방법
 ---
 
-# 페이지 기능-쿠폰조회하기
+# 페이지 기능 - 쿠폰조회하기
 
 **쿠폰조회하기 메뉴란?**
 
@@ -80,7 +80,11 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B02.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B02.png" alt="">
+
+</div>
 
 쿠폰 리스트에서 쿠폰을 선택하면, 전체화면으로 창이 전환되어 쿠폰 내용을 보다 상세히 확인할 수 있습니다.
 
@@ -88,7 +92,11 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 **-사용된 쿠폰 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B03.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B03.png" alt="">
+
+</div>
 
 받은 쿠폰을 관리자가 사용처리하면 \[사용된 쿠폰] 목록에서 사용처리 된 것을 확인할 수 있습니다.
 

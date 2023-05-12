@@ -38,7 +38,11 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 이미지 참고) 스윙투앱 앱 로그인 화면
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9276103/20225521.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -52,7 +56,11 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 이미지 참고) 스윙투앱 앱에서 제공되는 회원 탈퇴 기능&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/20220418.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ###
 
@@ -77,11 +85,19 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 <mark style="color:green;">이미지 참고) 스윙투앱 앱에서 제공되는 이용약관 및 개인정보 처리방침 화면</mark>&#x20;
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9276126/20225621.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:green;">이미지 참고) 앱 가입 정책 – 서비스 이용약관 URL 제공</mark>
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9276341/20220521.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **4.사용자 제작 컨텐츠 – 신고 기능**
 
@@ -103,7 +119,11 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 <mark style="color:green;">이미지 참고) 앱 게시판-게시물 신고&사용자 신고&차단 기능 제공</mark>&#x20;
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9276250/20220221.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **5.웹뷰, 푸시앱 – 사전고지 문서 제출**
 
@@ -133,7 +153,11 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 <mark style="color:green;">이미지 참고) 사전고지 문서: 사업자 등록증 or 웹 도메인 등록 확인서</mark> &#x20;
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9276251/20220221.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **6.소프트 업데이트 금지**
 
@@ -195,7 +219,11 @@ description: 플레이스토어 앱 심사 거절 사례 (자주 발생되는 �
 
 <mark style="color:green;">예시) 암이 100% 치료 된다는 내용</mark>
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9276255/20220221.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 6\)앱과 관계가 없는 브랜드, 정부기관을 언급한 경우
 

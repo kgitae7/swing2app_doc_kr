@@ -124,7 +124,11 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 그룹을 지정하면 해당 사용자의 그룹 만료일을 설정할 수 있어요!!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B7%B8%EB%A3%B9%EB%B3%80%EA%B2%BD2\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B7%B8%EB%A3%B9%EB%B3%80%EA%B2%BD2_20.07.png" alt="">
+
+</div>
 
 **\*만료일: 회원에게 부여된 그룹을 기간 제한없이 무제한으로 이용하게 할지 or 기간을 정해서 만료일을 설정할지 정할 수 있어요.**
 
@@ -144,17 +148,29 @@ description: 회원 그룹을 만드는 방법과 회원에게 그룹을 적용�
 
 \*앱에서는 사용자 등급(그룹)이 어떻게 변경되는지 확인해볼게요!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B98.png" alt="">
+
+</div>
 
 **사용자 그룹이 변경되면, 사용자에게 푸시 알림이 발송이 됩니다.**
 
 푸시 알림을 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B99.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B6%8C%ED%95%9C%EA%B7%B8%EB%A3%B99.png" alt="">
+
+</div>
 
 **이렇게 해당 사용자의 등급이 ‘우수회원’으로 변경되었다는 메시지 창을 확인할 수 있구요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B7%B8%EB%A3%B9%EB%B3%80%EA%B2%BD3\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B7%B8%EB%A3%B9%EB%B3%80%EA%B2%BD3_20.07.png" alt="">
+
+</div>
 
 설정 메뉴로 들어가보시면, 사용자 계정에 ‘우수회원’ 등급이 표시됩니다.
 

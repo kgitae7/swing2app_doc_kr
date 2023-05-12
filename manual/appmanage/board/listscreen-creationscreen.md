@@ -56,7 +56,11 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW4.png" alt="">
+
+</div>
 
 **목록화면은 게시판 목록이 보이는 스타일 \*가장 기본적인 게시판 화면이에요.**
 
@@ -100,7 +104,11 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW5.png" alt="">
+
+</div>
 
 ‘작성화면’을 선택하면 글을 작성할 수 있는 화면(페이지)가 먼저 열리게 됩니다.
 
@@ -140,7 +148,11 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 게시판 작성화면 적용시**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/53ebfd866f6ef882516eb24a072a2d00.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/53ebfd866f6ef882516eb24a072a2d00.png" alt="">
+
+</div>
 
 앱 운영의 목적에 맞게 게시판 불러오기 스타일을 선택해주시기 바랍니다.
 
@@ -198,7 +210,11 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <mark style="color:orange;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW4.png" alt="">
+
+</div>
 
 **목록화면은 게시판 목록이 보이는 스타일 \*가장 기본적인 게시판 화면이에요.**
 
@@ -246,7 +262,11 @@ description: 게시판 - '목록 화면' or '작성화면' 적용방법 매뉴�
 
 <mark style="color:orange;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%AA%A9%EB%A1%9DNEW5.png" alt="">
+
+</div>
 
 ‘작성화면’을 선택하면 글을 작성할 수 있는 화면(페이지)가 먼저 열리게 됩니다.
 

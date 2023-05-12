@@ -20,7 +20,11 @@
 
 ## 2. 채팅 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85%ED%8E%98%EC%9D%B4%EC%A7%80new4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85%ED%8E%98%EC%9D%B4%EC%A7%80new4.png" alt="">
+
+</div>
 
 **채팅 설정 페이지에서는 앱 채팅방을 관리자가 직접 관리할 수 있어요.**
 
@@ -38,7 +42,11 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/a0b8e719f0259183816d90a6981a833b.png)
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/채팅업뎃8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 채팅 사용 여부를 off로 설정해놓으면 채팅방 접속시 “현재 채팅을 이용할 수 없습니다.”라는 메시지가 뜹니다.\
 
@@ -51,7 +59,11 @@
 
 채팅 소개 메시지를 입력하면 채팅창 실행시 소개 메시지가 뜹니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/채팅업뎃7.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 앱 실행 후 채팅방으로 들어가면, 입력해놓은 소개 멘트를 확인할 수 있어요.
 
@@ -61,7 +73,11 @@
 
 채팅이 불가능한 요일, 시간을 설정해놓구요.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/채팅업뎃9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 메시지를 입력해놓으면, 앱 실행시 채팅 불가능 안내 메시지 창이 뜹니다.
 

@@ -61,7 +61,11 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 \*지메일 계정 만들기: [http://accounts.google.co.kr/](http://accounts.google.co.kr/)
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%951.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 계정 만들기 선택 – 비즈니스 관리 계정 선택 후 \[다음]버튼 선택해주세요.
 
@@ -69,7 +73,11 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ### STEP1.계정 정보 입력
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%952.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)계정에 사용될 성, 이름 입력 (성이나 이름중 하나만 입력해도 됩니다.)
 
@@ -85,7 +93,11 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ### STEP2.이메일 주소 인증
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%953.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 위에서 입력한 메일주소로 인증코드가 발송됩니다.
 
@@ -95,7 +107,11 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ### STEP3.전화번호 등 기본정보 입력
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%954.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)핸드폰 번호 입력 \*여기서는 앞에 국가번호 표시되어 있으니 국가번호 제외하고 번호만 입력해주세요.
 
@@ -113,19 +129,31 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ### STEP4.전화번호 인증
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%955.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 입력한 전화번호로 인증번호 \[보내기] 선택해주세요.
 
 ​
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%956.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 핸드폰으로 들어온 인증번호(코드)입력 후, \[확인] 버튼 선택해주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%957.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%957.png" alt="">
+
+</div>
 
 \[건너뛰기] 선택
 
@@ -133,7 +161,11 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ### STEP5.계정만들기 선택
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%958.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Google 서비스 약관에 동의함 모두 체크해주세요.
 
@@ -153,7 +185,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP1.계정유형
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%959.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 기관/단체 \[시작하기] 선택해주세요.
 
@@ -161,7 +197,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP2.내 조직
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9510.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)조직이름: 실제 회사이름이며 법적 정식 명칭을 입력해주세요.
 
@@ -189,7 +229,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP3.내정보
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9511.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)Play Console 및 Android 환경: Play Console 및 Android를 사용한 경험을 입력합니다.
 
@@ -207,7 +251,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP4.개발자 계정
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9512.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)개발자 계정 이름: 실제 구글 플레이에 표시되는 개발자 이름입니다.
 
@@ -233,7 +281,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP5.앱
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9513.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
 
@@ -247,7 +299,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP6.약관
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 약관 내용 체크해주세요.
 
@@ -259,7 +315,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ## 3.결제하기(계정 등록비 결제)
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **조직 등록에 필요한 정보 입력은 모두 완료했구요. 마지막 단계인 개발자 계정 등록비를 결제합니다.**
 
@@ -273,7 +333,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ​
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)카드 번호 입력
 
@@ -303,13 +367,21 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 카드등록이 완료되었구요. \[구입] 버튼을 선택해주세요.
 
 
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 구매 완료 및, 개발자 계정 생성이 완료되었습니다.
 
@@ -325,7 +397,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP1.본인인증 선택
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 버튼 선택시,
 
@@ -337,7 +413,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP2.본인 확인 절차
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 본인 확인을 위해 가장 먼저 개인 신원을 확인하게 됩니다.
 
@@ -365,7 +445,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP3.OTP(인증 코드 번호) 입력
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 마지막 인증으로 사용자가 입력한 핸드폰번호로 인증번호(코드)를 발송합니다.
 
@@ -375,7 +459,11 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ### STEP4.확인 완료
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니다.
 
@@ -383,7 +471,11 @@ OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니
 
 ### STEP5.완료 – 콘솔 이용 가능
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 이제 플레이 콘솔 이용이 가능해집니다.
 

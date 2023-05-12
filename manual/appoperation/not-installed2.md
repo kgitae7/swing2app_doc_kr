@@ -10,7 +10,11 @@ description: APK파일을 다운 받을시 알 수 없는 오류로 앱 설치�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **case1. Play 프로텍트 차단**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9C%A0%EB%A3%8C%EC%95%B1-%EB%AF%B8%EC%84%A4%EC%B9%981.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9C%A0%EB%A3%8C%EC%95%B1-%EB%AF%B8%EC%84%A4%EC%B9%981.png" alt="">
+
+</div>
 
 유료로 전환된 앱을 설치받으려고 할 때 위의 이미지처럼 ‘Play 프로텍트에 의해 차단됨’ 메시지가 뜰 수 있습니다.
 
@@ -24,7 +28,11 @@ description: APK파일을 다운 받을시 알 수 없는 오류로 앱 설치�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **case2. 앱이 설치되지 않았습니다.**&#x20;
 
-![](../../.gitbook/assets/구글정책5-506x1024.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/구글정책5-506x1024.png" alt="">
+
+</div>
 
 **↑↑ 이렇게  앱이 설치되지 않았다는 메시지를 확인할 수 있습니다.**&#x20;
 
@@ -54,7 +62,11 @@ APK가 Google Play에서 배포되었는지를 먼저 확인하여, 그렇지 �
 
 **1. 플레이스토어 어플 화면의 오른쪽 상단 프로필 버튼을 선택합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%85%8D%ED%8A%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%85%8D%ED%8A%B81.png" alt="">
+
+</div>
 
 &#x20;메뉴 창에서 \[Play 프로텍트] 메뉴를 선택해주세요.
 
@@ -62,7 +74,11 @@ APK가 Google Play에서 배포되었는지를 먼저 확인하여, 그렇지 �
 
 **2.Play 프로텍트 화면 오른쪽 상단의 설정(톱니바퀴 모양) 버튼을 선택해주세요.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%85%8D%ED%8A%B82.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%85%8D%ED%8A%B82.png" alt="">
+
+</div>
 
 &#x20;
 

@@ -106,7 +106,11 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 앱에서는 리뷰화면과 상품문의 화면이 어떻게 표시되는지 확인해봐야겠죠?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_09\_13\_05\_33\_895.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_02_09_13_05_33_895.gif" alt="">
+
+</div>
 
 리뷰, 질의 메뉴는 쇼핑몰에 등록한 상품을 선택하면 상단메뉴에서 확인할 수 있습니다.&#x20;
 
@@ -132,7 +136,11 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 <mark style="color:blue;">**2)상품문의 (질의화면)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B84.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B84.png" alt="">
+
+</div>
 
 \[질의] 메뉴를 선택하면 상품에 대한 문의사항을 작성할 수 있습니다.
 
@@ -160,7 +168,11 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 <mark style="color:blue;">**비밀글 체크**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B86.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A7%88%EB%AC%B86.png" alt="">
+
+</div>
 
 상품문의시 비밀글 여부를 선택해서 비밀글쓰기를 할 수 있습니다.
 
@@ -177,7 +189,11 @@ description: 상품 게시품 관리 - 앱에 게시된 상품 문의에 답변�
 
 리뷰 작성 권한은 [**스윙샵- 상점관리- 정책설정**](http://www.swing2app.co.kr/view/store\_info\_policy\_setting)에서 설정할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%A6%AC%EB%B7%B07.png" alt="">
+
+</div>
 
 \-회원들만 작성하게 할 것인지, 비회원도 글을 작성할 수 있게 할 것인지 설정해주세요.
 

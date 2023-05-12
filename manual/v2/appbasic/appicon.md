@@ -8,7 +8,11 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **1. 앱 아이콘이란?**
 
-![](../../../.gitbook/assets/영문아이콘\_안드로이드버전1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt="">
+
+</div>
 
 **앱을 대표하는 이미지이며, 스마트폰 바탕화면에 표시되는 대표 아이콘 이미지를 말합니다.**
 
@@ -156,7 +160,11 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 <mark style="color:blue;">**1) 아이폰에서 보이는 앱 아이콘 스타일**</mark>
 
-![](../../../.gitbook/assets/iphone\_icon1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/iphone_icon1.png" alt="">
+
+</div>
 
 아이폰은 모든 아이폰 모델에서 아이콘 스타일이 동일하게 보여지는데요.
 
@@ -168,7 +176,11 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 <mark style="color:blue;">**2)**</mark> <mark style="color:blue;">**안드로이드폰에서 보이는 앱 아이콘 – 안드로이드 11 버전**</mark>
 
-![](../../../.gitbook/assets/영문아이콘\_안드로이드버전1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt="">
+
+</div>
 
 안드로이드폰(11버전)도 아이폰과 동일하게 특정 앱 아이콘 스타일로 보여집니다.
 

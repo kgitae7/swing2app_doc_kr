@@ -128,7 +128,11 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱 실행화면: 채팅방 화면
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2-1.png" alt="">
+
+</div>
 
 앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
 
@@ -154,7 +158,11 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 ### <mark style="color:orange;">**채팅목록**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5-1.png" alt="">
+
+</div>
 
 대화를 한 뒤 다시 해당 관리자와 채팅을 하고 싶을 경우 ‘채팅목록’으로 들어가시면 됩니다.
 
@@ -286,7 +294,11 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 채팅을 하게 되면 앱 관리자 – 앱 회원 모두 채팅 메시지 알림 푸시를 받을 수 있습니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/관리자채팅8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 

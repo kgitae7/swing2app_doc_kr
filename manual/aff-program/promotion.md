@@ -96,7 +96,11 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 <mark style="color:blue;">**홍보예시2. 앱에 제휴 배너 등록하기**</mark>
 
-![](../../.gitbook/assets/제휴홍보4\_19.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/제휴홍보4_19.png" alt="">
+
+</div>
 
 스윙투앱으로 제작한 앱에도 배너 이미지를 적용할 수 있죠\~!
 

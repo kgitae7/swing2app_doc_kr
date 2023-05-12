@@ -14,7 +14,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 앱 실행시 회원가입을 해야 한다는 창이 뜨며, 앱 사용자는 **회원가입을 해도 관리자가 승인을 한 다음에 앱을 이용할 수 있어요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C%EC%95%B14\_18.06.08.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C%EC%95%B14_18.06.08.png" alt="">
+
+</div>
 
 
 
@@ -24,7 +28,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 **회원가입을 하면 관리자 승인 없어도 바로 앱을 이용할 수 있어요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%833.18.09-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%833.18.09-1.png" alt="">
+
+</div>
 
 **2가지의 큰 차이점은 관리자가 승인을 하는지, 안하는지의 차이점이라고 보시면 될 것 같아요.**
 
@@ -42,13 +50,21 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 **\[회원가입시 관리자 승인을 받아야 앱 이용이 가능한] 비공개 앱을 만들어볼게요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png" alt="">
+
+</div>
 
 스윙 앱운영 페이에서 [**서비스관리 → 정책관리 → 앱 가입 정책** ](http://www.swing2app.co.kr/view/app\_setting)페이지로 이동합니다.
 
 
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e25b7064dd756ce836f9c7c7af5f09a6.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e25b7064dd756ce836f9c7c7af5f09a6.png" alt="">
+
+</div>
 
 &#x20;**앱 가입 정책 페이지에서 앱 공개 범위 : 공개, 비공개 여부를 선택할 수 있습니다.**
 
@@ -58,7 +74,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 ### <mark style="color:blue;">**2. 앱 실행화면: 비공개 앱**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C1.png" alt="">
+
+</div>
 
 비공개 앱을 실행하면, 앱에 바로 접속이 되지 않구요.
 
@@ -66,7 +86,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C2.png" alt="">
+
+</div>
 
 회원가입을 완료하면 알림 메시지가 뜹니다.
 
@@ -74,7 +98,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C3.png" alt="">
+
+</div>
 
 미인증된 상태에서 로그인을 시도할 경우 미인증 사용자 메시지가 뜹니다.
 
@@ -96,7 +124,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 미인증 회원을 → ‘인증’으로 처리하는 방법을 알려드릴게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C5.png" alt="">
+
+</div>
 
 <mark style="color:blue;">**앱운영 → 푸시&회원 → 회원조회**</mark>** 페이지로 이동합니다.**
 
@@ -108,13 +140,21 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C6.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C6.png" alt="">
+
+</div>
 
 **1) 미인증 상태의 회원을 선택 →상단의 \[상태변경하기]를 선택 → ‘인증’ 으로 상태를 변경합니다.**
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C7.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C7.png" alt="">
+
+</div>
 
 **2) ‘인증 상태로 변경하시겠습니까?’ 메시지창에서 ‘확인’을 눌러주세요.**
 
@@ -132,7 +172,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 [**\[앱운영-서비스관리-통합알림설정\]**](http://www.swing2app.co.kr/view/notification\_setting)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%80-25-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%80-25-1.png" alt="">
+
+</div>
 
 해당 페이지에서 설정해주시면, 회원가입시 관리자에게 앱 푸시와 메일이 발송됩니다.
 
@@ -142,11 +186,19 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 **1)푸시 알림**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C8.png" alt="">
+
+</div>
 
 **2) 메일알림**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B9%84%EA%B3%B5%EA%B0%9C4.png" alt="">
+
+</div>
 
 **관리자는 위의 알림을 받고 웹대시보드 회원조회로 이동하여 가입된 회원을 인증 처리할 수 있습니다.**
 
@@ -166,7 +218,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 **두 번째 비공개앱은 \[회원가입을 하면 관리자 승인 없이도 이용가능] 앱을 제작해볼게요.**&#x20;
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/ac20e6deb42cff01262ed04925fa8819.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/ac20e6deb42cff01262ed04925fa8819.png" alt="">
+
+</div>
 
 앱 가입 정책에서 앱 공개 범위를 \[비공개(회원가입시 이용가능]으로 설정한 다음&#x20;
 
@@ -176,7 +232,11 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 ### <mark style="color:blue;">**2. 앱 실행화면**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c45181da25e6bc7ebf15e0902301ac02.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c45181da25e6bc7ebf15e0902301ac02.png" alt="">
+
+</div>
 
 첫번째 비공개 앱과 마찬가지로 앱 실행시 앱에 바로 접속이 되지 않구요.
 

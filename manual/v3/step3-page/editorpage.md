@@ -36,7 +36,11 @@ HTML 에디터페이지는 사용자가 원하는 스타일대로 만들 수 있
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱 실행화면) HTML에디터 페이지 적용**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_07\_17\_17\_31\_06\_778.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_07_17_17_31_06_778.gif" alt="">
+
+</div>
 
 스윙투앱 공식앱에 적용된 HTML에디터 페이지에요.
 
@@ -118,11 +122,19 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 #### 앱 실행화면 참고)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8016\_20.07.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8016_20.07.png" alt="">
+
+</div>
 
 따라서 화면에 맞게 비율을 맞추고 싶다면 아래 방법으로 동영상 크기를 수정할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8017\_20.07.png)
 

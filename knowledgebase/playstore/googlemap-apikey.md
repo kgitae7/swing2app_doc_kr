@@ -34,7 +34,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### 1.시작하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B51886.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B51886.png" alt="">
+
+</div>
 
 홈페이지 화면의 **\[시작하기]** 버튼을 선택해주세요.
 
@@ -42,7 +46,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### 2.서비스약관
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B52.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B52.png" alt="">
+
+</div>
 
 서비스 약관 체크 후 \[동의 및 계속하기] 선택
 
@@ -50,7 +58,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### 3.계정정보 입력
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B53.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B53.png" alt="">
+
+</div>
 
 국가, 조직 선택, 서비스약관 체크 후 \[계속] 버튼 선택
 
@@ -66,7 +78,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### 5.핸드폰번호 인증
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B55.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B55.png" alt="">
+
+</div>
 
 핸드폰 번호 입력  \[코드 전송] → 코드 번호 입력 후 \[확인] 버튼 선택
 
@@ -76,7 +92,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### **6.결제정보 확인**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B56886.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B56886.png" alt="">
+
+</div>
 
 1\)결제 프로필 입력
 
@@ -106,7 +126,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### **7. Google Maps Plarform 사용 설정**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B58.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B58.png" alt="">
+
+</div>
 
 1\)가입하는 이유를 목록에서 선택해주세요.
 
@@ -124,7 +148,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### **8. API 키 발급완료!!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B59.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B59.png" alt="">
+
+</div>
 
 **복사 아이콘을 선택해서 API키를 복사해주시구요.**&#x20;
 
@@ -134,7 +162,11 @@ API키를 발급 받은 후 – 스윙 앱운영페이지 – 구글지도 게�
 
 ### 9.추가안내
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B510.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B510.png" alt="">
+
+</div>
 
 API키 발급이 완료되면, 무료평가판 신청 안내 팝업창이 뜹니다
 
@@ -154,7 +186,11 @@ API키 발급이 완료되면, 무료평가판 신청 안내 팝업창이 뜹니
 
 ### 10.안내사항
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B511.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B511.png" alt="">
+
+</div>
 
 API키 보호 라고 하여 키를 제한하라는 메시지가 뜹니다.
 
@@ -184,7 +220,11 @@ API키 보호 라고 하여 키를 제한하라는 메시지가 뜹니다.
 
 API키를 발급 받은 뒤, 스윙 [앱운영 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) 페이지로 이동해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B512.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B512.png" alt="">
+
+</div>
 
 1\)\[게시판 생성] 버튼선택 \*이미 구글맵 게시판을 만들어놓았다면, \[설정] 버튼을 선택해주세요.
 
@@ -196,7 +236,11 @@ API키를 발급 받은 뒤, 스윙 [앱운영 → 서비스관리 → 게시판
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B513.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B513.png" alt="">
+
+</div>
 
 5\)구글맵정보 메뉴로 이동합니다.
 

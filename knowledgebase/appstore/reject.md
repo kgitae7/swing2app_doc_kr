@@ -38,7 +38,11 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 테스트용으로 따로 가입한 뒤 제공 해주셔도 좋습니다.&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 이렇게 로그인 기능이 있는 앱은 반드시 앱스토어 심사시 테스트용 계정(아이디, 비밀번호)을 제출해야 합니다.
 
@@ -66,15 +70,27 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 <mark style="color:red;">**\*주의사항 : 애플에서 제공하는 표준 디자인 사용**</mark>** \*해당 디자인은 2022년 10월 규정된 정책입니다.**
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/67.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 애플 로그인 셋팅시에는 애플에서 제공하는 로그인 버튼의 표준 디자인을 확인하여 만들어주셔야 합니다.&#x20;
 
 다른 디자인을 사용하거나 표준 텍스트를 사용하지 않을 경우도 심사가 거절됩니다.&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/로그인.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고1</p></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241899/20220518.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고2</p></figcaption></figure>
+
+</div>
 
 
 
@@ -114,7 +130,11 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 \*탈퇴 기능 이미지 참고
 
+<div align="left">
+
 <figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241898/20220418.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 

@@ -396,9 +396,17 @@ APK파일을 등록할 경우
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.9 원스토어에 출시된 앱 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B418.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B417.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B418.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B417.png" alt="">
+
+</div>
 
 **원스토어 어플을 실행 한 뒤, 앱 검색창에 등록한 앱이름을 검색하면 어플이 조회됩니다.**
 

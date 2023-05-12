@@ -22,7 +22,11 @@ description: V3 앱제작 가이드 매뉴얼
 
 5\. 저장 : 작업이 완료될 때마다 \[저장] 버튼을 선택해서, 작업 내용을 저장해주세요.
 
-![](<../../.gitbook/assets/캡처33 (1) (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/캡처33 (1) (1).png" alt="">
+
+</div>
 
 ### &#x20;<mark style="color:blue;">**1.앱 아이콘 이미지 등록**</mark>
 

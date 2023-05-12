@@ -14,7 +14,11 @@ description: 쇼핑몰 메인페이지 이용방법 및 적용방법 매뉴얼
 
 UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해서 메인화면으로 이용할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png" alt="">
+
+</div>
 
 쇼핑몰 메인페이지가 적용된 앱 실행화면이에요.
 
@@ -90,9 +94,17 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 **앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B81.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B82.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B81.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B82.png" alt="">
+
+</div>
 
 스윙샵 신청 후 상점 정보 및 상품등록이 아무것도 되어 있지 않기 때문인데요!
 
@@ -100,7 +112,11 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 따라서 **아래 방법을 확인하셔서 메인 화면을 채워주세요.**
 
-![](../../.gitbook/assets/줄라인.PNG)
+<div align="left">
+
+<img src="../../.gitbook/assets/줄라인.PNG" alt="">
+
+</div>
 
 ### &#x20;<mark style="color:blue;">**1. 메인 이미지**</mark>
 
@@ -130,7 +146,11 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_19\_16\_31\_07\_548.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_19_16_31_07_548.gif" alt="">
+
+</div>
 
 상점 상세이미지 등록이 완료된 후, 앱을 실행하시면 앱 상단 메인 이미지가 슬라이딩 되어 보여집니다.
 
@@ -180,7 +200,11 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_20\_17\_53\_24\_275.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_20_17_53_24_275.gif" alt="">
+
+</div>
 
 섬네일 이미지 아래에 표시되는 조그만 상품 이미지를 누르면 해당 상품 페이지로 이동합니다.
 
@@ -222,7 +246,11 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94\_2020\_08\_20\_17\_54\_01\_331.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_20_17_54_01_331.gif" alt="">
+
+</div>
 
 상품 등록 등 모든 내용 입력이 완료된 후 다시 앱을 실행해보시면 메인 페이지 항목이 모두 채워진 것을 확인할 수 있습니다.
 

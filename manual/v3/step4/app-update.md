@@ -178,7 +178,11 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **\[재설치 진행]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_36\_49\_697.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_36_49_697.gif" alt="">
+
+</div>
 
 
 
@@ -194,7 +198,11 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **\[재설치 진행]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_44\_37\_946.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_44_37_946.gif" alt="">
+
+</div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 

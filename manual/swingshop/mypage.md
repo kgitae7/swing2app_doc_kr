@@ -12,7 +12,11 @@ description: 스윙샵에서 제공하는 페이지 중 ‘마이페이지’를
 
 <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**마이페이지 앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt="">
+
+</div>
 
 마이페이지 역시 스윙샵 기능 이용시 이용가능하오니, **스윙샵 서비스 신청 후 적용해주세요.**&#x20;
 
@@ -44,7 +48,11 @@ description: 스윙샵에서 제공하는 페이지 중 ‘마이페이지’를
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 마이페이지 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94\_2021\_02\_26\_18\_24\_50\_988.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_26_18_24_50_988.gif" alt="">
+
+</div>
 
 \[마이페이지]는 사용자 구매 정보부터 결제, 배송에 관련된 모든 내역을 확인할 수 있습니다.&#x20;
 

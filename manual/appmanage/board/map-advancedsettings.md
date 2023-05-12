@@ -52,7 +52,11 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 ## 2. 지도 게시판 – 고급설정에서 제공되는 기능 안내
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%959.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%959.png" alt="">
+
+</div>
 
 1\)줌 레벨 지정 : 지도 화면을 크게 확대시켜 보이거나, 작게 축소하는 등 숫자를 입력하여 지도 화면 크기를 설정할 수 있어요.
 
@@ -114,11 +118,19 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 ### <mark style="color:blue;">3)표시형식-지도 or 위성 선택</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%952-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%952-1.png" alt="">
+
+</div>
 
 (1)초기 표시형식을 ‘지도’로 선택한 화면입니다. 현재 위치를 기반으로 지도 화면으로 표시되며 기본 셋팅 화면입니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%951.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%951.png" alt="">
+
+</div>
 
 (2)초기 표시형식을 ‘위성’으로 선택한 화면입니다. 현재 위치를 기반으로 위성 사진으로 표시가 됩니다.
 

@@ -58,7 +58,11 @@
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_04\_18\_25\_45\_117.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_04_18_25_45_117.gif" alt="">
+
+</div>
 
 \-이미지 위에 영역을 선택하여, 해당 배너 영역마다 페이지를 연동했어요.
 
@@ -70,7 +74,11 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%802.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_10\_23\_12\_00\_46\_924.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_10_23_12_00_46_924.gif" alt="">
+
+</div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
@@ -154,7 +162,11 @@
 
 **▶ 움짤 이미지를 통해서 영역을 설정하는 방법을 확인해주세요**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif" alt="">
+
+</div>
 
 
 
@@ -330,7 +342,11 @@ TIP을 한가지 드리면요
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**툴팁 적용 예시)**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png" alt="">
+
+</div>
 
 
 
@@ -438,7 +454,11 @@ TIP을 한가지 드리면요
 
 ### <mark style="color:blue;">**3. 앱 실행화면) 이미지 페이지 툴팁**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png" alt="">
+
+</div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 

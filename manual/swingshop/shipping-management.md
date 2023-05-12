@@ -68,7 +68,11 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 &#x20;<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png" alt="">
+
+</div>
 
 위의 이미지에서 보시는 것과 같이 구매를 진행할 때 (결제 페이지 넘어가기 전 화면) 주문서 양식 페이지가 나타나구요.
 
@@ -98,7 +102,11 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png" alt="">
+
+</div>
 
 가격이 45,000원 상품을 결제할 때는 배송비가 없이 ‘0’으로 표시됩니다.
 
@@ -106,7 +114,11 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 포함**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png" alt="">
+
+</div>
 
 3만원 미만인 25,000원 금액의 상품을 결제할 때는 위에서 설정해놓은 배송비 2,500원이 포함되어서 총합계가 계산됩니다.
 

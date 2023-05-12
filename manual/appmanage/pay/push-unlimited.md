@@ -36,7 +36,11 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ​**STEP1. 푸시앱 제작방법**
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/V3푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 푸시앱은 10분 내로 제작이 완료되구요.
 
@@ -60,7 +64,11 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 해당 상품을 구매해야 플레이스토어, 앱스토어에 출시할 수 있어요!
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/푸시무제한상품구매.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **1) 구매 상품 안내**
 

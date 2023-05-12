@@ -14,7 +14,11 @@ description: '게시물관리 [게시글다운] 기능 이용방법: 게시글 �
 
 <mark style="color:blue;">**게시글 다운로드**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B4.png" alt="">
+
+</div>
 
 앱운영페이지 → 게시물관리→게시판 이동 → 작성된 게시물 목록에서 <mark style="color:blue;">\[게시글 다운]</mark> 버튼을 확인할 수 있습니다.
 

@@ -25,7 +25,11 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱 실행) 로그인 메뉴 이동
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png" alt="">
+
+</div>
 
 앱 실행 후 \[로그인] 메뉴로 들어가면 이메일, 비밀번호 입력 항목 아래에 \[비밀번호 찾기] 버튼이 있습니다.
 
@@ -33,7 +37,11 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <mark style="color:red;">\* 비밀번호 찾기는 아이디가 ‘이메일’ 로 설정되어 있어야 이용할 수 있습니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B81.png" alt="">
+
+</div>
 
 비밀번호를 찾기 위해서는 사용자의 이메일로 임시 비밀번호를 보내게 됩니다.
 

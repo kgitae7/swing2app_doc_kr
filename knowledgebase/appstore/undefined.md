@@ -78,7 +78,11 @@ Apple Developer 웹사이트 이동 후, 화면에 표시된 <mark style="color:
 
 ### **5. 결제 진행**
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%A0%ED%94%8C%EA%B0%B1%EC%8B%A05.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 결제 진행할 카드 정보를 입력하고 결제 완료해주세요.
 

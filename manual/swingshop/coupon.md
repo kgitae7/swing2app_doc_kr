@@ -34,7 +34,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 다른 스윙샵 상품 등록과는 다르게!! 쿠폰을 판매할 때는 쿠폰 관리 페이지에서 쿠폰을 등록해주셔야 합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A41\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A41_19.09.png" alt="">
+
+</div>
 
 스윙 [앱운영페이지 → 서비스관리 → 쿠폰관리](http://www.swing2app.co.kr/view/coupon\_admin) 메뉴로 이동합니다.
 
@@ -80,7 +84,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 {% embed url="https://documentation.swing2app.co.kr/manual/swingshop/apply" %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_19.09.png" alt="">
+
+</div>
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
@@ -180,7 +188,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif" alt="">
+
+</div>
 
 15\. 상품간단설명: 상품을 소개하는 간단한 한 줄 설명을 입력합니다.
 
@@ -268,7 +280,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 **\[앱 실행화면]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A412\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A412_19.09.png" alt="">
+
+</div>
 
 상품 카테고리는 해당 카테고리가 메뉴에 구성이 되는 스타일이구요.
 
@@ -296,7 +312,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 **\[앱 실행화면]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A411\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%BF%A0%ED%8F%B0%ED%8C%90%EB%A7%A411_19.09.png" alt="">
+
+</div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
@@ -306,7 +326,11 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 그리고 샘플앱을 통해서 쿠폰을 구매하고, 이용하는 방법도 확인할 수 있습니다. ^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2019\_10\_10\_14\_47\_39\_351.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_10_10_14_47_39_351.gif" alt="">
+
+</div>
 
 구매한 쿠폰은 쿠폰확인 메뉴를 통해서 확인할 수 있구요.
 

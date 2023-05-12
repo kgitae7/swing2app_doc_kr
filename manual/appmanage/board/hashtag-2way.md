@@ -110,7 +110,11 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <mark style="color:orange;">**\*앱 실행화면 – 해시태그 검색옵션 예시**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%8A%A4%EC%9C%99%EC%B1%84%EC%9A%A97-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%8A%A4%EC%9C%99%EC%B1%84%EC%9A%A97-1.png" alt="">
+
+</div>
 
 해시태그 검색옵션은 게시판에 해시태그 옵션값을 셋팅하여 원하는 조건으로  필터링해주는 기능을 말합니다.&#x20;
 
@@ -218,7 +222,11 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <mark style="color:orange;">**특히 연산자 기능을 사용하여, 하나의 옵션이 아닌 여러 옵션을 설정해서 사용할 수 있습니다. \_해시태그 연산자**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8NEW1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8NEW1.png" alt="">
+
+</div>
 
 해시태그 검색 2번째 방법은 아래 매뉴얼을 선택하시면, 상세 내용 및 이용방법을 확인할 수 있어요.
 

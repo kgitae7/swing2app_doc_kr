@@ -56,7 +56,11 @@
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면) 상품 카테고리 적용화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2_20.11.png" alt="">
+
+</div>
 
 앱에 ‘상품 카테고리’ 메뉴가 적용된 화면입니다.
 

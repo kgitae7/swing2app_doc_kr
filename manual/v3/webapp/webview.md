@@ -12,7 +12,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 웹사이트가 앱에 그대로 연동되기 때문에 웹과 동일한 앱을 제작할 수 있습니다.
 
-![](../../../.gitbook/assets/웹뷰앱홍보이미지1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/웹뷰앱홍보이미지1.png" alt="">
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +68,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 <mark style="color:blue;">**1.제작형태: 웹사이트를 기반한 웹앱 선택**</mark>
 
-![](../../../.gitbook/assets/웹뷰0.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/웹뷰0.png" alt="">
+
+</div>
 
 웹뷰앱은 2번째 제작방법인 ‘웹사이트를 기반한 웹앱’을 선택해주세요.
 
@@ -78,7 +86,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 다음 단계는 기본 정보 입력단계로 웹앱 제작에 필요한 기본적인 내용을 입력합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B0%EC%95%B11.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B0%EC%95%B11.png" alt="">
+
+</div>
 
 **1)웹사이트주소(URL)를 입력해주세요.**
 
@@ -102,7 +114,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 <mark style="color:blue;">**3.앱이름, 아이콘, 대기화면 이미지 등록**</mark>
 
-![](../../../.gitbook/assets/웹뷰앱2.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/웹뷰앱2.png" alt="">
+
+</div>
 
 마지막 단계에서는 **앱이름 입력, 앱 아이콘, 대기화면 이미지를 등록합니다.**
 
@@ -116,7 +132,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 <mark style="color:green;">**–> 아이콘, 대기화면 이미지 등록방법**</mark>
 
-![](../../../.gitbook/assets/웹뷰앱3.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/웹뷰앱3.png" alt="">
+
+</div>
 
 앱 아이콘, 대기화면은 \[등록] 버튼을 선택하면 파일 첨부 창이 열리구요.
 
@@ -140,7 +160,11 @@ description: 앱제작 V3버전 – 웹뷰앱 제작방법 및 스토어 출시�
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
 
-![](../../../.gitbook/assets/웹뷰1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/웹뷰1.png" alt="">
+
+</div>
 
 **STEP1 기본정보에 있는 내용은 앱 아이디를 제외하고 앱제작 마법사에서 이미 다 등록한 내용입니다.**
 
@@ -284,11 +308,19 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 출시가 안된 개인 용도의 앱이라면 기존 앱 삭제 후 업데이트 버전으로 앱을 다시 설치받아야 합니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:red;">**웹뷰앱 제작 안내사항**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B05.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B05.png" alt="">
+
+</div>
 
 웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
 
@@ -354,7 +386,11 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 <mark style="color:green;">**▶ 앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
-![](../../../.gitbook/assets/녹화\_2020\_09\_01\_17\_44\_17\_212.gif)
+<div align="left">
+
+<img src="../../../.gitbook/assets/녹화_2020_09_01_17_44_17_212.gif" alt="">
+
+</div>
 
 움짤 이미지를 통해서 앱미리보기에서 앱을 다운받는 과정을 확인해주세요.
 
@@ -388,7 +424,11 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ### <mark style="color:blue;">**1.단기 이용: 스윙투앱 기본 이용권 (1개월씩 이용권 매달 구매)**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/유료버전1-768x772.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**구매 상품 안내**&#x20;
 
@@ -448,7 +488,11 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 웹뷰 무제한 유료앱 상품은 일반 이용권과는 다른 이용 주의사항이 있습니다.
 
@@ -602,7 +646,11 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 신청이 완료되면, 스윙투앱의 플레이스토어 업로드 담당자 / 앱스토어 업로드 담당자가 사용자분의 앱을 스토어에 올려드리는 업로드 진행을 시작합니다.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/유료버전3.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:blue;">**\*플레이스토어, 앱스토어 심사 기간: 평균 7일**</mark>
 

@@ -30,7 +30,11 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%807.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%807.png" alt="">
+
+</div>
 
 게시판을 다 만들었다면 서비스관리 → 게시물관리에서 파일을 등록할 게시판을 선택해서 이동해주세요.&#x20;
 
@@ -78,13 +82,25 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 ### <mark style="color:orange;">**1. 파일첨부 게시판 앱 실행화면**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%805.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94\_2021\_03\_05\_16\_48\_15\_838.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%805.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94_2021_03_05_16_48_15_838.gif" alt="">
+
+</div>
 
 ### <mark style="color:orange;">**2. 게시판 기능 파일첨부 특징 \_ 글 본문 하단에 위치**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%808.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%808.png" alt="">
+
+</div>
 
 해당 방법으로 등록한 파일은 첨부파일 형식으로 등록이 되기 때문에 본문 가장 아래에 파일이 배치됩니다.
 
@@ -120,13 +136,25 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 ### <mark style="color:orange;">**1. 파일첨부 게시판 앱 실행화면**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%8010.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94\_2021\_03\_11\_13\_24\_38\_878.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%8010.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94_2021_03_11_13_24_38_878.gif" alt="">
+
+</div>
 
 ### <mark style="color:orange;">**2. 게시판 에디터 파일첨부 특징 \_ 글 본문 자유롭게 배치**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%8011.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EA%B2%8C%EC%8B%9C%EB%AC%BC%ED%8C%8C%EC%9D%BC%EC%B2%A8%EB%B6%8011.png" alt="">
+
+</div>
 
 **해당 방법으로 파일 첨부시, 게시물 본문에 파일이 첨부되기 때문에 자유롭게 글 작성이 가능합니다.**
 

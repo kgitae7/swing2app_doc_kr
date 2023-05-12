@@ -64,7 +64,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 ### **1. 장바구니**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" alt="">
+
+</div>
 
 장바구니는 설명하지 않아도 다들 아시죠? ^^
 
@@ -76,7 +80,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 ### **2. 카테고리 리스트**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt="">
+
+</div>
 
 **카테고리 리스트는 개별 상품이 아닌 카테고리를 리스트로 보여주는 페이지입니다.**
 
@@ -114,7 +122,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 ### **4. 마이페이지**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt="">
+
+</div>
 
 \[마이페이지]는 사용자 구매 정보부터 결제, 배송에 관련된 모든 내역을 확인할 수 있는 페이지에요.
 
@@ -126,7 +138,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 ### **5. 쇼핑몰 메인**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt="">
+
+</div>
 
 쇼핑몰메인 페이지는 홈화면에 적용하기 적합한 메인홈화면 페이지에요.
 
@@ -142,7 +158,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 ### **6. 쇼핑몰 정보**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+
+</div>
 
 상점 정보 페이지이구요.
 
@@ -152,7 +172,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 ### **7. 상품 검색**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt="">
+
+</div>
 
 앱에 등록한 상품을 검색하여 찾을 수 있는 상품 검색 페이지입니다.
 

@@ -42,7 +42,11 @@ description: 스윙페이지- 회원가입, 로그인, 설정 앱에 적용하�
 
 #### **▶앱 실행화면) 회원가입**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 회원가입 기능이 적용된 앱 실행화면입니다.
 
@@ -86,7 +90,11 @@ description: 스윙페이지- 회원가입, 로그인, 설정 앱에 적용하�
 
 **▶ 앱 실행화면) 로그인**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 로그인 기능이 적용된 앱 실행화면입니다.
 
@@ -98,7 +106,11 @@ description: 스윙페이지- 회원가입, 로그인, 설정 앱에 적용하�
 
 **로그인이 완료되면 로그인 메뉴는 ‘로그아웃’으로 변경됩니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png" alt="">
+
+</div>
 
 회원가입 후 로그인을 완료하면, 메뉴명에 기재된 로그인은 →**로그아웃**으로 자동 변경됩니다.
 
@@ -132,9 +144,17 @@ description: 스윙페이지- 회원가입, 로그인, 설정 앱에 적용하�
 
 **▶ 앱 실행화면) 설정**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png" alt="">
+
+</div>
 
 설정 기능이 적용된 앱 실행화면입니다.
 

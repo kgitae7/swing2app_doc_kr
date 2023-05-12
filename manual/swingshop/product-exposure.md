@@ -98,7 +98,11 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 **쇼핑몰 앱을 실행해서, 위에서 등록한 상품노출관리 페이지가 앱에서는 어떻게 보여지는지 확인해볼게요\~!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%A9%94%EC%9D%B8%EC%BB%AC%EB%A0%89%EC%85%98.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%A9%94%EC%9D%B8%EC%BB%AC%EB%A0%89%EC%85%98.png" alt="">
+
+</div>
 
 홈화면에 **\[쇼핑몰 메인]** 페이지를 적용했구요.
 
@@ -116,4 +120,8 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 <mark style="color:blue;">**\[움짤 이미지로 상품노출관리 메뉴가 적용된 앱 실행화면 확인하기]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_15\_15\_12\_42\_710.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_02_15_15_12_42_710.gif" alt="">
+
+</div>

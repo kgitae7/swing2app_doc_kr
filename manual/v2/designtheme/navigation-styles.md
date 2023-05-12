@@ -66,7 +66,11 @@
 
 내비게이션 배경이미지를 넣을때에는 패턴 형식으로 된 이미지를 넣는 것이 좋습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d58833f4499dc4ec9a4202c52ca2f742.jpg)
+<div align="center">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d58833f4499dc4ec9a4202c52ca2f742.jpg" alt="">
+
+</div>
 
 (배경이미지 예시)
 

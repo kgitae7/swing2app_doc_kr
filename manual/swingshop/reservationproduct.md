@@ -122,7 +122,11 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**앱 실행화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88-%EC%98%88%EC%95%BD%EC%8B%9C%EA%B0%84\_1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88-%EC%98%88%EC%95%BD%EC%8B%9C%EA%B0%84_1.png" alt="">
+
+</div>
 
 예약 상품 구매시 날짜를 선택 한 뒤- 예약 시간을 함께 선택할 수 있습니다.
 
@@ -288,7 +292,11 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D17\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D17_20.04.png" alt="">
+
+</div>
 
 날짜 및 기간 선택하면 예약가능한 상품이 표시되구요.
 
@@ -296,7 +304,11 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D18\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D18_20.04.png" alt="">
+
+</div>
 
 \[구매진행하기] 버튼을 눌러주세요.
 
@@ -304,7 +316,11 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D19\_20.04.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D19_20.04.png" alt="">
+
+</div>
 
 주문상세 페이지에서 전화번호 인증번호 확인해주시구요.
 
