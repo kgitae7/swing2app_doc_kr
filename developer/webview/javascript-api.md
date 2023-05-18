@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2023_01_16_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2023_05_18_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -224,6 +224,25 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('app');
 
 ```javascript
 swingWebViewPlugin.app.methods.goToNotificationSetting('system');
+```
+
+
+
+## 어플리케이션 Event
+
+앱의 Native Event 를 관리할 수 있는 명령어 입니다.
+
+* ### 앱 종료 이벤트 추가하기
+
+앱의 back 버튼의 종료 이벤트를 추가할 경우 back버튼을 인한 앱에서는 종료 기능이 동작하지 않습니다.
+
+따라서 backExitEvent 추가할 경우 종료에 대한 처리를 callback 함수내에서 직접 구현해야 합니다.
+
+```javascript
+swingWebViewPlugin.event.addEvent('backExitEvent' , function() {
+    alert('exit');
+    // 앱 종료 Logic 직접 구현
+})
 ```
 
 ##
