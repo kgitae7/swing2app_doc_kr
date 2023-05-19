@@ -240,7 +240,6 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 
 ```javascript
 swingWebViewPlugin.event.addEvent('backExitEvent' , function() {
-    alert('exit');
     // 앱 종료 Logic 직접 구현
 })
 ```

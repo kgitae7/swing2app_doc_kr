@@ -1,8 +1,10 @@
+---
+description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정 및 앱 실행화면
+---
+
 # 회원가입 양식 - 아이디 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%EC%84%A4%EC%A0%95-%EC%A0%9C%EB%AA%A9.png)
-
-**회원가입 – 아이디 설정하기**&#x20;
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 앱 가입에 필요한 회원가입 양식 역시 운영자분이 대시보드에서 직접 설정하여 수정할 수 있는데요.
 
@@ -12,13 +14,15 @@
 
 회원가입 양식에서 아이디 형태를 설정하는 방법과, 앱 실행화면을 통해 아이디 입력 화면이 어떻게 변경되는지 매뉴얼로 확인해주세요.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-> **회원가입 양식 페이지 이동하기**
+**회원가입 양식 페이지 이동하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C1.png)
 
 <mark style="color:blue;">**앱운영 → 서비스관리 → 정책관리 → 회원가입 양식**</mark> 페이지로 이동해주세요.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C2.png)
 
@@ -28,11 +32,15 @@
 
 어떤 아이디로 회원가입을 받을지 운영자가 선택한 뒤 저장 해주시면 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**1. 일반 아이디 설정**</mark>
+### <mark style="color:blue;">**1. 일반 아이디 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C12.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C12.png" alt="">
+
+</div>
 
 앱 아이디의 기본 셋팅은 일반 아이디로 모두 제공이 되요.
 
@@ -42,23 +50,29 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면) 회원가입, 로그인**</mark>
+<mark style="color:orange;">**앱 실행화면) 회원가입, 로그인**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C3.png" alt="">
+
+</div>
 
 회원가입 화면에서 보듯이 일반 아이디 작성 항목을 확인할 수 있구요.
 
 로그인 화면에서도 가입된 일반 아이디로 로그인해주시면 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**2. 전화번호 아이디 설정**</mark>
+### <mark style="color:blue;">**2. 전화번호 아이디 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C10.png)
 
 다음은 전화번호 아이디를 설정해볼게요.
 
 전화번호 아이디는 본인 확인을 위한 절차로 인증번호를 문자로 받은 뒤 인증한 뒤 가입이 됩니다.
+
+
 
 <mark style="color:red;">**\*주의\***</mark>
 
@@ -68,25 +82,41 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D6.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D6.png" alt="">
+
+</div>
 
 [ **\[SMS 발송 티켓 구매하러 가기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)
 
 
 
-<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**전화번호 아이디 – 회원가입, 로그인 미리보기**</mark>
+<mark style="color:orange;">**전화번호 아이디 – 회원가입, 로그인 미리보기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94\_2020\_04\_09\_14\_07\_40\_398.gif)
+<div align="left">
 
-<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**앱 실행화면) 회원가입**</mark>
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_14_07_40_398.gif" alt="">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C7.png)
+</div>
+
+<mark style="color:orange;">**1)회원가입 화면**</mark>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C7.png" alt="">
+
+</div>
 
 가입할 전화번호 입력 후 \[인증번호 발송]을 눌러주시구요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C8.png" alt="">
+
+</div>
 
 입력한 전화번호로 인증번호 문자가 발송됩니다.
 
@@ -94,9 +124,13 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면)로그인**</mark>
+<mark style="color:orange;">**2)로그인 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C11.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C11.png" alt="">
+
+</div>
 
 로그인을 할 때에도 전화번호를 입력하여 인증번호를 받은 뒤 로그인을 할 수 있습니다.
 
@@ -106,9 +140,9 @@
 
 이때! 구매하신 SMS 발송 티켓 역시 인증번호 문자 메시지가 발송될 때마다 차감이 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**3. 이메일 아이디 설정**</mark>
+### <mark style="color:blue;">**3. 이메일 아이디 설정**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C9.png)
 
@@ -126,13 +160,17 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**이메일 아이디 – 회원가입, 로그인 미리보기**</mark>
+<mark style="color:orange;">**이메일 아이디 – 회원가입, 로그인 미리보기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94\_2020\_04\_09\_13\_45\_37\_401.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_13_45_37_401.gif" alt="">
+
+</div>
 
 
 
-<mark style="background-color:blue;">▶</mark> <mark style="color:orange;">**앱 실행화면) 회원가입 (인증메일 발송)**</mark>
+<mark style="color:orange;">**1)회원가입 (인증메일 발송) 화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C4.png)
 
@@ -150,13 +188,17 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면) 로그인**</mark>
+<mark style="color:orange;">**2)로그인 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C6.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C6.png" alt="">
+
+</div>
 
 인증이 완료되면 다시 로그인 화면에서 가입된 이메일주소 입력하여 로그인해주시면 됩니다.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 이상으로 앱 회원가입 양식에서 다양한 아이디를 설정하여 앱을 운영하는 방법을 보여드렸어요.
 
@@ -166,9 +208,8 @@
 
 단! 아이디 사용시 주의하셔야 할 사항이 있어요.
 
-
-
-<mark style="color:red;">**★중요 안내**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">**중요 안내**</mark>
 
 아이디 형태는 앱 운영중에 변경하지 않도록 해주세요.(스토어 배포 혹은 사용자들이 사용중인 앱)
 
@@ -181,3 +222,5 @@
 따라서 운영 중에는 아이디를 변경하지 말구요.
 
 앱제작을 하시면서 테스트 해보면서 이용해보시길 권장드립니다.
+{% endhint %}
+
