@@ -90,12 +90,12 @@ swingWebViewPlugin.app.methods.getAppVersion(function(value){
     var appVersion = JSON.parse(value);
 
     console.log('model : ' + appVersion.model);
-    console.log('sdk_version : ' + appVersion.version);
+    console.log('sdk_version : ' + appVersion.sdk_version);
     console.log('version_release : ' + appVersion.version_release);
     console.log('manufacturer : ' + appVersion.manufacturer);
-    console.log('app_version : ' + appVersion.appVersion);
+    console.log('app_version : ' + appVersion.app_version);
     console.log('radio_version : ' + appVersion.radio_version);
-    console.log('package_name : ' + appVersion.packageName);
+    console.log('package_name : ' + appVersion.package_name);
 });
 
 // ios
