@@ -87,23 +87,27 @@ else
 ```javascript
 // android
 swingWebViewPlugin.app.methods.getAppVersion(function(value){
-    console.log('model : ' + value.model);
-    console.log('sdk_version : ' + value.version);
-    console.log('version_release : ' + value.version_release);
-    console.log('manufacturer : ' + value.manufacturer);
-    console.log('app_version : ' + value.appVersion);
-    console.log('radio_version : ' + value.radio_version);
-    console.log('package_name : ' + value.packageName);
+    var appVersion = JSON.parse(value);
+
+    console.log('model : ' + appVersion.model);
+    console.log('sdk_version : ' + appVersion.version);
+    console.log('version_release : ' + appVersion.version_release);
+    console.log('manufacturer : ' + appVersion.manufacturer);
+    console.log('app_version : ' + appVersion.appVersion);
+    console.log('radio_version : ' + appVersion.radio_version);
+    console.log('package_name : ' + appVersion.packageName);
 });
 
 // ios
 swingWebViewPlugin.app.methods.getAppVersion(function(value){
-    console.log('model : ' + value.model);
-    console.log('name : ' + value.name);
-    console.log('systemVersion : ' + value.systemVersion);
-    console.log('appVersion : ' + value.appVersion);
-    console.log('bundleVersion : ' + value.bundleVersion);
-    console.log('bundleID : ' + value.bundleID);
+    var appVersion = JSON.parse(value);
+    
+    console.log('model : ' + appVersion.model);
+    console.log('name : ' + appVersion.name);
+    console.log('systemVersion : ' + appVersion.systemVersion);
+    console.log('appVersion : ' + appVersion.appVersion);
+    console.log('bundleVersion : ' + appVersion.bundleVersion);
+    console.log('bundleID : ' + appVersion.bundleID);
 });
 ```
 {% endcode %}
