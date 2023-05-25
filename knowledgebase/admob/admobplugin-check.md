@@ -74,9 +74,9 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 애드몹 대시보드의 차단 관리에서 미검토 광고가 없는지 확인해주셔야 합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EC%8B%AC%EC%82%ACnew1-1.png)
+<figure><img src="../../.gitbook/assets/애드몹광고심사new1-1.png" alt=""><figcaption></figcaption></figure>
 
-애드몹 대시보드 왼쪽 카테고리에서 차단관리 → \[광고 심사 센터로 이동하기] 선택합니다.
+애드몹 대시보드 왼쪽 카테고리에서 \[차단관리] 선택 → \[광고 심사 센터로 이동하기] 선택합니다.
 
 
 
