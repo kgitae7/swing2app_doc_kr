@@ -36,7 +36,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 
 
-### 1)푸시 발송 수 체크
+### <mark style="color:blue;">1)푸시 발송 수 체크</mark>
 
 <div align="left">
 
@@ -52,7 +52,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 
 
-### **2)푸시 발송 장치수**
+### <mark style="color:blue;">**2)푸시 발송 장치수**</mark>
 
 <figure><img src="../../../.gitbook/assets/푸시히스토리3.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 
 
-### 3)안내사항
+### <mark style="color:blue;">3)안내사항</mark>
 
 **푸시 히스토리 내역을 보시면 발송 회원 수와 발송 장치수의 숫자가 많이 다름을 볼 수 있어요.**
 
@@ -188,7 +188,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 
 
-<mark style="color:orange;">**1) V3버전 제작 푸시앱 (안드로이드폰 앱 실행화면)**</mark>&#x20;
+<mark style="color:orange;">**(1) V3버전 제작 푸시앱 (안드로이드폰 앱 실행화면)**</mark>&#x20;
 
 <div align="left">
 
@@ -202,7 +202,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 
 
-<mark style="color:orange;">**2) V2버전 제작 푸시앱 (안드로이드폰 앱 실행화면)**</mark>&#x20;
+<mark style="color:orange;">**(2) V2버전 제작 푸시앱 (안드로이드폰 앱 실행화면)**</mark>&#x20;
 
 <div align="left">
 
