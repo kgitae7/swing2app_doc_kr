@@ -304,7 +304,7 @@
   * [플레이스토어 사전고지 문서 제출하기](knowledgebase/playstore/playstore-priornotice.md)
   * [플레이스토어 개인정보 링크 연결하기](knowledgebase/playstore/playstore-policyurl.md)
   * [플레이스토어 앱 게시취소](knowledgebase/playstore/playstoe-unpublish.md)
-  * [플레이스토어 개발자 이름 변경방법](knowledgebase/playstore/playstore-changename.md)
+  * [구글 플레이스토어 개발자 이름 변경](knowledgebase/playstore/playstore-changename.md)
   * [플레이스토어 다른 개발자계정으로 앱이전하기](knowledgebase/playstore/apptransfer.md)
   * [플레이스토어 앱 검색 TIP](knowledgebase/playstore/playstore-searchtip.md)
   * [플레이스토어 앱 설치수 확인하기](knowledgebase/playstore/playstore-installcount.md)
