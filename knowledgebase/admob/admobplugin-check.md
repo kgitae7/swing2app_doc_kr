@@ -2,7 +2,7 @@
 description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 뜬다면 확인해주세요!
 ---
 
-# 애드몹 플러그인 광고 셋팅 주의사항
+# 애드몹 광고 셋팅 주의사항
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -13,6 +13,8 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 매뉴얼에서 안내드리는 순서는 상관이 없습니다. 모든 내용들을 체크해주시기 바랍니다.
 
 ***
+
+<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)1. 애드몹 플러그인에 광고 아이디, 앱 아이디가 정확히 들어갔는지 체크해주세요.
 
@@ -100,7 +102,67 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)5. 부정클릭, 무효크래픽 정책 위반이 발생되지 않았는지 확인해주세요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)5. 앱설정 - 승인 상태 및 스토어 세부정보 확인
+
+<figure><img src="../../.gitbook/assets/애드몹확인1.png" alt=""><figcaption></figcaption></figure>
+
+앱 승인상태를 확인해주세요.
+
+앱 선택 후→ 앱 설정으로 이동해주세요.
+
+승인 상태에 현재 광고 승인 여부를 확인할 수 있습니다.&#x20;
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/애드몹6 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<mark style="color:blue;">-준비됨 상태가 되어야 앱에서 광고가 실제로 송출이 됩니다.</mark>&#x20;
+
+<mark style="color:blue;">-준비 중: 준비 중 상태라면 조금만 기다려 주시면 곧 광고가 송출 됩니다.</mark>
+
+<mark style="color:blue;">-주의 필요 : 어떤 문제가 있는지 확인 후 해결해주셔야 합니다.</mark>&#x20;
+
+<mark style="color:blue;">-검토 필요: 아직 앱 자체가 검토되지 않은 상태입니다. 앱 스토어에 연결하여 앱 검토를 요청해야 합니다.</mark>
+
+첨부된 이미지에 보시면 "앱 스토어 세부정보" 란에 출시 링크를 연결해야 하는데 링크 연결이 안 되었을 경우 이렇게 빈 공란으로 표시되며, 검토 필요 상태가 되는 것입니다.&#x20;
+
+
+
+검토 필요로 기재되어 있다면, 앱 스토어 세부 정보에서 \[추가] 버튼을 선택해주세요.&#x20;
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/애드몹확인2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+앱 스토어 추가 화면에서 출시된 플레이스토어 출시 링크를 넣고 등록해주세요.
+
+링크 입력 후 다시 앱 정보 화면으로 이동해주세요.
+
+스토어 세부정보에 플레이스토어 출시 링크가 잘 연결된 것을 확인할 수 있구요,
+
+승인 상태는 처음에는 "준비중"으로 표시되다가, 시간이 지나면 "준비됨"으로 변경됩니다.
+
+이때부터 실제 앱에서 광고가 송출됩니다.
+
+{% hint style="info" %}
+출시 링크는 처음 앱 연결시 링크를 연결했다면, 문제가 되지 않아요.
+
+그런데처음에 링크를 연결하지 않았을 경우 보시는 것처럼 승인 상태에서 앱이 검토되지 않아 광고가 송출되지 않는 케이스입니다.
+
+처음 앱 연결시 링크 연결을 깜빡했다면, 앱 설정으로 가서 다시 연결해주시기 바랍니다.
+{% endhint %}
+
+
+
+<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)6. 부정클릭, 무효크래픽 정책 위반이 발생되지 않았는지 확인해주세요.
 
 부정클릭 무효크래픽은 모두 애드몹 광고를 인위적으로 많이 클릭하여 정책상 위반이 발생한 경우입니다.
 
@@ -122,7 +184,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)6. 애드몹 테스트 광고 확인하기
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**7**. 애드몹 테스트 광고 확인하기
 
 <mark style="color:red;">\*해당 방법은 스윙투앱에서 제작한 앱 자체에 문제가 있거나 스윙투앱에서 제공하는 애드몹 서버에 문제는 없는지 사용자분께서 직접 확인하는 방법이에요.</mark>
 
@@ -158,7 +220,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)7. 안내사항
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**8**. 안내사항
 
 <mark style="color:blue;">-애드몹은 앱내에 탑재된 광고를 사용자들이 클릭해야 수익이 발생이 됩니다.​ 단순히 광고만 거는 것으로 수익이 발생되는 것이 아니니 충분히 고려해주세요.​</mark>
 

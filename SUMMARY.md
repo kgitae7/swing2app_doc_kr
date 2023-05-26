@@ -346,7 +346,7 @@
   * [애드몹 - app-ads.txt 파일 설정하기](knowledgebase/admob/app-adstxt.md)
   * [애드몹-스윙투앱 계정 초대하기](knowledgebase/admob/admob-invite.md)
   * [애드몹 운영 주의사항](knowledgebase/admob/admob-operation.md)
-  * [애드몹 플러그인 광고 셋팅 주의사항](knowledgebase/admob/admobplugin-check.md)
+  * [애드몹 광고 셋팅 주의사항](knowledgebase/admob/admobplugin-check.md)
 * [인앱(In-App)](knowledgebase/in-app/README.md)
   * [\[인앱\] 구글 개발자-결제 프로필 설정 방법](knowledgebase/in-app/google-payments.md)
   * [\[인앱\] 애플 계좌 등록 및 수정방법](knowledgebase/in-app/appstore-inapp-payment.md)
