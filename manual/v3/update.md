@@ -51,11 +51,9 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 일반 프로토타입 앱 인지 웹뷰/푸시 앱인지에 따라 업데이트 표시창이 다르게 뜹니다.&#x20;
 
+**1)일반 프로토타입 앱 업데이트시**
 
-
-1\)일반 프로토타입 앱 업데이트시
-
-<img src="../../.gitbook/assets/캡처 (2).PNG" alt="" data-size="original">
+<img src="../../.gitbook/assets/캡처 (3).PNG" alt="" data-size="original">
 
 \*업데이트시 업데이트 유형: '하드업데이트(앱 재설치)' 선택해주세요.&#x20;
 
@@ -63,7 +61,7 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 
 
-2\)웹뷰 혹은 푸시 앱 업데이트시
+**2)웹뷰 혹은 푸시 앱 업데이트시**
 
 <img src="../../.gitbook/assets/캡처2.PNG" alt="" data-size="original">
 
