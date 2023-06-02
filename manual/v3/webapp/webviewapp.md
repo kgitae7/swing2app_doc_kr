@@ -32,7 +32,11 @@ description: 웹사이트를 연결한 웹앱 - 웹뷰전용앱을 소개합니�
 
 ## 웹뷰앱 가격정책
 
-<figure><img src="../../../.gitbook/assets/웹뷰앱가격.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/웹뷰앱가격 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
