@@ -61,6 +61,14 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
 
 login\_example.html 실행 예제 코드를 아래에 첨부되었습니다.
 
+login\_example.html 실행 파라미터중 customUrl 항목이 있는데 해당 항목은 고급설정에서 설정하실 수 있습니다. 설정된 값을 사용하셔도 됩니다.
+
+\*custom url scheme 값은 앱 마다 고유값으로 설정하는 것을 권장드립니다.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure>
+
+
+
 {% code title="실행코드" %}
 ```javascript
 swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_login_temp/sns_login_temp_ext.html?customUrl=swing2app');

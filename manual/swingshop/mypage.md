@@ -10,7 +10,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘마이페이지’를
 
 ***
 
-<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"><mark style="color:blue;">**마이페이지 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"><mark style="color:blue;">**마이페이지 앱 실행화면**</mark>
 
 <div align="left">
 

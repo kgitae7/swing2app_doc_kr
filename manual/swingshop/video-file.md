@@ -120,7 +120,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 **​**
 
-<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인인해주세요!**
+<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인인해주세요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif)
 
