@@ -2,21 +2,17 @@
 description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매뉴얼
 ---
 
-# 게시물 파일 첨부방법(일반 파일)
+# 게시판 - 파일 첨부하기 (관리자용)
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-<mark style="color:orange;">**파일첨부 주의사항**</mark>
+{% hint style="info" %}
+<mark style="color:blue;">**파일첨부 안내사항**</mark>
 
-파일첨부는 스윙투앱 웹 대시보드- 게시물관리에서만 이용이 가능합니다.
-
-앱에서는 파일 첨부 기능을 이용할 수 없기 때문에 파일을 등록해야 한다면 웹에서 이용 부탁드립니다.
-
-앱에서는 게시물 등록시 – 컨텐츠(글), 이미지만 등록이 가능합니다.
+파일 첨부 이용시, 앱에서도 사용자들이 게시물 등록시 파일을 등록할 수 있습니다.
 {% endhint %}
 
-
+## 게시판 만들기
 
 파일을 등록하려면 먼저 게시판이 있어야 하겠죠?
 
@@ -27,6 +23,18 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 [앱운영페이지 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) →\[게시판 생성] 버튼 선택하여 게시판 만들어주세요.
 
 [**게시판 만들기 상세 매뉴얼**](boardeditor.md)을 참고해주세요.
+
+
+
+<mark style="color:red;">**\*중요**</mark>
+
+게시판 만들 때 기본설정 - 허용범위 설정에서 반드시 "파일첨부"에 체크해주세요.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/20232318.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
