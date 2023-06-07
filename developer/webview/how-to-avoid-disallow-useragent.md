@@ -28,7 +28,7 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
     * 외부 브라우저는 웹뷰와는 별개의 애플리케이션으로 간주되므로, 보안 정책에 영향을 받지 않습니다.
     * 로그인이 완료되면, 외부 브라우저는 로그인 결과를 콜백 URL을 통해 전달하고, 애플리케이션이 이를 캡처하여 처리할 수 있습니다.
 
-    &#x20;    \* 아래의 [가이드](undefined.md#how-to-avoid-disallow)를 참고하여 개발해주세요.
+    &#x20;    \* 아래의 [가이드](how-to-avoid-disallow-useragent.md#how-to-avoid-disallow)를 참고하여 개발해주세요.
 
     b. Fake(가짜) UserAgent 사용하기
 
