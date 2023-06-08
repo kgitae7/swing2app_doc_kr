@@ -130,6 +130,7 @@
   * [게시판관리](manual/appmanage/board/README.md)
     * [게시판 만들기](manual/appmanage/board/boardeditor.md)
     * [게시판 종류, 디자인스타일](manual/appmanage/board/design.md)
+    * [게시판 날짜 형식 설정 방법](manual/appmanage/board/date.md)
     * [게시판 - 게시물 입력방법](manual/appmanage/board/post-write.md)
     * [게시판 - 게시물 예약 설정](manual/appmanage/board/post-reservationsetting.md)
     * [게시판 고급설정 - 게시물 상세 옵션 설정](manual/appmanage/board/post-options.md)
