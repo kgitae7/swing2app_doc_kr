@@ -370,7 +370,7 @@
   * [웹뷰에서 구글 페이스북 로그인 구현하기](developer/webview/how-to-avoid-disallow-useragent.md)
   * [웹사이트 회원 연동 가이드](developer/webview/user-integration.md)
   * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
-  * [Javascript 연동 API 문서](developer/webview/javascript-api.md)
+  * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
 
 ***
 

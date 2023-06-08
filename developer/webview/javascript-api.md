@@ -2,7 +2,7 @@
 description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascript API
 ---
 
-# Javascript 연동 API 문서
+# Javascript 웹뷰 API 문서
 
 스윙투앱에서 제공하는 웹뷰와 푸시전용 프로토타입의 앱을 제어할 수 있는 javascript API 입니다.
 
@@ -228,6 +228,20 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('app');
 
 ```javascript
 swingWebViewPlugin.app.methods.goToNotificationSetting('system');
+```
+
+
+
+* ### 클립보드에 텍스트 저장하기
+
+클립보드에 텍스트를 저장할 수 있는 기능
+
+웹뷰에서는 보안상의 이슈로 window.navigator.clipboard.writeText API 가 정상동작하지 않기 때문에
+
+스윙투앱 웹뷰에서는 아래의 API 를 이용하여 clipboard 에 저장하면 됩니다.
+
+```javascript
+swingWebViewPlugin.app.methods.copyToClipboard("copyToClipboard 텍스트 테스트");
 ```
 
 
