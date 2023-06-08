@@ -71,7 +71,7 @@ login\_example.html 실행 파라미터중 customUrl 항목이 있는데 해당 
 
 {% code title="실행코드" %}
 ```javascript
-swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_login_temp/sns_login_temp_ext.html?customUrl=swing2app');
+swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_login_temp/sns_login_temp_ext.html?customUrl=myapp1706');
 ```
 {% endcode %}
 
