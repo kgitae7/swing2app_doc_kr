@@ -24,7 +24,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 ## 웹뷰 제어관련 Method
 
-* ### 웹뷰 뒤로가기&#x20;
+### • 웹뷰 뒤로가기  <a href="#back-webview" id="back-webview"></a>
 
 웹뷰에서 이전 페이지로 이동 웹브라우저에서 뒤로가기 기능과 동일한 동작
 
@@ -34,7 +34,7 @@ swingWebViewPlugin.app.webview.back();
 ```
 {% endcode %}
 
-* ### 웹뷰 앞으로 가기
+### • 웹뷰 앞으로 가기 <a href="#forward-webview" id="forward-webview"></a>
 
 웹뷰에서 앞의 페이지로 이동 웹브라우저에서 앞으로가기 기능과 동일한 동작
 
@@ -44,7 +44,7 @@ swingWebViewPlugin.app.webview.forward();
 ```
 {% endcode %}
 
-* ### 웹뷰 홈으로 이동
+### • 웹뷰 홈으로 이동 <a href="#go-to-home" id="go-to-home"></a>
 
 웹뷰에서 스윙투앱에 셋팅된 홈 페이지(설정된 초기 페이지)로 이동하는 기능
 
@@ -58,7 +58,7 @@ swingWebViewPlugin.app.navigateToHome()
 
 ## 어플리케이션 관련 Method
 
-* ### 플랫폼 정보 가져오기
+### • 플랫폼 정보 가져오기 <a href="#get-platform-info" id="get-platform-info"></a>
 
 웹상에서 플랫폼 정보를 가져오기 위한 함수
 
@@ -79,7 +79,7 @@ else
 ```
 {% endcode %}
 
-* ### 버전 및 기기정보 가져오기
+### • 버전 및 기기정보 가져오기 <a href="#get-version-device-info" id="get-version-device-info"></a>
 
 앱의 버전및 기기의 H/W 그리고 S/W 정보를 가져오는 함수
 
@@ -112,7 +112,7 @@ swingWebViewPlugin.app.methods.getAppVersion(function(value){
 ```
 {% endcode %}
 
-* ### 앱 종료 기능
+### • 앱 종료 기능 <a href="#how-to-exit-app" id="how-to-exit-app"></a>
 
 &#x20;실행중인 앱을 종료하는 명령어
 
@@ -122,7 +122,7 @@ swingWebViewPlugin.app.methods.doExitApp();
 ```
 {% endcode %}
 
-* ### 외부 브라우저로 URL 실행하기
+### • 외부 브라우저로 URL 실행하기 <a href="#open-external-browser-specific-url" id="open-external-browser-specific-url"></a>
 
 크롬 또는 사파리등 앱의 기본 브라우저로 특정 페이지를 열고 싶을때 아래의 함수를 이용할 수 있다.
 
@@ -132,7 +132,7 @@ swingWebViewPlugin.app.methods.doExternalOpen('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* ### 내장 브라우저로 URL 실행하기
+### • 내장 브라우저로 URL 실행하기 <a href="#open-browser-specific-url" id="open-browser-specific-url"></a>
 
 안드로이드와 iOS 자체적으로 제공하는 앱 내장 브라우저를 이용해서 실행
 
@@ -144,7 +144,7 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* ### 현재 페이지를 공유하기
+### • 현재 페이지를 공유하기 <a href="#share-current-page" id="share-current-page"></a>
 
 현재 웹 페이지를 공유하는 기능을 위한 아래의 코드를 실행
 
@@ -154,7 +154,7 @@ swingWebViewPlugin.app.methods.doShareCurrentPage();
 ```
 {% endcode %}
 
-* ### 지정 URL 공유하기
+### • 지정 URL 공유하기 <a href="#share-specific-url" id="share-specific-url"></a>
 
 지정한 URL을 공유하고자 할 경우 아래와 같이 코드를 실행
 
@@ -164,7 +164,7 @@ swingWebViewPlugin.app.methods.doShareWithUrl('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* ### 어플리케이션의 알림 설정 상태를 확인하기
+### • 어플리케이션의 알림 설정 상태를 확인하기 <a href="#set-notification" id="set-notification"></a>
 
 어플리케이션에서 푸시 알람 설정에 대한 상태를 확인하는 기능
 
@@ -214,7 +214,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
 ```
 {% endcode %}
 
-* ### 알람 설정 이동하기
+### • 알람 설정 이동하기 <a href="#go-to-set-notification" id="go-to-set-notification"></a>
 
 어플리케이션 또는 시스템의 알람설정을 이동할 수 있는 기능
 
@@ -230,9 +230,7 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('app');
 swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 ```
 
-
-
-* ### 클립보드에 텍스트 저장하기
+### • 클립보드에 텍스트 저장하기 <a href="#clipboard-write" id="clipboard-write"></a>
 
 클립보드에 텍스트를 저장할 수 있는 기능
 
@@ -250,7 +248,7 @@ swingWebViewPlugin.app.methods.copyToClipboard("copyToClipboard 텍스트 테스
 
 앱의 Native Event 를 관리할 수 있는 명령어 입니다.
 
-* ### 앱 종료 이벤트 추가하기
+### • 앱 종료 이벤트 추가하기 <a href="#add-event-exit-app" id="add-event-exit-app"></a>
 
 앱의 back 버튼의 종료 이벤트를 추가할 경우 back버튼을 인한 앱에서는 종료 기능이 동작하지 않습니다.
 
@@ -274,7 +272,7 @@ swingWebViewPlugin.event.addEvent('backExitEvent' , function() {
 반드시 애드몹이 활성된 앱의 경우만 동작하는 명령어 입니다.
 {% endhint %}
 
-* ### 배너광고 노출하기
+### • 배너광고 노출하기 <a href="#show-admob-banner" id="show-admob-banner"></a>
 
 어플리케이션내에 애드몹 배너 광고를 노출시키는 명령
 
@@ -288,7 +286,7 @@ swingWebViewPlugin.app.admob.showBanner('ca-app-pub-3940256099942544/6300978111'
 ```
 {% endcode %}
 
-* ### 배너광고  종료하기
+### • 배너광고  종료하기 <a href="#close-admob-banner" id="close-admob-banner"></a>
 
 어플리케이션내에 애드몹 배너 광고를 종료시키는 명령
 
@@ -298,7 +296,7 @@ swingWebViewPlugin.app.admob.closeBanner();
 ```
 {% endcode %}
 
-* ### 전면광고 노출하기
+### • 전면광고 노출하기 <a href="#show-admob-screen-a-ds" id="show-admob-screen-a-ds"></a>
 
 어플리케이션내에 애드몹 전면 광고를 노출시키는 명령
 
