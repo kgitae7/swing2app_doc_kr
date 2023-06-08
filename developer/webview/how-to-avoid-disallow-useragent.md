@@ -81,9 +81,12 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_logi
 [javascript-api.md](javascript-api.md)
 {% endcontent-ref %}
 
-{% code title="login_example.html" lineNumbers="true" fullWidth="true" %}
+아래의 코드를 활용하여 로그인 페이지를 만들어주세요.
+
+* 아래의 코드에서 todo 에 기재된 facebook 앱 아이디와 구글 client id 는 반드시 변경후에 사용해야 합니다.
+
+{% code title="login_example.html" fullWidth="true" %}
 ```html
-// Some code
 <html>
 <head>
     <!-- Title -->
@@ -214,8 +217,6 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_logi
 </head>
 <body>
 
-
-
 <div class="sns-login-area" style="width: 100%; padding:30px">
     <div class="sns-login-btn-box facebook">
         <div class="sns-login-main-btn" id="snsFaceBookLoginBtn" onclick="fb_login();">
@@ -232,11 +233,9 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_logi
     </div>
 </div>
 
-
 <div class="return-app-area" style="display: none;padding: 30px;text-align: center;background: #e6e6e6;"><a href="#" class="command-button" style="color: black;text-decoration: none;font-size: 25px;">로그인 성공 - 이동하기</a>
 </div>
 <div id="infoBox" style="display: none">
-
 </div>
 
 </body>
