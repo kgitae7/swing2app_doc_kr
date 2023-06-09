@@ -162,7 +162,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 캘린더 일정 입력하기
 
-**캘린더를 만들었으면 일정을 등록해야겠죠? 캘린더 입력은 웹에서만 가능합니다!!**
+**캘린더를 만들었으면 일정을 등록해야겠죠? 웹에서 관리자가 등록하는 방법을 알려드릴게요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%98%EB%A6%B0%EB%8D%942\_20.06.png)
 
