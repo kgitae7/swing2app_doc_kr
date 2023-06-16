@@ -28,7 +28,7 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 5\. 저장 : 작업이 완료될 때마다 \[저장] 버튼을 선택해서, 작업 내용을 저장해주세요.
 
-![](../../.gitbook/assets/수평성.PNG)
+![](../../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.아이콘 이미지 업로드**&#x20;
 
@@ -42,7 +42,7 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 
 3\)아이콘으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.
 
-![](../../.gitbook/assets/수평성.PNG)
+![](../../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.대기화면 이미지 업로드**&#x20;
 
@@ -63,12 +63,12 @@ description: 앱제작 STEP1 기본정보 단계 매뉴얼
 {% hint style="info" %}
 일반 이미지가 아닌 앱 아이콘과 대기화면으로 사용하는 가이드가 따로 있어요! 반드시 해당 가이드대로 이미지를 디자인 후 적용해주세요.​
 
-[**아이콘 이미지 제작 가이드 보러가기**](../v2/appbasic/appicon.md)
+[**아이콘 이미지 제작 가이드 보러가기**](../../v2/appbasic/appicon.md)
 
-[**대기화면 이미지 제작 가이드 보러가기**](../v2/appbasic/apploading.md)
+[**대기화면 이미지 제작 가이드 보러가기**](../../v2/appbasic/apploading.md)
 {% endhint %}
 
-![](../../.gitbook/assets/수평성.PNG)
+![](../../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.기본정보 입력완료**&#x20;
 
@@ -80,7 +80,7 @@ STEP1 기본정보 단계 입력이 완료되었습니다.
 
 \*STEP1 기본정보 단계 수정 후 \[앱 업데이트] 버튼을 눌러  새 버전으로 업데이트 해야 수정된 항목이 앱에 반영됩니다.&#x20;
 
-![](../../.gitbook/assets/수평성.PNG)
+![](../../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 4.**이미지 편집도구란?**
 

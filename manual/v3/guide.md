@@ -47,7 +47,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 ### &#x20;<mark style="color:blue;">**2.대기화면 이미지 등록**</mark>
 
-![](<../../.gitbook/assets/가이드2-1 (1).png>)
+![](../../.gitbook/assets/가이드2-1.png)
 
 **대기화면 이미지 사이즈 : 2282px\*2282px**
 
