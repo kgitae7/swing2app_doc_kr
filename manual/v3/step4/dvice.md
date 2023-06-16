@@ -4,7 +4,7 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 # 디바이스 모드 설정(앱 화면 전환)
 
-<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱 디바이스 모드 설정하기**
 
@@ -16,7 +16,7 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 만약 앱에 따라서 가로 모드로만 봐야 하거나 세로 모드로만 봐야 하는 앱이라면! 고급설정- 디바이스모드에서 앱 화면을 가로 or 세로 모드로 변경할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 가로 화면으로 제작한 앱제작 사례
 
@@ -34,19 +34,21 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 앱 화면을 전환하여 앱을 제작하는 방법을 확인해주세요!
 
-<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1.디바이스 모드 변경하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4NEW1.png)
+<figure><img src="../../../.gitbook/assets/디바이스모드.png" alt=""><figcaption></figcaption></figure>
 
-**앱제작 페이지로 이동합니다.**&#x20;
+**앱제작 화면으로 이동합니다.**&#x20;
 
 1\)\[고급설정] 메뉴 선택
 
-2\)\[설정: 앱제작 설정]으로 선택해주세요
+2\)\[설정: 앱제작 설정]으로 선택해주세요. (화살표 모양 마우스 커서로 클릭시 확인가능)
 
-3\)디바이스 모드 \[EDIT] 버튼을 선택해주세요.
+3\)스크롤하여 아래로 내려보시면, 디바이스 모드 확인 가능합니다.&#x20;
+
+디바이스 모드 \[EDIT] 버튼을 선택해주세요.
 
 4\)설정값을 선택해주세요 (앱 기본셋팅은  portrait+landscape 가로-세로 복합으로 설정되어 있어요.)
 
@@ -54,25 +56,35 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 6\)\[저장]버튼 선택
 
-7\)\[앱제작 요청] 버튼을 눌러서, 새로 제작된 앱 버전으로 확인해주시기 바랍니다.
+7\)\[앱 업데이트] 버튼을 눌러서, 새로 제작된 앱 버전으로 확인해주시기 바랍니다.
 
-<mark style="color:red;">-portrait (세로)</mark>
+아직 앱제작 전 이라면, \[앱 제작하기] 버튼으로 표시됩니다. 제작하기 눌러서 안드로이폰으로 앱 다운 받아 확인해주세요.
 
-<mark style="color:red;">-landscape (가로)</mark>
+{% hint style="info" %}
+**용어 설명**
+
+\-portrait+landscape (가로+세로 복합)
+
+\-portrait (세로)
+
+\-landscape (가로)
+{% endhint %}
+
+{% hint style="warning" %}
+**\*가로-세로 복합: 화면이 세로, 가로 자유롭게 회전이 가능합니다.**
+
+**\*세로 : 화면 가로 전환이 되지 않고, 세로 화면으로만 앱이 운영됩니다.**
+
+**\*가로: 화면 세로 전환이 되지 않고, 가로화면으로만 앱이 운영됩니다.**
+
+<mark style="color:red;">\*스윙투앱에서 제작하는 앱은 \[가로-세로 복합]으로 기본 셋팅되어 제작됩니다.</mark>
+
+<mark style="color:red;">만약 디바이스 모드를 가로전용 혹은 세로 전용으로 수정해서 제작해야 할 경우는 위의 방법대로 모드를 설정해서 새로 제작해주세요.</mark>
+{% endhint %}
 
 
 
-> **\*가로-세로 복합: 화면이 세로, 가로 자유롭게 회전이 가능합니다.**
->
-> **\*세로 : 화면 가로 전환이 되지 않고, 세로 화면으로만 앱이 운영됩니다.**
->
-> **\*가로: 화면 세로 전환이 되지 않고, 가로화면으로만 앱이 운영됩니다.**
->
-> <mark style="color:red;">\*스윙투앱에서 제작하는 앱은 \[가로-세로 복합]으로 기본 셋팅되어 제작됩니다.</mark>
->
-> <mark style="color:red;">만약 디바이스 모드를 가로전용 혹은 세로 전용으로 수정해서 제작해야 할 경우는 위의 방법대로 모드를 설정해서 새로 제작해주세요.</mark>
-
-<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2.앱 실행화면
 
@@ -111,6 +123,8 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 가로-세로 복합은 핸드폰에서 자동 화면 회전이 선택되어 있어야 자유롭게 화면을 가로로, 세로로 전환하여 볼 수 있어요.
 
 핸드폰 설정에서 화면전환에 체크해주시기 바랍니다.
+
+
 
 {% hint style="success" %}
 <mark style="color:green;">**디바이스모드 이용 정리**</mark>

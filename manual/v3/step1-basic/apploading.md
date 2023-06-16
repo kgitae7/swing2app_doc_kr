@@ -175,7 +175,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:orange;">**앱제작 V3버전 이용시)**</mark>
 
-<figure><img src="../../../.gitbook/assets/가이드2-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/가이드2-1.png" alt=""><figcaption></figcaption></figure>
 
 앱제작 → STEP1 기본정보 → 대기화면 업로드를 마우스로 클릭하면 이미지 첨부 창이 뜹니다.
 

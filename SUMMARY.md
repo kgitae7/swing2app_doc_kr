@@ -61,6 +61,7 @@
     * [앱 추가 제작방법](manual/v3/step4/app-add.md)
     * [앱 업데이트 방법](manual/v3/step4/app-update.md)
     * [업데이트 유형별 앱 실행화면](manual/v3/step4/update-type.md)
+    * [디바이스 모드 설정(앱 화면 전환)](manual/v3/step4/dvice.md)
   * [앱 업데이트 방법](manual/v3/update.md)
   * [웹뷰앱&푸시앱](manual/v3/webapp/README.md)
     * [스윙투앱 웹뷰앱](manual/v3/webapp/webviewapp.md)
