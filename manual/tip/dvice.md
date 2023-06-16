@@ -56,21 +56,27 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 7\)\[앱제작 요청] 버튼을 눌러서, 새로 제작된 앱 버전으로 확인해주시기 바랍니다.
 
-<mark style="color:red;">-portrait (세로)</mark>
+{% hint style="info" %}
+**용어 설명**
 
-<mark style="color:red;">-landscape (가로)</mark>
+\-portrait+landscape (가로+세로 복합)
 
+\-portrait (세로)
 
+\-landscape (가로)
+{% endhint %}
 
-> **\*가로-세로 복합: 화면이 세로, 가로 자유롭게 회전이 가능합니다.**
->
-> **\*세로 : 화면 가로 전환이 되지 않고, 세로 화면으로만 앱이 운영됩니다.**
->
-> **\*가로: 화면 세로 전환이 되지 않고, 가로화면으로만 앱이 운영됩니다.**
->
-> <mark style="color:red;">\*스윙투앱에서 제작하는 앱은 \[가로-세로 복합]으로 기본 셋팅되어 제작됩니다.</mark>
->
-> <mark style="color:red;">만약 디바이스 모드를 가로전용 혹은 세로 전용으로 수정해서 제작해야 할 경우는 위의 방법대로 모드를 설정해서 새로 제작해주세요.</mark>
+{% hint style="warning" %}
+**\*가로-세로 복합: 화면이 세로, 가로 자유롭게 회전이 가능합니다.**
+
+**\*세로 : 화면 가로 전환이 되지 않고, 세로 화면으로만 앱이 운영됩니다.**
+
+**\*가로: 화면 세로 전환이 되지 않고, 가로화면으로만 앱이 운영됩니다.**
+
+<mark style="color:red;">\*스윙투앱에서 제작하는 앱은 \[가로-세로 복합]으로 기본 셋팅되어 제작됩니다.</mark>
+
+<mark style="color:red;">만약 디바이스 모드를 가로전용 혹은 세로 전용으로 수정해서 제작해야 할 경우는 위의 방법대로 모드를 설정해서 새로 제작해주세요.</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
