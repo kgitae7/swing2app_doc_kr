@@ -96,7 +96,7 @@ description: 스윙투앱에서 제공하는 애드몹 플러그인 앱 셋팅�
 
 <div align="left">
 
-<img src="../../.gitbook/assets/info (2).png" alt="">
+<img src="../../.gitbook/assets/info (2) (1).png" alt="">
 
 </div>
 
