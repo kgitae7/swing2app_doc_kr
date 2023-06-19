@@ -257,6 +257,7 @@
   * [앱 관리자메뉴:스탬프 등록하기](manual/appoperation/appmanager-stamp.md)
   * [앱 관리자메뉴:쿠폰사용하기](manual/appoperation/appmanager-couponuse.md)
 * [앱미리보기 이용방법](manual/swingpreview.md)
+* [스윙투앱 브라우저 앱 이용방법](manual/webappconverter.md)
 * [스윙샵-스윙쇼핑몰](manual/swingshop/README.md)
   * [스윙샵(스윙 쇼핑몰) 신청방법](manual/swingshop/apply.md)
   * [스윙샵 상품유형](manual/swingshop/product.md)
