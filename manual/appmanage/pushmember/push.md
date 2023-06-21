@@ -30,9 +30,19 @@
 
 안드로이드폰에 발송된 푸시 입니다.
 
-푸시 스타일은 폰 기종마다 다르며, 특히 아이폰은 푸시 이미지가 표시되지 않습니다!
+푸시 발송시 등록한 제목, 내용, 이미지가 함께 표시 됩니다.&#x20;
 
-따라서 스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
+
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/아이폰-푸시발송화면.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<mark style="color:red;">\*아이폰은 푸시 이미지가 표시되지 않습니다!</mark>
+
+푸시 스타일은 폰 기종마다 다르며,  스타일은 핸드폰마다 차이가 있는 점 참고 부탁드려요!
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
