@@ -84,7 +84,31 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 쇼핑몰 정보 메뉴 적용하기**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 쇼핑몰 정보 메뉴 적용하기**
+
+#### **-앱제작 V3 버전 이용시 적용방법**
+
+<figure><img src="../../.gitbook/assets/쇼핑몰정보-적용.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지]를 선택해주세요.&#x20;
+
+6\) 쇼핑몰를정보 페이지를찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+#### **-앱제작 V2버전 이용시 적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%87%BC%ED%95%91%EB%AA%B0%EC%A0%95%EB%B3%B4.png)
 
