@@ -24,7 +24,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 #### &#x20;**-앱제작 V3 버전 이용시 적용방법**
 
-<figure><img src="../../.gitbook/assets/상품검색적용.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/상품검색적용 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 - STEP3 페이지 선택
 

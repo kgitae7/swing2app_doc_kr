@@ -26,7 +26,33 @@ description: 스윙샵에서 제공하는 페이지 중 ‘카테고리 리스�
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱에 상품검색 메뉴 적용하기**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱에 상품 카테고리 리스트 적용하기**&#x20;
+
+
+
+#### **-앱제작 V3 버전 이용시 적용방법**
+
+<figure><img src="../../.gitbook/assets/카테고리리스트.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지]를 선택해주세요.&#x20;
+
+6\)카테고리 리스트 확인 후, \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+#### **-앱제작 V2버전 이용시 적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
 
