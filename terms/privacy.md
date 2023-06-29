@@ -4,7 +4,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 # 스윙투앱 개인정보 처리방침
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **개인정보 처리방침**
 
@@ -12,7 +12,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 스윙투앱은 “정보통신망 이용촉진 및 정보보호 등에 관한 법률”을 준수하며 고객님의 정보가 어떤 용도와 방식으로 사용되고 있으며 개인정보보호를 위해 어떤 조치를 취하고 있는지 알려드립니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1. 개인정보 수집 목적 및 수집 항목
 
@@ -46,7 +46,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 가입 후 , 설정 메뉴에서도 이용약관 및 개인정보 취급방침 내용을 다시 확인할 수 있습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -80,13 +80,13 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 5. **방문에 관한 기록**\
    \- 보존 이유 및 기간 : 정보통신망 이용촉진 및 정보보호 등에 관한 법률 (3개월)
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **3. 개인정보의 제3자 제공**
 
 스윙투앱은정보주체의 별도 동의, 법률의 특별한 규정 등 개인정보 보호법 제17조에 해당하는 경우 외에는 개인정보를 제3자에게 제공하지 않습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **4. 개인정보처리 위탁**
 
@@ -102,7 +102,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 ③ 위탁업무의 내용이나 수탁자가 변경될 경우에는 지체없이 본 개인정보 처리방침을 통하여 공개하도록 하겠습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **5. 개인정보주체 권리**
 
@@ -122,7 +122,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 – 선택항목 : 휴대전화번호, 프로필 사진 이미지
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -145,7 +145,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 * 종이에 출력된 개인정보는 분쇄기로 분쇄하거나 소각을 통하여 파기합니다.
 * 전자적 파일 형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **7. 개인정보의 안전성 확보 조치**
 
@@ -179,7 +179,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 개인정보처리시스템에 접속한 기록을 최소 6개월 이상 보관, 관리하고 있으며, 접속 기록이 위변조 및 도난, 분실되지 않도록 보안기능 사용하고 있습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **8. 사용자 계정정보 삭제 방법(회원탈퇴)**&#x20;
 
@@ -209,7 +209,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 담당자가 확인하여 사용자가 요청하는 정보를 삭제할 수 있습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **9. 개인정보 보호책임자**&#x20;
 
@@ -237,7 +237,7 @@ description: 스윙투앱 서비스에 대한 개인정보 취급방침입니다
 
 주식회사 스윙투앱은정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### **10. 부칙**
 

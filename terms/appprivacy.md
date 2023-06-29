@@ -8,7 +8,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 회사는 “정보통신망 이용촉진 및 정보보호 등에 관한 법률”을 준수하며 고객님의 정보가 어떤 용도와 방식으로 사용되고 있으며 개인정보보호를 위해 어떤 조치를 취하고 있는지 알려드립니다.
 
-<figure><img src=".gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1.앱 실행에서 사용되는 권한
 
@@ -26,7 +26,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 2.개인정보의 항목 및 수집방법 및 수집하는 개인정보의 수집·이용 목적
 
@@ -62,7 +62,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 3.스윙투앱 앱사용자 계정 정보 삭제 방법
 
@@ -92,7 +92,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 담당자가 확인하여 사용자가 요청하는 정보를 삭제할 수 있습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 4.개인정보의 보유 및 이용 기간, 개인정보의 파기절차 및 파기방법
 
@@ -130,7 +130,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 \-전자적 파일형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -164,7 +164,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 6.이용자 및 법정대리인의 권리와 그 행사방법
 
@@ -184,7 +184,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 회사는 이용자 혹은 법정 대리인의 요청에 의해 해지 또는 삭제된 개인정보는 회사가 수집하는 “개인정보의 보유 및 이용기간” 에 명시된 바에 따라 처리하고 그 외의 용도로 열람 또는 이용할 수 없도록 처리하고 있습니다.
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 7. 개인정보 자동수집 장치의 설치·운영 및 거부에 관한 사항
 
@@ -194,7 +194,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -234,7 +234,7 @@ description: 스윙투앱 공식앱 개인정보 처리방침
 
 
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### 9. 부칙
 

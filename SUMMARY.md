@@ -20,6 +20,7 @@
   * [제휴프로그램 FAQ](faq/affprogram.md)
   * [커스터마이징 관련 FAQ](faq/faq-1.md)
 * [스윙투앱 업데이트](<README (1).md>)
+* [스윙투앱 업데이트 히스토리](update-history.md)
 
 ## 스윙투앱 메뉴얼 <a href="#manual" id="manual"></a>
 
@@ -378,10 +379,9 @@
   * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
   * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
 
-***
+## 이용약관 <a href="#terms" id="terms"></a>
 
-* [스윙투앱 업데이트 히스토리](update-history.md)
-* [스윙투앱 서비스 이용약관](user-protocol.md)
-* [스토어 이용약관](market-policy.md)
-* [스윙투앱 개인정보 처리방침](privacy.md)
-* [스윙투앱 어플리케이션 개인정보 처리방침](appprivacy.md)
+* [스윙투앱 서비스 이용약관](terms/user-protocol.md)
+* [스토어 이용약관](terms/market-policy.md)
+* [스윙투앱 개인정보 처리방침](terms/privacy.md)
+* [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)

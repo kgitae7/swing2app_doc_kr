@@ -4,7 +4,7 @@ description: 스윙투앱 서비스 이용정책
 
 # 스윙투앱 서비스 이용약관
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **스윙투앱 이용정책**
 
@@ -62,11 +62,11 @@ description: 스윙투앱 서비스 이용정책
 
 15\. 플레이스토어 업로드시, 반드시 구글 개발자 계정을 먼저 만들어주시기 바랍니다. &#x20;
 
-[**\[구글 개발자 계정 만드는 방법\]**](knowledgebase/playstore/google-developer.md)
+[**\[구글 개발자 계정 만드는 방법\]**](../knowledgebase/playstore/google-developer.md)
 
 
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **이용약관**
 
