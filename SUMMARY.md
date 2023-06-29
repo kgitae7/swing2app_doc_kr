@@ -335,6 +335,7 @@
   * [앱스토어 test-flight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
   * [Apple Developer Enterprise Program](knowledgebase/appstore/apple-developer-enterprise.md)
   * [애플 앱스토어 고객센터 이용방법](knowledgebase/appstore/apple-support.md)
+  * [앱스토어 앱 출시 링크 확인하는 방법](knowledgebase/appstore/appurl.md)
   * [앱스토어 출시된 앱 삭제하기](knowledgebase/appstore/appstore-appdelete.md)
   * [앱스토어 앱설치수 확인하기](knowledgebase/appstore/appstore-installcount.md)
 * [원스토어](knowledgebase/onestore/README.md)

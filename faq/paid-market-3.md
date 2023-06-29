@@ -253,5 +253,27 @@ Apple Developer 웹사이트에서 멤버십을 갱신해주시기 바랍니다.
 
 </details>
 
+<details>
+
+<summary>앱스토어 앱 출시 링크는 어디서 확인할 수 있나요?</summary>
+
+[https://appstoreconnect.apple.com/](https://appstoreconnect.apple.com/)
+
+1\)앱스토어 커넥트 접속 및 로그인
+
+2\)나의 앱 선택
+
+3\)출시된 앱 선택
+
+4\)왼쪽 카테고리에서 일반정보:앱 정보 선택
+
+5\)화면에서 스크롤해서 아래로 내리면 ‘App Store에서 보기’를 확인할 수 있습니다.
+
+6\)해당 메뉴 선택시 출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
+
+</details>
+
+
+
 
 
