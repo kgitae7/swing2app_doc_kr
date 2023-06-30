@@ -6,7 +6,7 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
 
 안드로이드 앱 개발 중 구글 및 페이스북과 같은 플랫폼의 로그인 기능을 웹뷰에서 사용하려는 경우, 일반적으로 보안 상의 이유로 인해 구글과 페이스북이 해당 기능을 차단하는 경우가 있습니다.  ( 아래와 같은 메시지를 발견했다면 해당 이유로 차단된 경우입니다. )
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Facebook Login 웹뷰에서 차단</p></figcaption></figure>
 

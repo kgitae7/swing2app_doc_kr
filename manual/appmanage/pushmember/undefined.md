@@ -66,11 +66,19 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 **\[guideline 참조]**
 
-[https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications](https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications)
+{% embed url="https://m2.material.io/design/platform-guidance/android-notifications.html#types-of-notifications" %}
 
+모든 안드로이드 폰에서 아이콘 이미지가 출력되기 위해서는 아래 방법으로 디자인해주셔야 합니다.&#x20;
 
+<mark style="color:blue;">**푸시 아이콘 이미지는 투명 배경 필수 + 흰색으로 표시된 이미지를 사용하시는 것이 좋습니다.**</mark>
+
+**가이드 링크 보기)**
+
+{% embed url="http://romannurik.github.io/AndroidAssetStudio/icons-notification.html#source.type=clipart&source.clipart=ac_unit&source.space.trim=1&source.space.pad=0&name=ic_stat_onesignal_default" %}
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**푸시 아이콘 이미지 디자인 가이드
+
+
 
 1\)앱 아이콘 이미지를 만들 때는 디자인 전문 편집도구 – 포토샵, 일러스트 등으로 제작해주시길 권장드려요.
 
