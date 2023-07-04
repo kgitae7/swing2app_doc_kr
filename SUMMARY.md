@@ -312,6 +312,7 @@
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [플레이스토어 사전고지 문서 제출하기](knowledgebase/playstore/playstore-priornotice.md)
   * [플레이스토어 개인정보 링크 연결하기](knowledgebase/playstore/playstore-policyurl.md)
+  * [플레이스토어 앱 출시 링크 확인 방법   ​](knowledgebase/playstore/appurl.md)
   * [플레이스토어 앱 게시취소](knowledgebase/playstore/playstoe-unpublish.md)
   * [구글 플레이스토어 개발자 이름 변경](knowledgebase/playstore/playstore-changename.md)
   * [플레이스토어 다른 개발자계정으로 앱이전하기](knowledgebase/playstore/apptransfer.md)

@@ -4,7 +4,7 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 # 위치등록(지도)게시판 고급설정
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **위치등록(지도)게시판 고급설정 이용방법** &#x20;
 
@@ -30,7 +30,7 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 위치등록 게시판 고급설정 이용방법
 
@@ -48,7 +48,7 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 3\)\[고급설정] 메뉴&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 지도 게시판 – 고급설정에서 제공되는 기능 안내
 
@@ -72,7 +72,7 @@ description: 위치등록(지도)게시판 고급설정 이용방법 매뉴얼
 
 3\)초기 표시 형식:지도 게시판을 열면 지도로 화면을 보여주거나, 위성 화면으로 보이게 할지 선택할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 모바일 앱 실행화면
 

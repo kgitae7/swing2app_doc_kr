@@ -4,13 +4,13 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 # 스탬프 응용: 스탬프 완료시 쿠폰발행하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 해당 기능을 이용하면 스탬프가 정해진 갯수만큼 다 채워질 경우 자동으로 스탬프 화면이 초기화 되구요.
 
 관리자가 보내고자 하는 쿠폰을 자동으로 사용자에게 발행됩니다.
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 스탬프 완료시 쿠폰발행이란?
 
@@ -28,7 +28,7 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 \*자동으로 관리자가 설정해놓은 쿠폰을 사용자 앱으로 발행됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 이용방법
 
@@ -104,9 +104,9 @@ or
 
 **☞** [**쿠폰 만들고 발행하기 상세방법 보러가기**](../service/coupon.md)
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면
 

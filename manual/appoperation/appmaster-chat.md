@@ -8,7 +8,7 @@
 
 앱에서도 1:1 채팅이 가능하며, 채팅방 메시지 발송시 실시간으로 푸시 알림이 발송됩니다.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 앱 관리자메뉴 이동**</mark>
 
@@ -16,7 +16,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%801-1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 관리자메뉴: 사용자 관리**</mark>
 
@@ -28,7 +28,7 @@
 
 (가입이 안된 손님은 로그인 정보가 없으므로, 목록에 표시 되지 않아요!)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 1:1 채팅 실행**</mark>
 
@@ -52,7 +52,7 @@
 
 \*\*윈디 사용자에게 메시지를 입력해보겠습니다.
 
-***
+
 
 ### &#x20;<mark style="color:blue;">**STEP.4 사용자 앱 실행화면**</mark>
 
@@ -76,7 +76,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EB%A9%94%EB%89%B4-%EC%B1%84%ED%8C%85%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9A%A9.gif)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5 채팅창 – 사진첨부 기능**</mark>
 

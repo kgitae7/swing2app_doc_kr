@@ -4,7 +4,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 # 게시물관리 옵션 기능
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물관리에서 이용할 수 있는 다양한 옵션 기능을 알아볼텐데요.
 
@@ -14,7 +14,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>1. 게시판 복사 : 특정 게시판을 다른 게시판으로 복사하는 기능(게시판 전체 복사)</p><p>2. 게시물 복사: 여러 게시물을 한번에 선택하여 특정 게시판으로 복사하는 기능</p><p>3. 게시글 다운: 게시판에 작성된 게시글을 엑셀파일로 다운받아 보관할 수 있는 기능</p><p>4. 게시물 일괄삭제 : 게시판에서 여러 게시물을 한번에 삭제하고자 할 때, 다중 선택된 게시물을 일괄로 삭제하는 기능</p> |
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)1. \[게시판 복사] 이용방법
 
@@ -46,7 +46,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 대상 게시판으로 이동하면 복사한 게시판이 그대로 옮겨진 것을 확인할 수 있습니다\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)2. \[게시글 복사] 이용방법
 
@@ -104,7 +104,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)3. \[게시글 다운] 이용방법
 
@@ -138,7 +138,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)4. \[게시물 일괄삭제] 이용방법
 

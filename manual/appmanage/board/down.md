@@ -4,7 +4,7 @@ description: '게시물관리 [게시글다운] 기능 이용방법: 게시글 �
 
 # 게시글 다운받기(게시물 다운)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 \[게시글다운]을 이용하면 게시판에 작성된 게시글을 엑셀파일로 다운받아 보관할 수 있습니다.
 
@@ -22,7 +22,7 @@ description: '게시물관리 [게시글다운] 기능 이용방법: 게시글 �
 
 앱운영페이지 → 게시물관리→게시판 이동 → 작성된 게시물 목록에서 <mark style="color:blue;">\[게시글 다운]</mark> 버튼을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1. 게시글 다운 이용방법
 
@@ -38,7 +38,7 @@ description: '게시물관리 [게시글다운] 기능 이용방법: 게시글 �
 
 5\) 해당 게시물에서 노출된 값만큼의 게시물이 다운되어서 엑셀파일로 제공됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 2. 게시물 다운 엑셀파일
 

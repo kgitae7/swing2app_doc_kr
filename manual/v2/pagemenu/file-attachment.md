@@ -10,7 +10,7 @@
 
 **매뉴얼을 통해서 파일첨부 기능 위치, 파일첨부 앱 적용방법, 앱 실행화면을 확인해주세요 ^^**
 
-***
+
 
 <mark style="background-color:blue;">**▶**</mark>**파일첨부는 어디서 이용할 수 있나요?**
 
@@ -18,7 +18,7 @@
 
 파일첨부는 앱제작 페이지 – 3단계 페이지메뉴 – 메뉴 유형에서 \[파일 첨부] 기능을 이용할 수 있습니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱에 파일첨부 적용하기**</mark>
 
@@ -42,7 +42,7 @@
 
 7\)저장 버튼을 누르면 앱 반영이 완료됩니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면) 파일 다운로드**</mark>
 

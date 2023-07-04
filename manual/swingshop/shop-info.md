@@ -12,7 +12,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 스윙페이지에서 이용할 수 있으며, 스윙샵 이용시 해당 페이지를 함께 적용할 수 있습니다.&#x20;
 
-***
+
 
 <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 

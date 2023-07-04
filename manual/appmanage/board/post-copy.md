@@ -4,7 +4,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 # 게시물 복사
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**게시물 복사란?**</mark>
 
@@ -22,7 +22,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/board-copy" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 복사&#x20;
 
@@ -64,7 +64,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 <mark style="color:red;">-복사를 원하는 게시물 몇개만 선택하여 복사할 수 있습니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)2.움짤이미지로 게시물 복사 방법 확인하기
 
@@ -76,7 +76,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 게시물을 복사한 후 복사된 게시판을 확인해보시면, 정상적으로 게시물이 해당 게시판으로 복사된 것을 확인할 수 있어요!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)3.복사된 게시물 확인하기
 
@@ -88,7 +88,7 @@ description: 개별 게시물을 선택해서 다른 게시판으로 복사하�
 
 게시물을 복사한 후 복사된 게시판을 확인해보시면, 정상적으로 게시물이 해당 게시판으로 복사된 것을 확인할 수 있어요!
 
-***
+
 
 {% hint style="danger" %}
 <mark style="color:red;">**안내사항**</mark>

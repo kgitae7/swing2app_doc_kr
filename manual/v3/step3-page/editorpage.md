@@ -26,7 +26,7 @@ HTML 에디터페이지는 사용자가 원하는 스타일대로 만들 수 있
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **에디터 페이지 제작단계**
 
@@ -306,7 +306,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. HTML에디터 페이지 제작 TIP**
 

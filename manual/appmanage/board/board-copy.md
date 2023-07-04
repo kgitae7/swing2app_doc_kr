@@ -4,7 +4,7 @@ description: 특정 게시판의 게시물을 다른 게시판으로 복사하�
 
 # 게시판 복사
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**게시판 복사란?**</mark>
 
@@ -22,7 +22,7 @@ description: 특정 게시판의 게시물을 다른 게시판으로 복사하�
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/post-copy" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시판 복사
 
@@ -58,7 +58,7 @@ description: 특정 게시판의 게시물을 다른 게시판으로 복사하�
 
 아주 간단하게 게시판 복사가 되었구요. 아래에서 복사된 게시판을 확인해볼게요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)2. 게시판 복사 완료
 

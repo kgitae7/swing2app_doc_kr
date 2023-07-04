@@ -166,7 +166,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 **☞** [**\[앱스토어 업로드 신청 방법\]**](../appmanage/version/appstore-upload.md)
 
-***
+
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 

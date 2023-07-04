@@ -18,7 +18,7 @@
 
 **앱 관리자메뉴 이용방법과 제공되는 기능에 대해서 알려드릴게요.**
 
-***
+
 
 ### <mark style="color:blue;">**1. 앱 관리자 로그인 메뉴 이용방법**</mark>
 
@@ -52,7 +52,7 @@
 
 [**\[부관리자 설정 상세 이용방법 매뉴얼\]**](../appmanage/pushmember/associate-administrator.md)을 참고해주세요.
 
-***
+
 
 ### <mark style="color:blue;">**2.  관리자 메뉴에서 제공하는 기능**</mark>
 
@@ -90,7 +90,7 @@
 
 [**☞ \[앱 관리자메뉴:쿠폰사용방법 매뉴얼 보러가기\]**](appmanager-couponuse.md)
 
-***
+
 
 ### <mark style="color:blue;">**3. 안내사항**</mark>
 

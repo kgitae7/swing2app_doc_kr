@@ -4,7 +4,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 # 게시물 검색 기능
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물 통합 검색은 앱에 적용해놓은 게시판의  모든 게시물의 검색하여 찾아주는 기능입니다.
 
@@ -14,7 +14,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 게시물 검색 메뉴 이용 방법을 확인해주세요.
 
-***
+
 
 ## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 개별 게시판-게시물 검색
 
@@ -40,9 +40,9 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 <mark style="color:red;">전체 글에서 검색어를 찾아주는 기능은 아래 방법으로 확인해주세요!</mark>
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)2. 전체 게시판 게시물 검색
 

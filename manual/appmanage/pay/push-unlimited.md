@@ -144,7 +144,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 \*각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다.   &#x20;
 {% endhint %}
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 

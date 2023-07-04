@@ -27,7 +27,7 @@
 
 Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유념해주세요.
 
-***
+
 
 <mark style="color:blue;">**1. 통합 알림 설정 이용방법**</mark>
 
@@ -136,7 +136,7 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 \*무통장 입금 확인건은 들어오지 않아요\~!
 
-***
+
 
 <mark style="color:blue;">**3. 사이트 알림 관리**</mark>
 
@@ -149,7 +149,7 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 알림을 받는 것을 원치 않으시면 \[구독 취소]를 선택해주시면 됩니다. **-크롬에서만 확인 가능**\
 
 
-***
+
 
 <mark style="color:red;">**★ 안내사항**</mark>\
 

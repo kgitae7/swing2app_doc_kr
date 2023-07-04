@@ -302,7 +302,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 띠라서 업로드 신청시 반드시 해당 내용 유념해주세요\~^^
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

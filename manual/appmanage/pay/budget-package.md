@@ -4,7 +4,7 @@
 
 **스윙투앱 유료앱 알뜰형 패키지(24개월) 상품 안내** &#x20;
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. 스윙투앱 알뜰형 패키지 상품이란?**</mark>
 
@@ -32,7 +32,7 @@
 
 \*따로 업로드 티켓을 구매하지 않아도 됩니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02.알뜰형 패키지 이용방법**</mark>&#x20;
 
@@ -74,7 +74,7 @@
 
 그외 스토어 등록 정책 및 이용정책은 꼭 미리 확인해주시기 바랍니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. 알뜰형 패키지 이용 안내 및 주의사항**</mark>  &#x20;
 

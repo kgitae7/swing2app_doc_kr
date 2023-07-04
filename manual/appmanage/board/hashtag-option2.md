@@ -4,7 +4,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 # 해시태그 검색옵션 이용방법2
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
@@ -48,7 +48,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 매뉴얼을 통해서 해시태그 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 게시판 관리 – 해시태그 관리
 
@@ -64,9 +64,9 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 여기서  <mark style="color:blue;">**\[고급스타일]**</mark> 메뉴로 이동합니다.
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 해시태그 검색 옵션 만들기&#x20;
 
@@ -148,7 +148,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_05\_28\_15\_48\_09\_538.gif)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 게시물에 해시태그 검색어 입력하기
 
@@ -184,7 +184,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 앱에 해시태그 게시판 적용하기
 
@@ -240,7 +240,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-***
+
 
 <mark style="color:blue;">**대표적인 해시태그 앱 제작 사례 ‘올댓모델’ 앱**</mark>
 

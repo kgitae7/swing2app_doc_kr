@@ -14,7 +14,7 @@
 
 매뉴얼을 통해서 쿠폰 사용방법을 확인해주세요.
 
-***
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**앱 관리자 로그인**</mark>
 
@@ -54,7 +54,7 @@ windy사용자의 쿠폰에서 일련번호 확인하셨죠?
 
 맞으면 **\[확인]**을 선택합니다.
 
-<mark style="color:blue;"></mark>
+
 
 ### <mark style="color:blue;">**4. 쿠폰 사용처리 완료**</mark>
 

@@ -30,7 +30,7 @@ SMS발송권은 총 1,000건이 제공이 되요.
 
 \-SMS(문자메시지)를 보낼 때에도 보내는 메시지 갯수에 따라 차감이 됩니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 SMS 발송 티켓 구매하기**</mark>
 
@@ -104,7 +104,7 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 <mark style="color:red;">**★회원가입 뿐만 아니라 재로그인시 필요한 전화번호 인증 발송을 할때마다 SMS 건수가 차감이 됩니다.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 아이디형태: 전화번호 설정하기**</mark>
 
@@ -124,7 +124,7 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 아이디형태: 아이디를 **‘전화번호’**로 선택하고 정책설정하기 버튼을 누르면 완료됩니다!
 
-***
+
 
 ### <mark style="color:blue;">**STEP. 3 SMS(문자메시지) 발송하기**</mark>
 

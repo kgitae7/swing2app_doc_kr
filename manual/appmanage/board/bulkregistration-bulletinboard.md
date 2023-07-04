@@ -4,7 +4,7 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 # 일괄등록 게시판 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 일괄등록 게시판은 게시판 하나에만 글을 등록하는 것이 아니라, 원하는 게시판 여러개에 동일한 글을 모두 등록할 수 있는 기능입니다.
 
@@ -12,7 +12,7 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 매뉴얼을 통해서 일괄등록 게시판 이용방법을 확인해주세요.
 
-***
+
 
 ## 1. 일괄등록 게시판 이동
 
@@ -46,7 +46,7 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 **4)등록 버튼을 누르면 완료됩니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2.  움짤 이미지로 확인하기
 
@@ -58,7 +58,7 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 앱 실행화면) 일괄 등록 게시물 확인하기&#x20;
 
@@ -78,7 +78,7 @@ description: 여러 개의 게시판에 동시에 글을 올리 수 있는 일�
 
 일괄 등록은 이렇게 원하는 게시판으로 한꺼번에 글 등록이 가능하답니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.  게시물 수정- 공유 게시판 추가 등록 가능
 

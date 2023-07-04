@@ -8,7 +8,7 @@
 
 **☞** [**앱스토어 앱설치수 확인방법 매뉴얼**](../appstore/appstore-installcount.md)
 
-***
+
 
 ### &#x20;<mark style="color:blue;">**1. 구글 플레이 콘솔 접속 후 앱 활성 설치수 확인**</mark>
 
@@ -48,7 +48,7 @@
 
 <mark style="color:red;">\*전체 앱 설치수를 확인하길 원하시면, 위의 ‘획득된 신규 사용자 수’에서 기간을 설정해서 설치 수를 확인할 수 있습니다.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**3. 앱 설치수는 어디서 어떻게 확인하나요?**</mark>
 

@@ -166,7 +166,7 @@ Play 프로텍트에 체크되어 있는 항목을 모두 풀어주세요.
 
 &#x20;유료버전앱 설치가 안된다면 확인해주세요!
 
-***
+[ \[유료버전앱 설치가 안되는 경우\]](https://documentation.swing2app.co.kr/manual/appoperation/not-installed2)
 
 
 

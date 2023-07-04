@@ -42,7 +42,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 사례**
 
@@ -100,7 +100,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(제작도구)**
 
@@ -290,7 +290,7 @@ TIP을 한가지 드리면요
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
 
@@ -328,7 +328,7 @@ TIP을 한가지 드리면요
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
 
@@ -462,7 +462,7 @@ TIP을 한가지 드리면요
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(이미지페이지 수정 방법)**
 

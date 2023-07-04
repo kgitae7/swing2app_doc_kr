@@ -34,7 +34,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 패키지 상품)애드몹 파워패키지, 대용량 패키지는 기본형 유료앱이용권 상품과 동일하게 제공됩니다. (채팅방 5개 개설, 사용자 20명까지 접속 가능)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 그룹채팅방 만들기
 
@@ -98,9 +98,9 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 5\)상세 설정 내용 입력이 완료되면 \[저장] 버튼을 눌러주세요.
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 그룹채팅방 적용하기
 
@@ -156,7 +156,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면
 
@@ -232,7 +232,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 &#x20;채팅방의 오른쪽 상단 버튼을 누르면 채팅방에 입장한 사용자 목록을 확인할 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 그룹채팅 기능 소개
 
@@ -242,7 +242,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/groupchat-function" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 그룹채팅 Q\&A
 

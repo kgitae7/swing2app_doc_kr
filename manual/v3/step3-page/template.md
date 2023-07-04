@@ -54,7 +54,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면 -템플릿 페이지 적용**
 
@@ -78,7 +78,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1 웹템플릿 페이지 새로 제작하기**
 
@@ -204,7 +204,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 만들어놓은 웹템플릿 페이지 앱에 적용하기**
 
@@ -246,7 +246,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.4 템플릿페이지 편집하기(수정 방법)**
 

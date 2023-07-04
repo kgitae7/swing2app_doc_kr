@@ -4,7 +4,7 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 # 게시물 신고 및 관리
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물 신고는 많은 사람들과 함께 운영하는 앱을 더욱 질서있고, 쾌적하게 만들기 위해서 꼭 필요한 기능인데요.
 
@@ -14,7 +14,7 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 게시물 신고 기능- 게시물을 신고하고, 처리하는 과정을 알려드리겠습니다.
 
-***
+
 
 ## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시물 신고하기
 
@@ -44,7 +44,7 @@ description: 게시물을 신고하는 방법, 관리자가 신고된 게시글�
 
 <mark style="color:red;">-신고글이 접수되어 관리자가 신고된 글을 삭제하면 모든 사용자들에게도 해당 글이 보이지 않게 됩니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>)2. 관리자 신고글 삭제 or 신고 취소하기
 

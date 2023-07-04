@@ -4,7 +4,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 # 비밀게시판 만들기(1:1 고객센터)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **비밀게시판 이용방법**
 
@@ -16,7 +16,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 아래 매뉴얼을 통해서 비밀게시판(1:1 고객센터) 을 만드는 방법, 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP1. 비밀게시판 만들기**
 
@@ -96,9 +96,9 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 7\)저장 버튼을 선택하면 완료!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 만들어놓은 게시판 적용하기
 
@@ -152,7 +152,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP3.  앱 실행화면- 1:1 고객센터
 

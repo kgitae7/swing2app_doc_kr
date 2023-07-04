@@ -4,7 +4,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 # 게시판 작성폼 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**게시판 작성폼이란?**</mark>
 
@@ -32,7 +32,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 **☞ 게시판 작성글 이용방법은 매뉴얼을 참고해주세요.**
 
-***
+
 
 작성폼은 앱에서 어떻게 보여지나요?
 
@@ -44,7 +44,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 이미지 첨부 및 캘린더(날짜설정) 등을 활용할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 게시판 작성폼 설정하기
 
@@ -136,7 +136,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 앱에 게시판 적용하기
 
@@ -188,9 +188,9 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 앱 실행화면: 작성폼 확인하기
 

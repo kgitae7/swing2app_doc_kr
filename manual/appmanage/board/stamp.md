@@ -194,7 +194,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 {% endtab %}
 {% endtabs %}
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 

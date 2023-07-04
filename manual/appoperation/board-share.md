@@ -34,7 +34,7 @@
 
 **해당 매뉴얼에서는 앱 내에 게시판과 게시물을 공유하는 방법을 알려드리겠습니다.**&#x20;
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 게시판 공유하기**</mark>
 
@@ -60,7 +60,7 @@
 
 <mark style="color:purple;">**앱이 설치되어 있지 않을 경우 먼저 앱을 설치하라는 안내 메시지가 뜹니다.**</mark>
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 게시물 공유하기**</mark>
 
@@ -98,7 +98,7 @@
 
 **앱이 설치되어 있지 않을 경우 먼저 앱을 설치하라는 안내 메시지가 뜹니다.**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3.다른 어플로 공유하기**</mark>
 

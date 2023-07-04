@@ -22,7 +22,7 @@ description: 스윙투앱 앱제작 및 앱운영 이용방법 TIP
 
 튜토리얼을 통해서 스윙에서 제공하는 전체 앱제작 과정을 확인하고, 단계별 제작방법을 선택해서 제작방법을 간편하게 확인해보세요 ^^
 
-***
+
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

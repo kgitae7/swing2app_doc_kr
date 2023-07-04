@@ -4,7 +4,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 # 리소스관리- 용량관리
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**리소스 관리란?**</mark>
 
@@ -18,7 +18,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 매뉴얼을 통해서 리소스 관리(용량관리) 이용방법을 확인해주세요.
 
-***
+
 
 <mark style="color:blue;">**Q\&A 앱 용량 관련 자주 묻는 질문**</mark>
 
@@ -70,7 +70,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 리소스 관리 페이지 이동
 
@@ -82,7 +82,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 [**앱운영 페이지 → 서비스관리 → 리소스관리**](http://www.swing2app.co.kr/view/storage\_manager) **메뉴로 이동합니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 리소스 관리자 페이지
 
@@ -130,7 +130,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 <mark style="color:red;">따라서 필요한 용량만큼을 구매하거나,  용량을 차지하는 파일을 삭제해서 용량에 맞게 관리를 해야 합니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 미리보기 – 이동 버튼
 
@@ -144,7 +144,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 그래서 **미리보기에 \[이동] 버튼을 선택하면 어떤 이미지를 등록했는지 확인할 수 있어요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 게시물 삭제하기
 

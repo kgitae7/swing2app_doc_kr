@@ -4,7 +4,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 # 게시판 섬네일 이미지 등록
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 섬네일이미지란?**
 
@@ -26,7 +26,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 매뉴얼을 통해서 게시판에 섬네일 이미지를 등록하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 섬네일 이미지 등록하기
 
@@ -72,7 +72,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 \-게시판은 서비스용도를 ‘사용자 정의’로 선택하면 아래 고정된 회색 영역이 풀리면서 항목들을 수정할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)2. 섬네일 이미지를 본문에 나오지 않게 설정하기
 

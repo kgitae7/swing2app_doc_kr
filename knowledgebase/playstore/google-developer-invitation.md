@@ -28,7 +28,7 @@
 
 →\[초대 보내기] 선택하면 완료됩니다.&#x20;
 
-***
+
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 

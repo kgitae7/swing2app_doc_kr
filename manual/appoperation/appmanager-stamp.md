@@ -22,7 +22,7 @@
 
 회원마다 발행된 스탬프 번호로 등록 처리하거나, 앱 관리자메뉴에서 QR코드이미지를 스캔하여 적립할 수 있습니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 관리자메뉴 이동**</mark>
 
@@ -70,7 +70,7 @@
 
 아래에서 QR코드 스캔 방법을 알려드릴게요!
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP 2. QR코드로 스탬프 등록하기**</mark>
 
@@ -82,7 +82,7 @@
 
 <mark style="color:red;">\*사용자 앱에서 스탬프를 열어두셔야 QR코드이미지를 확인할 수 있어요.</mark>
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP3. 스탬프 적립 완료**</mark>
 
@@ -98,7 +98,7 @@
 
 실제로 앱 관리자메뉴- 스탬프 등록 화면에서  QR코드를 실행하여서 사용자의 스탬프를 등록할 수 있어요.&#x20;
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP4. 스탬프 만들고 앱에 적용하는 방법??**</mark>
 

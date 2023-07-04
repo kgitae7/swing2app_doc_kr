@@ -4,7 +4,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 # 팝업 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **팝업이란?**&#x20;
 
@@ -24,7 +24,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 매뉴얼을 통해서 팝업을 적용하는 방법을 확인해주세요.
 
-***
+
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 

@@ -4,7 +4,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 # 해시태그 2가지 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="해시태그 2가지 이용방법" %}
@@ -32,7 +32,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 해시태그 검색 기능
 
@@ -96,7 +96,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/hashtag-option1" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  2. 고급 설정) 해시태그 연산자검색 옵션
 

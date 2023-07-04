@@ -12,7 +12,7 @@
 
 <mark style="color:orange;">**\*앱 메인 디자인 스타일은 필수 로 선택 해야 하는 기능이 아니라 옵션! 선택사항이니!! 확인하시고 사용자가 원하는 스타일을 적용해주세요 ^^**</mark>
 
-***
+
 
 <mark style="color:blue;">★</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**앱 메인 디자인 스타일 이용방법**</mark>
 
@@ -24,7 +24,7 @@
 
 해당 기능은 필수항목이 아니라, 선택사항이기 때문에 해당 기능들을 적용하지 않아도 무관합니다.
 
-***
+
 
 <mark style="color:blue;">**1. 앱 메인 디자인 스타일 – 기본**</mark>
 
@@ -34,7 +34,7 @@
 
 기본스타일로 제작을 하고 싶다면 ‘기본’에 체크를 해주세요.
 
-***
+
 
 <mark style="color:blue;">**2. 앱 메인 디자인 스타일 – 이미지 기반**</mark>
 
@@ -76,7 +76,7 @@
 
 <mark style="color:red;">따라서 배경 음영색은 어두운 색상을 이용하시는 것을 권장드립니다.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:blue;">**3. 앱 메인 디자인 스타일 – 이미지 기반 + 배경마스크**</mark>
 
@@ -118,7 +118,7 @@
 
 <mark style="color:red;">배경마스크 음영색은 어두운 색상을 이용하시는 것을 권장드립니다.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:red;">**★추가 TIP**</mark>
 
@@ -128,4 +128,3 @@
 
 **☞** [**앱 네비게이션 디자인스타일 설정방법 매뉴얼보기**](navigation-styles.md)
 
-***

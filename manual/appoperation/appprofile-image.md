@@ -20,7 +20,7 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 회원가입시 프로필이미지 등록**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 회원가입시 프로필이미지 등록**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD5.png)
 
@@ -66,7 +66,7 @@
 
 
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 프로필 이미지 변경하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 프로필 이미지 변경하기**</mark>
 
 **등록된 이미지를 변경하거나, 새로 프로필 이미지를 등록하는 방법을 알려드릴게요.**
 
@@ -136,7 +136,7 @@
 
 &#x20;**이미지  화질이 안좋거나, 이미지 사이즈가 작을 경우, 이미지 비율이 정사각형이 아닐 경우 프로필에 등록되는 사진이 많이 깨져서 보여질 수 있어요.**
 
-***
+
 
 <mark style="color:orange;">**Q. 비회원도 프로필 이미지를 변경할 수 있나요?**</mark>
 

@@ -14,7 +14,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D-KR.png)
 
-***
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**채팅목록 이란?**</mark>
 
@@ -32,7 +32,7 @@
 
 **☞** [**관리자 채팅 이용방법 보러가기** ](../../appmanage/service/chat.md)
 
-***
+
 
 <mark style="background-color:blue;">▶</mark><mark style="color:blue;">**\[채팅목록] 앱에 적용하는 방법**</mark>
 
@@ -58,7 +58,7 @@
 
 <mark style="color:red;">\*2019.3.8 이전에 제작한 앱은 \[채팅목록] 메뉴가 스윙페이지에서 보이지 않습니다.반드시 업데이트 후 이용해주세요.</mark>
 
-***
+
 
 <mark style="background-color:blue;">▶</mark><mark style="color:blue;">**앱 실행화면**</mark>
 
@@ -66,7 +66,7 @@
 
 앱 메뉴의 – 채팅목록을 선택하면 위의 이미지처럼 사용자가 관리자와 채팅한 목록을 확인할 수 있습니다.
 
-***
+
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**활용 방법**</mark>
 
@@ -92,7 +92,7 @@
 
 <mark style="color:red;">\* 채팅목록에서 \[통합 관리자 채팅]은 관리자가 채팅을 할 때 ‘전용 대화’가 아닌 ‘공용 대화’를 한 채팅 내역을 확인할 수 있습니다.</mark>
 
-***
+
 
 <mark style="color:red;">**안내사항**</mark>
 

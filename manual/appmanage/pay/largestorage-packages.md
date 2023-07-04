@@ -4,7 +4,7 @@
 
 **대용량 패키지 이용방법**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. 대용량 패키지란?**</mark>&#x20;
 
@@ -38,7 +38,7 @@
 
 \*30GB용량을 1년 동안 사용할 수 있습니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. 대용량 패키지 구매 및 이용 방법**</mark>
 
@@ -80,7 +80,7 @@
 
 그외 스토어 등록 정책 및 이용정책은 꼭 미리 확인해주시기 바랍니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. 대용량 패키지 이용 안내 및 주의사항**</mark>
 
@@ -166,4 +166,3 @@
 
 각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다. &#x20;
 
-***

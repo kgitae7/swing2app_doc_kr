@@ -4,7 +4,7 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 # 복합게시판
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 복합게시판이란?
 
@@ -20,7 +20,7 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 업데이트된 복합게시판을 이용하면 전체 게시판 혹은 선택한 몇 개의 게시판을 한 화면에 모두 보여줍니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2.이용방법
 
@@ -112,7 +112,7 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 >
 > (7) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3.앱 실행화면) 복합게시판 적용 화면
 
@@ -138,7 +138,7 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 게시물에 등록된 섬네일 이미지가 없을 경우 앱 아이콘 이미지로 대체되어 보여집니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.안내사항
 

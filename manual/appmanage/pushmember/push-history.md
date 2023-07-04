@@ -148,7 +148,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 반복 취소 선택시, 예약설정된 푸시는 삭제됩니다.&#x20;
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 

@@ -28,7 +28,7 @@
 
 제작은 위의 에디터 페이지를 참고하여 동일한 스타일로 만들어보겠습니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 HTML 에디터 페이지 만들기**</mark>
 
@@ -261,7 +261,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 **7)저장 버튼을 누르면 앱 반영이 완료됩니다.**
 
-***
+
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**HTML에디터 페이지 제작 TIP**</mark>
 
@@ -303,7 +303,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 빠른 삽입 버튼으로, 해당 버튼을 선택하면 이미지 삽입, 동영상 삽입, 수평선 삽입 등 자주 사용하는 옵션기능을 빠르게 이용할 수 있어요.
 
-***
+
 
 &#x20;
 

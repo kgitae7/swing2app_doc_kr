@@ -4,7 +4,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 # 회원가입 양식 - 아이디 설정
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 앱 가입에 필요한 회원가입 양식 역시 운영자분이 대시보드에서 직접 설정하여 수정할 수 있는데요.
 
@@ -14,7 +14,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 회원가입 양식에서 아이디 형태를 설정하는 방법과, 앱 실행화면을 통해 아이디 입력 화면이 어떻게 변경되는지 매뉴얼로 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **회원가입 양식 페이지 이동하기**
 
@@ -32,7 +32,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 어떤 아이디로 회원가입을 받을지 운영자가 선택한 뒤 저장 해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. 일반 아이디 설정**</mark>
 
@@ -62,7 +62,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 로그인 화면에서도 가입된 일반 아이디로 로그인해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. 전화번호 아이디 설정**</mark>
 
@@ -140,7 +140,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 이때! 구매하신 SMS 발송 티켓 역시 인증번호 문자 메시지가 발송될 때마다 차감이 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**3. 이메일 아이디 설정**</mark>
 
@@ -198,7 +198,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 인증이 완료되면 다시 로그인 화면에서 가입된 이메일주소 입력하여 로그인해주시면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 이상으로 앱 회원가입 양식에서 다양한 아이디를 설정하여 앱을 운영하는 방법을 보여드렸어요.
 

@@ -10,7 +10,7 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 게시판에서 여러 게시물을 한번에 삭제하고자 할 때 유용하게 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/001.png)
 
@@ -22,7 +22,7 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 앱운영 페이지 → 게시물관리→ 게시판(게시물을 삭제하고자하는 게시판)으로 이동합니다.
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/002.png)
 
@@ -42,7 +42,7 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 &#x20;   선택된 게시물을 한번에 삭제할 수 있습니다.
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/003.png)
 
@@ -54,7 +54,7 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 </div>
 
-***
+
 
 <mark style="color:orange;">**–안내 사항–**</mark>​
 

@@ -12,7 +12,7 @@
 
 **= 회원가입에서 사용자에게 다른 정보를 받고자 할 경우, 관리자가 회원가입 양식 페이지에서 추가로 설정하여 적용할 수 있습니다.**
 
-***
+
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**정책관리 – 회원가입 양식 이동하기**</mark>
 
@@ -84,7 +84,7 @@
 
 상품 결제가 안되어 있으면 전화번호 선택이 안됩니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 회원가입 양식 설정하기**</mark>
 
@@ -150,7 +150,7 @@
 
 (ex : 이메일 정규식의 경우 @가 없으면 올바른 답이 아니도록 설정)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 회원가입 양식 항목별 앱 실행화면**</mark>
 

@@ -4,7 +4,7 @@ description: '게시물 링크 생성: 링크마법사에서 게시물 링크를
 
 # 게시물 링크 생성하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 게시물관리에서 링크 생성하기&#x20;
 
@@ -38,9 +38,9 @@ description: '게시물 링크 생성: 링크마법사에서 게시물 링크를
 
 해당 링크를 복사하여 이용해주세요.
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 어떻게 활용할 수 있나요?
 

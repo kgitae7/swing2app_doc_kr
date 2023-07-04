@@ -4,7 +4,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 # 쿠폰관리: 쿠폰만들기, 발행하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 \[쿠폰관리]는 관리자가 앱을 이용하는 회원들에게 쿠폰을 발송하고 관리하는 메뉴입니다.
 
@@ -18,7 +18,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 쿠폰 만들기
 
@@ -82,7 +82,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 쿠폰을 다 만들었다면! 아래에서 쿠폰을 사용자에게(앱 회원) 보내는 방법을 알려드릴게요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 쿠폰 발송하기
 
@@ -124,7 +124,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 7\)\[쿠폰발송하기] 버튼을 선택합니다.
 
-***
+
 
 ### <mark style="color:blue;">**2.앱 실행화면 - 쿠폰 발송된 화면**</mark>
 
@@ -228,7 +228,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3.** **쿠폰 사용처리 방법**
 
@@ -296,7 +296,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appoperation/appmanager-couponuse" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 쿠폰 관리 이용방법 정리
 
@@ -326,4 +326,3 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 
 
-***

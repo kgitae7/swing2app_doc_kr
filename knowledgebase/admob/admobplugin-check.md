@@ -12,7 +12,7 @@ description: 애드몹 광고 셋팅을 완료했는데 앱에서 광고가 안 
 
 매뉴얼에서 안내드리는 순서는 상관이 없습니다. 모든 내용들을 체크해주시기 바랍니다.
 
-***
+
 
 <figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 

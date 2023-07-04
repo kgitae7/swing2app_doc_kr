@@ -262,7 +262,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 >
 > 스윙투앱 문의게시판으로 문의 남겨주시면 새 버전으로 제작해드립니다.&#x20;
 
-***
+
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -444,7 +444,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 **\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능하다는 것!! 아시죠? ^^**
 
-***
+
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

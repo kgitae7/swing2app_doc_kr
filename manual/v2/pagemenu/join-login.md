@@ -12,7 +12,7 @@
 
 스윙 페이지에서 제공하는 회원가입, 로그인, 설정 페이지를 앱에 적용하는 방법과 앱 실행화면을 알려드릴게요.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 스윙 페이지: 회원가입**</mark>
 
@@ -54,7 +54,7 @@
 
 **☞**[**회원가입 양식 설정하기**](../../appmanage/service/signup.md)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**2. 스윙 페이지: 로그인**</mark>
 
@@ -152,7 +152,7 @@
 
 
 
-***
+
 
 <mark style="color:red;">**\*중요 안내**</mark>
 
@@ -174,4 +174,3 @@
 
 프로토타입 색상 변경에 따라 배경색 등은 수정가능하나 디자인 변경은 불가합니다.
 
-***

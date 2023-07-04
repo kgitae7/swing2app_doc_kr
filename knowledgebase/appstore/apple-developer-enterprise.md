@@ -1,6 +1,6 @@
 # Apple Developer Enterprise Program
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **Apple Developer Enterprise Program**
 
@@ -14,7 +14,7 @@
 
 내부 시스템을 이용하여 회사 내 직원들에게 비공개로 배포하여 이용할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">2.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**자격 요건**</mark>
 
@@ -32,7 +32,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 [**test-flight 이용방법 보러가기** ](appstore-testflight.md)
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">3.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 계정 멤버쉽 비용 (1년)**</mark>
 
@@ -42,7 +42,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 \-사내, 외부 모두 사용 시 : **$299 + $99 = $398**&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">4.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**엔터프라이즈 프로그램(Enterprise Program) 가입 신청방법**</mark>
 
@@ -108,7 +108,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 \*But 계정은 바로 사용할수 있는 것은 아니구요. 약 2주 후부터 엔터프라이즈에서 계정을 사용할 수 있어요.
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">5. 스윙투앱 신청방법</mark>
 
@@ -148,7 +148,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 공식 출시로 배포로 하는 것보다 앱 출시보다는 금방 되며, 거절 없이 거의 대부분은 승인이 되고 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">6.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**안내 사항**</mark>
 

@@ -284,11 +284,11 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 7\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4.** 앱제작 V2버전 이용시
 
-***
+
 
 {% tabs %}
 {% tab title="앱제작 V2버전 매뉴얼" %}
@@ -402,7 +402,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 이상으로 스윙샵 쇼핑몰 앱에 구성할 수 있는 앱 홈화면 스타일을 알려드렸어요.
 
