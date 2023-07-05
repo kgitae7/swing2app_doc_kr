@@ -386,3 +386,5 @@
 * [스토어 이용약관](terms/market-policy.md)
 * [스윙투앱 개인정보 처리방침](terms/privacy.md)
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
+* [플레이스토어 업로드 대행 약관](terms/playstore-policy.md)
+* [앱스토어 업로드 대행 약관](terms/appstore-policy.md)
