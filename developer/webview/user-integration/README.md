@@ -67,7 +67,7 @@ js 파일 삽입 요령
 
 회원 연동을 완료후에 푸시 발송 API를 이용하여 웹사이트 자체적으로 푸시를 발송 하실 수 있습니다.
 
-[\[푸시 발송 API 가이드\]](../server-side-api/push-api-notification.md)
+[\[푸시 발송 API 가이드\]](../../server-side-api/push-api-notification.md)
 
 
 

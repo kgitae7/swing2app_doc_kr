@@ -18,15 +18,15 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 ### 1.1 Wix Dashboard 이동 하기
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Wix 콘솔화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Wix 콘솔화면</p></figcaption></figure>
 
 ### 1.2 홈화면에 Embed HTML 요소 삽입하기
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
 ### 1.3 HTML 요소에 소스 삽입하기
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
 (1) 번 영역에 아래의 코드를 삽입하기
 
@@ -52,7 +52,7 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 ### 1.4 HTML 요소에 아이디를 부여하기
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
 (1) 생성한 HTML 요소에 ID 를 부여하기&#x20;
 
@@ -60,7 +60,7 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 ### 1.5 페이지 코드 삽입하기 ( 최종단계 )
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
 (1) Home 화면 클릭후 (2) 번 항목 소스 영역에 아래의 코드를 삽입
 
@@ -110,7 +110,7 @@ $w.onReady(function () {
 
 &#x20;     정상적으로 연동된 것입니다.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>스윙투앱 콘솔화면에서 Wix 회원 연동이 확인된 화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>스윙투앱 콘솔화면에서 Wix 회원 연동이 확인된 화면</p></figcaption></figure>
 
 
 

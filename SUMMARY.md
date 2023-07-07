@@ -376,9 +376,9 @@
   * [푸시 API를 이용하여 푸시 발송하기](developer/server-side-api/push-api-notification.md)
 * [웹뷰(웹뷰,푸시전용) 개발도구](developer/webview/README.md)
   * [웹뷰에서 구글 페이스북 로그인 구현하기](developer/webview/how-to-avoid-disallow-useragent.md)
-  * [웹사이트 회원 연동 가이드](developer/webview/user-integration.md)
-  * [Wix 웹사이트 회원 연동 가이드](developer/webview/wix.md)
-  * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
+  * [웹사이트 회원 연동 가이드](developer/webview/user-integration/README.md)
+    * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
+    * [Wix 웹사이트 회원 연동 가이드](developer/webview/user-integration/wix.md)
   * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
