@@ -50,7 +50,7 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 
 
-### 1.5 HTML 요소에 아이디를 부여하기
+### 1.4 HTML 요소에 아이디를 부여하기
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
@@ -58,7 +58,7 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 &#x20;   다음의 아이디로 반드시 부여해주세요 ID 값 swing2appLogin
 
-### 1.6 페이지 코드 삽입하기 ( 최종단계 )
+### 1.5 페이지 코드 삽입하기 ( 최종단계 )
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
@@ -102,7 +102,7 @@ $w.onReady(function () {
 
 
 
-### 1.7 회원연동 확인 작업
+### 1.6 회원연동 확인 작업
 
 &#x20;     연동 작업을 모두 진행하셨다면 앱으로 웹사이트를 실행후 스윙투앱 콘솔화면 접속 후에
 
