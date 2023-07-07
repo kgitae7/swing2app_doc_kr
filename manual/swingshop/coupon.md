@@ -186,7 +186,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 **​**
 
-<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
 <div align="left">
 

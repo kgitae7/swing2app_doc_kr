@@ -38,7 +38,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-&#x20; <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"><mark style="color:blue;">**기본형 이용권(월 납부 이용권)**</mark>
+&#x20; <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**기본형 이용권(월 납부 이용권)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%841.png)
 
@@ -74,7 +74,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:blue;">**웹뷰앱, 푸시앱에 적용 가능한 무제한 이용권**</mark>
+<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**웹뷰앱, 푸시앱에 적용 가능한 무제한 이용권**</mark>
 
 <figure><img src="../../.gitbook/assets/무제한상품.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:blue;">**패키지 상품**</mark>
+<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**패키지 상품**</mark>
 
 <figure><img src="../../.gitbook/assets/패키지상품.png" alt=""><figcaption></figcaption></figure>
 
@@ -128,7 +128,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**&#x20;
+<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**&#x20;
 
 플레이스토어 업로드 대행을 하지 않고, 직접 등록을 한다면 플레이스토어 업로드 티켓 구매를 하지 않아도 됩니다.
 

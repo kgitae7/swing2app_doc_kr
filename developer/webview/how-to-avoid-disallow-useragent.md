@@ -6,9 +6,9 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
 
 안드로이드 앱 개발 중 구글 및 페이스북과 같은 플랫폼의 로그인 기능을 웹뷰에서 사용하려는 경우, 일반적으로 보안 상의 이유로 인해 구글과 페이스북이 해당 기능을 차단하는 경우가 있습니다.  ( 아래와 같은 메시지를 발견했다면 해당 이유로 차단된 경우입니다. )
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="188"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Facebook Login 웹뷰에서 차단</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>Facebook Login 웹뷰에서 차단</p></figcaption></figure>
 
 이러한 차단은 앱 사용자의 개인 정보와 계정 보안을 보호하기 위한 조치로 이해해야 합니다. 이 글에서는 User Agent Disallow 이슈에 대해 자세히 알아보고, 이를 회피하기 위한 대안적인 접근 방식을 소개하겠습니다.
 
@@ -37,7 +37,7 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
 
     &#x20;     앱 제작 -> 고급 설정 -> 앱 제작 설정 에서 아래의 두개 값 변경
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>스윙투앱에서 UserAgent 변경방법 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="375"><figcaption><p>스윙투앱에서 UserAgent 변경방법 </p></figcaption></figure>
 
 &#x20;       (1) Android WebView UserAgent
 
@@ -65,7 +65,7 @@ login\_example.html 실행 파라미터중 customUrl 항목이 있는데 해당 
 
 \*custom url scheme 값은 앱 마다 고유값으로 설정하는 것을 권장드립니다.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure>
 
 
 

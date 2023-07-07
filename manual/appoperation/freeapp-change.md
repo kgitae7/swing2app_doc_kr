@@ -12,7 +12,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 
 
-<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **유료버전앱 → 무료버전 앱 전환 주의사항**
+<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> **유료버전앱 → 무료버전 앱 전환 주의사항**
 
 <mark style="color:green;">**1.유료버전앱 이용기간이 종료되어야 무료앱으로 전환할 수 있습니다.**</mark>
 

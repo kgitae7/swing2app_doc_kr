@@ -156,7 +156,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:blue;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
+<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
 
 <div align="left">
 
@@ -284,7 +284,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 ​
 
-<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:blue;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
+<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
 
 <div align="left">
 
