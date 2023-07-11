@@ -14,7 +14,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 상품 노출관리 페이지**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 상품 노출관리 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC.png)
 
@@ -22,7 +22,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품노출관리페이지- 메인페이지 콜렉션 선택**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품노출관리페이지- 메인페이지 콜렉션 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC2-1.png)
 
@@ -54,7 +54,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 등록완료**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 등록완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC3-1.png)
 
@@ -64,11 +64,43 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱제작에서 쇼핑몰 메인 페이지 적용하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱제작에서 쇼핑몰 메인 페이지 적용하기**
 
 <mark style="color:red;">★등록한 상품노출관리 내용은 \[쇼핑몰 메인] 페이지에서 보여집니다.</mark>&#x20;
 
 노출관리 페이지가 앱에서 보여지기 위해서는 **쇼핑몰 메인페이지**를 앱에 적용해야 합니다.
+
+
+
+### 1)앱제작 V3버전 이용시
+
+<figure><img src="../../.gitbook/assets/쇼핑몰메인1.png" alt=""><figcaption></figcaption></figure>
+
+앱제작 화면 이동
+
+1\)STEP3 페이지 단계로 이동합니다.
+
+2\)HOME 선택
+
+홈화면에 적용해도 되고, 메뉴로 추가해도 됩니다.
+
+메뉴로 추가할 경우 + 모양 버튼 선택하여 새 메뉴를 먼저 만들어주세요.&#x20;
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지]를 선택해주세요.&#x20;
+
+6\) ‘쇼핑몰 메인’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+### 2)앱제작 V2버전 이용시
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EB%A9%94%EC%9D%B81.png)
 
@@ -94,7 +126,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5. 앱 실행 화면**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5. 앱 실행 화면**
 
 **쇼핑몰 앱을 실행해서, 위에서 등록한 상품노출관리 페이지가 앱에서는 어떻게 보여지는지 확인해볼게요\~!**
 

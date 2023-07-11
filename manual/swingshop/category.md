@@ -14,7 +14,7 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 매뉴얼을 통해서 상품카테고리를 등록하는 방법을 확인해주세요.
 
-
+***
 
 **먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!**
 
@@ -26,7 +26,11 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 상품 카테고리 등록관리**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%93%B1%EB%A1%9D-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%93%B1%EB%A1%9D-1.png" alt="">
+
+</div>
 
 **\*상품을 등록 전, 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!**
 
@@ -36,7 +40,11 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 상품 카테고리 등록하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2_19.09.png" alt="">
+
+</div>
 
 상품카테고리 등록관리 페이지에 보이는
 
@@ -64,7 +72,11 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 카테고리 등록 완료**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3_19.09.png" alt="">
+
+</div>
 
 카테고리 등록이 완료되었습니다.
 
@@ -76,7 +88,11 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 움짤 이미지) 카테고리 등록방법 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_12\_11\_38\_32\_232-1.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_02_12_11_38_32_232-1.gif" alt="">
+
+</div>
 
 \*카테고리가 등록 된 후, 상품등록 메뉴로 이동해서 판매할 상품을 등록시켜주세요.
 
@@ -84,7 +100,11 @@ description: 상품 카테고리를 등록하는 방법 안내
 
 <mark style="color:blue;">**★만들어진 카테고리는 상품 등록시에  선택하여 적용할 수 있습니다. ↓**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC22019.11.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC22019.11.png" alt="">
+
+</div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 

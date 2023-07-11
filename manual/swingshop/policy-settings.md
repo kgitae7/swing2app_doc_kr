@@ -18,7 +18,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.** **정책 설정 메뉴 이동**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95.png" alt="">
+
+</div>
 
 스윙샵- 1)상점관리메뉴에서 2)정책설정 메뉴로 이동하면, 정책 설정페이지가 열립니다.
 
@@ -44,7 +48,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 교환 및 반품, 쇼핑몰 이용약관 정책**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%952.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%952.png" alt="">
+
+</div>
 
 정책은 스윙에서 기본 정책 내용으로 셋팅이 되어 있습니다.
 
@@ -56,7 +64,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 이용정책이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요\~!!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80.png" alt="">
+
+</div>
 
 정책은 상품 결재하기 화면의 하단에 **\[이용약관 및 정책보기]**를 선택하시면, 입력된 정책내용을 확인할 수 있구요.
 
@@ -68,7 +80,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 비회원 권한을 설정하는 방법을 알아보겠습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%953.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%953.png" alt="">
+
+</div>
 
 > 1.비회원 구매 : 회원가입을 하지 않은 사용자도 구매를 할 수 있게 할지 \[예, 아니오]에 체크해주세요.
 >
@@ -84,7 +100,11 @@ description: 스윙샵 상점정책-교환, 반품 정책, 이용약관 설정�
 
 비회원 권한설정이 앱에서는 어디서 보여지는지, 어떻게 보여지는지 확인해볼게요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95-%EB%B9%84%ED%9A%8C%EC%9B%90%EA%B6%8C%ED%95%9C.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8A%A4%EC%9C%99%EC%83%B5-%EC%A0%95%EC%B1%85%EC%84%A4%EC%A0%95-%EB%B9%84%ED%9A%8C%EC%9B%90%EA%B6%8C%ED%95%9C.png" alt="">
+
+</div>
 
 **비회원 권한 설정에서 비회원은 글 남기기, 리뷰, 구매가 모두 안되도록 설정했구요**.
 

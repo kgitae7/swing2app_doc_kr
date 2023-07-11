@@ -58,7 +58,11 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> 움짤 이미지로 보시면 더 쉽게 확인이 가능합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94\_2021\_02\_12\_11\_04\_11\_286.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_02_12_11_04_11_286.gif" alt="">
+
+</div>
 
 상세 이미지 바탕을 클릭하면 이미지를 첨부할 수 있도록 파일이 열려요.
 
@@ -74,7 +78,11 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 <mark style="color:blue;">**1)앱제작 V3버전 이용시**</mark>
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/쇼핑몰메인1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)앱제작 화면-STEP3 페이지 단계로 이동합니다.
 
@@ -100,7 +108,11 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 <mark style="color:blue;">**2)앱제작 V2버전 이용시**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EB%A9%94%EC%9D%B81.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%8A%A4%EC%9C%99%EC%83%B5%EB%A9%94%EC%9D%B81.png" alt="">
+
+</div>
 
 앱제작 → 페이지 메뉴 이동
 

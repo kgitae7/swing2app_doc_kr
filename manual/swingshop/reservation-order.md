@@ -14,7 +14,11 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **1. 예약주문관리 페이지**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8.png" alt="">
+
+</div>
 
 [스윙샵- \[예약주문관리\]](http://www.swing2app.co.kr/view/store\_order\_list\_by\_booking) 페이지로 이동합니다.
 
@@ -22,7 +26,11 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **2. 예약주문 리스트**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC2.png" alt="">
+
+</div>
 
 예약주문 관리 페이지에 오시면, 캘린더가 보입니다.
 
@@ -40,7 +48,11 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **3. 예약 주문 정보 보기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC3.png" alt="">
+
+</div>
 
 캘린더의 파란색 영역을 선택하면, 캘린더 아래로 주문 목록이 뜨구요.
 
@@ -52,7 +64,11 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **4. 주문 상태 변경**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC4.png" alt="">
+
+</div>
 
 **예약주문 상품은 \[주문정보] 창에서 \[주문상태]를 변경할 수 있어요.**
 
@@ -66,13 +82,17 @@ description: 스윙샵 – 예약주문관리에서 주문된 상품들의 목�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%A3%BC%EB%AC%B8%EA%B4%80%EB%A6%AC5.png" alt="">
+
+</div>
 
 확인을 누르면, 예약주문 상품의 상태가 **\[환불요청]**으로 변경된 것을 확인할 수 있습니다.
 
 이렇게 상태가 변경되면, 사용자도 **\[마이페이지]** 등에서 상품의 상태를 확인할 수 있습니다.
 
-
+***
 
 이상으로 앱제작 스윙에서 예약주문관리 메뉴에 대한 이용방법을 알려드렸습니다.
 

@@ -12,27 +12,35 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 스윙페이지에서 이용할 수 있으며, 스윙샵 이용시 해당 페이지를 함께 적용할 수 있습니다.&#x20;
 
-
+***
 
 <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="" width="375">
 
 </div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.  기본정보설정**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.  기본정보설정**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EA%B4%80%EB%A6%AC-3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EA%B4%80%EB%A6%AC-3.png" alt="">
+
+</div>
 
 스윙샵 [1)상점관리 메뉴 – 2)기본정보설정](http://www.swing2app.co.kr/view/store\_info\_basic\_setting) 메뉴로 이동합니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B41.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B41.png" alt="">
+
+</div>
 
 1\. 상점 이름: 쇼핑몰 이름을 입력합니다.
 
@@ -46,7 +54,11 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B42.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B42.png" alt="">
+
+</div>
 
 6\. 상점 상세 이미지 : 쇼핑몰 메인 화면에 들어갈 이미지를 등록해주세요.
 
@@ -70,7 +82,11 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B43.png)
+<div align="center">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B43.png" alt="">
+
+</div>
 
 11\. 상점대표이미지: 대표이미지는 쇼핑몰 정보 페이지의 메인 아이콘 이미지로 보여집니다.
 
@@ -84,9 +100,11 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 쇼핑몰 정보 메뉴 적용하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 쇼핑몰 정보 메뉴 적용하기**
 
-#### **-앱제작 V3 버전 이용시 적용방법**
+
+
+### **1.앱제작 V3 버전 이용시 적용방법**
 
 <figure><img src="../../.gitbook/assets/쇼핑몰정보-적용.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,7 +126,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 
 
-#### **-앱제작 V2버전 이용시 적용방법**
+### **2.앱제작 V2버전 이용시 적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%87%BC%ED%95%91%EB%AA%B0%EC%A0%95%EB%B3%B4.png)
 
@@ -130,11 +148,11 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱 실행화면**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱 실행화면**
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="" width="375">
 
 </div>
 
@@ -143,3 +161,4 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 위에 기본정보설정에서 입력한 내용들이 정보 설정 화면에 보여집니다.&#x20;
 
 상점 대표 이미지, 상점 이름, 고객센터 정보, 운영시간, 상점 소개말 등이 표시됩니다.&#x20;
+
