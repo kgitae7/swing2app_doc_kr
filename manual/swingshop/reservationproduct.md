@@ -4,9 +4,11 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 # 상품등록-예약시스템 날짜 예약상품 등록
 
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 예약시스템: 날짜 예약상은 호텔, 캠핑장, 팬션등의 숙박시설 상품을 판매할 수 있는 시스템이에요.&#x20;
 
-그 외에 시간 예약이 필요한 업체 -헤어샵, 네일샵, 피부과 등은 예약시스템(날짜+시간) 상품을 이용할 수 있습니다. &#x20;
+그 외에 시간 예약이 필요한 업체 - 헤어샵, 네일샵, 피부과 등은 예약시스템(날짜+시간) 상품을 이용할 수 있습니다. &#x20;
 
 예약시스템은 각 날짜별 원하는 날, 시간, 가격 등을 설정할 수 있구요.
 
@@ -26,7 +28,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 스윙샵 신청 후 상품 카테고리 등록**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
 먼저 스윙샵을 신청해주세요. 스윙샵이 신청되어야 메뉴를 이용할 수 있어요!
 
@@ -66,17 +68,25 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 예약시스템 상품 등록하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 예약시스템 상품 등록하기**
 
 이제 카테고리 등록이 끝났다면! 본격적으로 예약상품을 등록해볼게요&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_19.09.png" alt="">
+
+</div>
 
 스윙샵 → 상품관리 → 상품등록 화면으로 이동해주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2_19.09.png" alt="">
+
+</div>
 
 1\. 상품유형: 예약시스템을 선택합니다.
 
@@ -106,7 +116,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 \*위에서 알려드린 것처럼 상품카테고리는 먼저 만들어주셔야 상품등록에서 카테고리를 선택할 수 있으니! 잊지말고 카테고리를 먼저 만들어주세요^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%A4%841.png)
+
 
 <mark style="color:blue;">**★ 시간 예약 설정하기**</mark>
 
@@ -212,7 +222,59 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP3. 앱에 예약시스템(상품구매)페이지 적용하기**
+## &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP3. 앱에 예약시스템(상품구매)페이지 적용하기**
+
+
+
+### **1.앱제작  V3 버전 이용시**
+
+<figure><img src="../../.gitbook/assets/예약하기.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지]를 선택해주세요.&#x20;
+
+6\)예약상품 예약하기(기간설정) 확인 후, \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+<mark style="color:red;">**+ 추가**</mark>
+
+사용자들이 예약상품 구매 후 구매한 목록이나 결제 현황을 확인할 수 있는 페이지도 있어야 하겠죠?
+
+스윙페이지 메뉴에 보시면 “마이페이지” 라고 있어요.
+
+마이페이지를 앱 메뉴로 적용해주세요!
+
+<figure><img src="../../.gitbook/assets/마이페이지.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 - STEP3 페이지 선택
+
+2\)메뉴 선택 – 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름 입력
+
+4\)페이지 디자인에서 \[쇼핑몰 기능] 선택
+
+5\)\[페이지]를 선택해주세요.&#x20;
+
+6\)마이페이지 확인 후, \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+### **2.앱제작  V2 버전 이용시**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EA%B8%B0%EA%B0%84%EC%98%88%EC%95%BD.png)
 
@@ -236,7 +298,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 7\. \[저장] 버튼 누르면 앱에 반영됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+
 
 <mark style="color:red;">**+ 추가**</mark>
 
@@ -278,7 +340,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 예약시스템 실행하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 예약시스템 실행하기**
 
 **예약시스템이 적용된 앱을 실행해서 확인해볼게요!**
 
