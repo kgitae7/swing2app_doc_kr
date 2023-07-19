@@ -6,7 +6,9 @@
 
 \*애플 앱스토어 앱 설치수 확인은 아래 매뉴얼을 확인해주시기 바랍니다.
 
-**☞** [**앱스토어 앱설치수 확인방법 매뉴얼**](../appstore/appstore-installcount.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/appstore-installcount" %}
+
+
 
 ***
 
