@@ -30,7 +30,7 @@ SMS발송권은 총 1,000건이 제공이 되요.
 
 \-SMS(문자메시지)를 보낼 때에도 보내는 메시지 갯수에 따라 차감이 됩니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 SMS 발송 티켓 구매하기**</mark>
 
@@ -80,13 +80,25 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면: 회원가입시 전화번호 인증하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D9-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D9-1.png" alt="" width="375">
+
+</div>
 
 전화번호 아이디로 설정한 경우 앱 실행시 회원가입 창에서 전화번호 입력 후 인증번호를 발송하게 되어 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%852.png)
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%853.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%852.png" alt="" width="375">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%853.png" alt="" width="375">
+
+</div>
 
 인증번호 발송을 누르면, 스윙에서 인증번호를 발송해요.&#x20;
 
@@ -96,7 +108,11 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**재로그인시 전화번호 인증**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%854.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%854.png" alt="" width="375">
+
+</div>
 
 로그인이 된 사용자는 로그아웃 하지 않는 이상 로그인 상태가 유지가 되요!
 
@@ -104,7 +120,7 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 <mark style="color:red;">**★회원가입 뿐만 아니라 재로그인시 필요한 전화번호 인증 발송을 할때마다 SMS 건수가 차감이 됩니다.**</mark>
 
-
+***
 
 ### <mark style="color:blue;">**STEP.2 아이디형태: 전화번호 설정하기**</mark>
 
@@ -114,21 +130,33 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 그래야만 앱 회원들의 번호를 알 수 있겠죠?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A44.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A44.png" alt="">
+
+</div>
 
 티켓 구매를 하셨다면 다시 [**서비스관리 → 정책관리 → 회원가입 양식 설정**](http://www.swing2app.co.kr/view/app\_policy) 페이지로 이동합니다.&#x20;
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%853\_18.08.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%853_18.08.png" alt="">
+
+</div>
 
 아이디형태: 아이디를 **‘전화번호’**로 선택하고 정책설정하기 버튼을 누르면 완료됩니다!
 
-
+***
 
 ### <mark style="color:blue;">**STEP. 3 SMS(문자메시지) 발송하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A45.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A45.png" alt="">
+
+</div>
 
 SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
@@ -168,7 +196,11 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**핸드폰 실행화면 – SMS 발송 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/SMS5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/SMS5.png" alt="" width="375">
+
+</div>
 
 수신자의 핸드폰으로 문자 메시지가 발송이 되었습니다.
 
@@ -178,7 +210,11 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**회원 전화번호는 어디서 확인할 수 있나요?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/sms%ED%8B%B0%EC%BC%93%EC%82%AC%EC%9A%A92.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/sms%ED%8B%B0%EC%BC%93%EC%82%AC%EC%9A%A92.png" alt="">
+
+</div>
 
 **앱운영 → 푸시&회원 → 회원조회 페이지로 이동해주세요.**&#x20;
 
@@ -190,6 +226,10 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 [**앱운영 → 결제→ 결제 상품 이용현황**](http://www.swing2app.co.kr/view/payment\_use\_stat\_view) **페이지로 이동해주세요.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-2.png" alt="">
+
+</div>
 
 SMS 발송 서비스 이용중 항목에서 ‘전체 제공 수량’ , ‘잔여수량을 확인할 수 있습니다.
