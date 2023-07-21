@@ -10,7 +10,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/이미지-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/이미지-4 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -164,31 +164,41 @@ V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요.&#x20;
 
 
 
-<mark style="color:blue;">**1.권한 지정 유형별 옵션**</mark>
+<div align="left">
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B6%8C%ED%95%9C7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/이미지-4.png" alt=""><figcaption></figcaption></figure>
 
-1\)선택 등급 이상 자동 권한 부여: 선택한 등급 포함 그 이상의 등급 이용자 모두 이용 가능합니다.&#x20;
+</div>
+
+### <mark style="color:blue;">**1.권한 지정 유형별 옵션**</mark>
+
+**1)선택 등급 이상 자동 권한 부여**
+
+선택한 등급 포함 그 이상의 등급 이용자 모두 이용 가능합니다.&#x20;
 
 예시)3등급 그룹 설정시 해당 등급을 포함하여 등급이 더 높은 2등급, 1등급 사용자가 모두 접근 가능합니다.&#x20;
 
-2\)단일 권한 그룹 지정: 특정 등급의 이용자만 접근 가능하도록 설정할 수 있습니다.&#x20;
+**2)단일 권한 그룹 지정**
+
+특정 등급의 이용자만 접근 가능하도록 설정할 수 있습니다.&#x20;
 
 예시)글 목록 보기를 “3등급” 그룹으로 설정시, 등급이 더 높은 2등급, 1등급 사용자도 접근이 불가합니다.&#x20;
 
 지정된 해당 그룹만 이용하도록 설정합니다.&#x20;
 
-3\)다중 지정 권한 설정: 특정 그룹이나, 특정 사용자를 다중으로 지정할 수 있습니다. &#x20;
+**3)다중 지정 권한 설정**
+
+특정 그룹이나, 특정 사용자를 다중으로 지정할 수 있습니다. &#x20;
 
 
 
-<mark style="color:blue;">**2.게시판 권한별 옵션**</mark>
+### <mark style="color:blue;">**2.게시판 권한별 옵션**</mark>
 
 글쓰기 권한, 글상세보기 권한, 목록 보기 권한으로 제공됩니다.
 
 &#x20;
 
-<mark style="color:blue;">**3.권한이 없는 경우 노출 메시지 설정**</mark>
+### <mark style="color:blue;">**3.권한이 없는 경우 노출 메시지 설정**</mark>
 
 권한이 없는 사용자가 게시판 접근 시, 안내 메시지 창을 띄울 수 있는 기능입니다.
 
@@ -219,6 +229,18 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 </div>
 
 &#x20;
+
+
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/권한7.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+
 
 <mark style="color:blue;">**4.앱 이용 그룹**</mark>
 
