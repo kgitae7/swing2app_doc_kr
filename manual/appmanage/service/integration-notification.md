@@ -1,9 +1,10 @@
+---
+description: 서비스관리- 통합 알림 설정 이용방법
+---
+
 # 통합 알림 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC%EC%A0%9C%EB%AA%A9.png)
-
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**통합 알림 설정 이란?**</mark>\
-
+<mark style="color:blue;">**통합 알림 설정 이란?**</mark>
 
 \[통합 알림] 이란 앱 운영에 관련된 푸시 알림을 관리하고, 설정할 수 있는 기능이구요.
 
@@ -13,7 +14,9 @@
 
 통합 알림은 별도로 신청을 하지 않아도 사이트 알림을 받는 것으로 기본 셋팅되어 제공됩니다.
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:purple;">**통합 알림 설정의 장점 및 활용 방법**</mark>
+
+
+<mark style="color:blue;">**통합 알림 설정의 장점 및 활용 방법**</mark>
 
 1\)앱 푸시 알림 뿐만 아니라 웹, 이메일, SMS를 선택적으로 사용할 수 있다는 면에서 다양한 매체로 알림을 활용할 수 있어요.
 
@@ -27,9 +30,11 @@
 
 Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유념해주세요.
 
+***
 
 
-<mark style="color:blue;">**1. 통합 알림 설정 이용방법**</mark>
+
+## **1. 통합 알림 설정 이용방법**
 
 통합 알림은 **사용자가 별도로 신청을 하지 않아도 되구요.**
 
@@ -37,13 +42,15 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 따라서 웹에서도 다양한 알림을 받을 수가 있구요.
 
-<mark style="color:purple;">**+각 항목별로 알림을 다르게 받고 싶다면 =  통합 알림 페이지로 이동하여 각 항목을 다시 설정해주시면 되구요.**</mark>
+<mark style="color:orange;">**+각 항목별로 알림을 다르게 받고 싶다면 =  통합 알림 페이지로 이동하여 각 항목을 다시 설정해주시면 되구요.**</mark>
 
-<mark style="color:purple;">**+웹 알림을 모두 받고 싶지 않다면,  홈페이지 왼쪽 하단의 종 모양 아이콘을 선택해서 \[구독 취소]를 선택해주시면 됩니다.**</mark>
+<mark style="color:orange;">**+웹 알림을 모두 받고 싶지 않다면,  홈페이지 왼쪽 하단의 종 모양 아이콘을 선택해서 \[구독 취소]를 선택해주시면 됩니다.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC1.png)
 
-스윙 홈페이지 접속 후 앱운영 페이지에서 → 서비스관리 → **\[통합 알림 설정]** 으로 이동합니다.\
+스윙 홈페이지 접속 후 앱운영 페이지에서 → 서비스관리 → **\[통합 알림 설정]** 으로 이동합니다.
+
+\
 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/2019-%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC%EC%84%A4%EC%A0%95.png)
@@ -54,7 +61,9 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 통합 알림 설정 페이지에는**앱 운영 알림 리스트, 쇼핑몰 알림, 수신 이메일 및 전화번호 메뉴**를 제공하고 있습니다.
 
-**1)앱 운영 알림**
+
+
+### <mark style="color:blue;">**1)앱 운영 알림**</mark>
 
 앱 운영에 관련된 기능들에 대한 알림을 받을 수 있는데요.
 
@@ -64,13 +73,15 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 그리고 ‘관리자 답변 알림’이란 스윙 문의게시판에 문의글을 남겼을 때 스윙에서 답변을 남기면 알림으로 받을 수 있습니다.
 
-**2)수신 이메일 및 전화 번호**
+
+
+### <mark style="color:blue;">**2)수신 이메일 및 전화 번호**</mark>
 
 알림을 받을 이메일주소를 입력하거나, SMS발송을 선택한 경우 전화번호를 입력할 수 있습니다.
 
 
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**통합 알림 종류**</mark>
+### <mark style="color:blue;">**3)통합 알림 종류**</mark>
 
 1\)웹: 웹사이트 PC에서 알림창이 뜹니다. 스윙홈페이지 로그인 되어 있을 경우 홈페이지 위에 알림이 뜹니다.
 
@@ -80,9 +91,17 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 4\) SMS : 문자 메시지로 알림을 받을 수 있습니다. **\* SMS이용권을 구매해야 이용이 가능합니다.**
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:purple;">**핸드폰으로 발송된 알림 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/2019-%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC%EC%84%A4%EC%A0%952.png)
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## **2.핸드폰으로 발송된 알림 화면**
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/2019-%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC%EC%84%A4%EC%A0%952.png" alt="">
+
+</div>
 
 **사용자가 게시물에 댓글을 입력하면, 앱 푸시 알림이 들어오구요.**
 
@@ -96,9 +115,13 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 
 
-<mark style="color:orange;">**1)쇼핑몰 구매 푸시 알림**</mark>
+### <mark style="color:blue;">**1)쇼핑몰 구매 푸시 알림**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png" alt="">
+
+</div>
 
 쇼핑몰 알림도 통합알림 설정이 가능하죠!
 
@@ -106,17 +129,25 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 
 
-<mark style="color:orange;">**2)쇼핑몰 구매 이메일 알림**</mark>
+### <mark style="color:blue;">**2)쇼핑몰 구매 이메일 알림**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png)
+<div align="left">
 
-**이메일 알림도 체크해놓으셨다면, 푸시 알림처럼 관리자 이메일로도 구매완료 알림이 들어옵니다.**
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png" alt="">
 
+</div>
 
+이메일 알림도 체크해놓으셨다면, 푸시 알림처럼 관리자 이메일로도 구매완료 알림이 들어옵니다.
 
-<mark style="color:blue;">**2. 웹(PC) 알림창**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/cf72e4f1c0c3d103a855b3797e449b20.png)
+## **3. 웹(PC) 알림창**
+
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/cf72e4f1c0c3d103a855b3797e449b20.png" alt="">
+
+</div>
 
 웹 알림을 받는다고 체크할 경우, **항목에 표시된 기능들이 실행될 때마다 PC 알림으로 푸시 알림이 발송됩니다.**
 
@@ -128,7 +159,11 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC-20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%86%B5%ED%95%A9%EC%95%8C%EB%A6%BC-20.06.png" alt="">
+
+</div>
 
 쇼핑몰 알림은 – 구매, 환불, 상품 문의건에 대해서 웹 알림이 들어옵니다.
 
@@ -136,11 +171,17 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 \*무통장 입금 확인건은 들어오지 않아요\~!
 
+***
 
 
-<mark style="color:blue;">**3. 사이트 알림 관리**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/da7fc2b52d83b9a5bc41a047718ac250.png)
+## **4. 사이트 알림 관리**
+
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/da7fc2b52d83b9a5bc41a047718ac250.png" alt="">
+
+</div>
 
 통합 알림은 별도로 신청을 하지 않아도 모든 사용자에게 사이트 알림을 받는 것으로 기본 셋팅되어 제공됩니다.
 
@@ -149,11 +190,13 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 알림을 받는 것을 원치 않으시면 \[구독 취소]를 선택해주시면 됩니다. **-크롬에서만 확인 가능**\
 
 
+***
 
 
-<mark style="color:red;">**★ 안내사항**</mark>\
 
+## **5. 안내사항**
 
+{% hint style="danger" %}
 1\) SMS는 문자 발송비용이 들어가는 기능이기 때문에 스윙에서 제공하는 SMS 발송티켓 상품을 구매해야 이용할 수 있어요.
 
 따라서 상품을 구매하기 전에는 선택이 되지 않도록 막아놓았습니다.
@@ -169,3 +212,5 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 통합 알림은 알림을 받도록 기본 셋팅이 되어서 제공되오니 알림을 받지를 않길 원한다면 꼭 수정해서 사용해주세요.
 
 5\) 웹알림 서비스는 인터넷 환경 **크롬(Chrome**) 에서만 제공됩니다.
+{% endhint %}
+

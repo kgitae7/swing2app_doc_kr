@@ -1,6 +1,12 @@
+---
+description: SMS 발송 이용방법- 전화번호 아이디, 문자 보내기
+---
+
 # 1,000건 SMS 발송 티켓 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/SMS%EC%A0%9C%EB%AA%BB.png)
+
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 **스윙유료상품)1,000건 SMS 발송 티켓 이용방법**
 
@@ -54,7 +60,11 @@ SMS발송권은 총 1,000건이 제공이 되요.
 
 <mark style="color:red;">**★ 중요!!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A42\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A42_20.06.png" alt="">
+
+</div>
 
 SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 \[상품 내용 상세보기] 버튼을 선택해서 상품 설명을 꼭 확인해주세요.
 
@@ -62,7 +72,11 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%855\_18.08.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%855_18.08.png" alt="">
+
+</div>
 
 [**\[SMS 메시지 상품 이용 정책\]**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=384\&notice\_type=paymentNotice)
 
@@ -70,7 +84,11 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**1,000건 SMS발송 티켓 구매 완료**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%852\_18.08.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%852_18.08.png" alt="">
+
+</div>
 
 **티켓 구매를 하셨다면 다시 **<mark style="color:blue;">**서비스관리 → 정책관리 → 회원가입 양식 설정**</mark>** 페이지로 오셔서 아이디를 ‘전화번호’로 선택하고 정책설정하기 버튼을 누르면 완료됩니다!!**
 
