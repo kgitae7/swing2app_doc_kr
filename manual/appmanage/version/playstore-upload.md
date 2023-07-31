@@ -80,7 +80,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 스윙 유료앱 이용권, 플레이스토어 업로드티켓을 모두 구매 완료하구요.
 
-플레이스토어 업로드티켓(1회 10,000원)은 [**\[이용권 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/shop\_list)에서 구매 가능합니다.
+플레이스토어 업로드티켓(1회 10,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)에서 구매 가능합니다.
 
 \*구매가 완료되었다면, [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
 
@@ -302,7 +302,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 띠라서 업로드 신청시 반드시 해당 내용 유념해주세요\~^^
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
