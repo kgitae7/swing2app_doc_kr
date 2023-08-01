@@ -10,7 +10,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 해당 매뉴얼에서는 디지털제품 – 영상 및 파일 등록방법 및 앱 적용방법 등을 알려드리겠습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
@@ -50,7 +50,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 디지털제품 \[영상 및 파일 판매] 선택**
 
@@ -150,7 +150,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 상품 카테고리 적용하기**
 
@@ -212,7 +212,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 디지털-영상 파일 판매 앱**
 

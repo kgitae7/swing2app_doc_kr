@@ -36,7 +36,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 4\) 안드로이드폰 기반 스토어이기 때문에 아이폰은 이용할 수 없습니다. (아이폰은 앱스토어에만 출시 가능)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**원스토어 개발자센터 접속**</mark>
 
@@ -50,7 +50,7 @@ description: 원스토어에 앱을 등록하고 출시하는 방법
 
 로그인 후 상단 메뉴 <mark style="color:blue;">**\[APPS]**</mark>를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 신규 상품 등록
 

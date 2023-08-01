@@ -6,7 +6,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 **애드몹 가입 방법, 애드몹 광고 단위 아이디를 만드는 방법**
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**애드몹이란?**</mark>
 

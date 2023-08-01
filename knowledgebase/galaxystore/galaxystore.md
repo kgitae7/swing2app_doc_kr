@@ -4,7 +4,7 @@ description: 삼성 갤럭시 스토어에 앱을 등록하고 출시하는 방�
 
 # 갤럭시스토어 앱 등록 및 출시
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 갤럭시 스토어는 삼성에서 운영하는 안드로이드폰 전용 앱 스토어입니다.
 
@@ -26,7 +26,7 @@ description: 삼성 갤럭시 스토어에 앱을 등록하고 출시하는 방�
 
 회원가입이 완료되면 메인 페이지 오른쪽 상단의 \[신규 앱등록] 버튼을 선택해서 앱등록을 진행합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 신규앱 등록
 
@@ -38,7 +38,7 @@ description: 삼성 갤럭시 스토어에 앱을 등록하고 출시하는 방�
 
 3.기본 언어(스토어에서 보여지는 언어) 선택 후 다음 버튼 선택
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP2. 앱 정보 등록
 
@@ -112,7 +112,7 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 바이너리
 
@@ -162,7 +162,7 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 7\. \[저장] 버튼을 선택하면 바이너리 항목도 등록이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 국가/지역&가격
 
@@ -196,7 +196,7 @@ Exclusives 는 선택하지 않아도 됩니다. 해당되는 분들만 선택�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/%EA%B0%A4%EB%9F%AD%EC%8B%9C16.png)
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP5. 배포관리
 
@@ -232,7 +232,7 @@ In App Purchas 페이지는 앱 내에 인앱 상품이 있을 경우 등록하�
 
 역시 필수 입력 페이지가 아니므로 넘어가도 됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP6. 애플리케이션 제출하기
 
@@ -246,7 +246,7 @@ In App Purchas 페이지는 앱 내에 인앱 상품이 있을 경우 등록하�
 
 3.애플리케이션 제출 메시지: “예” 체크
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png)STEP7. 앱 심사→ 등록완료
 

@@ -4,7 +4,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 # 푸시앱 매뉴얼
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **푸시앱이란?**
 
@@ -140,7 +140,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 \*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
 
@@ -188,7 +188,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP2 디자인
 
@@ -280,7 +280,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 앱 업데이트(앱재제작)을 하지 않아도 됩니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
 
@@ -356,7 +356,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 제작은 별도 비용이 없이 무료로 이용이 가능합니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
 
@@ -414,7 +414,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 유료버전 전환은 스윙투앱 유료앱 이용권을 구매해주시면 됩니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP6 이용권 및 티켓 구매**
 
@@ -626,7 +626,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP7 스토어 업로드 신청**
 
@@ -652,7 +652,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 {% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP8 스토어 출시 완료 (심사 후 출시)**
 

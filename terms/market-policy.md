@@ -4,7 +4,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 # 스토어 이용약관
 
-<figure><img src="../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **앱스토어, 플레이스토어 업로드 준수사항**
 
@@ -48,7 +48,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 11.플레이스토어, 앱스토어 심사 기간은 평균 7일 이내 소요됩니다.
 
-<figure><img src="../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **구글 플레이스토어 이용정책**&#x20;
 
@@ -212,7 +212,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 기존 사용자분들 역시 해당 정책 변경일에 맞춰 앱에 모바일 전자결제(페이앱, 네이버페이 등)을 제거하고 인앱으로 모두 변경하셔야 합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 앱스토어 이용 정책
 

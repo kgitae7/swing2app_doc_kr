@@ -10,7 +10,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 스윙샵 이용시 기본으 제공되는 쇼핑몰 페이지로 적용 하셔도 되고, 사용자 페이지를 이용해서 다양한 방법으로 응용하실 수 있습니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 쇼핑몰 메인 페이지 적용**
 
@@ -54,7 +54,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 쇼핑몰 정보 페이지 적용**
 
@@ -96,7 +96,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 사용자 페이지 이용하기**
 

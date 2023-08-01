@@ -4,7 +4,7 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 # 게시판 - 파일 첨부하기 (관리자용)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**파일첨부 안내사항**</mark>
@@ -76,7 +76,7 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 서비스관리 → 게시물관리에서 파일을 등록할 게시판을 선택해주세요.&#x20;
 
@@ -156,7 +156,7 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 파일 위치는 수정이 불가하기 때문에 <mark style="color:red;">짧은 글 작성, 사용자들에게 파일 다운만 목적으로 하는 글에 적합합니다.</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.게시판 에디터 – 파일 업로드 버튼 선택하기
 

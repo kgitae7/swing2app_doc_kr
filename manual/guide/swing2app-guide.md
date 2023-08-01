@@ -154,7 +154,7 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 
 **스윙투앱 앱제작 및 앱운영 이용방법 TIP을 확인해주세요**  [**\[이용방법 TIP안내\]**](https://documentation.swing2app.co.kr/manual/guide/appproduction-tip)
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱은 사용자가 직접 앱을 제작하고 운영하는 최초의 앱 에디터 서비스입니다.
 

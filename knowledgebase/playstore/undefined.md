@@ -36,7 +36,7 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 '액세스 권한' 메뉴가 정상적으로 입력되어 있지 않을 경우 앱이 플레이스토어에서 삭제될 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **1. 앱 콘텐츠 메뉴 - 앱 액세스 권한**
 
@@ -52,7 +52,7 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 \*신규로 앱을 출시하는 분들은 프로세스 단계별로 입력 후 이동해주시면 됩니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **2. 앱 액세스 권한 입력**
 
@@ -80,7 +80,7 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **3. 앱 액세스 권한 : 안내 추가**
 
@@ -114,7 +114,7 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **4. 앱 액세스 권한 입력완료**
 

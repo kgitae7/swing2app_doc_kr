@@ -4,7 +4,7 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 # 게시판 - 동영상 등록하기(영상 등록방법)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 – 게시물 동영상 등록하는 방법**
 

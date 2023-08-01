@@ -1,6 +1,6 @@
 # 스윙투앱 업데이트 히스토리
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **Swing Update History**
 

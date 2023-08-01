@@ -24,7 +24,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 2\)앱 적용: 앱제작 페이지 → 페이지메뉴 → 홈화면 → 스윙 페이지 → 쇼핑몰메인 페이지 적용후 저장&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 스윙샵 기본정보설정**
 
@@ -68,7 +68,7 @@ description: 쇼핑몰 메인페이지 - 상단 이미지 슬라이드 방법
 
 Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 쇼핑몰 메인 페이지 앱에 적용하기**
 
@@ -130,7 +130,7 @@ Shift키를 누르면 여러장의 이미지를 한번에 선택해서 등록할
 
 7\) \[저장]버튼 앱 적용 완료됩니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면 – 슬라이드 확인하기**
 

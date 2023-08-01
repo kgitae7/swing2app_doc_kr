@@ -26,7 +26,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**팝업 스타일**</mark>
 
@@ -48,7 +48,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 팝업 4) 총 9개의 분할 이미지 등록, 하단 이미지 선택시 상단에 이미지가 확대되어 보이는 스타일
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **1. 팝업관리 페이지 이동**
 
@@ -56,7 +56,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 앱운영 페이지 →[ 서비스관리 → 팝업관리](http://www.swing2app.co.kr/view/new\_popup) 메뉴 이동
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 팝업 적용하기**
 
@@ -112,7 +112,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 팝업에 적용시킨 이미지를 선택하면, 연동된 블로그 페이지로 이동합니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면)팝업 스타일**
 

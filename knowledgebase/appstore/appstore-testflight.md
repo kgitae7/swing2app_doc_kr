@@ -4,7 +4,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 # 앱스토어 test-flight 앱출시 방법
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 앱스토어는 회사 내부용, 직원들만 쓰는 사내 어플에 대해서 공식 출시를 승인하지 않고 있습니다.
 
@@ -14,7 +14,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 <mark style="color:orange;">이때 가능한 방법은 앱스토어에 공식 출시를 하지 않고 test-flight를 이용하여 추가된 사용자들만 앱을 이용하게끔 배포할 수 있습니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 > ## **test-flight 란?**
 
@@ -82,7 +82,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 공식 출시로 배포로 하는 것보다 앱 출시보다는 금방 되며, 거절 없이 거의 대부분은 승인이 되고 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 주의사항&#x20;
 
@@ -112,7 +112,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 **test-flight 관련 문의는 문의메일:help@swing2app.co.kr  남겨주시면 안내 도와드리겠습니다.**&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. TestFlight 출시 후 앱 설치 방법
 
@@ -172,7 +172,7 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 \[열기] 버튼을 눌러서 앱을 실행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4. 안내사항
 

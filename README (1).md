@@ -4,13 +4,13 @@ description: 2023년 7월 3주차 스윙투앱 기능 업데이트
 
 # 스윙투앱 업데이트
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿**\[업데이트 내용]**
 
 #### 앱스토어 리뷰 관리 페이지 오픈
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱스토어 리뷰 관리 페이지 오픈**
 
@@ -102,7 +102,7 @@ description: 2023년 7월 3주차 스윙투앱 기능 업데이트
 4\)평점 정보는 모든 히스토리를 다 불러오지는 못하고 최근 100건에 대해서만 표시됩니다.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 
 

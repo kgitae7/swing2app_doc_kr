@@ -4,7 +4,7 @@ description: 스윙투앱 서비스란?
 
 # 스윙투앱
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **스윙투앱이란?**
 

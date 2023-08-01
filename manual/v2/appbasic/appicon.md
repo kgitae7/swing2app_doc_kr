@@ -4,7 +4,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 # 앱아이콘 이미지 제작 가이드
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **1. 앱 아이콘이란?**
 
@@ -24,7 +24,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 사용자분들도 자신만의 앱 아이콘 이미지를 만들어 주면 됩니다\~!
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 앱 아이콘 제작 가이드**
 
@@ -64,7 +64,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 4\) **앱 아이콘은 미리 사용자가 자신의 앱의 스타일, 브랜드, 로고 등을 생각하여 별도 디자인 제작을 해서 넣어주셔야 해요.**
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **3. 앱 아이콘 디자인 가이드**
 
@@ -93,7 +93,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 **\*그리고 위에서도 말씀드렸듯이 반드시 이미지 디자인 전문 편집도구 프로그램을 이용해주시구요\~!**
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **4. 앱 아이콘 적용하기**
 
@@ -140,7 +140,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 이미지 편집도구 창에서 임의로 이미지를 자르거나 사이즈를 축소시킬 경우 폰에서 퀄리티가 떨어져 보일 수 있어요
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) **5. 안드로이드폰과 아이폰에 앱 아이콘 스타일은 다릅니다.**
 

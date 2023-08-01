@@ -4,7 +4,7 @@ description: 앱스토어 API 키 등록하기
 
 # 앱스토어 API  인증서 등록하기
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱스토어 API 인증서 등록이란?**
 
@@ -16,7 +16,7 @@ description: 앱스토어 API 키 등록하기
 
 &#x20;스윙투앱 계정으로 대리 등록하는 경우는 해당 사항 없습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱스토어 커넥트 사이트 접속**
 

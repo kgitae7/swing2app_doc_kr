@@ -24,7 +24,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 따라서 계정 등록시 본인 인증이 안뜬다면 모두 완료된 것이며, 바로 앱 등록이 가능합니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 

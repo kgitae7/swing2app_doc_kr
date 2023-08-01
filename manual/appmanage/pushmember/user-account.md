@@ -4,7 +4,7 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 # 회원조회 - 회원 생성하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**회원 생성하기란?**</mark>
 
@@ -26,7 +26,7 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 \-회원생성은 일반 아이디, 이메일 아이디만 생성이 가능합니다. <mark style="color:red;">\*전화번호 아이디는 생성이 불가합니다.</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 1. 회원조회
 
@@ -34,7 +34,7 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 [**푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member\_list) 페이지로 이동하면 **\[회원 생성하기]** 버튼을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">2. 회원생성</mark>
 
@@ -42,7 +42,7 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 \[회원 생성하기] 버튼을 탭하면, 회원생성 팝업창이 열립니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 3. 정보입력
 
@@ -60,7 +60,7 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 사용자는 관리자에게 받은 계정(아이디, 비밀번호)으로 앱에서 로그인할 수 있습니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 4. 생성된 계정으로 로그인 하기) 앱 실행 화면
 

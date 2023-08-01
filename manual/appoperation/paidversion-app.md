@@ -32,7 +32,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 아래 매뉴얼을  참고하셔서 유료앱 이용방법을 확인해주세요\~!
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1**. **이용권 및 업로드 티켓 구매**
 
@@ -112,7 +112,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 [**패키지 상품 구매 페이지**](http://www.swing2app.co.kr/view/new\_product\_list\_by\_package)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.** **스토어 업로드 신청**
 
@@ -168,7 +168,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 업로드 신청완료, 담당자 업로드 진행**
 
@@ -190,7 +190,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 \-심사가 거절될 경우 거절 사유 및 조치사항을 메일 안내드리며, 재심사는 업로드 티켓 비용 추가 없이 해드립니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 스토어 출시 완료 (심사 후 출시)**
 
@@ -210,7 +210,7 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 꼭꼭\~! 확인해주세요. **☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP5.** 유료앱 이용에서 자주 묻는 질문 Q\&A
 

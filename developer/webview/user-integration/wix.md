@@ -26,7 +26,7 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 ### 1.3 HTML 요소에 소스 삽입하기
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
 (1) 번 영역에 아래의 코드를 삽입하기
 
@@ -52,7 +52,7 @@ description: Wix 웹사이트에 간단한 코드삽입으로 회원연동 활�
 
 ### 1.4 HTML 요소에 아이디를 부여하기
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Wix 콘솔화면 </p></figcaption></figure>
 
 (1) 생성한 HTML 요소에 ID 를 부여하기&#x20;
 

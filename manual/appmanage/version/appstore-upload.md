@@ -4,7 +4,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 # 앱스토어 업로드 신청방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱스토어 업로드 신청방법**
 
@@ -92,7 +92,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 무료버전에서는 앱스토어업로드 티켓을 구매할 수 없고, 업로드 신청도 불가능합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱스토어 업로드 신청
 
@@ -104,7 +104,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 **\*구매가 완료되었다면,** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)**로 이동한 뒤 \[앱스토어 업로드 신청] 버튼을 눌러주세요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱스토어 업로드 신청서 가이드
 
@@ -126,7 +126,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 해당 항목이 앱스토에서 어떻게 표시되는지 확인하여 기재해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱스토어  업로드 신청서 작성방법
 
@@ -282,7 +282,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 주의사항을 확인하지 않아 발생되는 피해는 당사에서 책임지지 않습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱스토어 업로드 신청완료
 
@@ -300,7 +300,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 따라서 업로드 신청시 반드시 해당 내용 유념해주세요\~^^
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**\[안내사항]**</mark>

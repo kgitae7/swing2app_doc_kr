@@ -16,7 +16,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 **푸시 발송 기록 및 상세 내역 확인 등 ‘푸시 히스토리’ 를 이용하는 방법을 확인해주세요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;푸시 히스토리 이동
 
@@ -124,7 +124,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 [**웹사이트 회원 연동 가이드**](https://documentation.swing2app.co.kr/developer/webview/user-integration)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2.푸시 히스토리 – 내용별 필터링하여 보기
 
@@ -134,7 +134,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 원하는 내용을 분류해서 푸시 알림을 확인해보세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3.푸시 기록 삭제
 
@@ -142,7 +142,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 발송된 푸시 기록을 삭제하고 싶다면, **\[기록삭제]** 버튼을 눌러서 삭제할 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.푸시 예약 수정
 
@@ -154,7 +154,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 기본설정이나 푸시 내용 등을 수정하여 재저장할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5.푸시 반복 취소
 
@@ -166,7 +166,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 6. 푸시 알림을 끄는 방법
 

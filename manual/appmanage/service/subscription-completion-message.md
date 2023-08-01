@@ -4,7 +4,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 # 앱 정책관리- 회원가입 완료 메시지 설정
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 회원가입완료 메시지란?
 
@@ -28,7 +28,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 등 다양한 용도로 메시지를 이용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱에서 어떻게 보이나요?
 
@@ -46,7 +46,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 메시지 입력은 HTML 글쓰기로 제공되기 때문에 일반 게시물 글쓰기와 동일하게 이미지, 웹링크 연동, 동영상 등을 입력할 수 있어요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 회원가입 완료 메시지 설정 방법
 
@@ -66,7 +66,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 \*완료 메시지 수정 역시 해당 페이지에서 기존 내용에 덮어서 입력하신 뒤 \[정책 설정하기] 버튼을 다시 선택해주시면 반영됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[안내사항]**</mark>
 

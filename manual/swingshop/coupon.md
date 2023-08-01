@@ -28,7 +28,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 매뉴얼을 통해서 디지털제품- 쿠폰 등록방법과 앱 적용방법을 확인해주시기 바랍니다. ^^
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 쿠폰 만들기**
 
@@ -74,7 +74,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 이제 쿠폰은 다 만들었구요. 스윙샵 메뉴로 이동해서 판매할 쿠폰을 등록해볼게요\~!
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 스윙샵 신청 후 상품 카테고리 등록**
 
@@ -118,7 +118,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 디지털 제품 \[쿠폰] 선택**
 
@@ -222,7 +222,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱에 상품 카테고리 적용하기**&#x20;
 
@@ -318,7 +318,7 @@ description: '디지털제품: 쿠폰 상품 등록 및 앱 적용방법 안내'
 
 </div>
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 스윙카페 샘플앱) 쿠폰 구매 확인하기**
 

@@ -228,7 +228,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 **☞** [**\[채팅 관리자 페이지 이용방법 보러가기\]**](../../appmanage/service/admin-chat.md)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/image (2) (1).png>) 5**. 추가안내**&#x20;
 
