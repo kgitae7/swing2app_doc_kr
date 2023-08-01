@@ -20,7 +20,11 @@ description: 앱스토어 API 키 등록하기
 
 **앱스토어 커넥트 사이트 접속**
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/API4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1.앱스토어 커넥트 사이트 접속 및 로그인
 
