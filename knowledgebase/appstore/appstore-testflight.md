@@ -32,7 +32,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 따라서 <mark style="color:orange;">**회사 내부에서 사용하거나, 승인된 아이폰 사용자만 앱을 이용하게 할 경우 활용할 수 있습니다.**</mark>&#x20;
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**1. 이용방법**</mark>
 
