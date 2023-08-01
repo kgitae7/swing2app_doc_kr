@@ -86,7 +86,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 
 
-<mark style="color:blue;"><mark style="color:orange;">**아이폰 미리보기 화면**<mark style="color:orange;"></mark>
+<mark style="color:blue;">**아이폰 미리보기 화면**</mark>
 
 <div align="left">
 
@@ -280,7 +280,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 <mark style="color:red;">\*주의) 웹뷰, 푸시로 제작한 앱은 QR코드 미리보기 지원이 되지 않습니다. 일반 프로토타입 앱제작시에만 이용 가능</mark>
 
-
+***
 
 {% hint style="warning" %}
 <mark style="color:orange;">**앱 미리보기 안내사항**</mark>

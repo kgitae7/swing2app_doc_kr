@@ -4,7 +4,7 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 # 캘린더 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**스윙투앱의 캘린더 ?**</mark>
 
@@ -50,7 +50,7 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 자세한 이용방법은 매뉴얼을 참고해주시기 바랍니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) 1. 캘린더 만들기
 
@@ -158,7 +158,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 캘린더 일정 입력하기
 
@@ -235,7 +235,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 그럼 만들어놓은 캘린더를 앱에 적용해볼게요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱에 캘린더 적용하기
 
@@ -265,7 +265,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱 실행화면
 
@@ -285,7 +285,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 공지사항을 작성했으면 캘린더 화면에 공지글이 고정글로 표시 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 앱에서 캘린더 일정 작성하는 방법
 

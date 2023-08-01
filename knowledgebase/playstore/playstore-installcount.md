@@ -34,7 +34,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2.통계 대시보드 확인
 
@@ -48,7 +48,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **3. 앱 설치수는 어디서 어떻게 확인하나요?**
 
@@ -88,7 +88,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.앱 전체 다운로드 수 확인(누적 설치 수)
 

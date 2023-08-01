@@ -4,7 +4,7 @@ description: 플레이스토어 앱 출시 후, 해당 앱의 출시 링크를 �
 
 # 플레이스토어 앱 출시 링크 확인 방법   ​
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 플레이스토어 앱 출시 링크 확인 방법
 

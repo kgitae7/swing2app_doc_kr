@@ -4,7 +4,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 # 상품등록-예약시스템 날짜 예약상품 등록
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 예약시스템: 날짜 예약상은 호텔, 캠핑장, 팬션등의 숙박시설 상품을 판매할 수 있는 시스템이에요.&#x20;
 

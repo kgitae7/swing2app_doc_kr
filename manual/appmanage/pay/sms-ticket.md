@@ -6,7 +6,7 @@ description: SMS 발송 이용방법- 전화번호 아이디, 문자 보내기
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 **스윙유료상품)1,000건 SMS 발송 티켓 이용방법**
 

@@ -6,7 +6,7 @@ description: 서비스관리- 통합 알림 설정 이용방법
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**통합 알림 설정 이란?**</mark>
 
@@ -111,7 +111,7 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **2.핸드폰으로 발송된 알림 화면**
 
@@ -157,7 +157,7 @@ Internet Explorer(IE) 브라우저에서는 알림을 받을 수 없으니 유�
 
 이메일 알림도 체크해놓으셨다면, 푸시 알림처럼 관리자 이메일로도 구매완료 알림이 들어옵니다.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **3. 웹(PC) 알림창**
 

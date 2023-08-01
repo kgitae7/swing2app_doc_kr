@@ -4,7 +4,7 @@ description: 플레이스토어 업로드 신청 주의사항 약관
 
 # 플레이스토어 업로드 대행 약관
 
-<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1.플레이스토어 심사 기간
 
