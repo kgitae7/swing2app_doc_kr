@@ -32,7 +32,7 @@ description: 스윙투앱 무료버전앱 설치 기기수 제한 가이드
 
 </div>
 
-2\)웹뷰앱 사용자분들은 [앱 기기관리](http://www.swing2app.co.kr/view/app\_device\_management)[앱운영-서비스관리-앱 기기관리](http://www.swing2app.co.kr/view/app\_device\_management) 메뉴에서 확인 가능합니다.
+2\)웹뷰앱 사용자분들은 [앱운영-서비스관리-앱 기기관리](http://www.swing2app.co.kr/view/app\_device\_management) 메뉴에서 확인 가능합니다.
 
 <div align="left">
 
