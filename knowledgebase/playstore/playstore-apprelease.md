@@ -32,7 +32,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 <mark style="color:red;">**\*무료앱은 스토어 출시가 불가합니다. 유료앱이용권 구매 후 출시 가능!**</mark>
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**플레이스토어 앱 등록 방법은 영상으로도 확인 가능합니다.**</mark>
 
@@ -446,6 +446,18 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/구글신규8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+App Bundle \[서명 키 선택] → \[Google에서 생성한 키 사용]에 체크합니다.
+
+\*반영 시간이 소요될 수 있으니 조금만 기다려주세요. 기다리면 App Bundle 업로드 창이 활성화 됩니다.
+
+﻿
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B42-1.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B44.png)
@@ -453,6 +465,44 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 업로드 버튼을 선택한 뒤, 스윙투앱에서 제작완료한 AAB 파일을 해당 화면으로 업로드 해주세요.
 
 파일 업로드가 완료되면, **화면 하단의 **<mark style="color:green;">**\[저장]**</mark>**버튼 선택 → **<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
+
+**AAB파일을 가져오는 방법은 아래에서 확인 가능합니다.**&#x20;
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/20230905.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+\[개요로 이동] 버튼 선택 (게시개요 화면으로 이동하여 최종적으로 제출하게 됩니다)
+
+﻿
+
+**게시개요 화면 이동 \*게시개요로 넘어와서 전송을 해주셔야 완료가 됩니다.**
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/20230905 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+﻿\[검토를 위해 변경사항 전송] 선택
+
+\[검토를 위해 변경사항 전송]을 선택하면 완료됩니다.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/20230905 (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+대시보드로 이동하면, 앱 검토가 들어간 것을 확인할 수 있습니다.
+
+검토까지 들어가야 정상적으로 제출이 된 것입니다.
 
 
 
@@ -467,7 +517,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 \*AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다.
 
-<mark style="color:blue;"><mark style="color:red;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.<mark style="color:red;"></mark>
+<mark style="color:blue;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.</mark>
 {% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
@@ -508,12 +558,6 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B45.png)
-
-<mark style="color:blue;">**\[프로덕션 트랙으로 출시 시작]**</mark> 버튼 선택 → 프로덕션 트랙 출시 메시지 창에서 <mark style="color:blue;">**\[출시]**</mark> 버튼을 선택해주세요.
-
-
-
 <mark style="color:red;">**★ 잠깐!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%BD%EA%B3%A0.jpg)
@@ -526,23 +570,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 **\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능합니다.**&#x20;
 
-
-
-### <mark style="color:blue;">**3.프로덕션 등록완료**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C26.png)
-
-등록이 완료되었구요. 다시 **출시 화면을 보시면 **<mark style="color:green;">**‘검토 중’**</mark>**으로 표시 된것을 확인할 수 있습니다.**
-
-해당 메시지가 떠야 정상적으로 앱 등록이 된 것이구요.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C27\_%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EA%B2%80%ED%86%A0%EC%A4%91.png)
-
-대시보드 화면으로 이동하면 검토 화면에 “업데이트 검토 중” 메시지를 확인할 수 있습니다.
-
-
-
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 출시 완료 (심사기간 7일 이내)
 
