@@ -18,6 +18,8 @@ description: 스윙투앱 무료버전앱 설치 기기수 제한 가이드
 
 
 
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 ## 2.앱 설치 기기수 확인 방법
 
 1\)일반 프로토타입 앱, 푸시앱 사용자분들은 푸시 장치 관리에서 기기수 확인 가능합니다.
@@ -38,7 +40,7 @@ description: 스윙투앱 무료버전앱 설치 기기수 제한 가이드
 
 </div>
 
-
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3.무료버전앱에서 설치 기기수가 10개가 넘을 경우
 
@@ -53,6 +55,8 @@ description: 스윙투앱 무료버전앱 설치 기기수 제한 가이드
 앱이 삭제되는 것은 아니기 때문에 조치방법을 확인하여 해결할 수 있습니다.&#x20;
 
 
+
+<figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ## **4.조치 방법**
 
@@ -131,8 +135,6 @@ description: 스윙투앱 무료버전앱 설치 기기수 제한 가이드
 이미 사용하지 않는 앱이거나, 사용하지 않을 예정이면 아무런 조치를 취하지 않아도 괜찮습니다.
 
 단, 해당 앱은 계속 이용이 안되기 때문에 다시 무료앱으로 이용하신다면, 앱을 새로 만들어서 이용해주셔야 합니다.&#x20;
-
-
 
 <figure><img src="../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
