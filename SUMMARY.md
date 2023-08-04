@@ -383,6 +383,7 @@
     * [Wix 웹사이트 회원 연동 가이드](developer/webview/user-integration/wix.md)
     * [카페24(Cafe24) 웹사이트 회원 연동 가이드](developer/webview/user-integration/cafe24-integration.md)
   * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
+* [애플 사용자 계정 등록 프로세스](developer/apple.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
 
