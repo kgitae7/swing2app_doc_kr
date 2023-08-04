@@ -18,9 +18,9 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 결제가 완료 된 후 구글플레이스토어 개발자 콘솔 화면으로 들어와서 어플리케이션을 추가하시면 됩니다.
 
-<mark style="color:red;">\*일반 구글 메일 계정이 있다고 해서, 해당 계정이 구글 개발자 계정이 되는 것이 아닙니다.</mark>
+\*일반 구글 메일 계정이 있다고 해서, 해당 계정이 구글 개발자 계정이 되는 것이 아닙니다.
 
-&#x20;<mark style="color:red;">구글 콘솔에서 25달러 등록 수수료를 결제한 계정이 개발자 계정이 됩니다.</mark>
+&#x20;구글 콘솔에서 25달러 등록 수수료를 결제한 계정이 개발자 계정이 됩니다.
 
 
 
@@ -31,12 +31,6 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 플레이스토어 출시는 스윙투앱 유료버전앱만 가능합니다.
 
 <mark style="color:red;">**\*무료앱은 스토어 출시가 불가합니다. 유료앱이용권 구매 후 출시 가능!**</mark>
-
-***
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**플레이스토어 앱 등록 방법은 영상으로도 확인 가능합니다.**</mark>
-
-{% embed url="https://youtu.be/uHmzXjdjook" %}
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +72,29 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 **​**
 
-### <mark style="color:blue;">**1.앱 액세스 권한**</mark>
+### <mark style="color:blue;">**1.개인정보처리방침 설정**</mark>
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15\_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4.png)
+
+앱에 제공하는 개인정보처리방침 링크를 입력합니다.
+
+웹사이트를 걸어서 제작한 웹앱(웹뷰, 푸시)은 해당 사이트에서 제공하는 개인정보처리방침 링크를 입력해주시구요.
+
+스윙투앱 일반프로토타입(슬라이드,푸터, 탑 등)으로 제작한 분들은 스윙투앱에서 제공하는 이용약관 URL을 입력할 수 있습니다.
+
+**스윙투앱 사이트의** [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app\_setting)**을 수정하여 해당 링크를 넣어주세요**&#x20;
+
+(스윙투앱으로 제작한 앱에서만 적용 가능합니다)
+
+<mark style="color:red;">**★ 중요**</mark>
+
+**개인정보 처리방침 URL 항목은 해당 매뉴얼을 꼭!! 참고해주세요**
+
+☞[ 플레이스토어 개인정보처리방침 URL을 넣는 방법 보러가기](playstore-policyurl.md)
+
+
+
+### <mark style="color:blue;">**2.앱 액세스 권한**</mark>
 
 <div align="left">
 
@@ -122,7 +138,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ​
 
-### <mark style="color:blue;">**2.광고 여부 체크**</mark>
+### <mark style="color:blue;">**3.광고**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C13\_%EA%B4%91%EA%B3%A0.png)
 
@@ -132,7 +148,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 ​
 
-### <mark style="color:blue;">**3.콘텐츠 등급**</mark>
+### <mark style="color:blue;">**4.콘텐츠 등급**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%98%ED%85%90%EC%B8%A01.png)
 
@@ -172,28 +188,6 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
-### <mark style="color:blue;">**4.개인정보 처리방침**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15\_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4.png)
-
-앱에 제공하는 개인정보처리방침 링크를 입력합니다.
-
-웹사이트를 걸어서 제작한 웹앱(웹뷰, 푸시)은 해당 사이트에서 제공하는 개인정보처리방침 링크를 입력해주시구요.
-
-스윙투앱 일반프로토타입(슬라이드,푸터, 탑 등)으로 제작한 분들은 스윙투앱에서 제공하는 이용약관 URL을 입력할 수 있습니다.
-
-**스윙투앱 사이트의** [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app\_setting)**을 수정하여 해당 링크를 넣어주세요**&#x20;
-
-(스윙투앱으로 제작한 앱에서만 적용 가능합니다)
-
-<mark style="color:red;">**★ 중요**</mark>
-
-**개인정보 처리방침 URL 항목은 해당 매뉴얼을 꼭!! 참고해주세요**
-
-☞[ 플레이스토어 개인정보처리방침 URL을 넣는 방법 보러가기](playstore-policyurl.md)
-
-**​**
-
 ### <mark style="color:blue;">**5.타겟층 및 콘텐츠**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C16\_%ED%83%80%EC%BC%93%EC%97%B0%EB%A0%B9.png)
@@ -220,7 +214,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
-### <mark style="color:blue;">**6.뉴스 앱 체크**</mark>
+### <mark style="color:blue;">**6.뉴스 앱**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%B6%94%EA%B0%801.png)
 
@@ -372,6 +366,8 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 \*그래픽 이미지는 어떻게 보여지나요?
 
+
+
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **그래픽 이미지의 용도?**
 
 <figure><img src="../../.gitbook/assets/그래픽이미지_업로드신청서용.png" alt=""><figcaption></figcaption></figure>
@@ -460,51 +456,11 @@ App Bundle \[서명 키 선택] → \[Google에서 생성한 키 사용]에 체�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B42-1.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B44.png)
-
 업로드 버튼을 선택한 뒤, 스윙투앱에서 제작완료한 AAB 파일을 해당 화면으로 업로드 해주세요.
 
 파일 업로드가 완료되면, **화면 하단의 **<mark style="color:green;">**\[저장]**</mark>**버튼 선택 → **<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
 
 **AAB파일을 가져오는 방법은 아래에서 확인 가능합니다.**&#x20;
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/20230905.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-\[개요로 이동] 버튼 선택 (게시개요 화면으로 이동하여 최종적으로 제출하게 됩니다)
-
-﻿
-
-**게시개요 화면 이동 \*게시개요로 넘어와서 전송을 해주셔야 완료가 됩니다.**
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/20230905 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-﻿\[검토를 위해 변경사항 전송] 선택
-
-\[검토를 위해 변경사항 전송]을 선택하면 완료됩니다.
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/20230905 (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-대시보드로 이동하면, 앱 검토가 들어간 것을 확인할 수 있습니다.
-
-검토까지 들어가야 정상적으로 제출이 된 것입니다.
-
-
 
 {% hint style="info" %}
 #### <mark style="color:blue;">**\*AAB파일은 어디서 다운받나요??**</mark>
@@ -529,6 +485,46 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bundle 파일로 업로드 해주시면 됩니다.&#x20;
 
 <mark style="color:red;">\*인터넷 브라우저 Chrome 으로 이용해주세요.</mark>
+
+
+
+<figure><img src="../../.gitbook/assets/구글1 (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;앱 파일 등록 후 하단 \[임시보관함에 저장] 버튼 선택 후 - \[다음] 버튼 선택해주세요.
+
+
+
+<figure><img src="../../.gitbook/assets/구글2 (1).png" alt=""><figcaption></figcaption></figure>
+
+\[저장] 버튼 선택
+
+
+
+<figure><img src="../../.gitbook/assets/구글3 (1).png" alt=""><figcaption></figcaption></figure>
+
+\[게시 개요로 이동] 버튼 선택
+
+
+
+<figure><img src="../../.gitbook/assets/구글4 (1).png" alt=""><figcaption></figcaption></figure>
+
+**게시개요 화면 이동 \*게시개요로 넘어와서 전송을 해주셔야 완료가 됩니다.**
+
+﻿\[검토를 위해 변경사항 전송] 선택
+
+\[검토를 위해 변경사항 전송]을 선택하면 완료됩니다.
+
+
+
+<figure><img src="../../.gitbook/assets/구글5 (1).png" alt=""><figcaption></figcaption></figure>
+
+화면이 자동으로 대시보드 화면으로 넘어오구요.
+
+<mark style="color:green;">**업데이트 상태: 검토 중**</mark>으로 표시되면 정상적으로 제출이 완료된 것입니다.&#x20;
+
+
+
+
 
 {% hint style="warning" %}
 #### <mark style="color:orange;">**중요안내**</mark>
