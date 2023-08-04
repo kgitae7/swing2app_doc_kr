@@ -381,7 +381,7 @@
   * [웹사이트 회원 연동 가이드](developer/webview/user-integration/README.md)
     * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
     * [Wix 웹사이트 회원 연동 가이드](developer/webview/user-integration/wix.md)
-    * [카페24(Cafe24) 웹사이트 회원 연동 가이드](developer/webview/user-integration/24-cafe24.md)
+    * [카페24(Cafe24) 웹사이트 회원 연동 가이드](developer/webview/user-integration/cafe24-integration.md)
   * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
