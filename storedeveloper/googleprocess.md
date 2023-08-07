@@ -66,9 +66,9 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 구글 개발자 계정 초대 완료 후, API 액세스에서 사용자 등록을 해주세요.&#x20;
 
-<figure><img src="../.gitbook/assets/구글초대1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구글초대1 (2).png" alt=""><figcaption></figcaption></figure>
 
-1\)API액세스 이동 (구글 플레이 콘솔 - 설정 - API 액세스)
+1\)구글 플레이 콘솔 - 설정 -\[ API 액세스]를 선택합니다.&#x20;
 
 [https://play.google.com/console/u/0/developers/api-access](https://play.google.com/console/u/0/developers/api-access)
 
