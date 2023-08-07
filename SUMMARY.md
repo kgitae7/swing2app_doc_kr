@@ -336,6 +336,7 @@
   * [아이폰 푸시 인증서 연장](knowledgebase/appstore/push-certificate.md)
   * [앱스토어 test-flight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
   * [Apple Developer Enterprise Program](knowledgebase/appstore/apple-developer-enterprise.md)
+  * [애플 사용자 계정 등록 프로세스](knowledgebase/appstore/process.md)
   * [앱스토어 API  인증서 등록하기](knowledgebase/appstore/api.md)
   * [앱스토어 아이폰 푸시 인증서 등록](knowledgebase/appstore/pushapi.md)
   * [애플 앱스토어 고객센터 이용방법](knowledgebase/appstore/apple-support.md)
@@ -383,7 +384,6 @@
     * [Wix 웹사이트 회원 연동 가이드](developer/webview/user-integration/wix.md)
     * [카페24(Cafe24) 웹사이트 회원 연동 가이드](developer/webview/user-integration/cafe24-integration.md)
   * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
-* [애플 사용자 계정 등록 프로세스](developer/apple.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
 

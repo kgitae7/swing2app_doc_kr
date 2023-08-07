@@ -36,7 +36,7 @@ description: 애플 개발자 계정으로 앱등록을 하실 경우 진행해�
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/API4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/API4 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ description: 애플 개발자 계정으로 앱등록을 하실 경우 진행해�
 
 
 
-<figure><img src="../.gitbook/assets/초대1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/초대1.png" alt=""><figcaption></figcaption></figure>
 
 3\)Users - All 메뉴 옆의  \[+]아이콘 선택
 
@@ -88,7 +88,7 @@ Admin 선택시 밑의 항목은 모두 자동으로 셋팅되어 입력됩니�
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/API(숫자변경1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/API(숫자변경1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -110,7 +110,7 @@ Admin 선택시 밑의 항목은 모두 자동으로 셋팅되어 입력됩니�
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/API (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/API (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -120,7 +120,7 @@ Admin 선택시 밑의 항목은 모두 자동으로 셋팅되어 입력됩니�
 
 **이제 앱스토어 커넥트 화면과, 스윙투앱 앱 고급관리-앱스토어 API 인증서 화면함께 열어주세요.**&#x20;
 
-<figure><img src="../.gitbook/assets/API(숫자변경2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/API(숫자변경2).png" alt=""><figcaption></figcaption></figure>
 
 6\)\[다운로드 API KEY] 버튼을 선택하여 파일 다운받아 주세요. (파일은 열지 말고 저장만 해주세요)
 
@@ -166,7 +166,7 @@ Admin 선택시 밑의 항목은 모두 자동으로 셋팅되어 입력됩니�
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/푸시인증서1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시인증서1-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -186,7 +186,7 @@ Team ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/푸시인증서2-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시인증서2-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -196,7 +196,7 @@ Team ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/푸시인증서3-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시인증서3-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -212,7 +212,7 @@ Team ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/푸시인증서4-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시인증서4-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -236,7 +236,7 @@ Key ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/푸시인증서5-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시인증서5-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
