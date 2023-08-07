@@ -372,22 +372,22 @@
   * [인앱(In-app)이란?](knowledgebase/in-app/inapp.md)
   * [인앱 신청방법](knowledgebase/in-app/인앱신청방법.md)
 
-## 개발자 등록 프로세스 <a href="#developer" id="developer"></a>
+## 개발자 등록 프로세스 <a href="#storedeveloper" id="storedeveloper"></a>
 
-* [애플 개발자 계정 등록 프로세스](developer/appleprocess.md)
-* [구글 개발자 계정 등록 프로세스](developer/googleprocess.md)
+* [애플 개발자 계정 등록 프로세스](storedeveloper/appleprocess.md)
+* [구글 개발자 계정 등록 프로세스](storedeveloper/googleprocess.md)
 
 ## 개발자 문서 <a href="#developer" id="developer"></a>
 
-* [Server Side API 명세서](developer-1/server-side-api/README.md)
-  * [푸시 API를 이용하여 푸시 발송하기](developer-1/server-side-api/push-api-notification.md)
-* [웹뷰(웹뷰,푸시전용) 개발도구](developer-1/webview/README.md)
-  * [웹뷰에서 구글 페이스북 로그인 구현하기](developer-1/webview/how-to-avoid-disallow-useragent.md)
-  * [웹사이트 회원 연동 가이드](developer-1/webview/user-integration/README.md)
-    * [워드프레스 웹사이트 회원 연동 가이드](developer-1/webview/user-integration/wordpress.md)
-    * [Wix 웹사이트 회원 연동 가이드](developer-1/webview/user-integration/wix.md)
-    * [카페24(Cafe24) 웹사이트 회원 연동 가이드](developer-1/webview/user-integration/cafe24-integration.md)
-  * [Javascript 웹뷰 API 문서](developer-1/webview/javascript-api.md)
+* [Server Side API 명세서](developer/server-side-api/README.md)
+  * [푸시 API를 이용하여 푸시 발송하기](developer/server-side-api/push-api-notification.md)
+* [웹뷰(웹뷰,푸시전용) 개발도구](developer/webview/README.md)
+  * [웹뷰에서 구글 페이스북 로그인 구현하기](developer/webview/how-to-avoid-disallow-useragent.md)
+  * [웹사이트 회원 연동 가이드](developer/webview/user-integration/README.md)
+    * [워드프레스 웹사이트 회원 연동 가이드](developer/webview/user-integration/wordpress.md)
+    * [Wix 웹사이트 회원 연동 가이드](developer/webview/user-integration/wix.md)
+    * [카페24(Cafe24) 웹사이트 회원 연동 가이드](developer/webview/user-integration/cafe24-integration.md)
+  * [Javascript 웹뷰 API 문서](developer/webview/javascript-api.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
 
