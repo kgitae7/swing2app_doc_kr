@@ -462,7 +462,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/warning-(2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

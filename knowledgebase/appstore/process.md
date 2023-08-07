@@ -2,7 +2,7 @@
 description: 애플 개발자 계정으로 앱등록을 하실 경우 진행해야 하는 프로세스 안내
 ---
 
-# 애플 사용자 계정 등록 프로세스
+# 애플 개발자 계정 등록 프로세스
 
 ***
 
@@ -95,6 +95,32 @@ Admin 선택시 밑의 항목은 모두 자동으로 셋팅되어 입력됩니�
 1\)Key(키)선택&#x20;
 
 2\)Active(활성화됨)옆에 \[+]모양 아이콘 선택
+
+3\)Name(이름): 'swing api' 입력
+
+4\)Acces(액세스): 'Admin(관리자)' 선택
+
+마우스 커서로 오른쪽 내림 화살표 버튼 선택하시면 Admin(관리자) 선택 가능합니다.&#x20;
+
+5\)Generate(생성) 선택
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<mark style="color:red;">\*이전에 한번도 키 등록을 하지 않았다면, 아래처럼 화면이 생성되요.</mark>
+
+처음 키 등록을 하시는 분들은 아래 화면처럼 진행해주세요.&#x20;
+
+<figure><img src="../../.gitbook/assets/API(변수1).jpg" alt=""><figcaption></figcaption></figure>
+
+1\)Key(키)선택&#x20;
+
+2\)키 액세스 요청 박스에 있는 \[API 키 생성] 버튼 선택
 
 3\)Name(이름): 'swing api' 입력
 

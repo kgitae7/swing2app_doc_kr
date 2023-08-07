@@ -468,7 +468,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/warning-(2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

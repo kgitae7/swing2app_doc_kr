@@ -336,7 +336,7 @@
   * [아이폰 푸시 인증서 연장](knowledgebase/appstore/push-certificate.md)
   * [앱스토어 test-flight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
   * [Apple Developer Enterprise Program](knowledgebase/appstore/apple-developer-enterprise.md)
-  * [애플 사용자 계정 등록 프로세스](knowledgebase/appstore/process.md)
+  * [애플 개발자 계정 등록 프로세스](knowledgebase/appstore/process.md)
   * [앱스토어 API  인증서 등록하기](knowledgebase/appstore/api.md)
   * [앱스토어 아이폰 푸시 인증서 등록](knowledgebase/appstore/pushapi.md)
   * [애플 앱스토어 고객센터 이용방법](knowledgebase/appstore/apple-support.md)

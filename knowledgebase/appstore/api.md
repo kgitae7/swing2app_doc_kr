@@ -56,6 +56,32 @@ description: 앱스토어 API 키 등록하기
 
 
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<mark style="color:red;">\*이전에 한번도 키 등록을 하지 않았다면, 아래처럼 화면이 생성되요.</mark>
+
+처음 키 등록을 하시는 분들은 아래 화면처럼 진행해주세요.&#x20;
+
+<figure><img src="../../.gitbook/assets/API(변수2).jpg" alt=""><figcaption></figcaption></figure>
+
+3.Key(키)선택&#x20;
+
+4.키 액세스 요청 박스에 있는 \[API 키 생성] 버튼 선택
+
+5.Name(이름): 'swing api' 입력
+
+6.Acces(액세스): 'Admin(관리자)' 선택
+
+마우스 커서로 오른쪽 내림 화살표 버튼 선택하시면 Admin(관리자) 선택 가능합니다.&#x20;
+
+7.Generate(생성) 선택
+
+
+
 **스윙투앱 사이트 접속하신 뒤 앱 고급관리 화면을 열어주세요.**&#x20;
 
 <div align="left">

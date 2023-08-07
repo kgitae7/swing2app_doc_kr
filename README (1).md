@@ -86,7 +86,7 @@ description: 2023년 7월 3주차 스윙투앱 기능 업데이트
 
 
 
-### ![](.gitbook/assets/warning-\(2\).png) 안내사항
+### ![](<.gitbook/assets/warning-(2) (1).png>) 안내사항
 
 {% hint style="warning" %}
 1\)앱스토어에 앱이 출시된 경우에만 이용 가능합니다.&#x20;
