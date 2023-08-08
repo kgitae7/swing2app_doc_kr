@@ -26,7 +26,9 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 ## 푸시앱 - 푸시 툴바 기능 소개
 
-<figure><img src="../../../.gitbook/assets/Info_toolbar_Main_800.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/툴바기능소개.png" alt=""><figcaption></figcaption></figure>
 
 
 
