@@ -294,6 +294,42 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
+### <mark style="color:blue;">**10.금융기능 (23.08 추가)**</mark>
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/구글추가1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+앱에서 제공하는 금융 기능을 선택하는 콘텐츠 항목입니다.&#x20;
+
+\[시작] 버튼을 선택합니다.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/구글추가2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+"앱에서 금융 기능을 제공하지 않음"에 체크해주세요. (화면 가장 아래로 스크롤 하시면 있습니다)
+
+\[다음] 버튼을 선택합니다.
+
+{% hint style="danger" %}
+앱에 금융 기능이 제공될 경우, 제공되는 기능에 맞게 체크해주셔야 합니다.
+
+예를 들어 비트코인(암호화폐) 관련 앱이면, 해당 항목에 체크해주시구요.
+
+앱에서모바일 결제를 진행하거나, 이체 서비스를 제공한다면 동일하게 모두 체크해주셔야 합니다.
+
+이러한 금융 기능이 없는 앱만 "앱에서 금융 기능을 제공하지 않음"에 체크해주시면 됩니다.&#x20;
+{% endhint %}
+
+
+
 <mark style="color:blue;">**앱 콘텐츠 입력 완료!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C21\_%EC%BB%A8%ED%85%90%EC%B8%A0%EC%99%84%EB%A3%8C.png)
