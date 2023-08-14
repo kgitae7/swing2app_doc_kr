@@ -62,6 +62,8 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 → 관리자는 이렇게 만든 계정을 앱을 사용하고자 하는 사용자들에게 개별적으로 알려주세요.
 
 사용자는 관리자에게 받은 계정(아이디, 비밀번호)으로 앱에서 로그인할 수 있습니다.
+
+<mark style="color:red;">\*전화번호 아이디는 생성이 불가합니다.</mark>&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
