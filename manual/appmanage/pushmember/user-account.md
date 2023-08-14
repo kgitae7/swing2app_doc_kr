@@ -24,7 +24,11 @@ description: 회원조회 - 회원 생성 하기 및 앱 실행화면 매뉴얼
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**회원 생성 주의사항**</mark>
 
-\-회원생성은 일반 아이디, 이메일 아이디만 생성이 가능합니다. <mark style="color:red;">\*전화번호 아이디는 생성이 불가합니다.</mark>&#x20;
+\-회원생성은 일반 아이디, 이메일 아이디만 생성이 가능합니다.&#x20;
+
+<mark style="color:red;">\*전화번호 아이디는 생성이 불가합니다.</mark>&#x20;
+
+<mark style="color:red;">전화번호는 핸드폰 인증번호를 받아 가입을 하는 시스템으로, 관리자가 임의로 계정을 생성할 수 없게 되어 있습니다.</mark>&#x20;
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

@@ -10,7 +10,7 @@
 
 스윙 도움말을 통해서 플레이스토어 앱 리뷰에 답글을 입력하는 방법을 확인해주세요.
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**구글 플레이 콘솔 사이트 접속**</mark>
 
@@ -67,14 +67,20 @@
 
 홍보글, 비방, 욕설 등의 내용이 있을 경우 승인을 하기 때문에 이점 유념해주세요.
 
+
+
 \
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**모바일 화면) 플레이스토어 어플 실행**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B06\_new-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B06_new-1.png" alt="">
+
+</div>
 
 플레이스토어 어플을 실행하면 사용자 리뷰에 개발자 답글이 달린 것을 볼 수 있습니다.
 
-
+***
 
 이상으로 플레이스토어 앱 리뷰에 답글을 입력하는 방법을 알려드렸어요.
 
