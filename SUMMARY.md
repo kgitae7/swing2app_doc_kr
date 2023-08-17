@@ -199,6 +199,7 @@
     * [비공개 앱만들기](manual/appmanage/service/private-app.md)
     * [앱 문자열 관리](manual/appmanage/service/app-text.md)
     * [엡에 셋팅된 문구(메시지) 수정 방법](manual/appmanage/service/edit-text.md)
+    * [앱스토어 리뷰 관리](manual/appmanage/service/appstore\_review.md)
     * [애드몹 플러그인 설정](manual/appmanage/service/admob-pluginsettings.md)
     * [링크마법사](manual/appmanage/service/linkeditor.md)
   * [푸시&회원 메뉴](manual/appmanage/pushmember/README.md)
@@ -398,7 +399,3 @@
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
 * [플레이스토어 업로드 대행 약관](terms/playstore-policy.md)
 * [앱스토어 업로드 대행 약관](terms/appstore-policy.md)
-
-***
-
-* [앱스토어 리뷰 관리 이용방법](appstore\_review.md)

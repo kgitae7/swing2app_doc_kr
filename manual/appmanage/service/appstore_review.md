@@ -2,7 +2,7 @@
 description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립니다.
 ---
 
-# 앱스토어 리뷰 관리 이용방법
+# 앱스토어 리뷰 관리
 
 ***
 
@@ -12,7 +12,7 @@ description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립�
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/SE-c3240a45-89cf-4157-ad30-b0e1f7c13b1f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SE-c3240a45-89cf-4157-ad30-b0e1f7c13b1f.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립�
 
 ## 3.이용방법
 
-<figure><img src=".gitbook/assets/SE-bb51d03b-a811-4b71-82df-ac09394c3405.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SE-bb51d03b-a811-4b71-82df-ac09394c3405.png" alt=""><figcaption></figcaption></figure>
 
 앱운영 – 서비스관리 – 앱스토어 리뷰 관리 메뉴 이동하면 확인 가능합니다.
 
@@ -74,7 +74,7 @@ description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립�
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/앱스토어리뷰오픈2-(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱스토어리뷰오픈2-(1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -92,7 +92,7 @@ description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립�
 
 ### <mark style="color:blue;">2)답변 수정하기</mark>
 
-<figure><img src=".gitbook/assets/앱스토어리뷰3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱스토어리뷰3.png" alt=""><figcaption></figcaption></figure>
 
 작성된 댓글을 수정할 때는 \[수정하기] 버튼을 선택해서 내용을 수정 입력할 수 있습니다.
 
@@ -108,7 +108,7 @@ description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립�
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/앱스토어리뷰4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱스토어리뷰4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
