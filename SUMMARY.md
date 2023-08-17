@@ -398,3 +398,7 @@
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
 * [플레이스토어 업로드 대행 약관](terms/playstore-policy.md)
 * [앱스토어 업로드 대행 약관](terms/appstore-policy.md)
+
+***
+
+* [앱스토어 리뷰 관리 이용방법](appstore\_review.md)

@@ -10,7 +10,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 ### <mark style="color:blue;">**링크 마법사란?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C3\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C3_19.09.png" alt="">
+
+</div>
 
 **링크마법사는 웹링크(URL)뿐만 아니라 스윙투앱에서 제공하는 다양한 기능들을 연동하여 사용할 수 있는 메뉴에요.**
 
@@ -18,7 +22,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C4\_19.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C4_19.09.png" alt="">
+
+</div>
 
 웹링크 외에도 스윙투앱에서 제공하는 기능 : 스윙 기능, 사용자 페이지, 게시판, 게시물, 파일첨부로 연동이 가능해요.
 
@@ -28,7 +36,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 &#x20;**\[링크마법사 사용예시]를 통해서 어떻게 앱에서 링크마법사 이용이 가능한**​**지 알려드리겠습니다.**
 
-
+***
 
 <mark style="color:blue;">**★ 잠깐! 링크마법사는 어디서 이용할 수 있나요?**</mark>
 
@@ -56,7 +64,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_47_33_456.gif" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_47_33_456.gif" alt="" width="375">
 
 </div>
 
@@ -68,7 +76,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 ### <mark style="color:blue;">**사용 예시2) 웹템플릿 페이지에서 \[링크마법사] 이용하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png" alt="">
+
+</div>
 
 두번째는 웹템플릿 페이지에서 링크마법사 기능을 이용해볼게요.
 
@@ -78,7 +90,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png" alt="">
+
+</div>
 
 \[링크마법사] 버튼을 선택한 뒤 → 웹링크: 전화번호걸기 선택 → 수신자 전화번호를 입력해주세요.
 
@@ -92,7 +108,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_46_04_734.gif" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_46_04_734.gif" alt="" width="375">
 
 </div>
 
@@ -102,7 +118,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 ### <mark style="color:blue;">**사용 예시3) 팝업 에서 \[링크마법사] 이용하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC5.png" alt="">
+
+</div>
 
 세번째는 팝업 기능에서 링크마법사 기능을 이용해서 선택한 게시물로 페이지가 이동하도록 설정해볼게요.
 
@@ -116,7 +136,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_14_10_13_709.gif" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_14_10_13_709.gif" alt="" width="375">
 
 </div>
 
@@ -124,7 +144,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 팝업 이미지를 탭하면 연동해놓은 게시물로 이동합니다.
 
-
+***
 
 링크마법사 기능 및 사용예시에 대해서 알려드렸습니다.
 

@@ -1,10 +1,10 @@
+---
+description: 애드몹 플러그인 설정 이용방법
+---
+
 # 애드몹 플러그인 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/10/%EC%95%B11.png)
-
-**애드몹 플러그인 설정 이용방법**
-
-
+***
 
 ### <mark style="color:blue;">**1. 애드몹 플러그인 설정 이란?**</mark>
 
@@ -15,6 +15,8 @@
 기존에는 스윙투앱에 신청을 하여 진행되었는데요.
 
 이제는 사용자가 직접 광고아이디를 넣고 광고 노출 패턴을 자유롭게 설정하여 사용할 수 있습니다.
+
+***
 
 
 
@@ -33,6 +35,8 @@
 **4)광고가 적용된 여러 앱을 운영하는 사용자분들은, 애드몹 플러그인 설정 페이지에서 보다 쉽게 관리할 수 있습니다.**
 
 각 앱마다 광고 아이디가 어떻게 들어가 있는지, 노출 패턴은 어떻게 설정되어있는지 애드몹 공식 사이트를 들어가지 않아도 스윙투앱 사이트 내에서 보다 간편하게 확인 가능합니다.
+
+***
 
 
 
@@ -132,13 +136,27 @@
 
 **☞** [**애드몹 플러그인 광고 셋팅방법 보러가기**](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+<div align="left">
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_16\_43\_781.gif)
+</div>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_10\_06\_20\_17\_59\_915.gif)
+
+
+&#x20;<mark style="color:orange;">**움짤 확인) 광고가 잘 뜨는지 확인해볼게요!**</mark>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_16_43_781.gif" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_10_06_20_17_59_915.gif" alt="">
+
+</div>
 
 **해당 앱 광고 설정은 배너 광고 노출 사용 했구요.**
 
@@ -149,6 +167,8 @@
 게시물을 선택해서 화면이 5번 전환되는 시점에 전면광고가 뜹니다.
 
 이렇게 앱을 다운 받아서 셋팅된 광고가 제대로 잘 나오는지 확인할 수 있어서 너무 간편하죠 \~!^^
+
+***
 
 
 
