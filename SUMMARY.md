@@ -142,7 +142,7 @@
     * [게시판 - 파일 첨부하기 (관리자용)](manual/appmanage/board/file.md)
     * [앱에서 게시판 파일 첨부하기](manual/appmanage/board/appfile.md)
     * [게시판 - 동영상 등록하기(영상 등록방법)](manual/appmanage/board/post-video.md)
-    * [게시판-음악파일 첨부방법](manual/appmanage/board/mp3file.md)
+    * [게시판-오디오파일 첨부방법](manual/appmanage/board/mp3file.md)
     * [게시물 댓글, 대댓글 입력방법](manual/appmanage/board/comment.md)
     * [게시판 권한 설정 이용방법](manual/appmanage/board/board-authority.md)
     * [게시판 작성폼 이용방법](manual/appmanage/board/form.md)
