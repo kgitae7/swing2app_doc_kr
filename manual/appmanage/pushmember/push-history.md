@@ -126,7 +126,31 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2.푸시 히스토리 – 내용별 필터링하여 보기
+
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2.푸시 복사하기
+
+발송한 푸시 중에서 동일한 내용으로 다시 푸시를 보내야 한다면, 복제 기능을 이용할 수 있습니다.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/SE-8090a45b-c879-4761-bc07-d26071975268.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+푸시 히스토리 리스트 가장 오른쪽에 관리 영역에 보시면 \[복제]버튼 확인할 수 있습니다.
+
+복제 버튼을 누르면 ‘푸시 발송하기’ 화면으로 이동하며,
+
+기존에 작성되었던 내용(메시지 제목, 내용, 이미지, 링크 등)이 동일하게 복사되어 연동됩니다.
+
+
+
+***
+
+
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3.푸시 히스토리 – 내용별 필터링하여 보기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.18.09.png)
 
@@ -136,15 +160,19 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3.푸시 기록 삭제
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.푸시 기록 삭제
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC4.18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC4.18.09.png" alt="">
+
+</div>
 
 발송된 푸시 기록을 삭제하고 싶다면, **\[기록삭제]** 버튼을 눌러서 삭제할 수 있어요.
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.푸시 예약 수정
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5.푸시 예약 수정
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC5.18.09.png" alt=""><figcaption></figcaption></figure>
 
@@ -156,7 +184,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5.푸시 반복 취소
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 6.푸시 반복 취소
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC6.18.09.png)
 
@@ -168,7 +196,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 6. 푸시 알림을 끄는 방법
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 7.푸시 알림을 끄는 방법
 
 
 
