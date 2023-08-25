@@ -18,7 +18,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 \*PC웹이 아닌 모바일 전용 웹으로 등록해드리는 상품으로 PC에서는 호환이 되지 않습니다.
 
-
+***
 
 <mark style="color:orange;">**스윙투앱 공식앱으로 적용한 모바일웹 실행화면**</mark>
 
@@ -58,21 +58,25 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 모바일 웹 업로드 티켓 구매하기
 
-<div align="left">
+<figure><img src="../../../.gitbook/assets/모바일웹-이용권구매.png" alt=""><figcaption></figcaption></figure>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%8012.png" alt="">
+<mark style="color:red;">**\*\* 모바일 웹 등록 신청을 하기 위해서는 먼저 유료 이용권 구매가 되어 있어야 합니다.**</mark>
 
-</div>
-
-<mark style="color:red;">**\*\* 모바일 웹 등록 신청을 하기 위해서는 먼저 스윙 유료이용권 구매가 되어 있어야 합니다.**</mark>
-
-[**※스윙 앱운영 페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지**](https://www.swing2app.co.kr/view/shop\_list) 에서 스윙 확장형 유료앱 이용권 혹은 프리미엄 이용권을 구매해주세요.
+[앱운영-결제/이용권 구매-유료앱 이용권 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term) 에서 스윙 확장형 유료앱 이용권 혹은 프리미엄 이용권을 구매해주세요.
 
 확장형, 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.&#x20;
 
-모바일웹 신청은 확장형 및 프리미엄 이용시에만 해당되며, <mark style="color:red;">기본형 이용권과 알뜰형 패키지 상품은 적용되지 않습니다.</mark>
+<mark style="color:red;">모바일웹 신청은 확장형 및 프리미엄 이용시에만 해당되며, 기본형 이용권과 알뜰형 패키지 상품은 적용되지 않습니다.</mark>
 
-1\)확장형 이용권 구매 후 모바일 웹등록 티켓을 구매해주세요.\[모바일 웹 등록 티켓 20,000원]
+1\)확장형 이용권과모바일 웹등록 티켓을 구매해주세요.\[모바일 웹 등록 티켓 20,000원]
+
+\*이용권구매 페이지 - 옵션 선택에서 "모바일 웹 등록 티켓" 선택시 이용권과 함께 구매할 수 있습니다.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/모바일웹2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 2\)프리미엄 이용권은 모바일웹 등록 티켓 무제한 제공되기 때문에 모바일웹 등록 티켓을 따로 구매하지 않아도 됩니다.&#x20;
 
