@@ -306,6 +306,7 @@
   * [구글 개발자-개인 계정 만들기](knowledgebase/playstore/google-developer.md)
   * [구글 개발자-비즈니스 계정 만들기](knowledgebase/playstore/google-businessdeveloper.md)
   * [구글 개발자 계정 본인 인증](knowledgebase/playstore/verify-identity.md)
+  * [구글 개발자 계정 초대 프로세스](knowledgebase/playstore/googleprocess.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
   * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
