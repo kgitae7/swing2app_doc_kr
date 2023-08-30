@@ -28,7 +28,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:blue;">**2. 문자열 수정하기 : 영문으로 변경**</mark>
+### <mark style="color:blue;">**2. 메시지 변경: 영문 수정**</mark>
 
 **회원가입 페이지를 변경할텐데요. 한글로 셋팅된 앱 문구를 영어로 변경해볼게요\~!**
 
@@ -42,7 +42,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 내용을 수정한 뒤 저장하고 <mark style="color:red;">**\[업로드]**</mark><mark style="color:red;">로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC3.png)
 
@@ -60,7 +60,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-<figure><img src="../../../.gitbook/assets/업데이트.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/업데이트 (2).png" alt=""><figcaption></figcaption></figure>
 
 5\) 앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요**.**
 
@@ -68,11 +68,13 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-
-
 ### <mark style="color:blue;">**3. 앱 실행화면: 영문으로 수정된 문구 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png" alt="">
+
+</div>
 
 \[앱 문자열 관리]에서 회원가입 페이지에서 표시되는 모든 문구를 영어로 변경했구요.
 
@@ -80,7 +82,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-<mark style="color:red;">구만 수정해서는 앱에 반영되지 않으며, 반드시 앱제작 페이지에서 새 버전으로 앱 업데이트 해주셔야 합니다.</mark>
+<mark style="color:red;">문구만 수정해서는 앱에 반영되지 않으며, 반드시</mark> <mark style="color:red;"></mark><mark style="color:red;">**앱제작 페이지에서 새 버전으로 앱 업데이트 해주셔야 합니다.**</mark>
 
 {% hint style="info" %}
 <mark style="color:blue;">**업데이트 유형 안내**</mark>
@@ -98,41 +100,59 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:blue;">**1. 문자열관리 이동 : 메시지 변경하기**</mark>
+### <mark style="color:blue;">**1. 앱 문자열 관리 이동**</mark>
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
+
+[**앱운영 페이지 → 서비스관리 → 앱 문자열 관리**](http://www.swing2app.co.kr/view/app\_resourecs\_manager) **페이지 이동합니다.**
+
+
+
+### <mark style="color:blue;">**2. 메시지 변경하기**</mark>
 
 **이번에는 메시지 내용을 변경해볼게요. 리뷰 버튼에 사용되는 메시지를 변경해보겠습니다.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC9.png)
 
-메시지 내용을 변경하는 것도 위의 방법과 동일합니다.
+**\*리뷰 버튼에 표시되는 문구를 변경해볼게요\~!**
 
-문자열관리에서 수정할 문자열을 찾아주시구요.
+<mark style="color:red;">**컨트롤(control) + F**</mark> 버튼을 선택해서 수정하고자 하는 문자를 검색해주세요.&#x20;
 
-<mark style="color:red;">**\*리뷰 버튼에 표시되는 문구를 변경해볼게요\~!**</mark>
+메시지 내용을 찾으면, 1)수정 버튼을 누른 뒤 2)메시지 내용을 원하는 내용으로 수정한 뒤 3)수정하기 버튼을 누르면 됩니다.
 
-1\)수정 버튼을 누른 뒤 2)메시지 내용을 원하는 내용으로 수정한 뒤 3)수정하기 버튼을 누르면 됩니다.
+다시 앱제작 페이지로 이동하여 앱 업데이트 해주세요.&#x20;
 
-다시 앱제작 페이지로 이동하여 앱재제작(업데이트) 진행주세요.
+{% hint style="info" %}
+앱에 셋팅된 문구는 수없이 많기 때문에 모든 문구를 수정하지 않고 몇개 문구만 수정을 할 경우에는
 
-​
+<mark style="color:red;">**\*컨트롤(control) + F**</mark> 버튼을 누르면 원하는 문구를 검색하여 찾을 수 있습니다!!
+
+<mark style="color:red;">**★**</mark> 앱 문구 전체를 수정할 경우 <mark style="color:red;">**\[다운로드]**</mark> 버튼을 눌러서 엑셀파일로 받아주세요.
+
+내용을 수정한 뒤 저장하고 <mark style="color:red;">**\[업로드]**</mark><mark style="color:red;">로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.</mark>
+{% endhint %}
+
+
 
 <mark style="color:orange;">**TIP. 움짤 이미지로 문자열 수정방법 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EA%B5%AC%EC%88%98%EC%A0%95.gif)
+<div align="left">
 
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EA%B5%AC%EC%88%98%EC%A0%95.gif" alt="">
 
+</div>
 
 **앱 업데이트**&#x20;
 
 <figure><img src="../../../.gitbook/assets/업데이트.png" alt=""><figcaption></figcaption></figure>
 
-앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요**.**
+4\)앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요**.**
 
 \*문구만 수정해서는 앱에 반영되지 않으며, 반드시 앱제작 페이지에서 새 버전으로 앱 업데이트 해주셔야 합니다.
 
 
 
-### <mark style="color:blue;">**2. 앱 실행화면: 수정된 문구 내용 확인하기**</mark>
+### <mark style="color:blue;">**3. 앱 실행화면: 수정된 문구 내용 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC10.png)
 
@@ -140,7 +160,33 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 앱 재제작(업데이트) 하신 뒤 새 버전으로 확인하시면, 리뷰 버튼에 표시되는 내용이 변경된 내용으로 수정된 것을 확인할 수 있습니다.
 
-​
+
+
+***
+
+
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 운영 TIP
+
+### <mark style="color:red;">**TIP1)**</mark>**컨트롤(control) + F 버튼**
+
+&#x20;몇 개 단어만 수정할 경우 **\*컨트롤(control) + F 버튼**을 누르면 내용을 검색하여 찾을 수 있습니다!!
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC7.png)
+
+
+
+### <mark style="color:red;">**TIP2)**</mark>앱 문구 전체 수정 \[다운로드] 버튼 선택
+
+앱 문구 전체를 수정할 경우 \[다운로드] 버튼을 눌러서 엑셀파일로 받아주세요.
+
+내용을 수정한 뒤 저장하고 \[업로드]로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC2.png)
+
+<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+
+
 
 **\* 리뷰 버튼 이용방법은 아래 매뉴얼을 참고해주세요\~!**
 
