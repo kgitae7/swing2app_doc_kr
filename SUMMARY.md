@@ -310,7 +310,6 @@
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
   * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
-  * [플레이스토어 구글 개발자계정 초대하기](knowledgebase/playstore/google-developer-invitation.md)
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [플레이스토어 사전고지 문서 제출하기](knowledgebase/playstore/playstore-priornotice.md)
   * [플레이스토어 개인정보 링크 연결하기](knowledgebase/playstore/playstore-policyurl.md)
