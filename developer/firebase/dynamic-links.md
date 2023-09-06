@@ -70,5 +70,5 @@ DNS 에 Firebase 호스트를 등록해야 한다.
 
 Firebase Dynamic Links 사용법은 아래의 도움말을 참고하시면 됩니다.
 
-
+[https://firebase.google.com/docs/dynamic-links/use-cases?hl=ko](https://firebase.google.com/docs/dynamic-links/use-cases?hl=ko)
 
