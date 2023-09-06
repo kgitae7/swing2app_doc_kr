@@ -16,7 +16,7 @@ description: 스윙투앱 푸시발송 API
 
 * API 명세서
 
-{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="스윙투앱앱으로 푸시를 발송하기 위한 API" %}
+{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="스윙투앱으로 푸시를 발송하기 위한 API" %}
 {% swagger-description %}
 <mark style="color:orange;">
 
