@@ -6,13 +6,13 @@ description: Firebase 프로젝트를 스윙투앱과 연동하기
 
 파이어베이스 제품을 사용하기 위해서는 앱과 Firebase 프로젝트는 연동해야 합니다.
 
-Firebase 프로젝트를 스윙투앱에 연동 면 아래의 단계를 절차대로 진행하시면 됩니다.
+Firebase 프로젝트를 스윙투앱에 연동을 하려면 아래의 단계를 절차대로 진행하시면 됩니다.
 
 
 
-1. 파이어베이스 접속
+1. 파이어베이스 접속 후 구글 아이디로 로그인
 
-[https://console.firebase.google.com/](https://console.firebase.google.com/)
+&#x20;       [https://console.firebase.google.com/](https://console.firebase.google.com/)
 
 2. 파이어베이스 콘솔에서 프로젝트 만들어진 프로젝트를 선택
 
