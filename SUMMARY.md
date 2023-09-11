@@ -2,6 +2,7 @@
 
 * [스윙투앱](README.md)
 * [\[웹앱\] 스윙투앱의 강점](benefit.md)
+* [\[일반앱\] 스윙투앱의 강점](benefit-1.md)
 * [FAQ(자주 묻는 질문)](<README (1) (1).md>)
   * [가장 많이 묻는 질문 FAQ](faq/top.md)
   * [앱제작 FAQ](faq/app-production.md)
