@@ -6,7 +6,9 @@ description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수�
 
 ***
 
-메뉴(Menu)는 무엇인가요? 어떻게 수정 혹은 제거 할 수 있나요?
+
+
+**메뉴(Menu)는 무엇인가요? 어떻게 수정 혹은 제거 할 수 있나요?**
 
 메뉴(Menu)는 푸시 툴바에서 제공되는 기능이며, 푸시앱 제작시 기본 셋팅 기능으로 제공이 되고 있습니다.
 
@@ -20,11 +22,7 @@ description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수�
 
 이미지 참고)
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/툴바메뉴.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../../.gitbook/assets/툴바메뉴리스트.png" alt=""><figcaption></figcaption></figure>
 
 웹 미리보기(가상머신)에서 보시는 것처럼 메뉴 툴바에는 스윙투앱, 유튜브, 인스타그램 등 이러한 기능들이 자동으로 셋팅되어 있습니다.
 
