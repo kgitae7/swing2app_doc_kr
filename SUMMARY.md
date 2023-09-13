@@ -75,6 +75,7 @@
     * [웹뷰,푸시앱-최초 실행 주소 이용방법](manual/v3/webapp/firstrun-url.md)
     * [웹뷰앱 기본 설정, 고급 설정 옵션](manual/v3/webapp/webviewapp-options.md)
     * [푸시앱 툴바-이용방법 및 기능 소개](manual/v3/webapp/pushapp-toolbar.md)
+    * [푸시앱-메뉴 리스트 수정 방법](manual/v3/webapp/toolbalist.md)
     * [푸시 아이콘 이미지 등록하기](manual/v3/webapp/pushicon.md)
     * [프로그레스바 색상 설정](manual/v3/webapp/progressbar.md)
     * [웹뷰, 푸시앱 - 앱 종료 알림 메시지](manual/v3/webapp/appexit.md)
