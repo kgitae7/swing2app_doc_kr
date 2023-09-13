@@ -1,28 +1,56 @@
 ---
-description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인한 문제 해결하기
+description: 스윙투앱에서 구글, 페이스북 로그인 보안으로 인한 문제 해결하기
 ---
 
-# 웹뷰에서 구글 페이스북 로그인 구현하기
+# 웹뷰에서 구글, 페이스북 로그인 구현하기
 
-안드로이드 앱 개발 중 구글 및 페이스북과 같은 플랫폼의 로그인 기능을 웹뷰에서 사용하려는 경우, 일반적으로 보안 상의 이유로 인해 구글과 페이스북이 해당 기능을 차단하는 경우가 있습니다.  ( 아래와 같은 메시지를 발견했다면 해당 이유로 차단된 경우입니다. )
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="188"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
+
+***
+
+
+
+안드로이드 앱 개발 중 구글 및 페이스북과 같은 플랫폼의 로그인 기능을 웹뷰에서 사용하려는 경우, 일반적으로 보안 상의 이유로 인해 구글과 페이스북이 해당 기능을 차단하는 경우가 있습니다.&#x20;
+
+&#x20;(아래와 같은 메시지를 발견했다면 해당 이유로 차단된 경우입니다. )
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>Facebook Login 웹뷰에서 차단</p></figcaption></figure>
 
-이러한 차단은 앱 사용자의 개인 정보와 계정 보안을 보호하기 위한 조치로 이해해야 합니다. 이 글에서는 User Agent Disallow 이슈에 대해 자세히 알아보고, 이를 회피하기 위한 대안적인 접근 방식을 소개하겠습니다.
+</div>
+
+이러한 차단은 앱 사용자의 개인 정보와 계정 보안을 보호하기 위한 조치로 이해해야 합니다.&#x20;
+
+이 글에서는 User Agent Disallow 이슈에 대해 자세히 알아보고, 이를 회피하기 위한 대안적인 접근 방식을 소개하겠습니다.
 
 
 
-1. User Agent Disallow란 무엇인가요?
-   * User Agent는 클라이언트(웹 브라우저 또는 웹뷰)가 서버에게 자신의 속성을 알리기 위해 전송하는 HTTP 헤더입니다.
-   * User Agent Disallow는 구글과 페이스북이 자체 로그인 기능을 웹뷰를 통해 사용하는 것을 막기 위해 해당 User Agent 문자열을 감지하여 차단하는 것을 의미합니다.
-2. User Agent Disallow 이슈의 이유는 무엇인가요?
-   * 웹뷰는 모바일 앱 안에 내장된 경량화된 웹 브라우저로써, 보안상의 이유로 특정 기능을 차단하는 것이 필요합니다.
-   * User Agent Disallow는 보안을 강화하기 위한 방식 중 하나로서, 웹뷰에서는 구글 및 페이스북과 같은 로그인 API를 사용하는 것을 제한하여 악용을 방지합니다.
-3.  User Agent Disallow를 회피하는 대안적인 방법은 무엇인가요? 가장 일반적인 방법으로는 다음과 같은 접근 방식을 고려할 수 있습니다:
+***
 
-    a. 외부 브라우저 열기:
+
+
+1.  **User Agent Disallow란 무엇인가요?**
+
+    * User Agent는 클라이언트(웹 브라우저 또는 웹뷰)가 서버에게 자신의 속성을 알리기 위해 전송하는 HTTP 헤더입니다.
+    * User Agent Disallow는 구글과 페이스북이 자체 로그인 기능을 웹뷰를 통해 사용하는 것을 막기 위해 해당 User Agent 문자열을 감지하여 차단하는 것을 의미합니다.
+
+
+2.  **User Agent Disallow 이슈의 이유는 무엇인가요?**
+
+    * 웹뷰는 모바일 앱 안에 내장된 경량화된 웹 브라우저로써, 보안상의 이유로 특정 기능을 차단하는 것이 필요합니다.
+    * User Agent Disallow는 보안을 강화하기 위한 방식 중 하나로서, 웹뷰에서는 구글 및 페이스북과 같은 로그인 API를 사용하는 것을 제한하여 악용을 방지합니다.
+
+
+3.  **User Agent Disallow를 회피하는 대안적인 방법은 무엇인가요?** 가장 일반적인 방법으로는 다음과 같은 접근 방식을 고려할 수 있습니다:
+
+    **a. 외부 브라우저 열기:**
 
     * 사용자가 구글 로그인 또는 페이스북 로그인을 선택하면, 웹뷰에서는 외부 브라우저를 열어 해당 로그인 페이지를 표시합니다.
     * 외부 브라우저는 웹뷰와는 별개의 애플리케이션으로 간주되므로, 보안 정책에 영향을 받지 않습니다.
@@ -30,14 +58,18 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
 
     &#x20;    \* 아래의 [가이드](how-to-avoid-disallow-useragent.md#how-to-avoid-disallow)를 참고하여 개발해주세요.
 
-    b. Fake(가짜) UserAgent 사용하기
+    **b. Fake(가짜) UserAgent 사용하기**
 
     * 가짜 UserAgent 를 사용하면 구글 로그인의 경우는 해당 이슈를 회시 할 수 있다. 다만 페이스북은 회피가 불가능하다.
     * 스윙투앱에서 UserAgent 변경방법&#x20;
 
     &#x20;     앱 제작 -> 고급 설정 -> 앱 제작 설정 에서 아래의 두개 값 변경
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="375"><figcaption><p>스윙투앱에서 UserAgent 변경방법 </p></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="563"><figcaption><p>스윙투앱에서 UserAgent 변경방법 </p></figcaption></figure>
+
+</div>
 
 &#x20;       (1) Android WebView UserAgent
 
@@ -53,6 +85,10 @@ description: 스윙투앱에서 구글 페이스북 로그인 보안으로 인�
 
 
 
+***
+
+
+
 ## 외부 브라우저 열기 방법으로 구글 및 페이스북 로그인 회피하는 방법 알아보기 <a href="#how-to-avoid-disallow" id="how-to-avoid-disallow"></a>
 
 ### #실행 프로세스&#x20;
@@ -65,9 +101,11 @@ login\_example.html 실행 파라미터중 customUrl 항목이 있는데 해당 
 
 \*custom url scheme 값은 앱 마다 고유값으로 설정하는 것을 권장드립니다.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure>
+<div align="left">
 
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure>
 
+</div>
 
 {% code title="실행코드" %}
 ```javascript
@@ -85,7 +123,7 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_logi
 
 * 아래의 코드에서 todo 에 기재된 facebook 앱 아이디와 구글 client id 는 반드시 변경후에 사용해야 합니다.
 
-{% code title="login_example.html" fullWidth="true" %}
+{% code title="" fullWidth="false" %}
 ```html
 <html>
 <head>
@@ -247,6 +285,8 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_logi
 (2) 웹사이트에서 callback 함수를 정의하여 device token 을 받기
 
 1번 브라우저에서 로그인이 완료되면 아래의 정의된 callback 함수로 deviceToken 이 전달된다, idType 값은 login\_example.html 정의된 값으로 전달되는데 제공되는 소스에서는 "facebook", "google"로 구분되어 들어오게 되어있다.
+
+
 
 {% code title="사이트내 callback 구현" %}
 ```javascript
