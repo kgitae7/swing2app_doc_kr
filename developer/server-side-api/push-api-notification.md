@@ -10,7 +10,9 @@ description: 스윙투앱 푸시발송 API
 
 사전에 협의되지 않은 방식의 API 사용과 , 무분별한 대량발송의 경우 사용에 제한을 받을 수 있습니다.
 
-해당 API 는 유료앱 사용자에게 제공되는 항목 입니다.
+<mark style="color:red;">\*해당 API 는 유료앱 사용자에게 제공되는 항목 입니다.</mark>&#x20;
+
+<mark style="color:red;">이용권 구매 후 당사 고객센터로 필요한 정보를 요청주시면 App Id, App Key 등의 정보를 보내드립니다.</mark>&#x20;
 
 
 
