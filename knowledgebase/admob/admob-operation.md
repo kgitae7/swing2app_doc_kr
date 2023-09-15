@@ -106,7 +106,7 @@ description: 애드몹 운영 - 결제정보 추가, 미검토 및 차단 광고
 
 애드몹 플러그인을 신청해주신 분들은 반드시 위의 내용을 확인해서 앱 광고 게시가 지연되지 않도록 운영해주세요\~!
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

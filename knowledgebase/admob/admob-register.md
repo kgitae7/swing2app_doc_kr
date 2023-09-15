@@ -227,7 +227,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 2\)\[완료] 버튼 선택&#x20;
 
 {% hint style="danger" %}
-<mark style="color:red;"><mark style="color:orange;">**중요**<mark style="color:orange;"></mark>
+<mark style="color:red;">**중요**</mark>
 
 **스토어에 등록되어 있지 않은 앱은 AdMob에서 지원하는 스토어에 등록 및 연결될 때까지 광고 게재가 제한됩니다.**
 

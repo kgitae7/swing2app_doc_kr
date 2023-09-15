@@ -64,6 +64,10 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 
 
+**전체적인 툴바 메뉴 이용방법은 아래 매뉴얼로 확인해주세요.**
+
+{% embed url="https://documentation.swing2app.co.kr/manual/v3/webapp/pushapp-toolbar" %}
+
 
 
 ***
