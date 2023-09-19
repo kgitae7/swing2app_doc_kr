@@ -224,7 +224,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 더욱 자세한 내용은 아래 링크 첨부해드리니 확인해주세요!
 
-[**\[부관리자 지정 매뉴얼 확인하기\]**](appmanage/pushmember/associate-administrator.md)
+[**\[부관리자 지정 매뉴얼 확인하기\]**](../manual/appmanage/pushmember/associate-administrator.md)
 
 ![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 

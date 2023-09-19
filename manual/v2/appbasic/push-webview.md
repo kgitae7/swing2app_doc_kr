@@ -305,7 +305,7 @@
 
 제작한 앱을 다운(설치)받는 방법은 아래 매뉴얼에서 확인해주시기 바랍니다.
 
-**☞** [**핸드폰에 앱 설치하는 방법 보러가기**](../../appoperation/appinstall.md)
+**☞** [**핸드폰에 앱 설치하는 방법 보러가기**](../../../undefined/appoperation/appinstall.md)
 
 
 

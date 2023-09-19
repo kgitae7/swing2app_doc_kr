@@ -50,7 +50,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/20212906.png)
 
-[**\[부관리자 설정 상세 이용방법 매뉴얼\]**](../appmanage/pushmember/associate-administrator.md)을 참고해주세요.
+[**\[부관리자 설정 상세 이용방법 매뉴얼\]**](../../manual/appmanage/pushmember/associate-administrator.md)을 참고해주세요.
 
 
 

@@ -23,7 +23,7 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!
 
-**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../appoperation/share-app.md)
+**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/share-app.md)
 {% endhint %}
 
 ![](../../../.gitbook/assets/수평성.PNG)
@@ -142,7 +142,7 @@ description: 페이지 기본 기능 - 앱공유하기 이용방법 매뉴얼
 
 **★ 앱 공유, 게시판 및 게시물 공유 공유하기 전체 과정 매뉴얼은 아래 매뉴얼 확인해주세요\~!**&#x20;
 
-**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../appoperation/share-app.md)
+**☞** [**\[공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/share-app.md)
 
-**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](../../appoperation/board-share.md)
+**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/board-share.md)
 

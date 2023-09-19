@@ -148,7 +148,7 @@
 
 해당 기능의 이용방법은 아래 매뉴얼 링크로 확인하시면 상세히 확인 가능합니다.
 
-**☞**[**앱 관리자메뉴 이용방법 보러가기**](../../appoperation/appmanager.md)
+**☞**[**앱 관리자메뉴 이용방법 보러가기**](../../../undefined/appoperation/appmanager.md)
 
 
 

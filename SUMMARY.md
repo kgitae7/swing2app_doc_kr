@@ -24,7 +24,7 @@
 * [스윙투앱 업데이트](<README (1).md>)
 * [스윙투앱 업데이트 히스토리](update-history.md)
 
-## 스윙투앱 메뉴얼 <a href="#manual" id="manual"></a>
+## 제작 운영 가이드 <a href="#manual" id="manual"></a>
 
 * [이용 가이드](manual/guide/README.md)
   * [스윙투앱 이용 안내](manual/guide/swing2app-guide.md)
@@ -244,25 +244,6 @@
     * [세금계산서, 현금영수증 발행요청하기](manual/appmanage/pay/billing-publish.md)
     * [유료상품 취소 및 환불 정책](manual/appmanage/pay/refund.md)
   * [전체검색기능](manual/appmanage/search.md)
-* [어플리케이션 운영](manual/appoperation/README.md)
-  * [유료앱 전환 및 이용방법](manual/appoperation/paidversion-app.md)
-  * [앱 다운받는 방법 (APK파일 핸드폰 설치)](manual/appoperation/appinstall.md)
-  * [공유하기로 앱 설치하는 방법](manual/appoperation/share-app.md)
-  * [앱 설치 링크주소로 앱 다운받기](manual/appoperation/applink-install.md)
-  * [모바일 스윙투앱 사이트 접속 후 앱 다운받기](manual/appoperation/apk-install.md)
-  * [무료버전앱(APK파일) 설치가 안된다면 확인해주세요!](manual/appoperation/not-installed1.md)
-  * [유료버전앱(APK파일) 설치가 안된다면 확인해주세요!](manual/appoperation/not-installed2.md)
-  * [유료앱 기간 종료 후 무료앱 전환방법](manual/appoperation/freeapp-change.md)
-  * [앱 비밀번호 찾기](manual/appoperation/app-password.md)
-  * [앱 프로필 사진 등록 및 변경하기](manual/appoperation/appprofile-image.md)
-  * [앱 회원탈퇴 후 동일 아이디 재가입 방법](manual/appoperation/sameid-rejoin.md)
-  * [앱 - 게시판 게시물 공유하기](manual/appoperation/board-share.md)
-  * [앱 관리자 로그인 메뉴 이용방법](manual/appoperation/appmanager.md)
-  * [앱관리자메뉴:채팅하기](manual/appoperation/appmaster-chat.md)
-  * [앱 관리자메뉴:스탬프 등록하기](manual/appoperation/appmanager-stamp.md)
-  * [앱 관리자메뉴:쿠폰사용하기](manual/appoperation/appmanager-couponuse.md)
-* [앱미리보기 이용방법](manual/swingpreview.md)
-* [스윙투앱 브라우저 앱 이용방법](manual/webappconverter.md)
 * [스윙샵-스윙쇼핑몰](manual/swingshop/README.md)
   * [스윙샵(스윙 쇼핑몰) 신청방법](manual/swingshop/apply.md)
   * [스윙샵 상품유형](manual/swingshop/product.md)
@@ -298,10 +279,36 @@
   * [스윙페이지-마이페이지](manual/swingshop/mypage.md)
   * [스윙페이지-장바구니](manual/swingshop/cart.md)
   * [스윙페이지-디지털상품 구매완료 페이지](manual/swingshop/digital-products.md)
-* [제휴프로그램](manual/aff-program/README.md)
-  * [제휴프로그램 신청방법](manual/aff-program/apply.md)
-  * [제휴프로그램 약관](manual/aff-program/affiliate-program-terms.md)
-  * [제휴프로그램 홍보방법](manual/aff-program/promotion.md)
+
+## 앱 이용 가이드
+
+* [앱미리보기 이용방법](undefined/swingpreview.md)
+* [스윙투앱 브라우저 앱 이용방법](undefined/webappconverter.md)
+* [어플리케이션 운영](undefined/appoperation/README.md)
+  * [유료앱 전환 및 이용방법](undefined/appoperation/paidversion-app.md)
+  * [앱 다운받는 방법 (APK파일 핸드폰 설치)](undefined/appoperation/appinstall.md)
+  * [공유하기로 앱 설치하는 방법](undefined/appoperation/share-app.md)
+  * [앱 설치 링크주소로 앱 다운받기](undefined/appoperation/applink-install.md)
+  * [모바일 스윙투앱 사이트 접속 후 앱 다운받기](undefined/appoperation/apk-install.md)
+  * [무료버전앱(APK파일) 설치가 안된다면 확인해주세요!](undefined/appoperation/not-installed1.md)
+  * [유료버전앱(APK파일) 설치가 안된다면 확인해주세요!](undefined/appoperation/not-installed2.md)
+  * [유료앱 기간 종료 후 무료앱 전환방법](undefined/appoperation/freeapp-change.md)
+  * [앱 비밀번호 찾기](undefined/appoperation/app-password.md)
+  * [앱 프로필 사진 등록 및 변경하기](undefined/appoperation/appprofile-image.md)
+  * [앱 회원탈퇴 후 동일 아이디 재가입 방법](undefined/appoperation/sameid-rejoin.md)
+  * [앱 - 게시판 게시물 공유하기](undefined/appoperation/board-share.md)
+  * [앱 관리자 로그인 메뉴 이용방법](undefined/appoperation/appmanager.md)
+  * [앱관리자메뉴:채팅하기](undefined/appoperation/appmaster-chat.md)
+  * [앱 관리자메뉴:스탬프 등록하기](undefined/appoperation/appmanager-stamp.md)
+  * [앱 관리자메뉴:쿠폰사용하기](undefined/appoperation/appmanager-couponuse.md)
+
+## 프로그램 및 컨설팅
+
+* [스토어 유지보수 컨설팅](undefined-1/undefined.md)
+* [제휴프로그램](undefined-1/aff-program/README.md)
+  * [제휴프로그램 신청방법](undefined-1/aff-program/apply.md)
+  * [제휴프로그램 약관](undefined-1/aff-program/affiliate-program-terms.md)
+  * [제휴프로그램 홍보방법](undefined-1/aff-program/promotion.md)
 
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
