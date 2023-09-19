@@ -356,7 +356,7 @@
   * [갤럭시스토어 앱 업데이트하기](knowledgebase/galaxystore/galaxystore-update.md)
 * [애드몹(구글 애드몹 광고)](knowledgebase/admob/README.md)
   * [애드몹 플러그인 설정이란?](knowledgebase/admob/admob-pluginsettings.md)
-  * [Copy of 애드몹 예상 수익 계산기](knowledgebase/admob/annualrevenue.md)
+  * [애드몹 예상 수익 계산기](knowledgebase/admob/annualrevenue.md)
   * [애드몹 가입방법, 광고단위 아이디 만들기](knowledgebase/admob/admob-register.md)
   * [애드몹 플러그인 광고 셋팅](knowledgebase/admob/admob-apply.md)
   * [애드몹 - 테스트 아이디 설정](knowledgebase/admob/testad.md)
