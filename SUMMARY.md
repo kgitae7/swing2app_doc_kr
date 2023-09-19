@@ -401,10 +401,10 @@
 
 ## 이용약관 <a href="#terms" id="terms"></a>
 
-* [스윙투앱 서비스 이용약관](terms/user-protocol.md)
-* [스토어 이용약관](terms/market-policy.md)
-* [무료앱 설치 기기수 제한](terms/mau.md)
+* [스윙투앱 이용약관](terms/user-protocol.md)
 * [스윙투앱 개인정보 처리방침](terms/privacy.md)
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
-* [플레이스토어 업로드 대행 약관](terms/playstore-policy.md)
-* [앱스토어 업로드 대행 약관](terms/appstore-policy.md)
+* [스토어 이용약관](terms/market-policy/README.md)
+  * [플레이스토어 업로드 대행 약관](terms/market-policy/playstore-policy.md)
+  * [앱스토어 업로드 대행 약관](terms/market-policy/appstore-policy.md)
+* [무료앱 설치 기기수 제한](terms/mau.md)

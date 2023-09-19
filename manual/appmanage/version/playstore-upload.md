@@ -62,8 +62,8 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
-{% content-ref url="../../../terms/market-policy.md" %}
-[market-policy.md](../../../terms/market-policy.md)
+{% content-ref url="../../../terms/market-policy/" %}
+[market-policy](../../../terms/market-policy/)
 {% endcontent-ref %}
 
 ★ 앱스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!

@@ -4,7 +4,7 @@ description: 플레이스토어 업로드 신청 주의사항 약관
 
 # 플레이스토어 업로드 대행 약관
 
-<figure><img src="../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1.플레이스토어 심사 기간
 
@@ -25,6 +25,8 @@ description: 플레이스토어 업로드 신청 주의사항 약관
 심사 거절 안내 메일을 받으면 조치사항에 대해서 회신주셔야 재심사를 진행해드리며, **일주일 내로(7일) 회신을 주지 않으면 업로드건은 등록 보류로 처리됩니다.**
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/reject" %}
+
+
 
 ### 3.업로드팀 임의 수정 가능
 
