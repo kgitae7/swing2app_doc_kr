@@ -1,5 +1,5 @@
 ---
-description: 2023년 8월 2주차 스윙투앱 기능 업데이트
+description: 2023년 9월 4주차 스윙투앱 기능 업데이트
 ---
 
 # 스윙투앱 업데이트
@@ -8,54 +8,84 @@ description: 2023년 8월 2주차 스윙투앱 기능 업데이트
 
 ﻿**\[업데이트 내용]**
 
-**푸시 복사 기능 출시**
+**설문조사 화면 - 설문 시작하기 버튼 추가**
 
 <figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 복사 기능 출시**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **설문조사 화면 인터페이스 수정) 버튼 추가**&#x20;
 
-<figure><img src=".gitbook/assets/푸시복제.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/설문버트업뎃.png" alt=""><figcaption></figcaption></figure>
 
-**푸시 발송 복제 기능이 추가 되었습니다.**
+### <img src=".gitbook/assets/info (4).png" alt="" data-size="original"> **어떤 내용이 변경되었나요?**
 
-이전에 발송한 푸시와 동일한 내용의 푸시를 다시 보내고자 할 때 \[복제] 버튼을 이용하여 간편하게 다시 보낼 수 있습니다.
+<mark style="color:blue;">설문조사 리스트 화면에서 \[설문조사 시작하기] 버튼이 추가 되었습니다.</mark>&#x20;
 
-제목, 내용을 다시 입력하지 않아도 기존에 작성된 내용과 똑같이 적용되며 이미지, 링크 등도 동일하게 적용됩니다.
+<mark style="color:blue;">제출 완료된 설문은 \[제출 완료/ 설문 다시 제출하기] 버튼으로 명확히 표시될 수 있도록 수정하였습니다.</mark>&#x20;
 
+기존 화면에서는 시작을 확인할 수 있는 버튼이 없어 텍스트를 터치하여 설문을 진행하였는데요.&#x20;
 
-
-
-
-### ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10532101/20233803.png) **이용방법**
-
-[앱운영 – 푸시&회원 – 푸시 히스토리](http://www.swing2app.co.kr/view/push\_list) 이동하시면 확인 가능합니다.
-
-<figure><img src=".gitbook/assets/푸시복제1.png" alt=""><figcaption></figcaption></figure>
-
-1\)푸시 히스토리 선택
-
-2\)리스트 가장 오른쪽에 관리 영역에 보시면 \[복제]버튼 확인할 수 있습니다.
-
-복제 버튼을 누르면 ‘푸시 발송하기’ 화면으로 이동하며,&#x20;
-
-기존에 작성되었던 내용(메시지 제목, 내용, 이미지, 링크 등)이 동일하게 복사되어 연동됩니다.
-
-\*추가 안내 : 예약 푸시 삭제를 원하시면 \[반복취소] 버튼을 선택해주세요. 기존에는 예약 취소만 되었다면, 기록 자체가 삭제됩니다.&#x20;
+업데이트 된 화면에서는, 조금 더 쉽게 접근할 수 있도록 직관적인 UI디자인으로 시작 버튼을 추가했습니다.&#x20;
 
 
+
+### <mark style="color:blue;">**+추가 안내**</mark>
+
+“버튼 색상 및 글자색은 어떻게 반영되나요? 혹은 어떻게 수정할 수 있나요?”
+
+버튼 색상은 **앱제작 STEP2디자인 – 기본 스타일 및 옵션에서 설정한 컬러 테마 색상으로 적용됩니다.**
+
+
+
+**1)컬러 테마를 “컬러 셋트”에서 적용했다면**&#x20;
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/설문버튼1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+컬러 조합에서 왼쪽에 있는 색상이 “글자 색상”으로 적용되고, 오른쪽 테마색이 “버튼 색상”으로 적용됩니다.
+
+
+
+**2)컬러를 상세 설정에서 따로 적용했다면,**&#x20;
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/설문버튼2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**테마 색이 버튼 색상으로 들어가며, 글자 색이 버튼 글자 색으로 셋팅됩니다.**&#x20;
+
+<mark style="color:red;">**주의)**</mark> 앱 디자인 컬러와 연동이 되기 때문에 버튼만 따로 다른 색상으로 변경할 수 없습니다.
+
+
+
+### <img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/10532101/20233803.png" alt="" data-size="original"> **설문조사 기능 이용방법**
+
+설문조사는 게시판 관리에서 제공하는 설문조사를 등록한 뒤, 앱에 적용을 해야 이용할 수 있습니다.
+
+이용방법 상세 내용은 가이드 매뉴얼을 확인해주세요.&#x20;
+
+[설문조사 이용방법 매뉴얼 보러가기](https://documentation.swing2app.co.kr/manual/appmanage/service/survey)
 
 
 
 ### ![](<.gitbook/assets/warning-(2) (1).png>) 안내사항
 
 {% hint style="warning" %}
-1\)앱운영 대시보드 추가 기능으로, 앱 업데이트는 필요 없습니다. 즉시 이용 가능합니다.
+1\)해당 기능은 앱 업데이트가 필요합니다.&#x20;
 
-2\)복사하고자 하는 푸시 리스트를 확인 후 복제를 선택해주세요.
+23년 9월 15일 기준으로 신규 앱제작 하신 분들은 업데이트된 기능이 자동 반영됩니다.
 
-3\)복사시 내용 뿐만 아니라 수신대상자 역시 동일하게 선택이 됩니다.&#x20;
+이전에 제작하신 분들은 앱 업데이트를 하셔야 반영됩니다. &#x20;
 
-4\)예약 푸시도 이용 가능합니다.&#x20;
+스토어(앱스토어, 플레이스토어)에 출시된 앱은 업데이트 버전으로 다시 제출해주셔야 합니다.
+
+&#x20;
+
+2\)사용자들이 설문조사 완료 후 볼 수 있는 결과지 화면 역시, 업데이트 기능으로 곧 공지가 될 예정이오니 조금만 기다려 주시기 바랍니다. ^^
 {% endhint %}
 
 <figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
