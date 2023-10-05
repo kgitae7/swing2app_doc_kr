@@ -1,22 +1,26 @@
+---
+description: 앱 회원 탈퇴 후 동일 아이디로 재가입 하는 방법
+---
+
 # 앱 회원탈퇴 후 동일 아이디 재가입 방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%8F%84%EC%9B%80%EB%A7%90-%EC%9E%AC%EA%B0%80%EC%9E%85.png)
+***
 
-**앱 회원 탈퇴 후 동일 아이디로 재가입 하는 방법**
 
-Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하는 경우, 다시 재가입할 방법이 없나요?
 
-<mark style="color:orange;">앱에서 탈퇴를 하게 되면 동일 아이디로는 재가입이 불가해요.</mark>
+**Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하는 경우, 다시 재가입할 방법이 없나요?**
+
+앱에서 탈퇴를 하게 되면 동일 아이디로는 재가입이 불가해요.
 
 그런데 사용자가 동일 아이디 재가입을 원할 경우, 관리자가 웹 대시보드에서 조치를 취할 수 있습니다.
 
-<mark style="color:orange;">**회원조회에서 탈퇴한 해당 회원을 삭제 처리하면, 모든 정보가 없어지기 때문에 동일 아이디로 다시 가입할 수 있습니다.**</mark>
+**\*회원조회에서 탈퇴한 해당 회원을 삭제 처리하면, 모든 정보가 없어지기 때문에 동일 아이디로 다시 가입할 수 있습니다.**
 
 매뉴얼을 통해서 회원 탈퇴한 사용자를 다시 재가입 시킬 수 있게 하는 방법을 알려드릴게요!
 
+***
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱 회원 탈퇴하기**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱 회원 탈퇴하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C4.png)
 
@@ -28,15 +32,19 @@ Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C7.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C7.png" alt="">
+
+</div>
 
 탈퇴가 완료되었구요.
 
 다시 동일 아이디로 재가입을 하려고 하면 화면에서 보듯이 “아이디가 존재합니다” 라는 메시지가 뜨면서 동일 아이디로는 회원가입을 다시 할 수 없게 됩니다.
 
+***
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 회원조회: 회원 삭제하기**</mark>
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 회원조회: 회원 삭제하기**
 
 다음은 관리자가 웹 대시보드 회원조회 페이지에서 해당 회원을 삭제하는 방법을 알려드릴게요.&#x20;
 
@@ -46,7 +54,11 @@ Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C3.png" alt="">
+
+</div>
 
 회원조회 목록에서 1)탈퇴한 해당 사용자를 선택해주시구요.
 
@@ -58,11 +70,15 @@ Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하�
 
 따라서 동일 아이디로 재가입이 필요하다면, 회원 삭제를 통해서 회원 아이디 및 모든 정보를 앱에서 삭제해주셔야 합니다.
 
+***
 
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 동일 아이디로 앱 재가입**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 동일 아이디로 앱 재가입**</mark>
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C5.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C5.png" alt="">
+
+</div>
 
 관리자가 회원 삭제를 완료한 후, 탈퇴한 사용자가 다시 앱으로 접속해서 가입을 진행해볼게요.
 
@@ -70,15 +86,20 @@ Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하�
 
 
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**재가입 완료!**</mark>
+<mark style="color:orange;">**재가입 완료!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C6.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C6.png" alt="">
+
+</div>
 
 동일 (test17) 재가입이 되는 것을 확인할 수 있습니다
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="color:red;">**\*안내사항**</mark>
+
+{% hint style="warning" %}
+<mark style="color:red;">**안내사항**</mark>
 
 1.회원탈퇴시 기본적으로 동일 아이디는 재가입이 불가하게 셋팅되어 있습니다.
 
@@ -87,3 +108,5 @@ Q.앱 회원 탈퇴를 한 사용자가 동일 아이디로 재가입을 원하�
 2\. 회원삭제는 회원 아이디 뿐만 아니라 해당 회원이 작성한 게시물, 댓글 등의 정보도 모두 삭제가 됩니다.
 
 3\. 회원 삭제는 다시 복원이 되지 않기 때문에 삭제할 회원을 정확히 선택 후 진행해주시기 바랍니다.
+{% endhint %}
+

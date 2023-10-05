@@ -19,7 +19,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 \
 **매뉴얼을 통해서 앱에서 비밀번호를 잊어 버렸을  때, 비밀번호를 찾는 방법을 확인해주세요.**
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +27,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png" alt="" width="375">
 
 </div>
 
@@ -39,7 +39,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B81.png" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B81.png" alt="" width="375">
 
 </div>
 
@@ -105,7 +105,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 다시 앱으로 돌아와서 이메일과 복사해놓은 임시 비밀번호를 붙여 넣으면 정상 로그인 됩니다.
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -117,7 +117,7 @@ description: 어플리케이션 로그인 계정-비밀번호를 찾는 방법(�
 
 현재 비밀번호와 새 비밀번호를 입력한 뒤 저장해주세요.
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
