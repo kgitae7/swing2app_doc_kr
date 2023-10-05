@@ -20,15 +20,11 @@ description: 스윙투앱 푸시발송 API
 
 {% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="스윙투앱으로 푸시를 발송하기 위한 API" %}
 {% swagger-description %}
-<mark style="color:orange;">
-
-*** 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**
-
-</mark>
+<mark style="color:orange;">**\* 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**</mark>
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="app_id" required="true" type="" %}
-스윙투앱에서 제공하는 APP_ID
+스윙투앱에서 제공하는 APP\_ID
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="api_user" required="true" type="" %}
