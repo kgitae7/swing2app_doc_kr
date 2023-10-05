@@ -1,8 +1,14 @@
-# 앱 관리자 로그인 메뉴 이용방법
+---
+description: 앱 관리자 메뉴 이용 방법, 관리자 메뉴에서 제공하는 기능 안내
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4%EC%A0%9C%EB%AA%A9.png)
+# 앱 관리자 메뉴 :관리자 로그인
 
-**\[앱 관리자 로그인 메뉴란?]**
+***
+
+
+
+**앱 관리자 로그인 메뉴란?**
 
 앱 관리자메뉴는 기존에 스윙홈페이지에서 운영해야 했던 관리자 메뉴 중 자주 사용되는 기능들을 앱으로 연동시킨 서비스에요!!
 
@@ -18,13 +24,19 @@
 
 **앱 관리자메뉴 이용방법과 제공되는 기능에 대해서 알려드릴게요.**
 
+***
 
 
-### <mark style="color:blue;">**1. 앱 관리자 로그인 메뉴 이용방법**</mark>
+
+## **1. 앱 관리자 로그인 메뉴 이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B41-515x1024.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B41-515x1024.png" alt="" width="375">
+
+</div>
 
 <mark style="color:purple;">**앱 실행 후 \[설정]  → \[관리자 로그인] → \[스윙투앱 가입 계정 로그인] → 관리자 메뉴가 생성됩니다.**</mark>&#x20;
 
@@ -34,7 +46,7 @@
 
 아래 방법을 확인하여 이용해주시기 바랍니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">간편 로그인으로 이용중인 사용자분들은</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**\*부관리자로 등록하여 이용할수있습니다.**</mark>
 
@@ -52,11 +64,15 @@
 
 [**\[부관리자 설정 상세 이용방법 매뉴얼\]**](../../manual/appmanage/pushmember/associate-administrator.md)을 참고해주세요.
 
+***
 
 
-### <mark style="color:blue;">**2.  관리자 메뉴에서 제공하는 기능**</mark>
 
-<mark style="color:orange;">**1) 사용자관리**</mark>
+## **2.  관리자 메뉴에서 제공하는 기능**
+
+
+
+### <mark style="color:blue;">**1) 사용자관리**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B4%80%EB%A6%AC.png)
 
@@ -72,34 +88,45 @@
 
 
 
-<mark style="color:orange;">**2) 스탬프 등록하기**</mark>
+### <mark style="color:blue;">**2) 스탬프 등록하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1\_%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%8A%A4%ED%83%AC%ED%94%842.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1_%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%8A%A4%ED%83%AC%ED%94%842.png" alt="">
+
+</div>
 
 관리자메뉴에는 QR코드 스캐너가 내장되어 있기 때문에 , 사용자의 스탬프의 QR코드를 스캔하여 스탬프를 추가할 수 있습니다.
 
 
 
-<mark style="color:orange;">**3) 쿠폰 사용 처리하기**</mark>
+### <mark style="color:blue;">**3) 쿠폰 사용 처리하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9.png" alt="">
+
+</div>
 
 관리자메뉴에서 사용자에게 발송된 쿠폰번호를 입력하여 쿠폰은 사용처리할 수 있습니다.&#x20;
 
 쿠폰사용방법은 포스팅에 기재해놓았으니 확인해주세요!!
 
-[**☞ \[앱 관리자메뉴:쿠폰사용방법 매뉴얼 보러가기\]**](appmanager-couponuse.md)
+**☞ \[**[**앱 관리자메뉴:쿠폰사용방법 매뉴얼 보러가기**](https://documentation.swing2app.co.kr/undefined/appoperation/appmanager-couponuse)**]**
+
+***
 
 
 
-### <mark style="color:blue;">**3. 안내사항**</mark>
+## **3. 안내사항**
 
-1\) 관리자메뉴를 나오고 싶으시면 앱에서 로그아웃을 해주세요.&#x20;
+1\) 관리자메뉴를 나오고 싶다면 앱에서 로그아웃을 해주세요.&#x20;
 
-2\) 업데이트 이전 버전에서는 관리자 로그인 메뉴가 보이지 않습니다. 새버전으로 앱을 꼭 업데이트해주세요.&#x20;
+2\) 앱 관리자메뉴에서 제공되는 기능 중 \[QR코드로 스탬프 추가] 기능을 제외하고,&#x20;
 
-3\) 앱 관리자메뉴에서 제공되는 기능 중 \[QR코드로 스탬프 추가] 기능을 제외하고, 모든 기능은 스윙 사이트(홈페이지)에서 동일하게 이용할 수 있습니다.&#x20;
+모든 기능은 스윙투앱 사이트(홈페이지)에서 동일하게 이용할 수 있습니다.&#x20;
 
 \-QR코드로 스캔하는 기능은 앱에 내장된 리더기로 이용해야 하기 때문에 앱에서만 가능합니다.&#x20;
 
 \-사이트에서 스탬프 추가시 스탬프 번호를 입력하여 사용처리해주세요.&#x20;
+

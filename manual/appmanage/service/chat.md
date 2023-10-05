@@ -54,7 +54,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 채팅목록도 앱에 적용해주셔야 대화가 종료된 후에도 목록창에서 대화 내역을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/관리자채팅-채팅목록.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/관리자채팅-채팅목록 (1).png" alt=""><figcaption></figcaption></figure>
 
 앱제작 화면 이동
 
@@ -296,7 +296,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/관리자채팅8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/관리자채팅8 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -297,10 +297,10 @@
   * [앱 프로필 사진 등록 및 변경하기](undefined/appoperation/appprofile-image.md)
   * [앱 회원탈퇴 후 동일 아이디 재가입 방법](undefined/appoperation/sameid-rejoin.md)
   * [게시판, 게시물 공유하기](undefined/appoperation/board-share.md)
-  * [앱 관리자 로그인 메뉴 이용방법](undefined/appoperation/appmanager.md)
-  * [앱관리자메뉴:채팅하기](undefined/appoperation/appmaster-chat.md)
-  * [앱 관리자메뉴:스탬프 등록하기](undefined/appoperation/appmanager-stamp.md)
-  * [앱 관리자메뉴:쿠폰사용하기](undefined/appoperation/appmanager-couponuse.md)
+  * [앱 관리자 메뉴 :관리자 로그인](undefined/appoperation/appmanager.md)
+  * [앱 관리자메뉴:채팅](undefined/appoperation/appmaster-chat.md)
+  * [앱 관리자메뉴:스탬프 등록](undefined/appoperation/appmanager-stamp.md)
+  * [앱 관리자메뉴:쿠폰사용](undefined/appoperation/appmanager-couponuse.md)
 
 ## 프로그램 및 컨설팅
 
