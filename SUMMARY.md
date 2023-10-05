@@ -296,7 +296,7 @@
   * [앱 비밀번호 찾기](undefined/appoperation/app-password.md)
   * [앱 프로필 사진 등록 및 변경하기](undefined/appoperation/appprofile-image.md)
   * [앱 회원탈퇴 후 동일 아이디 재가입 방법](undefined/appoperation/sameid-rejoin.md)
-  * [앱 - 게시판 게시물 공유하기](undefined/appoperation/board-share.md)
+  * [게시판, 게시물 공유하기](undefined/appoperation/board-share.md)
   * [앱 관리자 로그인 메뉴 이용방법](undefined/appoperation/appmanager.md)
   * [앱관리자메뉴:채팅하기](undefined/appoperation/appmaster-chat.md)
   * [앱 관리자메뉴:스탬프 등록하기](undefined/appoperation/appmanager-stamp.md)
