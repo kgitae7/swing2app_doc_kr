@@ -1,5 +1,7 @@
 # 페이지 기능 - 이미지 페이지
 
+***
+
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**이미지페이지란?**
 
 이미지페이지는 사용자가 직접 만드는 사용자editor 제작도구입니다.
@@ -34,15 +36,13 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
-
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 단계**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-
-![](../../../.gitbook/assets/수평성.PNG)
+<figure><img src="../../../.gitbook/assets/KR-이미지 페이지 2.png" alt=""><figcaption></figcaption></figure>
 
 
+
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 사례**
 
@@ -100,7 +100,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(제작도구)**
 
@@ -290,7 +290,7 @@ TIP을 한가지 드리면요
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
 
@@ -328,7 +328,7 @@ TIP을 한가지 드리면요
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
 
@@ -462,7 +462,7 @@ TIP을 한가지 드리면요
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(이미지페이지 수정 방법)**
 

@@ -1,5 +1,7 @@
 # 페이지 기능 - HTML에디터 페이지
 
+***
+
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  **HTML 에디터페이지란?**
 
 스윙투앱 사용자페이지에서 제공하는 기능 중 하나로 사용자가 직접 웹페이지를 제작할 수 있는 메뉴에요.
@@ -24,15 +26,11 @@ HTML 에디터페이지는 사용자가 원하는 스타일대로 만들 수 있
 
 3\)HTML 에디터페이지는 갯수 제한없이 무제한으로 만들 수 있어요!
 
-![](../../../.gitbook/assets/수평성.PNG)
-
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **에디터 페이지 제작단계**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-HTML.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+<figure><img src="../../../.gitbook/assets/KR-HTML2.png" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱 실행화면) HTML에디터 페이지 적용**
 
@@ -306,7 +304,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. HTML에디터 페이지 제작 TIP**
 

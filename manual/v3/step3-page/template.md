@@ -4,6 +4,8 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 # 페이지 기능 - 업종별 템플릿
 
+***
+
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**템플릿 페이지란?**
 
 사용자페이지에서 제공하는 웹페이지 제작도구로 – 업종별 디자인 템플릿 제작 툴(tool)이구요.
@@ -20,7 +22,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**템플릿 페이지 제작 단계**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
+<figure><img src="../../../.gitbook/assets/KR-페이지 템플렛 2.png" alt=""><figcaption></figcaption></figure>
 
 **\[템플릿 페이지 제작하기]**
 
@@ -54,7 +56,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면 -템플릿 페이지 적용**
 
@@ -68,17 +70,17 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 홈화면부터 각 메뉴들은 모두 웹템플릿에서 제공하는 호텔03 템플릿페이지를 이용해서 앱에 적용했습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
 
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **업종별 템플릿 스타일 보러가**
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **업종별 템플릿 스타일 보러가기**
 
 [**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1 웹템플릿 페이지 새로 제작하기**
 
@@ -204,7 +206,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 만들어놓은 웹템플릿 페이지 앱에 적용하기**
 
@@ -246,7 +248,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.4 템플릿페이지 편집하기(수정 방법)**
 
