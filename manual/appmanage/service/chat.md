@@ -284,7 +284,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 **\*앱에서 회원에게 채팅을 하는 방법도 꼭!! 확인해주세요.**
 
-**☞** [**\[앱관리자메뉴 이용방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/appmanager.md)
+**☞** [**\[앱관리자메뉴 이용방법 매뉴얼 보러가기\]**](../../../appguide/appoperation/appmanager.md)
 
 
 

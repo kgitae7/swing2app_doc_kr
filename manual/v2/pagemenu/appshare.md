@@ -20,7 +20,7 @@
 
 <mark style="color:orange;">**공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!**</mark>
 
-**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/share-app.md)
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../../appguide/appoperation/share-app.md)
 
 ***
 
@@ -134,6 +134,6 @@
 
 <mark style="color:orange;">**★ 앱 공유, 게시판 및 게시물 공유 공유하기 전체 과정 매뉴얼은 아래 포스팅 링크를 확인해주세요\~!**</mark>&#x20;
 
-**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/share-app.md)
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](../../../appguide/appoperation/share-app.md)
 
-**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](../../../undefined/appoperation/board-share.md)
+**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](../../../appguide/appoperation/board-share.md)
