@@ -118,8 +118,8 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 보다 상세히 확인 가능합니다.
 
-{% content-ref url="../../v3/webapp/pushicon.md" %}
-[pushicon.md](../../v3/webapp/pushicon.md)
+{% content-ref url="../../../webappmanual/webapp/pushicon.md" %}
+[pushicon.md](../../../webappmanual/webapp/pushicon.md)
 {% endcontent-ref %}
 
 

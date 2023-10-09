@@ -20,7 +20,7 @@
 
 회원탈퇴는 **스윙 홈페이지 앱운영 페이지의 오른쪽 상단 프로필 선택 → 내정보 수정 →회원탈퇴 선택해주시면 됩니다.**&#x20;
 
-<img src="../.gitbook/assets/회원탈퇴.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/회원탈퇴.png" alt="" data-size="original">
 
 탈퇴하신 아이디는 복구가 불가능하며, 추후 같은 아이디로 재가입 할 수 없습니다.&#x20;
 

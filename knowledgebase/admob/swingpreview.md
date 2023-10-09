@@ -4,7 +4,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 # 앱미리보기 이용방법
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 미리보기란?**
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 미리보기란?**
 
 스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.
 
@@ -32,7 +32,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
 
-![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기
 
@@ -50,7 +50,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **▶** [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[앱 미리보기]  로그인**
 
@@ -80,7 +80,7 @@ description: 앱 미리보기 이용방법 매뉴얼
 간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or  QR코드로 미리보기 기능으로 이용해주세요.
 {% endhint %}
 
-![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. \[앱 미리보기] 앱 목록확인**
 
@@ -116,13 +116,13 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 앱 실행)안드로이드, 아이폰 앱 미리보기**
 
 
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**안드로이드폰-\[앱미리보기] 실행**</mark>
 
 <div align="left">
 
@@ -136,11 +136,11 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**아이폰 - \[앱미리보기] 실행**</mark>
 
 <div align="left">
 
-<img src="../.gitbook/assets/수정_미리보기.gif" alt="">
+<img src="../../.gitbook/assets/수정_미리보기.gif" alt="">
 
 </div>
 
@@ -154,9 +154,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 **따라서 앱 설치가 제대로 안된다면 아래 매뉴얼을 확인하여 보안 설정을 풀어주시기 바랍니다.**
 
-**▶**[ **\[앱(APK) 설치가 안된다면 확인해주세요!!\]**](appoperation/not-installed1.md)
+**▶**[ **\[앱(APK) 설치가 안된다면 확인해주세요!!\]**](../../undefined/appoperation/not-installed1.md)
 
-![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 앱미리보기에서 제공되는 기능
 
@@ -224,9 +224,9 @@ description: 앱 미리보기 이용방법 매뉴얼
 
 더욱 자세한 내용은 아래 링크 첨부해드리니 확인해주세요!
 
-[**\[부관리자 지정 매뉴얼 확인하기\]**](../manual/appmanage/pushmember/associate-administrator.md)
+[**\[부관리자 지정 매뉴얼 확인하기\]**](../../manual/appmanage/pushmember/associate-administrator.md)
 
-![](<../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 #### &#x20;<mark style="color:blue;">**2. QR코드로 앱 미리보기**</mark>&#x20;
 

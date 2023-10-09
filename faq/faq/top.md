@@ -134,7 +134,7 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 회원탈퇴는 스윙 홈페이지 앱운영 페이지의 오른쪽 상단 프로필 선택 → 내정보 수정 →회원탈퇴 선택해주시면 됩니다.&#x20;
 
-<img src="../.gitbook/assets/회원탈퇴.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/회원탈퇴.png" alt="" data-size="original">
 
 탈퇴하신 아이디는 복구가 불가능하며, 추후 같은 아이디로 재가입 할 수 없습니다.
 
@@ -158,7 +158,7 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 \+변경하기를 완료하면 관리자 등급 변경 완료됩니다. \~!!
 
-☞ [**\[앱 관리자 설정방법 확인하기\]**](../manual/appmanage/pushmember/appmaster.md)
+☞ [**\[앱 관리자 설정방법 확인하기\]**](../../manual/appmanage/pushmember/appmaster.md)
 
 </details>
 
@@ -192,7 +192,7 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 **1) 앱미리보기 확인**
 
-![](../.gitbook/assets/앱미리보기-1.png)
+![](../../.gitbook/assets/앱미리보기-1.png)
 
 앱스토어, 플레이스토어에서 \[스윙투앱] 공식앱을 다운 받아주세요.
 
@@ -306,7 +306,7 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 **\[이용기간 만료 메시지창]**
 
-<img src="../.gitbook/assets/이용기간만료.jpg" alt="" data-size="original">
+<img src="../../.gitbook/assets/이용기간만료.jpg" alt="" data-size="original">
 
 다시 무료로 앱을 사용하길 원할 경우 기간 종료 후에 기존에 핸드폰에 설치된 앱을 삭제하고 앱을 새 버전으로 다시 제작해주세요.
 

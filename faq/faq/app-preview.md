@@ -28,7 +28,7 @@
 
 <summary><strong>스윙 미리보기는 어떻게 이용할 수 있나요?</strong></summary>
 
-<img src="../.gitbook/assets/앱미리보기-1.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/앱미리보기-1.png" alt="" data-size="original">
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
 
@@ -173,7 +173,7 @@ QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이
 
 스윙투앱 가입시 간편로그인으로 진행하셨던 분들은 네이버, 구글, 페이스북 아이콘을 선택해서 로그인을 진행해주세요.
 
-![](../.gitbook/assets/al.PNG)
+![](../../.gitbook/assets/al.PNG)
 
 **\*아이폰은 간편 로그인 기능이 제공되지 않습니다.**
 

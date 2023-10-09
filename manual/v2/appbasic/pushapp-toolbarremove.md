@@ -154,7 +154,7 @@
 
 푸시앱에서 푸시를 발송하는 방법은 아래 매뉴얼 을 참고해주세요.
 
-**☞**[**푸시앱에서 푸시 발송하기**](../../appmanage/pushmember/pushapp-push.md)
+**☞**[**푸시앱에서 푸시 발송하기**](../../../webappmanual/webapp/pushapp-push.md)
 
 
 
