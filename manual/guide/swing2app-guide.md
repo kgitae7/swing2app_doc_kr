@@ -53,9 +53,7 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 ### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**무료버전앱, 유료버전앱 사용 범위**
 
 {% hint style="info" %}
-**무료 및 유료버전 사용 범위**
-
-
+<mark style="color:blue;">**무료 및 유료버전 사용 범위**</mark>
 
 **-무료버전 사용용도**
 
@@ -151,8 +149,6 @@ APK파일이 제작되면 해당 파일을 안드로이드폰에서 설치 or �
 **가장 좋은 TIP을 알려드리면, 앱제작 혹은 앱운영페이지의 메뉴들 옆에? 파란색 물음표아이콘이 있어요.**
 
 해당 버튼을 선택하면 바로 해당 메뉴의 도움말로 이동하니 앱제작시 어려운 부분이 있다면 이렇게 확인을 해주세요.
-
-**스윙투앱 앱제작 및 앱운영 이용방법 TIP을 확인해주세요**  [**\[이용방법 TIP안내\]**](https://documentation.swing2app.co.kr/manual/guide/appproduction-tip)
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
