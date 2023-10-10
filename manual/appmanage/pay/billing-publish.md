@@ -1,6 +1,8 @@
-# 세금계산서, 현금영수증 발행요청하기
+---
+description: 무통장 입금 후, 세금계산서 혹은 현금영수증 요청하는 방법
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD%EC%A0%9C%EB%AA%A9.png)
+# 세금계산서, 현금영수증 발행요청하기
 
 스윙투앱에서 무통장입금으로 결제를 하셨다면!
 
@@ -8,19 +10,21 @@
 
 아래 매뉴얼을 통해서 세금계산서 혹은 현금영수증 발행 요청하는 방법을 확인해주세요!
 
+***
 
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**세금계산서  및 현금영수증 요청방법**</mark>
+
+## **세금계산서  및 현금영수증 요청방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD.png)
 
 무통장 입금시 세금계산서 및 현금영수증 발행이 가능합니다.
 
-**입금 완료 후, **<mark style="color:blue;">**앱운영 페이지 → 결제 → 내결제 현황**</mark>**으로 이동하면 영수증 항목에서 \[세금계산서] or \[현금영수증]을 요청할 수 있습니다.**
+**입금 완료 후,** [<mark style="color:blue;">**앱운영 페이지 → 결제 → 내결제 현황**</mark>](https://www.swing2app.co.kr/view/payment\_list)**으로 이동하면 영수증 항목에서 \[세금계산서] or \[현금영수증]을 요청할 수 있습니다.**
 
 
 
-<mark style="color:blue;">**1. 세금계산서 요청**</mark>
+### <mark style="color:blue;">**1. 세금계산서 요청**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD1.png)
 
@@ -36,7 +40,7 @@
 
 
 
-<mark style="color:blue;">**2. 현금영수증 요청**</mark>
+### <mark style="color:blue;">**2. 현금영수증 요청**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD2.png)
 
@@ -50,7 +54,7 @@
 
 
 
-<mark style="color:blue;">**3. 발행완료 – 영수증 보기**</mark>
+### <mark style="color:blue;">**3. 발행완료 – 영수증 보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD3.png)
 
@@ -60,8 +64,11 @@
 
 **세금계산서가 필요하시면 위의 방법으로 요청해주시면 , 바로 발행 도와드리겠습니다.**
 
+***
 
 
+
+{% hint style="warning" %}
 <mark style="color:red;">**\*안내사항**</mark>
 
 1\)세금계산서 발행은 결제가 진행된 날을 기준으로 발행을 해드리지만, 실제 결제일이 지나서 요청을 하신 경우 요청한 날을 기준으로 발행이 됩니다.
@@ -84,4 +91,6 @@
 
 
 
-작은 세금도 놓치지 말고 모든 신청해주세요^^
+작은 세금도 놓치지 말고, 모두 신청해주세요^^
+{% endhint %}
+

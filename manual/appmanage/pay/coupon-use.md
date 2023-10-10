@@ -1,10 +1,13 @@
+---
+description: 스윙투앱 운영진에게 받은 쿠폰 - 앱에 적용하는 방법 안내
+---
+
 # 결제-쿠폰사용하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0-%EC%A0%9C%EB%AA%A91.png)
+***
 
-결제 메뉴에서 쿠폰을 사용하는 방법을 알려드릴게요.\
 \
-<mark style="background-color:blue;">**▶**</mark>**쿠폰사용하기란?**
+**쿠폰사용하기란?**
 
 결제 메뉴에서 사용되는 쿠폰은 \*서비스관리 -쿠폰 관리(쿠폰을 만들어서 앱 사용자들에게 배포) 메뉴와 다른 서비스에요!
 
@@ -18,9 +21,13 @@
 
 쿠폰 번호를 확인하여, 쿠폰사용하기 메뉴에서 번호를 입력한 뒤 이용할 수 있어요.
 
+***
 
 
-<mark style="color:blue;">**1. 스윙투앱 가입 계정(이메일)으로 쿠폰을 보내드려요.**</mark>
+
+## **1. 메일로 받은 쿠폰 확인**
+
+#### **쿠폰은 스윙투앱 가입 계정(이메일)으로 보내드려요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9\_18.103.png)
 
@@ -36,11 +43,17 @@
 
 <mark style="color:red;">\*쿠폰번호를 알아야 사용이 가능해요! 메일에 기재된 쿠폰번호는 복사해서 메모장 같은곳에 붙여넣기 해주세요.</mark>
 
+***
 
 
-<mark style="color:blue;">**2. 쿠폰 사용하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0%EC%8B%A0%EA%B7%9C1.png)
+## **2. 쿠폰 사용하기**
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0%EC%8B%A0%EA%B7%9C1.png" alt="">
+
+</div>
 
 메일에서 바로 쿠폰사용하기  페이지로 이동할 수 있구요.
 
@@ -58,9 +71,11 @@
 
 **한 계정에 여러 앱을 관리하고 있는 경우, 이용권 쿠폰을 적용하고자 하는 앱이 맞는지 반드시 확인해주세요!**
 
+***
 
 
-<mark style="color:blue;">**3. 내 결제 현황**</mark>
+
+## **3. 내 결제 현황**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A94\_18.10.png)
 
@@ -72,7 +87,8 @@
 
 
 
-<mark style="color:red;">**\[주의사항]**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">**주의사항**</mark>
 
 \*쿠폰은 번호를 입력한 순간 즉시 이용기간이 추가되며, 내 결제현황에서 쿠폰 사용을 확인할 수 있습니다.&#x20;
 
@@ -85,3 +101,5 @@
 \*1개월 이용권은 30일간 앱을 유료버전으로 이용할 수 있는 상품입니다. 유료이용기간이 끝나기 전 이용권 재결제를 하지 않으시면 앱 이용이 정지됩니다.&#x20;
 
 \*다시 무료로 사용하실 경우 앱제작(앱제작요청)한 번 더 해주시면 무료버전으로 전환됩니다. (무료버전은 스토어에서 사용불가)
+{% endhint %}
+
