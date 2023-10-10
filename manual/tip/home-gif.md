@@ -1,20 +1,28 @@
+---
+description: 앱제작 응용TIP) 홈화면에 움짤 GIF이미지를 넣어서 제작하는 방법
+---
+
 # 홈화면 GIF이미지 넣기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%88%ED%99%94%EB%A9%B4-%EC%9B%80%EC%A7%A4-1024x282.png)
 
-<mark style="color:purple;">**앱제작 응용TIP) 홈화면에 움짤 GIF이미지를 넣어서 제작하는 방법**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_17\_02\_03\_789.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_17_02_03_789.gif" alt="">
+
+</div>
 
 첨부된 이미지처럼 GIf이미지를 넣어서 홈화면을 움직이는 화면으로 제작할 수 있어요.\~!!
 
 홈화면에 움짤 이미지를 넣는 방법을 확인해주세요.
 
+***
+
+###
+
+## <mark style="color:blue;">**1. 홈화면에 움짤 이미지 넣기**</mark>
 
 
-### <mark style="color:blue;">**1. 홈화면에 움짤 이미지 넣기**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%88%ED%99%94%EB%A9%B4%EC%9D%B4%EB%AF%B8%EC%A7%80-new1.png)
 
 **앱제작 페이지의 페이지메뉴 단계로 이동해주세요.** &#x20;
 
@@ -64,11 +72,15 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 **왼쪽 핸드폰 가상머신을 보시면 이미지가 홈화면으로 적용된 것을 확인할 수 있어요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**특이사항**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_17\_34\_20\_516.gif)
+<mark style="color:orange;">**특이사항**</mark>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_17_34_20_516.gif" alt="">
+
+</div>
 
 \*이미지 파일로 첨부했기 때문에 앱에서 이미지를 터치하면 가상머신에서 보는 것 처럼 이미지상세보기가 뜹니다.
 
@@ -76,9 +88,17 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 
 
-### <mark style="color:blue;">**2. 이미지 페이지에 움짤 이미지 적용하기**</mark>
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_17\_02\_03\_789.gif)
+
+
+## **2. 이미지 페이지에 움짤 이미지 적용하기**
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_17_02_03_789.gif" alt="">
+
+</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_17\_05\_58\_64.gif)
 
@@ -86,7 +106,43 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 **이미지 페이지 제작방법 상세 방법은 아래 매뉴얼을 확인해주시기 바랍니다.**
 
-**☞**[ **이미지 페이지 제작방법 매뉴얼 보러가기**](../v2/pagemenu/imagepage.md)
+
+
+***
+
+
+
+## 3.HTML에디터에서 움짤 이미지 적용하기
+
+HTML에디터 페이지에서도 제작도구 화면에 gif이미지를 넣을 수 있습니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/움짤-응용1.png" alt=""><figcaption></figcaption></figure>
+
+에디터 역시 편집 화면에서&#x20;
+
+1\)이미지 업로드 버튼 선택
+
+2\)파일 첨부창에서 "모든 파일" 선택
+
+3\)등록하고자 하는 이미지 선택 후 \[열기] 버튼 선택
+
+4\)에디터 화면에 이미지가 등록된 것을 확인할 수 있습니다.
+
+저장 후 앱제작에서 다시 저장을 해주시면, 앱에 반영됩니다.&#x20;
+
+
+
+### 앱 실행화면
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/녹화_2023_10_10_16_21_32_839.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+하단 배너를  움짤 gif 이미지로 넣어서 화면이 전환되는 것을 확인할 수 있습니다.
+
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
