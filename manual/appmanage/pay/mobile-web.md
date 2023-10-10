@@ -58,7 +58,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 모바일 웹 업로드 티켓 구매하기
 
-<figure><img src="../../../.gitbook/assets/모바일웹-이용권구매.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/모바일웹-이용권구매 (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\*\* 모바일 웹 등록 신청을 하기 위해서는 먼저 유료 이용권 구매가 되어 있어야 합니다.**</mark>
 
