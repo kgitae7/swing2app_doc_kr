@@ -20,9 +20,9 @@ description: 앱제작 응용TIP) 홈화면에 움짤 GIF이미지를 넣어서 
 
 ###
 
-## <mark style="color:blue;">**1. 홈화면에 움짤 이미지 넣기**</mark>
+## **1. 홈화면에 움짤 이미지 넣기**
 
-
+<figure><img src="../../.gitbook/assets/이미지업로드.png" alt=""><figcaption></figcaption></figure>
 
 **앱제작 페이지의 페이지메뉴 단계로 이동해주세요.** &#x20;
 
@@ -74,7 +74,7 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 
 
-<mark style="color:orange;">**특이사항**</mark>
+### <mark style="color:orange;">**특이사항**</mark>
 
 <div align="left">
 
@@ -92,7 +92,7 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 
 
-## **2. 이미지 페이지에 움짤 이미지 적용하기**
+## **2.이미지 페이지에 움짤 이미지 적용하기**
 
 <div align="left">
 
@@ -105,6 +105,8 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 이미지 페이지 제작도구에서도 움짤 이미지 적용이 가능합니다.
 
 **이미지 페이지 제작방법 상세 방법은 아래 매뉴얼을 확인해주시기 바랍니다.**
+
+{% embed url="https://documentation.swing2app.co.kr/manual/v3/step3-page/imagepage" %}
 
 
 
@@ -144,9 +146,14 @@ HTML에디터 페이지에서도 제작도구 화면에 gif이미지를 넣을 �
 
 
 
+HTML에디터 제작방법 상세 매뉴얼은 아래 가이드로 확인해주세요.
+
+{% embed url="https://documentation.swing2app.co.kr/manual/v3/step3-page/editorpage" %}
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="color:red;">**★ 안내사항**</mark>
+{% hint style="warning" %}
+&#x20;<mark style="color:red;">**안내사항**</mark>
 
 1\) 움짤 이미지는 사용자가 직접 제작해주셔도 되고, 별도의  gif파일을 쓰셔도 됩니다.
 
@@ -157,3 +164,5 @@ HTML에디터 페이지에서도 제작도구 화면에 gif이미지를 넣을 �
 3\) 파일 용량 5MB 이내로만 업로드 가능합니다.
 
 4\) 파일 업로드시 ‘모든 파일’ 열기로 설정하셔야 gif파일이 열립니다.
+{% endhint %}
+
