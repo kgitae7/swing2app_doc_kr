@@ -42,7 +42,7 @@ V3에서는 툴바를 원하는 메뉴들로 직접 구성할 수 있고, 아이
 
 [**\[푸시앱제작 매뉴얼 보러가기\]**](push.md)
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1. 툴바(Toolbar)이용방법**
 
@@ -68,7 +68,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**새로고침 툴바 메뉴 적용하기**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**새로고침 툴바 메뉴 적용하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A93.png)
 
@@ -86,7 +86,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**툴바에서 제공되는 기본 기능**</mark>
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**툴바에서 제공되는 기본 기능**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%8A%A51.png)
 
@@ -104,7 +104,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 
 
-#### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**메뉴 리스트 수정방법**</mark>
+#### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**메뉴 리스트 수정방법**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EB%A9%94%EB%89%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
 
@@ -122,7 +122,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 {% embed url="https://documentation.swing2app.co.kr/manual/v3/webapp/toolbalist" %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 툴바 메뉴 추가, 제거**
 
@@ -134,13 +134,13 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 ​
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 툴바 메뉴 이동**
 
-![](../../../.gitbook/assets/툴바이동1.png)
+![](../../.gitbook/assets/툴바이동1.png)
 
-![](../../../.gitbook/assets/툴바이동2.png)
+![](../../.gitbook/assets/툴바이동2.png)
 
 툴바 메뉴 순서를 변경할 수 있습니다.
 
@@ -148,7 +148,7 @@ MENU설정 – Toolbar 왼쪽의 화살표 부분을 마우스로 클릭하면 �
 
 드래그하는 위치로 메뉴 이동이 완료됩니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 툴바 아이콘 이미지 등록하기**
 
@@ -160,7 +160,7 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-#### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
+#### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
 <div align="left">
 
@@ -172,7 +172,7 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-#### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">툴바 아이콘 이미지 등록하기</mark>
+#### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">툴바 아이콘 이미지 등록하기</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%981.png)
 
@@ -210,7 +210,7 @@ v3버전의 툴바 신규 기능 중, 툴바 아이콘을 다른 이미지로 �
 
 ​
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5. 툴바 기본 옵션, 고급 옵션**
 

@@ -4,7 +4,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 # 푸시 아이콘 이미지 등록하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **푸시란? 푸시 아이콘 이미지란?**
 
@@ -22,7 +22,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EB%9E%80\_886.png)
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.푸시 아이콘 이미지**
 
@@ -40,7 +40,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 \*푸시 아이콘을 별도 설정하지 않으면, 앱 아이콘 이미지로 자동 발송됩니다. \_안드로이드, 아이폰 동일
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.푸시 아이콘 이미지 설정하기**
 
@@ -74,7 +74,7 @@ description: 안드로이드폰 푸시 아이콘 이미지를 적용하는 방�
 \-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 플레이스토어에 업데이트를 다시 해주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.안내사항**
 

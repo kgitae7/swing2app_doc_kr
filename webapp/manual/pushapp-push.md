@@ -4,7 +4,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 # 푸시앱에서 푸시발송하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
@@ -42,7 +42,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/pushmember/push" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. **푸시 발송하기**
 
@@ -54,7 +54,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 ### <mark style="color:blue;">1.기본설정</mark>
 
-<figure><img src="../../../.gitbook/assets/푸시발송_업뎃2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시발송_업뎃2.png" alt=""><figcaption></figcaption></figure>
 
 푸시발송하기 첫번째 단계는 기본설정입니다. &#x20;
 
@@ -94,7 +94,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 회원을 연동하면 웹사이트의 회원 정보를 가져올 수 있고, 푸시 역시 개별 회원을 선택해서 보낼 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/푸시앱_회원연동5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱_회원연동5.png" alt=""><figcaption></figcaption></figure>
 
 \[자세히보기] 버튼을 클릭하면, 웹사이트 연동에 관련된 가이드를 확인할 수 있습니다.
 
@@ -126,7 +126,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시7_19.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시7_19.09.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -146,7 +146,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 ### <mark style="color:blue;">2.푸시보내기</mark>
 
-<figure><img src="../../../.gitbook/assets/푸시발송_업뎃1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시발송_업뎃1.png" alt=""><figcaption></figcaption></figure>
 
 **1)푸시 메시지 제목 **<mark style="color:red;">**\*필수입력**</mark>
 
@@ -176,7 +176,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 발송하기 버튼을 선택하면 발송 완료됩니다!
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 푸시 발송 화면(안드로이드폰)
 
@@ -218,7 +218,7 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 (안드로이드폰에서 확인 가능, 아이폰은 앱스토어에 출시한 경우만 확인 가능)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 푸시  테스트 발송
 
@@ -244,5 +244,5 @@ description: 푸시전용앱 푸시 발송방법 매뉴얼
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: 웹뷰앱, 푸시앱에 앱 종료 알림 메시지 띄우는 방�
 
 # 웹뷰, 푸시앱 - 앱 종료 알림 메시지
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1.앱 종료 알림 메시지란?**
 
@@ -18,13 +18,13 @@ description: 웹뷰앱, 푸시앱에 앱 종료 알림 메시지 띄우는 방�
 
 **웹뷰앱, 푸시앱 제작시 알림 메시지 표시 사용 여부를 선택할 수 있도록 옵션에서 설정 가능합니다.**&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**2.이용방법**
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/앱종료-메시지-이용 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/앱종료-메시지-이용 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,13 +42,13 @@ description: 웹뷰앱, 푸시앱에 앱 종료 알림 메시지 띄우는 방�
 
 5\)\[앱 업데이트] 버튼을 선택합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**3.**앱 적용 화면
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/앱종료메시지업데이트(폰).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/앱종료메시지업데이트(폰).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,7 +62,7 @@ description: 웹뷰앱, 푸시앱에 앱 종료 알림 메시지 띄우는 방�
 
 Back 버튼 선택시, 더이상 돌아갈 이전 페이지가 없으면 앱이 자동 종료됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4.안내사항
 

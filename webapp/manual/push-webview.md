@@ -1,6 +1,6 @@
 # 푸시앱, 웹뷰앱 초간단 제작방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 **운영중인 홈페이지(웹사이트)가 있다면,**&#x20;
 
@@ -16,7 +16,7 @@
 
 **푸시전용앱, 웹뷰전용 앱을 제작하는 방법을 알려드리겠습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -187,7 +187,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -347,7 +347,7 @@
 
 이미지에서 보듯이 모바일웹과 만들어놓은 웹뷰 앱은 차이 없이 동일합니다.
 
-![](../../../.gitbook/assets/수평성.PNG)
+![](../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시앱, 웹뷰앱 제작 안내사항**
 
@@ -375,7 +375,7 @@
 
 **☞** [**핸드폰에 앱 설치하는 방법 보러가기**](https://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
 
-![](../../../.gitbook/assets/수평성.PNG)
+![](../../.gitbook/assets/수평성.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 및 웹뷰앱 제작시 주의해주세요.**&#x20;
 

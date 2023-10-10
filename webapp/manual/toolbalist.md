@@ -22,7 +22,7 @@ description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수�
 
 이미지 참고)
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴리스트.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴리스트.png" alt=""><figcaption></figcaption></figure>
 
 웹 미리보기(가상머신)에서 보시는 것처럼 메뉴 툴바에는 스윙투앱, 유튜브, 인스타그램 등 이러한 기능들이 자동으로 셋팅되어 있습니다.
 
@@ -34,7 +34,7 @@ description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴삭제2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴삭제2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수�
 
 메뉴(Menu)를 사용하고, 메뉴 내에 제공되는 페이지(기능)을 수정한다면 아래 매뉴얼에서 알려드리는 방법으로 진행해주세요.
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴0.png" alt=""><figcaption></figcaption></figure>
 
 MENU설정 아래에 보시면 Toolba와 Menu가 있습니다.
 
@@ -82,7 +82,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴핸드폰.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴핸드폰.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,7 +96,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴삭제 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴삭제 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -110,7 +110,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ### **2)메뉴 추가하기**
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴추가.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴추가.png" alt=""><figcaption></figcaption></figure>
 
 \+ 모양 아이콘을 누르면 새 메뉴가 생성됩니다.
 
@@ -122,7 +122,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴1.png" alt=""><figcaption></figcaption></figure>
 
 웹링크는 가장 많이 활용할 수 있는 기능 중 하나이구요.
 
@@ -158,7 +158,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -204,13 +204,13 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴핸드폰 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴핸드폰 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/녹화_2023_09_12_17_37_00_976.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/녹화_2023_09_12_17_37_00_976.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -230,7 +230,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -240,7 +240,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ### 2)아이콘 이미지 등록하기
 
-<figure><img src="../../../.gitbook/assets/툴바11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바11.png" alt=""><figcaption></figcaption></figure>
 
 (1)STEP3 페이지
 
@@ -284,7 +284,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바9.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -300,7 +300,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바메뉴7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바메뉴7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -314,7 +314,7 @@ HEX 값을 직접 입력하거나, 색상 버튼을 선택해서 원하는 색�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/이미지 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -4,13 +4,13 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 # 스윙투앱 푸시앱
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 푸시앱 소개
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시앱1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱1 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시앱2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱2 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시앱3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱3 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +78,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/툴바기능소개.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/툴바기능소개.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -104,7 +104,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -164,7 +164,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시앱-가격정책.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱-가격정책.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -190,7 +190,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 플레이스토어, 앱스토어 출시 여부에 따라 각각의 플랫폼별 상품 구매가 가능하오니 합리적으로 이용할 수 있습니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **★ 웹뷰앱과 푸시앱의 차이??**

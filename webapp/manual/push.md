@@ -4,7 +4,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 # 푸시앱 매뉴얼
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **푸시앱이란?**
 
@@ -14,9 +14,9 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 웹뷰앱과는 다르게 푸시앱은 앱을 설치한 사용자들에게푸시 알림을 보낼 수 있다는 것이 가장 큰 특징입니다!
 
-![](../../../.gitbook/assets/푸시앱1.png)
+![](../../.gitbook/assets/푸시앱1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **푸시앱 절차(제작방법 및 상품 구매, 스토어 출시 과정 가이드)**
 
@@ -54,9 +54,9 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 
 
-![](../../../.gitbook/assets/수평성.PNG)
+![](../../.gitbook/assets/수평성.PNG)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **Start. 앱제작 마법사 시작하기**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **Start. 앱제작 마법사 시작하기**
 
 **​**스윙투앱에서 처음 앱을 제작하거나, 앱 추가 제작을 시작할 때 앱제작 마법사 시작 화면(팝업창)이 먼저 뜹니다.
 
@@ -80,7 +80,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 다음 단계는 기본 정보 입력단계로 웹앱 제작에 필요한 기본적인 내용을 입력합니다.
 
-![](../../../.gitbook/assets/푸시앱2.png)
+![](../../.gitbook/assets/푸시앱2.png)
 
 **1)웹사이트주소(URL)를 입력해주세요.**
 
@@ -106,7 +106,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 <mark style="color:blue;">**3.앱이름, 아이콘, 대기화면 이미지 입력**</mark>
 
-![](../../../.gitbook/assets/푸시앱3.png)
+![](../../.gitbook/assets/푸시앱3.png)
 
 마지막 단계에서는 **앱이름 입력, 앱 아이콘, 대기화면 이미지를 등록합니다.**
 
@@ -120,7 +120,7 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 <mark style="color:green;">**–> 아이콘, 대기화면 이미지 등록방법**</mark>
 
-![](../../../.gitbook/assets/푸시앱4.png)
+![](../../.gitbook/assets/푸시앱4.png)
 
 앱 아이콘, 대기화면은 \[등록] 버튼을 선택하면 파일 첨부 창이 열리구요.
 
@@ -140,11 +140,11 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 
 \*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP1 기본정보**
 
-![](../../../.gitbook/assets/푸시1.png)
+![](../../.gitbook/assets/푸시1.png)
 
 **STEP1 기본정보에 있는 내용은 앱 아이디를 제외하고 앱제작 마법사에서 이미 다 등록한 내용입니다.**
 
@@ -188,11 +188,11 @@ description: 앱제작 V3버전 – 푸시앱 제작방법 및 스토어 출시�
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP2 디자인
+## ![](<../../.gitbook/assets/image (2) (1).png>) STEP2 디자인
 
-![](../../../.gitbook/assets/푸시2.png)
+![](../../.gitbook/assets/푸시2.png)
 
 STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 설정합니다.
 
@@ -250,11 +250,11 @@ STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 �
 앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) STEP3 페이지
+## ![](<../../.gitbook/assets/image (2) (1).png>) STEP3 페이지
 
-![](../../../.gitbook/assets/푸시3.png)
+![](../../.gitbook/assets/푸시3.png)
 
 STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 되는데 해당 내용도 이미 앱제작 마법사에서 등록을 했어요.
 
@@ -280,13 +280,13 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 앱 업데이트(앱재제작)을 하지 않아도 됩니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP4 앱제작하기**
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/푸시4.png" alt="">
+<img src="../../.gitbook/assets/푸시4.png" alt="">
 
 </div>
 
@@ -312,7 +312,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -320,7 +320,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/웹뷰5.PNG" alt="">
+<img src="../../.gitbook/assets/웹뷰5.PNG" alt="">
 
 </div>
 
@@ -356,9 +356,9 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 제작은 별도 비용이 없이 무료로 이용이 가능합니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP5 핸드폰에 앱 다운받아 확인하기**
 
 \*웹뷰, 푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인할 수 없어요)
 
@@ -366,7 +366,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/앱미리보기-1 (1).png" alt="">
+<img src="../../.gitbook/assets/앱미리보기-1 (1).png" alt="">
 
 </div>
 
@@ -398,7 +398,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/녹화_2020_09_09_15_12_16_838.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/녹화_2020_09_09_15_12_16_838.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -414,9 +414,9 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 유료버전 전환은 스윙투앱 유료앱 이용권을 구매해주시면 됩니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP6 이용권 및 티켓 구매**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP6 이용권 및 티켓 구매**
 
 
 
@@ -434,7 +434,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시무제한상품구매 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시무제한상품구매 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -468,7 +468,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/warning-(2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/warning-(2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -530,7 +530,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/기본형-이용권-구매(푸시앱).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/기본형-이용권-구매(푸시앱).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -570,7 +570,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/푸시커스텀.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시커스텀.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -578,7 +578,7 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 **업로드 티켓 이슈 및 상품 상세 설명을 확인해주세요.**
 
@@ -624,13 +624,13 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP7 스토어 업로드 신청**
 
 위에서 이용권과 티켓을 모두 구매했다면! 업로드 신청을 해야 스윙투앱으로 업로드 신청서가 접수됩니다.
 
-<figure><img src="../../../.gitbook/assets/업로드-신청방법.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/업로드-신청방법.png" alt=""><figcaption></figcaption></figure>
 
 \*[앱운영 → 버전관리→앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
 
@@ -650,13 +650,13 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 {% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP8 스토어 출시 완료 (심사 후 출시)**
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/유료버전3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/유료버전3.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -710,9 +710,9 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 {% embed url="https://documentation.swing2app.co.kr/market-policy" %}
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP9 주의사항 및 푸시앱 제작 Q\&A**
+## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP9 주의사항 및 푸시앱 제작 Q\&A**
 
 **​**
 

@@ -4,7 +4,7 @@ description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레�
 
 # 프로그레스바 색상 설정
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.프로그레스바란?**&#x20;
 
@@ -24,7 +24,7 @@ description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)2.이용방법
 
@@ -52,7 +52,7 @@ description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레�
 
 ​
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)3.앱 실행화면) 프로그레스바 색상 변경
 
@@ -66,7 +66,7 @@ description: 웹뷰전용, 푸시전용 앱에서 적용가능한 '프로그레�
 
 웹사이트 메인 컬러나 원하는 색상이 있을 경우 프로그레스바 색상 설정에서 색상 값을 설정하여 이용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)4.안내사항
 

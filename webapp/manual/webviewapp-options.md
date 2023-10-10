@@ -8,7 +8,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 웹뷰앱 제작시 설정할 수 있는 기본 스타일 옵션, 고급 스타일 옵션에 대해 안내드리겠습니다.
 
-![](../../../.gitbook/assets/새로고침,탑버튼.png)
+![](../../.gitbook/assets/새로고침,탑버튼.png)
 
 프로토타입: 웹뷰전용 선택, STEP2 디자인 단계에서 기본 스타일 옵션과 고급 스타일 옵션을 확인할 수 있습니다.
 
@@ -22,13 +22,13 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 해당 기능을 사용한 앱 적용 화면을 아래에서 소개해드릴게요.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### 1. 당겨서 새로고침
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/새로고팀.png" alt="">
+<img src="../../.gitbook/assets/새로고팀.png" alt="">
 
 </div>
 
@@ -36,7 +36,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/녹화_2022_06_20_11_53_50_900.gif" alt="">
+<img src="../../.gitbook/assets/녹화_2022_06_20_11_53_50_900.gif" alt="">
 
 </div>
 
@@ -48,13 +48,13 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 미사용으로 체크시 앱에서 새로고침을 이용할 수 없습니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### 2. 탑 버튼
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/탑버튼.png" alt="">
+<img src="../../.gitbook/assets/탑버튼.png" alt="">
 
 </div>
 
@@ -64,7 +64,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/녹화_2022_06_20_11_54_37_886.gif" alt="">
+<img src="../../.gitbook/assets/녹화_2022_06_20_11_54_37_886.gif" alt="">
 
 </div>
 
@@ -88,7 +88,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/탑버튼2.png" alt="">
+<img src="../../.gitbook/assets/탑버튼2.png" alt="">
 
 </div>
 
@@ -96,7 +96,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 따라서 해당 기능은 웹사이트 내 탑버튼이 없을 경우 이용해주시기 바랍니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### **3. 시스템 폰트 사용**
 
@@ -112,7 +112,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/시스템폰트1.png" alt="">
+<img src="../../.gitbook/assets/시스템폰트1.png" alt="">
 
 </div>
 
@@ -128,7 +128,7 @@ description: 당겨서 새로고침, 화면 하단 탑버튼, 시스템 폰트 �
 
 옵션에서 기본 설정은 "예"에 체크되어 있으므로 별도 수정 없이 그대로 제작해주세요.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### 4.안내사항
 
