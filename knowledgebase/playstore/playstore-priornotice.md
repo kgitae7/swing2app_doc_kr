@@ -1,20 +1,30 @@
-# 플레이스토어 사전고지 문서 제출하기
+---
+description: 구글 플레이스토어 사전고지 문서 제출하기
+---
 
-**구글 플레이스토어 사전고지 문서 제출하기**
+# 플레이스토어 사전고지 문서(증빙서류)
+
+***
 
 구글 플레이스토어 앱을 출시할 때 심사시 참고할 수 있도록 사전고지 문서를 제출할 수 있는데요.
 
-<mark style="color:purple;">\*\*웹뷰앱, 푸시버전앱으로 앱을 출시하는 분들은 반드시 사전고지 문서를 제출해야 하기 때문에 매뉴얼을 확인하여 제출 서류 및 제출 방법을 확인해주세요.</mark>
+<mark style="color:red;">\*\*웹뷰앱, 푸시버전앱으로 앱을 출시하는 분들은 반드시 사전고지 문서를 제출해야 하기 때문에 매뉴얼을 확인하여 제출 서류 및 제출 방법을 확인해주세요.</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:green;">**사전고지 문서란?**</mark>
+
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**사전고지 문서란?**</mark>
 
 플레이스토어에 앱을 등록할 때, **앱이 구글 정책에 위반될 수 있는 항목이 아님을 증명하는 서류를 제출하는 것입니다.**
 
 **따라서 사전고지 문서란 앱 심사에 미리 서류를 제출하여 앱이 문제가 없음을 증명하여 정상 출시 될 수 있도록 하는 것입니다.**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:green;">**사전고지에 해당 되는 시나리오**</mark>
 
-– 앱이 타사의 지적재산권(브랜드 이름, 웹사이트, 로고, 이미지 등)을 사용할 권리가 있는 경우
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**사전고지에 해당 되는 시나리오**</mark>
+
+– 웹사이트를 연결한 웹앱 (푸시앱 or웹뷰앱) 웹사이트 소유주를 증명할 수 있는 웹 도메인 등록 확인서
+
+\-앱이 타사의 지적재산권(브랜드 이름, 웹사이트, 로고, 이미지 등)을 사용할 권리가 있는 경우
 
 \-정보 또는 정부기관을 대신하여 만들어졌음을, 허가 받았음을 증명하는 서류가 있는 경우
 
@@ -22,7 +32,9 @@
 
 **위의 시나리오에 해당되는 앱을 제작했다면, 플레이스토어 앱 제출시 증빙서류를 사전고지 문서로 함께 제출해야 앱이 정상 출시됩니다.**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:green;">**웹뷰앱, 푸시버전앱은 반드시 사전고지 문서를 함께 제출해야 합니다.**</mark>
+
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**웹뷰앱, 푸시버전앱은 반드시 사전고지 문서를 함께 제출해야 합니다.**</mark>
 
 스윙투앱으로 앱을 제작한 분들 중 \***웹뷰 앱, 푸시버전앱(웹사이트를 그대로 앱에 연동한 웹브라우저 앱 형태)**으로 제작한 사용자분들은 플레이스토어 앱 등록시 위의 사전고지 문서를 제출해야 합니다.
 
@@ -30,9 +42,9 @@
 
 **따라서 앱에 연결된 웹사이트가 업체 혹은 본인의 소유가 맞는지 증빙서류를 제출해야 하며, 일반적으로 사업자등록증 혹은 웹사이트 도메인 등록 정보를 제출하시면 됩니다.**
 
+***
 
-
-### <mark style="color:blue;">**STEP.1 스토어 등록정보- 사전고지 대상**</mark>&#x20;
+## <mark style="color:blue;">**STEP.1 스토어 등록정보- 사전고지 대상**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C1new.png)
 
@@ -44,9 +56,11 @@
 
 \[앱 세부정보] 밑에  <mark style="color:blue;">파란색으로 된 ‘사전고지 대상’</mark> 내용을 클릭해주세요. &#x20;
 
+***
 
 
-### <mark style="color:blue;">**STEP.2 구글 앱 검토팀에 사전고지 제공하기**</mark>
+
+## <mark style="color:blue;">**STEP.2 구글 앱 검토팀에 사전고지 제공하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C2new.png)
 
@@ -54,9 +68,11 @@
 
 본문 내용 확인해주신 뒤  아래 <mark style="color:blue;">**\[문서 제출하기]**</mark> 버튼을 눌러주세요.
 
+***
 
 
-### <mark style="color:blue;">**STEP.3 사전고지 내용 입력하기**</mark>&#x20;
+
+## <mark style="color:blue;">**STEP.3 사전고지 내용 입력하기**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%82%AC%EC%A0%84%EA%B3%A0%EC%A7%80%EB%AC%B8%EC%84%9C5new.png)
 
@@ -82,13 +98,15 @@
 
 따라서 아래의 서류를 제출해야 합니다.
 
-<mark style="color:purple;">-웹 도메인 등록 확인증 제출 : 도메인 이름, 등록인, 사업자 정보 등이 기재된 내용</mark>
+<mark style="color:red;">-웹 도메인 등록 확인증 제출 : 도메인 이름, 등록인, 사업자 정보 등이 기재된 내용</mark>
 
-<mark style="color:purple;">-사업자 등록증 제출 : 반드시 사업자등록증과 웹사이트에 기재된 사업주 정보와 일치해야 합니다.</mark>
+<mark style="color:red;">-사업자 등록증 제출 : 반드시 사업자등록증과 웹사이트에 기재된 사업주 정보와 일치해야 합니다.</mark>
 
 \*사업자등록이 안되어 있다면 웹사이트 도메인 등록정보만 제출해도 됩니다.
 
-<mark style="color:red;">**\*웹사이트 도메인 등록정보란?**</mark>
+
+
+<mark style="color:blue;">**웹사이트 도메인 등록정보란?**</mark>
 
 웹 도메인 소유자를 증빙하는 서류로 웹사이트 제작한 호스팅 및 도메인 업체에서 발급받을 수 있습니다.&#x20;
 
@@ -112,19 +130,37 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-<mark style="color:purple;">**★ 앱 패키지 네임(이름)은 어디서 확인할 수 있나요?**</mark>
+
+
+<mark style="color:orange;">**★ 앱 패키지 네임(이름)은 어디서 확인할 수 있나요?**</mark>
+
+\*앱제작 V3, V2 화면 디자인만 다를 뿐 확인하는 경로는 모두 동일합니다.
+
+
+
+<mark style="color:blue;">**앱제작 V3 버전 이용시)**</mark>
+
+<figure><img src="../../.gitbook/assets/고급설저_v3 (1).png" alt=""><figcaption></figcaption></figure>
+
+**스윙투앱 앱제작  → 고급설정 → 설정: 앱제작 설정 → 안드로이드 패키지 아이디 \[EDIT] 버튼 누르면 전체 아이디 확인할 수 있습니다.**
+
+com.hustay.\~ 로 시작하는 값이 패키지 아이디입니다.
+
+
+
+<mark style="color:blue;">**앱제작 V2 버전 이용시)**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EB%85%B9%ED%99%94\_2021\_01\_08\_13\_26\_02\_198.gif)
 
 **스윙투앱 앱제작  → 고급설정 → 설정: 앱제작 설정 → 안드로이드 패키지 아이디 \[EDIT] 버튼 누르면 전체 아이디 확인할 수 있습니다.**
 
-<mark style="color:purple;">com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 이름에 붙여넣기 해주세요.</mark>
+com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 앱 패키지 이름으로 사용됩니다.
 
-해당 패키지 아이디가 앱 패키지 이름으로 사용됩니다.
+***
 
 
 
-### <mark style="color:blue;">**STEP.4 제출 완료 및 서류 승인 완료**</mark>
+## <mark style="color:blue;">**STEP.4 제출 완료 및 서류 승인 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%EC%BA%A1%EC%B2%9833.png)
 
@@ -144,11 +180,14 @@
 
 
 
-이상으로 앱제작 스윙투앱에서 구글 플레이스토어에 웹뷰 앱 제출시 함께 등록해야 하는 사전고지 문서 제출방법을 알려드렸어요.
+***
 
 
 
-<mark style="color:red;">**— 주의 사항 —**</mark>
+{% hint style="danger" %}
+### <mark style="color:red;">**주의 사항**</mark>&#x20;
+
+
 
 1\) 사전고지 문서 제출은 웹브라우저를 그대로 연동한 앱(웹뷰앱, 푸시앱) 심사시 참고할 수 있도록 플레이스토어 앱 등록시(초기 등록) 함께 제출해야 합니다.
 
@@ -169,3 +208,5 @@
 \*업로드 신청한 분들은 담당자가 업로드 안내 메일드리면서 위의 서류 제출하도록 안내드립니다. 그때 메일로 회신주시면 됩니다.
 
 6\) 웹뷰앱이나 푸시버전앱이 아니더라도 일반프로토타입으로 제작한 앱 중에서도 위의 시나리오에 해당 되는 내용이 있다면 사전고지 문서를 제출해주셔야 합니다. (예: 타사 지적재산권 사용 증빙 등)
+{% endhint %}
+

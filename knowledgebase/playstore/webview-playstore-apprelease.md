@@ -262,12 +262,12 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 >
 > 스윙투앱 문의게시판으로 문의 남겨주시면 새 버전으로 제작해드립니다.&#x20;
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;"><mark style="color:red;">**\*\*중요\*\***<mark style="color:red;"></mark>
+<mark style="color:orange;">**\*\*중요\*\***</mark>
 
 버전검토 까지만 작업해놓은 뒤, 다시 앱정보- 기본 스토어 등록정보로 이동해주세요.
 
@@ -380,7 +380,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 1\)고급설정 → 2)설정: 앱제작 설정 → 3)안드로이드 패키지 아이디 \[EDIT] 버튼 선택→ 4)설정값에서 전체 아이디 확인할 수 있습니다. 해당 아이디를 복사해서 위의 패키지 네임에 붙여넣기 해주세요.
 
-<mark style="color:purple;"><mark style="color:blue;">com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 이름에 붙여넣기 해주세요.<mark style="color:blue;"></mark>
+<mark style="color:purple;">com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 해당 아이디를 복사해서 위의 패키지 이름에 붙여넣기 해주세요.</mark>
 
 해당 패키지 아이디가 앱 패키지 이름으로 사용됩니다.
 
@@ -444,7 +444,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 **\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능하다는 것!! 아시죠? ^^**
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
