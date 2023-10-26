@@ -32,7 +32,7 @@
 
 구글에 접수되면 앱이 삭제 될 수 있으니 반드시 확인하여 주의해주시기 바랍니다\~!!
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:orange;">**플레이스토어 앱 등록시 어디서 개인정보 처리방침 URL을 입력하나요?**</mark>&#x20;
 
@@ -50,7 +50,7 @@
 
 **밑에서 설명해드릴게요!!**&#x20;
 
-
+***
 
 ### <mark style="color:blue;">**STEP.1 앱 가입정책에서 개인정보항목 수정 후 링크 복사하기**</mark>
 
@@ -90,7 +90,7 @@
 
 <mark style="color:purple;">**상단 사이트 주소란에 기재된 URL을 복사해서 개인정보 처리방침 URL 항목에 붙여넣기 해주시면 됩니다.**</mark>
 
-
+***
 
 ### <mark style="color:blue;">**STEP.2 웹뷰,푸시앱은 웹사이트 개인정보처리방침을 제공해주세요.**</mark>
 
@@ -108,7 +108,7 @@
 
 \*\* 푸시나 웹뷰앱으로 제작하신 분들은 앱에 연동한 웹사이트에서 해당 페이지를 꼭 넣어주시길 바래요 ^^
 
-
+***
 
 ### <mark style="color:blue;">**STEP3. 플레이스토어에 개인정보처리방침URL 입력하기**</mark>
 
@@ -144,7 +144,7 @@
 
 선택하면 스윙투앱 앱 가입정책 – 이용약관에서 작성한 페이지가 화면으로 보여집니다
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**플레이스토어 개인정보처리방침 링크 등록하는 방법 정리**</mark>
 

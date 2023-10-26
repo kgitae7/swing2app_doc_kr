@@ -20,7 +20,7 @@
 
 **스윙에서 유료상품을 결제하거나 쿠폰을 이용하신 사용자분들은 \[내 결제 현황] 페이지 결제내역 정보를 확인하세요^^**
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 내 결제 현황 메뉴**</mark>
 
@@ -32,7 +32,7 @@
 
 결제완료된 상품부터, 환불처리된 상품, 쿠폰으로 받은 상품 등 모든 정보를 확인할 수 있습니다.&#x20;
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 이용권 이용기간 확인**</mark>
 
@@ -58,7 +58,7 @@
 
 이럴 때에도 마지막으로 결제한 제품을 선택하면 이용기간을 확인할 수 있어요.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 환불신청**</mark>
 
@@ -80,7 +80,7 @@
 > [**\[이용정책-환불규정 확인하기\]**](https://wp.swing2app.co.kr/help/user-protocol/)\
 > **\[제2장 서비스의 이용] 제 10조 (이용권 및 상품 환불에 대한 규정)**
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**4. 영수증 보기**</mark>
 

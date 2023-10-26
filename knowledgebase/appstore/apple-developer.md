@@ -62,7 +62,7 @@
 
 하단의 **\[Join the Apple Developer Program]** 영역을 선택해주세요.
 
-
+***
 
 ### <mark style="color:blue;">**STEP.5 애플 개발자 프로그램 Enroll**</mark>
 
@@ -70,7 +70,7 @@
 
 상단의 **\[Enroll]** 버튼을 선택해주세요.
 
-
+***
 
 ### <mark style="color:blue;">**STEP.6 등록에 필요한 절차 확인**</mark>
 
@@ -86,7 +86,7 @@
 (발급받는 것도 3-4일 정도의 시간이 소요 되요) \
 D-U-N-S number는 아래에서 다시 설명해드릴게요\~!!
 
-
+***
 
 ### <mark style="color:blue;">**STEP.7 등록 유형**</mark>
 
@@ -114,7 +114,7 @@ State: ‘서울’ 선택 (해당 도시명 선택)\
 postal Code: 우편번호 입력\
 **\[Romanized Contact information]**항목에는 영어로 입력해주세요.
 
-
+***
 
 ### <mark style="color:blue;">**STEP.9 애플 개발자 등록 동의**</mark>
 
@@ -131,7 +131,7 @@ postal Code: 우편번호 입력\
 기본정보 항목이 잘 들어갔는지 확인해주시구요.\
 확인 되었으면, **Continue** 선택합니다.
 
-
+***
 
 ### <mark style="color:blue;">**STEP.11 애플 개발자 등록비 결제**</mark>
 

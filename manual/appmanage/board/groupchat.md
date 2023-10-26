@@ -98,7 +98,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 5\)상세 설정 내용 입력이 완료되면 \[저장] 버튼을 눌러주세요.
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ description: '디지털제품 : 권한변경 상품을 등록 및 이용하는 �
 
 **해당 매뉴얼에서는 권한 변경 상품: 권한 등록하는 방법, 판매하는 방법, 앱 실행화면, 해당 상품을 어떻게 이용할 수 있는지 알려드리겠습니다.**
 
-
+***
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**디지털 제품 ‘권한 변경’ 이란?**</mark>
 

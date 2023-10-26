@@ -16,7 +16,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱에 관리자 채팅 적용하기**</mark>
 
@@ -66,7 +66,7 @@
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면: 채팅방 화면**</mark>
 
@@ -74,7 +74,7 @@
 
 앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
 
-
+***
 
 **앱 사용자(회원)는 어떻게 관리자와 채팅을 할 수 있을까요?**
 
@@ -112,7 +112,7 @@
 
 ☞ [채팅목록 이용방법 보러가기 ](chat-list.md)
 
-
+***
 
 **관리자는 어떻게 앱 회원들과 채팅을 할 수 있을까요?**
 
@@ -206,7 +206,7 @@
 
 다시 대화를 하고자 하는 회원을 선택하여 채팅을 시작할 수 있습니다.&#x20;
 
-
+***
 
 <mark style="color:red;">**★ 잠깐!!**</mark>
 

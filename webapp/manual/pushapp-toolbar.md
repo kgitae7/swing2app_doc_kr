@@ -44,6 +44,20 @@ V3에서는 툴바를 원하는 메뉴들로 직접 구성할 수 있고, 아이
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**푸시앱 툴바란?**
+
+<figure><img src="../../.gitbook/assets/푸시앱툴바란.PNG" alt=""><figcaption></figcaption></figure>
+
+툴바는 앱 화면 하단의 메뉴bar를 말합니다.&#x20;
+
+메뉴
+
+
+
+***
+
+
+
 ### **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1. 툴바(Toolbar)이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A91.png)

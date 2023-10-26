@@ -550,7 +550,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 **-**<mark style="color:blue;">**‘수정’**</mark> 버튼을 선택해서 질문 내용을 수정할 수 있으며, <mark style="color:blue;">‘</mark><mark style="color:blue;">**삭제**</mark><mark style="color:blue;">‘</mark> 버튼 선택하여 설문을 삭제할 수도 있습니다.
 
-
+***
 
 <mark style="color:orange;">**설문조사 공유도 가능해요**</mark>
 
@@ -564,3 +564,4 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 설문조사 관리 기능은 스윙투앱 사용자라면 누구나 다 사용가능하시기 때문에 매뉴얼 대로 차근차근 따라하신다면 금방 앱 전문가가 되실 수 있을 거에요 ^^
 
+***

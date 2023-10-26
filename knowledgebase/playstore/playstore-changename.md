@@ -16,7 +16,7 @@ description: 구글 플레이스토어 개발자 이름 변경 방법
 
 <mark style="color:red;">\*애플 앱스토어는 한번 등록된 이후 개발자 이름 변경 안됩니다.</mark>
 
-
+***
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)구글, 애플 개발자 이름은 어디에 표시되나요?
 

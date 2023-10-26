@@ -272,7 +272,7 @@ tip. 각 항목이 잘 이해되지 않으면 항목 옆에 ?물음표 버튼에
 
 \[저장] 버튼을 선택합니다.
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

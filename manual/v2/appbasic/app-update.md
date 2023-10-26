@@ -12,7 +12,7 @@
 
 **-페이지메뉴 및 앱운영 내용은  저장만 해주셔도 앱에 자동으로 반영됩니다.**&#x20;
 
-
+***
 
 &#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**스윙투앱 앱 업데이트 중요 내용**</mark> <mark style="color:red;">**\*중요한 내용이니 꼭 먼저 확인해주세요!!**</mark>
 
@@ -78,7 +78,7 @@
 
 새로운 버전의 앱이 다시 제작되면서 기존의 앱이 업데이트됩니다.
 
-
+***
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**앱 업데이트 유형, 표시 옵션**</mark>
 
@@ -124,7 +124,7 @@
 
 업데이트 알림창이 뜨지 않도록 설정합니다. (테스트 등을 진행할 때 설정할 수 있어요)
 
-
+***
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 실행화면 : 업데이트 유형**</mark>
 
@@ -198,7 +198,7 @@
 
 기존의 어플리케이션의 업데이트를 설치하게 되며, 새 버전의 앱으로 다시 덮어서 설치됩니다.
 
-
+***
 
 <mark style="color:orange;">**\[안내사항]**</mark>
 

@@ -10,7 +10,7 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 스윙투앱 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법에 대해 알려드립니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.앱 활동 모음**
 

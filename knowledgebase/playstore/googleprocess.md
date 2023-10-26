@@ -60,93 +60,11 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 사용자 및 권한 메뉴에서 등록된 스윙투앱 계정을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
-
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 구글 API 액세스 등록&#x20;
-
-구글 개발자 계정 초대 완료 후, API 액세스에서 사용자 등록을 해주세요.&#x20;
-
-<figure><img src="../../.gitbook/assets/구글초대1 (2).png" alt=""><figcaption></figcaption></figure>
-
-1\)구글 플레이 콘솔 - 설정 -\[ API 액세스]를 선택합니다.&#x20;
-
-[https://play.google.com/console/u/0/developers/api-access](https://play.google.com/console/u/0/developers/api-access)
-
-2\)\[연결할 프로젝트 선택] 버튼 선택해주세요.&#x20;
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글초대2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-3\)서비스 약관 \[동의] 버튼 선택
-
-
-
-<figure><img src="../../.gitbook/assets/구글초대3.png" alt=""><figcaption></figcaption></figure>
-
-4\)\[새 Google Cloud 프로젝트 만들기] 선택
-
-5\)저장 버튼 선택
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글초대4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-6\)\[Google Cloud Platform에서 보기] 선택
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글초대5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-Google Cloud(구글 클라우드) 화면으로 이동합니다.&#x20;
-
-7\)왼쪽 메뉴에서 Cloud 개요 선택 - 대시보드 선택해주세요.&#x20;
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글초대6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-8\)\[이 프로젝트에서 사용자 추가] 선택
-
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글초대7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-9\)새 주 구성원 입력란에 **스윙투앱 메일주소( swingapp.developer@gmail.com)**를 입력해주세요.
-
-**이메일주소: swingapp.developer@gmail.com**
-
-10\)역할: '**소유자**' 선택해주세요.
-
-입력란화살표 버튼 선택시, \*역할: 소유자로 선택 가능합니다.&#x20;
-
-11\)\[저장] 버튼 선택시 완료됩니다.&#x20;
-
 
 
 ***
 
-이렇게 2개 프로세스를 완료하면 사용자분께서 해야 할 구글 개발자 초대는 완료됩니다.
+프로세스를 완료하면 사용자분께서 해야 할 구글 개발자 초대는 완료됩니다.
 
 초대가 들어오면 이후는 스윙투앱에서 확인하여 초대 수락 및 앱 등록에 필요한 인증서를 생성합니다.
 

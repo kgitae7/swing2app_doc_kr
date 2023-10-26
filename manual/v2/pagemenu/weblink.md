@@ -43,7 +43,7 @@
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)\
 **웹링크 이용시 반드시 ‘새창으로 보기(popup)’에 체크해주세요. 보안설정이 안된 웹사이트라도 새창으로 보기로 선택해주셔야 앱에서 보다 안정적으로 이용을 할 수 있습니다.**&#x20;
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 웹링크를 적용하는 방법**</mark>
 
@@ -69,7 +69,7 @@
 
 7\) \[저장] 버튼 선택 완료 &#x20;
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 웹링크 메뉴 이용시 주의사항**</mark>
 
@@ -85,7 +85,7 @@
 
 홈화면을 제외한 앱 내 카테고리에서는 새창으로 보기, 외부앱으로 보기를 실행할 수 있습니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 어플 실행 화면**</mark>&#x20;
 
@@ -113,7 +113,7 @@
 
 유튜브 어플이 실행되면서 연결된 영상 링크로 이동합니다.
 
-
+***
 
 <mark style="color:blue;">**\*주의사항**</mark>
 
