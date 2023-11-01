@@ -201,11 +201,9 @@
     * [푸시 히스토리](manual/appmanage/pushmember/push-history.md)
     * [푸시 아이콘 이미지 가이드라인](manual/appmanage/pushmember/undefined.md)
     * [푸시 아이콘 이미지 등록](manual/appmanage/pushmember/pushicon.md)
-    * [푸시 장치 관리 이용방법](manual/appmanage/pushmember/pushtest.md)
     * [아이폰 푸시 인증서 연장](manual/tip/push-certificate.md)
     * [회원조회 - 회원정보 확인](manual/appmanage/pushmember/member-information.md)
     * [회원조회 - 부관리자 설정 및 로그인 방법](manual/appmanage/pushmember/associate-administrator.md)
-    * [푸시앱, 웹뷰앱 이용 부관리자 설정](manual/appmanage/pushmember/webappadmin.md)
     * [회원조회 - 회원 생성하기](manual/appmanage/pushmember/user-account.md)
     * [앱 관리자 설정하기](manual/appmanage/pushmember/appmaster.md)
     * [권한그룹설정 - 회원 등급](manual/appmanage/pushmember/member-group.md)
@@ -283,6 +281,8 @@
   * [웹뷰, 푸시앱 - 앱 종료 알림 메시지](webapp/manual/appexit.md)
   * [웹뷰, 푸시앱 - 데이터 유형 설정](webapp/manual/data.md)
   * [푸시앱에서 푸시발송하기](webapp/manual/pushapp-push.md)
+  * [푸시 장치 관리 이용방법](webapp/manual/pushtest.md)
+  * [푸시앱, 웹뷰앱 이용 부관리자 설정](webapp/manual/webappadmin.md)
 
 ## 앱 이용 가이드 <a href="#appguide" id="appguide"></a>
 
