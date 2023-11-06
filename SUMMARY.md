@@ -322,6 +322,7 @@
   * [구글 개발자 계정 본인 인증](knowledgebase/playstore/verify-identity.md)
   * [구글 개발자 계정 초대 프로세스](knowledgebase/playstore/googleprocess.md)
   * [플레이스토어 앱 등록 준비사항](knowledgebase/playstore/infor.md)
+  * [플레이스토어 스크린샷 이미지](knowledgebase/playstore/screenshot.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
   * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
