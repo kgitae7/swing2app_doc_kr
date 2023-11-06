@@ -65,7 +65,7 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 **2)웹뷰 혹은 푸시 앱 업데이트시**
 
-<img src="../../.gitbook/assets/캡처2.PNG" alt="" data-size="original">
+<img src="../../.gitbook/assets/캡처2 (1).PNG" alt="" data-size="original">
 
 업데이트 표시 옵션: 업데이트 표시 안함으로 체크하고 제작해주세요.
 

@@ -349,6 +349,7 @@
   * [앱스토어 애플 개발자계정 등록](knowledgebase/appstore/apple-developer.md)
   * [애플 개발자 계정 멤버십 연장(갱신)방법](knowledgebase/appstore/undefined.md)
   * [앱스토어 앱 등록 준비사항](knowledgebase/appstore/infor.md)
+  * [앱스토어 스크린샷 이미지](knowledgebase/appstore/screenshot.md)
   * [앱스토어 업로드 신청방법](knowledgebase/appstore/upload.md)
   * [앱스토어 앱 심사 거절 사례](knowledgebase/appstore/reject.md)
   * [아이폰 푸시 인증서 연장](knowledgebase/appstore/push-certificate.md)
