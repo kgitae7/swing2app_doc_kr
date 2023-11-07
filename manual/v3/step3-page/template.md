@@ -154,7 +154,25 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 \-영역에 들어가는 모든 내용 수정 당연히 가능하구요.
 
-\-텍스트: 글자 크기, 색상 모두 지정 가능하며, 타이틀 영역은 여백까지 조율할 수 있도록 제공하고 있어요.
+
+
+<mark style="color:blue;">**\[텍스트편집 도구]**</mark>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/이미지-1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+\-텍스트:  대문자 A 버튼을 누르면 글자 크기, 색상 모두 수정이 가능합니다.
+
+&#x20;
+
+<mark style="color:blue;">**\[여백 편집 도구]**</mark>
+
+<figure><img src="../../../.gitbook/assets/이미지21.png" alt=""><figcaption></figcaption></figure>
+
+\-타이틀 영역은 여백까지 조율할 수 있도록 제공하고 있어요.
 
 \-버튼 추가 및 삭제 모두 가능하구요.
 
