@@ -38,7 +38,7 @@ description: '게시물 링크 생성: 링크마법사에서 게시물 링크를
 
 해당 링크를 복사하여 이용해주세요.
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 

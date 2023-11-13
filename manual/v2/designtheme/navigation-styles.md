@@ -24,7 +24,7 @@
 
 <mark style="color:orange;">**제작시 꼭 적용해야 하는 기능이 아니기 때문에 참고해서 이용해주세요.**</mark>
 
-***
+
 
 <mark style="color:orange;"><mark style="color:blue;">**★ 앱 내비게이션 스타일 이용방법**<mark style="color:blue;"></mark>
 
@@ -36,7 +36,7 @@
 
 **해당 기능은 필수항목이 아니라, 선택사항이기 때문에 해당 기능들을 적용하지 않아도 무관합니다.**
 
-***
+
 
 <mark style="color:blue;">**1. 앱 내비게이션 스타일 – 기본**</mark>
 
@@ -48,7 +48,7 @@
 
 기본스타일로 제작을 하고 싶다면 ‘기본’에 체크를 해주세요.
 
-***
+
 
 <mark style="color:blue;">**2. 앱 내비게이션 스타일 – 배경이미지**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">​</mark>
 

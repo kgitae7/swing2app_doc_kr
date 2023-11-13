@@ -10,7 +10,7 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 관리자가 보내고자 하는 쿠폰을 자동으로 사용자에게 발행됩니다.
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 스탬프 완료시 쿠폰발행이란?
 
@@ -104,7 +104,7 @@ or
 
 **☞** [**쿠폰 만들고 발행하기 상세방법 보러가기**](../service/coupon.md)
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 

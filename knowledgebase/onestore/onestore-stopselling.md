@@ -8,7 +8,7 @@
 
 방법은 굉장히 간단하기 때문에 쉽게 따라 하실 수 있습니다. !!
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/001.png)
 

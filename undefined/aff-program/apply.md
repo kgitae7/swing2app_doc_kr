@@ -126,7 +126,7 @@ description: 스윙투앱 제휴프로그램 신청방법 매뉴얼
 
 **정산금액은 판매 금액의 부가세 10%를 제외하고 정산됩니다.**
 
-***
+
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> 제휴프로그램을 홍보하는 방법은 해당 매뉴얼을 참고해주세요!
 

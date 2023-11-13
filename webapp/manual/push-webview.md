@@ -185,7 +185,7 @@
 
 [\[푸시버전앱에서 푸시 발송하기 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/pushapp-push/)
 
-***
+
 
 <figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 

@@ -12,7 +12,7 @@
 
 **앱제작 페이지에서 단계별로 앱을 제작하는 방법을 매뉴얼을 통해서 확인해주세요 ^^**
 
-***
+
 
 <mark style="color:red;">**★ 앱제작 전 먼저! 앱제작 TIP을 확인해주세요!**</mark>
 
@@ -78,7 +78,7 @@
 
 <mark style="color:orange;">**\*1단계 기본정보 항목이 모두 입력되면 \[저장] 버튼을 누르고, 다음 단계 디자인테마로 이동합니다.**</mark>
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 디자인테마**</mark>
 
@@ -266,7 +266,7 @@
 
 <mark style="color:red;">페이지메뉴까지 제작이 완료되면 앱제작 요청 버튼을 눌러서 앱제작을 완료해주세요.</mark>
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱제작 요청**</mark>
 
@@ -278,7 +278,7 @@
 
 <mark style="color:red;">\*업데이트 표시 옵션은 선택사항이기 때문에 필수로 하셔도 무관하답니다.\~!</mark>
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.5 앱제작 완료**</mark>
 
@@ -328,7 +328,7 @@
 
 <mark style="color:red;">\*APK파일 설치는 안드로이드폰에서만 설치가 가능합니다. (아이폰은 지원이 안됩니다,)</mark>
 
-***
+
 
 <mark style="color:red;">**★ 앱 미리보기**</mark>
 
@@ -402,4 +402,3 @@
 
 <mark style="color:red;">\*스토어에 올라간 앱 업데이트 안해도 됩니다.</mark>
 
-***

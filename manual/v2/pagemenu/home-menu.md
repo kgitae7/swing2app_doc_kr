@@ -86,7 +86,7 @@
 
 앱에서 이 부분이 불편하시다면 이미지페이지로 따로 제작을 해서 넣으시길 권장드립니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**2. 게시판 적용**</mark>
 
@@ -136,7 +136,7 @@
 
 **오른쪽 핸드폰 가상머신을 보시면 게시판이 홈화면으로 적용된 것을 확인할 수 있어요.**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3.  사용자페이지 – 이미지페이지 적용**</mark>
 
@@ -190,7 +190,7 @@
 
 **오른쪽 핸드폰 가상머신을 보시면 이미지페이지가 홈화면으로 적용된 것을 확인할 수 있어요.**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4.  사용자 페이지 – 웹템플릿 페이지 적용**</mark>
 
@@ -236,7 +236,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF.gif)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**5.  사용자 페이지 – HTML에디터 페이지 적용**</mark>
 
@@ -282,7 +282,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
 
-***
+
 
 .
 
@@ -370,7 +370,7 @@
 
 <mark style="color:red;">**★앱소개 페이지의 대표 이미지는 앱 아이콘이미지와 연동이 되어서 보여집니다. \*별도 수정 및 제거가 불가합니다.**</mark>&#x20;
 
-***
+
 
 <mark style="color:red;">**★ 홈화면 적용 안내사항**</mark>
 

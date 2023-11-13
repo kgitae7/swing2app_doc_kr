@@ -8,7 +8,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘마이페이지’를
 
 따라서 쇼핑몰 앱에서는 반드시 꼭\~ 적용해주셔야 하는 페이지입니다.&#x20;
 
-***
+
 
 <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**마이페이지 앱 실행화면**</mark>
 

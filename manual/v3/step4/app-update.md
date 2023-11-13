@@ -86,7 +86,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 ## **앱 업데이트 유형, 표시 옵션**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1. 업데이트 유형**
 
@@ -106,7 +106,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **\*플레이스토어에 앱이 출시된 분들은 디자인테마 수정시 소프트가 아닌 하드업데이트 (앱 재설치)로 선택해주세요!**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**2. 업데이트 표시옵션**
 

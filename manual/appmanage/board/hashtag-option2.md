@@ -64,7 +64,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 여기서  <mark style="color:blue;">**\[고급스타일]**</mark> 메뉴로 이동합니다.
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -240,7 +240,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-***
+
 
 <mark style="color:blue;">**대표적인 해시태그 앱 제작 사례 ‘올댓모델’ 앱**</mark>
 

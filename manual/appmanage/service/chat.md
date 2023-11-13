@@ -124,7 +124,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱 실행화면: 채팅방 화면
 
@@ -136,7 +136,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
 
-***
+
 
 앱 사용자(회원)는 어떻게 관리자와 채팅을 할 수 있을까요?
 
@@ -272,7 +272,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 다시 대화를 하고자 하는 회원을 선택하여 채팅을 시작할 수 있습니다.&#x20;
 
-***
+
 
 <mark style="color:red;">**★ 잠깐!!**</mark>
 

@@ -12,7 +12,7 @@
 
 샘플로 제공되는 메뉴이므로 사용자분들은 앱 스타일에 맞게 홈화면을 다른 메뉴들로 제작해주시길 권장드립니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 홈화면- 앱소개 페이지 적용하기**</mark>
 
@@ -44,7 +44,7 @@
 
 그러나 다른 메뉴를 사용하다 홈화면을 앱소개 화면으로 다시 변경할 경우는, 위의 방법으로 적용해주시면 됩니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱소개 내용, 배너 수정하기**</mark>
 
@@ -82,7 +82,7 @@
 
 삭제하시면 공유버튼, 사이트주소 함께 제거됩니다.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 앱소개 내용, 배너 삭제하기**</mark> &#x20;
 
@@ -98,7 +98,7 @@
 
 앱소개 화면에서 하단의 내비게이션 버튼이 없어진 것을 확인할 수 있어요\~!
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. 앱 실행화면**</mark>
 
@@ -135,4 +135,3 @@
 
 공유버튼을 선택하면 해당 앱을 다양한 어플리케이션으로 공유할 수 있는 창이 열립니다.
 
-***

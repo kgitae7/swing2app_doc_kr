@@ -90,7 +90,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-***
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 

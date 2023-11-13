@@ -22,7 +22,7 @@
 
 웹뷰 앱제작부터, 스토어 출시 방법, 주의사항까지 모두 확인할 수 있습니다.
 
-***
+
 
 스윙투앱은 사용자가 직접 제작하는 앱 빌더로, 스윙투앱에서 제공하는 앱제작 툴을 가지고 사용자분께서 직접 앱을 제작해주셔야 합니다.
 
@@ -128,7 +128,7 @@
 
 <mark style="color:red;">\*단, 내부 사용 목적의 URL  및 회사 내부 서버에서 이용하는 사이트 주소는 연결이 불가하며,  웹앱으로 제작이 불가합니다.</mark>&#x20;
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 제작한 앱 확인하기**</mark>
 
@@ -174,7 +174,7 @@
 
 **유료버전 전환은 스윙투앱 유료앱 이용권을 구매해주시면 됩니다.아래에서 확인해주세요.**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 이용권 및 티켓 구매**</mark>
 
@@ -282,7 +282,7 @@
 
 \-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 4 스토어 업로드 신청**</mark>
 
@@ -308,7 +308,7 @@
 
 **\*스토어 등록정책:** [**http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**STEP.5 스토어 출시 완료 (심사 후 출시)**</mark>
 
@@ -348,7 +348,7 @@
 
 **꼭꼭\~! 확인해주세요.☞** [**\[스토어 이용약관 확인하기\]**](https://wp.swing2app.co.kr/market-policy/)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**주의사항 및 웹뷰앱 제작 Q\&A**</mark>
 
@@ -502,4 +502,3 @@
 
 증상을 확인하여 도움을 드리고 있습니다.
 
-***

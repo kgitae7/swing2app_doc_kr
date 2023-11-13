@@ -20,7 +20,7 @@
 
 \* 테스트 출시는 스윙투앱에서 대행해드리지 않아요. 공식 출시만 대행 가능합니다.
 
-***
+
 
 ### <mark style="color:blue;">**SETP.1 플레이스토어 업로드 (앱 버전 단계 제외)**</mark>
 
@@ -32,7 +32,7 @@
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[**플레이스토어 앱출시방법 보러가기**](playstore-apprelease.md)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 비공개 알파버전 앱 등록하기**</mark>
 
@@ -124,7 +124,7 @@ APK파일 업로드가 완료되면 **\[알파 출시 시작]** 버튼을 선택
 
 카톡으로 공유된 앱 테스트 링크 주소를 선택해주세요!
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 앱 테스트 참여 진행방법**</mark>
 

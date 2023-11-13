@@ -6,7 +6,7 @@
 
 아래 구글 고객센터 이용방법을 확인하셔서  상담 및 도움을 받으시기를 바랍니다.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">Google Play Console 지원팀에 문의하기</mark>
 

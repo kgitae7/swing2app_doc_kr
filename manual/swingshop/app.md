@@ -288,7 +288,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4.** 앱제작 V2버전 이용시
 
-***
+
 
 {% tabs %}
 {% tab title="앱제작 V2버전 매뉴얼" %}

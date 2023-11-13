@@ -42,7 +42,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 앱 실행화면**
 
@@ -88,7 +88,7 @@
 
 이미지 페이지 제작이 완료되면, 다시 앱에 적용하는 방법을 알려드릴게요!
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP 2. 이미지페이지 제작하기**</mark>
 
@@ -234,7 +234,7 @@ TIP을 한가지 드리면요
 
 그럼 다시 앱제작 페이지로 돌아가서 앱에 해당 이미지페이지를 적용해볼게요!!
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 앱에 이미지페이지 적용하기**</mark>
 
@@ -274,7 +274,7 @@ TIP을 한가지 드리면요
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80-1.gif)
 
-***
+
 
 .
 

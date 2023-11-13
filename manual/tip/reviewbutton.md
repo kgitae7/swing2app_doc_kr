@@ -26,7 +26,7 @@
 
 \[리뷰 남기기]를 선택하면 구글 플레이스토어 앱 출시 페이지로 이동합니다.
 
-***
+
 
 ### <mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**앱 실행화면 : 리뷰 버튼**</mark>
 
@@ -66,7 +66,7 @@
 
 <mark style="color:purple;">플레이스토어는 소프트 업데이트(앱 재실행)를 허용하지 않기 때문에 하드 업데이트를 하신 뒤 플레이스토어 앱도 새로 제작된 버전으로 업데이트 해주셔야 합니다.</mark>
 
-***
+
 
 > <mark style="color:orange;">**\*리뷰에 나오는 멘트(메시지)는 어떻게 변경하나요?**</mark>
 
@@ -84,7 +84,7 @@
 
 **☞** [**\[앱에 셋팅된 문구 수정방법\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/edit-text/)
 
-***
+
 
 > <mark style="color:red;">**\[안내사항]**</mark>
 

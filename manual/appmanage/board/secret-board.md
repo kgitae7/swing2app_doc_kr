@@ -98,7 +98,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 만들어놓은 게시판 적용하기
 
