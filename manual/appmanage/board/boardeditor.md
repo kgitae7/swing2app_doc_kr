@@ -30,21 +30,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 </div>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_01_08_13_17_22_560.gif" alt="">
-
-</div>
-
-
-
-**▶게시판 제작방법은 영상으로도 확인이 가능합니다.**
-
-{% embed url="https://youtu.be/kLlAkfMZQZ8" %}
-
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
-
-
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1.게시판 생성하기
 
@@ -152,7 +138,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ☞[ **게시판 지정권한 사용하기**](broken-reference)
 
-
+***
 
 ### <mark style="color:blue;">**3. 게시판 및 기능설정: 고급 스타일**</mark>
 
