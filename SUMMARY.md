@@ -281,7 +281,7 @@
   * [웹뷰, 푸시앱 - 앱 종료 알림 메시지](webapp/manual/appexit.md)
   * [웹뷰, 푸시앱 - 데이터 유형 설정](webapp/manual/data.md)
   * [푸시앱에서 푸시발송하기](webapp/manual/pushapp-push.md)
-  * [푸시 장치 관리 이용방법](webapp/manual/pushtest.md)
+  * [푸시 테스트 발송 - 푸시 장치 관리](webapp/manual/pushtest.md)
   * [푸시앱, 웹뷰앱 이용 부관리자 설정](webapp/manual/webappadmin.md)
 
 ## 앱 이용 가이드 <a href="#appguide" id="appguide"></a>

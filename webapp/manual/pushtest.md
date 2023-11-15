@@ -1,10 +1,10 @@
 ---
-description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등록 방법
+description: 테스트 푸시 발송, 테스트 기기 등록 방법
 ---
 
-# 푸시 장치 관리 이용방법
+# 푸시 테스트 발송 - 푸시 장치 관리
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 푸시 장치 관리 기능이란?
 
@@ -26,12 +26,12 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 * [x] 푸시장치 관리는 안드로드이폰에서만 푸시 테스트가 가능합니다. (아이폰 불가)
 * [x] 푸시앱제작시 툴바 사용 여부에 " 아니오”로 선택하고 제작한 앱은 푸시 장치 관리 기능 테스트가 불가합니다.
 
-<img src="../../../.gitbook/assets/툴바미사용.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/툴바미사용.png" alt="" data-size="original">
 
 * [x] 해당 기능은 2020년 3월 업데이트 된 기능입니다. 2020년 3월 이전에 제작한 앱은 새로 업데이트 하신 뒤 이용해주시기 바랍니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 푸시 장치 관리 이동
 
@@ -57,13 +57,13 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/info (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/info (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <mark style="color:blue;">**안드로이드폰에서 device\_token은 어떻게 확인할 수 있나요?**</mark>
 
-<figure><img src="../../../.gitbook/assets/푸시앱-토큰.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/푸시앱-토큰.png" alt=""><figcaption></figcaption></figure>
 
 핸드폰에서 앱을 실행한 뒤 푸시 툴바에서 설정 버튼을 터치해주세요.
 
@@ -83,7 +83,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/녹화_2023_01_13_15_36_23_106.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/녹화_2023_01_13_15_36_23_106.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -111,7 +111,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 테스트 푸시 발송하기
 
@@ -129,7 +129,7 @@ description: 테스트 푸시 발송 이용방법, 푸시 테스트 기기 등�
 
 내용 입력해서 푸시발송하기 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ​푸시 장치 관리는 푸시버전앱에서 유용하게 사용할 수 있는 기능입니다.
 
