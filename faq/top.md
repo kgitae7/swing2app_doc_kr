@@ -2,7 +2,7 @@
 
 <details>
 
-<summary><code>[유료버전과</code><strong><code>무료버전의 차이점은?](#markdown-header)</code></strong></summary>
+<summary><code>유료버전과</code><strong><code>무료버전의 차이점은?</code></strong></summary>
 
 **1)첫 번째는 **<mark style="color:red;">**\*중요\***</mark>** 스토어 배포(앱스토어, 플레이스토어 앱 출시)입니다.**
 
