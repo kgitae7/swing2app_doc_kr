@@ -2,7 +2,7 @@
 
 <details>
 
-<summary><strong>유료버전과 무료버전의 차이점은?</strong></summary>
+<summary><a data-footnote-ref href="#user-content-fn-1"><strong>유료버전과 무료버전의 차이점은?</strong></a></summary>
 
 **1)첫 번째는 **<mark style="color:red;">**\*중요\***</mark>** 스토어 배포(앱스토어, 플레이스토어 앱 출시)입니다.**
 
@@ -372,3 +372,6 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 
 
+
+
+[^1]: free-paid-df
