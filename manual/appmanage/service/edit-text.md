@@ -30,17 +30,25 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 ### <mark style="color:blue;">**2. 메시지 변경: 영문 수정**</mark>
 
-**회원가입 페이지를 변경할텐데요. 한글로 셋팅된 앱 문구를 영어로 변경해볼게요\~!**
+회원가입 페이지를 변경할텐데요. 한글로 셋팅된 앱 문구를 영어로 변경해볼게요\~!
+
+**1)문구 전체 수정시**
+
+<figure><img src="../../../.gitbook/assets/문자열관리2.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**★**</mark> 앱 문구 전체를 수정할 경우 <mark style="color:red;">**\[다운로드]**</mark> 버튼을 눌러서 엑셀파일로 받아주세요.
+
+내용을 수정한 뒤 저장하고 <mark style="color:red;">**\[업로드]**</mark><mark style="color:red;">로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.</mark>
+
+
+
+**2)몇 개 문구만 선택 수정시**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC7.png)
 
 앱에 셋팅된 문구는 수없이 많기 때문에 모든 문구를 수정하지 않고 몇개 문구만 수정을 할 경우에는
 
 <mark style="color:red;">**\*컨트롤(control) + F**</mark> 버튼을 누르면 원하는 문구를 검색하여 찾을 수 있습니다!!
-
-<mark style="color:red;">**★**</mark> 앱 문구 전체를 수정할 경우 <mark style="color:red;">**\[다운로드]**</mark> 버튼을 눌러서 엑셀파일로 받아주세요.
-
-내용을 수정한 뒤 저장하고 <mark style="color:red;">**\[업로드]**</mark><mark style="color:red;">로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.</mark>
 
 
 
