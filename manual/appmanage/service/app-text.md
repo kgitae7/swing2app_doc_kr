@@ -34,6 +34,28 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 메시지 내용 수정 방법
 
+### <mark style="color:blue;">1)모든 내용 수정시</mark>
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC2.png)
+
+앱 문구 전체 수정 \[다운로드] 버튼 선택
+
+앱 문구 전체를 수정할 경우 \[다운로드] 버튼을 눌러서 엑셀파일로 받아주세요.
+
+내용을 수정한 뒤 저장하고 \[업로드]로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.
+
+
+
+### <mark style="color:blue;">2)몇 개 내용만 수정시</mark>
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC7.png)
+
+**컨트롤(control) + F 버튼**
+
+몇 개 단어만 수정할 경우 **\*컨트롤(control) + F 버튼**을 누르면 내용을 검색하여 찾을 수 있습니다.
+
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC3.png)
 
 1\) 메시지 내용에서 \[수정] 버튼을 눌러주세요.
@@ -66,25 +88,11 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 \-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 운영 TIP
-
-<mark style="color:red;">**TIP 1)**</mark> 몇 개 단어만 수정할 경우 **\*컨트롤(control) + F 버튼**을 누르면 내용을 검색하여 찾을 수 있습니다!!
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC7.png)
-
-
-
-<mark style="color:red;">**TIP 2)**</mark> 앱 문구 전체를 수정할 경우 \[다운로드] 버튼을 눌러서 엑셀파일로 받아주세요.
-
-내용을 수정한 뒤 저장하고 \[업로드]로 엑셀파일을 한번에 올려주시면 수월하게 작업을 하실 수 있습니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC2.png)
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.문구 변경 후) 앱 실행화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3**.문구 변경 후) 앱 실행화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png)
 
