@@ -18,7 +18,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱 문자열 관리란?
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> 1. 앱 문자열 관리란?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
 
@@ -32,7 +32,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 메시지 내용 수정 방법
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> 2. 메시지 내용 수정 방법
 
 ### <mark style="color:blue;">1)모든 내용 수정시</mark>
 
@@ -92,7 +92,7 @@ description: 앱 문자열 관리 - 앱에서 사용되는 문구 및 텍스트 
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3**.문구 변경 후) 앱 실행화면
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **3**.문구 변경 후) 앱 실행화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png)
 

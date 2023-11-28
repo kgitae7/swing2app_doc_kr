@@ -63,7 +63,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
 
 
 
@@ -185,7 +185,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
 
 **gmail 계정이 없거나 개발자용 계정을 새로 만들어야 한다면! 구글 계정 등록 사이트에서 계정을 먼저 만들어주세요.**
 
