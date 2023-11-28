@@ -30,7 +30,7 @@
 
 {% embed url="https://youtu.be/69fXQ7Troa0" %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 앱 기본정보**</mark>
+### <mark style="color:blue;">**STEP.1 앱 기본정보**</mark>
 
 **1단계 \[앱 기본정보]는 앱작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
 
@@ -80,7 +80,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 디자인테마**</mark>
+### <mark style="color:blue;">**STEP.2 디자인테마**</mark>
 
 **앱제작 2단계 \[디자인테마]는 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
 
