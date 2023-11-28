@@ -4,7 +4,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 # 웹뷰,푸시앱-최초 실행 주소 이용방법
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**최초 실행 주소란?**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**최초 실행 주소란?**
 
 최초 실행 주소란, 앱에 연결한 웹사이트 외에 앱을 설치하고 처음에만 보여지는 웹페이지를 별도 적용하는 것을 말합니다.
 
@@ -28,7 +28,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**최초 실행 주소 이용방법**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**최초 실행 주소 이용방법**
 
 ![](../../.gitbook/assets/최초실행주소1.png)
 
@@ -60,7 +60,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 확인\_ 최초 실행 주소 움짤 영상 확인하기**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**앱 확인\_ 최초 실행 주소 움짤 영상 확인하기**
 
 &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94\_2022\_06\_16\_15\_52\_04\_616.gif)
 

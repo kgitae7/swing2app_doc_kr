@@ -142,7 +142,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**푸시앱 특징**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**푸시앱 특징**
 
 \-푸시로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
@@ -153,7 +153,7 @@
 **-다양한 스타일의 툴바를 직접 구성할 수 있습니다.** \
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
 
 앱에 적용된 웹링크 주소를 변경하는 것도 제작 방법과 동일합니다.
 
@@ -165,9 +165,13 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**푸시 앱) 앱 실행화면**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**푸시 앱) 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png" alt="">
+
+</div>
 
 스윙투앱 홈페이지(웹사이트) 웹링크를 앱에 그대로 적용해서 제작된 푸시버전 앱입니다.
 
@@ -175,7 +179,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 발송하기**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **푸시 발송하기**
 
 푸시버전으로 앱제작 후 푸시 알림을 발송할 수 있어요.
 
@@ -185,7 +189,7 @@
 
 [\[푸시버전앱에서 푸시 발송하기 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/pushapp-push/)
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -309,7 +313,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**웹뷰앱 특징**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**웹뷰앱 특징**
 
 \-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
@@ -319,7 +323,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **웹뷰앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **웹뷰앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
 
 앱에 적용된 웹링크 주소를 변경하는 것도 동일합니다.
 
@@ -337,7 +341,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **웹뷰앱) 앱 실행화면**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **웹뷰앱) 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png)
 
@@ -349,7 +353,7 @@
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시앱, 웹뷰앱 제작 안내사항**
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **푸시앱, 웹뷰앱 제작 안내사항**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B05.png)
 
@@ -377,7 +381,7 @@
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 및 웹뷰앱 제작시 주의해주세요.**&#x20;
+### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **푸시 및 웹뷰앱 제작시 주의해주세요.**&#x20;
 
 **1) 웹링크 중에서  앱과 연동이 되지 않는, 즉  퍼가기를 금지해 놓은 사이트가 있어요.**
 
