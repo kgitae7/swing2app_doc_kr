@@ -8,7 +8,7 @@
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 상품 적용하기**&#x20;
+## **1. 앱에 상품 적용하기**&#x20;
 
 상품 페이지는 앱제작 STEP3 페이지 단계- 쇼핑몰 기능에서 이용 가능합니다.
 
@@ -42,7 +42,7 @@
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.상품은 어디서 등록할 수 있나요?**
+### **2.상품은 어디서 등록할 수 있나요?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3-1.png)
 
@@ -82,7 +82,7 @@
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면) 상품 적용화면**
+## **3. 앱 실행화면) 상품 적용화면**
 
 <div align="left">
 
@@ -95,6 +95,8 @@
 상품 카테고리는 해당 카테고리에 등록된 상품이 모두 보여집니다.
 
 
+
+***
 
 
 

@@ -36,7 +36,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 단계**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**이미지 페이지 적용 단계**
 
 <figure><img src="../../../.gitbook/assets/KR-이미지 페이지 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@
 
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**이미지 페이지 적용 사례**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**이미지 페이지 적용 사례**
 
 
 
@@ -82,7 +82,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 시작하기**
+## **STEP1. 시작하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
 
@@ -102,7 +102,7 @@
 
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(제작도구)**
+## **STEP2. 제작하기(제작도구)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
@@ -128,7 +128,11 @@
 
 ### <mark style="color:blue;">**2.이미지 페이지 제작**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png" alt="">
+
+</div>
 
 이미지 페이지 작업은
 
@@ -148,7 +152,11 @@
 
 ### <mark style="color:blue;">**3.도형툴 – 스타일 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png" alt="">
+
+</div>
 
 **툴 모양은 점모양 ,사각형,  타원형, 다각형으로 제공됩니다.**
 
@@ -160,15 +168,13 @@
 
 
 
-**▶ 움짤 이미지를 통해서 영역을 설정하는 방법을 확인해주세요**
+**▶움짤 이미지를 통해서 영역을 설정하는 방법을 확인해주세요**
 
 <div align="left">
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif" alt="">
 
 </div>
-
-
 
 ### <mark style="color:blue;">**4.링크 적용하기**</mark>
 
@@ -242,11 +248,13 @@ TIP을 한가지 드리면요
 
 
 
-
-
 ### <mark style="color:blue;">**6.제작 TIP - 배경색 추가하기**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/이미지배경색추가.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 이미지 페이지는 이미지를 기반으로 웹페이지로 구성되는 사용자페이지 제작도구입니다.
 
@@ -288,11 +296,11 @@ TIP을 한가지 드리면요
 
 
 
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
+
+
+## **STEP3. 앱에 적용하기(이미지페이지 앱 적용)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
 
@@ -326,11 +334,11 @@ TIP을 한가지 드리면요
 \*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 HOME에는 적용 불가하며 필수 입력 항목이 아닙니다.
 {% endhint %}
 
-![](../../../.gitbook/assets/수평성.PNG)
+
 
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
+## **STEP4. 이미지페이지 제작도구 – 툴팁 적용하기**
 
 이미지페이지에 링크 배너를 연동하는 것 외에 툴팁을 적용하는 방법도 알려드릴게요
 
@@ -460,11 +468,11 @@ TIP을 한가지 드리면요
 
 </div>
 
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(이미지페이지 수정 방법)**
+
+
+## **STEP5. 편집하기(이미지페이지 수정 방법)**
 
 **수정은 동일하게 앱제작 메이커 – 이미지 페이지 \[수정하기]로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.**
 
@@ -479,6 +487,4 @@ TIP을 한가지 드리면요
 이미지 페이지 수정도 별도의 페이지가 따로 있는 것이 아니구요.
 
 제작 페이지와 동일하게 들어가서, 기존에 만들어놓은 페이지 위에 덮어서 수정을 하는 방법으로 업데이트할 수 있어요.
-
-
 

@@ -6,6 +6,8 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ***
 
+
+
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**템플릿 페이지란?**
 
 사용자페이지에서 제공하는 웹페이지 제작도구로 – 업종별 디자인 템플릿 제작 툴(tool)이구요.
@@ -14,15 +16,17 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 디자인측면으로 직접 제작이 어려운 웹페이지를 각 스타일별, 업종별 템플릿을 제공함으로 사용자분들은 보다 간편하게 페이지를 제작할 수 있습니다.
 
-
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**템플릿 페이지 제작 단계**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**템플릿 페이지 제작 단계**
+
+<div align="left">
 
 <figure><img src="../../../.gitbook/assets/KR-페이지 템플렛 2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **\[템플릿 페이지 제작하기]**
 
@@ -54,11 +58,11 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 7\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.&#x20;
 
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면 -템플릿 페이지 적용**
+
+
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**앱 실행화면 -템플릿 페이지 적용**
 
 <div align="left">
 
@@ -72,17 +76,9 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **업종별 템플릿 스타일 보러가기**
-
-[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
-
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1 웹템플릿 페이지 새로 제작하기**
+### **STEP.1 웹템플릿 페이지 새로 제작하기**
 
 페이지 템플릿 만들기는 앱제작에서 만들 수 있습니다.
 
@@ -100,7 +96,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.2 템플릿 페이지 만들기**
+### **STEP.2 템플릿 페이지 만들기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
 
@@ -182,7 +178,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 이미 툴이 다 입혀진 템플릿 위에서 수정만해서 사용하면 되기 때문에 이렇게 간단한 앱제작은 또 없겠죠?^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
+
 
 <img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
 
@@ -222,11 +218,9 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 모든 작업이 끝나면 \[저장하기] 버튼을 누르면 페이지가 작업 내용대로 저장이 완료됩니다.
 
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 만들어놓은 웹템플릿 페이지 앱에 적용하기**
+### **STEP.3 만들어놓은 웹템플릿 페이지 앱에 적용하기**
 
 ![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
 
@@ -264,11 +258,11 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 </div>
 
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.4 템플릿페이지 편집하기(수정 방법)**
+
+
+### **STEP.4 템플릿페이지 편집하기(수정 방법)**
 
 템플릿 수정은 동일하게 앱제작 메이커 – 업종별 템플릿 페이지 \[수정하기]로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.
 

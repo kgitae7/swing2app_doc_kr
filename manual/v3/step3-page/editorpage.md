@@ -28,11 +28,11 @@ HTML 에디터페이지는 사용자가 원하는 스타일대로 만들 수 있
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **에디터 페이지 제작단계**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **에디터 페이지 제작단계**
 
 <figure><img src="../../../.gitbook/assets/KR-HTML2.png" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱 실행화면) HTML에디터 페이지 적용**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **앱 실행화면) HTML에디터 페이지 적용**
 
 <div align="left">
 
@@ -46,7 +46,7 @@ HTML 에디터페이지는 사용자가 원하는 스타일대로 만들 수 있
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1 시작하기**
+## **STEP1. 시작하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B01.png)
 
@@ -64,13 +64,9 @@ HTML 에디터페이지는 사용자가 원하는 스타일대로 만들 수 있
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-&#x20;
+## **STEP2. 제작하기(HTML 에디터 페이지 제작도)**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 제작하기(HTML 에디터 페이지 제작도)**
-
-
-
-#### **1.**HTML 에디터 페이지 제작도구
+### **1.**HTML 에디터 페이지 제작도구
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
 
@@ -98,7 +94,9 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 그럼 위에서 보여드린 공식앱의 에디터 페이지처럼 작업해볼게요!
 
-**2. 동영상 등록(유튜브 URL 입력)**
+
+
+### **2.동영상 등록(유튜브 URL 입력)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802\_20.07.png)
 
@@ -118,7 +116,9 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 그런데 위의 방법으로 입력을 했는데 앱에서 보실때 영상 화면이 가로, 세로 비율이 맞지 않아 확대되어 보일 수 있어요.
 {% endhint %}
 
-#### 앱 실행화면 참고)
+
+
+### 앱 실행화면&#x20;
 
 <div align="left">
 
@@ -128,11 +128,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 따라서 화면에 맞게 비율을 맞추고 싶다면 아래 방법으로 동영상 크기를 수정할 수 있어요.
 
-<div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt="">
-
-</div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8017\_20.07.png)
 
@@ -142,7 +138,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ​
 
-**앱 실행화면)**
+### **앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8018\_20.07.png)
 
@@ -150,7 +146,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 &#x20;
 
-**3. 이미지 등록**
+### **3. 이미지 등록**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%803\_20.07.png)
 
@@ -170,7 +166,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 이미지 사이즈는 다시 수정하실 수 있어요!!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%804\_20.07.png)
 
@@ -192,7 +188,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 
 
-**4. 본문 글 등록**
+### **4. 본문 글 등록**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%805\_20.07.png)
 
@@ -202,7 +198,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 &#x20;
 
-**5. 웹링크 삽입**
+### **5. 웹링크 삽입**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%806\_20.07.png)
 
@@ -258,7 +254,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 &#x20;
 
-**6. 제작 완료시 저장 버튼을 눌러주세요.**
+### **6. 제작 완료시 저장 버튼을 눌러주세요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%808\_20.07.png)
 
@@ -268,7 +264,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 적용하기(HTML에디터 페이지 앱 적용)**
+## **STEP3. 앱에 적용하기(HTML에디터 페이지 앱 적용)**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B02.png)
 
@@ -302,17 +298,17 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 
 
-![](../../../.gitbook/assets/수평성.PNG)
-
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. HTML에디터 페이지 제작 TIP**
+
+
+## **STEP4. HTML에디터 페이지 제작 TIP**
 
 제작에 필요한 몇가지 기능들을 더 소개해드리면요!
 
 
 
-**1. 수평선**
+### **1. 수평선**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%809\_20.07.png)
 
@@ -324,7 +320,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 &#x20;
 
-**2. 전체화면**
+### **2. 전체화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8010\_20.07.png)
 
@@ -340,7 +336,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ​
 
-**3. 빠른 삽입**
+### **3. 빠른 삽입**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8013\_20.07.png)
 
@@ -348,11 +344,9 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 빠른 삽입 버튼으로, 해당 버튼을 선택하면 이미지 삽입, 동영상 삽입, 수평선 삽입 등 자주 사용하는 옵션기능을 빠르게 이용할 수 있어요.
 
-
-
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 편집하기(HTML에디터 페이지 수정 방법)**
+## **STEP5. 편집하기(HTML에디터 페이지 수정 방법)**
 
 수정은 동일하게 앱제작 메이커 – HTML 에디터 \[수정하기]로 들어가서 만들어놓은 페이지 위에 덮어서 수정해주시면 됩니다.
 

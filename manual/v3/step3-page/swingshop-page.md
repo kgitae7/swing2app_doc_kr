@@ -4,6 +4,8 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 # 페이지 기능 - 쇼핑몰 기능 페이지
 
+***
+
 **스윙샵에서 제공하는 페이지**
 
 **쇼핑몰 앱제작시 필요한 기본 페이지 소개 및 앱 적용방법을 알려드립니다.**
@@ -60,7 +62,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1. 쇼핑몰 메인 페이지**
+## **1. 쇼핑몰 메인 페이지**
 
 <div align="left">
 
@@ -78,7 +80,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 반드시 해당 페이지를 홈화면으로 적용해야 하는 것은 아니니 앱 스타일에 맞게 꾸며주시면 됩니다 ^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%94%EC%82%B4%ED%91%9C.png)
+
 
 #### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**&#x20;
 
@@ -104,13 +106,13 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
+***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2. 장바구니**
+
+
+## **2. 장바구니**
 
 <div align="left">
 
@@ -122,13 +124,13 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 장바구니에 넣은 상품을 확인하여 구매할 수 있습니다.&#x20;
 
-<div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
+***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3. 카테고리 리스트**
+
+
+## **3. 카테고리 리스트**
 
 <div align="left">
 
@@ -152,13 +154,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 따라서 이렇게 만들어놓은 카테고리도, 카테고리 리스트 페이지로 앱 메뉴 구성을 할 수 있습니다.
 
-<div align="left">
+***
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4. 디지털 상품 구매완료 페이지**
+## **4. 디지털 상품 구매완료 페이지**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%83%81%ED%92%88.png)
 
@@ -172,13 +172,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 해당 페이지를 적용하셔야 앱에서 사용자들이 구매한 컨텐츠를 확인할 수 있습니다.
 
-<div align="left">
+***
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **5. 마이페이지**
+## **5. 마이페이지**
 
 <div align="left">
 
@@ -192,13 +190,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 이미지에서 보시는 것처럼 주문현황, 배송조회, 배송완료, 구매완료 , 교환 조회 등의 기능을 제공합니다.
 
-<div align="left">
+***
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **6. 쇼핑몰 정보**
+## **6. 쇼핑몰 정보**
 
 <div align="left">
 
@@ -210,13 +206,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 쇼핑몰 기본 정보로 구성된 페이지로 고객센터 및 운영시간 등을 제공합니다.
 
-<div align="left">
+***
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **7. 상품 검색**
+## **7. 상품 검색**
 
 <div align="left">
 
@@ -232,13 +226,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 \*필터를 선택하면 – 우선순위, 최신순, 상품가격순, 인기순으로 필터링 됩니다.
 
-<div align="left">
+***
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png" alt="">
 
-</div>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **8. 기간(날짜)예약 상품 예약하기**
+## **8. 기간(날짜)예약 상품 예약하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%82%A0%EC%A7%9C%EC%98%88%EC%95%BD%EC%83%81%ED%92%88.png)
 
@@ -254,9 +246,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 날짜 조회가 완료되면 해당 날짜에 예약가능한 상품이 조회됩니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **9. 시간+날짜 예약상품 예약하기**
+
+
+## **9. 시간+날짜 예약상품 예약하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%8B%9C%EA%B0%84%EC%98%88%EC%95%BD%EC%83%81%ED%92%88.png)
 
@@ -272,8 +266,8 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-{% hint style="warning" %}
-**스윙샵 (쇼핑몰) 기본 페이지 안내사항**
+{% hint style="success" %}
+### **스윙샵 (쇼핑몰) 기본 페이지 안내사항**
 
 
 

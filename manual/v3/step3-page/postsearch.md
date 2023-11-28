@@ -4,6 +4,8 @@ description: 게시물 검색 기능 이용방법:게시판 통합 검색, 개�
 
 # 페이지 기능 - 게시물 검색
 
+***
+
 스윙투앱에서는 다양한 게시판 스타일을 제공하고 있으며, 사용자분들은 자유롭게 게시판을 만들어서 게시물을 작성할 수 있어요\~!
 
 이때 원하는 검색어를 찾아주는 게시물 검색 기능 역시 유용하게 사용하실 수 있습니다.
@@ -20,7 +22,7 @@ description: 게시물 검색 기능 이용방법:게시판 통합 검색, 개�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 게시물 검색 기능**
+## **1. 게시물 검색 기능**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%892.png)
 
@@ -30,7 +32,7 @@ description: 게시물 검색 기능 이용방법:게시판 통합 검색, 개�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[게시물 검색] 앱에 적용하기**
+## **2. \[게시물 검색] 앱에 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89.png)
 
@@ -54,7 +56,7 @@ description: 게시물 검색 기능 이용방법:게시판 통합 검색, 개�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면**
+## **3. 앱 실행화면**
 
 <div align="left">
 
@@ -87,8 +89,6 @@ description: 게시물 검색 기능 이용방법:게시판 통합 검색, 개�
 
 다른 기능을 추가하지 않아도 게시판을 적용하시면, 게시판 내에 검색어 입력 창이 기본 셋팅되어서 제공됩니다.
 {% endhint %}
-
-
 
 {% hint style="info" %}
 <mark style="color:blue;">**개별 게시물 검색**</mark>

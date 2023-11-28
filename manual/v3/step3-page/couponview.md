@@ -4,6 +4,8 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 # 페이지 기능 - 쿠폰조회하기
 
+***
+
 **쿠폰조회하기 메뉴란?**
 
 **쿠폰 조회하기란 앱에서 발급 받은 쿠폰을 확인하고, 사용 처리된 쿠폰을 확인할 수 있는 사용자용 쿠폰 조회 페이지입니다.**
@@ -40,11 +42,11 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 혹은 앱에서 앱 관리자 메뉴를 선택해서, 쿠폰 사용처리를 할 수 있습니다.
 
-**☞** [**\[ 쿠폰 만들고 발행하는 전 과정 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/coupon/)
+**☞** [**쿠폰 만들고 발행하는 전 과정 뉴얼 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/service/coupon)
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 쿠폰조회하기 메뉴 적용하기**
+## **1. 앱에 쿠폰조회하기 메뉴 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B0%EC%A1%B0%ED%9A%8C.png)
 
@@ -68,7 +70,7 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
+## **2. 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B01.png)
 
@@ -100,8 +102,6 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 받은 쿠폰을 관리자가 사용처리하면 \[사용된 쿠폰] 목록에서 사용처리 된 것을 확인할 수 있습니다.
 
-
-
 {% hint style="info" %}
 쿠폰조회하기 메뉴 이용방법을 잘 확인하셨나요?
 
@@ -111,12 +111,8 @@ description: 앱에서 발급받은 쿠폰을 조회하는 방법
 
 **쿠폰을 만들고, 사용자에게 발행하고, 사용 처리하는 방법은 전과정은 아래 매뉴얼로 반드시 확인해주세요\~!!**
 
-**☞** [**쿠폰 만들고 발행하기 보러가기**](https://wp.swing2app.co.kr/documentation/appmanage/service/coupon/)
+**☞** [**쿠폰 만들고 발행하기 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/service/coupon)
 {% endhint %}
-
-
-
-
 
 
 

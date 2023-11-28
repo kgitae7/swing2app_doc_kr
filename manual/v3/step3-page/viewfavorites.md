@@ -4,6 +4,8 @@ description: 페이지 기본 기능 - 관심글보기 이용방법
 
 # 페이지 기능 - 관심글 보기
 
+***
+
 스윙투앱에서 제공하는 ‘관심글보기’ 이용방법에 대해서 알려드리겠습니다.
 
 **관심글보기는 – 게시물 ‘좋아요’한 글을 모두 모아 보여주는 북마크 기능이에요.**
@@ -14,7 +16,7 @@ description: 페이지 기본 기능 - 관심글보기 이용방법
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 관심글보기란?**
+## **1. 관심글보기란?**
 
 **사용자가 앱 게시물의 ‘좋아요’버튼을 누른 글을 모두 모아서 보여주는 기능입니다.**
 
@@ -26,7 +28,7 @@ description: 페이지 기본 기능 - 관심글보기 이용방법
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 관심글보기 앱 적용방법**
+## **2. 관심글보기 앱 적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 
@@ -50,7 +52,7 @@ description: 페이지 기본 기능 - 관심글보기 이용방법
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면**
+## **3. 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.png)
 
@@ -72,9 +74,11 @@ description: 페이지 기본 기능 - 관심글보기 이용방법
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 안내사항**
+## **4. 안내사항**
 
-1\) ‘관심글보기’를 이용하기 위해서는, 앱 재제작하셔서 새 버전에서 이용해주셔야 합니다.(앱제작시 소프트 업데이트 가능)
+
+
+1\) ‘관심글보기’를 이용하기 위해서는, 앱 재제작하셔서 새 버전에서 이용해주셔야 합니다.
 
 \*업데이트 기준 2019.1.7 이후 앱을 신규 제작하거나, 업데이트 하신 분들은 ‘관심글보기’ 적용 후 저장만 해주시면 됩니다.
 
