@@ -8,7 +8,9 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 앱제작 마법사라고 부르며, 제작방법은 3가지로 제공이 됩니다.
 
-### ![](../../.gitbook/assets/단락1-1.png) **앱제작 3가지 방법**
+###
+
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> **앱제작 3가지 방법**
 
 \-템플릿을 이용하여 디자인이 모두 입혀진 앱제작(일반 프로토타입)
 
@@ -28,7 +30,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) 방법1. 빠른 앱제작
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> 방법1. 빠른 앱제작
 
 ![](../../.gitbook/assets/제작마법사1.png)
 
@@ -60,7 +62,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) 방법2. 웹사이트 기반한 웹
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> 방법2. 웹사이트 기반한 웹
 
 ![](../../.gitbook/assets/제작마법사2.png)
 
@@ -84,7 +86,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) 방법3. 처음부터 시작하기
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> 방법3. 처음부터 시작하기
 
 ![](../../.gitbook/assets/제작마법사3.png)
 
@@ -100,15 +102,15 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 **앱제작 메이커에서 본격적인 앱제작을 시작합니다.**
 
-**​**
+{% hint style="info" %}
+<mark style="color:green;">\*앱제작 메이커에서 얼마든지 수정하고, 업데이트할 수 있으니 처음에 고른걸 바꾸고 싶다면 기존 앱에 덮어서 수정해주시면 됩니다.</mark>
 
-<mark style="color:green;">**\*앱제작 메이커에서 얼마든지 수정하고, 업데이트할 수 있으니 처음에 고른걸 바꾸고 싶다면 기존 앱에 덮어서 수정해주시면 됩니다.**</mark>
+<mark style="color:green;">\*<처음부터 시작하기>를 선택해도, 페이지 단계에서 템플릿을 선택할 수 있어요.</mark>
 
-<mark style="color:green;">**\*<처음부터 시작하기>를 선택해도, 페이지 단계에서 템플릿을 선택할 수 있어요.**</mark>
+<mark style="color:green;">따라서 일반 앱 제작 스타일 +템플릿 스타일 등 자유롭게 접목하여 제작할 수 있습니다.</mark>
+{% endhint %}
 
-<mark style="color:green;">**따라서 일반 앱 제작 스타일 +템플릿 스타일 등 자유롭게 접목하여 제작할 수 있습니다.**</mark>
 
-**​**
 
 앱제작 마법사에서 원하는 앱제작 유형을 선택하여 앱을 제작해주세요.
 
