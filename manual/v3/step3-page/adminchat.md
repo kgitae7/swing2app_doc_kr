@@ -16,13 +16,11 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 매뉴얼통해서 관리자 채팅(1:1 채팅)을 이용하는 방법을 확인해주세요.
 
-
-
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 관리자 채팅 적용하기**
+## **1. 앱에 관리자 채팅 적용하기**
 
 \* 먼저 앱에 \[관리자 채팅] 페이지를 적용해야 사용자와 관리자 모두 채팅을 할 수 있겠죠?
 
@@ -84,7 +82,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 채팅방 화면**
+## **2. 앱 실행화면: 채팅방 화면**
 
 <div align="left">
 
@@ -94,7 +92,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
 
-
+***
 
 **앱 사용자(회원)는 어떻게 관리자와 채팅을 할 수 있을까요?**
 
@@ -110,7 +108,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 사용자는 앱에서 채팅메뉴로 들어가서 대화를 할 수 있고, 대화목록은 채팅목록에서 확인가능합니다.  아래에 채팅을 하는 방법을 확인해주세요!!
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 사용자가 앱 관리자와 채팅을 하는 방법**
+## **3. 사용자가 앱 관리자와 채팅을 하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW4.png)
 
@@ -122,7 +120,11 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 #### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **채팅목록**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png" alt="">
+
+</div>
 
 대화를 한 뒤 다시 해당 관리자와 채팅을 하고 싶을 경우 ‘채팅목록’으로 들어가시면 됩니다.
 
@@ -134,7 +136,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 관리자 채팅 기능을 이용하신다면, 메뉴에 채팅목록도 함께 추가해주시기 바랍니다.
 
-☞ [채팅목록 이용방법 보러가기 ](../../v2/pagemenu/chat-list.md)
+☞ [채팅목록 이용방법 보러가기](https://documentation.swing2app.co.kr/manual/v3/step3-page/chat-list)&#x20;
 
 
 
@@ -144,8 +146,6 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
 
-
-
 ![](../../../.gitbook/assets/수평성.PNG)
 
 {% hint style="success" %}
@@ -154,7 +154,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 관리자는 스윙 웹(앱운영페이지)에서 제공하는 회원조회 메뉴에서 회원을 선택하여 대화를 할 수 있습니다. 아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 관리자가 앱 회원과 채팅을 하는 방법**
+## **4. 관리자가 앱 회원과 채팅을 하는 방법**
 
 관리자는 웹(스윙 홈페이지)에서 채팅을 할 수도 있고, 앱에서도 이용할 수 있어요.
 
@@ -226,11 +226,11 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 **\*채팅관리자 페이지 이용방법은 해당 매뉴얼을 참고해주세요**
 
-**☞** [**\[채팅 관리자 페이지 이용방법 보러가기\]**](../../appmanage/service/admin-chat.md)
+**☞** [**채팅 관리자 페이지 이용방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/service/admin-chat)
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) 5**. 추가안내**&#x20;
+## 5**. 추가안내**&#x20;
 
 앱에서 기존에 채팅을 한 회원과 다시 대화를 하고 싶다면, 채팅 목록을 이용해주세요.
 
@@ -248,7 +248,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **6. 새글알람 푸시 알림 -관리자, 회원**
+## **6. 새글알람 푸시 알림 -관리자, 회원**
 
 <div align="left">
 
@@ -257,8 +257,6 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 </div>
 
 채팅을 하게 되면 앱 관리자 – 앱 회원 모두 채팅 메시지 알림 푸시를 받을 수 있습니다.
-
-
 
 {% hint style="danger" %}
 <mark style="color:red;">**안내사항**</mark>

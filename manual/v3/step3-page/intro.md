@@ -4,6 +4,8 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 # 페이지 기능 - 앱소개
 
+***
+
 **앱소개란?** &#x20;
 
 **앱소개는 스윙페이지에서 제공하는 홈화면 스타일로, 메인 홈화면을 꾸미는 메뉴 중 하나입니다.**
@@ -20,7 +22,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.앱에 \[앱소개 페이지] 적용하기**
+## &#x20;**1.앱에 \[앱소개 페이지] 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
@@ -54,7 +56,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면: 앱소개 페이지 확인**
+## &#x20;**2.앱 실행화면: 앱소개 페이지 확인**
 
 <div align="left">
 
@@ -84,7 +86,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3.앱소개 메뉴 및 내용 수정방법** &#x20;
+## **3.앱소개 메뉴 및 내용 수정방법** &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
 
@@ -106,7 +108,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4.앱소개 내용, 버튼 삭제 방법**&#x20;
+## **4.앱소개 내용, 버튼 삭제 방법**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
 
@@ -125,7 +127,7 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 
 {% hint style="danger" %}
-<mark style="color:red;">**앱소개 안내사항**</mark>
+### <mark style="color:red;">**앱소개 안내사항**</mark>
 
 
 
@@ -135,13 +137,19 @@ description: 페이지 기본 기능 - 앱소개 페이지 앱 적용방법 매�
 
 1회 수정 이후에는 저장만 하시면 그때부터는 앱에 자동 반영되요.
 
+
+
 **2)사이트주소 입력시 하단의 \[공유] 아이콘 버튼과, 중간에 들어가는 사이트 링크 주소와 함께 연동됩니다.**&#x20;
 
 따라서 사이트주소 입력하시면 공유버튼과 사이트 주소가 함께 표시되구요.
 
 삭제하시면 공유버튼, 사이트주소 함께 제거됩니다.
 
+
+
 **3)앱소개 페이지의 대표 이미지는 앱 아이콘이미지와 연동이 되어서 보여집니다. \*별도 수정 및 제거가 불가합니다.**&#x20;
+
+
 
 **4)처음 앱제작시 홈화면은 기본 화면을 ‘앱소개’ 페이지로 셋팅해놓았습니다.**
 

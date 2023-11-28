@@ -4,6 +4,8 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 # 페이지 기능 - 채팅목록
 
+***
+
 **1:1 채팅 – 채팅목록 이용방법 매뉴얼**&#x20;
 
 채팅목록은 1:1 채팅 후 사용자와 관리자가 이용할 수 있는 기능으로, 채팅한 내역을 확인할 수 있는 메뉴에요.
@@ -18,7 +20,7 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.채팅목록 이란?**
+## **1.채팅목록 이란?**
 
 <div align="left">
 
@@ -36,11 +38,9 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 **☞** [**관리자 채팅 이용방법 보러가기**](adminchat.md)&#x20;
 
-
-
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.\[채팅목록] 앱에 적용하기**
+## **2.\[채팅목록] 앱에 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)
 
@@ -74,7 +74,7 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.채팅목록 앱 실행화면**
+## **3.채팅목록 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D3-1.png)
 
@@ -117,8 +117,6 @@ description: 1:1 채팅 – 채팅목록 이용방법 매뉴얼
 따라서 사용자가 언제든지 채팅을 원하는 관리자를 목록에서 확인하여 대화를 할 수 있습니다.
 
 \* 채팅목록에서 \[통합 관리자 채팅]은 관리자가 채팅을 할 때 ‘전용 대화’가 아닌 ‘공용 대화’를 한 채팅 내역을 확인할 수 있습니다.
-
-
 
 {% hint style="danger" %}
 <mark style="color:red;">**안내사항**</mark>

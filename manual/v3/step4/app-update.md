@@ -4,6 +4,8 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 # 앱 업데이트 방법
 
+***
+
 스윙투앱에서는 자유롭게 앱 디자인, 내용 등을 수정하여 업데이트하여 사용할 수 있는데요.
 
 **-앱 기본정보, 디자인테마를 수정할 때는** **앱제작 페이지에서 내용을 수정한 뒤 \[저장]버튼을 누른 뒤, \[앱 업데이트]버튼을 눌러서 새 버전으로 앱을 제작할 수 있습니다.**
@@ -16,7 +18,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱 업데이트 방법**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**앱 업데이트 방법**
 
 **★ 스윙투앱에서는 제작한 앱을 수시로 수정하고 업데이트할 수 있답니다!!**
 
@@ -30,7 +32,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **스윙투앱 앱 업데이트 중요 내용**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**스윙투앱 앱 업데이트 중요 내용**
 
 <mark style="color:red;">**\*중요한 내용이니 꼭 먼저 확인해주세요!!**</mark>&#x20;
 
@@ -56,15 +58,15 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **플레이스토어, 앱스토어 업데이트 안내**&#x20;
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**플레이스토어, 앱스토어 업데이트 안내**&#x20;
 
 **1.스토어 업데이트가 필요한 경우**
 
-\=> 앱 기본정보, 디자인테마
+**=**앱 기본정보, 디자인테마
 
 앱이름, 아이콘, 대기화면 이미지,디자인테마 수정할 경우 \[앱 업데이트] 버튼 누르고, 새로 제작된 버전으로 스토어에 다시 업데이트 해야 합니다.
 
-\=>그 외 앱이 아닌 스토어 정보를 수정할 경우(스토어 출시 앱이름, 앱 설명, 스크린샷이미지 등)도 스토어 업데이트가 필요합니다.&#x20;
+\=그 외 앱이 아닌 스토어 정보를 수정할 경우(스토어 출시 앱이름, 앱 설명, 스크린샷이미지 등)도 스토어 업데이트가 필요합니다.&#x20;
 
 **2.모든 앱운영 기능들, 페이지메뉴 업데이트 하지 않아도 됩니다.**&#x20;
 
@@ -84,11 +86,11 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 
 
+***
+
 ## **앱 업데이트 유형, 표시 옵션**
 
-
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1. 업데이트 유형**
+### &#x20;**1 . 업데이트 유형**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9C%A0%ED%98%95.png)
 
@@ -106,9 +108,11 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **\*플레이스토어에 앱이 출시된 분들은 디자인테마 수정시 소프트가 아닌 하드업데이트 (앱 재설치)로 선택해주세요!**
 
+***
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**2. 업데이트 표시옵션**
+
+### **2. 업데이트 표시옵션**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%91%9C%EC%8B%9C%EC%9C%A0%ED%98%95.png)
 
@@ -132,7 +136,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.앱 실행화면 : 업데이트 유형**
+### **3.앱 실행화면 : 업데이트 유형**
 
 업데이트 방법과 중요 내용을 확인했다면! 업데이트 유형에 따라서 실제 앱에서 어떻게 업데이트가 진행되는지 확인해볼게요.
 

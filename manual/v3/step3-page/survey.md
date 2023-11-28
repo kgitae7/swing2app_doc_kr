@@ -14,13 +14,13 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1.설문조사 만들기**&#x20;
+## **STEP1.설문조사 만들기**&#x20;
 
 가장 먼저 앱운영페이지에서 설문조사지를 만들어주세요.
 
 
 
-**1. 설문관리 메뉴 이동**
+### **1. 설문관리 메뉴 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%832.png)
 
@@ -30,7 +30,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 
 
-**2. 기본 정보 입력**
+### **2. 기본 정보 입력**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%831.png)
 
@@ -54,7 +54,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 
 
-**3. 설문조사 항목 입력**
+### **3. 설문조사 항목 입력**
 
 <div align="left">
 
@@ -92,7 +92,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 
 
-**4. 설문지 등록 완료**
+### **4. 설문지 등록 완료**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%838.png)
 
@@ -106,7 +106,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2.설문조사 앱적용하기**&#x20;
+## **STEP2.설문조사 앱적용하기**&#x20;
 
 앱운영에서 설문조사를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
 
@@ -210,7 +210,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3.앱 실행화면: 설문조사 페이지 확인**
+## **STEP3.앱 실행화면: 설문조사 페이지 확인**
 
 앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!
 
@@ -240,7 +240,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4.설문조사 결과 확인 & 설문조사 관리**
+## **STEP4.설문조사 결과 확인 & 설문조사 관리**
 
 설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?
 
@@ -278,7 +278,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) **STEP**5.이용방법 총정리
+## **STEP**5.이용방법 총정리
 
 
 

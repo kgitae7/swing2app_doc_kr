@@ -22,7 +22,7 @@
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **1**.**소프트 업데이트 & 권장**
+### **1**.**소프트 업데이트 & 권장**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
 
@@ -36,7 +36,7 @@
 
 
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 소프트 업데이트 & 필수**
+### **2. 소프트 업데이트 & 필수**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.png)
 
@@ -48,7 +48,7 @@
 
 
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) 3. **하드 업데이트&권장**
+### 3. **하드 업데이트&권장**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
 
@@ -64,13 +64,17 @@
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_36_49_697.gif" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_36_49_697.gif" alt="" width="375">
 
 </div>
 
 ### **4) 하드 업데이트 & 필수**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png" alt="">
+
+</div>
 
 하드업데이트, 필수로 선택할 경우 사용자 선택을 물어보지 않고, 확인을 누르면 바로 업데이트가 진행됩니다.
 
@@ -84,7 +88,7 @@
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_44_37_946.gif" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_44_37_946.gif" alt="" width="375">
 
 </div>
 

@@ -12,7 +12,7 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.인터넷주소(사이트 URL) 링크 적용하기**
+## **1.인터넷주소(사이트 URL) 링크 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.png)
 
@@ -114,11 +114,13 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 유튜브 어플이 실행되면서 연결된 영상 링크로 이동합니다.
 
-![](../../../.gitbook/assets/수평성.PNG)
+
+
+***
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 전화번호 적용하기**
+## **2. 전화번호 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%A0%84%ED%99%94%EA%B1%B8%EA%B8%B0.png)
 
@@ -166,7 +168,7 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 문자메시지 번호 적용하기**
+## **3. 문자메시지 번호 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EB%AC%B8%EC%9E%90%EB%B3%B4%EB%82%B4%EA%B8%B0.png)
 
@@ -218,7 +220,7 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 이메일주소 적용하기**
+## **4. 이메일주소 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
 
@@ -269,7 +271,7 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 
 사용자의 폰마다 설정된 메일에서 발송되요.
 
-
+***
 
 {% hint style="danger" %}
 <mark style="color:red;">**\*링크 기능 중요 안내​**</mark>
@@ -305,5 +307,5 @@ description: 페이지 기능에서 제공하는 링크 이용방법 매뉴얼
 이용에 참고해주세요.&#x20;
 {% endhint %}
 
-
+***
 

@@ -14,7 +14,7 @@ description: 페이지 기본 기능에서 제공하는 나의 글 보기 기능
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 나의 글 보기 앱 적용방법**&#x20;
+## **1. 나의 글 보기 앱 적용방법**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 
@@ -47,12 +47,12 @@ description: 페이지 기본 기능에서 제공하는 나의 글 보기 기능
 
 이전 버전에서는 \[나의 글 보기] 기능이 보이지 않아요. 따라서 새로 제작 후, 앱제작 페이지에서 나의 글 보기 기능을 적용해주세요.
 
-
+***
 {% endhint %}
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
+## **2. 앱 실행화면**
 
 <div align="left">
 
