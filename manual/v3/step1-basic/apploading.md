@@ -6,7 +6,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) 1. 대기화면 이미지란?
+## 1. 대기화면 이미지란?
 
 대기화면은 앱이 실행되기 전 (앱 로딩 시간 동안 보여지는) 잠깐 1\~2초 정도 보여지는 이미지입니다.&#x20;
 
@@ -36,7 +36,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 대기화면 가이드라인**
+## **2. 대기화면 가이드라인**
 
 대기화면에 들어갈 이미지는 가이드라인을 참고해서 만들어주세요.
 
@@ -83,7 +83,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)**3. 제작방법1–포토샵 실행**&#x20;
+## **3. 제작방법1–포토샵 실행**&#x20;
 
 **먼저 대기화면 이미지를 제작할 수 있도록 포토샵을 열어서 작업해볼게요!!**
 
@@ -109,7 +109,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:red;">**회색은 핸드폰 상에서 잘리는 부분이기 때문에 파란색 영역을 넘어가지 않도록 해주세요.**</mark>&#x20;
 
-
+***
 
 &#x20; <mark style="color:blue;">**>파란색 영역에 이미지 넣기**</mark>
 
@@ -127,7 +127,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **4. 제작방법2-배경색 삭제하기**
+## **4. 제작방법2-배경색 삭제하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4-%EC%A0%9C%EC%9E%912.png)
 
@@ -137,7 +137,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **5. 제작방법3-배경 이미지 업그레이드하기**
+## **5. 제작방법3-배경 이미지 업그레이드하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4-%EC%A0%9C%EC%9E%911.png)
 
@@ -169,7 +169,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **6. 앱에 대기화면 이미지 등록하기**&#x20;
+## **6. 앱에 대기화면 이미지 등록하기**&#x20;
 
 
 
@@ -195,7 +195,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **7. 앱 실행) 핸드폰에서 대기화면 이미지 확인하기**
+## **7. 앱 실행) 핸드폰에서 대기화면 이미지 확인하기**
 
 <div align="left">
 
@@ -213,7 +213,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **8. 대기화면 잘못된 예시**
+## **8. 대기화면 잘못된 예시**
 
 
 
@@ -263,7 +263,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 {% hint style="success" %}
-<mark style="color:green;"><mark style="color:red;">**잊지 말아야 할 점**<mark style="color:red;"></mark>
+<mark style="color:green;">**잊지 말아야 할 점**</mark>
 
 대기화면 전체에 이미지를 채우는 것이 아니라 겉의 배경이미지를 남겨두고(잘려도 되는 부분),&#x20;
 

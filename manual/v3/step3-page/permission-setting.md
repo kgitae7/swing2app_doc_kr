@@ -26,8 +26,6 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 >
 > \*회원가입을 하지 않은 손님은 접근 안됨
 
-
-
 {% hint style="warning" %}
 <mark style="color:orange;">**안내사항**</mark>
 
@@ -40,7 +38,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> **메뉴설정 – 권한 설정 이용방법**
+## **메뉴설정 – 권한 설정 이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%95.png)
 
@@ -54,7 +52,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) 1.권한 설정: 모두 보기 설정
+## 1.권한 설정: 모두 보기 설정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%951.png)
 
@@ -72,7 +70,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 
 
-### <mark style="color:blue;">**앱 실행화면**</mark>
+### <mark style="color:blue;">**1-1앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%954\_886.png)
 
@@ -84,9 +82,9 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **2.권한 설정: 지정권한 설정**
+## **2.권한 설정: 지정권한 설정**
 
-​**-특정 회원 선택하기**
+### 2-1. **특정 회원 선택하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%952.png)
 
@@ -108,7 +106,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 
 
-**-회원 그룹으로 선택하기**
+### **2-2.회원 그룹으로 선택하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%952-1.png)
 
@@ -126,7 +124,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 
 
-### <mark style="color:blue;">**앱 실행화면**</mark>
+### <mark style="color:blue;">**2-3.앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%955\_886.png)
 
@@ -140,7 +138,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **3.권한 설정: 회원전용 선택**
+## **3.권한 설정: 회원전용 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%953.png)
 
@@ -154,7 +152,7 @@ description: '메뉴 권한 설정: 접근 권한 이용방법 – 앱제작 V3'
 
 
 
-### <mark style="color:blue;">**앱 실행화면**</mark>
+### <mark style="color:blue;">**3-1.앱 실행화면**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%956\_886.png)
 

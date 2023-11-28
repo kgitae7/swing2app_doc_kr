@@ -16,7 +16,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **게시판**
+## **1.게시판**
 
 게시판은 앱 내 커뮤니티 용도로 관리자가 글을 쓸 수 있고, 앱을 이용하는 사용자들도 글을 등록할 수 있는 기능입니다.
 
@@ -66,7 +66,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **위치등록**&#x20;
+## **2.위치등록**&#x20;
 
 위치등록은 지도게시판으로, 앱 내에 주소를 넣어야 할 때\~!! 고객들에게 지도 및 오시는 길 안내를 해야 할 때 사용할 수 있는 위치등록 기능이구요.
 
@@ -112,7 +112,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **그룹채팅**
+## **3.그룹채팅**
 
 앱 내에서 여러명의 사용자가 동시에 채팅을 진행할 수 있고, 관리자와 다수의 사용자의 채팅도 가능합니다.
 
@@ -156,7 +156,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **캘린더**
+## **4.캘린더**
 
 캘린더에 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.
 
@@ -200,7 +200,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **스탬프**&#x20;
+## **5.스탬프**&#x20;
 
 스탬프는 모바일 쿠폰으로 관리자가 사용자의 앱으로 스탬프(도장)를 추가할 수 있는 기능입니다.
 

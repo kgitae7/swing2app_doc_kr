@@ -30,7 +30,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.홈화면-이미지 적용**
+### **1.홈화면-이미지 적용**
 
 홈화면 적용 첫번째 방법은 이미지를 업로드 하는 방법입니다.
 
@@ -82,7 +82,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.게시판 적용**
+### &#x20;**2.게시판 적용**
 
 두번째 방법은 게시판을 홈화면으로 적용시키는 방법이에요!
 
@@ -104,7 +104,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%903-1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%903-1.png" alt="">
+
+</div>
 
 1\)STEP3 페이지 메뉴 선택
 
@@ -136,7 +140,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.사용자페이지 – 이미지페이지 적용**
+### **3.사용자페이지 – 이미지페이지 적용**
 
 세번째 방법은 이미지페이지를 만들어서 홈화면에 적용하는 방법이에요.
 
@@ -188,7 +192,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.사용자 페이지 – 웹템플릿 페이지 적용**
+### **4.사용자 페이지 – 웹템플릿 페이지 적용**
 
 네번째 방법은 사용자페이지- 웹템플릿 페이지를 만들어서 적용하는 방법입니다.
 
@@ -240,7 +244,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.사용자 페이지 – HTML에디터 페이지 적용**
+### **5.사용자 페이지 – HTML에디터 페이지 적용**
 
 다섯번째 방법은 사용자페이지- 에디터 페이지를 만들어서 적용하는 방법입니다.
 
@@ -292,7 +296,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.앱소개 페이지 적용**
+### **6.앱소개 페이지 적용**
 
 앱 소개 페이지는 처음 스윙투앱에서 앱을 제작할 때 홈화면으로 기본 셋팅이 되는 홈화면이에요.
 
@@ -378,7 +382,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 **★앱소개 페이지의 대표 이미지는 앱 아이콘이미지와 연동이 되어서 보여집니다. \*별도 수정 및 제거가 불가합니다.**&#x20;
 
-
+***
 
 {% hint style="danger" %}
 **홈화면 적용 안내사항**
