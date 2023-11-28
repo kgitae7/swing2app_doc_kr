@@ -4,7 +4,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 # V3버전 앱제작 방법 매뉴얼
 
-### &#x20;![](<../../.gitbook/assets/image (2) (1).png>)**STEP1. 기본정보**
+## &#x20;<img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">**STEP1. 기본정보**
 
 **1단계\[기본정보]는 앱제작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
 
@@ -57,7 +57,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 (3)대기화면으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.
 
-
+***
 
 아이콘, 대기화면 이미지 제작 가이드를 확인해주세요.
 
@@ -75,7 +75,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**STEP2.디자인**
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">**STEP2.디자인**
 
 **\[STEP2디자인]은 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
 
@@ -123,7 +123,7 @@ description: V3 앱제작 가이드 매뉴얼
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**STEP3. 페이지**
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">**STEP3. 페이지**
 
 **\[STEP3 페이지]는 앞서 만들어놓은 전체적인 앱 툴에 카테고리와 메뉴를 만들어서 본격적으로 앱 내용을 구성하는 단계입니다.**
 
@@ -239,7 +239,7 @@ UI KIT 선택 게시판 선택 적용하고자 하는 게시판 스타일 선택
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**STEP4. 앱제작하기**
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">**STEP4. 앱제작하기**
 
 
 
@@ -269,7 +269,7 @@ UI KIT 선택 게시판 선택 적용하고자 하는 게시판 스타일 선택
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**STEP5. 앱제작 완료**
+## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">**STEP5. 앱제작 완료**
 
 ![](../../.gitbook/assets/앱제작완료\_진행상태1.png)
 
