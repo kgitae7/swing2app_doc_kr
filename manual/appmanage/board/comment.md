@@ -16,7 +16,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. 게시판에 댓글 허용 설정하기
+### STEP1. 게시판에 댓글 허용 설정하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC2.png)
 
@@ -36,7 +36,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. 앱에 게시판 적용하기
+### STEP2. 앱에 게시판 적용하기
 
 만들어놓은 게시판을 앱에 적용해야 앱에서 이용이 가능하겠죠?
 
@@ -90,13 +90,13 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 앱에 게시판 적용이 완료되었다면, 앱을 실행해서 게시판 에서 댓글, 대댓글을 입력하는 방법을 확인해볼게요
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 앱실행화면) 댓글 입력방법
+### STEP3. 앱실행화면) 댓글 입력방법
 
 <div align="left">
 
@@ -120,7 +120,7 @@ description: 앱 게시판- 게시물에 댓글을 입력하고, 대댓글을 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 실행화면) 대댓글 입력방법
+### STEP4. 앱 실행화면) 대댓글 입력방법
 
 <div align="left">
 

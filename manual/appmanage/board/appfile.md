@@ -24,7 +24,7 @@ description: 앱에서 게시판 게시물 등록시 첨부파일을 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1.게시판 만들기
+## 1.게시판 만들기
 
 파일첨부는 게시판이 있어야 이용이 가능하기 때문에, 게시판을 먼저 만들어주세요!
 
@@ -60,7 +60,7 @@ description: 앱에서 게시판 게시물 등록시 첨부파일을 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2.앱에 게시판적용하기
+## 2.앱에 게시판적용하기
 
 만든 게시판을 앱제작에서 적용해주세요.&#x20;
 
@@ -88,9 +88,7 @@ description: 앱에서 게시판 게시물 등록시 첨부파일을 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3.앱 실행화면
-
-
+## 3.앱 실행화면
 
 <div align="left">
 
@@ -106,7 +104,7 @@ description: 앱에서 게시판 게시물 등록시 첨부파일을 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4.안내사항**
+## **4.안내사항**
 
 {% hint style="info" %}
 1\)앱 파일첨부 등록 기능은 신규 업데이트 된 기능으로, <mark style="color:red;">23년 4월 11일 이전 제작 앱은 앱 업데이트가 필요합니다.</mark>&#x20;

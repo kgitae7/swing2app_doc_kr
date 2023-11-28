@@ -34,7 +34,7 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP**1. 게시판 권한 이용방법**
+## STEP**1. 게시판 권한 이용방법**
 
 <div align="left">
 
@@ -96,12 +96,6 @@ description: 게시판에서 권한 지정 유형 및 각 항목별 권한을 �
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/진한줄.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 <mark style="color:blue;">**\*앱제작 V2버전 이용) 사용자분들은 아래 가이드로 확인해주세요.**</mark>&#x20;
 
 {% tabs %}
@@ -160,7 +154,7 @@ V2 버전 이용시) 권한은 해당 방법으로 적용 가능하구요.&#x20;
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 게시판 권한 설정 안내 및 주의사항**
+## **STEP2. 게시판 권한 설정 안내 및 주의사항**
 
 
 
@@ -264,7 +258,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 ‘사용자 정의’로 선택되지 않으면 설정값이 모두 고정으로 제공되기 때문에 사용자정의 선택 후 옵션값을 자유롭게 수정해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%94%EC%82%B4%ED%91%9C.png)
+
 
 <div align="left">
 
@@ -274,7 +268,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 그룹 운영 TIP**
+## **STEP3. 그룹 운영 TIP**
 
 **앱에서 기본 제공되는 그룹(관리자, 사용자, 손님)외에 운영자는 새로운 그룹을 만들어서 추가할 수 있습니다.**
 
@@ -288,7 +282,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 앱에 게시판 적용하기
+## STEP4. 앱에 게시판 적용하기
 
 위에서 제작한 게시판을 앱에 적용해야 앱에서 이용 가능하겠죠?
 
@@ -314,7 +308,7 @@ HTML에디터 글 작성이 제공되며 글자 폰트나 색상 등의 옵션�
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 앱 실행화면
+## STEP5. 앱 실행화면
 
 <mark style="color:blue;">**1. 목록보기 : 사용자 권한 설정**</mark>
 

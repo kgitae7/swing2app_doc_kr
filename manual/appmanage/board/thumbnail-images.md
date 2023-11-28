@@ -28,7 +28,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)1. 섬네일 이미지 등록하기
+## &#x20;1. 섬네일 이미지 등록하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC2\_20.06.png)
 
@@ -74,7 +74,7 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)2. 섬네일 이미지를 본문에 나오지 않게 설정하기
+## &#x20;2. 섬네일 이미지를 본문에 나오지 않게 설정하기
 
 섬네일 이미지가 게시물 목록에서 대표이미지로만 보이게 하고, 본문에는 나오지 않게 하고 싶다면 아래 방법을 확인해주세요!
 

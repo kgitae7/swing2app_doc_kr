@@ -46,7 +46,9 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**Case.1 동영상 파일로 등록하기**&#x20;
+***
+
+## **Case.1 동영상 파일로 등록하기**&#x20;
 
 **동영상 파일을 게시물에 첨부할 수 있습니다. 영상 파일을 첨부하는 방법은 2가지입니다.**
 
@@ -144,11 +146,9 @@ description: 게시물에 영상 등록하는 방법 (URL복사, 임베디드코
 
 **\***[**앱운영→ 서비스관리→ 리소스관리**](http://www.swing2app.co.kr/view/storage\_manager)**에서 총 앱 용량, 사용중, 잔여 용량 체크 가능**
 
-
-
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Case.2 영상 링크(URL)로 등록하기
+## Case.2 영상 링크(URL)로 등록하기
 
 **유튜브, 네이버 tv에서 발행한 영상 링크가 있다면 해당 URL을 복사하여 영상을 링크로 연동할 수 있습니다.**
 
@@ -296,7 +296,7 @@ PC 유튜브 사이트 접속 후 앱에 적용하고자 하는 동영상을 재
 
 임베디드 링크로 입력시 프레임 사이즈를 수정할 수 있기 때문에 게시물에서 영상 화면(섬네일)이 모바일 화면에 좀 더 맞게 배치할 수 있습니다.&#x20;
 
-
+***
 
 **HTML에디터**로 선택해서 글을 작성하셔야 영상 등록 등 다른 글쓰기 옵션을 자유롭게 이용할 수 있습니다.
 

@@ -16,7 +16,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)1. \[게시판 복사] 이용방법
+## 1. \[게시판 복사] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC\_20.06.png)
 
@@ -48,7 +48,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)2. \[게시글 복사] 이용방법
+## 2. \[게시글 복사] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC\_20.06.png)
 
@@ -106,7 +106,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)3. \[게시글 다운] 이용방법
+## 3. \[게시글 다운] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/05/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B42.png)
 
@@ -140,7 +140,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)4. \[게시물 일괄삭제] 이용방법
+## 4. \[게시물 일괄삭제] 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C.png)
 

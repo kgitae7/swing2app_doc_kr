@@ -28,9 +28,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/googlemap-apikey" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
-
-
+***
 
 ## STEP1. 구글맵 게시판 만들기
 
