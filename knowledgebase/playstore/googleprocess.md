@@ -14,7 +14,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 구글 개발자 계정 초대
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> 구글 개발자 계정 초대
 
 &#x20;
 

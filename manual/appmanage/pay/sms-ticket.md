@@ -44,7 +44,9 @@ SMS발송권은 총 1,000건이 제공이 되요.
 
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. SMS 발송 티켓 구매하기**
+##
+
+## **STEP1. SMS 발송 티켓 구매하기**
 
 
 
@@ -78,7 +80,7 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 이렇게 유료상품에 대한 이용방법 및 이용방법, 주의사항, 환불 등에 대한 정책을 보다 자세히 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+
 
 <div align="left">
 
@@ -96,7 +98,9 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 아이디형태: 전화번호 설정하기**
+## **STEP2. 아이디형태: 전화번호 설정하기**
+
+
 
 SMS티켓 구매 후, 다시 회원가입 양식 설정 페이지에서 아이디를 "전화번호" 선택 후 저장해주세요.&#x20;
 
@@ -174,7 +178,7 @@ SMS티켓 구매 후, 다시 회원가입 양식 설정 페이지에서 아이�
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. SMS(문자메시지) 발송하기**
+## **STEP3. SMS(문자메시지) 발송하기**
 
 <mark style="color:red;">\*문자메시지 발송 역시 SMS티켓을 먼저 구매한 뒤, 회원가입 아이디를 전화번호로 설정을 해주셔야 합니다.</mark>
 

@@ -80,11 +80,9 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 **인증번호 SMS가 발송되어야 하기 때문에 스윙투앱 상품 중 – SMS 발송 티켓을 구매해야 전화번호를 선택할 수 있습니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
-
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D6.png" alt="">
+<figure><img src="../../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,7 +94,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_14_07_40_398.gif" alt="">
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_14_07_40_398.gif" alt="" width="375">
 
 </div>
 

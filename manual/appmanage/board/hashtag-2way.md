@@ -34,7 +34,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 해시태그 검색 기능
+## 1. 해시태그 검색 기능
 
 **첫번째 방법은 게시물 입력시 해시태그 ‘ # ‘ 을  입력해서 태그로 값을 보여주는 방법이에요.**
 
@@ -98,7 +98,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)  2. 고급 설정) 해시태그 연산자검색 옵션
+## 2. 고급 설정) 해시태그 연산자검색 옵션
 
 **해시태그 두 번째 이용방법은 검색옵션으로 이용할 수 있어요.**
 
@@ -216,7 +216,7 @@ description: 해시태그 - 기본 검색, 연산자 검색(고급) 기능 이�
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+
 
 <mark style="color:orange;">**\*해시태그 검색옵션은 다양한 어플에서 활용해서 제작할 수가 있어요.**</mark>
 

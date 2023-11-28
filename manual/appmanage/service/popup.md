@@ -24,7 +24,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 매뉴얼을 통해서 팝업을 적용하는 방법을 확인해주세요.
 
-
+***
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -50,7 +50,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **1. 팝업관리 페이지 이동**
+## **1. 팝업관리 페이지 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%851.png)
 
@@ -58,7 +58,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 팝업 적용하기**
+## **2. 팝업 적용하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%8C%9D%EC%97%853\_2020.02.png)
 
@@ -114,7 +114,7 @@ description: 팝업 사용 방법, 팝업 관리 방법 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면)팝업 스타일**
+## &#x20;**3. 앱 실행화면)팝업 스타일**
 
 
 

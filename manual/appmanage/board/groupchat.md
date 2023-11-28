@@ -36,7 +36,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 그룹채팅방 만들기
+## &#x20;STEP1. 그룹채팅방 만들기
 
 <div align="left">
 
@@ -98,11 +98,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 5\)상세 설정 내용 입력이 완료되면 \[저장] 버튼을 눌러주세요.
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 그룹채팅방 적용하기
+## STEP2. 앱에 그룹채팅방 적용하기
 
 그룹 채팅 게시판을 만들었다면, 앱에 채팅방을 적용해야겠죠?&#x20;
 
@@ -158,7 +158,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면
+## STEP3. 앱 실행화면
 
 **앱을 실행하여서 채팅방이 앱에서 어떻게 보여지는지 확인해보겠습니다.**&#x20;
 
@@ -234,7 +234,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 그룹채팅 기능 소개
+## STEP4. 그룹채팅 기능 소개
 
 
 
@@ -244,7 +244,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 그룹채팅 Q\&A
+## STEP5. 그룹채팅 Q\&A
 
 
 

@@ -1,8 +1,10 @@
+---
+description: 회원가입 양식 설정
+---
+
 # 앱 정책관리 - 회원가입 양식
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%A0%9C%EB%AA%A9.png)
-
-**회원가입 양식 설정**&#x20;
+***
 
 정책관리 – 회원가입 양식을 설정하는 방법을 알려드립니다.
 
@@ -12,17 +14,27 @@
 
 **= 회원가입에서 사용자에게 다른 정보를 받고자 할 경우, 관리자가 회원가입 양식 페이지에서 추가로 설정하여 적용할 수 있습니다.**
 
+***
 
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**정책관리 – 회원가입 양식 이동하기**</mark>
+
+<mark style="color:blue;">**정책관리 – 회원가입 양식 이동하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW10.png)
 
 [**앱운영→ 서비스관리 → 정책관리 → 회원가입 양식**](http://www.swing2app.co.kr/view/app\_policy) **메뉴로 이동합니다.**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1.  아이디 형태**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW11.png)
+
+***
+
+## **1.  아이디 형태**
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW11.png" alt="">
+
+</div>
 
 **아이디 형태는 앱에서 로그인 할 때 어떤 아이디 형태를 쓸지 선택하는 메뉴입니다.**&#x20;
 
@@ -30,9 +42,9 @@
 
 2\)\[정책 설정하기] 버튼을 선택하여 저장합니다.
 
-<mark style="color:purple;">★ 아이디형태 : 전화번호는 선택할 수 없게 되어있습니다.</mark>
+★ 아이디형태 : 전화번호는 선택할 수 없게 되어있습니다.
 
-<mark style="color:purple;">전화번호를 선택하기 위해서는 스윙 유료상품: 1,000건 SMS발송 상품(20,000원)을 구매해야 이용할 수 있어요.</mark>
+<mark style="color:red;">전화번호를 선택하기 위해서는 스윙 유료상품: 1,000건 SMS발송 상품(20,000원)을 구매해야 이용할 수 있어요.</mark>
 
 
 
@@ -46,31 +58,41 @@
 
 따라서 초기에 설정한 아이디형태는 앱 이용 도중에 변경하지 않는 것이 좋습니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행 화면**</mark>
+
+<mark style="color:orange;">**앱 실행 화면**</mark>
 
 아이디 형태에 따라 앱실행화면- 회원가입 화면이 어떻게 다른지 확인해볼게요.
 
+<mark style="color:blue;">**1)아이디 형태: 이메일**</mark>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D8.png" alt="" width="375">
+
+</div>
 
 
-<mark style="color:purple;">**1)아이디 형태: 이메일**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D8.png)
-
-
-
-<mark style="color:purple;">**2) 아이디 형태: 일반 아이디**</mark>
+<mark style="color:blue;">**2) 아이디 형태: 일반 아이디**</mark>
 
 일반적인 아이디로 영문+숫자로 가입을 할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D7.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D7.png" alt="" width="375">
+
+</div>
 
 
 
-<mark style="color:purple;">**3) 아이디 형태: 전화번호**</mark>
+<mark style="color:blue;">**3) 아이디 형태: 전화번호**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D9.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D9.png" alt="" width="375">
+
+</div>
 
 전화번호는 입력한 번호로 인증번호를 받도록 합니다.
 
@@ -78,19 +100,25 @@
 
 <mark style="color:red;">**★전화번호 아이디는 위에서 설명했듯이!**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/2df5a0567da835ab1e3a62868b47e003.png)
+<div align="left">
 
-[**스윙 결제 페이지에서 스윙유료상품: 1000건 SMS메시지발송 상품을 구매**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)해야 전화번호 아이디를 선택할 수 있습니다.
+<figure><img src="../../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+&#x20;[**1000건 SMS메시지발송 상품**](https://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)을 구매해야 전화번호 아이디를 선택할 수 있습니다.
 
 상품 결제가 안되어 있으면 전화번호 선택이 안됩니다.
 
+***
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 회원가입 양식 설정하기**</mark>
 
-<mark style="color:orange;">**스윙 회원가입 양식은 별도로 설정하지 않아도 기본적으로 ‘아이디, 비밀번호, 사용자 이름’을 회원가입에서 수집합니다.**</mark>&#x20;
+## **2. 회원가입 양식 설정하기**
 
-이 외에 관리자가 앱 사용자들에게 **추가로 받고 싶은 정보가 있다면 회원가입양식에서 항목을 추가로 입력해서 설정할 수 있습니다.**
+<mark style="color:orange;">스윙 회원가입 양식은 별도로 설정하지 않아도 기본적으로 ‘아이디, 비밀번호, 사용자 이름’을 회원가입에서 수집합니다.</mark>&#x20;
+
+이 외에 관리자가 앱 사용자들에게 추가로 받고 싶은 정보가 있다면 회원가입양식에서 항목을 추가로 입력해서 설정할 수 있습니다.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/54cef9fb63d0ec443b28ccf382201624.png)
 
@@ -108,9 +136,13 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**회원가입 내에 항목을 추가하는 방법을 움짤로 확인해주세요!!**</mark>
+<mark style="color:orange;">**회원가입 내에 항목을 추가하는 방법을 움짤로 확인해주세요!!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif" alt="">
+
+</div>
 
 > **\* 항목명칭 : ‘사용자정의’ 입력정보를 선택한 경우, 입력정보의 이름을 입력합니다.**
 >
@@ -150,9 +182,11 @@
 
 (ex : 이메일 정규식의 경우 @가 없으면 올바른 답이 아니도록 설정)
 
+***
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 회원가입 양식 항목별 앱 실행화면**</mark>
+
+## **3. 회원가입 양식 항목별 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW1.png)
 
@@ -160,16 +194,24 @@
 
 **★ 입력정보 : 전화번호, 생일, 키(단문작성), 몸무게(단문작성), 희망프로그램(헬스,GX,요가,필라테스,댄스),운동목표(긴문장작성/서술형)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
+
 
 <mark style="color:orange;">**1)전화번호 UI (숫자 입력)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png" alt="">
+
+</div>
 
 \
 <mark style="color:orange;">**2) 생일 작성 UI (날짜 설정)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png" alt="">
+
+</div>
 
 
 
@@ -177,7 +219,11 @@
 
 &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png" alt="">
+
+</div>
 
 
 
@@ -187,7 +233,11 @@
 
 <mark style="color:red;">**★ 회원가입 기본 항목 수정 불가**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85\_11.20.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85_11.20.png" alt="" width="375">
+
+</div>
 
 회원가입 항목을 설정하지 않아도, 스윙투앱에서는 기본 항목을 고정값으로 제공하는데요.
 

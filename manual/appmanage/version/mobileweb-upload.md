@@ -38,7 +38,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 모바일 웹 업로드 티켓 구매하기
+### 1. 모바일 웹 업로드 티켓 구매하기
 
 <figure><img src="../../../.gitbook/assets/모바일웹-이용권구매.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +74,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 모바일 웹 등록 신청하기
+### 2. 모바일 웹 등록 신청하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EC%8B%A0%EA%B7%9C1.png)
 
@@ -114,7 +114,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 모바일 웹 등록 완료
+### 3. 모바일 웹 등록 완료
 
 <div align="left">
 
@@ -128,7 +128,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 모바일 웹 실행하기
+### 4. 모바일 웹 실행하기
 
 <div align="left">
 
@@ -156,7 +156,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 모바일 웹 등록 주의사항
+### 5. 모바일 웹 등록 주의사항
 
 **1) 모바일 웹등록 신청 전, 사이트를 연동할 수 있는 도메인은 별도로 구매해주셔야 합니다. (카페 24 등)**
 

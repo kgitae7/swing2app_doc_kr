@@ -24,7 +24,7 @@ description: 특정 게시판의 게시물을 다른 게시판으로 복사하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>)1. 게시판 복사
+## 1. 게시판 복사
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC\_20.06.png)
 
@@ -60,7 +60,7 @@ description: 특정 게시판의 게시물을 다른 게시판으로 복사하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>)2. 게시판 복사 완료
+## 2. 게시판 복사 완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC2\_20.06.png)
 

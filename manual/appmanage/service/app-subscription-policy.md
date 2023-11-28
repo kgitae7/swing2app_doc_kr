@@ -1,8 +1,10 @@
+---
+description: 앱 정책관리 – 앱 가입 정책
+---
+
 # 앱 정책관리 - 앱 가입 정책
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85.png)
-
-앱 정책관리 – 앱 가입 정책
+***
 
 앱 가입정책은 앱을 접근하고 사용하기 위한 권한과 약관 등 각종정책을 관리합니다.
 
@@ -10,6 +12,7 @@
 
 \
 <mark style="color:blue;">**앱 가입 정책 메뉴 이동**</mark>
+--------------------------------------------------
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
@@ -17,22 +20,25 @@
 
 
 
-&#x20;
-
 <mark style="color:blue;">**앱 가입 정책 페이지**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%83.18.09.png)
 
-<mark style="color:red;">**\*\*앱 가입정책은 – 앱 공개범위, 가입 안내 문구, 서비스 이용약관 정책을 설정할 수 있어요.**</mark>\
-\
-1\) 앱 공개범위: 공개, 비공개를 선택하여 서비스 공개범위를 설정합니다.\
-2\) 가입안내 문구: 회원가입 페이지에서 보여지는 가입 문구를 작성합니다.\
-3\) 서비스 이용약관: 회원가입페이지의 이용약관&개인정보취급방팀 내용을 입력합니다.\
+<mark style="color:red;">**\*\*앱 가입정책은 – 앱 공개범위, 가입 안내 문구, 서비스 이용약관 정책을 설정할 수 있어요.**</mark>
+
+1\) 앱 공개범위: 공개, 비공개를 선택하여 서비스 공개범위를 설정합니다.
+
+2\) 가입안내 문구: 회원가입 페이지에서 보여지는 가입 문구를 작성합니다.
+
+3\) 서비스 이용약관: 회원가입페이지의 이용약관&개인정보취급방팀 내용을 입력합니다.
+
 4\) 모든 내용 작성 후 \[정책 설정하기]를 누르면 해당 내용으로 앱에 반영됩니다.
 
+***
 
 
-<mark style="color:blue;">**1. 앱 공개 범위**</mark>
+
+## **1. 앱 공개 범위**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%831.18.09.png)
 
@@ -55,17 +61,27 @@
 
 <mark style="color:red;">기본 공개로 셋팅되어 앱이 제작되니, 수정하실 경우 해당 정책 페이지에 오셔서 범위를 수정해주세요</mark>
 
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면**</mark>
+
+
+<mark style="color:orange;">**앱 실행화면**</mark>
 
 **1) 공개 – 비회원 이용가능**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%835.18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%835.18.09.png" alt="" width="375">
+
+</div>
 
 
 
 2\) **공개(비회원 이용가능. 개별인식)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%832.18.09.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%832.18.09.png" alt="" width="375">
+
+</div>
 
 ,
 
@@ -75,7 +91,7 @@
 
 ​
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**미인증 회원 인증하기**</mark>
+<mark style="color:orange;">**미인증 회원 인증하기**</mark>
 
 **관리자는 웹에서 미인증회원을 인증 처리할 수 있어요!**
 
@@ -95,9 +111,11 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%833.18.09.png)
 
+***
 
 
-<mark style="color:blue;">**2. 앱 가입 안내 문구**</mark>
+
+## **2. 앱 가입 안내 문구**
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/8b4c9d755fa3d27f4e9827d3fcac8ec3.png)
 
@@ -105,40 +123,62 @@
 
 **해당 페이지에서 안내 문구 내용을 수정한 뒤, \[정책 설정하기] 버튼을 누르면 저장됩니다.**
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면: 앱 가입 문구 확인하기**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%856-514x1024.png)
 
 
+<mark style="color:orange;">**앱 실행화면: 앱 가입 문구 확인하기**</mark>
 
-<mark style="color:blue;">**3. 서비스 이용약관: 이용약관, 개인정보 취급방침**</mark>
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%856-514x1024.png" alt="" width="375">
+
+</div>
+
+***
+
+
+
+## **3. 서비스 이용약관: 이용약관, 개인정보 취급방침**
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c7574360e9aa312995b45efd5305c0fe.png)
 
-앱에 들어갈 앱 이용약관과 개인정보 취급방침 항목 역시 사용자가 수정하여 사용할 수 있습니다.\
-<mark style="color:red;">**각 문항별로 스윙에서 내용을 기본셋팅하여 넣어드렸는데요.**</mark> \
-<mark style="color:red;">**그대로 쓰셔도 되지만 해당 내용은 어떤 앱을 제공하는지 서비스마다 내용이 달라지기 때문에 사용자가 확인하여서  수정하여 사용해주세요**</mark>\
+앱에 들어갈 앱 이용약관과 개인정보 취급방침 항목 역시 사용자가 수정하여 사용할 수 있습니다.
+
+<mark style="color:red;">각 문항별로 스윙에서 내용을 기본셋팅하여 넣어드렸는데요.</mark>&#x20;
+
+<mark style="color:red;">그대로 쓰셔도 되지만 해당 내용은 어떤 앱을 제공하는지 서비스마다 내용이 달라지기 때문에 사용자가 확인하여서  수정하여 사용해주세요</mark>
+
 해당 페이지에서 내용을 수정한 뒤  **\[정책 설정하기]** 버튼을 누르면 저장됩니다.\
 
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/23bc3a60807b68e59c616809338b1af5.png)
 
-개인정보 처리방침 항목은 7가지로 기본 멘트를 셋팅해서 넣어드렸구요.\
+개인정보 처리방침 항목은 7가지로 기본 멘트를 셋팅해서 넣어드렸구요.
+
 사용자가 직접 앱의 서비스에 맞게 작성을 해서 넣어주셔야 합니다.
 
-<mark style="color:red;">**\[중요사항]**</mark>\
-이제 모바일 어플리케이션도 개인정보 처리방침을 제공해야 합니다.\
-**해당 내용은 한국인터넷 진흥원, 방송통신위원회에서 공식적으로 내놓은 정책입니다.**\
+
+
+<mark style="color:red;">**\[중요사항]**</mark>
+
+이제 모바일 어플리케이션도 개인정보 처리방침을 제공해야 합니다.
+
+**해당 내용은 한국인터넷 진흥원, 방송통신위원회에서 공식적으로 내놓은 정책입니다.**
+
 **위반할 경우 정보통신망법에 의거하여 벌금이 부여될 수 있으니, 꼭 작성해주세요!!**
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/51445cf562e778406c9a6493cb38e3c0.png)
 
-그리고 작성한 서비스 이용약관은 URL로 확인할 수 있어요.\
+그리고 작성한 서비스 이용약관은 URL로 확인할 수 있어요.
+
 하단의 **\[서비스 이용약관 URL보기]**를 선택해주세요.&#x20;
 
 
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/36e505eeab3360efc192f053ed3f8483.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/36e505eeab3360efc192f053ed3f8483.png" alt="">
+
+</div>
 
 위의 이미지처럼 이용약관 내용이 담긴 새 웹페이지 창이 뜹니다.\
 \
@@ -155,15 +195,21 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/a9c6c1036dc7296923ed03da090c038d.png)
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e38099333ab64247c012a7ac7c488161.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e38099333ab64247c012a7ac7c488161.png" alt="" width="375">
+
+</div>
 
 회원가입 메뉴 하단에 보시면, \[이용약관 확인하기] 버튼이 있습니다.
 
 해당 버튼을 선택하면 앱 가입정책에서 입력한 서비스 이용약관 내용을 확인할 수 있습니다.
 
+***
 
 
-<mark style="color:blue;">**4. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**</mark>
+
+## **4. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**
 
 **그럼, 위에서 작성한 앱 개인정보처리방침 내용이 플레이스토어, 앱스토어에서는 어떻게 적용되어 보여지는지 확인해볼게요!**
 
@@ -187,7 +233,7 @@
 
 선택하면 스윙투앱 앱 가입정책 – 이용약관에서 작성한 페이지가 화면으로 보여집니다.&#x20;
 
-
+***
 
 ★이용약관 및 개인정보취급방침은 필수 사항으로, 적용하지 않고 마켓에 출시하면 관련 기관으로부터 제재를 받거난 정책위반으로 벌금을 물 수 있습니다.
 

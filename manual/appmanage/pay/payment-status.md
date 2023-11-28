@@ -8,7 +8,9 @@
 
 내 결제 현황은 **스윙 유료상품을 결제한 내역, 쿠폰을 사용한 내역 등 모든 결제현황을 확인할 수 있습니다.**\
 &#x20;\
-<mark style="background-color:blue;">**▶**</mark>** 제공되는 서비스**
+
+
+&#x20;**제공되는 서비스**
 
 1\. **기본결제 정보** \[제품명, 결제유형, 결제금액, 상태, 결제일, 환불신청, 영수증]을 제공합니다,
 
@@ -20,9 +22,9 @@
 
 **스윙에서 유료상품을 결제하거나 쿠폰을 이용하신 사용자분들은 \[내 결제 현황] 페이지 결제내역 정보를 확인하세요^^**
 
+***
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**1. 내 결제 현황 메뉴**</mark>
+### &#x20;<mark style="color:blue;">**1. 내 결제 현황 메뉴**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A9.png)
 
@@ -32,9 +34,9 @@
 
 결제완료된 상품부터, 환불처리된 상품, 쿠폰으로 받은 상품 등 모든 정보를 확인할 수 있습니다.&#x20;
 
+***
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 이용권 이용기간 확인**</mark>
+### <mark style="color:blue;">**2. 이용권 이용기간 확인**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A92.png)
 
@@ -58,9 +60,9 @@
 
 이럴 때에도 마지막으로 결제한 제품을 선택하면 이용기간을 확인할 수 있어요.
 
+***
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. 환불신청**</mark>
+### &#x20;<mark style="color:blue;">**3. 환불신청**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A94.png)
 
@@ -68,21 +70,23 @@
 
 
 
-> <mark style="color:red;">**\[환불 안내]**</mark>\
-> **1) 사용하지 않은 이용권은 100% 환불이 가능합니다.**\
-> **\*그러나  이용일수가 하루라도 차감된 경우 환불이 불가능합니다.**\
-> **2) 플레이스토어, 앱스토어 업로드 티켓  사용하지 않은 티켓은 100% 환불이 가능합니다.**\
-> **\*그러나 이미 신청요청을 했거나, 업로드 등록시 심사가 거절되어 마켓에 정상 출시가 되지 않더라도 이미 등록을 한 앱에 대해서는 티켓은 환불이 되지 않습니다.**\
-> **3) 환불 신청은, 결제 – 내 결제 현황에서 \[환불신청] 버튼을 눌러서 신청해주세요.**\
-> **4) 신용카드 및 전자결재로 구매를 한 뒤 30일 이후 환불을 신청할 경우, 카드 수수료 10%를 제외한 금액으로 환불이 진행됩니다.**\
-> **5) 카드 자동환불이 되지 않을 경우 환불금액을 입금해드립니다. 계좌번호, 은행명, 입금주명을 알려주시기 바랍니다.**\
-> **6) 스윙 환불정책을 확인해주시기 바랍니다.**\
-> [**\[이용정책-환불규정 확인하기\]**](https://wp.swing2app.co.kr/help/user-protocol/)\
-> **\[제2장 서비스의 이용] 제 10조 (이용권 및 상품 환불에 대한 규정)**
+**취소 환불 정책**
+
+* 사용하지 않은 이용권은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment\_list) 환불 신청 가능
+* 결제 7일 이내 서비스 이력(스토어 출시)이 없을 경우 취소 가능하며, [문의게시판](http://www.swing2app.co.kr/view/service\_qa) 혹은 [채팅 상담](https://direct.lc.chat/12036120/)으로 문의주시기 바랍니다.
+* 결제 후 7일 이후는 어떤 경우라도 환불이 불가합니다.
+* 남은 일수에 대해 부분 환불해드리지 않으며, 편의에 따라 이용기간을 보류해드리지 않습니다.
+* 구매한 이용권은 다른 앱으로 옮길 수 없습니다.&#x20;
+* 이용하지 않은 상품이라도, 구매일 기준 30일 이후에는 어떤 경우라도 환불이 불가합니다.
+* [환불 정책 보러가기](https://documentation.swing2app.co.kr/terms/user-protocol)
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**4. 영수증 보기**</mark>
+***
+
+
+
+### <mark style="color:blue;">**4. 영수증 보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%B0%EC%A0%9C%ED%98%84%ED%99%A95.png)
 

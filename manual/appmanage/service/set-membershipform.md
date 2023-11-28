@@ -11,7 +11,8 @@
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
 \
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **회원가입 양식 설정 – 회원 가입 항목 추가하기**
+**회원가입 양식 설정 – 회원 가입 항목 추가하기**
+------------------------------
 
 [앱운영- 서비스관리- 정책관리-회원가입 양식](http://www.swing2app.co.kr/view/app\_policy)으로 이동합니다.
 
@@ -69,7 +70,7 @@
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1. 입력정보 중 ‘전화번호’를 추가하는 방법**
+## **1. 입력정보 중 ‘전화번호’를 추가하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D2.png)
 
@@ -87,7 +88,9 @@
 
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2. 입력정보 중 ‘사용자정의’를 추가하는 방법**
+
+
+## &#x20;**2. 입력정보 중 ‘사용자정의’를 추가하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D4.png)
 
@@ -111,7 +114,7 @@ ex) 결혼기념일의 경우, 항목명칭은 결혼기념일로 입력, 답변
 
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3. 입력정보 중 ‘사용자정의 – 목록 중 선택’ 항목을 추가하는 방법**
+## **3. 입력정보 중 ‘사용자정의 – 목록 중 선택’ 항목을 추가하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D3.png)
 
@@ -135,13 +138,17 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4. 움짤 이미지로 입력 방법 확인하기**
+## **4. 움짤 이미지로 입력 방법 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif" alt="">
+
+</div>
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)**1.가입 항목 수정하기**
+## **1.가입 항목 수정하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D5.png)
 
@@ -153,9 +160,13 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 4\)정책 설정하기 버튼 선택하면 저장됩니다.
 
+
+
+***
+
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.가입 항목 삭제하기**
+## **2.가입 항목 삭제하기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D6.png)
 
@@ -165,9 +176,13 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 3\)\[정책 설정하기] 버튼 선택시 저장됩니다.
 
+
+
+***
+
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.가입 항목 순서 변경**
+## **3.가입 항목 순서 변경**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D7.png)
 
@@ -179,7 +194,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면) 스윙헬스클럽 샘플앱**
+## **4.앱 실행화면) 스윙헬스클럽 샘플앱**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW1.png)
 
@@ -191,7 +206,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 &#x20;
 
-**1.전화번호**
+**1)전화번호**
 
 <div align="left">
 
@@ -201,7 +216,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 &#x20;
 
-**2. 생일**
+**2)생일**
 
 <div align="left">
 
@@ -211,7 +226,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 &#x20;
 
-**3.추천 트레이너 – 문장 작성 UI (단문 작성)**
+**3)추천 트레이너 – 문장 작성 UI (단문 작성)**
 
 <div align="left">
 
@@ -221,7 +236,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 &#x20;
 
-**4. 희망프로그램 목록 중 선택 UI**
+**4)희망프로그램 목록 중 선택 UI**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW2.png)
 

@@ -16,11 +16,11 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 한글 문구 → 영문으로 수정**
+## **1. 한글 문구 → 영문으로 수정**
 
 
 
-### <mark style="color:blue;">**1. 앱 문자열 관리 이동**</mark>
+### <mark style="color:blue;">**1)앱 문자열 관리 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
 
@@ -28,7 +28,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:blue;">**2. 메시지 변경: 영문 수정**</mark>
+### <mark style="color:blue;">**2)메시지 변경: 영문 수정**</mark>
 
 회원가입 페이지를 변경할텐데요. 한글로 셋팅된 앱 문구를 영어로 변경해볼게요\~!
 
@@ -76,7 +76,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:blue;">**3. 앱 실행화면: 영문으로 수정된 문구 확인하기**</mark>
+### <mark style="color:blue;">**3)앱 실행화면: 영문으로 수정된 문구 확인하기**</mark>
 
 <div align="left">
 
@@ -104,11 +104,11 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**2. 메시지 내용 수정하기**
+## **2. 메시지 내용 수정하기**
 
 
 
-### <mark style="color:blue;">**1. 앱 문자열 관리 이동**</mark>
+### <mark style="color:blue;">**1)앱 문자열 관리 이동**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
 
@@ -116,7 +116,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:blue;">**2. 메시지 변경하기**</mark>
+### <mark style="color:blue;">**2)메시지 변경하기**</mark>
 
 **이번에는 메시지 내용을 변경해볼게요. 리뷰 버튼에 사용되는 메시지를 변경해보겠습니다.**
 
@@ -160,7 +160,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:blue;">**3. 앱 실행화면: 수정된 문구 내용 확인하기**</mark>
+### <mark style="color:blue;">**3)앱 실행화면: 수정된 문구 내용 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC10.png)
 
@@ -174,9 +174,9 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 운영 TIP
+## 3. 운영 TIP
 
-### <mark style="color:red;">**TIP1)**</mark>**컨트롤(control) + F 버튼**
+### <mark style="color:red;">**TIP1**</mark>** 컨트롤(control) + F 버튼**
 
 &#x20;몇 개 단어만 수정할 경우 **\*컨트롤(control) + F 버튼**을 누르면 내용을 검색하여 찾을 수 있습니다!!
 
@@ -184,7 +184,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 
 
-### <mark style="color:red;">**TIP2)**</mark>앱 문구 전체 수정 \[다운로드] 버튼 선택
+### <mark style="color:red;">**TIP2**</mark> 앱 문구 전체 수정 \[다운로드] 버튼 선택
 
 앱 문구 전체를 수정할 경우 \[다운로드] 버튼을 눌러서 엑셀파일로 받아주세요.
 

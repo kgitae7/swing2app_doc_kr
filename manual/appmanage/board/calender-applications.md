@@ -22,7 +22,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 캘린더 만들기
+## STEP1. 캘린더 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94\_20.06.png)
 
@@ -52,7 +52,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2.앱에 캘린더 게시판 적용하기
+## STEP2.앱에 캘린더 게시판 적용하기
 
 만들어놓은 캘린더는 앱에 적용해야 하겠죠?
 
@@ -108,7 +108,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 캘린더 응용하기&#x20;
+## STEP3. 캘린더 응용하기&#x20;
 
 본격적으로 캘린더를 다양하게 응용해서 사용하는 방법을 알려드릴게요!
 
@@ -218,7 +218,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 해당 권한으로 설정해주세요.&#x20;
 
-
+***
 
 ### <mark style="color:blue;">**3. 캘린더 응용3 : 관리자만 일정 작성**</mark>
 
@@ -270,7 +270,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 해당 권한으로 설정해주셔야 합니다.
 
-
+***
 
 이상으로 캘린더를 이용하여 다양한 사례별로 응용하는 방법을 알려드렸어요.
 

@@ -50,15 +50,17 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱 가입 정책 페이지 이동**
+## **1. 앱 가입 정책 페이지 이동**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
 [**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]** ](http://www.swing2app.co.kr/view/app\_setting)**메뉴로 이동합니다.**
 
+***
 
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 이용약관, 개인정보 취급방침 내용 작성하기**
+
+## **2. 이용약관, 개인정보 취급방침 내용 작성하기**
 
 
 
@@ -114,7 +116,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) **3. 개인정보처리방침 URL 확인 및 가져오기**
+## **​**​**3. 개인정보처리방침 URL 확인 및 가져오기**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%854.png)
 
@@ -154,7 +156,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**.** **서비스 이용약관 및 개인정보 처리방침 확인 – 앱 실행화면**
+## **​**​4**.** **서비스 이용약관 및 개인정보 처리방침 확인 – 앱 실행화면**
 
 
 
@@ -194,7 +196,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 5**. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**
+## **​**​5**. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**
 
 위에서 작성한 앱 개인정보처리방침 내용이 플레이스토어, 앱스토어에서는 어떻게 적용되어 보여지는지 확인해볼게요!
 

@@ -12,7 +12,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱에 관리자 채팅 적용하기
+## 1. 앱에 관리자 채팅 적용하기
 
 **\* 먼저 앱에 \[관리자 채팅] 페이지를 적용해야 사용자와 관리자 모두 채팅을 할 수 있겠죠?**
 
@@ -124,9 +124,9 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
+***
 
-
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱 실행화면: 채팅방 화면
+## 2. 앱 실행화면: 채팅방 화면
 
 <div align="left">
 
@@ -136,7 +136,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
 
-
+***
 
 앱 사용자(회원)는 어떻게 관리자와 채팅을 할 수 있을까요?
 
@@ -146,7 +146,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 사용자가 앱 관리자와 채팅을 하는 방법
+## 3. 사용자가 앱 관리자와 채팅을 하는 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW4-1.png)
 
@@ -186,7 +186,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 관리자가 앱 회원과 채팅을 하는 방법**
+## **4. 관리자가 앱 회원과 채팅을 하는 방법**
 
 **관리자는 웹(스윙 홈페이지)에서 채팅을 할 수도 있고, 앱에서도 이용할 수 있어요.**
 
@@ -272,7 +272,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 다시 대화를 하고자 하는 회원을 선택하여 채팅을 시작할 수 있습니다.&#x20;
 
-
+***
 
 <mark style="color:red;">**★ 잠깐!!**</mark>
 
@@ -290,7 +290,7 @@ description: 관리자와 앱 회원간의 1:1 채팅 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 새글알람 푸시 알림 – 관리자, 회원
+## 5. 새글알람 푸시 알림 – 관리자, 회원
 
 채팅을 하게 되면 앱 관리자 – 앱 회원 모두 채팅 메시지 알림 푸시를 받을 수 있습니다.
 

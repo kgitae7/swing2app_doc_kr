@@ -1,8 +1,10 @@
+---
+description: 버전관리 – 앱제작이력, 마켓등록기록, 마켓등록관리
+---
+
 # 버전관리- 앱제작이력, 마켓등록기록, 마켓등록관리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%A0%9C%EB%AA%A9\_19.09-1.png)
-
-**버전관리 – 앱제작이력, 마켓등록기록, 마켓등록관리**
+***
 
 **\* 버전관리 메뉴란?**
 
@@ -14,6 +16,8 @@
 
 각 메뉴의 기능들만 확인해주시면 되겠습니다\~!
 
+***
+
 
 
 <mark style="color:blue;">**★ 버전관리 메뉴**</mark>&#x20;
@@ -22,9 +26,11 @@
 
 앱운영 페이지 – 버전관리에서 마켓등록관리, 마켓등록기록, 앱제작이력 메뉴를 확인할 수 있습니다.&#x20;
 
+***
 
 
-<mark style="color:blue;">**01. 버전관리 – 마켓등록 관리**</mark>
+
+## <mark style="color:blue;">**01. 버전관리 – 마켓등록 관리**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC2\_19.09.png)
 
@@ -47,7 +53,7 @@
 
 
 \
-<mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**마켓 이동하기**</mark>
+<mark style="color:orange;">**마켓 이동하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC4\_19.09.png)
 
@@ -59,7 +65,7 @@
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**플레이스토어 정보 / 앱스토어 정보**</mark>
+<mark style="color:orange;">**플레이스토어 정보 / 앱스토어 정보**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC3\_19.09.png)
 
@@ -67,9 +73,11 @@
 
 앱스토어에 출시가 된 경우도 동일해요. \[앱스토어 정보] 버튼을 선택하여 확인할 수 있습니다.
 
+***
 
 
-<mark style="color:blue;">**02. 버전관리 – 마켓등록기록**</mark>
+
+## <mark style="color:blue;">**02. 버전관리 – 마켓등록기록**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC5\_19.09.png)
 
@@ -79,9 +87,11 @@
 
 차이점이 있다면 마켓등록기록에서는 <mark style="color:purple;">**각 플랫폼별로(안드로이드, IOS, 모바일 웹) 분류하여 마켓에 출시된 앱 버전을 확인할 수 있습니다.**</mark>
 
+***
 
 
-### <mark style="color:blue;">**03. 버전관리 – 앱제작(작업)이력**</mark>
+
+## <mark style="color:blue;">**03. 버전관리 – 앱제작(작업)이력**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC1\_19.09.png)
 
@@ -111,7 +121,7 @@
 
 **​**
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**웹 미리보기**</mark>
+&#x20;<mark style="color:orange;">**웹 미리보기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC7\_19.09.png)
 
@@ -119,9 +129,7 @@
 
 핸드폰 앱 확인 전 간편하게 웹에서 제작한 앱을 미리보기로 확인합니다.
 
-**​**
-
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**업로드 신청**</mark>
+**​**<mark style="color:orange;">**업로드 신청**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC8\_19.09.png)
 
@@ -129,7 +137,7 @@
 
 \*업로드 신청 버튼은 유료앱 이용권과 플레이스토어 업로드 티켓, 앱스토어 업로드 티켓을 구매해야 해당 버튼이 활성화 됩니다.
 
-
+***
 
 이상으로 앱제작 스윙투앱에서 제공하는 \[버전관리] 메뉴 이용방법을 알려드렸어요.
 

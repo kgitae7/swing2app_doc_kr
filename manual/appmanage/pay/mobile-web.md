@@ -6,7 +6,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**모바일 웹이란(모바일웹 등록)?**
+## **모바일 웹이란(모바일웹 등록)?**
 
 모바일 웹 등록은 웹사이트가 없는 분들은 유용하게 사용할 수 있는데요.
 
@@ -19,6 +19,8 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 \*PC웹이 아닌 모바일 전용 웹으로 등록해드리는 상품으로 PC에서는 호환이 되지 않습니다.
 
 ***
+
+
 
 <mark style="color:orange;">**스윙투앱 공식앱으로 적용한 모바일웹 실행화면**</mark>
 
@@ -56,7 +58,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 모바일 웹 업로드 티켓 구매하기
+## 1. 모바일 웹 업로드 티켓 구매하기
 
 <figure><img src="../../../.gitbook/assets/모바일웹-이용권구매 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +92,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 모바일 웹 등록 신청하기
+## 2. 모바일 웹 등록 신청하기
 
 <div align="left">
 
@@ -134,7 +136,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 모바일 웹 등록 완료
+## 3. 모바일 웹 등록 완료
 
 <div align="left">
 
@@ -148,7 +150,7 @@ description: 스윙투앱에서 제작한 앱을 모바일 웹으로 등록하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 모바일 웹 실행하기
+## 4. 모바일 웹 실행하기
 
 <div align="left">
 
@@ -208,6 +210,5 @@ PC에서도 웹사이트는 열리지만 화면 해상도가 모바일 기준으
 포털사이트에서 제공하는 검색 서비스에서 별도 신청하여 이용주셔야 합니다.
 
 스윙투앱에서는 모바일웹 등록만 진행하며/ 검색 서비스, 키워드 노출 등의 서비스 등록 대행을 진행해드리지 않습니다.\
-\
 
 {% endhint %}

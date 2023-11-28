@@ -96,7 +96,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-### 7.메시지 답장
+## 7.메시지 답장
 
 <figure><img src="../../../.gitbook/assets/답장.png" alt=""><figcaption></figcaption></figure>
 

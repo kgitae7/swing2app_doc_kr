@@ -20,7 +20,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 쿠폰 만들기
+## STEP1. 쿠폰 만들기
 
 가장 먼저 사용자에게 발행할 쿠폰을 만들어볼게요!
 
@@ -84,7 +84,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 쿠폰 발송하기
+## STEP2. 쿠폰 발송하기
 
 
 
@@ -124,7 +124,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 7\)\[쿠폰발송하기] 버튼을 선택합니다.
 
-
+***
 
 ### <mark style="color:blue;">**2.앱 실행화면 - 쿠폰 발송된 화면**</mark>
 
@@ -230,7 +230,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3.** **쿠폰 사용처리 방법**
+## **STEP3.** **쿠폰 사용처리 방법**
 
 **그럼 관리자가 쿠폰을 사용처리 하는 방법에 대해서 알려드릴게요.**
 
@@ -298,7 +298,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 쿠폰 관리 이용방법 정리
+## STEP4. 쿠폰 관리 이용방법 정리
 
 쿠폰을 만들고 이용하는 방법을 다시 정리해드릴게요!
 
@@ -326,3 +326,4 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 
 
+***

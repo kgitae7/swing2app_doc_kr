@@ -40,7 +40,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -20,7 +20,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱스토어 업로드 신청
+## 1. 앱스토어 업로드 신청
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%952.png)
 
@@ -32,7 +32,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱스토어 업로드 신청서 가이드
+## 2. 앱스토어 업로드 신청서 가이드
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4new1.png)
 
@@ -54,7 +54,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱스토어  업로드 신청서 작성방법
+## 3. 앱스토어  업로드 신청서 작성방법
 
 **업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.**
 
@@ -244,7 +244,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱스토어 업로드 신청완료
+## 4. 앱스토어 업로드 신청완료
 
 <div align="left">
 
@@ -262,7 +262,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5.업로드 신청 안내사항
+## 5.업로드 신청 안내사항
 
 {% hint style="warning" %}
 <mark style="color:orange;">**안내사항**</mark>

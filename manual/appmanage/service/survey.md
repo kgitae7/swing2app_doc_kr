@@ -32,7 +32,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP1.설문조사 만들기
+## STEP1.설문조사 만들기
 
 
 
@@ -264,7 +264,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP2.앱에 설문조사 메뉴 적용하기
+## STEP2.앱에 설문조사 메뉴 적용하기
 
 앱운영에서 설문조사지를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
 
@@ -424,7 +424,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP3.앱 실행화면
+## STEP3.앱 실행화면
 
 **앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!**
 
@@ -442,7 +442,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP4.설문조사 항목 답변하기
+## STEP4.설문조사 항목 답변하기
 
 
 
@@ -512,7 +512,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP5.설문조사 결과 확인 & 설문조사 관리
+## STEP5.설문조사 결과 확인 & 설문조사 관리
 
 **설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?**
 
@@ -550,7 +550,7 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 **-**<mark style="color:blue;">**‘수정’**</mark> 버튼을 선택해서 질문 내용을 수정할 수 있으며, <mark style="color:blue;">‘</mark><mark style="color:blue;">**삭제**</mark><mark style="color:blue;">‘</mark> 버튼 선택하여 설문을 삭제할 수도 있습니다.
 
-
+***
 
 <mark style="color:orange;">**설문조사 공유도 가능해요**</mark>
 
@@ -564,3 +564,4 @@ description: 설문관리- 설문조사 만드는 방법, 관리하는 방법 �
 
 설문조사 관리 기능은 스윙투앱 사용자라면 누구나 다 사용가능하시기 때문에 매뉴얼 대로 차근차근 따라하신다면 금방 앱 전문가가 되실 수 있을 거에요 ^^
 
+***

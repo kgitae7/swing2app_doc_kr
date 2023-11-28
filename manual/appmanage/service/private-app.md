@@ -6,7 +6,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)비공개 앱 2가지 종류
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">비공개 앱 2가지 종류
 
 
 
@@ -42,7 +42,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** STEP1.비공개 회원가입시 관리자 승인 후 이용**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> ** STEP1.비공개 회원가입시 관리자 승인 후 이용**
 
 
 
@@ -70,7 +70,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 앱 가입 정책에서 앱 공개 범위를 <mark style="color:purple;">**\[비공개(회원가입시 관리자 승인 후 이용가능]**</mark>으로 설정한 다음 하단의 **\[정책 설정하기]** 버튼을 선택해서 저장해주세요.
 
-
+***
 
 ### <mark style="color:blue;">**2. 앱 실행화면: 비공개 앱**</mark>
 
@@ -116,7 +116,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 **아래에서 관리자가 가입된 회원을 승인하는 방법을 안내해드리겠습니다.  ↓↓**
 
-
+***
 
 ### <mark style="color:blue;">**3. 미인증 회원 →’ 인증’으로 변경하기**</mark>
 
@@ -206,11 +206,9 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 <mark style="color:red;">\*메일 알림은 스윙투앱 가입계정 이메일로 발송되며, 다른 메일로 받기를 원하시면 ‘수신 이메일’에 이메일주소를 입력해주세요.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+***
 
-
-
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2**. 비공개 회원가입시 이용가능**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">STEP2**. 비공개 회원가입시 이용가능**
 
 
 

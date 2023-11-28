@@ -6,7 +6,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 회원가입완료 메시지란?
+## 1. 회원가입완료 메시지란?
 
 <div align="left">
 
@@ -30,7 +30,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 앱에서 어떻게 보이나요?
+## &#x20;2. 앱에서 어떻게 보이나요?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C%EB%A9%94%EC%8B%9C%EC%A7%804.png)
 
@@ -48,7 +48,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 회원가입 완료 메시지 설정 방법
+## 3. 회원가입 완료 메시지 설정 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C.png)
 
@@ -86,7 +86,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 2\)회원가입 완료 메시지이기 때문에 가입이 완료된 사용자에게만 최초 한 번만 보여집니다.
 
-
+***
 
 {% hint style="warning" %}
 **회원가입완료 메시지는 기본 셋팅이 ‘아니요’로 체크가 되어 있어요.**

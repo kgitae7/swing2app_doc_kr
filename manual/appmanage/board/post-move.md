@@ -34,7 +34,7 @@ description: 게시물을 선택하여, 다른 게시판으로 글을 이동하�
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>)**게시글 이동 이용방법**
+## **게시글 이동 이용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/11/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png)
 

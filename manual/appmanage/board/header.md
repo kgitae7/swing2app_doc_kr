@@ -22,7 +22,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 게시판 헤더 적용하기
+## &#x20;STEP1. 게시판 헤더 적용하기
 
 <div align="left">
 
@@ -56,7 +56,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 4\) \[저장하기] 버튼을 누르면 완료됩니다.
 
-
+***
 
 > **헤더 이미지로만 사용하실 경우 위의 STEP.1까지만 작업하신 뒤, 앱제작에서 게시판을 반영해주세요.**
 >
@@ -64,7 +64,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 게시물에 헤더 우선순위 적용하기
+## STEP2. 게시물에 헤더 우선순위 적용하기
 
 게시판관리에서 헤더 적용을 끝냈다면 게시판으로 이동해서, 헤더에 보여질 우선순위를 적용해주셔야 합니다.
 
@@ -110,11 +110,11 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 **따라서 우선순위 고정글 설정을 위해서는 = 반드시 게시판 헤더가 먼저 설정되어야 합니다.**
 {% endhint %}
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱에 게시판 적용하기&#x20;
+## STEP3. 앱에 게시판 적용하기&#x20;
 
 헤더를 설정한 게시판을 앱에 적용해야 하겠죠?
 
@@ -168,7 +168,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 앱 실행화면
+## STEP4. 앱 실행화면
 
 앱에서 헤더가 어떻게 보여지는지 확인해볼까요?
 
@@ -194,7 +194,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 \-게시판 설명글 작성방법은 아래 방법을 확인해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-4.png)
+
 
 <div align="left">
 
@@ -206,7 +206,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP5. 게시판 헤더글은 어떻게 내릴 수 있나요? (헤더글 삭제)
+## STEP5. 게시판 헤더글은 어떻게 내릴 수 있나요? (헤더글 삭제)
 
 <mark style="color:red;">게시판 헤더 기능을 쓰지 않을 경우 앞서 보셨던 게시판 관리 – ‘게시판 헤더 사용하기’ 체크를 풀면 되구요.</mark>
 

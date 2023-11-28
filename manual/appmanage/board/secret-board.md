@@ -18,7 +18,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP1. 비밀게시판 만들기**
+## **STEP1. 비밀게시판 만들기**
 
 <div align="left">
 
@@ -96,13 +96,11 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 7\)저장 버튼을 선택하면 완료!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+***
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 앱에 만들어놓은 게시판 적용하기
-
-
+## STEP2. 앱에 만들어놓은 게시판 적용하기
 
 **비밀게시판을 만들었다면, 앱에 적용해야 하겠죠?**
 
@@ -154,7 +152,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP3.  앱 실행화면- 1:1 고객센터
+## STEP3.  앱 실행화면- 1:1 고객센터
 
 앱을 실행해서 1:1고객센터(비밀게시판)이 어떻게 운영되는지 확인해볼게요.
 

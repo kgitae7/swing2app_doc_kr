@@ -12,7 +12,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 앱 실행화면) 해시태그 검색 기능
+## &#x20;1. 앱 실행화면) 해시태그 검색 기능
 
 **게시물 입력시 해시태그 ‘ # ‘ 을  입력해서 태그로 값을 보여주는 방법이에요.**
 
@@ -36,7 +36,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 <figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 해시태그 입력하기
+## 2. 해시태그 입력하기
 
 ### <mark style="color:blue;">**1) 앱에서 해시태그 입력하기**</mark>
 
@@ -88,7 +88,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 </div>
 
-
+***
 
 
 

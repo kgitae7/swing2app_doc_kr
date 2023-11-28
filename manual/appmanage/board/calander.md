@@ -52,7 +52,7 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) 1. 캘린더 만들기
+## 1. 캘린더 만들기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%98%EB%A6%B0%EB%8D%94\_20.06.png)
 
@@ -160,7 +160,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 캘린더 일정 입력하기
+## 2. 캘린더 일정 입력하기
 
 **캘린더를 만들었으면 일정을 등록해야겠죠? 웹에서 관리자가 등록하는 방법을 알려드릴게요.**
 
@@ -237,7 +237,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱에 캘린더 적용하기
+## 3. 앱에 캘린더 적용하기
 
 앱에 캘린더를 적용해주세요.&#x20;
 
@@ -267,7 +267,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4. 앱 실행화면
+## 4. 앱 실행화면
 
 <div align="left">
 
@@ -287,7 +287,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 5. 앱에서 캘린더 일정 작성하는 방법
+## 5. 앱에서 캘린더 일정 작성하는 방법
 
 <mark style="color:orange;">**캘린더 일정은 앱에서도 작성이 가능해요!**</mark>
 
@@ -381,7 +381,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 캘린더도 게시판 기능이기때문에, 일정을 작성한 사용자는 자신의 일정을 수정하고, 삭제할 수 있습니다.
 
-
+***
 
 {% hint style="warning" %}
 <mark style="color:red;">**안내사항**</mark>
@@ -397,7 +397,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 4\) 앱제작 버전 -V3, V2 이용에 따라 캘린더 설정 방법이 다르기 때문에 위의 가이드를 확인해주세요.&#x20;
 {% endhint %}
 
+***
 
-
-
+***
 
