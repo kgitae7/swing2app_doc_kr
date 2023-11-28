@@ -12,11 +12,11 @@ description: 2023년 9월 4주차 스윙투앱 기능 업데이트
 
 <figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **설문조사 화면 인터페이스 수정) 버튼 추가**&#x20;
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **설문조사 화면 인터페이스 수정) 버튼 추가**&#x20;
 
 <figure><img src=".gitbook/assets/설문버트업뎃.png" alt=""><figcaption></figcaption></figure>
 
-### <img src=".gitbook/assets/info (4).png" alt="" data-size="original"> **어떤 내용이 변경되었나요?**
+### <img src=".gitbook/assets/info (4).png" alt="" data-size="line"> **어떤 내용이 변경되었나요?**
 
 <mark style="color:blue;">설문조사 리스트 화면에서 \[설문조사 시작하기] 버튼이 추가 되었습니다.</mark>&#x20;
 
@@ -28,7 +28,7 @@ description: 2023년 9월 4주차 스윙투앱 기능 업데이트
 
 
 
-### <mark style="color:blue;">**+추가 안내**</mark>
+### <mark style="color:red;">**+추가 안내**</mark>
 
 “버튼 색상 및 글자색은 어떻게 반영되나요? 혹은 어떻게 수정할 수 있나요?”
 
@@ -62,7 +62,7 @@ description: 2023년 9월 4주차 스윙투앱 기능 업데이트
 
 
 
-### <img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/10532101/20233803.png" alt="" data-size="original"> **설문조사 기능 이용방법**
+### <img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/10532101/20233803.png" alt="" data-size="line"> **설문조사 기능 이용방법**
 
 설문조사는 게시판 관리에서 제공하는 설문조사를 등록한 뒤, 앱에 적용을 해야 이용할 수 있습니다.
 
@@ -72,7 +72,7 @@ description: 2023년 9월 4주차 스윙투앱 기능 업데이트
 
 
 
-### ![](<.gitbook/assets/warning-(2) (1).png>) 안내사항
+### <img src=".gitbook/assets/warning-(2) (1).png" alt="" data-size="line"> 안내사항
 
 {% hint style="warning" %}
 1\)해당 기능은 앱 업데이트가 필요합니다.&#x20;
