@@ -16,7 +16,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.게시판 날짜 형식 설정이란?**
+## **1.게시판 날짜 형식 설정이란?**
 
 게시판에 글이 등록되는 날짜로, 날짜를 어떻게 보여지게 할지 선택할 수 있습니다.
 
@@ -40,7 +40,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 2.이용방법
+## 2.이용방법
 
 <div align="left">
 
@@ -74,7 +74,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.안내사항**
+## **3.안내사항**
 
 {% hint style="info" %}
 

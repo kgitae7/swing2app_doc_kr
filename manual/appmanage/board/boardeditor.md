@@ -32,7 +32,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1.게시판 생성하기
+## STEP1.게시판 생성하기
 
 
 
@@ -298,7 +298,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2.앱에 만들어놓은 게시판 적용하기&#x20;
+## STEP2.앱에 만들어놓은 게시판 적용하기&#x20;
 
 
 
@@ -378,7 +378,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3.앱 실행화면)게시판 적용 화면
+## STEP3.앱 실행화면)게시판 적용 화면
 
 <div align="left">
 
@@ -398,7 +398,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4.게시판 이용 안내사항
+## STEP4.게시판 이용 안내사항
 
 
 

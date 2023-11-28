@@ -10,7 +10,11 @@
 
 로딩이 되는 동안 표시 되는 이미지가 로딩 아이콘이에요.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3033619efc6c659b91c2d59584fb0b56.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3033619efc6c659b91c2d59584fb0b56.png" alt="">
+
+</div>
 
 **↑↑위의 이미지처럼 로딩이 되는 동안 회색 동그라미 아이콘이 돌아가게 됩니다.**
 
@@ -19,7 +23,7 @@
 그러나 로딩 아이콘 이미지를 좀 더 앱 스타일에 맞게 수정하고 싶으실 때가 있죠.\
 따라서 매뉴얼을 통해서 기존의 로딩 아이콘 외에 다른 이미지를 넣어서 로딩 아이콘을 변경하는 방법을 알려드릴게요!!
 
-
+***
 
 ### <mark style="color:blue;">**1. 로딩 아이콘 변경하기**</mark>
 
@@ -66,7 +70,7 @@
 
 위의 2가지 이미지로 반영할게요!
 
-
+***
 
 ### <mark style="color:blue;">**2. 앱 실행화면 – 로딩 아이콘 확인하기**</mark>
 
@@ -88,7 +92,11 @@
 \
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면) 변경한 로딩 아이콘2**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/601469de8864b75d2dbd26ea66e11176.png)
+<div align="left">
+
+<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/601469de8864b75d2dbd26ea66e11176.png" alt="">
+
+</div>
 
 <mark style="color:blue;">**응용 ) GIF 이미지도 넣을 수 있어요!**</mark>
 

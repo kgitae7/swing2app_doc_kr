@@ -18,7 +18,7 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1.게시판 만들기
+## 1.게시판 만들기
 
 파일을 등록하려면 먼저 게시판이 있어야 하겠죠?
 
@@ -52,7 +52,7 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 <figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2.앱에 게시판적용하기
+## 2.앱에 게시판 적용하기
 
 만든 게시판을 앱제작에서 적용해주세요.&#x20;
 
@@ -90,7 +90,9 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3.게시판 기능 – 파일 첨부 이용하기 &#x20;
+***
+
+## 3.게시판 기능 – 파일 첨부 이용하기 &#x20;
 
 
 
@@ -158,7 +160,7 @@ description: 게시판에 일반 파일을 첨부하고 등록하는 방법 매�
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.게시판 에디터 – 파일 업로드 버튼 선택하기
+## 4.게시판 에디터 – 파일 업로드 버튼 선택하기
 
 
 

@@ -10,9 +10,13 @@
 
 스윙투앱에서 제공하는 웹템플릿 페이지 제작도구를 이용하여 플래시 스타일 홈화면을 제작하는 방법을 알려드리겠습니다.
 
+***
 
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_15\_39\_13\_690.gif)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_15_39_13_690.gif" alt="">
+
+</div>
 
 **위의 이미지처럼 플래시 스타일 홈화면을 제작하는 방법을 알려드릴거에요\~!**
 
@@ -20,15 +24,21 @@
 
 \+상단 헤더 이미지에 미리 만들어놓은 gif이미지를 적용하여 만들 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-3.png)
 
-<mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**스윙투앱으로 제작한 앱: 올댓모델 앱**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_15\_17\_04\_54\_162.gif)
+<mark style="color:orange;">**스윙투앱으로 제작한 앱: 올댓모델 앱**</mark>
+
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_15_17_04_54_162.gif" alt="">
+
+</div>
 
 스윙투앱으로 제작한 사용자 앱 중에서도 플래시 스타일로 제작한 앱이 있어요!
 
 이렇게 움짤 이미지를 이용해서 상단에 배너형 이미지를 넣고, 플래시를 구성할 수 있습니다.
+
+***
 
 
 
@@ -51,6 +61,8 @@
 템플릿 페이지를 새로 만드는 것이기 때문에 메뉴는 어디에 놓아도 상관없구요.
 
 템플릿 제작 후 다시 앱제작에서 원하는 메뉴에 만든 템플릿을 불러온 뒤 적용해주시면 됩니다.&#x20;
+
+***
 
 
 
@@ -94,7 +106,9 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 4\)이미지가 업로드 되었는지 확인 후 \[적용] 버튼을 선택합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+
+
+
 
 <mark style="color:red;">**★ GIF이미지 등록시 주의사항**</mark>
 
@@ -140,6 +154,8 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 ☞ [템플릿 페이지 제작방법 매뉴얼 보러가기](../v2/pagemenu/template-page.md)
 
+***
+
 
 
 ### <mark style="color:blue;">**STEP.3 제작한 웹템플릿 앱에 적용하기**</mark>
@@ -176,11 +192,15 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 위의 가상머신에서 보시는 것처럼 상단 헤더이미지가 플래시 스타일로 적용된 것을 확인할 수 있어요.
 
-
+***
 
 <mark style="color:blue;">**\*추가 안내 \[이미지 페이지로 작업한 플래시 화면]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_16\_23\_01\_948.gif)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_16_23_01_948.gif" alt="">
+
+</div>
 
 **이미지 페이지에 gif 이미지를 넣어서도 제작할 수 있어요.**&#x20;
 
@@ -194,7 +214,9 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 **☞**[ **이미지 페이지 제작방법 매뉴얼 보러가기**](../v2/pagemenu/imagepage.md)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+
+
+***
 
 <mark style="color:red;">**★ 주의사항**</mark>
 

@@ -80,7 +80,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 <mark style="color:red;">\*게시판 글 작성시 사진 첨부 외에도 파일첨부, 동영상첨부, 링크(웹사이트URL)첨부, 해시태그 첨부가 가능합니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-1.png)
 
@@ -90,7 +90,7 @@ description: 게시판에서 게시물을 작성하는 방법- 앱운영 대시�
 
 <mark style="color:red;">\*\*모바일 앱에서는 일반글쓰기 작성 밖에 되지 않으니 이용에 참고해주세요.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
+
 
 <mark style="color:green;">**3-1 게시물에 동영상 등록하기**</mark>
 
@@ -150,7 +150,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 </div>
 
-
+***
 
 > <mark style="color:green;">**게시물관리에서 제공하는 기능 소개**</mark>&#x20;
 
@@ -182,7 +182,7 @@ URL을 붙여넣은 뒤 삽입 버튼 눌러주시구요.
 
 **☞**[**\[게시판 복사 이용방법 보러가기\]**](board-copy.md)
 
-
+***
 
 > <mark style="color:green;">**게시물관리 중요 안내**</mark>&#x20;
 

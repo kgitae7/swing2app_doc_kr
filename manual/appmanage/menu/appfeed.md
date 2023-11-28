@@ -10,9 +10,9 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 스윙투앱 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법에 대해 알려드립니다.
 
+***
 
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.앱 활동 모음**
+### **1.앱 활동 모음**
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%B1%ED%99%9C%EB%8F%991.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 활동 모음: 앱 필터, 활동 필터**
+### **2.앱 활동 모음: 앱 필터, 활동 필터**
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%B1%ED%99%9C%EB%8F%992.png" alt=""><figcaption></figcaption></figure>
 

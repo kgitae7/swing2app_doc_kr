@@ -12,7 +12,7 @@ description: 게시판- 게시물 정렬 설정 방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.게시물 정렬 설정하기**
+## **1.게시물 정렬 설정하기**
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ description: 게시판- 게시물 정렬 설정 방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/warning-2-3.png) <mark style="color:red;">**앱제작 V2버전 이용시**</mark>
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/warning-2-3.png" alt="" data-size="line"> <mark style="color:red;">**앱제작 V2버전 이용시**</mark>
 
 앱제작 V2버전을 이용하는 분들은 고급스타일- 게시물 옵션 설정에서 이용 가능합니다.
 
@@ -58,7 +58,7 @@ V3 전환은 앱제작 화면 상단에 V3전환 버튼을 선택하여 바로 �
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.앱 실행화면**
+## **2.앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%EC%A0%95%EB%A0%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C2%EA%B0%9C.png)
 

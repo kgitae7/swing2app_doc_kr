@@ -6,7 +6,7 @@ description: 제작한 앱을 삭제하는 방법을 알려드립니다.
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) 1.앱 제거 방법
+## 1.앱 제거 방법
 
 <figure><img src="../../../.gitbook/assets/앱제거1.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ description: 제작한 앱을 삭제하는 방법을 알려드립니다.
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../../.gitbook/assets/image (2) (1).png>) 2.앱 제거 주의사항
+## 2.앱 제거 주의사항
 
 1\)앱 제거는 계정에 제작해놓은 앱이 2개 이상일 때 삭제가 가능합니다.
 
