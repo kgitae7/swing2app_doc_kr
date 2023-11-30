@@ -6,23 +6,31 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**Q. 플레이스토어에 스윙으로 제작한 앱을 올리고 싶으면 어떻게해야 하나요?**</mark>
+<details>
 
-​먼저, 마켓에 앱이 올라갈 수 있도록 유료전환을 해주셔야 하는데요.
+<summary><mark style="color:blue;"><strong>Q. 플레이스토어에 앱을 올리고 싶으면 어떻게해야 하나요?</strong></mark></summary>
 
-[앱운영페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지](http://www.swing2app.co.kr/view/shop\_list)에서 **스윙 유료이용권 결제와 함께 플레이스토어 업로드 티켓을 구매해주시면 됩니다.**
+먼저, 마켓에 앱이 올라갈 수 있도록 유료전환을 해주셔야 하는데요.
+
+**스윙 유료앱이용권 결제와 함께 플레이스토어 업로드 티켓을 구매해주시면 됩니다.**
+
+[이용권 구매 페이지](https://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term)
+
+[플레이스토어 업로드티켓 구매 페이지](https://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)
 
 그러면, 앱이 마켓에 올라가겠구나… 라고 생각할 수 있지만 !
 
 **결제만 했다고 앱이 플레이스토어에 출시되는 것이 아니에요.**
 
-**\[플레이스토어 업로드 신청]을 해주셔야만 담당자가 확인 후 해당 앱을 마켓에 등록해드릴 수 있습니다.**
+**\[플레이스토어 업로드 신청]을 해야 담당자가 확인 후 해당 앱을 마켓에 등록해드릴 수 있습니다.**
 
+</details>
 
+<details>
 
-<mark style="color:blue;">**Q. 업로드 신청은 어디서 어떻게 하는건가요?**</mark>
+<summary><mark style="color:blue;"><strong>Q. 업로드 신청은 어디서 어떻게 하는건가요?</strong></mark></summary>
 
-업로드 신청은 [스윙 앱운영페이지 → 버전관리에 → 앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)으로 들어가구요.
+업로드 신청은 [ 앱운영페이지 → 버전관리에 → 앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)으로 들어가구요.
 
 해당 페이지에서 \[플레이스토어 업로드 신청]을 확인할 수 있습니다.
 
@@ -30,27 +38,31 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **양식에 기재된 항목들을 입력 한 뒤  ‘신청’ 해주시면 해당 양식으로 담당자가 앱을 플레이스토어에 올려드릴 수 있어요!**
 
+</details>
 
+<details>
 
-<mark style="color:blue;">**Q. 업로드 신청하면, 앱이 바로 플레이스토어 출시되나요?**</mark>
+<summary><mark style="color:blue;"><strong>Q. 업로드 신청하면, 앱이 바로 플레이스토어 출시되나요?</strong></mark></summary>
 
 스윙투앱에서 대행해서 앱을 플레이스토어에 업로드 진행해드리는데요.
 
 바로 출시되는 것이 아니라 구글 앱 심사를 받게 됩니다.
 
-**구글 앱 심사는 최대 7일의 시간이 걸립니다. 따라서 업로드를 한다고 해서 앱이 바로 출시되는 것이 아니구요.**
+**구글 앱 심사는 최대 7일의 시간이 걸립니다.**&#x20;
 
-**심사 후 문제가 없으면 해당 심사 기간 후에 정상적으로 스토어에 출시가 됩니다.**
+**\*신규 개발자는 7일 이상 소요**
+
+따라서 업로드를 한다고 해서 앱이 바로 출시되는 것이 아니구요.
+
+심사 후 문제가 없으면 해당 심사 기간 후에 정상적으로 스토어에 출시가 됩니다.
 
 그러나 심사 거절이 될 경우도 있기 때문에 출시 되는 시간은 더 길어질 수 있습니다.
 
+</details>
 
+<details>
 
-<mark style="color:blue;">**Q. 플레이스토어는 업로드시 구글개발자 계정이 필요하다고 들었습니다.**</mark> &#x20;
-
-<mark style="color:blue;">**구글 개발자 계정은 어떻게 만드나요?**</mark>
-
-**\*플레이스토어 업로드를 신청하기전!!**  구글 개발자 계정이 있는지 확인해주세요.
+<summary><mark style="color:blue;"><strong>Q. 플레이스토어는 업로드시 구글 개발자 계정이 필요하다고 들었습니다.  구글 개발자 계정은  어떻게 만드나요?</strong></mark> </summary>
 
 <mark style="color:red;">\*중요\*플레이스토어는 사용자의 구글 개발자 계정이 있어야 등록이 가능합니다.</mark>
 
@@ -58,7 +70,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ☞[ \[구글 개발자 계정 만드는 법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
+</details>
+
+
 
 ★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
