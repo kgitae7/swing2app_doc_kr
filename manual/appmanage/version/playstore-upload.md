@@ -224,15 +224,17 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **구글에 등록비 25$(평생이용료) 결제 후 사용가능합니다.**
 
-{% hint style="warning" %}
-<mark style="color:orange;">구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.</mark>&#x20;
+{% hint style="info" %}
+구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.&#x20;
 
-**☞** [**\[플레이스토어 구글 개발자 계정 초대하는 방법\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer-invitation)
+**☞** [**플레이스토어 구글 개발자 계정 초대하는 방법**](https://documentation.swing2app.co.kr/knowledgebase/playstore/googleprocess)
 {% endhint %}
 
 개발자 초대를 해주셔야 사용자분의 계정 대시보드 접근이 가능하며, 앱 등록 작업을 해드릴 수 있습니다.
 
 구글 개발자 콘솔사이트에서 스윙의 개발자 계정(swingapp.developer@gmail.com)을 초대해주시면, 초대 수락 후 고객님의 계정으로 앱을 등록해드릴 수 있습니다.
+
+
 
 **13) 연락처(휴대폰 번호):** 업로드 진행상황 안내 문자메시지가 발송됩니다.&#x20;
 
