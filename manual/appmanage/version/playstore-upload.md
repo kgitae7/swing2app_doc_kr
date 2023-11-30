@@ -74,7 +74,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-1\. 플레이스토어 업로드 신청방법
+## 1. 플레이스토어 업로드 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%88%98%EC%A0%951.png)
 
