@@ -88,7 +88,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
 
 스윙투앱에서 제작한 무료버전 앱을 다운 받는 방법은 3가지입니다.
 
@@ -170,13 +170,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-<div align="left">
 
-<figure><img src="../../.gitbook/assets/캡처33 (1).png" alt=""><figcaption></figcaption></figure>
 
-</div>
-
-### **2. APK파일 직접 다운 (안드로이드 폰만 가능)  \_ 이메일에서 앱 다운로드하기**
+### **2. 이메일에서 앱 다운로드하기**
 
 위의 스윙미리보기 어플을 이용하는 방법 외에 APK파일을 직접 다운받는 방법도 있어요!!
 
@@ -234,8 +230,6 @@ APK파일이 핸드폰으로 다운됩니다.
 
 무료이용자도 유료이용자와 동일한 기능, 앱운영을 이용할 수 있습니다\~!!
 
-
-
 {% hint style="danger" %}
 <mark style="color:red;">메일에서 정상적으로 다운이 안된다면, 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!</mark>
 {% endhint %}
@@ -292,11 +286,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 </div>
 
-<div align="left">
 
-<figure><img src="../../.gitbook/assets/캡처33 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ### **3. 모바일 스윙투앱 사이트 접속 (안드로이드 폰만 가능)**&#x20;
 
@@ -358,14 +348,56 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 \_ 웹뷰앱으로 제작해서 앱이 모바일웹과 동일하게 보입니다.
 
-
-
-**\*위의 방법대로 앱을 설치하는데 안드로이드폰 보안설정으로 앱 설치가 안되는 경우가 있습니다.**
-
-**앱 설치가 잘 안된다면, 아래 매뉴얼을 참고해주세요!**
+***
 
 
 
-**▶** [**\[무료버전앱 설치가 안된다면 확인해주세요\]**](not-installed1.md)
+<mark style="color:red;">\*위의 방법대로 앱을 설치하는데 안드로이드폰 보안설정으로 앱 설치가 안되는 경우가 있습니다.</mark>
 
-**▶** [**\[유료버전앱 설치가 안된다면 확인해주세요\]**](not-installed2.md)
+<mark style="color:red;">앱 설치가 잘 안된다면, 아래 매뉴얼을 참고해주세요!</mark>
+
+
+
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP3. 보안 메시지 대처방법**
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/앱설치-보안.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+안드로이드폰에는 기본적으로 외부에서 받아온 파일을 설치할 경우 보안 메시지가 뜹니다.
+
+이때 설치가 안되는 것은 아니며, 모든 메시지에 "무시하고 설치"를 선택하고 진행해주시면 됩니다.&#x20;
+
+{% hint style="warning" %}
+스윙투앱에서 제공되는 APK파일은 사용자가 제작한 앱이기 때문에 어떠한 개인정보를 유출하거나 데이터를 손상시키는 문제를 발생시키지 않습니다.
+
+따라서 보안상 문제에 대해서는 걱정하지 않으셔도 됩니다.&#x20;
+{% endhint %}
+
+
+
+<mark style="color:blue;">**유료앱은 구글 프로텍트 메시지가 뜹니다.**</mark>
+
+<figure><img src="../../.gitbook/assets/앱설치-보안2.png" alt=""><figcaption></figcaption></figure>
+
+유료앱 APK파일을 다운 받을 경우 위의 안드로이드폰 자체 보안 메시지도 뜨지만, 구글 플레이 프로텍트 보안 메시지도 뜹니다.
+
+**이때는 '세부정보 더보기란을 터치 → \[무시하고 설치하기] 탭해주시면 됩니다.**&#x20;
+
+<mark style="color:red;">\*중요\*</mark> 확인을 누르면 설치가 되지 않고 중단됩니다. 따라서 꼭! "무시하고 설치하기"로 선택해주세요.&#x20;
+
+{% hint style="warning" %}
+해당 메시지는 구글 플레이에서 자체적으로 띄우는 보안 메시지에요.
+
+플레이스토어를 통하지 않은 외부 경로의 앱 설치를 감지하여 메시지를 띄우는 것이기 때문에 보안상의 문제는 전혀 없구요.
+
+\*플레이스토어 앱 출시 후, 다운시에는 해당 메시지는 뜨지 않습니다.&#x20;
+
+특히 플레이스토어는 출시 안되어 있고, 원스토어에서 앱을 다운 받을 경우에도 해당 메시지가 뜹니다.&#x20;
+{% endhint %}
+
+{% embed url="https://documentation.swing2app.co.kr/appguide/appoperation/not-installed1" %}
+
+{% embed url="https://documentation.swing2app.co.kr/appguide/appoperation/not-installed2" %}
