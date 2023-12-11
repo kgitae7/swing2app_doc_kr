@@ -399,6 +399,7 @@
 
 * [애플 개발자 계정 등록 프로세스](storedeveloper/appleprocess.md)
 * [구글 개발자 계정 등록 프로세스](storedeveloper/googleprocess.md)
+* [DUNS 넘버 발행 방법](storedeveloper/duns.md)
 
 ## 개발자 문서 <a href="#developer" id="developer"></a>
 
