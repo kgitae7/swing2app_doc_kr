@@ -1,54 +1,126 @@
+---
+description: 애플 개발자 계정 가입 및, 등록방법 안내
+---
+
 # 앱스토어 애플 개발자계정 등록
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A0%9C%EB%AA%A9.png)
-
-**애플 앱스토어 개발자 계정을 만드는 방법 안내**
 
 앱스토어에 앱을 등록하기 위해서 구글 플레이스토어와 동일하게 애플 개발자 계정을 만들어주셔야 합니다.
 
-\*애플 개발자 사이트:  [**https://developer.apple.com/**](https://developer.apple.com/)&#x20;
+{% hint style="info" %}
+**애플 개발자 등록비 1년 129,000원**
 
-**\*애플은 개발자 등록비 1년 129,000원입니다. 1년마다 등록비 갱신해주셔야 합니다.**&#x20;
+**1년마다 등록비 갱신해주셔야 합니다.**&#x20;
 
-갱신이 안되면 앱이 앱스토어에서 내려가며, 기간이 길어지면 계정 자체가 삭제될 수 있어요\~
+멤버십 갱신이 안되면 앱이 앱스토어에서 내려갑니다.
 
-<mark style="color:red;">**★중요안내  2018.07 애플 정책 업데이트**</mark>
+따라서 1년마다 등록비를 결제해서 멤버십 기간을 잘 유지해주시기 바랍니다.&#x20;
+{% endhint %}
 
-<mark style="color:red;">애플 개발자 계정은 애플기기- 아이폰, 아이패드 등의 기기가 있어야만 등록이 가능합니다.</mark>
-
-<mark style="color:red;">애플 기기 인증이 있어야만 애플개발자 계정 등록이 가능하오니, 개발자 등록시 참고해주시기 바랍니다!</mark>
-
+***
 
 
-### <mark style="color:blue;">**STEP.1  애플 개발자 등록사이트 접속**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/835ceb9e81323da7a04529178fd2ec7e.png)
+### <mark style="color:red;">**\*진행 전 먼저 확인해주세요!**</mark>
+
+### <mark style="color:blue;">1.애플 ID가 있나요?</mark>&#x20;
+
+애플 계정은 아이폰 사용자라면 아이폰에 설정된 아이디를 쓰셔도 되며, 애플에 직접 가입한 계정 모두 가능합니다.&#x20;
+
+계정이 있다면 바로 애플 개발자 [**developer.apple**](https://developer.apple.com/) **로 이동합니다.**
+
+**STEP.1 애플 개발자 사이트 챕터로 이동하여 매뉴얼 확인해주세요.**&#x20;
+
+
+
+### <mark style="color:blue;">**2.애플 ID가  없나요?**</mark>
+
+애플 계정이 없다면 먼저 만들어주세요.&#x20;
+
+**애플 ID 생성하기** [**https://appleid.apple.com/account**](https://appleid.apple.com/account)
+
+<figure><img src="../../.gitbook/assets/애플1.png" alt=""><figcaption></figcaption></figure>
+
+1\)성, 이름 입력  \*모두 영어로 입력합니다.
+
+2\)대한민국 선택
+
+3\)생년월일 선택 YYYY년MM월DD일
+
+4\)애플 아이디로 사용할 이메일주소 입력합니다.
+
+\*실제 이용 가능한 메일주소여야 합니다.
+
+5\)암호(비밀번호)입력
+
+6\)핸드폰 번호 입력 \*인증받아야 하기 때문에 실제 이용 가능한 번호로 입력합니다.
+
+7\)번호 확인 방법: 문자메시지로 체크해주세요.
+
+<figure><img src="../../.gitbook/assets/애플2.png" alt=""><figcaption></figcaption></figure>
+
+8\)동의 내용 체크
+
+9\)보안 문자 입력&#x20;
+
+10\)\[계속] 버튼 선택합니다.&#x20;
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/애플3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+11\)입력한 이메일주소로 인증 코드가 발송됩니다.&#x20;
+
+메일을 확인하여 6자리 코드를 입력해주세요.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/애플4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+12\)입력한 핸드폰번호로 인증 코드가 발송됩니다.
+
+문자 메시지를 확인하여  6자리 코드를 입력해주세요.
+
+
+
+<figure><img src="../../.gitbook/assets/애플5.png" alt=""><figcaption></figcaption></figure>
+
+13\)모든 인증이 완료되면, 아이디 생성이 완료됩니다.
+
+
+
+***
+
+
+
+## **STEP1.**  Apple Developer **사이트 로그인**
 
 
 
 애플 개발자 사이트:  [**https://developer.apple.com/**](https://developer.apple.com/)&#x20;
 
-**애플 개발자 사이트로 들어가서, 오른쪽 상단의 \[Account] 버튼을 선택해주세요.**
+**애플 개발자 사이트로 들어가서, 오른쪽 상단의 \[계정] 버튼을 선택해주세요.**
+
+<figure><img src="../../.gitbook/assets/애플6.png" alt=""><figcaption></figcaption></figure>
+
+애플 계정을 소유한 분들 또는 위에서 만든 애플 계정으로 로그인해주세요.
+
+아이디, 비밀번호를 입력해서 로그인해주세요.
+
+<mark style="color:red;">계정이 없다면, 먼저 위에 설명드린 방법으로 애플 사이트에서 ID 생성을 먼저 해주세요.</mark>&#x20;
 
 
 
-### <mark style="color:blue;">**STEP.2 애플 개발자 등록사이트 접속**</mark>
+&#x20;<mark style="color:blue;">**개발자 계약 동의**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/bf9f3ac7d7dd9131b7374baad5e84dc3.png)
-
-애플 개발자로 가입되어 있다면, 애플 아이디와 비밀번호를 입력해서 로그인해주세요.
-
-계정을 새로 만들어야 한다면 회원가입을 통해서 계정을 만들어주세요.
-
-저는 이미 가입해놓은 계정이 있어서 해당 계정으로 로그인할게요!
-
-<mark style="color:red;">\*주의\* 회원가입을 할 때에는 반드시 사용자분의 애플 ID(아이폰에 등록된 애플 계정)로 가입하셔야 합니다.</mark>&#x20;
-
-<mark style="color:red;">그래야 아이폰 기기와 연동이 됩니다. 애플 계정이 아닐 경우 회원가입이 불가합니다.</mark>&#x20;
-
-### <mark style="color:blue;">**STEP.3 개발자 계약 동의**</mark>
-
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/24454848ccbd7ca844e11adc4c976bc9.png)
+<figure><img src="../../.gitbook/assets/애플7.png" alt=""><figcaption></figcaption></figure>
 
 애플 개발자 계약에 동의하는지 확인해주세요.
 
@@ -56,185 +128,109 @@
 
 
 
-### <mark style="color:blue;">**STEP.4 애플 개발자 프로그램 Join**</mark>
+***
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e14f6bfbe5cdabad83ecc5e77ea66df0.png)
 
-하단의 **\[Join the Apple Developer Program]** 영역을 선택해주세요.
 
+## **STEP2.**  Apple Developer **가입**
 
+<figure><img src="../../.gitbook/assets/애플8.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.5 애플 개발자 프로그램 Enroll**</mark>
+Apple Developer Program 가입
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/a9664b9bf6b8691656a869f5e5af5ce4.png)
+&#x20;**\[오늘 등록]** 버튼 선택 합니다.
 
-상단의 **\[Enroll]** 버튼을 선택해주세요.
 
 
+<figure><img src="../../.gitbook/assets/애플9.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.6 등록에 필요한 절차 확인**</mark>
+웹에서 등록 계속 진행하기 선택 (Apple Developer 앱을 통해서도 등록 가능합니다)
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9e5f92d398431a22753e6f0523fb8dcf.png)
 
-등록에 필요한 절차를 확인하는 단계인데요. \
-이때 개인으로 가입하게 될 때, 기업으로 가입하게 될때의 설명을 확인해주세요.\
-개인은 특별히 까다로운게 없는데요.\
-기업의 경우는 D-U-N-S number를 발급받아야 해요,,\
-국제 사업자등록번호라고 하는데요.\
-이미 발급받은게 있으면 해당 번호를 입력하여 사용할 수 있는데요.\
-없을 경우는 신청을 해서 발급받아야 해요. \
-(발급받는 것도 3-4일 정도의 시간이 소요 되요) \
-D-U-N-S number는 아래에서 다시 설명해드릴게요\~!!
 
+<div align="left">
 
+<figure><img src="../../.gitbook/assets/애플10.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.7 등록 유형**</mark>
+</div>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/b0d4593a2ae8185c2f7b8b23bf3e79de.png)
+가입하는 사용자분의 개인정보를 입력합니다. \*신분증에 기재된 정보와 동일하게 입력해주시면 됩니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/69976fd6eca1ea288040def76001ec27.png)
+이름,주소는 모두 영문으로 작성해주세요.
 
-개인으로 등록할지, 기업으로 등록할지 선택해주세요.\
-저는 개인으로 선택했구요.\
-하단의**\[ Continue ]**를 선택해주세요
+입력 후 \[계속] 버튼을 선택합니다.&#x20;
 
 
 
-### <mark style="color:blue;">**STEP.8 기본정보 입력**</mark>
+<div align="left">
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6be859537e07a2d295ca2fb57d5adbc.png)
+<figure><img src="../../.gitbook/assets/애플11.png" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9b8cc7c9abb4329852aae102282a0f47.png)
+</div>
 
-기본정보를 입력해주세요.\
-**\[Contact information]**항목에는 한국어로 정보를 입력해주세요.\
-Adress:  주소 입력\
-Town/City: 도시명(서울)\
-State: ‘서울’ 선택 (해당 도시명 선택)\
-postal Code: 우편번호 입력\
-**\[Romanized Contact information]**항목에는 영어로 입력해주세요.
+어떤 자격으로 가입할지 선택해주세요.
 
+개인으로 등록할 경우 개인/개인사업자 선택,    &#x20;
 
+회사 법인 계정으로 등록한다면 회사/기관으로 선택할 수 있습니다.
 
-### <mark style="color:blue;">**STEP.9 애플 개발자 등록 동의**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/ce99a4d91ccadcd9f7214d91f128a53d.png)
 
-동의함에 체크하고 **Continue** 선택합니다.
+#### <mark style="color:blue;">**개인/개인사업자 선택 후 \[계속] 버튼 선택**</mark>
 
+<mark style="color:orange;">**다음 가이드에서 법인 등록하는 방법도 안내드리겠습니다.**</mark>&#x20;
 
+<div align="left">
 
-### <mark style="color:blue;">**STEP.10 기본정보 최종 확인**</mark>
+<figure><img src="../../.gitbook/assets/애플12.png" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9963267b6c03583b68b6a648bfb9eb2b.png)
+</div>
 
-기본정보 항목이 잘 들어갔는지 확인해주시구요.\
-확인 되었으면, **Continue** 선택합니다.
 
 
+<div align="left">
 
-### <mark style="color:blue;">**STEP.11 애플 개발자 등록비 결제**</mark>
+<figure><img src="../../.gitbook/assets/애플13.png" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6291136ae7a1857b8614d8539349f0a1.png)
+</div>
 
-기본정보 입력까지 모두 끝내면, 이제!! 애플 개발자 등록비를 결제하게 됩니다.\
-1년 이용료이구요. 비용은 12만 9천원이에요.\
-<mark style="color:red;">1년 이용기간이 끝나면 다시 재결제를 해야 합니다.</mark>\
-**\[Purchase]**버튼을 선택해주세요.
+동의함에 체크하고 **\[계속] 버튼** 선택합니다.
 
+***
 
 
-### <mark style="color:blue;">**STEP.12 애플 개발자 등록비 결제완료**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3f66509205cf5878d9a67ea373403c6f.png)
+## **STEP3.** Apple Developer **결제하기**
 
-청구 연락처, 주소 등을 입력하고 결제를 완료해주시면 됩니다.
+<figure><img src="../../.gitbook/assets/애플14.png" alt=""><figcaption></figcaption></figure>
 
-**\*결제가 완료되면 개발자 계정 등록이 완료지만 바로 승인이 되는 것은 아닙니다. (계정을 바로 이용할 수 없어요)**
+\[Purchase] 선택
 
-> <mark style="color:red;">**\*중요 안내**</mark>&#x20;
->
-> **애플 개발자 계정 등록이 완료되어도, 승인이 되어 계정이 활성화 되기 까지 시간이 소요되고 있습니다.**
->
-> **짧게는 일주일 , 길게는 3주 까지 걸리기 때문에 계정 등록을 완료해도 실제 개발자 계정으로 승인되기 까지 시간이 걸립니다.**
->
-> **따라서 등록을 완료하더라도 승인이 되어 활성화가 되었다는 메일을 받기 전까지는 이용이 불가합니다.**
 
-<mark style="color:purple;">\*\* 경우에 따라 애플에서  ‘신분증 제출 요청’ 메일을 보내기도 해요.</mark>
 
-<mark style="color:purple;">모두 발송하는 것은 아니구요. 간혹 개인 확인을 위해 신분증을 요청하기도 합니다.</mark>
+결제 페이지&#x20;
 
-<mark style="color:purple;">해당 메일을 받으셨다면, 안내링크를 눌러서 제출해야만 계정 생성과 앱스토어 개발자 등록 절차가 완료됩니다.</mark>
+<figure><img src="../../.gitbook/assets/애플15.png" alt=""><figcaption></figcaption></figure>
 
+청구 주소 입력, 연락처 정보를 입력 한뒤 카드 정보를 입력하여 결제를 완료할 수 있습니다.&#x20;
 
+{% hint style="danger" %}
+<mark style="color:red;">**\*중요 안내**</mark>&#x20;
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**D-U-N-S Number**</mark>
+<mark style="color:red;">사용자에 따라 카드 결제시 바로 계정이 승인되는 경우도 있으나,</mark>&#x20;
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/7a3f0d81afe06560db9cd61073385386.png)
+애플 개발자 계정 등록이 완료되어도, 승인이 되어 계정이 활성화 되기 까지 시간이 소요되는 경우도 있습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/f881d43a4c6aa0ad41a5da594ab2be82.png)
+만약 결제 후 승인이 바로 안되었다면 기다려 주시구요. \*일반적으로 \~48시간 소요됩니다.&#x20;
 
-위에서도 잠시 설명드렸듯이 기업으로 등록할 경우 D-U-N-S number를 발급받아야 해요.\
-D\&B라는 기업에서 일정금액의 수수료를 내고 발급받을 수 있어요.\
-위의 email D\&B 를 선택해서 메일 보내셔도 되구요.\
-\
-애플 사이트에서 직접 신청하실 경우 무료로 발급 받을 수 있어요.\
-물론 발급까지 시간이 좀 걸릴 수 있습니다.\
-**\*\* 애플에 D-U-N-S number를 신청할 때는 아래의 메일주소로 5가지 내용을 기재해서 보내주세요.**\
+&#x20;승인이 완료되면 메일이 발송되기 때문에 메일을 받고 앱을 등록할 수 있습니다.&#x20;
 
+\*\* 경우에 따라 애플에서  ‘신분증 제출 요청’ 메일을 보내기도 해요.
 
-> \*메일주소: appdeveloper@dnb.com\
-> 1\. 법인명:\
-> 2\. 본사주소:\
-> 3\. 우편주소:\
-> 4\. 회사 연락처 정보:\
-> 5\. 첨부서류: 사업자 등록증
+모두 발송하는 것은 아니구요. 간혹 개인 확인을 위해 신분증을 요청하기도 합니다.
 
-**D-U-N-S 번호 요청하기**
-
-D\&B가 기업에 무료 D-U-N-S 번호를 이미 할당했을 수도 있습니다.
-
-등록하기 전에 [D-U-N-S 번호 조회 도구](https://developer.apple.com/enroll/duns-lookup/)를 사용하여 할당받은 D-U-N-S 번호가 있는지 확인하십시오.
-
-회사가 등재되어 있지 않으면 회사 정보를 Dun & Bradstreet에 제출하여 무료 D-U-N-S 번호를 발급받을 수 있습니다.
-
-[D‑U‑N‑S 번호 조회 도구](https://developer.apple.com/enroll/duns-lookup/)를 사용하여 D-U-N-S 번호를 요청하면 다음과 같은 정보를 제공해 달라는 요청을 받게 됩니다.
-
-**-법인명**\
-**-본사 주소**\
-**-우편 주소**\
-**-회사 연락처 정보**
-
-확인 절차의 일부로 D\&B 담당자가 귀하에게 직접 업종, 직원 수와 같은 추가 정보를 문의할 수도 있습니다.
-
-사업자 등록 서류를 준비해 두시기 바랍니다.
+해당 메일을 받으셨다면, 안내링크를 눌러서 제출해야만 계정 생성과 앱스토어 개발자 등록 절차가 완료됩니다.
+{% endhint %}
 
 &#x20;
 
-
-
-<mark style="color:red;">**TIP. 영어로 보기가 힘들다면 한국어로 번역할 수 있어요.**</mark>
-
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/f87eca9683fc689a140d17e457305a20.png)
-
-애플 개발자 등록이 모두 영어로 되어 있다보니 좀 힘들 수 있죠 ㅠㅠ
-
-이때는 마우스 오른쪽 버튼을 선택해서 한국어로 번역하여 볼 수 있습니다.
-
-크롬에서  가능합니다!!
-
-
-
-<mark style="color:red;">애플은 1년마다 개발자등록을 갱신해야 해요!</mark>
-
-<mark style="color:red;">기간이 지나면 앱스토어에 출시된 앱이 삭제가 되니 주의해주시구요.</mark>\
-\
-
-
-**애플 앱스토어는 스윙투앱에서 문의를 받거나 상담을 해드리지 않습니다.**
-
-**애플 개발자 계정이나 애플 관련 문의가 있다면 애플에서 운영하는 고객센터를 이용해주세요!**
-
-[**https://developer.apple.com/contact/**](https://developer.apple.com/contact/)
-
-해당 링크로 접속하여 연락처를 남겨주시면 연락을 드립니다.

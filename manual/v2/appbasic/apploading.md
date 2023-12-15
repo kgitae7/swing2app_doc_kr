@@ -109,7 +109,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:red;">**회색은 핸드폰 상에서 잘리는 부분이기 때문에 파란색 영역을 넘어가지 않도록 해주세요.**</mark>&#x20;
 
-
+***
 
 &#x20; <mark style="color:blue;">**>파란색 영역에 이미지 넣기**</mark>
 

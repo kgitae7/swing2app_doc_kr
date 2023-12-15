@@ -86,7 +86,7 @@
 
 페이지 템플릿 제작이 완료후,  다시 앱에 적용하는 방법을 알려드릴게요!
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**STEP.2 템플릿 페이지 만들기**</mark>
 
@@ -194,7 +194,7 @@
 
 모든 작업이 끝나면 \[저장하기] 버튼을 누르면 페이지가 작업 내용대로 저장이 완료됩니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 만들어놓은 웹템플릿 페이지 앱에 적용하기**</mark>
 
@@ -238,7 +238,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**STEP. 4 템플릿은 다시 어​떻게 수정하나요? (편집 방법)**</mark>
 
@@ -254,7 +254,7 @@
 
 <mark style="color:purple;">제작페이지와 동일하게 들어가서, 기존에 만들어놓은 페이지 위에 덮어서 수정을 하는 방법으로 업데이트할 수 있어요.</mark>
 
-
+***
 
 이상으로 앱제작 스윙투앱에서 사용자 페이지 기능 중 하나인 ‘웹템플릿 페이지 ‘ 이용방법을 알려드렸어요.
 

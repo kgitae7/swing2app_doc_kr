@@ -8,7 +8,7 @@
 
 **매뉴얼을 통해서 이미지 첨부 기능 위치, 앱에 적용하는 방법, 앱 실행화면을 확인해주세요 ^^**
 
-
+***
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**이미지 첨부는 어디서 이용할 수 있나요?**</mark>
 
@@ -18,7 +18,7 @@
 
 이미지 메뉴를 선택하여 원하는 이미지 파일을 등록해주시면 완료!
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. 앱에 이미지 등록하기**</mark>​
 
@@ -42,7 +42,7 @@
 
 **7)저장 버튼을 누르면 앱 반영이 완료됩니다.**
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. 앱 실행화면) 이미지 적용된 화면**</mark>
 
@@ -102,7 +102,7 @@
 
 단, 말씀드린 이미지 사이즈는 안드로이드폰, 아이폰 기준이며 태블릿은 예외이니 참고해주세요..
 
-
+***
 
 <mark style="color:red;">**\[안내사항]**</mark>
 

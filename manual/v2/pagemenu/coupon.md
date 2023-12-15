@@ -18,7 +18,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9-KR.png)
 
-
+***
 
 잠깐\~! 쿠폰을 만들고 적용하는 방법을 확인해주세요!
 
@@ -43,7 +43,7 @@
 
 **☞** [**\[ 쿠폰 만들고 발행하는 전과정 매뉴얼 보러가기\]**](../../appmanage/service/coupon.md)
 
-
+***
 
 <mark style="color:blue;">**01. 앱에 쿠폰조회하기 메뉴 적용하기**</mark>
 
@@ -75,7 +75,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94\_2020\_12\_07\_15\_42\_39\_428.gif)
 
-
+***
 
 <mark style="color:blue;">**02. 앱 실행화면**</mark>
 
@@ -107,7 +107,7 @@
 
 받은 쿠폰을 관리자가 사용처리하면, \[사용된 쿠폰] 목록에서 사용처리 된 것을 확인할 수 있습니다.
 
-
+***
 
 쿠폰조회하기 메뉴 이용방법을 잘 확인하셨나요?
 

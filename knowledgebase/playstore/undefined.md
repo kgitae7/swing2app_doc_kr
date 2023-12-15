@@ -112,7 +112,7 @@ description: 구글 플레이스토어 - 앱 액세스 권한 입력방법
 
 입력 후 \[저장] 버튼을 누르면 완료됩니다.
 
-
+***
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

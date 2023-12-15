@@ -8,7 +8,7 @@
 
 신규 사용자는 Google Play에서 앱을 검색하거나 다운로드할 수 없습니다
 
-
+***
 
 ### <mark style="color:blue;">**STEP.1 출시된 앱 게시취소하기**</mark>
 
@@ -52,7 +52,7 @@
 
 <mark style="color:red;">\* 출시된 앱이 아니기 때문에 삭제 즉시 영구적으로 앱이 제거됩니다.</mark>
 
-
+***
 
 <mark style="color:red;">**\[안내사항]**</mark>
 

@@ -36,7 +36,7 @@
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. 앱 실행화면: 앱소개 페이지 확인**</mark>
 
@@ -58,7 +58,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. 앱소개 메뉴 및 내용 수정방법**</mark> &#x20;
 
@@ -94,7 +94,7 @@
 
 삭제하시면 공유버튼, 사이트주소 함께 제거됩니다.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. 앱소개 내용, 버튼 삭제 방법**</mark>&#x20;
 
