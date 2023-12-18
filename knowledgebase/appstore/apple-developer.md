@@ -1,8 +1,8 @@
 ---
-description: 애플 개발자 계정 가입 및, 등록방법 안내
+description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 ---
 
-# 앱스토어 애플 개발자계정 등록
+# 앱스토어 애플 개발자계정 등록(개인)
 
 앱스토어에 앱을 등록하기 위해서 구글 플레이스토어와 동일하게 애플 개발자 계정을 만들어주셔야 합니다.
 
@@ -26,9 +26,7 @@ description: 애플 개발자 계정 가입 및, 등록방법 안내
 
 애플 계정은 아이폰 사용자라면 아이폰에 설정된 아이디를 쓰셔도 되며, 애플에 직접 가입한 계정 모두 가능합니다.&#x20;
 
-계정이 있다면 바로 애플 개발자 [**developer.apple**](https://developer.apple.com/) **로 이동합니다.**
-
-**STEP.1 애플 개발자 사이트 챕터로 이동하여 매뉴얼 확인해주세요.**&#x20;
+계정이 있다면 바로 "**STEP1. Apple Developer 로그인" 챕터로 이동하여 가이드대로 진행해주세요.**&#x20;
 
 
 
@@ -100,7 +98,7 @@ description: 애플 개발자 계정 가입 및, 등록방법 안내
 
 
 
-## **STEP1.**  Apple Developer **사이트 로그인**
+## **STEP1.**  Apple Developer **로그인**
 
 
 
@@ -132,7 +130,7 @@ description: 애플 개발자 계정 가입 및, 등록방법 안내
 
 
 
-## **STEP2.**  Apple Developer **가입**
+## **STEP2. 가입하기**
 
 <figure><img src="../../.gitbook/assets/애플8.png" alt=""><figcaption></figcaption></figure>
 
@@ -200,7 +198,7 @@ Apple Developer Program 가입
 
 
 
-## **STEP3.** Apple Developer **결제하기**
+## **STEP3. 결제하기**
 
 <figure><img src="../../.gitbook/assets/애플14.png" alt=""><figcaption></figcaption></figure>
 
@@ -217,9 +215,9 @@ Apple Developer Program 가입
 {% hint style="danger" %}
 <mark style="color:red;">**\*중요 안내**</mark>&#x20;
 
-<mark style="color:red;">사용자에 따라 카드 결제시 바로 계정이 승인되는 경우도 있으나,</mark>&#x20;
+<mark style="color:red;">사용자에 따라 카드 결제시 바로 개발자 계정이 승인되는 경우도 있으나,</mark>
 
-애플 개발자 계정 등록이 완료되어도, 승인이 되어 계정이 활성화 되기 까지 시간이 소요되는 경우도 있습니다.
+<mark style="color:red;">계정이 활성화 되기 까지 시간이 소요되는 경우도 있습니다</mark>.
 
 만약 결제 후 승인이 바로 안되었다면 기다려 주시구요. \*일반적으로 \~48시간 소요됩니다.&#x20;
 
@@ -234,3 +232,72 @@ Apple Developer Program 가입
 
 &#x20;
 
+***
+
+
+
+## **STEP4. 멤버십 등록 완료**
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/애플16(개인).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+정상적으로 결제가 완료되면, 멤버십 항목이 생성됩니다.
+
+멤버십 세부사항을 선택하면 가입된 정보를 확인할 수 있습니다.&#x20;
+
+개발자 등록한 개인 정보가 표시되며, 갱신일 등의 정보를 확인할 수 있습니다.
+
+멤버십 정보가 표시되어야 정상적으로 등록이 완료된 것입니다.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/애플18.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+만약 승인 대기 중 등의 메시지가 뜬 다면 승인완료까지더 기다려 주셔야 합니다.
+
+
+
+<figure><img src="../../.gitbook/assets/애플17.png" alt=""><figcaption></figcaption></figure>
+
+앱스토어 앱 등록은[ 앱스토어 커넥트 사이트](https://appstoreconnect.apple.com/)로 이동하여 이용할 수 있습니다.
+
+{% embed url="https://appstoreconnect.apple.com" %}
+
+{% hint style="success" %}
+\-앱 등록 및 앱 관리는 모두 App Store Cnnect 사이트에서 이용해주셔야 하구요.
+
+\-개발자 계정 관리는 Apple developer 사이트에서 이용해주시면 됩니다.&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+**1)애플 개발자 등록비 1년 129,000원 , 1년마다 등록비 갱신해주셔야 합니다.**&#x20;
+
+멤버십 갱신이 안되면 앱이 앱스토어에서 내려갑니다.
+
+따라서 1년마다 등록비를 결제해서 멤버십 기간을 잘 유지해주시기 바랍니다.&#x20;
+
+멤버십 연장도 Apple developer 사이트에서 재결제 해주시면 됩니다.&#x20;
+
+**2)개인으로 등록시, 개발자 이름 변경은 불가합니다.**
+
+가입시 등록한 이름(영문)으로만 이용 가능하구요.
+
+개인에서 → 기업으로 변경하는 것은 가능하며, 변경을 원하시면 애플 고객센터를 통해서 요청주셔야 합니다.
+
+3\)애플 developer 고객센터
+
+[https://developer.apple.com/contact/#!/topic/select](https://developer.apple.com/contact/#!/topic/select)
+{% endhint %}

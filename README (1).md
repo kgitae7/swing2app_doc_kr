@@ -48,7 +48,7 @@ description: 2023년 11월 5주차 스윙투앱 기능 업데이트
 
 </div>
 
-### <img src=".gitbook/assets/warning-(2) (1).png" alt="" data-size="line"> 안내사항
+### <img src=".gitbook/assets/warning-(2) (1) (1).png" alt="" data-size="line"> 안내사항
 
 {% hint style="warning" %}
 1\)해당 기능은 일반 프로토타입 앱제작, 스윙투앱에서 제공하는 스윙샵(쇼핑몰)을 이용할 경우에만 해당됩니다.
@@ -134,7 +134,7 @@ description: 2023년 11월 5주차 스윙투앱 기능 업데이트
 
 
 
-### <img src=".gitbook/assets/warning-(2) (1).png" alt="" data-size="line"> 안내사항
+### <img src=".gitbook/assets/warning-(2) (1) (1).png" alt="" data-size="line"> 안내사항
 
 {% hint style="warning" %}
 \*해당 기능은 일반 프로토타입으로 제작한 앱에만 해당됩니다.

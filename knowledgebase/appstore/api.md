@@ -2,7 +2,7 @@
 description: 앱스토어 API 키 등록하기
 ---
 
-# 앱스토어 API  인증서 등록하기
+# 앱스토어 API 인증서 등록하기
 
 <figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ description: 앱스토어 API 키 등록하기
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
