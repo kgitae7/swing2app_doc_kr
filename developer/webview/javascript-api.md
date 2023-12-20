@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2023_06_08_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2023_12_20_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -243,6 +243,39 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 ```javascript
 swingWebViewPlugin.app.methods.copyToClipboard("copyToClipboard 텍스트 테스트");
 ```
+
+### • 디바이스에 변수 저장하기 <a href="#clipboard-write" id="clipboard-write"></a>
+
+앱내에 Storage 변수 저장하기
+
+앱내의 Storage 저장하고 싶은 데이터가 있다면 아래의 함수를 이용해서 저장할 수 있습니다.
+
+다음 기능을 활용해서 웹 사이트 자동 로그인을 쉽게 구현할 수 있습니다.
+
+<mark style="background-color:blue;">\*js lib 2023\_12\_20\_001 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.methods.setVariable('id','test');
+```
+{% endcode %}
+
+### • 클립보드에 텍스트 저장하기 <a href="#clipboard-write" id="clipboard-write"></a>
+
+앱내에 Storage 저장된 변수값 가져오기
+
+<mark style="background-color:blue;">\*js lib 2023\_12\_20\_001 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.methods.getVariable('id',function(value) {
+    console.log(JSON.parse(value).value);
+    // 출력예시 : test
+});
+```
+{% endcode %}
+
+
 
 
 
