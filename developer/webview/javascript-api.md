@@ -260,7 +260,7 @@ swingWebViewPlugin.app.methods.setVariable('id','test');
 ```
 {% endcode %}
 
-### • 클립보드에 텍스트 저장하기 <a href="#clipboard-write" id="clipboard-write"></a>
+### • 디바이스에 저장된 변수 불러오기 <a href="#clipboard-write" id="clipboard-write"></a>
 
 앱내에 Storage 저장된 변수값 가져오기
 
