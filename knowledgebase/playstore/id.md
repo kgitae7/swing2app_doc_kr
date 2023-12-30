@@ -20,7 +20,7 @@ description: 앱 이전에 필요한 구글 개발자 계정 거래 ID를 확인
 
 ### <mark style="color:purple;">거래 ID확인하는 방법</mark>
 
-<figure><img src="../../../.gitbook/assets/다운로드.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/다운로드.png" alt=""><figcaption></figcaption></figure>
 
 [Google Payments](https://payments.google.com/payments/home)에 접속한 뒤(구글 개발자 계정 로그인 후) – 본문 화면에 표시된 '거래내역'을 선택하면- 오른쪽 화면에 거래 ID를 확인할 수 있습니다.&#x20;
 
