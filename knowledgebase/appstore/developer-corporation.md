@@ -188,7 +188,7 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플기업.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플기업.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -216,7 +216,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/이미지 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -254,7 +254,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플기업2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플기업2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -266,7 +266,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플기업3.png" alt=""><figcaption><p>애플에서 발송하는 메일</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플기업3.png" alt=""><figcaption><p>애플에서 발송하는 메일</p></figcaption></figure>
 
 </div>
 
@@ -282,7 +282,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 
 
-<figure><img src="../../../.gitbook/assets/애플14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플14 (1).png" alt=""><figcaption></figcaption></figure>
 
 \[Purchase] 선택
 
@@ -302,13 +302,13 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플기업4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플기업4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플기업5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플기업5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

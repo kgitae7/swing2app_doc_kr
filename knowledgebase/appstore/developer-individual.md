@@ -4,7 +4,23 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 # 앱스토어 애플 개발자계정 등록(개인)
 
-앱스토어에 앱을 등록하기 위해서 구글 플레이스토어와 동일하게 애플 개발자 계정을 만들어주셔야 합니다.
+***
+
+
+
+앱스토어 앱 출시를 위해서는 애플 개발자 계정을 갖고 있어야 하는데요
+
+먼저 애플 아이디를 갖고 있어야 하며, 해당 계정으로 developer 사이트에 로그인하여 만들 수 있습니다,
+
+만약 애플 아이디가 없다면 Apple account 사이트에서 먼저 가입하여 만들어 주세요.
+
+아이폰 사용 등 이미 아이디가 있다면 바로 Appple developer사이트에 로그인하여 가입을 할 수 있습니다.
+
+해당 매뉴얼은 개인용애플 개발자 계정을 가입하는 방법입니다.
+
+기업 가입 방법은 아래 매뉴얼을 확인해주세요.
+
+
 
 {% hint style="info" %}
 **애플 개발자 등록비 1년 129,000원**
@@ -36,7 +52,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 **애플 ID 생성하기** [**https://appleid.apple.com/account**](https://appleid.apple.com/account)
 
-<figure><img src="../../../.gitbook/assets/애플1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플1.png" alt=""><figcaption></figcaption></figure>
 
 1\)성, 이름 입력  \*모두 영어로 입력합니다.
 
@@ -54,7 +70,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 7\)번호 확인 방법: 문자메시지로 체크해주세요.
 
-<figure><img src="../../../.gitbook/assets/애플2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플2.png" alt=""><figcaption></figcaption></figure>
 
 8\)동의 내용 체크
 
@@ -66,7 +82,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +94,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -88,7 +104,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 
 
-<figure><img src="../../../.gitbook/assets/애플5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플5.png" alt=""><figcaption></figcaption></figure>
 
 13\)모든 인증이 완료되면, 아이디 생성이 완료됩니다.
 
@@ -106,7 +122,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 **애플 개발자 사이트로 들어가서, 오른쪽 상단의 \[계정] 버튼을 선택해주세요.**
 
-<figure><img src="../../../.gitbook/assets/애플6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플6.png" alt=""><figcaption></figcaption></figure>
 
 애플 계정을 소유한 분들 또는 위에서 만든 애플 계정으로 로그인해주세요.
 
@@ -118,7 +134,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 &#x20;<mark style="color:blue;">**개발자 계약 동의**</mark>
 
-<figure><img src="../../../.gitbook/assets/애플7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플7.png" alt=""><figcaption></figcaption></figure>
 
 애플 개발자 계약에 동의하는지 확인해주세요.
 
@@ -132,7 +148,7 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 ## **STEP2. 가입하기**
 
-<figure><img src="../../../.gitbook/assets/애플8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플8.png" alt=""><figcaption></figcaption></figure>
 
 Apple Developer Program 가입
 
@@ -140,7 +156,7 @@ Apple Developer Program 가입
 
 
 
-<figure><img src="../../../.gitbook/assets/애플9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플9.png" alt=""><figcaption></figcaption></figure>
 
 웹에서 등록 계속 진행하기 선택 (Apple Developer 앱을 통해서도 등록 가능합니다)
 
@@ -148,7 +164,7 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -162,7 +178,7 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플11.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -180,7 +196,7 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플12.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -188,7 +204,7 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플13.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -200,7 +216,7 @@ Apple Developer Program 가입
 
 ## **STEP3. 결제하기**
 
-<figure><img src="../../../.gitbook/assets/애플14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플14.png" alt=""><figcaption></figcaption></figure>
 
 \[Purchase] 선택
 
@@ -208,7 +224,7 @@ Apple Developer Program 가입
 
 결제 페이지&#x20;
 
-<figure><img src="../../../.gitbook/assets/애플15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플15.png" alt=""><figcaption></figcaption></figure>
 
 청구 주소 입력, 연락처 정보를 입력 한뒤 카드 정보를 입력하여 결제를 완료할 수 있습니다.&#x20;
 
@@ -240,7 +256,7 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플16(개인).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플16(개인).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -256,13 +272,13 @@ Apple Developer Program 가입
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/warning-(2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/애플18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플18.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -270,7 +286,7 @@ Apple Developer Program 가입
 
 
 
-<figure><img src="../../../.gitbook/assets/애플17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/애플17.png" alt=""><figcaption></figcaption></figure>
 
 앱스토어 앱 등록은[ 앱스토어 커넥트 사이트](https://appstoreconnect.apple.com/)로 이동하여 이용할 수 있습니다.
 
