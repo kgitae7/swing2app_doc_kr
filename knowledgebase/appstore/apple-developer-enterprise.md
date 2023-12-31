@@ -64,7 +64,7 @@ Apple Developer Enterprise Program은 모든 회사에서 이용할 수 있는 �
 
 <mark style="color:orange;">\[애플 개발자 계정 등록 상세 방법은 아래 매뉴얼을 참고해주세요]</mark>
 
-[https://wp.swing2app.co.kr/knowledgebase/apple-developer/](developer-individual.md#undefined)
+[https://wp.swing2app.co.kr/knowledgebase/apple-developer/](apple-developer.md#undefined)
 
 
 

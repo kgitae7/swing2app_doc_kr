@@ -348,7 +348,7 @@
   * [Google Play Console 지원팀 문의하기](knowledgebase/playstore/googleplay-support.md)
   * [구글 플레이 개발자 계정 인증 기한 선택](knowledgebase/playstore/verification.md)
 * [앱스토어](knowledgebase/appstore/README.md)
-  * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/developer-individual.md)
+  * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
   * [애플 개발자 계정 멤버십 연장(갱신)방법](knowledgebase/appstore/undefined.md)
   * [앱스토어 앱 등록 준비사항](knowledgebase/appstore/infor.md)

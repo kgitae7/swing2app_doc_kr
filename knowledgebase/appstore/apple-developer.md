@@ -18,9 +18,9 @@ description: 개인 애플 개발자 계정 가입 및, 등록방법 안내
 
 해당 매뉴얼은 개인용애플 개발자 계정을 가입하는 방법입니다.
 
-기업 가입 방법은 아래 매뉴얼을 확인해주세요.
+기업 - 애플 개발자 계정 가입 방법은 아래 매뉴얼을 확인해주세요.
 
-
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/developer-corporation" %}
 
 {% hint style="info" %}
 **애플 개발자 등록비 1년 129,000원**
