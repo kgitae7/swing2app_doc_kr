@@ -277,6 +277,20 @@ swingWebViewPlugin.app.methods.getVariable('id',function(value) {
 
 
 
+### • TTS 재생하기(프리미엄 기능) - 커스터마이징 필요 <a href="#clipboard-write" id="clipboard-write"></a>
+
+텍스트를 음성으로 출력하는 TTS 기능을 활성화하는 기능&#x20;
+
+<mark style="background-color:blue;">\*js lib 2023\_12\_20\_001 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.methods.speakOutViaTTS('안녕하세요');
+```
+{% endcode %}
+
+
+
 
 
 ## 어플리케이션 Event

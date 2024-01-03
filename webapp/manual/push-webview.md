@@ -343,7 +343,11 @@
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **웹뷰앱) 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png" alt="">
+
+</div>
 
 웹뷰 버전 역시 모바일 웹사이트를 앱에 그대로 적용해서 제작하는 앱 플랫폼이에요.
 

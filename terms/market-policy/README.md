@@ -32,7 +32,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 [**플레이스토어 앱출시하는 방법**](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease)
 
-2\) 직접 등록이 어렵다면, 업로드 대행 가능합니다. **플레이스토어 업로드티켓(10,000원)을 구매한 뒤 업로드 신청을 해주세요**.
+2\) 직접 등록이 어렵다면, 업로드 대행 가능합니다. **플레이스토어 업로드티켓(20,000원)을 구매한 뒤 업로드 신청을 해주세요**.
 
 [앱운영→버전관리→앱제작 이력 페이지](http://www.swing2app.co.kr/view/app\_work\_history) → \[플레이스토어 업로드 신청] 버튼을 눌러서 신청합니다.&#x20;
 
