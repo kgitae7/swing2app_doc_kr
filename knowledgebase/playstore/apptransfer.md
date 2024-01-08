@@ -12,17 +12,17 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 이때 구글에서는 출시된 앱을 그대로 다른 계정으로 옮길 수 있는 앱 이관 서비스를 제공하고 있습니다.
 
-스윙 도움말을 참고하여서, 앱을 다른 구글 개발자 계정으로 그대로 옮기는 방법을 확인해주세요.
+스윙 도움말을 참고하여서, 다른 구글 개발자 계정으로 앱을 옮기는 방법을 확인해주세요.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EC%9D%B4%EC%A0%841\_new.png)
+{% hint style="info" %}
+앱 이전 준비사항
 
-앱 이전 준비사항 4단계 내용을 모두 확인해주셔야 하는데요.
+1\)앱이 출시된 기존(현재)계정 소유자만 진행 가능합니다. (아이디, 비밀번호 알고 있어야 합니다)
 
-\*앱이 출시된 기존 계정(아이디, 비밀번호) 알고 있어야 하구요.
+2\)앱을 옮고자 하는 대상 계정(아이디, 비밀번호) 역시 알고 있어야 합니다.
 
-\*앱을 옮고자 하는 대상 계정(아이디, 비밀번호) 역시 알고 있어야 합니다.
-
-\*또한 대상 계정 거래 ID를 함께 준비해주셔야 합니다.
+3\)현재 개발자, 새 개발자 계정의 거래 ID를 함께 준비해주셔야 합니다.
+{% endhint %}
 
 {% hint style="danger" %}
 <mark style="color:red;">**★ 앱 이전 안내사항**</mark>
@@ -68,7 +68,7 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 
 
-<mark style="color:orange;">**\[신청서 작성]**</mark>
+### <mark style="color:orange;">**신청서 작성**</mark>
 
 <figure><img src="../../.gitbook/assets/이전4.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,35 +84,13 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 3\)새 계정 트랜잭션 ID: 앱을 이전할 새 계정의 주문 ID를 기재해주세요.
 
-<mark style="color:red;">**\*주문 ID는 개발자 계정을 만들 때 받게 되는 거래 ID인데요. 거래 ID 확인방법은 아래에서 확인해주세요.**</mark>&#x20;
+**\*주문 ID는 개발자 계정을 만들 때 받게 되는 거래 ID인데요. 거래 ID 확인방법은 아래에서 확인해주세요.**&#x20;
 
-4\) 이전이유:  선택창을 탭하여 적합한 이유를 선택해주세요.&#x20;
-
-5\)비즈니스 관계 선택 : 선택창을 탭하여 적합한 이유를 선택해주세요.&#x20;
-
-6\)전송할 앱&#x20;
-
-&#x20;<mark style="color:blue;">**\[앱 추가]**</mark> 버튼을 눌러서 이전하고자 하는 앱을 선택한 뒤 적용 버튼을 탭합니다.&#x20;
-
-\*한 계정에 여러 앱이 있을 경우 여러 개의 앱을 동시에 이전할 수 있구요.&#x20;
-
-원하는 앱만 하나 선택해서 이전할 수 있습니다.
-
-7\) <mark style="color:blue;">**\[검토 및 이전]**</mark> 버튼 누르면 제출 완료됩니다.
-
-
-
-***
-
-
-
-## **3. 구글 개발자 계정 주문(거래)ID 확인하는 방법**
+### <mark style="color:orange;">**구글 개발자 계정 주문(거래)ID 확인하는 방법**</mark>
 
 <figure><img src="../../.gitbook/assets/thumbnail_image.png" alt=""><figcaption></figcaption></figure>
 
-[Google Payments](https://payments.google.com/payments/home)에 접속한 뒤(구글 개발자 계정 로그인 후)&#x20;
-
-&#x20;본문에 거래내역을 선택하면- 오른쪽 화면에 거래 ID를 확인할 수 있습니다.&#x20;
+[Google Payments](https://payments.google.com/payments/home)에 접속한 뒤(구글 개발자 계정 로그인 후) , 본문에 거래내역을 선택하면- 오른쪽 화면에 거래 ID를 확인할 수 있습니다.&#x20;
 
 해당 거래 ID를 기재해주세요.&#x20;
 
@@ -126,17 +104,95 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 >
 > PDS.1234-5678-9012-3456
 
+
+
+4\) 이전이유:  선택창을 탭하여 적합한 이유를 선택해주세요.&#x20;
+
+5\)비즈니스 관계 선택 : 선택창을 탭하여 적합한 이유를 선택해주세요.&#x20;
+
+6\)전송할 앱&#x20;
+
+&#x20;<mark style="color:blue;">**\[앱 추가]**</mark> 버튼을 눌러서 이전하고자 하는 앱을 선택한 뒤 적용 버튼을 탭합니다.&#x20;
+
+\*한 계정에 여러 앱이 있을 경우 여러 개의 앱을 동시에 이전할 수 있구요.&#x20;
+
+원하는 앱만 하나 선택해서 이전할 수 있습니다.
+
+7\) <mark style="color:blue;">**\[검토 및 이전]**</mark> 버튼 선택
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/이전9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+신청서 작성이 완료되면, 약관 동의 메시지 팝업창이 뜹니다.
+
+약관에 "동의합니다" 체크 후 \[동의 및 이전] 버튼 선택합니다.
+
 ***
 
 
 
-## **4. 신청 완료**
+## **3. 신청 완료**
 
 <figure><img src="../../.gitbook/assets/이전5.png" alt=""><figcaption></figcaption></figure>
 
 앱 이전 신청서 작성이 완료되었구요.&#x20;
 
 이전 요청이 완료되었다는 메시지를 확인할 수 있습니다.&#x20;
+
+***
+
+
+
+<mark style="color:red;">**★중요**</mark>
+
+여기서 끝이 아니구요, 새 개발자 계정(앱을 옮기는)으로 다시 접속해서 요청 승인 완료를 해주셔야 합니다.
+
+## 4.이전 요청 검토(동의하기)
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/이전8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+새 개발자 계정으로 다시 로그인한 뒤
+
+동일하게 플레이 콘솔 접속 - 설정- 앱 이전 메뉴로 이동합니다.
+
+"나에게 이전 중인 앱 " 항목에서 앞에서 이전을 요청한 앱을 확인할 수 있구요.
+
+\[요청 검토] 를 선택해주세요.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/이전9 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+약관에 "동의합니다" 체크 후 \[동의 및 이전] 버튼 선택합니다.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/이전10.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+이전 요청이 수락되었다는 메시지를 확인할 수 있습니다.
+
+\*옮기는 새 개발자 계정에서 승인 동의를 완료해주셔야 정상적으로 이전 작업이 완료됩니다.
+
+잊지 말고 진행해주세요.
+
+
 
 ***
 
@@ -155,4 +211,32 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 메일을 받으면 변경된 개발자 계정으로 접속하여 앱을 운영할 수 있습니다.
 
 앱 이전은  최근 4-5일 정도 소요되고 있으니 시간을 가지고 신청해주세요.&#x20;
+
+***
+
+
+
+## 6. 앱 이전 취소 방법
+
+만약 이전 중 취소를 하고 싶다면, 요청을 취소할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/이전11.png" alt=""><figcaption></figcaption></figure>
+
+기존(현재)개발자 계정으로 로그인 된 플레이 콘솔에서 \*설정 - 앱 이전 선택
+
+1\)이전 요청 취소 버튼 선택
+
+2\)이전 취소 버튼 선택해주세요.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/이전12.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+이전 요청이 취소되어, 요청 앱이 목록에서 삭제됩니다.
+
+새 개발자 계정에도 앱이 삭제됩니다.
 
