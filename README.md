@@ -1,5 +1,5 @@
 ---
-description: 스윙투앱 서비스란?
+description: 스윙투앱 서비스란
 ---
 
 # 스윙투앱
@@ -8,7 +8,7 @@ description: 스윙투앱 서비스란?
 
 ## **스윙투앱이란?**
 
-{% embed url="https://youtu.be/bcYf9S-ZSO8?list=PLtxd-vO1RMEhOOyiZMgxEN6al5ME8YsD9" %}
+{% embed url="https://youtu.be/u2RyoFikaus" %}
 
 스윙투앱은 사용자가 직접 제작하는 무료앱제작 서비스입니다.
 
@@ -64,5 +64,9 @@ description: 스윙투앱 서비스란?
 ## 스윙투앱에서 제공하는 무료 기능
 
 스윙투앱에서는 앱제작 및 앱운영에 필요한 다양한 기능을 모두 무료로 제공하고 있습니다.
+
+{% embed url="https://documentation.swing2app.co.kr/benefit" %}
+
+{% embed url="https://documentation.swing2app.co.kr/benefit2" %}
 
 <figure><img src=".gitbook/assets/기능소개_886.png" alt=""><figcaption></figcaption></figure>
