@@ -6,6 +6,7 @@
 * [\[일반앱\] 스윙투앱 강점](benefit2.md)
 * [스윙투앱 업데이트](<README (1).md>)
 * [스윙투앱 업데이트 히스토리](update-history.md)
+* [스토어 유지보수](https://www.swing2app.co.kr/landing/storemt)
 
 ## FAQ
 
