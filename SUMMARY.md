@@ -279,6 +279,7 @@
   * [푸시앱-메뉴 리스트 수정 방법](webapp/manual/toolbalist.md)
   * [푸시 아이콘 이미지 등록하기](webapp/manual/pushicon.md)
   * [프로그레스바 색상 설정](webapp/manual/progressbar.md)
+  * [프로그레스바 제거(사용하지 않음)](webapp/manual/progressbar2.md)
   * [웹뷰, 푸시앱 - 앱 종료 알림 메시지](webapp/manual/appexit.md)
   * [웹뷰, 푸시앱 - 데이터 유형 설정](webapp/manual/data.md)
   * [푸시앱에서 푸시발송하기](webapp/manual/pushapp-push.md)
