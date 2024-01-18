@@ -12,7 +12,7 @@ description: 앱스토어 앱 출시 후 관리해야 하는 기능 페이지를
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/앱스토어설치링크.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/앱스토어설치링크.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -31,6 +31,8 @@ description: 앱스토어 앱 출시 후 관리해야 하는 기능 페이지를
 
 
 ***
+
+
 
 ## 2.앱 설치 수(통계) 확인 페이지
 
@@ -54,21 +56,21 @@ description: 앱스토어 앱 출시 후 관리해야 하는 기능 페이지를
 
 상세 이용방법은 아래 가이드로 확인 부탁드립니다.
 
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/review" %}
+
+***
 
 
 
+## 4.애플 멤버십 연장하기
 
+앱스토어 애플 개발자 계정은 1년 이용기간입니다.
 
+계속 앱스토어를 이용하신다면, 1년 마다 애플 멤버십 기간을 연장해주셔야 하구요.
 
-## 4.앱 리뷰/평가 확인 페이지
+만약 연장하지 않을 경우 출시된 앱은 삭제 됩니다.
 
+따라서 애플 개발자 계정 멤버십을 연장하는 방법도 함께 확인해주세요.
 
-
-
-
-
-
-
-
-
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/renew" %}
 
