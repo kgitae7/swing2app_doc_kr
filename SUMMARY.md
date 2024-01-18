@@ -353,7 +353,7 @@
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
-  * [애플 개발자 계정 멤버십 연장(갱신)방법](knowledgebase/appstore/undefined.md)
+  * [애플 개발자 계정 멤버십 연장(갱신)방법](knowledgebase/appstore/renew.md)
   * [앱스토어 앱 등록 준비사항](knowledgebase/appstore/infor.md)
   * [앱스토어 스크린샷 이미지](knowledgebase/appstore/screenshot.md)
   * [앱스토어 업로드 신청방법](knowledgebase/appstore/upload.md)
@@ -368,6 +368,7 @@
   * [앱스토어 앱 출시 링크 확인하는 방법](knowledgebase/appstore/appurl.md)
   * [앱스토어 출시된 앱 삭제하기](knowledgebase/appstore/appstore-appdelete.md)
   * [앱스토어 앱설치수 확인하기](knowledgebase/appstore/appstore-installcount.md)
+  * [앱스토어 리뷰/ 평점 관리](knowledgebase/appstore/review.md)
 * [원스토어](knowledgebase/onestore/README.md)
   * [원스토어 앱 등록 방법](knowledgebase/onestore/onestore.md)
   * [원스토어 앱 업데이트하기](knowledgebase/onestore/onestore-update.md)
@@ -439,3 +440,4 @@
 ***
 
 * [Apple Developer Enterprise Program](apple-developer-enterprise-program.md)
+* [앱스토어 출시 후 관리 페이지](undefined-1.md)
