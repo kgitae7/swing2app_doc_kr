@@ -424,11 +424,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 **웹뷰 무제한 이용권은 한번 구매시 재구매 없이! 이용기간 제한 없이! 무제한!으로 이용 가능합니다.**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/웹뷰상품구매 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/웹뷰1 (1).png" alt=""><figcaption></figcaption></figure>
 
 [앱운영 →결제/이용권 구매 → 스윙투앱 이용권 추천 페이지](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_voucher)로 이동해주세요&#x20;
 
@@ -439,7 +435,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 1\)앱스토어, 플레이스토어 모두 출시할 예정이라면&#x20;
 
-→ 웹뷰 무제한 통합(아이폰+안드로이드) 300,000원+플레이스토어 업로드티켓20,000원+앱스토어 업로드티켓 20,000원=330,000원
+→ 웹뷰 무제한 통합(아이폰+안드로이드) 300,000원+플레이스토어 업로드티켓20,000원+앱스토어 업로드티켓 20,000원=340,000원
 
 2\)앱스토어만 출시한다면&#x20;
 
@@ -518,11 +514,7 @@ STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩
 
 ### <mark style="color:blue;">**2.단기 이용)스윙투앱 기본 이용권 (1개월 이용권 매달 구매 or 원하는 기간별 이용권 구매)**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/기본형-이용권-구매.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/기본형-이용권-구매 (1).png" alt=""><figcaption></figcaption></figure>
 
 [앱운영→결제/이용권 구매 페이지→유료앱 이용권 구매](http://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term) 페이지로 이동해주세요.​&#x20;
 
