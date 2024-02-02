@@ -2,7 +2,7 @@
 description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flight 이용방법
 ---
 
-# 앱스토어 test-flight 앱출시 방법
+# 앱스토어 TestFlight 앱출시 방법
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -207,6 +207,10 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 \*연장시 기존 이용기간이 남아 있는 상태에서 미리 연장을 해도, 남아 있는 기간이 합산되지 않습니다.&#x20;
 
 남은 기간은 리셋되어 다시 90일이 추가 되는 개념입니다.&#x20;
+
+<mark style="color:purple;">**\*연장 후 다시 앱 업데이트를 받아 이용하는 방법은 아래 매뉴얼 가이드로 확인해주세요.**</mark>
+
+
 
 ***
 
