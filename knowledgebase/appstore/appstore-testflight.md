@@ -210,7 +210,7 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 <mark style="color:purple;">**\*연장 후 다시 앱 업데이트를 받아 이용하는 방법은 아래 매뉴얼 가이드로 확인해주세요.**</mark>
 
-
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/appstore/testflightupdate" %}
 
 ***
 
