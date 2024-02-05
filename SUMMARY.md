@@ -310,7 +310,6 @@
 
 ## 프로그램 및 컨설팅
 
-* [스토어 유지보수 컨설팅](undefined/undefined.md)
 * [제휴프로그램](undefined/aff-program/README.md)
   * [제휴프로그램 신청방법](undefined/aff-program/apply.md)
   * [제휴프로그램 약관](undefined/aff-program/affiliate-program-terms.md)
