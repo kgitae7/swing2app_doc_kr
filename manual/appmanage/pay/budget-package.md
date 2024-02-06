@@ -6,7 +6,7 @@
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **01. 스윙투앱 알뜰형 패키지 상품이란?**
 
-<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 스윙 알뜰형 패키지 상품은, 스윙 이용권 패키지 상품이구요.
 
@@ -92,7 +92,7 @@
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.**스윙 알뜰형 패키지 특징
 
-<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)기본형 상품 월 이용료 결제의 50% 할인가격으로 제공 ~~320,000~~원 → 170,000원(부가세포함)
 

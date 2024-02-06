@@ -393,15 +393,14 @@
   * [앱미리보기 이용방법](undefined/swingpreview.md)
 * [인앱(In-App)](knowledgebase/inapp/README.md)
   * [\[인앱\] 구글 개발자-결제 프로필 설정 방법](knowledgebase/inapp/google-payments.md)
-  * [\[인앱\] 애플 계좌 등록 및 수정방법](knowledgebase/inapp/appstore-inapp-payment.md)
-  * [\[인앱\] 애플 앱스토어 인앱 상품 등록하기](knowledgebase/inapp/undefined.md)
-  * [\[인앱\] 구글플레이스토어 인앱 환불](knowledgebase/inapp/undefined-1.md)
+  * [\[인앱\] 애플 계좌 등록 및 수정방법](knowledgebase/inapp/appstorepayment.md)
+  * [\[인앱\] 애플 앱스토어 인앱 상품 등록하기](knowledgebase/inapp/appleproduct.md)
+  * [\[인앱\] 구글플레이스토어 인앱 환불](knowledgebase/inapp/refund.md)
   * [\[인앱\] 구글플레이스토어 인앱 상품 등록하기](knowledgebase/inapp/product.md)
-  * [\[인앱\] 구글 판매자 계좌정보 입력](knowledgebase/inapp/undefined-2.md)
-  * [\[인앱\] 구글 판매자 계정 연결](knowledgebase/inapp/undefined-3.md)
-  * [인앱 주의사항](knowledgebase/inapp/undefined-4.md)
+  * [\[인앱\] 구글 판매자 계좌정보 입력](knowledgebase/inapp/bankaccount.md)
+  * [\[인앱\] 구글 판매자 계정 연결](knowledgebase/inapp/account.md)
+  * [인앱 주의사항](knowledgebase/inapp/announcement.md)
   * [인앱(In-app)이란?](knowledgebase/inapp/inapp.md)
-  * [인앱 신청방법](knowledgebase/inapp/undefined-5.md)
 
 ## 개발자 등록 프로세스 <a href="#storedeveloper" id="storedeveloper"></a>
 
