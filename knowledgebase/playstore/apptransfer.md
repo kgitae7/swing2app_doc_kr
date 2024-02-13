@@ -2,7 +2,7 @@
 description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방법 안내 (앱 이전 안내)
 ---
 
-# 플레이스토어 다른 개발자계정으로 앱이전하기
+# 다른 개발자계정으로 앱 이전하기
 
 ***
 
@@ -42,15 +42,9 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 ## **1. 구글 플레이 콘솔 접속 - 앱 이전 선택**
 
-
+<figure><img src="../../.gitbook/assets/이전6 (1).png" alt=""><figcaption></figcaption></figure>
 
 [<mark style="color:blue;">**구글 플레이 콘솔 사이트**</mark>](https://play.google.com/console/u/0/developers) 접속 및 로그인후, 왼쪽 설정 메뉴 선택 - 앱 이전을 선택합니다.&#x20;
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/이전1png.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ***
 
