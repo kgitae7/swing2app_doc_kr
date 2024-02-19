@@ -148,15 +148,15 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 ## 4.이전 요청 검토(동의하기)
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/이전8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/이전6 (1).png" alt=""><figcaption></figcaption></figure>
 
 새 개발자 계정으로 다시 로그인한 뒤
 
 동일하게 플레이 콘솔 접속 - 설정- 앱 이전 메뉴로 이동합니다.
+
+
+
+<figure><img src="../../.gitbook/assets/이전7.png" alt=""><figcaption></figcaption></figure>
 
 "나에게 이전 중인 앱 " 항목에서 앞에서 이전을 요청한 앱을 확인할 수 있구요.
 
