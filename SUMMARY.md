@@ -4,10 +4,10 @@
 * [스윙투앱 이용 안내](manual/guide/swing2app-guide.md)
 * [\[웹앱\] 스윙투앱 강점](benefit.md)
 * [\[일반앱\] 스윙투앱 강점](benefit2.md)
+* [스토어 유지보수](https://www.swing2app.co.kr/landing/storemt)
+* [커스터마이징(앱개발 서비스)](https://www.swing2app.co.kr/landing/customization)
 * [스윙투앱 업데이트](<README (1).md>)
 * [스윙투앱 업데이트 히스토리](update-history.md)
-* [스토어 유지보수](https://www.swing2app.co.kr/landing/storemt)
-* [커스터마이징(앱 개발 서비스)](https://www.swing2app.co.kr/landing/customization)
 
 ## FAQ
 
