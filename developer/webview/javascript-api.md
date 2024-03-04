@@ -60,7 +60,9 @@ swingWebViewPlugin.app.navigateToHome()
 
 ### • 툴바 활성화 설정하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
 
-웹뷰에서 이전 페이지로 이동 웹브라우저에서 뒤로가기 기능과 동일한 동작
+푸시전용 프로토타입에서 Toolbar 를 API 통해서 제어할 수 있습니다.
+
+앱 실행상태에서 툴바를 숨기거나 활성화 그리고 자동 숨김 옵션까지 모두 제어할 수 있습니다.&#x20;
 
 {% code lineNumbers="true" %}
 ```javascript
