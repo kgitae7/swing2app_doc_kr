@@ -56,9 +56,9 @@ swingWebViewPlugin.app.navigateToHome()
 
 
 
-## 툴바 제어관련 Method <a href="#toolbar-setting" id="toolbar-setting"></a>
+## 툴바 제어관련 Method <a href="#toolbar" id="toolbar"></a>
 
-### • 툴바 활성화 설정하기 <a href="#back-webview" id="back-webview"></a>
+### • 툴바 활성화 설정하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
 
 웹뷰에서 이전 페이지로 이동 웹브라우저에서 뒤로가기 기능과 동일한 동작
 
