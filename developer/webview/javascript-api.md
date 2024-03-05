@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2023_12_20_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 

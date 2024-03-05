@@ -115,8 +115,8 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.co.kr/sns_logi
 
 * 자세한 브라우저 실행 API 는 아래의 Javascript 연동 API를 참고하세요.
 
-{% content-ref url="javascript-api/" %}
-[javascript-api](javascript-api/)
+{% content-ref url="javascript-api.md" %}
+[javascript-api.md](javascript-api.md)
 {% endcontent-ref %}
 
 아래의 코드를 활용하여 로그인 페이지를 만들어주세요.
