@@ -313,6 +313,25 @@ swingWebViewPlugin.app.methods.speakOutViaTTS('안녕하세요');
 
 
 
+### • 앱 첫 실행 여부 확인하기 <a href="#clipboard-write" id="clipboard-write"></a>
+
+앱이 처음실행 했는지는 확인할 수 있는 API , 앱의 첫 실행여부를 판단하는 함수
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_001 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.methods.isFirstRun(function (value) {
+    if (JSON.parse(value).result) // 앱 첫실행 될 경우
+    {
+        console.log('앱 첫 실행');
+    }
+});
+```
+{% endcode %}
+
+
+
 
 
 ## 어플리케이션 Event
