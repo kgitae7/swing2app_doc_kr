@@ -4,7 +4,7 @@ description: API 코드를 활용하여 앱내 서비스를 활용한 예제
 
 # API 를 활용한 예제
 
-### • 첫앱 실행 광고 허용을 팝업 노출 예시 <a href="#adpopup-permission" id="adpopup-permission"></a>
+### • 앱 최초 실행시 광고 허용을 팝업 노출 예시 <a href="#adpopup-permission" id="adpopup-permission"></a>
 
 법령에 따라 사용자에게 광고푸시 허용 팝업을 노출 시키고 그에 따른 푸시 활성화 비 활성화 적용
 
