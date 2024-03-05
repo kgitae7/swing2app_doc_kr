@@ -266,6 +266,24 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 swingWebViewPlugin.app.methods.copyToClipboard("copyToClipboard 텍스트 테스트");
 ```
 
+### • 푸시메시지 수신 활성화 하기 <a href="#active-push" id="active-push"></a>
+
+푸시메시지 수신설정을 활성화 하기 위한 API
+
+```javascript
+swingWebViewPlugin.app.methods.activePush();
+```
+
+### • 푸시메시지 수신 비활성화 하기  <a href="#inactive-push" id="inactive-push"></a>
+
+푸시메시지 수신설정을 비활성화 하기 위한 API
+
+```javascript
+swingWebViewPlugin.app.methods.inactivePush();
+```
+
+### &#x20;<a href="#clipboard-write" id="clipboard-write"></a>
+
 ### • 디바이스에 변수 저장하기 <a href="#clipboard-write" id="clipboard-write"></a>
 
 앱내에 Storage 변수 저장하기
