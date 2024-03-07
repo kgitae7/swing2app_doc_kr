@@ -1,5 +1,5 @@
 ---
-description: 2024년 2월 4주차 스윙투앱 정기 업데이트
+description: 2024년 3월 2주차 스윙투앱 정기 업데이트
 ---
 
 # 스윙투앱 업데이트
@@ -8,74 +8,88 @@ description: 2024년 2월 4주차 스윙투앱 정기 업데이트
 
 ﻿**\[업데이트 내용]**
 
-출석체크 관리 – 출석체크 통계현황 조회 기능 추가
+스윙투앱 브라우저 어플 앱 미리보기 연동
 
 <figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **출석체크 통계현황 조회 기능 추가**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> 스윙투앱 브라우저 어플 앱 미리보기 연동
 
-<figure><img src=".gitbook/assets/출석체크업데이트.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/앱미리보기메인.png" alt=""><figcaption></figcaption></figure>
 
-**출석체크 기능에 ‘출석체크 통계현황 조회’ 메뉴가 추가 업데이트 되었습니다.**
+푸시앱, 웹뷰앱 제작시 스윙투앱 브라우저 어플을 이용하여 모바일 기기에서 앱 미리보기 확인이 가능합니다.
 
-출석 체크에 참여한 사용자들의 상세 통계를 확인할 수 있습니다.
+<mark style="color:blue;">**어떻게 활용할 수 있나요?**</mark>
 
-출석체크란, 출석체크 게시판에 댓글 입력을 하면 참여(체크)가 되는 기능이구요. 매일 혹은 관리자가 정해놓은 기간에 댓글을 입력하여 참여하는 기능입니다.
+\-웹사이트 주소(URL)을 입력했지만, 웹 가상머신 화면에 표시되지 않거나(아무런 화면이 뜨지 않음)
 
-따라서 사용자들이 출석체크에 참여하면, 관리자는 ‘통계 현황 조회’ 에서 출석 체크 통계를 확인할 수 있습니다.
+\-모바일 화면이 아닌 PC 화면으로 보이는 등 정확한 확인이 불가할 때
 
-조회 기간을 설정하면 출석체크에 참여한 사용자(아이디, 이름), 참석율, 출석일을 상세히 조회할 수 있습니다.
+앱 미리보기를 이용하여 핸드폰에서 직접 미리보기로 확인할 수 있습니다.
 
+\*앱 설치 전 웹사이트가 앱으로 잘 연동이 되어 보여지는지 확인하는 용도입니다.
 
+앱 미리보기는 안드로이드폰, 아이폰 모두 지원됩니다.
 
-### <img src=".gitbook/assets/info (4).png" alt="" data-size="line"> **어떻게 활용할 수 있나요?**
+따라서 아이폰 사용자분들도 웹사이트가 앱으로 어떻게 입혀져서 보여지는지 확인이 가능합니다.
 
-\-사용자들이 얼마나 출석 참여를 했는지 확인 \*전체 통계 확인
-
-\-사용자별 출석 체크 현황 조회 \*사용자 개별 통계 확인
-
-\-특정 기간 동안의 사용자 출석일 조회&#x20;
-
-\-이벤트 진행시, 출석 체크 참여가 가장 많은 사용자를 선별할 때 사용
-
-\-출석부 기능으로 이용할 때에도, 통계 기능을 100%활용할 수 있습니다.\
 
 
 ***
 
-
-
 ### <img src=".gitbook/assets/question-(1) (1).png" alt="" data-size="line"> **이용방법**
 
-<figure><img src=".gitbook/assets/출석체크업데이트2.png" alt=""><figcaption></figcaption></figure>
+\*먼저 스윙투앱 브라우저 어플을 설치하여 다운받아주세요.
 
-[앱운영-서비스관리-출석체크](https://www.swing2app.co.kr/view/attendance\_board) 이동
+\[아이폰] [앱스토어 다운 받기](https://apps.apple.com/us/app/swing2app-browser/id6450099622)
 
-출석체크 관리 페이지에서 추가된 ‘출석체크 통계현황 조회’를 확인할 수 있습니다.
+\[안드로이드폰] [플레이스토어 다운 받기](https://play.google.com/store/apps/details?id=com.hustay.swing.p275a02bc9a024f9eb54c077d056e2cb1)\
 
-1\)기간 적용 탭에서 통계 확인을 원하는 기간을 설정하여 확인할 수 있구요.
 
-2\)사용자별 참석율 확인이 가능합니다.
+앱제작 화면 – STEP3 페이지에서 웹사이트 주소 입력 후 저장 버튼 선택
 
-3\)\[출석일 조회하기] 버튼을 탭하면 조회한 해당 사용자가 특정 기간 동안 출석한 일자를 확인할 수 있습니다.
+1\)오른쪽 웹 가상머신 화면에 기재된 \[앱에서 미리보기]를 선택해주세요.&#x20;
+
+<figure><img src=".gitbook/assets/앱미리보기.png" alt=""><figcaption></figcaption></figure>
+
+2\)QR코드가 생성됩니다. 아이폰 혹은 안드로이드폰 카메라로 QR코드를 촬영합니다.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/아이폰1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+3\)스윙투앱 브라우저 어플로 연결되며, 앱 미리보기에서 연결된 웹사이트를 확인할 수 있습니다.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/아이폰2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+\*스윙투앱 브라우저 어플이 설치 안되었을 경우 스토어 설치 화면으로 이동합니다.&#x20;
+
+설치 후 다시 진행해주세요.&#x20;
+
+\*앱 업데이트가 안되어 있는 분들은, 업데이트를 하고 이용할 수 있습니다.&#x20;
 
 
 
 ### <img src=".gitbook/assets/warning-(2) (1) (1).png" alt="" data-size="line"> 안내사항
 
 {% hint style="warning" %}
-1\)해당 기능은 **일반 프로토타입 앱** 이용시에만 해당됩니다.&#x20;
+1\)해당 기능은 **웹앱 – 웹뷰, 푸시앱 제작시 이용이 가능합니다.**
 
-웹앱-웹뷰, 푸시앱은 해당 사항 없습니다.
+일반 프로토타입 앱제작시 웹 가상머신(웹 미리보기)로 앱 테스트를 모두 하실 수 있습니다.&#x20;
 
 2\)**앱 업데이트 필요 없이 즉시 이용 가능합니다.**&#x20;
 
-기존 출석체크 게시판을 운영하셨던 분들도 기간 설정해서 확인하시면 통계현황 바로 확인 가능합니다. &#x20;
+앱제작 화면 이동 오른쪽 가상머신 화면에서 앱 미리보기 선택하여 이용해주세요.&#x20;
 
-**3)출석체크 기능을 이용해야 통계 확인이 가능합니다.**
+STEP3페이지 단계 웹사이트 주소 입력되어 있어야 하며, 웹사이트 주소란에는 하이퍼링크 https:// or  http:// 꼭 입력해주세요.&#x20;
 
-기능을 사용하고 있지 않다면 먼저 출석체크를 등록한 뒤, 앱에 적용하여 이용해주세요.
-
-[출석체크 이용방법 매뉴얼 보러가기](https://documentation.swing2app.co.kr/manual/appmanage/service/attendance-check)
+3\)앱스토어, 플레이스토어에서 스윙투앱 브라우저 어플을 설치하여 이용해주세요.&#x20;
 {% endhint %}
 
