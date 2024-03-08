@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -58,6 +58,8 @@ swingWebViewPlugin.app.webview.navigateToHome()
 
 웹뷰에서 캐시를 초기화 하는 Command
 
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
+
 {% code lineNumbers="true" %}
 ```javascript
 swingWebViewPlugin.app.webview.clearCache()
@@ -67,6 +69,8 @@ swingWebViewPlugin.app.webview.clearCache()
 ### • 웹뷰 Navigation History 초기화 <a href="#go-to-home" id="go-to-home"></a>
 
 웹뷰에서 Navigation History 를 초기화하는 기능
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -83,6 +87,8 @@ swingWebViewPlugin.app.webview.clearWebViewRouteHistory()
 푸시전용 프로토타입에서 Toolbar 를 API 통해서 제어할 수 있습니다.
 
 앱 실행상태에서 툴바를 숨기거나 활성화 그리고 자동 숨김 옵션까지 모두 제어할 수 있습니다.&#x20;
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
 
 {% code lineNumbers="true" %}
 ```javascript
