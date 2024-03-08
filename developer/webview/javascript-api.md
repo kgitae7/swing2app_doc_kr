@@ -50,7 +50,27 @@ swingWebViewPlugin.app.webview.forward();
 
 {% code lineNumbers="true" %}
 ```javascript
-swingWebViewPlugin.app.navigateToHome()
+swingWebViewPlugin.app.webview.navigateToHome()
+```
+{% endcode %}
+
+### • 웹뷰 캐시 초기화 <a href="#go-to-home" id="go-to-home"></a>
+
+웹뷰에서 캐시를 초기화 하는 Command
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.webview.clearCache()
+```
+{% endcode %}
+
+### • 웹뷰 Navigation History 초기화 <a href="#go-to-home" id="go-to-home"></a>
+
+웹뷰에서 Navigation History 를 초기화하는 기능
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.webview.clearWebViewRouteHistory()
 ```
 {% endcode %}
 
@@ -356,7 +376,26 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 앱의 Native Event 를 관리할 수 있는 명령어 입니다.
 
-### • 앱 종료 이벤트 추가하기 <a href="#add-event-exit-app" id="add-event-exit-app"></a>
+
+
+### • 안드로이드 앱 Back key 웹뷰 Navigation 이벤트 추가하기 <a href="#add-event-exit-app" id="add-event-exit-app"></a>
+
+앱의 Back 버튼의 종료 이벤트를 추가할 경우 Back버튼을 인한  뒤로가기 기능이 동작하지 않습니다.
+
+따라서 backEvent 추가할 경우 Back key 로 인해 웹뷰 Navigation Back되는 상황에서 뒤로가기 기능이&#x20;
+
+동작하지 않고 직접 구현해주셔야 합니다.
+
+```javascript
+swingWebViewPlugin.event.addEvent('backEvent' , function() {
+    // 안드로이드 back event 
+    swingWebViewPlugin.app.webview.back(); // 웹뷰 뒤로가기 예시
+})
+```
+
+
+
+### • 안드로이드 앱 Back key로 인해 종료 이벤트 추가하기 <a href="#add-event-exit-app" id="add-event-exit-app"></a>
 
 앱의 back 버튼의 종료 이벤트를 추가할 경우 back버튼을 인한 앱에서는 종료 기능이 동작하지 않습니다.
 
@@ -365,7 +404,8 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 ```javascript
 swingWebViewPlugin.event.addEvent('backExitEvent' , function() {
     // 앱 종료 Logic 직접 구현
-})
+    swingWebViewPlugin.app.methods.doExitApp();    // 앱 종료 Command 호출 예시
+});
 ```
 
 ##
