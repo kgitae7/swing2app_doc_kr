@@ -401,7 +401,7 @@ swingWebViewPlugin.event.addEvent('backEvent' , function() {
 
 
 
-### • 안드로이드 앱 Back key로 인해 종료 이벤트 추가하기 <a href="#add-event-exit-app" id="add-event-exit-app"></a>
+### • 안드로이드 앱 Back key로 인해 종료 이벤트 추가하기 <a href="#add-event-back-key" id="add-event-back-key"></a>
 
 앱의 back 버튼의 종료 이벤트를 추가할 경우 back버튼을 인한 앱에서는 종료 기능이 동작하지 않습니다.
 
