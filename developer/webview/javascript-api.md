@@ -54,7 +54,7 @@ swingWebViewPlugin.app.webview.navigateToHome()
 ```
 {% endcode %}
 
-### • 웹뷰 캐시 초기화 <a href="#go-to-home" id="go-to-home"></a>
+### • 웹뷰 캐시 초기화 <a href="#webview-clear-cache" id="webview-clear-cache"></a>
 
 웹뷰에서 캐시를 초기화 하는 Command
 
@@ -66,7 +66,7 @@ swingWebViewPlugin.app.webview.clearCache()
 ```
 {% endcode %}
 
-### • 웹뷰 Navigation History 초기화 <a href="#go-to-home" id="go-to-home"></a>
+### • 웹뷰 Navigation History 초기화 <a href="#webview-clear-routh-history" id="webview-clear-routh-history"></a>
 
 웹뷰에서 Navigation History 를 초기화하는 기능
 
