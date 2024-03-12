@@ -143,6 +143,7 @@
     * [게시판 새글알람 설정방법](manual/appmanage/board/post-alarm.md)
     * [게시판 관리자 설정](manual/appmanage/board/administrator.md)
     * [위치등록(지도)게시판](manual/appmanage/board/map-board.md)
+    * [위치등록(지도)게시판 버튼명 수정](manual/appmanage/board/map-editor.md)
     * [위치등록(지도)게시판 고급설정](manual/appmanage/board/map-advancedsettings.md)
     * [구글맵(구글지도)게시판](manual/appmanage/board/google-map.md)
     * [구글맵 API키 발급하기](knowledgebase/playstore/googlemap-apikey.md)
