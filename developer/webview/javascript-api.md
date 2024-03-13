@@ -378,6 +378,68 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 
 
+## 앱 화면 제어관련 Method <a href="#toolbar" id="toolbar"></a>
+
+### • 설정화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+
+설정화면으로 이동하는 API Command.
+
+툴바 또는 메뉴바를 이용하지 않고 설정화면으로 이동할 수 있습니다.
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.screen.setting.show();
+```
+{% endcode %}
+
+### • 알림목록화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+
+알림목록화면으로 이동하는 API Command.
+
+툴바 또는 메뉴바를 이용하지 않고 알림목록화면으로 이동할 수 있습니다.
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.screen.notificationList.show();
+```
+{% endcode %}
+
+### • 메뉴화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+
+메뉴화면으로 이동하는 API Command.
+
+툴바를 이용하지 않고 메뉴화면으로 이동할 수 있습니다.
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.screen.menu.show();
+```
+{% endcode %}
+
+### • 북마크목록화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+
+북마크목록화면으로 이동하는 API Command.
+
+메뉴 또는 툴바를 이용하지 않고 북마크목록화면으로 이동할 수 있습니다.
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_002 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.screen.bookmarkList.show();
+```
+{% endcode %}
+
+
+
+
+
 ## 어플리케이션 Event
 
 앱의 Native Event 를 관리할 수 있는 명령어 입니다.
