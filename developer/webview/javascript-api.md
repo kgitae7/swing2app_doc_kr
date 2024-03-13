@@ -390,7 +390,7 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 {% code lineNumbers="true" %}
 ```javascript
-swingWebViewPlugin.app.screen.setting.show();
+swingWebViewPlugin.app.screen.setting.show();
 ```
 {% endcode %}
 
@@ -404,7 +404,7 @@ swingWebViewPlugin.app.screen.setting.show();
 
 {% code lineNumbers="true" %}
 ```javascript
-swingWebViewPlugin.app.screen.notificationList.show();
+swingWebViewPlugin.app.screen.notificationList.show();
 ```
 {% endcode %}
 
@@ -418,7 +418,7 @@ swingWebViewPlugin.app.screen.notificationList.show();
 
 {% code lineNumbers="true" %}
 ```javascript
-swingWebViewPlugin.app.screen.menu.show();
+swingWebViewPlugin.app.screen.menu.show();
 ```
 {% endcode %}
 
@@ -432,7 +432,7 @@ swingWebViewPlugin.app.screen.menu.show();
 
 {% code lineNumbers="true" %}
 ```javascript
-swingWebViewPlugin.app.screen.bookmarkList.show();
+swingWebViewPlugin.app.screen.bookmarkList.show();
 ```
 {% endcode %}
 
