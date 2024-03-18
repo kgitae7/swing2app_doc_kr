@@ -1,12 +1,12 @@
 ---
-description: 스윙투앱 푸시발송 API
+description: 스윙투앱 푸시알림 목록 가져오기 API
 ---
 
 # 푸시알림 목록 가져오기
 
-<mark style="color:blue;">푸시 API 를 이용하여 스윙투앱 푸시 발송하기</mark>
+<mark style="color:blue;">푸시알림 목록 API 를 이용하여 푸시알림 목록을 가져오기</mark>
 
-스윙투앱에서는 대시보드에서 발송하는 푸시 메시지를  API 형태로 발송하는 것을 다음과 같이 제공하고 있습니다.
+스윙투앱에서는 발송한 목록에 히스토리를 API 형태로 제공하고 있습니다.
 
 사전에 협의되지 않은 방식의 API 사용과 , 무분별한 대량발송의 경우 사용에 제한을 받을 수 있습니다.
 
@@ -18,7 +18,7 @@ description: 스윙투앱 푸시발송 API
 
 * API 명세서
 
-{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_notification_history" summary="스윙투앱으로 푸시 알림 목록을 받기위한 API" %}
+{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_notification_history" summary="푸시 알림 목록을 받기위한 API" %}
 {% swagger-description %}
 <mark style="color:orange;">**\* 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**</mark>
 {% endswagger-description %}
