@@ -373,6 +373,7 @@
   * [앱스토어 앱설치수 확인하기](knowledgebase/appstore/appstore-installcount.md)
   * [앱스토어 리뷰/ 평점 관리](knowledgebase/appstore/review.md)
   * [앱스토어 출시 후 관리 페이지](knowledgebase/appstore/manage.md)
+  * [앱스토어 '디지털 서비스법 규정' 조치방법 안내](knowledgebase/appstore/business.md)
 * [원스토어](knowledgebase/onestore/README.md)
   * [원스토어 앱 등록 방법](knowledgebase/onestore/onestore.md)
   * [원스토어 앱 업데이트하기](knowledgebase/onestore/onestore-update.md)
