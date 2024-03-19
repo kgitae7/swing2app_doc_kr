@@ -418,7 +418,7 @@
   * [iOS앱 Universal Links 적용하기](developer/applink/ios-universal-links.md)
 * [Server Side API 명세서](developer/server-side-api/README.md)
   * [푸시 API를 이용하여 푸시 발송하기](developer/server-side-api/push-api-notification.md)
-  * [푸시알림 목록 가져오기](developer/server-side-api/push-api-notification-1.md)
+  * [푸시알림 목록 가져오기](developer/server-side-api/push-notification-history.md)
 * [웹뷰(웹뷰,푸시전용) 개발도구](developer/webview/README.md)
   * [웹뷰에서 구글, 페이스북 로그인 구현하기](developer/webview/how-to-avoid-disallow-useragent.md)
   * [웹사이트 회원 연동 가이드](developer/webview/user-integration/README.md)
