@@ -18,92 +18,26 @@ description: 스윙투앱 푸시발송 API
 
 * API 명세서
 
-{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="스윙투앱으로 푸시를 발송하기 위한 API" %}
-{% swagger-description %}
+## 스윙투앱으로 푸시를 발송하기 위한 API
+
+<mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_send`
+
 <mark style="color:orange;">**\* 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**</mark>
-{% endswagger-description %}
 
-{% swagger-parameter in="body" name="app_id" required="true" type="" %}
-스윙투앱에서 제공하는 APP\_ID
-{% endswagger-parameter %}
+#### Request Body
 
-{% swagger-parameter in="body" name="api_user" required="true" type="" %}
-스윙투앱 사용자 계정(이메일 주소)
-{% endswagger-parameter %}
+| Name                                                       | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| app\_id<mark style="color:red;">\*</mark>                  |        | 스윙투앱에서 제공하는 APP\_ID                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| api\_user<mark style="color:red;">\*</mark>                |        | 스윙투앱 사용자 계정(이메일 주소)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| api\_key<mark style="color:red;">\*</mark>                 | String | 스윙투앱에 발급받은 API KEY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| send\_target\_list<mark style="color:red;">\*</mark>       | String | <p>발송할 대상 사용자 아이디</p><p>단일 발송시 user_id</p><p>다중발송시 “,”로 구분하여 입력</p><p>Ex:)  user_id1,user_id2</p><p>전체 발송시 -1 입력</p><p>Ex:) -1</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| send\_target\_type\_list<mark style="color:red;">\*</mark> | String | <p>발송대상 유형 설정항목<br>개별 사용자에게 보낼경우 개수만큼 MEMBER 라고 입력 ‘,’로 구분하여</p><p>전체에게 발송할 경우 ‘ALL_TARGET’ 이라고 넣는다.<br></p><p>[2명의 특정 사용자에게 보낼경우]</p><p>Ex:) MEMBER,MEMBER</p><p>[전체발송의 경우]</p><p>Ex:) ALL_TARGET</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| send\_type<mark style="color:red;">\*</mark>               | String | 발송 유형을 입력 푸시발송일 경우 push 라고 입력                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| message\_json<mark style="color:red;">\*</mark>            | String | <p>메시지 본문 내용 입력<br>* JSON 형식문자열에 맞게 아래 변수 입력</p><p>messageTitle:제목,</p><p>messageContent:내용</p><p>messageLinkUrl:링크주소</p><p>messageImageUrl:이미지 주소</p><p>*링크주소와 이미지 주소가 없을 경우 생략 가능<br>입력 예:)</p><p></p><p>[제목,내용,링크,이미지를 전송할 경우]</p><p>{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"} </p><p></p><p>[제목,내용,이미지만 전송할 경우] </p><p>{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageImageUrl":"http://www.swing2app.com/abc.png"} </p><p></p><p>[제목 내용만 전송할 경우] </p><p>{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }</p> |
 
-{% swagger-parameter in="body" name="api_key" required="true" %}
-스윙투앱에 발급받은 API KEY
-{% endswagger-parameter %}
-
-{% swagger-parameter in="body" name="send_target_list" required="true" %}
-발송할 대상 사용자 아이디
-
-단일 발송시 user\_id
-
-다중발송시 “,”로 구분하여 입력
-
-Ex:)  user\_id1,user\_id2
-
-전체 발송시 -1 입력
-
-Ex:) -1
-{% endswagger-parameter %}
-
-{% swagger-parameter in="body" name="send_target_type_list" required="true" %}
-발송대상 유형 설정항목\
-개별 사용자에게 보낼경우 개수만큼 MEMBER 라고 입력 ‘,’로 구분하여
-
-전체에게 발송할 경우 ‘ALL\_TARGET’ 이라고 넣는다.\
-
-
-\[2명의 특정 사용자에게 보낼경우]
-
-Ex:) MEMBER,MEMBER
-
-\[전체발송의 경우]
-
-Ex:) ALL\_TARGET
-{% endswagger-parameter %}
-
-{% swagger-parameter in="body" name="send_type" required="true" %}
-발송 유형을 입력 푸시발송일 경우 push 라고 입력
-{% endswagger-parameter %}
-
-{% swagger-parameter in="body" name="message_json" required="true" %}
-메시지 본문 내용 입력\
-\* JSON 형식문자열에 맞게 아래 변수 입력
-
-messageTitle:제목,
-
-messageContent:내용
-
-messageLinkUrl:링크주소
-
-messageImageUrl:이미지 주소
-
-\*링크주소와 이미지 주소가 없을 경우 생략 가능\
-입력 예:)
-
-
-
-\[제목,내용,링크,이미지를 전송할 경우]
-
-{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}&#x20;
-
-
-
-\[제목,내용,이미지만 전송할 경우]&#x20;
-
-{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageImageUrl":"http://www.swing2app.com/abc.png"}&#x20;
-
-
-
-\[제목 내용만 전송할 경우]&#x20;
-
-{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="" %}
+{% tabs %}
+{% tab title="200: OK " %}
 ```javascript
 {
     // Response
@@ -113,8 +47,8 @@ messageImageUrl:이미지 주소
     isPaymentSms : F
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 * Code 예제
 

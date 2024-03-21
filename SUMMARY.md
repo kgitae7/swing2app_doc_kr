@@ -369,6 +369,7 @@
   * [앱스토어 아이폰 푸시 인증서 등록](knowledgebase/appstore/pushapi.md)
   * [애플 앱스토어 고객센터 이용방법](knowledgebase/appstore/apple-support.md)
   * [앱스토어 앱 출시 링크 확인하는 방법](knowledgebase/appstore/appurl.md)
+  * [앱스토어 앱 이전](knowledgebase/appstore/apptransfer.md)
   * [앱스토어 출시된 앱 삭제하기](knowledgebase/appstore/appstore-appdelete.md)
   * [앱스토어 앱설치수 확인하기](knowledgebase/appstore/appstore-installcount.md)
   * [앱스토어 리뷰/ 평점 관리](knowledgebase/appstore/review.md)
