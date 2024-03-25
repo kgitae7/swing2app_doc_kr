@@ -350,6 +350,7 @@
   * [플레이스토어 앱 리뷰에 답글 달기](knowledgebase/playstore/playstore-riveiw.md)
   * [Google Play Console 지원팀 문의하기](knowledgebase/playstore/googleplay-support.md)
   * [구글 플레이 개발자 계정 인증 기한 선택](knowledgebase/playstore/verification.md)
+  * [플레이스토어 앱 업로드 키 재설정](knowledgebase/playstore/keymanagement.md)
   * [플레이스토어 출시 후 관리 페이지](knowledgebase/playstore/manage.md)
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
 * [앱스토어](knowledgebase/appstore/README.md)
