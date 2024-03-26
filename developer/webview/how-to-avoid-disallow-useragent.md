@@ -16,7 +16,7 @@ description: 스윙투앱에서 구글, 페이스북 로그인 보안으로 인�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt="" width="375"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
 
 </div>
 

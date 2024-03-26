@@ -14,15 +14,15 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 앱운영 대시보드에 있다면 앱제작 화면으로 이동 후 \[앱 업데이트]를 선택합니다.
 
+### 1.왼쪽 상단 **\[앱제작]** 선택
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/업데이트1 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-1.왼쪽 상단 **\[앱제작]** 선택&#x20;
-
-\*앱을 다시 수정하고자 할 때에도 해당 경로로 앱제작 화면으로 이동해주시기 바랍니다.&#x20;
+#### &#x20;\*앱을 다시 수정하고자 할 때에도 해당 경로로 앱제작 화면으로 이동해주시기 바랍니다.&#x20;
 
 
 
@@ -40,13 +40,11 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 
 
+### 2.\[앱 업데이트] 버튼 선택
+
 <figure><img src="../../.gitbook/assets/업데이트2.png" alt=""><figcaption></figcaption></figure>
 
-2.\[앱 업데이트] 버튼 선택
-
-3.업데이트 표시 옵션 선택 후, \[제작하기] 선택
-
-
+### 3.업데이트 표시 옵션 선택 후, \[제작하기] 선택
 
 {% hint style="info" %}
 <mark style="color:blue;">**\[업데이트 표시 옵션]**</mark>
@@ -76,7 +74,7 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 
 
-4.제작완료
+### 4.제작완료
 
 앱제작이 시작되면, 앱운영- 버전관리-앱운영 화면으로 이동합니다.&#x20;
 
@@ -97,4 +95,22 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 **\*업로드 신청 화면 경로**
 
 [앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app\_work\_history)
+
+
+
+***
+
+
+
+### **Q.AAB파일은 어디서 다운받나요??**
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;[앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app\_work\_history)
+
+유료앱(이용권 적용된 유료버전앱)은 앱제작 이력 페이지에서 AAB파일을 받을 수 있습니다.&#x20;
+
+여기서 \[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
+
+다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bundle 파일로 업로드 해주시면 됩니다.
 
