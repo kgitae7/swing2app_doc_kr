@@ -187,11 +187,13 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 ​
 
-계정 기본정보 입력이 완료되었구요,
+계정 기본정보 입력이 완료되었구요.
 
-이제  조직(기관/단체)정보를 입력하는 단계입니다.
+[구글 플레이 콘솔 ](https://play.google.com/console/u/0/developers)화면으로 이동하여, 본격적으로 개발자 계정을 만들어보겠습니다.&#x20;
 
-​
+[https://play.google.com/console/u/0/developers](https://play.google.com/console/u/0/developers)
+
+
 
 ### STEP1.계정유형 선택
 
@@ -307,6 +309,8 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 
 
+### STEP6.플레이콘솔 이용 정보
+
 <figure><img src="../../.gitbook/assets/play11.PNG" alt=""><figcaption></figcaption></figure>
 
 플레이 콘솔 사용 및 안드로이드 앱개발 경험이 있다면 메시지란에 기재해주세요.
@@ -317,11 +321,29 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 
 
+### STEP7.앱 정보
+
+<div align="left">
+
+<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9513.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
+
+2\)Google Play에서 수익 창출: 앱으로 수익 창출 계획이 있는지 묻는 질문입니다.
+
+3\)앱 카테고리:다음 유형의 앱을 제출할 계획이 있는지 묻는 질문입니다.&#x20;
+
+\*특별한 경우가 아니면 ‘해당 사항 없음’에 체크해주세요.
+
+4\)\[다음] 선택
 
 
 
 
-STEP4.구글에서 연락하는 방법
+
+### STEP8.구글에서 연락하는 방법
 
 <div align="left">
 
@@ -345,31 +367,7 @@ STEP4.구글에서 연락하는 방법
 
 
 
-3\)연락처 이메일주소 : 회사 도메인과 동일한 메일주소를 입력하며, 지금 등록하는 이메일주소와는 달라야 합니다.
-
-예)스윙투앱 도메인: swing2app.co.kr / 이메일주소: help@swing2app.co.kr
-
-
-
-### STEP5.앱
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9513.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
-
-2\)Google Play에서 수익 창출: 앱으로 수익 창출 계획이 있는지 묻는 질문입니다.
-
-3\)앱 카테고리:다음 유형의 앱을 제출할 계획이 있는지 묻는 질문입니다. \*특별한 경우가 아니면 ‘해당 사항 없음’에 체크해주세요.
-
-4\)\[다음] 선택
-
-​
-
-### STEP6.약관
+### STEP9.약관
 
 <div align="left">
 
@@ -399,7 +397,7 @@ STEP4.구글에서 연락하는 방법
 
 **\[신용카드 또는 체크카드 추가]** 선택해주세요.
 
-\-구글 개발자 등록비 $25 (한화에 따라 33,000\~36,000원)
+\-구글 개발자 등록비 $25 (한화에 따라 33,000\~35,000원)
 
 \-카드만 결제 가능합니다.
 
