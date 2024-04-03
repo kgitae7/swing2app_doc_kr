@@ -49,13 +49,23 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 &#x20;**참고**: 선불카드는 사용할 수 없습니다. 사용할 수 있는 카드 유형은 지역에 따라 다를 수 있음.
 {% endhint %}
 
+{% hint style="info" %}
+조직 개발자 계정을 만들기 전에는 DUNS 넘버를 먼저 등록해주세요.&#x20;
+
+(발행일이 4-5일 소요될 수 있으므로 계정 등록 전 먼저 진행해주세요.)
+
+기업 개발자 등록시에는 이제 DUNS 넘버 등록도 함께 진행되어야 합니다.
+
+[DUNS 넘버 등록 방법 보러가기](https://documentation.swing2app.co.kr/storedeveloper/duns)
+{% endhint %}
+
 
 
 **\*구글 개인 개발자 계정 등록은 아래 매뉴얼 가이드로 확인해주세요**
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+***
 
 ## 1. 구글 로그인 이동
 
@@ -179,45 +189,97 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 계정 기본정보 입력이 완료되었구요,
 
-이제 본결적으로 조직(기관/단체)정보를 입력하는 단계입니다.
+이제  조직(기관/단체)정보를 입력하는 단계입니다.
 
 ​
 
-### STEP1.계정유형
+### STEP1.계정유형 선택
 
-<div align="left">
+<figure><img src="../../.gitbook/assets/play1.PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%959.png" alt=""><figcaption></figcaption></figure>
+기관/단체  - 조직유형을 선택해주세요 \*일반적으로 회사 또는 비즈니스 선택합니다.&#x20;
 
-</div>
+\[시작하기] 선택해주세요.
 
-기관/단체 \[시작하기] 선택해주세요.
 
-​
 
-### STEP2.내 조직
+<figure><img src="../../.gitbook/assets/play2.PNG" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
+조직용 개발자 계정을 만드는데 필요한 항목으로 DUNS 번호, 연락처, 이메일주소, 결제수단을 안내하고 있습니다.
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9510.png" alt=""><figcaption></figcaption></figure>
+내용 확인 후 \[계속] 버튼 선택합니다.
 
-</div>
+\*만약 개인 구글 계정(gmail) 사용중이라면 이미지처럼 해당 메시지가 뜰 수 있어요.&#x20;
 
-1\)조직이름: 실제 회사이름이며 법적 정식 명칭을 입력해주세요.
+회사 이메일주소가 아닐 경우 해당 메시지가 뜨는데 진행에는 전혀 문제가 없으니 \[닫기] 버튼 선택해주세요.&#x20;
 
-2\)조직유형 선택: 네모칸 화살표를 선택해서 맞는 유형을 선택해주세요.
 
-3\)조직 규모: 네모칸 화살표를 선택해서 맞는 유형을 선택해주세요.
 
-4\)조직주소: 항목에 맞게 국가, 시/도, 도시명 기재
+### STEP2.정보 입력
 
-5\)조직 전화번호: 회사 기본 연락처 기재해주세요.\*국가번호 포함 입력 예)+821012345678
+<figure><img src="../../.gitbook/assets/play3.PNG" alt=""><figcaption></figcaption></figure>
 
-(꼭 고객센터 번호가 아니더라도 운영자 개인 핸드폰번호 입력도 가능해요)
+### STEP3.결제 프로필 연결(등록)
 
-6\)조직 웹사이트: 회사에서 운영중인 웹사이트 URL을 입력해주세요. 사이트가 없으면 ‘웹사이트 없음’에 체크해주세요.
+<figure><img src="../../.gitbook/assets/play4.PNG" alt=""><figcaption></figcaption></figure>
 
-주의사항)
+\[결제 프로필 만들기 또는 선택] 버튼 선택
+
+'새 결제 프로필 만들기' 체크 후 \[계속] 버튼 선택
+
+
+
+### STEP4.DUNS 번호 입력
+
+<figure><img src="../../.gitbook/assets/play5.PNG" alt=""><figcaption></figcaption></figure>
+
+발급받은 DUNS 번호 9자리를 등록한 뒤 \[다음] 버튼 선택해주세요.&#x20;
+
+아직 DUNS 넘버 발행을 받지 않았다면, 계정 등록을 잠시 멈추고 번호 등록 먼저 해주세요.&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/storedeveloper/duns" %}
+
+
+
+<figure><img src="../../.gitbook/assets/play6.PNG" alt=""><figcaption></figcaption></figure>
+
+DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동으로 기재됩니다.
+
+만약 세부 주소 등을 수정한다면 해당 화면에서 직접 수정하실 수 있습니다.
+
+모든 내용 입력 후  \[확인] 버튼 선택해주세요.&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/play7.PNG" alt=""><figcaption></figcaption></figure>
+
+결제 프로필 생성이 완료되어, 계정에 추가되었다는 메시지가 뜹니다.
+
+\[확인]버튼 선택해주세요.&#x20;
+
+
+
+### STEP5.조직 인증
+
+<figure><img src="../../.gitbook/assets/play8.PNG" alt=""><figcaption></figcaption></figure>
+
+입력된 정보 확인 후 \[다음]버튼 선택합니다.
+
+
+
+<figure><img src="../../.gitbook/assets/play9.PNG" alt=""><figcaption></figcaption></figure>
+
+1\)조직 규모: 네모칸 화살표를 선택해서 맞는 유형을 선택해주세요.
+
+2\)조직 전화번호: 회사 기본 연락처 기재해주세요. \*국가번호 포함 입력 예)+821012345678
+
+(꼭 회사 번호가 아니더라도 관리자 개인 핸드폰번호 입력도 가능해요)
+
+3\)조직 웹사이트: 회사에서 운영중인 웹사이트 URL을 입력해주세요.&#x20;
+
+사이트가 없으면 ‘웹사이트 없음’에 체크해주세요.
+
+<mark style="color:red;">안내)</mark>
 
 해당 정보는 개발자 프로그램 자격요건에 영향을 미치지 않습니다.
 
@@ -227,57 +289,67 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 
 
-### STEP3.내정보
+<figure><img src="../../.gitbook/assets/play10.PNG" alt=""><figcaption></figcaption></figure>
+
+1\)개발자 전화번호 입력  \*국가번호 포함 입력 예)+821012345678
+
+\*기호, 국가코드, 지역번호 포함합니다.
+
+입력한 번호로 인증번호가 전송됩니다. 인증까지 해야 번호 확인이 완료됩니다.&#x20;
+
+2\)개발자 이메일주소 입력
+
+\*입력한 메일로 인증번호가 전송됩니다. 인증까지 해야 번호 확인이 완료됩니다.&#x20;
+
+3\)동의 체크
+
+4\)다음 버튼 선택
+
+
+
+<figure><img src="../../.gitbook/assets/play11.PNG" alt=""><figcaption></figcaption></figure>
+
+플레이 콘솔 사용 및 안드로이드 앱개발 경험이 있다면 메시지란에 기재해주세요.
+
+아무선 경험이 없다면, 사용한 경험이 없다고 기재하시면 됩니다.
+
+\[다음] 버튼 선택
+
+
+
+
+
+
+
+STEP4.구글에서 연락하는 방법
 
 <div align="left">
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9511.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/play12.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-1\)Play Console 및 Android 환경: Play Console 및 Android를 사용한 경험을 입력합니다.
+​1)담당자 이름 입력
 
-2\)다른 Google 계정: 지금 등록하는 계정 외에 다른 구글 계정으로 Play Console을 이용한 적 있는지를 묻는 항목입니다.
+2\)연락처 이메일주소
 
-\-없을 경우 ‘아니요’ 체크
+\*앞서 등록한 이메일 동일하게 입력시 추가 인증 없이 바로 확인 완료됩니다.&#x20;
 
-\-있다면 “예” 체크
+3\)선호 언어: 한국어 선택 (혹은 국가에 맞게 선택해주세요)
 
-3\)있을 경우만, 다른 구글 이메일 주소 입력 후 인증해주세요. 이메일주소만 확인되면 넘어갑니다.
+4\)연락처 전화번호
 
-4\)\[다음] 버튼 선택
+앞서 등록한 번호와 동일번호로 입력시 추가 인증 없이 바로 확인 완료됩니다.&#x20;
 
-​
+5\)\[다음]버튼 선택합니다.&#x20;
 
-### STEP4.개발자 계정
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9512.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-1\)개발자 계정 이름: 실제 구글 플레이에 표시되는 개발자 이름입니다.
-
-2\)담당자 이름: 해당 계정을 운영하는 담당자 이름 기재, 구글플레이는 표시되지 않습니다.
 
 3\)연락처 이메일주소 : 회사 도메인과 동일한 메일주소를 입력하며, 지금 등록하는 이메일주소와는 달라야 합니다.
 
 예)스윙투앱 도메인: swing2app.co.kr / 이메일주소: help@swing2app.co.kr
 
-4\)이메일 주소 인증 선택
 
-5\)선호언어 선택
-
-6\)연락 전화번호 : 국가번호 기재하여 연락처 기재합니다. 예)+821012345678
-
-7\)전화번호 확인 선택
-
-8\)\[다음] 선택해주세요.
-
-이메일주소, 전화번호 인증이 모두 완료되어야 다음으로 넘어갑니다.
-
-​
 
 ### STEP5.앱
 
@@ -311,7 +383,9 @@ Google 서비스 약관에 동의함 모두 체크해주세요.
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+***
+
+
 
 ## 3.결제하기(계정 등록비 결제)
 
