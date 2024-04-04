@@ -239,7 +239,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ​
 
-### <mark style="color:blue;">**7. 등록수수료 25달러 결제하기: 카드 결제**</mark>&#x20;
+### <mark style="color:blue;">**7.등록수수료 25달러 결제하기: 카드 결제**</mark>&#x20;
 
 구글 개발자 등록비는 카드결제만 이용 가능합니다. \*해외결제 가능한 카드만 가능
 
@@ -265,7 +265,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ​
 
-### <mark style="color:blue;">**8. 결제완료**</mark>
+### <mark style="color:blue;">**8.결제완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3\_20.01.png)
 
@@ -273,7 +273,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ​
 
-### <mark style="color:blue;">**9. 구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+### <mark style="color:blue;">**9.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
 <div align="left">
 
@@ -297,7 +297,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**10. 완료 - 구글 플레이 콘솔 접속**</mark>&#x20;
+### <mark style="color:blue;">**10.완료 - 구글 플레이 콘솔 접속**</mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new3.png)
 
