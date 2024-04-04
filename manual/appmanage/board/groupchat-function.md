@@ -84,7 +84,17 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 6. 사용자 프로필 이미지 생성
+## 6.대화 내용 검색
+
+<figure><img src="../../../.gitbook/assets/그룹채팅-검색.png" alt=""><figcaption></figcaption></figure>
+
+대화 내용을 검색해서, 원하는 검색어를 찾을 수 있습니다.
+
+대화방 상단 '검색' 버튼 선택 후 - 대화 내용 검색어를 입력하면 해당 검색어를 필터링하여 보여줍니다.
+
+
+
+## 7. 사용자 프로필 이미지 생성
 
 <figure><img src="../../../.gitbook/assets/프로필이미지.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +106,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 7.메시지 답장
+## 8.메시지 답장
 
 <figure><img src="../../../.gitbook/assets/답장.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +116,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 8.메시지 읽음 처리 기능
+## 9.메시지 읽음 처리 기능
 
 <figure><img src="../../../.gitbook/assets/메시지-읽음.png" alt=""><figcaption></figcaption></figure>
 
@@ -120,7 +130,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 9.메시지 수정, 삭제 기능 추가
+## 10.메시지 수정, 삭제 기능 추가
 
 <figure><img src="../../../.gitbook/assets/수정,삭제.png" alt=""><figcaption></figcaption></figure>
 
@@ -132,7 +142,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 10.메시지 신고하기
+## 11.메시지 신고하기
 
 <figure><img src="../../../.gitbook/assets/신고.png" alt=""><figcaption></figcaption></figure>
 
@@ -148,7 +158,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 11.이모티콘, 파일 첨부 버튼
+## 12.이모티콘, 파일 첨부 버튼
 
 <figure><img src="../../../.gitbook/assets/이모티콘,파일첨부.png" alt=""><figcaption></figcaption></figure>
 
@@ -160,7 +170,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 12.이미지 보기, 다운로드 기능
+## 13.이미지 보기, 다운로드 기능
 
 <figure><img src="../../../.gitbook/assets/이미지-다운.png" alt=""><figcaption></figcaption></figure>
 
@@ -172,7 +182,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 
 
-## 13.GIF 움짤 이미지 등록
+## 14.GIF 움짤 이미지 등록
 
 <figure><img src="../../../.gitbook/assets/이미지-움짤.gif" alt=""><figcaption></figcaption></figure>
 
