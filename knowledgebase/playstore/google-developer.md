@@ -4,17 +4,23 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 # 구글 개발자-개인 계정 만들기
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
-
-구글(지메일) 계정이 있어요!, 가지고 있는 계정으로 개발자 등록할게요
-
-**사용하는 구글 gmail 계정이 있다면, 해당 계정을 개발자로 연동할 수 있습니다.**
+***
 
 
 
-구글(지메일) 계정이 없어요. 계정을 새로 만든 후 개발자 등록할게요
 
-**계정이 없거나, 개발자용 계정을 새로 만들어야 한다면 지메일 계정을 새로 등록한 뒤→개발자 계정을 등록할 수 있습니다.**&#x20;
+
+구글(지메일) 계정이 있어요, 가지고 있는 계정으로 개발자 등록할게요!
+
+**STEP1.**[**사용하는 구글 계정으로 개발자 계정 만들기** ](google-developer.md#step1.-gmail)
+
+
+
+구글(지메일) 계정이 없어요. 계정을 새로 만든 후 개발자 등록할게요!
+
+**STEP2**.[**구글 계정 새로 만들어서 개발자 계정 등록하기**](google-developer.md#step1.-gmail)
+
+계정이 없거나, 개발자용 계정을 새로 만들어야 한다면 지메일 계정을 새로 등록한 뒤→개발자 계정을 등록할 수 있습니다.&#x20;
 
 
 
@@ -67,7 +73,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP1. 사용중인 gmail(구글)계정으로 만들기**&#x20;
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP1. 사용중인 구글 계정으로 만들기**&#x20;
 
 
 
@@ -405,15 +411,169 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 위의 개발자 계정 등록방법과 동일합니다.
 
-[https://play.google.com/console/developers](https://play.google.com/console/developers)
+{% embed url="https://play.google.com/console/developers" %}
+
+### <mark style="color:blue;">**3. 시작: 개발자 계정 만들기**</mark>
+
+<figure><img src="../../.gitbook/assets/개인play1.PNG" alt=""><figcaption></figcaption></figure>
+
+개인 \[시작하기] 선택합니다.
 
 
 
+<figure><img src="../../.gitbook/assets/개인play2.PNG" alt=""><figcaption></figcaption></figure>
+
+개발자 계정을 만드는데 필요한 항목 확인 후 \[계속] 버튼 선택합니다.
 
 
 
+<figure><img src="../../.gitbook/assets/개인play3.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**3.등록 수수료 결제하기**</mark>
+개발자 이름 입력 후 \[다음] 버튼 선택
+
+
+
+### <mark style="color:blue;">4.결제프로필 만들기</mark>
+
+<figure><img src="../../.gitbook/assets/개인play4.PNG" alt=""><figcaption></figcaption></figure>
+
+\[결제 프로필 만들기 또는 선택] 버튼 선택 - 새결제 프로필 만들기 선택 - \[계속] 버튼 선택합니다.&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/개인play5.PNG" alt=""><figcaption></figcaption></figure>
+
+주소 입력
+
+국가 , 도/시, 시/군/구,  상세 주소 입력, 이름 입력, 우편번호 입력 후 \[저장] 버튼 선택
+
+{% hint style="danger" %}
+**주의사항**
+
+개인 계정을 만들 때 주소는 반드시 인증이 가능한 주소로 입력해주세요. \*본인 집주소 기재
+
+가입 후 구글은 본인 인증을 위해 사용자 이름과 주소가 기재된 서류를 요청할 수 있습니다.
+
+신용카드 내역서 혹은 아파트 관리비 내역서 혹은 요금 고지서 등
+
+따라서 본인 이름으로 가입을 하게 될 경우 집 주소로 등록하는 것이 좋습니다.
+{% endhint %}
+
+
+
+<figure><img src="../../.gitbook/assets/개인play6.PNG" alt=""><figcaption></figcaption></figure>
+
+주소 확인 완료 후 \[확인] 버튼 선택
+
+
+
+<figure><img src="../../.gitbook/assets/개인play7.PNG" alt=""><figcaption></figcaption></figure>
+
+본인 인증 진행 \[다음] 버튼 선택
+
+
+
+<figure><img src="../../.gitbook/assets/개인play8.PNG" alt=""><figcaption></figcaption></figure>
+
+개발자이메일주소 입력
+
+\*입력한 메일로 인증번호가 전송됩니다. 인증까지 해야 번호 확인이 완료됩니다.
+
+다음 버튼 선택 합니다.&#x20;
+
+
+
+### <mark style="color:blue;">5.내 정보 입력</mark>
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/개인play9.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+1\)플레이 콘솔 사용 및 안드로이드 앱개발 경험이 있다면 메시지란에 기재해주세요.
+
+아무선 경험이 없다면, 사용한 경험이 없다고 기재하시면 됩니다.
+
+2\)지난 6개월 동안다른 구글 계정을 사용하여 구글 플레이 콘솔에 접속한 적이 있다면 기재해주세요.
+
+사용한 적이 없다면 '아니요'에 체크해주세요.
+
+3\)웹사이트
+
+운영중인 사이트가 있을 경우 URL을 입력해주세요.
+
+없으면 "운영하는 웹사이트가 없음"에 체크하셔도 됩니다.&#x20;
+
+4\)\[다음] 버튼 선택 합니다.
+
+
+
+### <mark style="color:blue;">6.앱 정보</mark>
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
+
+2\)Google Play에서 수익 창출: 앱으로 수익 창출 계획이 있는지 묻는 질문입니다.
+
+3\)앱 카테고리:다음 유형의 앱을 제출할 계획이 있는지 묻는 질문입니다.
+
+\*특별한 경우가 아니면 ‘해당 사항 없음’에 체크해주세요.
+
+4\)\[다음] 선택
+
+
+
+### <mark style="color:blue;">7.구글에서 연락하는 방법</mark> <a href="#step8" id="step8"></a>
+
+<div align="left">
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FowDar2A6zhHK8YBvVb52%252Fplay12.PNG%3Falt=media%26token=1c05bdbd-422b-4f33-9d4b-5f49594f25f0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=405c9c40275ba13c5b8a3643c9541a5013d6f50d3cd239153008182342cd3148" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+​1)담당자 이름 입력
+
+2\)연락처 이메일주소
+
+\*앞서 등록한 이메일 동일하게 입력시 추가 인증 없이 바로 확인 완료됩니다.
+
+3\)선호 언어: 한국어 선택 (혹은 국가에 맞게 선택해주세요)
+
+4\)연락처 전화번호
+
+앞서 등록한 번호와 동일번호로 입력시 추가 인증 없이 바로 확인 완료됩니다.
+
+5\)\[다음]버튼 선택합니다.
+
+
+
+### <mark style="color:blue;">8.약관</mark> <a href="#step9" id="step9"></a>
+
+<div align="left">
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2Fwp.swing2app.co.kr%2Fwp-content%2Fuploads%2F2023%2F03%2F%25EA%25B3%2584%25EC%25A0%2595%25EA%25B2%25B0%25EC%25A0%259C1.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=86092a56b33a215c6d3bd4af24a4a388b83f04035e60ddfdbefffa363b1cdf33" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+약관 내용 체크해주세요.
+
+\[계정 생성 및 결제] 선택해주세요.
+
+{% hint style="danger" %}
+계정등록시 본인여부 확인을 위해 신분증을 제출하라는 메시지를 받을 수 있습니다.
+
+본인 인증이 완료되어야 계정 등록이 완료되며, 계정 수수료를 결제했는데 본인 확인이 불가할 경우는 수수료 환불이 불가하오니 꼭 유념해주세요!
+{% endhint %}
+
+​
+
+### <mark style="color:blue;">**9.등록 수수료 결제하기**</mark>
 
 <div align="left">
 
@@ -445,7 +605,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**4.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+### <mark style="color:blue;">**10.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
 <div align="left">
 
@@ -469,7 +629,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**5.완료 - 구글 플레이 콘솔 접속**</mark>
+### <mark style="color:blue;">**11.완료 - 구글 플레이 콘솔 접속**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new3.png)
 
