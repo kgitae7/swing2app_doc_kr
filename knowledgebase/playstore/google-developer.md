@@ -6,6 +6,18 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
+구글(지메일) 계정이 있어요!, 가지고 있는 계정으로 개발자 등록할게요
+
+**사용하는 구글 gmail 계정이 있다면, 해당 계정을 개발자로 연동할 수 있습니다.**
+
+
+
+구글(지메일) 계정이 없어요. 계정을 새로 만든 후 개발자 등록할게요
+
+**계정이 없거나, 개발자용 계정을 새로 만들어야 한다면 지메일 계정을 새로 등록한 뒤→개발자 계정을 등록할 수 있습니다.**&#x20;
+
+
+
 {% hint style="info" %}
 **★구글 개발자 계정이란?**
 
@@ -43,19 +55,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 &#x20;**참고**: 선불카드는 사용할 수 없습니다. 사용할 수 있는 카드 유형은 지역에 따라 다를 수 있음.
 {% endhint %}
 
-{% hint style="info" %}
-**-사용하는 구글 gmail 계정이 있다면, 해당 계정을 개발자로 연동할 수 있구요.**
-
-**-계정이 없거나, 개발자용 계정을 새로 만들어야 한다면 지메일 계정을 새로 등록한 뒤→개발자 계정을 등록할 수 있습니다.**&#x20;
-{% endhint %}
-
 
 
 매뉴얼을 통해서 기존 구글 계정(지메일)로 개발자 계정을 만드는 방법과
 
 구글 계정을 새로 만들어서 개발자 계정을 등록하는 방법 2가지 내용을 확인해주세요.
-
-
 
 **\*구글 비즈니스(조직용) 개발자 계정 등록은 아래 매뉴얼 가이드로 확인해주세요.**
 
@@ -315,7 +319,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
 
-**gmail 계정이 없거나 개발자용 계정을 새로 만들어야 한다면! 구글 계정 등록 사이트에서 계정을 먼저 만들어주세요.**
+
+
+**gmail 계정이 없거나 개발자용 계정을 새로 만들어야 한다면!**&#x20;
+
+**구글 계정 등록 사이트에서 계정을 먼저 만들어주세요.**
 
 \*지메일 계정은 아래 링크로 접속해서, 새로 만들어주세요.&#x20;
 
@@ -323,61 +331,75 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**1. 계정만들기**</mark>
+### <mark style="color:blue;">**1.구글 계정만들기**</mark>
+
+<figure><img src="../../.gitbook/assets/계정1 (1).png" alt=""><figcaption></figcaption></figure>
+
+계정 만들기 선택한 뒤&#x20;
+
+1\) 성, 이름 입력 후 다음
+
+
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1.png" alt="">
+<figure><img src="../../.gitbook/assets/계정2 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-계정 만들기 선택한 뒤 – 본인 계정 선택 – 다음 선택
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D6_20.01.png" alt=""><figcaption></figcaption></figure>
-
-1\) 성, 이름 입력
-
-2\) 이메일주소 입력
-
-3\) 비밀번호 입력
-
-4\) 다음 선택
+2\) 생년월일, 성별 입력 후 다음
 
 
 
-### <mark style="color:blue;">**2. 전화번호 인증**</mark>
+<div align="left">
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D7\_20.01.png)
+<figure><img src="../../.gitbook/assets/계정3 (1).png" alt=""><figcaption></figcaption></figure>
 
-구글 계정을 만든 전화번호를 입력하여 인증번호를 받아주세요.
+</div>
 
-인증 코드 입력 후 \[확인] 선택
-
-​
-
-### <mark style="color:blue;">**3. 개인정보 입력**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D8\_20.01.png)
-
-1\) 전화번호 입력
-
-2\) 복구 이메일 주소 입력 (해당 메일주소 외에 이메일 복구시 필요한 이메일주소 입력)
-
-3\) 생년월일 입력
-
-4\) 성별 선택
-
-5\) \[다음] 버튼 선택
-
-**​**
-
-### <mark style="color:blue;">**4. 구글 계정 만들기 완료**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D9\_20.01.png)
+3\)새로운 Gmail 계정을 만들어주세요.  다음 선택
 
 
 
-### <mark style="color:blue;">**5. 구글 플레이 콘솔 사이트 이동**</mark>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/계정4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+4\) 비밀번호 입력 후 다음 선택
+
+
+
+<figure><img src="../../.gitbook/assets/계정5.png" alt=""><figcaption></figcaption></figure>
+
+5\)휴대전화 번호 입력하면 문자 메시지로 인증코드가 전송됩니다.
+
+6자리 인증번호를 입력 후 다음 선택해주세요.&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/계정6.png" alt=""><figcaption></figcaption></figure>
+
+6\)복구 이메일 주소 입력 후 다음 선택
+
+
+
+<figure><img src="../../.gitbook/assets/계정7.png" alt=""><figcaption></figcaption></figure>
+
+7\)계정 정보 검토 확인 후 다음 선택
+
+
+
+<figure><img src="../../.gitbook/assets/계정8.png" alt=""><figcaption></figcaption></figure>
+
+8\)개인 정보 보호 및 약관 내용 동의 체크한 뒤 - 계정 만들기 선택하면 완료됩니다.&#x20;
+
+계정등록이 완료되면 이제 구글 플레이 콘솔로 이동하여 개발자 등록을 완료해주세요.
+
+
+
+### <mark style="color:blue;">**2.구글 플레이 콘솔 사이트 이동**</mark>
 
 계정이 다 만들어졌다면 [**구글 플레이 콘솔 사이트**](https://play.google.com/console/developers)로 이동하여 개발자 등록을 완료해주세요.
 
@@ -387,7 +409,11 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**등록 수수료 결제하기**</mark>
+
+
+
+
+### <mark style="color:blue;">**3.등록 수수료 결제하기**</mark>
 
 <div align="left">
 
@@ -419,7 +445,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**6. 구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+### <mark style="color:blue;">**4.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
 <div align="left">
 
@@ -443,7 +469,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**7. 완료 - 구글 플레이 콘솔 접속**</mark>
+### <mark style="color:blue;">**5.완료 - 구글 플레이 콘솔 접속**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new3.png)
 
