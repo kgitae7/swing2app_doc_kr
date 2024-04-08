@@ -30,10 +30,20 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 구글 콘솔에서 25달러 등록수수료를 결제한 계정이 개발자 계정이 됩니다\~!
 {% endhint %}
 
+{% hint style="success" %}
+**DUNS 넘버 있어야 합니다!**
+
+조직 개발자 계정을 만들기 전에는 DUNS 넘버를 먼저 등록해주세요.&#x20;
+
+(발행일이 4-5일 소요될 수 있으므로 계정 등록 전 먼저 진행해주세요.)
+
+기업 개발자 등록시에는 이제 DUNS 넘버 등록도 함께 진행되어야 합니다.
+
+[DUNS 넘버 등록 방법 보러가기](https://documentation.swing2app.co.kr/storedeveloper/duns)
+{% endhint %}
+
 {% hint style="warning" %}
 <mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
-
-
 
 1. Google Play 개발자 계정을 만들려면 만 18세 이상이어야 합니다.&#x20;
 2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다.                                                                              이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
@@ -51,16 +61,6 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 * Visa Electron(미국 이외의 지역만 해당)
 
 &#x20;**참고**: 선불카드는 사용할 수 없습니다. 사용할 수 있는 카드 유형은 지역에 따라 다를 수 있음.
-{% endhint %}
-
-{% hint style="info" %}
-조직 개발자 계정을 만들기 전에는 DUNS 넘버를 먼저 등록해주세요.&#x20;
-
-(발행일이 4-5일 소요될 수 있으므로 계정 등록 전 먼저 진행해주세요.)
-
-기업 개발자 등록시에는 이제 DUNS 넘버 등록도 함께 진행되어야 합니다.
-
-[DUNS 넘버 등록 방법 보러가기](https://documentation.swing2app.co.kr/storedeveloper/duns)
 {% endhint %}
 
 
