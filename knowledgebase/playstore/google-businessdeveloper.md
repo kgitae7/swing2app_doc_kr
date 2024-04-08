@@ -2,7 +2,7 @@
 description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는 방법
 ---
 
-# 구글 개발자-비즈니스 계정 만들기
+# 구글 개발자-조직 계정 만들기
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -67,121 +67,91 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ***
 
-## 1. 구글 로그인 이동
+## 1. 구글 계정 만들기
 
-\*지메일 계정 만들기: [http://accounts.google.co.kr/](http://accounts.google.co.kr/)
+[https://accounts.google.com/](https://accounts.google.com/)  계정 만들기
 
-<div align="left">
+{% hint style="success" %}
+**사용 중인 개인 계정(지메일)으로 개발자 계정 만들어도 되나요?**
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%951.png" alt=""><figcaption></figcaption></figure>
+\=네 사용중인 구글 계정으로 구글 개발자 조직 계정 등록하셔도 됩니다.&#x20;
 
-</div>
+계정이 있을 경우는 바로 2. Play Console 개발자 계정 만들기 챕터로 이동해서 진행해주세요.
 
-계정 만들기 선택 – 비즈니스 관리 계정 선택 후 \[다음]버튼 선택해주세요.
-
-
-
-### STEP1.계정 정보 입력
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%952.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-1\)계정에 사용될 성, 이름 입력 (성이나 이름중 하나만 입력해도 됩니다.)
-
-2\)이메일주소 입력 \* 회사에서 사용 중인 실제 메일주소 입력
-
-3\)비밀번호 입력
-
-4\)\[다음] 버튼 선택
-
-회사 메일주소 사용을 하지 않는다면, ‘새로운 Gmail 주소 만들기’ ​선택하여 새로 만들 수도 있습니다.
-
-​
-
-### STEP2.이메일 주소 인증
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%953.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-위에서 입력한 메일주소로 인증코드가 발송됩니다.
-
-코드 번호 입력 후 \[다음] 버튼 선택해주세요.
-
-​
-
-### STEP3.전화번호 등 기본정보 입력
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%954.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-1\)핸드폰 번호 입력 \*여기서는 앞에 국가번호 표시되어 있으니 국가번호 제외하고 번호만 입력해주세요.
-
-2\)생년월일 선택
-
-3\)성별 선택
-
-4\)\[다음] 버튼 선택
-
-선택사항이라고 하지만 모든 항목 입력해야 다음으로 넘어갑니다.
-
-전화번호는 인증번호를 받아야 하니 실제 계정 관리자 분의 핸드폰번호 입력해주세요.
-
-​
-
-### STEP4.전화번호 인증
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%955.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-입력한 전화번호로 인증번호 \[보내기] 선택해주세요.
-
-​
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%956.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-핸드폰으로 들어온 인증번호(코드)입력 후, \[확인] 버튼 선택해주세요.
+그러나 조직용 계정은 아무래도 다른 직원들이 같이 공유하거나 회사 내에서 이용할 수 있는 계정이므로 아무래도 해당 기업(업체)용으로 계정을 새로 하나 만들어서 사용하는 것이 좋습니다.
+{% endhint %}
 
 
 
-<div align="left">
+\*지메일 계정은 아래 링크로 접속해서, 새로 만들어주세요.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%957.png" alt="">
+[https://accounts.google.com/](https://accounts.google.com/)
 
-</div>
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252Fvk41TLwv1GYhq1ixQH9V%252F%25EA%25B3%2584%25EC%25A0%25951.png%3Falt=media%26token=5a83c482-73c7-4f9c-bc2a-b89883bc1ca6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5aaf28b1fccb88e2de4b44eeca2b9db4c374efa9f521124bf7b059a88e0e8380" alt=""><figcaption></figcaption></figure>
 
-\[건너뛰기] 선택
+계정 만들기 선택한 뒤
+
+1\) 성, 이름 입력 후 다음 선택
 
 
 
-### STEP5.계정만들기 선택
+{% hint style="warning" %}
+그런데
 
-<div align="left">
+계정 새로 만들기에서 아래와 같은 페이지가 뜬다면 계정 만들기 - "개인용"으로 선택하고 진행해주세요.
+{% endhint %}
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%958.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/계정9.png" alt=""><figcaption></figcaption></figure>
 
-</div>
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FGJIz4WC8ZTwDiBAnNx80%252F%25EA%25B3%2584%25EC%25A0%25952.png%3Falt=media%26token=507ebed9-a33b-43de-80a6-4425b165085f&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e3c6aeb0168d106ff14e102b1d998b409cbd29300c0ec19549b608251e735634" alt=""><figcaption></figcaption></figure>
 
-Google 서비스 약관에 동의함 모두 체크해주세요.
+2\) 생년월일, 성별 입력 후 다음 선택
 
-\[계정 만들기] 선택해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FRM0qyYLLINYUHdlaAdRp%252F%25EA%25B3%2584%25EC%25A0%25953.png%3Falt=media%26token=cebeda53-3313-40c5-bc1f-00f2925ec17f&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=46eeaab07f7a4cc693c16646950b7c938fec8b17f55ff9ccf8e7e5b7f8901a37" alt=""><figcaption></figcaption></figure>
+
+3\)새로운 Gmail 계정을 만들어주세요. 다음 선택
+
+
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FiuE3gi71v6obYytMnPH0%252F%25EA%25B3%2584%25EC%25A0%25954.png%3Falt=media%26token=9b90234a-c1b0-4a86-a571-651a67b548bd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=64590422f5bdd5511561771778b1cb1da0a5c61e80f1078737015588506bff31" alt=""><figcaption></figcaption></figure>
+
+4\) 비밀번호 입력 후 다음 선택
+
+
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FBAgBHpseLwqL9EYFlQXu%252F%25EA%25B3%2584%25EC%25A0%25955.png%3Falt=media%26token=ed5a5467-31f7-4156-a91c-355d1f50aef5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=32a3c9068d7ad011c70d6201097a2f9e69668468db2e9ff72c7694b684e31033" alt=""><figcaption></figcaption></figure>
+
+5\)휴대전화 번호 입력하면 문자 메시지로 인증코드가 전송됩니다.
+
+6자리 인증번호를 입력 후 다음 선택해주세요.
+
+
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252Fek1KOmEjNqfe79oVrS5d%252F%25EA%25B3%2584%25EC%25A0%25956.png%3Falt=media%26token=2ac47658-f6ec-4083-be27-a07d6c2e7376&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7cc1b5bd8e569595ab079d22c237173b19b504a8088b322aafdd9ccc0b1a9d91" alt=""><figcaption></figcaption></figure>
+
+6\)복구 이메일 주소 입력 후 다음 선택
+
+
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FKLcjB1pqpVeGq0aRSrAZ%252F%25EA%25B3%2584%25EC%25A0%25957.png%3Falt=media%26token=045bb72e-f830-4b3a-898b-e37a12239d30&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=20e9eb74ba2a3daca754aa01f8ea577f7e75c51976cf88ed27694ff8d73ff187" alt=""><figcaption></figcaption></figure>
+
+7\)계정 정보 검토 확인 후 다음 선택
+
+
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FebBURrdkpQ0vkrq6oxpC%252F%25EA%25B3%2584%25EC%25A0%25958.png%3Falt=media%26token=be9be3d3-bb15-4dfa-a0b3-cf6fa40e05cc&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=19a2c19be978f2ed1d2acaed911e9eeb3cf31fe2284ac7772a865ac579e954a8" alt=""><figcaption></figcaption></figure>
+
+8\)개인 정보 보호 및 약관 내용 동의 체크한 뒤 - 계정 만들기 선택하면 완료됩니다.
+
+계정등록이 완료되면 이제 구글 플레이 콘솔로 이동하여 개발자 등록을 완료해주세요.
+
+
+
+***
+
+
 
 ## 2. Play Console 개발자 계정 만들기
 
