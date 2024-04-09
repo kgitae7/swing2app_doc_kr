@@ -195,6 +195,7 @@
     * [앱스토어 리뷰 관리](manual/appmanage/service/appstore\_review.md)
     * [애드몹 플러그인 설정](manual/appmanage/service/admob-pluginsettings.md)
     * [링크마법사](manual/appmanage/service/linkeditor.md)
+    * [브랜드관리 - 라벨 사용](manual/appmanage/service/brandsetting.md)
   * [푸시&회원 메뉴](manual/appmanage/pushmember/README.md)
     * [푸시 발송하기](manual/appmanage/pushmember/push.md)
     * [푸시 알림 방식 확인](manual/appmanage/pushmember/pushnotification.md)
@@ -448,3 +449,4 @@
 ***
 
 * [Apple Developer Enterprise Program](apple-developer-enterprise-program.md)
+* [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
