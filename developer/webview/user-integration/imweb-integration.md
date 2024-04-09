@@ -24,13 +24,14 @@ description: 아임웹(imweb.me) 웹사이트에 간단한 코드삽입으로 �
 
 2번 Footer Code 항목에 아래의 코드 삽입후 저장
 
+{% code lineNumbers="true" %}
 ```html
 <script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
 <script>
   if( $('.profile-area .member-info .email-info').length > 0 && $('.profile-area .member-info .email-info').text() != '' )
   {
-	  swingWebViewPlugin.app.login.doAppLogin($('.profile-area .member-info .email-info').text(),$('.profile-area .member-info .email-info').text());
-      console.log('login user id : ' + $('.profile-area .member-info .email-info').text());
+	swingWebViewPlugin.app.login.doAppLogin($('.profile-area .member-info .email-info').text(),$('.profile-area .member-info .email-info').text());
+        console.log('login user id : ' + $('.profile-area .member-info .email-info').text());
   }
   else
   {
@@ -40,6 +41,7 @@ description: 아임웹(imweb.me) 웹사이트에 간단한 코드삽입으로 �
 
 </script>
 ```
+{% endcode %}
 
 ###
 
