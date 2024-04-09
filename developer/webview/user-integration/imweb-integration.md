@@ -18,7 +18,7 @@ description: 아임웹(imweb.me) 웹사이트에 간단한 코드삽입으로 �
 
 ### 1.1 아임웹(imweb.me) Dashboard 이동 후 연동코드 삽입
 
-
+관리콘솔 -> 환경설정 -> SEO(검색엔진최적화) -> Footer Code 항목에 코드 삽입
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption><p>아임웹 콘솔화면</p></figcaption></figure>
 
