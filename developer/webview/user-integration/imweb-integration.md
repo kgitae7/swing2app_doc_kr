@@ -30,13 +30,13 @@ description: 아임웹(imweb.me) 웹사이트에 간단한 코드삽입으로 �
 <script>
   if( $('.profile-area .member-info .email-info').length > 0 && $('.profile-area .member-info .email-info').text() != '' )
   {
-	swingWebViewPlugin.app.login.doAppLogin($('.profile-area .member-info .email-info').text(),$('.profile-area .member-info .email-info').text());
-        console.log('login user id : ' + $('.profile-area .member-info .email-info').text());
+      swingWebViewPlugin.app.login.doAppLogin($('.profile-area .member-info .email-info').text(),$('.profile-area .member-info .email-info').text());
+      console.log('login user id : ' + $('.profile-area .member-info .email-info').text());
   }
   else
   {
-	swingWebViewPlugin.app.login.doAppLogout(); 
-	console.log('logout');
+        swingWebViewPlugin.app.login.doAppLogout(); 
+        console.log('logout');
   }
 
 </script>
