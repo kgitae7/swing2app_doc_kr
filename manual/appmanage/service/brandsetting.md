@@ -40,7 +40,7 @@ description: 브랜드 관리 - 라벨 사용 매뉴얼
 
 <figure><img src="../../../.gitbook/assets/브랜드관리7.png" alt=""><figcaption></figcaption></figure>
 
-앱운영 - 서비스관리 - 콘솔 액세스 관리 - 브랜드관리 메뉴로 이동합니다.
+[앱운영 - 서비스관리 - 콘솔 액세스 관리 - 브랜드관리](https://www.swing2app.co.kr/view/brand\_setting\_view) 메뉴로 이동합니다.
 
 <mark style="color:red;">"일반 프로토타입 앱" - "프리미엄 이용권" 사용자만 이용이 가능한 기능입니다.</mark>&#x20;
 
