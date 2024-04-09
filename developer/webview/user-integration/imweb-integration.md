@@ -35,8 +35,8 @@ description: 아임웹(imweb.me) 웹사이트에 간단한 코드삽입으로 �
   }
   else
   {
-        swingWebViewPlugin.app.login.doAppLogout(); 
-        console.log('logout');
+      swingWebViewPlugin.app.login.doAppLogout(); 
+      console.log('logout');
   }
 
 </script>
