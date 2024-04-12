@@ -195,6 +195,7 @@
     * [앱스토어 리뷰 관리](manual/appmanage/service/appstore\_review.md)
     * [애드몹 플러그인 설정](manual/appmanage/service/admob-pluginsettings.md)
     * [링크마법사](manual/appmanage/service/linkeditor.md)
+    * [접근 권한 제어](manual/appmanage/service/accessmanagement.md)
     * [브랜드관리 - 라벨 사용](manual/appmanage/service/brandsetting.md)
   * [푸시&회원 메뉴](manual/appmanage/pushmember/README.md)
     * [푸시 발송하기](manual/appmanage/pushmember/push.md)
