@@ -196,6 +196,7 @@
     * [브랜드관리 - 라벨 사용](manual/appmanage/service/brandsetting.md)
   * [푸시&회원 메뉴](manual/appmanage/pushmember/README.md)
     * [푸시 발송하기](manual/appmanage/pushmember/push.md)
+    * [SMS 발송 이용방법](manual/appmanage/pushmember/sms.md)
     * [푸시 알림 방식 확인](manual/appmanage/pushmember/pushnotification.md)
     * [게시물 푸시발송하기](manual/appmanage/pushmember/board-push.md)
     * [푸시 알림 확인 후 메시지 표시](manual/appmanage/pushmember/pushtip.md)
@@ -453,3 +454,6 @@
 
 * [Apple Developer Enterprise Program](apple-developer-enterprise-program.md)
 * [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
+* [앱 등록 기기수](undefined-1.md)
+* [앱 고급 관리](undefined-2.md)
+* [앱 신고 관리](undefined-3.md)
