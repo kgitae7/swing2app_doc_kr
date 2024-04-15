@@ -41,8 +41,6 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 {% hint style="warning" %}
 <mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
 
-
-
 1. Google Play 개발자 계정을 만들려면 만 18세 이상이어야 합니다.&#x20;
 2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다.                                                                              이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
 3. 본인 인증이 가능해야 합니다. 경우에 따라 구글에서 본인 법적 이름으로 발급된 유효한 국가 발급 신분증과 신용카드가 모두 요구할 수 있습니다.
@@ -50,7 +48,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 5. 본인 인증이 되지 않거나, 잘못된 정보를 제공하는 경우 등록 수수료가 환불되지 않습니다.
 6. 아래 목록에 있는 신용카드 또는 체크카드로 결제할 수 있습니다.
 
-&#x20;&#x20;
+
 
 * Mastercard
 * Visa
@@ -207,11 +205,9 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">5.구글에서 연락하는 방법</mark> <a href="#step8" id="step8"></a>
 
-<div align="left">
 
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FowDar2A6zhHK8YBvVb52%252Fplay12.PNG%3Falt=media%26token=1c05bdbd-422b-4f33-9d4b-5f49594f25f0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=405c9c40275ba13c5b8a3643c9541a5013d6f50d3cd239153008182342cd3148" alt=""><figcaption></figcaption></figure>
 
-</div>
+<figure><img src="../../.gitbook/assets/play12 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ​1)담당자 이름 입력
 
@@ -231,11 +227,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">6.약관</mark> <a href="#step9" id="step9"></a>
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2Fwp.swing2app.co.kr%2Fwp-content%2Fuploads%2F2023%2F03%2F%25EA%25B3%2584%25EC%25A0%2595%25EA%25B2%25B0%25EC%25A0%259C1.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=86092a56b33a215c6d3bd4af24a4a388b83f04035e60ddfdbefffa363b1cdf33" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/계정결제1.png" alt=""><figcaption></figcaption></figure>
 
 약관 내용 체크해주세요.
 
@@ -531,11 +523,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">7.구글에서 연락하는 방법</mark> <a href="#step8" id="step8"></a>
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FowDar2A6zhHK8YBvVb52%252Fplay12.PNG%3Falt=media%26token=1c05bdbd-422b-4f33-9d4b-5f49594f25f0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=405c9c40275ba13c5b8a3643c9541a5013d6f50d3cd239153008182342cd3148" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/play12 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ​1)담당자 이름 입력
 
@@ -555,11 +543,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">8.약관</mark> <a href="#step9" id="step9"></a>
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2Fwp.swing2app.co.kr%2Fwp-content%2Fuploads%2F2023%2F03%2F%25EA%25B3%2584%25EC%25A0%2595%25EA%25B2%25B0%25EC%25A0%259C1.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=86092a56b33a215c6d3bd4af24a4a388b83f04035e60ddfdbefffa363b1cdf33" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/계정결제1.png" alt=""><figcaption></figcaption></figure>
 
 약관 내용 체크해주세요.
 
