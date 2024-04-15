@@ -187,8 +187,11 @@
     * [앱 정책관리- 회원가입 완료 메시지 설정](manual/appmanage/service/subscription-completion-message.md)
     * [앱 이용약관, 개인정보취급방침](manual/appmanage/service/terms-of-app.md)
     * [비공개 앱만들기](manual/appmanage/service/private-app.md)
+    * [앱 등록 기기수](manual/appmanage/service/appdevice.md)
+    * [앱 고급 관리](manual/appmanage/service/advanced.md)
     * [앱 문자열 관리](manual/appmanage/service/app-text.md)
     * [엡에 셋팅된 문구(메시지) 수정 방법](manual/appmanage/service/edit-text.md)
+    * [앱 신고 관리](manual/appmanage/service/report.md)
     * [앱스토어 리뷰 관리](manual/appmanage/service/appstore\_review.md)
     * [애드몹 플러그인 설정](manual/appmanage/service/admob-pluginsettings.md)
     * [링크마법사](manual/appmanage/service/linkeditor.md)
@@ -454,6 +457,3 @@
 
 * [Apple Developer Enterprise Program](apple-developer-enterprise-program.md)
 * [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
-* [앱 등록 기기수](undefined-1.md)
-* [앱 고급 관리](undefined-2.md)
-* [앱 신고 관리](undefined-3.md)
