@@ -8,6 +8,18 @@ description: SMS 발송 이용방법- 문자 보내기
 
 
 
+SMS 발송 티켓을 구매한 경우, 앱 사용자들에게 문자를 보낼 수 있습니다.&#x20;
+
+[푸시 발송하기 메뉴- SMS 발송](https://www.swing2app.co.kr/view/push) 에서 이용이 가능하구요.
+
+<figure><img src="../../../.gitbook/assets/문자보내기.png" alt=""><figcaption></figcaption></figure>
+
+매뉴얼을 통해 SMS 발송 티켓 구매 방법과 SMS 문자 보내는 방법을 확인해주세요.&#x20;
+
+***
+
+
+
 {% hint style="info" %}
 **1,000건 SMS 발송권 티켓이란?**
 
@@ -46,25 +58,13 @@ SMS발송권은 총 1,000건이 제공이 되요.
 
 
 
-## **STEP1. SMS 발송 티켓 구매하기**
-
-
-
-SMS 발송 티켓 이용 첫번째 방법인 아이디 형태: 전화번호 설정에 대해서 알려드릴게요.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/1000%EB%A9%94%EC%8B%9C%EC%A7%80%EA%B5%AC%EB%A7%A41\_20.06.png)
-
-<mark style="color:blue;">**★ 회원가입 아이디를 ‘전화번호’로 설정하기 위해서는 \[1000건 SMS발송권] 상품을 구매해야 합니다.**</mark>
-
-상품을 구매하지 않을 경우 아이디: 전화번호는 선택되지 않도록 셋팅해놓았어요!
-
-
+## **1. SMS 발송 티켓 구매하기**
 
 <figure><img src="../../../.gitbook/assets/SMS티켓.png" alt=""><figcaption></figcaption></figure>
 
 [앱운영→결제/이용권 구매→ 플러그인 추가 상품 구매](https://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin) 이동
 
-**\[1,000건 SMS발송 티켓(20,000원)]**을 구매해주세요.
+**\[1,000건 SMS발`송` 티켓(20,000원)]**을 구매해주세요.
 
 &#x20;
 
@@ -90,7 +90,9 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 [**SMS 메시지 상품 이용 정책**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=384\&notice\_type=paymentNotice)
 
-1,000건 SMS발송 티켓 구매 완료&#x20;
+1,000건 SMS발송 티켓 구매 완료 했다면, 다음으로는 아이디 설정으로 이동해주세요.
+
+아이디를 "전화번호"로 설정해야 사용자들의 번호로 문자를 보낼 수 있습니다.
 
 
 
@@ -98,13 +100,13 @@ SMS 티켓뿐만 아니라 스윙 유료상품을 구매하실 때는 반드시 
 
 
 
-## **STEP2. 아이디형태: 전화번호 설정하기**
+## **2. 아이디형태: 전화번호 설정하기**
 
 
 
 SMS티켓 구매 후, 다시 회원가입 양식 설정 페이지에서 아이디를 "전화번호" 선택 후 저장해주세요.&#x20;
 
-### <mark style="color:blue;">**1.전화번호 아이디 설정하기**</mark>
+### <mark style="color:blue;">**1)전화번호 아이디 설정하기**</mark>
 
 <div align="left">
 
@@ -130,7 +132,7 @@ SMS티켓 구매 후, 다시 회원가입 양식 설정 페이지에서 아이�
 
 
 
-### <mark style="color:blue;">**2.앱 실행화면: 회원가입시 전화번호 인증하기**</mark>
+### <mark style="color:blue;">**2)앱 실행화면: 회원가입시 전화번호 인증하기**</mark>
 
 <div align="left">
 
@@ -178,25 +180,13 @@ SMS티켓 구매 후, 다시 회원가입 양식 설정 페이지에서 아이�
 
 
 
-## **STEP3. SMS(문자메시지) 발송하기**
+## **3. SMS(문자메시지) 발송하기**
 
-<mark style="color:red;">\*문자메시지 발송 역시 SMS티켓을 먼저 구매한 뒤, 회원가입 아이디를 전화번호로 설정을 해주셔야 합니다.</mark>
-
-그래야만 앱 회원들의 번호를 알 수 있겠죠?
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80%EC%9E%853_18.08.png" alt="">
-
-</div>
-
-티켓 구매 후, [**서비스관리 → 정책관리 → 회원가입 양식 설정**](http://www.swing2app.co.kr/view/app\_policy) 페이지로 이동합니다.&#x20;
-
-아이디형태: 아이디를 **‘전화번호’**로 선택하고 정책설정하기 버튼을 누르면 완료됩니다!
+<mark style="color:red;">SMS 발송 티켓 구매, 회원가입: 전화번호 아이디 설정까지 모두 완료되었다면 문자를 보낼 수 있습니다.</mark>&#x20;
 
 
 
-### <mark style="color:blue;">1.문자 발송하기</mark>
+### <mark style="color:blue;">1)문자 발송하기</mark>
 
 <div align="left">
 
@@ -212,7 +202,7 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/SMS2-1.png)
 
-1\)기본설정에서 문자메시지를 보낼 회원을 선택해주세요.
+(1)기본설정에서 문자메시지를 보낼 회원을 선택해주세요.
 
 모든 회원들에게 발송한다면 \[전체발송하기] 체크해주세요.
 
@@ -222,13 +212,13 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/SMS3.png)
 
-2\)<mark style="color:purple;">**\[SMS 발송]**</mark>으로 이동하신 뒤
+(2)<mark style="color:purple;">**\[SMS 발송]**</mark>으로 이동하신 뒤
 
-3\)발신번호를 입력하구요.
+(3)발신번호를 입력하구요.
 
-4\)SMS 내용을 입력합니다. 글자수는 79자까지 작성이 가능해요!
+(4)SMS 내용을 입력합니다. 글자수는 79자까지 작성이 가능해요!
 
-5\)모든 내용 입력이 끝나면 \[SMS 발송하기] 버튼을 눌러주세요.
+(5)모든 내용 입력이 끝나면 \[SMS 발송하기] 버튼을 눌러주세요.
 
 
 
@@ -240,7 +230,7 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 
 
-### <mark style="color:blue;">**2.핸드폰 화면 – SMS 발송 화면**</mark>
+### <mark style="color:blue;">**2)핸드폰 화면 – SMS 발송 화면**</mark>
 
 <div align="left">
 
@@ -258,7 +248,11 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 
 
-### **3.회원 전화번호는 어디서 확인할 수 있나요?**
+## 4.추가 안내
+
+
+
+### <mark style="color:blue;">**1)회원 전화번호는 어디서 확인할 수 있나요?**</mark>
 
 <div align="left">
 
@@ -272,7 +266,7 @@ SMS 발송은 푸시 발송에서 이용이 가능합니다.
 
 
 
-### **4.SMS 발송 수량은 어디서 확인할 수 있나요?**
+### <mark style="color:blue;">**2)SMS 발송 수량은 어디서 확인할 수 있나요?**</mark>
 
 [**앱운영 → 결제→ 결제 상품 이용현황**](http://www.swing2app.co.kr/view/payment\_use\_stat\_view) **페이지로 이동해주세요.**&#x20;
 
