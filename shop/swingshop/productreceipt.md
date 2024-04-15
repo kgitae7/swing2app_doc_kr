@@ -54,7 +54,7 @@ description: 스윙샵 실물상품 등록 - 상품 수령을 설정하는 방�
 
 쇼핑몰 상품을 등록하는 전체 매뉴얼은 아래 매뉴얼을 참고해주세요
 
-[**\[스윙샵 실물상품 등록 매뉴얼 보러가기\]**](../../manual/swingshop/registration.md)
+[**\[스윙샵 실물상품 등록 매뉴얼 보러가기\]**](broken-reference)
 
 {% hint style="warning" %}
 **중요안내**

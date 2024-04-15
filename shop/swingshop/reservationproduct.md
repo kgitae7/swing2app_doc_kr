@@ -34,7 +34,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
-**☞** [**스윙샵 신청방법 보러가기**](../../manual/swingshop/apply.md)
+**☞** [**스윙샵 신청방법 보러가기**](broken-reference)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7\_19.09.png)
 
@@ -144,7 +144,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 **★시간 예약상품 설정은 아래 매뉴얼 선택해주세요\~!**
 
-[**\[시간 예약상품 등록방법 매뉴얼 보러가기\]**](../../manual/swingshop/timereservation-product.md)
+[**\[시간 예약상품 등록방법 매뉴얼 보러가기\]**](broken-reference)
 
 {% hint style="warning" %}
 <mark style="color:orange;">**시간 설정 중요 안내**</mark>
@@ -400,7 +400,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 <mark style="color:orange;">★체크인과 같은 날짜 예약상품 설정 외에 시간 예약상품 설정은 아래 매뉴얼 선택해주세요\~!</mark>
 
-[\[시간 예약상품 등록방법 매뉴얼 보러가기\]](../../manual/swingshop/timereservation-product.md)
+[\[시간 예약상품 등록방법 매뉴얼 보러가기\]](broken-reference)
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 

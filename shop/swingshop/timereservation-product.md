@@ -18,7 +18,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 **\*숙박 예약시설 처럼 여러 날을 예약, 체크인-체크아웃 기능이 포함된 예약시스템은 아래 매뉴얼을 참고해주세요 \~!**
 
-[**\[날짜 예약상품 등록하기 매뉴얼 보러가기\]**](../../manual/swingshop/reservationproduct.md)
+[**\[날짜 예약상품 등록하기 매뉴얼 보러가기\]**](broken-reference)
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -28,7 +28,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
-**☞** [**스윙샵 신청방법 보러가기**](../../manual/swingshop/apply.md)
+**☞** [**스윙샵 신청방법 보러가기**](broken-reference)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7\_19.09.png)
 

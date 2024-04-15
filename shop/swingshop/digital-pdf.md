@@ -18,7 +18,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
-**☞** [**스윙샵 신청방법 보러가기**](../../manual/swingshop/apply.md)
+**☞** [**스윙샵 신청방법 보러가기**](broken-reference)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09-1.png)
 

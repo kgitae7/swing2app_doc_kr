@@ -18,7 +18,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
-**☞** [**스윙샵 신청방법 보러가기**](../../manual/swingshop/apply.md)
+**☞** [**스윙샵 신청방법 보러가기**](broken-reference)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%93%B1%EB%A1%9D.png)
 
