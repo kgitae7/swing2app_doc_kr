@@ -76,7 +76,7 @@
 
 \* 리소스관리 이용방법에 대한 자세한 내용은 해당 매뉴얼을 확인해주세요.
 
-☞ [\[앱 용량관리 -리소스 관리 이용방법 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/service/capacity-management/)
+☞ \[[앱 용량관리 -리소스 관리 이용방법 매뉴얼 보러가기](https://documentation.swing2app.co.kr/manual/appmanage/service/capacity-management)]
 
 </details>
 
@@ -102,7 +102,7 @@
 
 자세한 방법은 링크 첨부해드리니, 해당 내용 보시면 이해가 쉬우실 겁니다.
 
-☞ [**부관리자 설정하는 방법 보러가기**](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
+☞ [부관리자 설정 ](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator)
 
 </details>
 
@@ -146,7 +146,7 @@
 
 애드몹 셋팅방법에 대한 자세한 방법은 해당 매뉴얼을 참고해주세요.
 
-**☞**[ **\[구글 애드몹 셋팅 방법 도움말 보러가기\]**](http://wp.swing2app.co.kr/knowledgebase/admob-apply/)
+**☞**[**구글 애드몹 셋팅 방법 도움말 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admob-apply)
 
 </details>
 
@@ -168,7 +168,7 @@
 
 \+승인을 받은 사용자는 정상적으로 앱을 사용하게 되고, 승인을 받지 못하면 앱을 사용할 수 없게 됩니다.
 
-**☞**[ **비공개 앱 만드는 방법 확인하기**](http://wp.swing2app.co.kr/documentation/appmanage/service/private-app/)
+**☞** [**비공개 앱 만드는 방법 확인하기**](https://documentation.swing2app.co.kr/manual/appmanage/service/private-app)
 
 </details>
 
@@ -188,7 +188,7 @@
 
 내용 수정 후 앱제작으로 이동하셔서 \[앱 업데이트] 버튼을 눌러서 새 버전으로 업데이트 해주시기 바랍니다.
 
-[**\[앱 문자열 수정방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/edit-text/)
+**\[**[**앱 문자열 수정방법 매뉴얼 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/service/edit-text)**]**
 
 </details>
 
@@ -218,7 +218,7 @@
 
 내용 수정 후 앱제작으로 이동하셔서 \[앱 업데이트] 버튼을 눌러서 새 버전으로 업데이트 해주시기 바랍니다.
 
-[**\[앱 문자열 수정방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/edit-text/)
+**\[**[**앱 문자열 수정방법 매뉴얼 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/service/edit-text)**]**
 
 </details>
 
@@ -256,7 +256,7 @@
 
 HTML에디터로 쓰기를 선택하시면 다양하게 텍스트 스타일을 추가할 수 있습니다.
 
-**☞** [**HTML 에디터 글쓰기 이용방법 확인하기**](http://wp.swing2app.co.kr/documentation/appmanage/board/htmleditor/)
+**☞** [**HTML 에디터 글쓰기 이용방법 확인하기**](https://documentation.swing2app.co.kr/manual/v3/step3-page/editorpage)
 
 </details>
 
@@ -352,7 +352,7 @@ HTML에디터로 쓰기를 선택하시면 다양하게 텍스트 스타일을 �
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
 
-**☞** [**게시판 복사 방법 확인하기**](https://wp.swing2app.co.kr/documentation/appmanage/board/board-copy/)
+**☞** [**게시판 복사 방법 확인하기**](https://documentation.swing2app.co.kr/manual/appmanage/board/board-copy)
 
 </details>
 
@@ -374,7 +374,7 @@ HTML에디터로 쓰기를 선택하시면 다양하게 텍스트 스타일을 �
 
 복사를 원하는 게시물을 선택한 뒤, **\[게시글복사]** 버튼을 누르면 원하는 게시판으로 글을 복사할 수 있습니다.&#x20;
 
-**☞** [**\[게시물 복사 방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/board/post-copy/)
+**☞** [**게시물 복사 방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/board/post-copy)
 
 </details>
 
@@ -394,7 +394,7 @@ HTML에디터로 쓰기를 선택하시면 다양하게 텍스트 스타일을 �
 
 \-\[게시물 일괄 삭제] 버튼을 선택하면 완료 선택된 게시물을 한번에 삭제할 수 있습니다.
 
-**☞** [**\[게시물 일괄 삭제 이용방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/board/post-delete/)
+**☞** [**게시물 일괄 삭제 이용방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/board/post-delete)
 
 </details>
 
