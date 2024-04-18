@@ -19,7 +19,7 @@
 
 <details>
 
-<summary><strong>앱 이름은 몇자 까지 등록 수 있나요?</strong></summary>
+<summary><strong>앱 이름은 몇자 까지 등록 할 수 있나요?</strong></summary>
 
 앱을 제작할 때는 이름 글자수는 특별히 제한이 없습니다.
 
@@ -93,7 +93,7 @@
 
 아이콘 제작 가이드도 매뉴얼로 제공되고 있으니 상세 매뉴얼을 확인해주세요.
 
-[**\[앱 아이콘 이미지 제작 가이드 보러가기\]**](https://wp.swing2app.co.kr/documentation/maual/appbasic/appicon/)
+**☞** [**앱 아이콘 이미지 제작 가이드 보러가기**](https://documentation.swing2app.co.kr/manual/v3/step1-basic/appicon)
 
 
 
@@ -113,7 +113,7 @@
 
 대기화면 제작방법 가이드라인은 매뉴얼에서 상세히 확인할 수 있습니다.
 
-**☞** [**대기화면 이미지  만드는 방법 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/apploading/)
+**☞** [**대기화면 이미지  만드는 방법 보러가기**](https://documentation.swing2app.co.kr/manual/v3/step1-basic/apploading)
 
 </details>
 
@@ -139,10 +139,7 @@
 
 따라서 대기화면은 가이드라인- 제작방법을 확인하여 만들어주시기 바랍니다.
 
-**☞** [**대기화면 이미지  만드는 방법 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/apploading/)
-
-\
-
+**☞** [**대기화면 이미지  만드는 방법 보러가기**](https://documentation.swing2app.co.kr/manual/v3/step1-basic/apploading)
 
 </details>
 

@@ -14,8 +14,6 @@
 
 **심사 후 문제가 없으면 해당 심사 기간(7일 이내) 후에 스토어에 출시가 됩니다.**
 
-
-
 </details>
 
 <details>
@@ -38,7 +36,9 @@
 
 플레이스토어 업로드시 신청양식에 – 구글 개발자 계정 아이디, 비밀번호를 기재해주시면 사용자 계정으로 앱을 등록해드립니다.
 
-**☞** [**구글 개발자 계정 등록 방법 확인하기**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)&#x20;
+**☞** [**구글 개발자 계정 등록 방법 확인하기 - 개인**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
+
+**☞** [**구글 개발자 계정 등록 방법 확인하기 - 조직**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 </details>
 
@@ -60,7 +60,9 @@
 
 또한 직접 앱을 관리하면서 앱 설치 및 통계 자료를 직접 확인할 수 있습니다.
 
-**☞** [**구글 개발자 등록방법 GO**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
+**☞** [**구글 개발자 계정 등록 방법 확인하기 - 개인**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
+
+**☞** [**구글 개발자 계정 등록 방법 확인하기 - 조직**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 </details>
 
@@ -80,7 +82,7 @@
 
 개발자 이름 변경방법 상세 방법은 해당 매뉴얼을 참고해주세요.
 
-**☞ \[**[**구글 개발자 이름 변경하기 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-changename)**] 보러가기**
+**☞** [**구글 개발자 이름 변경하기 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-changename)&#x20;
 
 </details>
 
@@ -96,7 +98,7 @@
 
 게시 취소 방법은 아래 가이드 보시면 확인 가능합니다.
 
-[플레이스토어 앱 게시취소 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstoe-unpublish)
+**☞** [플레이스토어 앱 게시취소 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstoe-unpublish)
 
 
 
@@ -144,7 +146,7 @@
 
 플레이스토어는 구글 개발자 계정만 있다면, 사용자가 직접 업로드를 진행할 수 있습니다.
 
-[**\[플레이스토어 업데이트 매뉴얼\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)
+**☞** [**플레이스토어 앱 등록 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease)
 
 플레이스토어에 앱을 출시하는 방법은 도움말 매뉴얼에도 기재가 되어 있기 때문에 해당 매뉴얼을 보면서 따라하실 수 있습니다.
 
@@ -181,7 +183,7 @@
 스토어에 올린 – 앱 설명, 스크린샷 이미지, 카테고리 등을 변경 하면 상단에 \[업데이트 제출] 버튼이 활성화 됩니다.
 
 aab파일 업로드와는 다르게 스토어 정를 수정한 경우 해당 버튼을 눌러야만 업데이트가 처리됩니다.\
-[**\[플레이스토어 업데이트 매뉴얼\]**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)\
+**☞** [**플레이스토어 업데이트 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)\
 
 
 </details>
@@ -312,7 +314,7 @@ aab파일 업로드와는 다르게 스토어 정를 수정한 경우 해당 버
 
 만약 해당 시간이 지났음에도 앱 이름 검색이 안된다면, 구글 플레이 고객센터를 통해 검색 문제에 대해서 문의할 수 있습니다.
 
-[구글 플레이 고객센터](https://support.google.com/googleplay/gethelp?sjid=1369441674901128164-AP)
+[구글 플레이 고객센터](https://support.google.com/googleplay/android-developer/gethelp)
 
 </details>
 
@@ -340,7 +342,7 @@ aab파일 업로드와는 다르게 스토어 정를 수정한 경우 해당 버
 
 매뉴얼 제공하고 있으니 보시면 쉽게 따라 할 수 있습니다.
 
-[다른 개발자 계정으로 앱 이전하기 매뉴얼](https://documentation.swing2app.co.kr/knowledgebase/playstore/apptransfer)
+☞ [다른 개발자 계정으로 앱 이전하기 매뉴얼](https://documentation.swing2app.co.kr/knowledgebase/playstore/apptransfer)
 
 </details>
 

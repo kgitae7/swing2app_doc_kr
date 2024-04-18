@@ -102,9 +102,9 @@
 
 &#x20;
 
-앱을 관리하는 부관리자를 설정하는 방법은 해당 포스팅을 참고해주세요 ^^
+앱을 관리하는 부관리자를 설정하는 방법은 해당 매뉴얼 참고해주세요 ^^
 
-☞[ \[부관리자 설정방법 포스팅 보러가기\]](http://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
+☞ [부관리자 설정방법 매뉴얼](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator)
 
 </details>
 
@@ -122,7 +122,7 @@
 
 앱 부관리자 설정하는 방법은 해당 포스팅을 참고해주세요 ^^
 
-☞ [\[부관리자 설정방법 포스팅 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
+☞ [부관리자 설정방법 매뉴얼](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator)
 
 </details>
 
@@ -170,7 +170,7 @@
 
 따라서 일반아이디로 아이디를 설정한 경우는 비밀번호 찾기를 이용하실 수 없으니 꼭 확인하시고 '아이디형태-이메일'로 설정해주세요.
 
-**☞** [**\[앱 비밀번호 찾기 상세 매뉴얼 보러가기\]**](http://wp.swing2app.co.kr/documentation/appoperation/app-password/)
+**☞** [**앱 비밀번호 찾기 상세 매뉴얼 보러가기**](https://documentation.swing2app.co.kr/appguide/appoperation/app-password)
 
 </details>
 
@@ -202,9 +202,7 @@
 
 이름(닉네임)도 해당 페이지에서 수정할 수 있습니다.
 
-[**\[앱 프로필 사진 등록 및 변경방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/appprofile-image/)
-
-&#x20;
+**☞** [**앱 프로필 사진 등록 및 변경방법 매뉴얼 보러가기**](https://documentation.swing2app.co.kr/appguide/appoperation/appprofile-image)
 
 </details>
 
@@ -228,7 +226,7 @@
 
 따라서 동일 아이디로 재가입이 필요하다면, 회원 삭제를 통해서 회원 아이디 및 모든 정보를 앱에서 삭제해주셔야 합니다.
 
-[**\[앱 회원 탈퇴 후 동일 아이디 재가입 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/sameid-rejoin/)
+**☞** [**앱 회원 탈퇴 후 동일 아이디 재가입 방법 매뉴얼 보러가기**](https://documentation.swing2app.co.kr/appguide/appoperation/sameid-rejoin)
 
 </details>
 

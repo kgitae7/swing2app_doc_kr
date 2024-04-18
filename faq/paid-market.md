@@ -66,10 +66,6 @@
 
 하지만 무료버전도 대부분의 기능은 사용할 수 있으니, 무료로 충분히 사용해보시고 필요할 경우 유료로 전환하세요^^
 
-상세 내용은 스윙 서비스 정책을 확인해주세요.
-
-[**☞** ](https://wp.swing2app.co.kr/help/pricing-table/)[**\[스윙 가격 정책\]**](https://wp.swing2app.co.kr/help/pricing-table/)
-
 </details>
 
 <details>
@@ -78,9 +74,11 @@
 
 1개월 유료앱이용권 구매시 총 이용일수가 30일입니다.
 
-달 마다 총 일수가 다르기 때문에 (28일인 달도 있고 30일, 31일도 있죠) 1개월 이용기간은 30일입니다. 따라서 6개월 결제시 180일간 이용일수가 들어가며, 12개월 결제시 360일로 이용일수가 들어갑니다.
+달 마다 총 일수가 다르기 때문에 (28일인 달도 있고 30일, 31일도 있죠) 1개월 이용기간은 30일입니다.&#x20;
 
-특히 1년 결제하셨다고 해서 365일이 아닌지 문의주시는 분들도 계시지만 1개월 30일로 계산한 일수로 적용된다는 점!! 유념해주세요.
+\-6개월 결제시 180일간 이용일수가 적용
+
+\-12개월 결제시 365일로 이용일수가 적용됩니다.
 
 </details>
 
@@ -112,7 +110,7 @@
 
 (앱스토어 업로드 대행비: 1회 20,000원)
 
-**☞** [**\[앱스토어 업로드 신청방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/version/appstore-upload/)
+**☞** [**앱스토어 업로드 신청방법 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/upload)
 
 </details>
 
@@ -174,7 +172,7 @@
 
 플레이스토어 정보 수정 및 업데이트 방법은 아래 매뉴얼을 참고해주세요.
 
-☞[플레이스토어 앱 업데이트 보러가기](https://wp.swing2app.co.kr/knowledgebase/palystore-update/)
+☞[플레이스토어 앱 업데이트 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)
 
 만약 직접 하는 것이 어렵다면 스윙투앱에 업로드 신청을 주시면 업데이트 진행해드립니다.
 
@@ -193,8 +191,4 @@
 \*앱스토어 업로드티켓 20,000원 구매 후 신청
 
 </details>
-
-
-
-
 

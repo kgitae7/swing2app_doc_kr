@@ -10,9 +10,7 @@
 
 \*이용경로
 
-스윙 홈페이지 앱운영 페이지> 내메뉴> 제휴신청하기 를 선택하셔서 제휴프로그램 신청서를 작성해주시면 됩니다.\
-\
-**☞**[ **제휴프로그램 소개 보러가기** ](https://wp.swing2app.co.kr/aff-program/)
+스윙 홈페이지 앱운영 페이지> 내메뉴> 제휴신청하기 를 선택하셔서 제휴프로그램 신청서를 작성해주시면 됩니다.
 
 </details>
 
@@ -24,9 +22,9 @@
 
 페이지 상단 \[내메뉴] – \[제휴신청] 메뉴를 선택하면,  제휴 신청서를 작성할 수 있습니다.
 
-제휴프로그램 신청방법은 포스팅을 참고해주세요&#x20;
+제휴프로그램 신청방법은 매뉴얼 확인해주세요.
 
-[**\[제휴프로그램 신청방법 바로가기\]** ](https://wp.swing2app.co.kr/documentation/aff-program/apply/)
+**☞** [**제휴프로그램 신청방법 바로가기**](https://documentation.swing2app.co.kr/undefined/aff-program/apply)
 
 </details>
 
@@ -162,8 +160,8 @@ SNS – 페이스북, 인스타그램 등을 이용하여 홍보를 진행할 �
 
 홍보를 많이 할 수록 유입자가 많기 때문에 다양한 방법으로 홍보를 진행해주시면 되겠습니다.
 
-**홍보방법은 아래의 포스팅을 확인해주세요.**
+**홍보방법은 아래 매뉴얼 확인해주세요**
 
-[**\[제휴프로그램을 이용한 스윙 홍보방법\]**](https://wp.swing2app.co.kr/documentation/aff-program/promotion/)
+**☞**[**제휴프로그램을 이용한 스윙 홍보방법**](https://documentation.swing2app.co.kr/undefined/aff-program/promotion)
 
 </details>

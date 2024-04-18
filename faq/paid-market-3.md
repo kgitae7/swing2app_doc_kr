@@ -6,7 +6,9 @@
 
 애플 개발자 계정 등록 방법 매뉴얼을 확인해주세요.
 
-**☞** [**애플 개발자 계정 만드는 방법 확인하기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
+**☞** [**애플 개발자 계정 만드는 방법 확인하기 - 개인**](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
+
+**☞** [**애플 개발자 계정 만드는 방법 확인하기 - 조직**](https://documentation.swing2app.co.kr/knowledgebase/appstore/developer-corporation)
 
 </details>
 
@@ -58,7 +60,9 @@
 
 개발자 이름은 당연히 사용자 이름으로 적용됩니다.
 
-**☞** [**애플 개발자 계정 만드는 방법 확인하기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
+**☞** [**애플 개발자 계정 만드는 방법 확인하기 - 개인**](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
+
+**☞** [**애플 개발자 계정 만드는 방법 확인하기 - 조직**](https://documentation.swing2app.co.kr/knowledgebase/appstore/developer-corporation)
 
 </details>
 
@@ -130,8 +134,10 @@
 
 심사 거절 사례 매뉴얼을 보시면 도움이 될 것입니다.
 
-플레이스토어도 애플과 비슷한 정책으로 심사를 하기 때문에 플레이스토어도 참고하여 확인해주시기 바랍니다. \
-**☞** [**애플 앱스토어 앱출시 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
+플레이스토어도 애플과 비슷한 정책으로 심사를 하기 때문에 플레이스토어도 참고하여 확인해주시기 바랍니다.&#x20;
+
+\
+**☞** [**앱스토어 앱출시 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
 
 **☞** [**플레이스토어 앱 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/playstore/reject)
 

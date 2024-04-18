@@ -20,8 +20,6 @@
 
 **◆ 스윙에서 제공하는 기능 – 푸시, 팝업 등의 마케팅 활용도 모두 이용할 수 있습니다.**
 
-
-
 </details>
 
 <details>
@@ -40,11 +38,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B52-1.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**스윙샵 신청방법 상세보기**](https://wp.swing2app.co.kr/documentation/swingshop/apply/)
+**☞** [**스윙샵 신청방법 상세보기**](https://documentation.swing2app.co.kr/shop/swingshop/apply)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
-
-
+**☞** [**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
 
 </details>
 
@@ -58,21 +54,21 @@
 
 어떤 상품을 등록할지에 따라 방법이 다르기 때문에 스윙투앱에서 제공하는 상품등록 매뉴얼을 보시고 작업해주시기 바랍니다.
 
-&#x20;
 
-[1)실물상품 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/registration/)
 
-[2)예약상품 등록하기-날짜 예약상품](https://wp.swing2app.co.kr/documentation/swingshop/reservationproduct/)
+1\)[실물상품 등록하기](https://documentation.swing2app.co.kr/shop/swingshop/registration)
 
-[3)예약상품 등록하기 -날짜&시간 예약상품](https://wp.swing2app.co.kr/documentation/swingshop/timereservation-product/)
+2\)[예약상품 등록하기-날짜 예약상품](https://documentation.swing2app.co.kr/shop/swingshop/reservationproduct)
 
-[4)디지털상품-PDF파일 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/digital-pdf/)
+3\)[예약상품 등록하기 -날짜&시간 예약상품](https://documentation.swing2app.co.kr/shop/swingshop/timereservation-product)
 
-[5)디지털상품-권한 변경 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/authorized-sales/)
+4\)[디지털상품-PDF파일 등록하기](https://documentation.swing2app.co.kr/shop/swingshop/digital-pdf)
 
-[6)디지털상품-영상파일 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/video-file/)
+5\)[디지털상품-권한 변경 등록하기](https://documentation.swing2app.co.kr/shop/swingshop/authorized-sales)
 
-[7)디지털상품-쿠폰등록하기](https://wp.swing2app.co.kr/documentation/swingshop/coupon/)
+6\)[디지털상품-영상파일 등록하기](https://documentation.swing2app.co.kr/shop/swingshop/video-file)
+
+7\)[디지털상품-쿠폰등록하기](https://documentation.swing2app.co.kr/shop/swingshop/coupon)
 
 </details>
 
@@ -161,7 +157,7 @@
 
 따라서 디지털상품을 적용한 앱을 출시할 계획이라면 페이앱과 같은 전자결제시스템을 적용하는 것이 아니라 애플과 구글에서 제공하는 인앱 결제모듈을 따로 앱에 개발하여 적용해야 합니다.
 
-\-인앱 상담은 문의 게시판(http://www.swing2app.co.kr/view/service\_qa), 업무시간 중은 실시간 채팅을 이용해주시기 바랍니다.
+\-인앱 상담은 [문의 게시판](http://www.swing2app.co.kr/view/service\_qa), 업무시간 중은 실시간 채팅을 이용해주시기 바랍니다.
 
 \-인앱은 개발작업이 필요하며 앱 내부 볼륨에 따라 개발 비용은 달라집니다. 상담 후 비용 안내가 가능합니다.
 

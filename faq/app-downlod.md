@@ -26,11 +26,9 @@
 
 \*안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
-&#x20;
-
 앱 설치방법 상세 방법은 아래 매뉴얼 링크를 확인해주세요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [앱 설치방법 보러가기](https://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
+[앱 설치방법 보러가기](https://documentation.swing2app.co.kr/appguide/appoperation/appinstall)
 
 </details>
 
@@ -73,11 +71,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 \* 유료버전일 경우 해당되며 앱스토어 업로드 티켓 구매하셔서 업로드 신청까지 해주셔야 합니다. ( 스윙 유료이용권이 결제가 되어 있어야 합니다.)&#x20;
 
-**\[앱스토어 test-flight 이용안내]**
-
-[https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/](https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/)
-
-&#x20;
+**☞** [**앱스토어 test-flight 이용안내**](https://documentation.swing2app.co.kr/knowledgebase/appstore/appstore-testflight)
 
 </details>
 
@@ -95,9 +89,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 그외에 프로텍트 관련 보안 메시지 역시 '무시하고 설치'로 선택하고 진행해주시면 됩니다.
 
-**☞**[ **\[APK파일 안드로이드폰 설치방법\]**](http://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
-
-&#x20;
+**☞** [**APK파일 안드로이드폰 설치방법**](https://documentation.swing2app.co.kr/appguide/appoperation/appinstall)
 
 </details>
 
@@ -165,7 +157,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 (앱스토어는 요청주시면 내려드립니다)
 
-[\[유료앱 기간 종료 후 무료앱 전환방법 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appoperation/freeapp-change/)
+☞ [유료앱 기간 종료 후 무료앱 전환방법 매뉴얼 보러가기](https://documentation.swing2app.co.kr/appguide/appoperation/freeapp-change)
 
 </details>
 
@@ -185,7 +177,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 **아이폰은 앱스토어에 출시된 앱만 다운 받을 수 있어요.**
 
-[**\[공유하기로 앱 설치하는 방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
+☞[**공유하기로 앱 설치하는 방법 보러가기**](https://documentation.swing2app.co.kr/appguide/appoperation/share-app)
 
 </details>
 
@@ -211,7 +203,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 이렇게 받은 링크주소를 다양한 경로로 복사하여 설치할 수 있습니다.
 
-[\[앱 설치 링크주소로 앱 다운받](https://wp.swing2app.co.kr/documentation/appoperation/applink-install/)[기 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appoperation/applink-install/)
+☞ [앱 설치 링크주소로 앱 다운받기 매뉴얼 보러가기](https://documentation.swing2app.co.kr/appguide/appoperation/applink-install)
 
 </details>
 
@@ -249,9 +241,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일�
 
 보다 상세한 방법은 아래 매뉴얼을 참고해주세요.
 
-[\[핸드폰에 앱 설치하는 방법 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
-
-
+☞ [핸드폰에 앱 설치하는 방법 매뉴얼 보러가기](https://documentation.swing2app.co.kr/appguide/appoperation/appinstall)
 
 </details>
 
@@ -326,7 +316,5 @@ APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일�
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%84.png" alt="" data-size="original">
 
 아이폰은 앱스토어를 통한 앱 다운만 가능하므로, 앱스토어에서 다운받은 버전으로 확인해주시기 바랍니다.
-
-&#x20;
 
 </details>

@@ -28,7 +28,7 @@
 
 상세 내용은 스윙투앱 서비스 정책을 확인해주세요.
 
-**☞** [**\[스윙투앱 서비스 이용방법\]**](https://wp.swing2app.co.kr/swinguse/)
+**☞** [**스윙투앱 서비스 이용방법**](https://documentation.swing2app.co.kr/swing2app-guide)
 
 </details>
 
@@ -124,8 +124,6 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 스토어에서 앱이 삭제되면 경우에 따라 앱을 다시 복원하는 것이 어려울 수 있으며, 기존 사용자들도 모두 잃게 됩니다.
 
-
-
 </details>
 
 <details>
@@ -158,7 +156,7 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 \+변경하기를 완료하면 관리자 등급 변경 완료됩니다. \~!!
 
-☞ [**\[앱 관리자 설정방법 확인하기\]**](../manual/appmanage/pushmember/appmaster.md)
+☞ [**앱 관리자 설정방법 확인하기**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/appmaster)
 
 </details>
 
@@ -284,11 +282,11 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 따라서 용량이 초과되기 전 부족한 용량만큼을 별도 용량 추가 상품을 구입하여 적용해주시구요.
 
-**☞** [**\[스윙 결제페이지 이동\]**](http://www.swing2app.co.kr/view/shop\_list)
+**☞** [**용량 추가 상품 구매하기**](https://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)
 
 앱운영 페이지 → 서비스관리 → 리소스관리 페이지에서 필요 없는 게시물을 삭제하여 용량을 확보할 수도 있습니다.
 
-**☞** [**\[리소스관리 이용방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/capacity-management/)
+**☞** [**리소스관리 이용방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/service/capacity-management)
 
 </details>
 
@@ -338,9 +336,9 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 원스토어, 갤럭시스토어 앱 등록방법은 당사 매뉴얼로도 제공해드리고 있으니 보시면서 진행해주시기 바랍니다.
 
-**☞** [**\[원스토어 앱 출시 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/onestore/)
+**☞** [**원스토어 앱 출시 방법 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/onestore/onestore)
 
-**☞**[**\[갤럭시스토어 앱 출시 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/galaxystore/)
+**☞**[**갤럭시스토어 앱 출시 방법 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/galaxystore/galaxystore)
 
 </details>
 
@@ -354,7 +352,7 @@ AAB파일은 무료버전앱에서는 제공되지 않으며, 유료앱 이용�
 
 매뉴얼 보시면서 진행해주시기 바랍니다.
 
-**☞** [**\[플레이스토어 앱 출시방법\]**](https://wp.swing2app.co.kr/knowledgebase/playstore-apprelease/)
+**☞** [**플레이스토어 앱 출시방법**](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease)
 
 </details>
 

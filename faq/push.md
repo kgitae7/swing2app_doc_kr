@@ -238,7 +238,7 @@
 
 아래 매뉴얼을 참고해주세요.&#x20;
 
-[\[푸시 장치 관리 – 테스트 푸시 발송 확인하기\]](../webapp/manual/pushtest.md)
+[푸시 장치 관리 – 테스트 푸시 발송 확인하기](https://documentation.swing2app.co.kr/webapp/manual/pushtest)
 
 
 

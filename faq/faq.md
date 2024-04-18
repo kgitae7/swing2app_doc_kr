@@ -24,7 +24,7 @@
 
 애드몹 광고 셋팅은 상세 이용방법을 확인하셔서 진행해주시기 바랍니다.
 
-☞ [애드몹 플러그인 광고 셋팅방법 보러가기](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
+☞ [**애드몹 플러그인 광고 셋팅방법 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admob-apply)
 
 </details>
 
@@ -50,7 +50,7 @@
 
 **☞** [**\[구글 애드몹 적용 플러그인 상품 페이지\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=22)
 
-**☞** [**\[애드몹 패키지 상품 페이지\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=31)
+**☞** [**\[애드몹 패키지 상품 페이지\]**](https://www.swing2app.co.kr/view/order\_info\_action?product\_id=65)
 
 &#x20;
 
@@ -138,11 +138,9 @@
 
 7\) 스토어 등록: 플레이스토어, 앱스토어 등 출시를 희망하는 스토어 업로드 진행
 
-​
-
 애드몹 플러그인 셋팅 상세 내용은 아래 매뉴얼로 확인해주세요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**\[애드몹 플러그인 광고셋팅방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
+**☞** [**애드몹 플러그인 광고셋팅방법 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admob-apply)
 
 </details>
 
@@ -174,7 +172,7 @@
 
 가입 및 광고 단위를 만드는 방법은 아래 매뉴얼로 확인해주시기 바랍니다.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**\[애드몹 가입 및 광고단위 만드는 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/admob-register/)
+**☞** [**애드몹 가입 및 광고단위 만드는 방법 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/admob/admob-register)
 
 </details>
 
@@ -238,7 +236,7 @@
 
 애드몹 신청후 체크방법, 운영주의사항을 아래 매뉴얼로 확인해주세요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ ](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)[**\[애드몹 광고 운영 주의사항\]**](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)
+**☞** [**애드몹 광고 운영 주의사항**](https://documentation.swing2app.co.kr/knowledgebase/admob/admob-operation)
 
 </details>
 

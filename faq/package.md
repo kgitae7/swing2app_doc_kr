@@ -146,7 +146,7 @@
 
 상품 구매 후, 앱에 애드몹 광고를 직접 셋팅할 수 있으며 아래 매뉴얼을 통해서도 광고 셋팅 방법을 상세히 확인할 수 있습니다. ​
 
-[\[애드몹 플러그인 광고 셋팅 방법\]](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
+☞ [애드몹 플러그인 광고 셋팅 방법](https://documentation.swing2app.co.kr/knowledgebase/admob/admob-apply)
 
 </details>
 
@@ -180,7 +180,7 @@
 
 <summary>어떤 경우에 패키지 상품을 구매할 수 있나요?</summary>
 
-패키지 상품은 일반 프로토타입으로 제작한 앱에서만 구매가 가능합니다.
+패키지 상품은 **일반 프로토타입**으로 제작한 앱에서만 구매가 가능합니다.
 
 \-적은 용량을 사용하고 앱 이용기간이 많이 필요하다면 : 알뜰형 패키지 330,000원 상품 추천
 
@@ -190,7 +190,7 @@
 
 각 상품에 대한 소개 및 상세 안내는 아래 가격 정책을 참고해주세요.
 
-[\[스윙 패키지 상품 보러가기\]](http://www.swing2app.co.kr/view/shop\_list\_by\_package)
+\[[스윙 패키지 상품 보러가기](https://www.swing2app.co.kr/view/new\_product\_list\_by\_package)]
 
 </details>
 

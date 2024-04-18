@@ -18,9 +18,7 @@
 
 ★스윙 미리보기에 대한 상세 설명은 관련 매뉴얼을 확인해주시기 바랍니다.
 
-**☞** [**스윙 미리보기 서비스란?**](https://wp.swing2app.co.kr/swing-preview/)
-
-**☞** [**스윙 미리보기 이용방법 보러가기**](https://wp.swing2app.co.kr/documentation/swingpreview/)
+**☞** [**앱 미리보기 이용방법 보러가기**](https://documentation.swing2app.co.kr/appguide/swingpreview)
 
 </details>
 
@@ -60,11 +58,13 @@
 
 **\* 이미지 참고)**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B09.png" alt="" data-size="original">
+<img src="../.gitbook/assets/부관리자로그인.png" alt="" data-size="original">
+
+
 
 **앱 부관리자 설정 방법, 로그인하는 방법은 아래 매뉴얼을 참고해주세요!**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**스윙미리보기 상세방법 매뉴얼 확인하기**](https://wp.swing2app.co.kr/documentation/swingpreview/)
+**☞** [**부관리자 설정 방법 매뉴얼**](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator)
 
 </details>
 
@@ -77,8 +77,6 @@
 해당 메뉴는 관리자로 로그인하지 않아도! **앱마다 제공되는 QR코드를 스캔하여 핸드폰에서 앱을 미리볼 수 있습니다.**
 
 QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이 가능합니다. \*웹뷰, 푸시앱으로 제작한 앱은 이용 불가
-
-
 
 **★ QR코드 이용방법**
 
@@ -145,8 +143,6 @@ QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이
 **\*프로토타입: 푸시, 웹뷰로 제작한 앱은 스윙 미리보기로 이용할 수 없습니다.**
 
 푸시, 웹뷰로 제작한 앱은 앱 다운로드만 가능하기 때문에 아이폰에서 지원이 안됩니다.
-
-&#x20;
 
 **\[아이폰 – 스윙미리보기 어플 실행화면]**\
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.png)
