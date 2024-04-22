@@ -369,7 +369,7 @@
   * [앱스토어 업로드 신청방법](knowledgebase/appstore/upload.md)
   * [앱스토어 앱 심사 거절 대표 사례](knowledgebase/appstore/reject.md)
   * [아이폰 푸시 인증서 연장](knowledgebase/appstore/push-certificate.md)
-  * [앱스토어 TestFlight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
+  * [TestFlight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
   * [TestFlight 앱 연장방법](knowledgebase/appstore/testflightupdate.md)
   * [Apple Developer Enterprise Program](knowledgebase/appstore/apple-developer-enterprise.md)
   * [애플 개발자 계약 업데이트](knowledgebase/appstore/license.md)

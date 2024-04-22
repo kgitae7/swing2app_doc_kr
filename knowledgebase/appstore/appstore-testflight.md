@@ -2,7 +2,7 @@
 description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flight 이용방법
 ---
 
-# 앱스토어 TestFlight 앱출시 방법
+# TestFlight 앱출시 방법
 
 ***
 
@@ -18,7 +18,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 ***
 
-> ## **test-flight 란?**
+## **test-flight 란?**
 
 앱스토어에 앱을 등록하는 과정은 동일합니다.
 
@@ -26,7 +26,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 **test-flight는** **회사 내부 배포용, 특정 사용자만 이용하게끔 하는 앱, 베타 테스트용으로 앱을 배포할 때 사용하는 프로그램입니다.**
 
-앱을 이용하고자 하는 아이폰 사용자들의 Apple Id(이메일주소)를 입력하여 **test-flight로 앱을 출시하구요.**&#x20;
+**앱을 이용하고자 하는 아이폰 사용자들의 Apple 이메일주소를 입력하여 test-flight로 앱을 출시하구요.**&#x20;
 
 앱이 정상 출시가 되면 해당 사용자들의 이메일로 앱 다운 초대 메일이 발송이 됩니다.&#x20;
 
@@ -36,7 +36,9 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**1. 이용방법**</mark>
+
+
+## <mark style="color:blue;">**1. 이용방법**</mark>
 
 이용방법은 유료앱 이용과 동일합니다. (무료버전앱 이용불가)
 
@@ -90,7 +92,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 주의사항&#x20;
+## 2. 주의사항&#x20;
 
 **1)test-flight 앱 출시는 이용기간이 90일입니다.**
 
@@ -120,7 +122,9 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. TestFlight 출시 후 앱 설치 방법
+
+
+## 3. TestFlight 출시 후 앱 설치 방법
 
 <div align="left">
 
@@ -180,7 +184,9 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)4.연장 방법
+
+
+## 4.연장 방법
 
 90일 이용기간 종료 전/ 후 연장하는 방법입니다.
 
@@ -220,7 +226,7 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)5. 안내사항
+## 5. 안내사항
 
 1\)이미지에서 보듯이 테스트버전앱은 이용기간이 있어요. (90일 제공)&#x20;
 
