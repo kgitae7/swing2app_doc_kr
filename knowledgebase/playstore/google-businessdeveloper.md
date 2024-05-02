@@ -99,23 +99,19 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 \*지메일 계정은 아래 링크로 접속해서, 새로 만들어주세요.
 
-[https://accounts.google.com/](https://accounts.google.com/)
+{% embed url="https://accounts.google.com/" %}
+
+&#x20;**계정 만들기 - "개인용"으로 선택하고 진행해주세요.**
+
+<figure><img src="../../.gitbook/assets/계정9.png" alt=""><figcaption><p>계정 만들기 - 개인용 선택</p></figcaption></figure>
+
+
 
 <figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252Fvk41TLwv1GYhq1ixQH9V%252F%25EA%25B3%2584%25EC%25A0%25951.png%3Falt=media%26token=5a83c482-73c7-4f9c-bc2a-b89883bc1ca6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5aaf28b1fccb88e2de4b44eeca2b9db4c374efa9f521124bf7b059a88e0e8380" alt=""><figcaption></figcaption></figure>
-
-계정 만들기 선택한 뒤
 
 1\) 성, 이름 입력 후 다음 선택
 
 
-
-{% hint style="warning" %}
-그런데
-
-계정 새로 만들기에서 아래와 같은 페이지가 뜬다면 계정 만들기 - "개인용"으로 선택하고 진행해주세요.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/계정9.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https:%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FGJIz4WC8ZTwDiBAnNx80%252F%25EA%25B3%2584%25EC%25A0%25952.png%3Falt=media%26token=507ebed9-a33b-43de-80a6-4425b165085f&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e3c6aeb0168d106ff14e102b1d998b409cbd29300c0ec19549b608251e735634" alt=""><figcaption></figcaption></figure>
 

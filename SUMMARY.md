@@ -360,6 +360,7 @@
   * [플레이스토어 앱 업로드 키 재설정](knowledgebase/playstore/keymanagement.md)
   * [플레이스토어 출시 후 관리 페이지](knowledgebase/playstore/manage.md)
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
+  * [구글 계정 만들기](knowledgebase/playstore/accounts.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
@@ -383,6 +384,8 @@
   * [앱스토어 리뷰/ 평점 관리](knowledgebase/appstore/review.md)
   * [앱스토어 출시 후 관리 페이지](knowledgebase/appstore/manage.md)
   * [앱스토어 '디지털 서비스법 규정' 조치방법 안내](knowledgebase/appstore/business.md)
+  * [애플 계정 만들기](knowledgebase/appstore/accounts.md)
+  * [Apple Developer Enterprise Program](knowledgebase/appstore/enterprise.md)
 * [원스토어](knowledgebase/onestore/README.md)
   * [원스토어 앱 등록 방법](knowledgebase/onestore/onestore.md)
   * [원스토어 앱 업데이트하기](knowledgebase/onestore/onestore-update.md)
@@ -455,5 +458,4 @@
 
 ***
 
-* [Apple Developer Enterprise Program](apple-developer-enterprise-program.md)
 * [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
