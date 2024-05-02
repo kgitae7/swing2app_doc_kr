@@ -308,7 +308,7 @@ swingWebViewPlugin.app.methods.activePush();
 swingWebViewPlugin.app.methods.inactivePush();
 ```
 
-### &#x20;<a href="#clipboard-write" id="clipboard-write"></a>
+
 
 ### • 디바이스에 변수 저장하기 <a href="#save-localstorage" id="save-localstorage"></a>
 
