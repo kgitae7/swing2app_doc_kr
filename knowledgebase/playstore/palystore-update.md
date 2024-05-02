@@ -132,7 +132,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/g2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g2 (1).png" alt=""><figcaption></figcaption></figure>
 
 **3)\[저장]버튼** 선택해주세요.&#x20;
 
@@ -148,7 +148,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/g3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g3 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\)변경사항 저장이 완료되면, 개시개요 페이지로 이동하라는 메시지 창이 뜹니다.&#x20;
 
@@ -156,7 +156,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/g4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g4 (2).png" alt=""><figcaption></figcaption></figure>
 
 5\)게시개요 화면에서 **\[검토를 위해 변경사항 전송]** 버튼 선택
 
@@ -166,7 +166,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/g5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g5 (1).png" alt=""><figcaption></figcaption></figure>
 
 개시 개요에서 파일이 잘 등록되었다면, 완료된 것입니다.
 
