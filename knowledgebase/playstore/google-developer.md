@@ -331,9 +331,17 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**1.구글 계정만들기**</mark>
 
-<figure><img src="../../.gitbook/assets/계정1 (1).png" alt=""><figcaption></figcaption></figure>
+지메일 계정은 아래 링크로 접속해서, 새로 만들어주세요.
 
-계정 만들기 선택한 뒤&#x20;
+{% embed url="https://accounts.google.com/" %}
+
+&#x20;**계정 만들기 - "개인용"으로 선택하고 진행해주세요.**
+
+<figure><img src="../../.gitbook/assets/계정9.png" alt=""><figcaption><p>계정 만들기 - 개인용 선택</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/계정1 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\) 성, 이름 입력 후 다음
 
