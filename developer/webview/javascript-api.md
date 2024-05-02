@@ -310,7 +310,7 @@ swingWebViewPlugin.app.methods.inactivePush();
 
 ### &#x20;<a href="#clipboard-write" id="clipboard-write"></a>
 
-### • 디바이스에 변수 저장하기 <a href="#clipboard-write" id="clipboard-write"></a>
+### • 디바이스에 변수 저장하기 <a href="#save-localstorage" id="save-localstorage"></a>
 
 앱내에 Storage 변수 저장하기
 
@@ -326,7 +326,7 @@ swingWebViewPlugin.app.methods.setVariable('id','test');
 ```
 {% endcode %}
 
-### • 디바이스에 저장된 변수 불러오기 <a href="#clipboard-write" id="clipboard-write"></a>
+### • 디바이스에 저장된 변수 불러오기 <a href="#load-localstorage" id="load-localstorage"></a>
 
 앱내에 Storage 저장된 변수값 가져오기
 
@@ -343,7 +343,7 @@ swingWebViewPlugin.app.methods.getVariable('id',function(value) {
 
 
 
-### • TTS 재생하기(프리미엄 기능) - 커스터마이징 필요 <a href="#clipboard-write" id="clipboard-write"></a>
+### • TTS 재생하기(프리미엄 기능) - 커스터마이징 필요 <a href="#speak-tts" id="speak-tts"></a>
 
 텍스트를 음성으로 출력하는 TTS 기능을 활성화하는 기능&#x20;
 
@@ -357,7 +357,7 @@ swingWebViewPlugin.app.methods.speakOutViaTTS('안녕하세요');
 
 
 
-### • 앱 첫 실행 여부 확인하기 <a href="#clipboard-write" id="clipboard-write"></a>
+### • 앱 첫 실행 여부 확인하기 <a href="#check-first-run" id="check-first-run"></a>
 
 앱이 처음실행 했는지는 확인할 수 있는 API , 앱의 첫 실행여부를 판단하는 함수
 
@@ -380,7 +380,7 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 ## 앱 화면 제어관련 Method <a href="#toolbar" id="toolbar"></a>
 
-### • 설정화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+### • 설정화면으로 이동하기 <a href="#go-to-setting" id="go-to-setting"></a>
 
 설정화면으로 이동하는 API Command.
 
@@ -394,7 +394,7 @@ swingWebViewPlugin.app.screen.setting.show();
 ```
 {% endcode %}
 
-### • 알림목록화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+### • 알림목록화면으로 이동하기 <a href="#go-to-notification-list" id="go-to-notification-list"></a>
 
 알림목록화면으로 이동하는 API Command.
 
@@ -408,7 +408,7 @@ swingWebViewPlugin.app.screen.notificationList.show();
 ```
 {% endcode %}
 
-### • 메뉴화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+### • 메뉴화면으로 이동하기 <a href="#go-to-menu" id="go-to-menu"></a>
 
 메뉴화면으로 이동하는 API Command.
 
@@ -422,7 +422,7 @@ swingWebViewPlugin.app.screen.menu.show();
 ```
 {% endcode %}
 
-### • 북마크목록화면으로 이동하기 <a href="#toolbar-setting" id="toolbar-setting"></a>
+### • 북마크목록화면으로 이동하기 <a href="#go-to-bookmark-list" id="go-to-bookmark-list"></a>
 
 북마크목록화면으로 이동하는 API Command.
 
