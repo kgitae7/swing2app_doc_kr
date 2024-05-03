@@ -35,7 +35,6 @@ description: 스윙투앱 푸시발송 API
 | Name                                                       | Type   | Description                                                                                                                                                                                            |
 | ---------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | app\_id<mark style="color:red;">\*</mark>                  |        | 스윙투앱에서 제공하는 APP\_ID                                                                                                                                                                                    |
-| api\_user<mark style="color:red;">\*</mark>                |        | 스윙투앱 사용자 계정(이메일 주소)                                                                                                                                                                                    |
 | app\_api\_key<mark style="color:red;">\*</mark>            | String | 스윙투앱에 발급받은 API KEY                                                                                                                                                                                     |
 | send\_target\_list<mark style="color:red;">\*</mark>       | String | <p>발송할 대상 사용자 아이디</p><p>단일 발송시 user_id</p><p>다중발송시 “,”로 구분하여 입력</p><p>Ex:)  user_id1,user_id2</p><p>전체 발송시 -1 입력</p><p>Ex:) -1</p>                                                                     |
 | send\_target\_type\_list<mark style="color:red;">\*</mark> | String | <p>발송대상 유형 설정항목<br>개별 사용자에게 보낼경우 개수만큼 MEMBER 라고 입력 ‘,’로 구분하여</p><p>전체에게 발송할 경우 ‘ALL_TARGET’ 이라고 넣는다.<br></p><p>[2명의 특정 사용자에게 보낼경우]</p><p>Ex:) MEMBER,MEMBER</p><p>[전체발송의 경우]</p><p>Ex:) ALL_TARGET</p> |
@@ -66,7 +65,6 @@ description: 스윙투앱 푸시발송 API
 ```javascript
 var form = new FormData();
 form.append("app_id", "app_id");
-form.append("api_user", "help@swing2app.co.kr");
 form.append("app_api_key", "api_key");
 form.append("send_target_list", "test");
 form.append("send_target_type_list", "MEMBER");
@@ -98,7 +96,6 @@ Unirest.setTimeouts(0, 0);
 HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/push_api_send_message")
   .multiPartContent()
   .field("app_id", "app_id")
-  .field("api_user", "help@swing2app.co.kr")
   .field("app_api_key", "api_key")
   .field("send_target_list", "test")
   .field("send_target_type_list", "MEMBER")
@@ -127,7 +124,7 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
-  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','api_user' => 'help@swing2app.co.kr','app_api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_title' => '메시지 제목','message_content' => '메시지 내용','message_image_url' => 'https://www.swing2app.co.kr/assets/images/logo.png','message_link_url' => 'https://www.swing2app.co.kr/'),
+  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','app_api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_title' => '메시지 제목','message_content' => '메시지 내용','message_image_url' => 'https://www.swing2app.co.kr/assets/images/logo.png','message_link_url' => 'https://www.swing2app.co.kr/'),
 ));
 
 $response = curl_exec($curl);
@@ -154,7 +151,6 @@ echo $response;
 <mark style="color:blue;">\[javascript 구현 예시 – 전체발송]</mark>
 
 ```javascript
-var apiUserId = "help@swing2app.co.kr";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
 var sendTargetList = '-1';
@@ -172,7 +168,6 @@ $.ajax({
         message_title:'메시지 내용',
         message_image_url: 'https://www.swing2app.co.kr/assets/images/logo.png',
         message_link_url: 'https://www.swing2app.co.kr/',
-        api_user : apiUserId,
         app_api_key : apiKey
     },
     success: function (model) {
@@ -185,7 +180,6 @@ $.ajax({
 <mark style="color:blue;">\[javascript 구현 예시 – 개별발송]</mark>
 
 ```javascript
-var apiUserId = "help@swing2app.co.kr";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
 var sendTargetList = 'user_id';
@@ -203,7 +197,6 @@ $.ajax({
         message_title:'메시지 내용',
         message_image_url: 'https://www.swing2app.co.kr/assets/images/logo.png',
         message_link_url: 'https://www.swing2app.co.kr/',
-        api_user : apiUserId,
         app_api_key : apiKey
     },
     success: function (model) {
