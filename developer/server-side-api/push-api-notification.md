@@ -165,7 +165,7 @@ $.ajax({
         send_target_type_list : sendTargetTypeList,
         send_type : 'push' ,
         message_title:'메시지 제목',
-        message_title:'메시지 내용',
+        message_content:'메시지 내용',
         message_image_url: 'https://www.swing2app.co.kr/assets/images/logo.png',
         message_link_url: 'https://www.swing2app.co.kr/',
         app_api_key : apiKey
