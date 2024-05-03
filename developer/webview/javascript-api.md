@@ -376,9 +376,25 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 
 
+## 앱 UI 제어관련 Method <a href="#ui-control" id="ui-control"></a>
+
+### • iOS 배경색상 설정하기 <a href="#change-ios-backcolor" id="change-ios-backcolor"></a>
+
+&#x20;iOS 의 디바이스 노치 및 홈바 UI 로 인해 설정된 SafeArea 영역 및 메인 색상을 설정하는 옵션입니다.
+
+색상은 hex 값으로 #을 제외하고 입력해주시면 됩니다. 해당 설정은 iOS 에서만 동작합니다.
+
+<mark style="background-color:blue;">\*js lib 2024\_02\_28\_001 버전 부터 사용 가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.ui.setIosBackColor('00ff00');
+```
+{% endcode %}
 
 
-## 앱 화면 제어관련 Method <a href="#toolbar" id="toolbar"></a>
+
+## 앱 화면 제어관련 Method <a href="#screen-control" id="screen-control"></a>
 
 ### • 설정화면으로 이동하기 <a href="#go-to-setting" id="go-to-setting"></a>
 
