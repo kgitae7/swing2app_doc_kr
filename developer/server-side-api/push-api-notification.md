@@ -20,28 +20,37 @@ description: 스윙투앱 푸시발송 API
 
 ## 스윙투앱으로 푸시를 발송하기 위한 API
 
-<mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_send`
+<mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_api_send_message`
 
 <mark style="color:orange;">**\* 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**</mark>
 
+
+
+
+
+
+
 #### Request Body
 
-| Name                                                       | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| app\_id<mark style="color:red;">\*</mark>                  |        | 스윙투앱에서 제공하는 APP\_ID                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| api\_user<mark style="color:red;">\*</mark>                |        | 스윙투앱 사용자 계정(이메일 주소)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| api\_key<mark style="color:red;">\*</mark>                 | String | 스윙투앱에 발급받은 API KEY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| send\_target\_list<mark style="color:red;">\*</mark>       | String | <p>발송할 대상 사용자 아이디</p><p>단일 발송시 user_id</p><p>다중발송시 “,”로 구분하여 입력</p><p>Ex:)  user_id1,user_id2</p><p>전체 발송시 -1 입력</p><p>Ex:) -1</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| send\_target\_type\_list<mark style="color:red;">\*</mark> | String | <p>발송대상 유형 설정항목<br>개별 사용자에게 보낼경우 개수만큼 MEMBER 라고 입력 ‘,’로 구분하여</p><p>전체에게 발송할 경우 ‘ALL_TARGET’ 이라고 넣는다.<br></p><p>[2명의 특정 사용자에게 보낼경우]</p><p>Ex:) MEMBER,MEMBER</p><p>[전체발송의 경우]</p><p>Ex:) ALL_TARGET</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| send\_type<mark style="color:red;">\*</mark>               | String | 발송 유형을 입력 푸시발송일 경우 push 라고 입력                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| message\_json<mark style="color:red;">\*</mark>            | String | <p>메시지 본문 내용 입력<br>* JSON 형식문자열에 맞게 아래 변수 입력</p><p>messageTitle:제목,</p><p>messageContent:내용</p><p>messageLinkUrl:링크주소</p><p>messageImageUrl:이미지 주소</p><p>*링크주소와 이미지 주소가 없을 경우 생략 가능<br>입력 예:)</p><p></p><p>[제목,내용,링크,이미지를 전송할 경우]</p><p>{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"} </p><p></p><p>[제목,내용,이미지만 전송할 경우] </p><p>{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageImageUrl":"http://www.swing2app.com/abc.png"} </p><p></p><p>[제목 내용만 전송할 경우] </p><p>{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }</p> |
+| Name                                                       | Type   | Description                                                                                                                                                                                            |
+| ---------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| app\_id<mark style="color:red;">\*</mark>                  |        | 스윙투앱에서 제공하는 APP\_ID                                                                                                                                                                                    |
+| api\_user<mark style="color:red;">\*</mark>                |        | 스윙투앱 사용자 계정(이메일 주소)                                                                                                                                                                                    |
+| app\_api\_key<mark style="color:red;">\*</mark>            | String | 스윙투앱에 발급받은 API KEY                                                                                                                                                                                     |
+| send\_target\_list<mark style="color:red;">\*</mark>       | String | <p>발송할 대상 사용자 아이디</p><p>단일 발송시 user_id</p><p>다중발송시 “,”로 구분하여 입력</p><p>Ex:)  user_id1,user_id2</p><p>전체 발송시 -1 입력</p><p>Ex:) -1</p>                                                                     |
+| send\_target\_type\_list<mark style="color:red;">\*</mark> | String | <p>발송대상 유형 설정항목<br>개별 사용자에게 보낼경우 개수만큼 MEMBER 라고 입력 ‘,’로 구분하여</p><p>전체에게 발송할 경우 ‘ALL_TARGET’ 이라고 넣는다.<br></p><p>[2명의 특정 사용자에게 보낼경우]</p><p>Ex:) MEMBER,MEMBER</p><p>[전체발송의 경우]</p><p>Ex:) ALL_TARGET</p> |
+| send\_type<mark style="color:red;">\*</mark>               | String | 발송 유형을 입력 푸시발송일 경우 push 라고 입력                                                                                                                                                                          |
+| message\_title<mark style="color:red;">\*</mark>           | String | 푸시 메시지 제목                                                                                                                                                                                              |
+| message\_content<mark style="color:red;">\*</mark>         | String | 푸시 메시지 내용                                                                                                                                                                                              |
+| message\_image\_url                                        | String | <p>이미지 주소<br>(이미지가 없을 경우 생략가능)</p>                                                                                                                                                                     |
+| message\_link\_url                                         | String | <p>링크 주소<br>(링크가 없을 경우 생략가능)</p>                                                                                                                                                                       |
 
 {% tabs %}
 {% tab title="200: OK " %}
 ```javascript
 {
     // Response
-    result : true, // message id 
+    result : true, // 메시지 발송 성공여부
     userCount : 3 , // 발송 사용자 Count
     remainSmsCount 0, 
     isPaymentSms : F
@@ -57,15 +66,18 @@ description: 스윙투앱 푸시발송 API
 ```javascript
 var form = new FormData();
 form.append("app_id", "app_id");
-form.append("api_user", "UserAccount");
-form.append("api_key", "api_key");
+form.append("api_user", "help@swing2app.co.kr");
+form.append("app_api_key", "api_key");
 form.append("send_target_list", "test");
 form.append("send_target_type_list", "MEMBER");
 form.append("send_type", "push");
-form.append("message_json", "{\"messageTitle\" : \"타이틀 내용\" , \"messageContent\" : \"보내는 내용. 네이버 테스트\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}");
+form.append("message_title", "메시지 제목");
+form.append("message_content", "메시지 내용");
+form.append("message_image_url", "https://www.swing2app.co.kr/assets/images/logo.png");
+form.append("message_link_url", "https://www.swing2app.co.kr/");
 
 var settings = {
-  "url": "https://www.swing2app.com/swapi/push_send",
+  "url": "https://www.swing2app.com/swapi/push_api_send_message",
   "method": "POST",
   "timeout": 0,
   "processData": false,
@@ -83,15 +95,18 @@ $.ajax(settings).done(function (response) {
 {% tab title="Java" %}
 ```java
 Unirest.setTimeouts(0, 0);
-HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/push_send")
+HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/push_api_send_message")
   .multiPartContent()
   .field("app_id", "app_id")
-  .field("api_user", "UserAccount")
-  .field("api_key", "api_key")
+  .field("api_user", "help@swing2app.co.kr")
+  .field("app_api_key", "api_key")
   .field("send_target_list", "test")
   .field("send_target_type_list", "MEMBER")
   .field("send_type", "push")
-  .field("message_json", "{\"messageTitle\" : \"타이틀 내용\" , \"messageContent\" : \"보내는 내용. 네이버 테스트\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}")
+  .field("message_title", "메시지 제목")
+  .field("message_content", "메시지 내용")
+  .field("message_image_url", "https://www.swing2app.co.kr/assets/images/logo.png")
+  .field("message_link_url", "https://www.swing2app.co.kr/")
   .asString();
 
 ```
@@ -104,7 +119,7 @@ HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/pu
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => 'https://www.swing2app.com/swapi/push_send',
+  CURLOPT_URL => 'https://www.swing2app.com/swapi/push_api_send_message',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,
@@ -112,7 +127,7 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
-  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','api_user' => 'UserAccount','api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_json' => '{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}'),
+  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','api_user' => 'help@swing2app.co.kr','app_api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_title' => '메시지 제목','message_content' => '메시지 내용','message_image_url' => 'https://www.swing2app.co.kr/assets/images/logo.png','message_link_url' => 'https://www.swing2app.co.kr/'),
 ));
 
 $response = curl_exec($curl);
@@ -128,9 +143,11 @@ echo $response;
 
 
 
-[https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f](https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f)
+[https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b8515d97-a411-405e-a633-2fda134970b4](https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b8515d97-a411-405e-a633-2fda134970b4)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
@@ -140,12 +157,10 @@ echo $response;
 var apiUserId = "help@swing2app.co.kr";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
-var messageJson = '{ "messageTitle" : "제목" , "messageContent" : "내용" , 
-"messageLinkUrl" : "http://m.naver.com" , "messageImageUrl" : "http://www.swing2app.com/abc.png" }';
 var sendTargetList = '-1';
 var sendTargetTypeList = "ALL_TARGET";
 $.ajax({
-    url: "https://www.swing2app.co.kr/swapi/push_send",
+    url: "https://www.swing2app.co.kr/swapi/push_api_send_message",
     type: "post",
     dataType: "json",
     data : {
@@ -153,9 +168,12 @@ $.ajax({
         send_target_list : sendTargetList,
         send_target_type_list : sendTargetTypeList,
         send_type : 'push' ,
-        message_json : messageJson,
+        message_title:'메시지 제목',
+        message_title:'메시지 내용',
+        message_image_url: 'https://www.swing2app.co.kr/assets/images/logo.png',
+        message_link_url: 'https://www.swing2app.co.kr/',
         api_user : apiUserId,
-        api_key : apiKey
+        app_api_key : apiKey
     },
     success: function (model) {
         console.log("푸시 발송 성공");
@@ -170,11 +188,10 @@ $.ajax({
 var apiUserId = "help@swing2app.co.kr";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
-var messageJson = '{ "messageTitle" : "제목" , "messageContent" : "내용"}';
 var sendTargetList = 'user_id';
 var sendTargetTypeList = "MEMBER";
 $.ajax({
-    url: "https://www.swing2app.co.kr/swapi/push_send",
+    url: "https://www.swing2app.co.kr/swapi/push_api_send_message",
     type: "post",
     dataType: "json",
     data : {
@@ -182,9 +199,12 @@ $.ajax({
         send_target_list : sendTargetList,
         send_target_type_list : sendTargetTypeList,
         send_type : 'push' ,
-        message_json : messageJson,
+        message_title:'메시지 제목',
+        message_title:'메시지 내용',
+        message_image_url: 'https://www.swing2app.co.kr/assets/images/logo.png',
+        message_link_url: 'https://www.swing2app.co.kr/',
         api_user : apiUserId,
-        api_key : apiKey
+        app_api_key : apiKey
     },
     success: function (model) {
         console.log("푸시 발송 성공");
