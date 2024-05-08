@@ -189,6 +189,7 @@
     * [비공개 앱만들기](manual/appmanage/service/private-app.md)
     * [앱 등록 기기수](manual/appmanage/service/appdevice.md)
     * [앱 고급 관리](manual/appmanage/service/advanced.md)
+    * [API-KEY 관리 페이지](manual/appmanage/service/api\_key.md)
     * [앱 문자열 관리](manual/appmanage/service/app-text.md)
     * [엡에 셋팅된 문구(메시지) 수정 방법](manual/appmanage/service/edit-text.md)
     * [앱 신고 관리](manual/appmanage/service/report.md)
