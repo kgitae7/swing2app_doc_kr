@@ -24,11 +24,7 @@ description: App ID, API 키 확인
 
 ## **API KEY  관리 페이지**
 
-<div align="left">
-
 <figure><img src="../../../.gitbook/assets/키1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 [앱운영-서비스관리-앱 운영관리-앱 고급관리 - API KEY관리](https://www.swing2app.co.kr/view/app\_advanced\_management\_by\_api\_key)&#x20;
 
