@@ -12,6 +12,24 @@
 
 <details>
 
+<summary><strong>푸시 API 연동에 필요한 APP ID, API 키 값은 어디서 확인할 수 있나요?</strong></summary>
+
+[앱운영-서비스관리-앱 운영관리-앱 고급관리 - API KEY관리](https://www.swing2app.co.kr/view/app\_advanced\_management\_by\_api\_key) 에서 확인 가능합니다.
+
+APP ID, API 키 확인이 가능합니다.
+
+\[복사하기] 버튼을 선택해서 이용해주세요.
+
+\*유료앱 사용자만 확인이 가능합니다. (이용권 구매 후 이용 가능)
+
+만약 이용권 구매 전 무료앱에서 테스트로 진행하고 싶으실 경우, 고객센터로 따로 요청주세요.
+
+테스트용 ID와 키를 발행하여 보내드립니다. (일주일간 이용 가능, 기기수 10대까지만 이용 가능)
+
+</details>
+
+<details>
+
 <summary>푸시 발송 수, 회원 수 제한이 있나요?</summary>
 
 푸시는 발송 횟수, 회원 수 제한 없이 모두 무제한으로 이용 가능합니다.
