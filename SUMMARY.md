@@ -294,6 +294,7 @@
   * [푸시앱에서 푸시발송하기](webapp/manual/pushapp-push.md)
   * [푸시 테스트 발송 - 푸시 장치 관리](webapp/manual/pushtest.md)
   * [푸시앱, 웹뷰앱 이용 부관리자 설정](webapp/manual/webappadmin.md)
+  * [\[푸시앱\] App Id, App Key](webapp/manual/api\_key.md)
 
 ## 앱 이용 가이드 <a href="#appguide" id="appguide"></a>
 
