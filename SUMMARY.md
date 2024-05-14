@@ -363,6 +363,7 @@
   * [플레이스토어 출시 후 관리 페이지](knowledgebase/playstore/manage.md)
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
   * [구글 계정 만들기](knowledgebase/playstore/accounts.md)
+  * [구글 개발자 개인 계정 설정](knowledgebase/playstore/identity.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
