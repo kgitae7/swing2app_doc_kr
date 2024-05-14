@@ -4,6 +4,8 @@ description: 스윙투앱 푸시발송 API
 
 # 푸시 API를 이용하여 푸시 발송하기
 
+***
+
 <mark style="color:blue;">푸시 API 를 이용하여 스윙투앱 푸시 발송하기</mark>
 
 스윙투앱에서는 대시보드에서 발송하는 푸시 메시지를  API 형태로 발송하는 것을 다음과 같이 제공하고 있습니다.
@@ -12,7 +14,9 @@ description: 스윙투앱 푸시발송 API
 
 <mark style="color:red;">\*해당 API 는 유료앱 사용자에게 제공되는 항목 입니다.</mark>&#x20;
 
-<mark style="color:red;">이용권 구매 후 당사 고객센터로 필요한 정보를 요청주시면 App Id, App Key 등의 정보를 보내드립니다.</mark>&#x20;
+&#x20;<mark style="color:red;">\*App Id, App Key 정보는 아래 가이드에서 확인 가능합니다.</mark>&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/service/api_key" %}
 
 
 
@@ -22,11 +26,9 @@ description: 스윙투앱 푸시발송 API
 
 <mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_api_send_message`
 
-<mark style="color:orange;">**\* 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**</mark>
+<mark style="color:orange;">\*APP ID, API KEY 는 API KEY 관리 페이지에서 확인 가능합니다.</mark>&#x20;
 
-
-
-
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/service/api_key" %}
 
 
 
