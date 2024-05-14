@@ -12,7 +12,9 @@ description: 스윙투앱 푸시알림 목록 가져오기 API
 
 <mark style="color:red;">\*해당 API 는 유료앱 사용자에게 제공되는 항목 입니다.</mark>&#x20;
 
-<mark style="color:red;">이용권 구매 후 당사 고객센터로 필요한 정보를 요청주시면 App Id, App Key 등의 정보를 보내드립니다.</mark>&#x20;
+<mark style="color:red;">\*App Id, App Key 정보는 아래 가이드에서 확인 가능합니다.</mark>&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/service/api_key" %}
 
 
 
@@ -22,7 +24,11 @@ description: 스윙투앱 푸시알림 목록 가져오기 API
 
 <mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_notification_history`
 
-<mark style="color:orange;">**\* 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**</mark>
+<mark style="color:orange;">\*APP ID, API KEY 는 API KEY 관리 페이지에서 확인 가능합니다.</mark>&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/service/api_key" %}
+
+
 
 #### Request Body
 
