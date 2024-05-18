@@ -92,6 +92,8 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 </div>
 
+<figure><img src="../../.gitbook/assets/푸시알림2.jpg" alt=""><figcaption></figcaption></figure>
+
 푸시앱의 가장 강력하고, 사용도가 높은 기능인 '푸시' 알림 발송 기능을 이용할 수 있습니다.
 
 앱을 설치한 사용자들에게 푸시 알림을 전송할 수 있구요.
@@ -140,15 +142,11 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/툴바기능소개.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
 <figure><img src="../../.gitbook/assets/푸시툴바.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
+
+<figure><img src="../../.gitbook/assets/푸시툴바기능소개.jpg" alt=""><figcaption></figcaption></figure>
 
 앱 화면 하단에 툴바 영역이 생성되어 사용자가 하단 메뉴 구성을 할 수 있으며, 원하는 링크를 넣을 수도 있습니다.&#x20;
 
@@ -162,7 +160,9 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 
 
-### <mark style="color:blue;">3)애드몹 광고  \*푸시앱, 웹뷰앱 공통 기능</mark>
+### <mark style="color:blue;">3)앱 광고-애드몹</mark>&#x20;
+
+#### &#x20;<mark style="color:blue;">\*푸시앱, 웹뷰앱 공통 기능</mark>
 
 <div align="left">
 
@@ -234,7 +234,7 @@ description: 웹사이트를 연결한 웹앱 - 푸시전용앱을 소개합니�
 
 
 
-### <mark style="color:blue;">8)API 도구 +푸시 API연동</mark>&#x20;
+### <mark style="color:blue;">8)API 도구+푸시 API연동</mark>&#x20;
 
 Javascript Front API 와 Back-end API 를 통해서 네이티브 도구를 웹에서 직접 컨트롤하고 다양한 기능을 제공할 수 있습니다.
 
