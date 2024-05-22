@@ -226,7 +226,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9Cnew4.png)
+<figure><img src="../../../.gitbook/assets/플레이업로드신청서new4.png" alt=""><figcaption></figcaption></figure>
 
 **12) 업로드 계정 설정 – “나의 구글 개발자 계정에 스윙 계정 초대하기”**&#x20;
 
@@ -246,7 +246,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 개발자 초대를 해주셔야 사용자분의 계정 대시보드 접근이 가능하며, 앱 등록 작업을 해드릴 수 있습니다.
 
-구글 개발자 콘솔사이트에서 스윙의 개발자 계정(swingapp.developer@gmail.com)을 초대해주시면, 초대 수락 후 고객님의 계정으로 앱을 등록해드릴 수 있습니다.
+구글 개발자 콘솔사이트에서 스윙의 개발자 계정 "swing2appmanager@gmail.com" 을 초대해주시면, 초대 수락 후 고객님의 계정으로 앱을 등록해드릴 수 있습니다.
 
 
 
