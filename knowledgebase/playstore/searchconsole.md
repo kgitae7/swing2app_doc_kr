@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/조직인증5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/조직인증5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

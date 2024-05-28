@@ -8,23 +8,25 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-
-
+{% hint style="info" %}
 구글(지메일) 계정이 있어요, 가지고 있는 계정으로 개발자 등록할게요!
 
-**STEP1.**[**사용하는 구글 계정으로 개발자 계정 만들기** ](google-developer.md#step1.-gmail)
-
-
-
-구글(지메일) 계정이 없어요. 계정을 새로 만든 후 개발자 등록할게요!
-
-**STEP2**.[**구글 계정 새로 만들어서 개발자 계정 등록하기**](google-developer.md#step1.-gmail)
-
-계정이 없거나, 개발자용 계정을 새로 만들어야 한다면 지메일 계정을 새로 등록한 뒤→개발자 계정을 등록할 수 있습니다.&#x20;
-
-
+[**STEP1.사용하는 구글 계정으로 개발자 계정 만들기** ](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer#step1)
+{% endhint %}
 
 {% hint style="info" %}
+구글(지메일) 계정이 없어요. 계정을 새로 만든 후 개발자 등록할게요!
+
+[**STEP2**.**구글 계정 새로 만들어서 개발자 계정 등록하기**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer#step2)
+
+계정이 없거나, 개발자용 계정을 새로 만들어야 한다면 지메일 계정을 새로 등록한 뒤→개발자 계정을 등록할 수 있습니다.&#x20;
+{% endhint %}
+
+***
+
+
+
+{% hint style="success" %}
 **★구글 개발자 계정이란?**
 
 \-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
@@ -627,13 +629,31 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 계정 등록이 완료되면, 실제로 앱을 등록할 수 있는 구글 플레이 콘솔 페이지가 열립니다.
 
-<mark style="color:blue;">**\[앱만들기]**</mark> 파란색 버튼을 선택해서 앱을 플레이스토어에 출시할 수 있어요.
+그런데! 등록이 완료되었다고 바로 콘솔에서 앱을 등록할 수 있는 것이 아닙니다.
+
+계정 설정을 완료해주셔야 합니다.&#x20;
+
+
+
+***
+
+
+
+## STEP3.구글 개발자 개인 계정 설정 완료하기
+
+
+
+계정 인증을 하는 방법은 아래 가이드로 확인해주세요.&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/identity" %}
+
+계정 인증까지 완료해야, 최종적으로 계정 등록이 완료됩니다!
 
 **플레이스토어 앱 출시방법은 스윙투앱 – 플레이스토어 앱 등록 출시하기 매뉴얼을 확인해주세요\~!**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease" %}
 
-
+***
 
 {% hint style="danger" %}
 <mark style="color:red;">**중요 안내**</mark>
@@ -654,7 +674,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 관련 내용은 플레이스토어 업로드 신청방법 매뉴얼을 확인해주세요.&#x20;
 
-**☞**[**\[플레이스토어 업로드 신청방법 보러가기\]**](../../manual/appmanage/version/playstore-upload.md)
+[**플레이스토어 업로드 신청방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)
 
 7\) 만든 개발자 계정에는 제한없이 앱 등록이 가능합니다.
 

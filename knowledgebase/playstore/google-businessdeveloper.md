@@ -433,52 +433,30 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 구매 완료 및, 개발자 계정 생성이 완료되었습니다.
 
-그런데! 여기서 중요한 점은 조직(비즈니스용) 계정은 여기서 끝이 아니라 본인 인증을 한번 더 해야 합니다.
+그런데! 여기서 중요한 점은 조직(비즈니스용) 계정은 여기서 끝이 아니라 개발자 계정 설정 '인증' 작업을 해야 합니다.&#x20;
 
-**\[Play Console로 이동]** 선택해주세요.
+
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 4.본인 인증
+## 4.계정 설정 완료하기
 
 ​
 
-### STEP1.본인인증 선택
+구글 개발자 조직 계정 설정 완료하기
 
-<div align="left">
+계정 인증을 하는 방법은 아래 가이드로 확인해주세요.&#x20;
 
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D2.png" alt=""><figcaption></figcaption></figure>
 
-</div>
 
-버튼 선택시,
+계정 인증까지 완료해야, 최종적으로 계정 등록이 완료됩니다!
 
-구글 플레이 콘솔 페이지로 이동되며, 위의 이미지처럼 본인 인증이 필요하다는 메시지가 떠 있는 것을 확인할 수 있어요.
+**플레이스토어 앱 출시방법은 스윙투앱 – 플레이스토어 앱 등록 출시하기 매뉴얼을 확인해주세요\~!**
 
-\[본인 인증]을 선택해주세요.
 
-​
-
-### STEP2.본인 확인 절차
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-본인 확인을 위해 가장 먼저 개인 신원을 확인하게 됩니다.
-
-1.이름, 주민번호 입력, 통신사 선택, 연락처(핸드폰번호)를 등록하여 인증 받습니다.
-
-2.주소를 입력합니다.
-
-거주지 주소를 입력하고, 국가/지역은 대한민국을 선택합니다.
-
-3.제출 버튼을 선택해주세요.
 
 {% hint style="danger" %}
-<mark style="color:red;">\*주의사항\*</mark>
+<mark style="color:red;">**\*주의사항\***</mark>
 
 여기서 주의하셔야 할 사항은, 주소지를 구글 개발자 계정시 입력한 주소지와 다르게 입력시 인증이 되지 않을 수 있습니다.
 
@@ -489,58 +467,8 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 따라서 국가 및 주소는 꼭 동일하게 기재해주시기 바랍니다.
 {% endhint %}
 
-
-
-### STEP3.OTP(인증 코드 번호) 입력
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-마지막 인증으로 사용자가 입력한 핸드폰번호로 인증번호(코드)를 발송합니다.
-
-발송된 코드(6자리)를 입력하고 \[확인] 버튼을 눌러주세요.
-
-
-
-### STEP4.확인 완료
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니다.
-
-​
-
-### STEP5.완료 – 콘솔 이용 가능
-
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-이제 플레이 콘솔 이용이 가능해집니다.
-
-이렇게 본인 인증까지 완료해야 앱 등록이 가능합니다.
-
-본인 인증이 완료되지 않을 경우, 콘솔이 만들어져도 앱 등록을 할 수 없어요.
-
-따라서 개발자 계정 등록이 완료되었다는 메시지 확인 후, 반드시 플레이 콘솔로 이동하여 해야 할 작업이 모두 완료되었는지 체크해주세요.
-
-본인 인증 확인 메시지가 뜨지 않는 경우도 있습니다.
-
-이 경우는 바로 앱 등록이 가능합니다.
-
-
-
 {% hint style="danger" %}
-<mark style="color:red;">**중요 안내**</mark>
+&#x20;<mark style="color:red;">**안내사항**</mark>
 
 1\)플레이스토어 앱 등록 및 출시를 위해서는 사용자분의 구글 개발자 계정이 반드시 있어야 하며, 선택이 아닌 필수입니다.
 
