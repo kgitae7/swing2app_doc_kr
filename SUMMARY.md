@@ -366,7 +366,7 @@
   * [구글 계정 만들기](knowledgebase/playstore/accounts.md)
   * [구글 개발자 개인 계정 설정](knowledgebase/playstore/identity.md)
   * [구글 개발자 조직 계정 설정](knowledgebase/playstore/businessidentity.md)
-  * [구글 개발자 - 조직 웹사이트 인증](knowledgebase/playstore/searchconsole.md)
+  * [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
