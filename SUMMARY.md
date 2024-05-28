@@ -367,6 +367,7 @@
   * [구글 개발자 개인 계정 설정](knowledgebase/playstore/identity.md)
   * [구글 개발자 조직 계정 설정](knowledgebase/playstore/businessidentity.md)
   * [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
+  * [구글 개발자 계정 등록 프로세스](knowledgebase/playstore/googleprocess-1.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
@@ -423,12 +424,6 @@
   * [인앱 주의사항](knowledgebase/inapp/announcement.md)
   * [인앱(In-app)이란?](knowledgebase/inapp/inapp.md)
 
-## 개발자 등록 프로세스 <a href="#storedeveloper" id="storedeveloper"></a>
-
-* [애플 개발자 계정 등록 프로세스](storedeveloper/appleprocess.md)
-* [구글 개발자 계정 등록 프로세스](storedeveloper/googleprocess.md)
-* [DUNS 넘버 발행 방법](storedeveloper/duns.md)
-
 ## 개발자 문서 <a href="#developer" id="developer"></a>
 
 * [AppLink 연동](developer/applink/README.md)
@@ -450,6 +445,8 @@
   * [Firebase 프로젝트 연동하기(안드로이드)](developer/firebase/firebase.md)
   * [Firebase 프로젝트 연동하기(iOS)](developer/firebase/firebase-ios.md)
   * [Dynamic Links 연동](developer/firebase/dynamic-links.md)
+* [애플 개발자 계정 등록 프로세스](developer/appleprocess.md)
+* [DUNS 넘버 발행 방법](developer/duns.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
 

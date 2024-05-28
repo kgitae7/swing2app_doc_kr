@@ -30,7 +30,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/구글계정초대1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글계정초대1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 #### 초대 완료
 
-<figure><img src="../.gitbook/assets/구글계정초대2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글계정초대2.png" alt=""><figcaption></figcaption></figure>
 
 스윙투앱 계정을 입력하고 초대장을 보내주시면&#x20;
 
@@ -60,13 +60,13 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 사용자 및 권한 메뉴에서 등록된 스윙투앱 계정을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 구글 API 액세스 등록&#x20;
 
 구글 개발자 계정 초대 완료 후, API 액세스에서 사용자 등록을 해주세요.&#x20;
 
-<figure><img src="../.gitbook/assets/구글초대1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대1 (2).png" alt=""><figcaption></figcaption></figure>
 
 1\)구글 플레이 콘솔 - 설정 -\[ API 액세스]를 선택합니다.&#x20;
 
@@ -78,7 +78,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/구글초대2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -86,7 +86,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 
 
-<figure><img src="../.gitbook/assets/구글초대3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대3.png" alt=""><figcaption></figcaption></figure>
 
 4\)\[새 Google Cloud 프로젝트 만들기] 선택
 
@@ -96,7 +96,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/구글초대4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/구글초대5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -118,7 +118,7 @@ Google Cloud(구글 클라우드) 화면으로 이동합니다.&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/구글초대6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -128,7 +128,7 @@ Google Cloud(구글 클라우드) 화면으로 이동합니다.&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/구글초대7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글초대7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
