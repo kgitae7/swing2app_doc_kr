@@ -49,7 +49,7 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 기업 개발자 등록시에는 이제 DUNS 넘버 등록도 함께 진행되어야 합니다.
 
-[DUNS 넘버 등록 방법 보러가기](https://documentation.swing2app.co.kr/storedeveloper/duns)
+[**DUNS 넘버 등록 방법 보러가기**](https://documentation.swing2app.co.kr/developer/duns)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -83,7 +83,11 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 ## 1. 구글 계정 만들기
 
-[https://accounts.google.com/](https://accounts.google.com/)  계정 만들기
+
+
+\*지메일 계정은 아래 링크로 접속해서, 새로 만들어주세요.
+
+{% embed url="https://accounts.google.com/" %}
 
 {% hint style="success" %}
 **사용 중인 개인 계정(지메일)으로 개발자 계정 만들어도 되나요?**
@@ -96,10 +100,6 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 {% endhint %}
 
 
-
-\*지메일 계정은 아래 링크로 접속해서, 새로 만들어주세요.
-
-{% embed url="https://accounts.google.com/" %}
 
 &#x20;**계정 만들기 - "개인용"으로 선택하고 진행해주세요.**
 
