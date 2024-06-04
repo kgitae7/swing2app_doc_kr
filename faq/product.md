@@ -24,7 +24,7 @@
 
 <details>
 
-<summary><strong>유료앱 이용권 1개월은 30일 기준인가요?</strong></summary>
+<summary>유료앱 이용권 1개월은 30일 기준인가요?</summary>
 
 1개월 이용권 30일 기준입니다.
 

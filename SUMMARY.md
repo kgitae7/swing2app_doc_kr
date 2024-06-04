@@ -8,7 +8,7 @@
 * [커스터마이징(앱개발 서비스)](https://www.swing2app.co.kr/landing/customization)
 * [스윙투앱 업데이트](<README (1).md>)
 * [스윙투앱 업데이트 히스토리](update-history.md)
-* [FAQ(자주 묻는 질문)](faq/README.md)
+* [자주 묻는 질문 FAQ](faq/README.md)
   * [가장 많이 묻는 질문 FAQ](faq/top.md)
   * [앱제작 FAQ](faq/app-production.md)
   * [앱운영 및 기능 FAQ](faq/appoperation.md)

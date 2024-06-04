@@ -138,7 +138,7 @@
 
 <details>
 
-<summary>애드몹을 앱에 적용할 수 있나요?</summary>
+<summary><strong>애드몹을 앱에 적용할 수 있나요?</strong></summary>
 
 네 만든 앱에 애드몹 플러그인을 직접 셋팅하여 운영할 수 있습니다.&#x20;
 
@@ -152,7 +152,7 @@
 
 <details>
 
-<summary>원하는 사용자만 앱을 사용하게 하고 싶습니다. (비공개 앱)</summary>
+<summary><strong>원하는 사용자만 앱을 사용하게 하고 싶습니다. (비공개 앱)</strong></summary>
 
 네 가능합니다.
 
@@ -174,7 +174,7 @@
 
 <details>
 
-<summary>앱에서 제공되는 메시지 내용을 바꿀 수 있나요?</summary>
+<summary><strong>앱에서 제공되는 메시지 내용을 바꿀 수 있나요?</strong></summary>
 
 네 가능합니다.
 
@@ -194,7 +194,7 @@
 
 <details>
 
-<summary>앱에서 제공되는 언어를 다른 외국어로 변경할 수 있나요?</summary>
+<summary><strong>앱에서 제공되는 언어를 다른 외국어로 변경할 수 있나요?</strong></summary>
 
 네 가능합니다.
 
@@ -224,7 +224,7 @@
 
 <details>
 
-<summary>앱 이용약관, 개인정보처리방침 내용을 수정할 수 있나요?</summary>
+<summary><strong>앱 이용약관, 개인정보처리방침 내용을 수정할 수 있나요?</strong></summary>
 
 네 가능합니다.
 
@@ -400,7 +400,7 @@ HTML에디터로 쓰기를 선택하시면 다양하게 텍스트 스타일을 �
 
 <details>
 
-<summary>게시글은 다운 받을 수 있나요?</summary>
+<summary><strong>게시글은 다운 받을 수 있나요?</strong></summary>
 
 네 가능합니다.
 
@@ -416,7 +416,7 @@ HTML에디터로 쓰기를 선택하시면 다양하게 텍스트 스타일을 �
 
 <details>
 
-<summary>게시물을 다른 게시판으로 완전히 옮길 수 있나요?(복사X)</summary>
+<summary><strong>게시물을 다른 게시판으로 완전히 옮길 수 있나요?(복사X)</strong></summary>
 
 게시물 이동 기능을 이용하여 다른 게시판으로 글을 옮길 수 있습니다.
 

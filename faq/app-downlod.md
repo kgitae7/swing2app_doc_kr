@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>제작한 앱은 어떻게 다운 받을 수 있나요?</summary>
+<summary><strong>제작한 앱은 어떻게 다운 받을 수 있나요?</strong></summary>
 
 **스윙투앱 공식앱 - 앱 미리보기**를 이용하여 제작한 앱을 확인할 수 있습니다.
 
@@ -77,7 +77,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 <details>
 
-<summary>안드로이드폰 어플리케이션 설치시, 알 수 없는 출처라고 나옵니다.</summary>
+<summary><strong>안드로이드폰 어플리케이션 설치시, 알 수 없는 출처라고 나옵니다.</strong></summary>
 
 현재 구글에서는 구글 플레이스토어를 제외한 기타 출처를 통해 설치하는 앱에 대해서 경고하는 것으로 기본 설정되어 있습니다.
 
@@ -111,7 +111,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 <details>
 
-<summary>무료버전의 앱을 플레이스토어에 등록하려고 하니 '디버그용 인증서' 라는 메시지가 뜨며 등록이 되지 않습니다.</summary>
+<summary><strong>무료버전의 앱을 플레이스토어에 등록하려고 하니 '디버그용 인증서' 라는 메시지가 뜨며 등록이 되지 않습니다.</strong></summary>
 
 디버그 관련 메시지는 무료버전의 앱을 마켓에 올리려고 할 때 뜨는 메시지입니다.&#x20;
 
@@ -139,7 +139,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 <details>
 
-<summary>유료앱 기간 종료 후 무료앱으로 어떻게 전환하나요?</summary>
+<summary><strong>유료앱 기간 종료 후 무료앱으로 어떻게 전환하나요?</strong></summary>
 
 유료앱으로 더이상 사용하지 않고, 무료앱으로 사용하길 원한다면 아래 방법으로 진행해주세요.
 
@@ -163,7 +163,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 <details>
 
-<summary>공유하기로 안드로이드폰에 앱 설치하는 방법을 알려주세요.</summary>
+<summary><strong>공유하기로 안드로이드폰에 앱 설치하는 방법을 알려주세요.</strong></summary>
 
 **앱 공유하기는 무료로 제작한 앱을 안드로이드폰에서 서로 공유하여, 내가 제작한 앱을 다른 사용자에게 전달해줄 수 있는 기능입니다.**
 
@@ -183,7 +183,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 <details>
 
-<summary>앱 설치 링크주소는 어디서 받을 수 있나요?</summary>
+<summary><strong>앱 설치 링크주소는 어디서 받을 수 있나요?</strong></summary>
 
 스윙투앱 홈페이지 - 앱제작이력에서 APK파일을 받으면 다운로드에서 앱을 설치할 수 있는 링크 주소를 복사할 수 있습니다.
 
@@ -209,7 +209,7 @@ test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어
 
 <details>
 
-<summary>APK파일을 직접 다운받는 방법을 알려주세요.</summary>
+<summary><strong>APK파일을 직접 다운받는 방법을 알려주세요.</strong></summary>
 
 스윙투앱 공식앱 - 앱 미리보기 기능을 이용하는 것 외에 안드로이드폰에서는 APK파일로 직접 다운받을 수 있습니다.
 
@@ -247,7 +247,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일�
 
 <details>
 
-<summary>유료앱으로 전환 후, 앱을 다운받는데 ‘Play 프로텍트에 의해 차단됨’ 메시지가 뜹니다.</summary>
+<summary><strong>유료앱으로 전환 후, 앱을 다운받는데 ‘Play 프로텍트에 의해 차단됨’ 메시지가 뜹니다.</strong></summary>
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9C%A0%EB%A3%8C%EC%95%B1-%EB%AF%B8%EC%84%A4%EC%B9%981.png" alt="" data-size="original">
 
@@ -263,7 +263,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일�
 
 <details>
 
-<summary>유료앱으로 전환 후, 앱을 다운받는데 ‘앱이 설치되지 않았습니다.’ 메시지가 뜹니다.</summary>
+<summary><strong>유료앱으로 전환 후, 앱을 다운받는데 ‘앱이 설치되지 않았습니다.’ 메시지가 뜹니다.</strong></summary>
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B5%AC%EA%B8%80%EC%A0%95%EC%B1%855-506x1024.png" alt="" data-size="original">
 
@@ -281,7 +281,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일�
 
 <details>
 
-<summary>다운받은 앱 용량은 어디서 확인할 수 있나요?</summary>
+<summary><strong>다운받은 앱 용량은 어디서 확인할 수 있나요?</strong></summary>
 
 무료버전앱은 어플리케이션 정보를 확인하면 저장용량을 확인할 수 있습니다.
 
@@ -301,7 +301,7 @@ APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일�
 
 <details>
 
-<summary>다운받은 앱 버전은 어디서 확인할 수 있나요?</summary>
+<summary><strong>다운받은 앱 버전은 어디서 확인할 수 있나요?</strong></summary>
 
 일반 프로토타입 앱, 푸시앱 중에서 '설정' 메뉴를 앱에 적용한 경우는 설정에서 버전을 확인할 수 있습니다.
 
