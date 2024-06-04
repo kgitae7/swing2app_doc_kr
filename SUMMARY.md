@@ -26,6 +26,7 @@
   * [스윙샵(스윙쇼핑몰) FAQ](faq/paid-market-1.md)
   * [회원가입 및 로그인 FAQ](faq/join-login.md)
   * [앱 미리보기 FAQ](faq/app-preview.md)
+  * [플레이스토어 '앱 이전'  FAQ](faq/apptransfer.md)
 
 ## 일반프로토타입 앱 매뉴얼 <a href="#manual" id="manual"></a>
 
