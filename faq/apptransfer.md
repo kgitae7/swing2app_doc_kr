@@ -20,7 +20,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>2.앱 이전으로 인한 출시가 공식적으로 문제가 없나요?</summary>
+<summary><strong>2.앱 이전으로 인한 출시가 공식적으로 문제가 없나요?</strong></summary>
 
 네 문제 없습니다.
 
@@ -34,7 +34,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>3.앱 이전은 얼마나 걸리나요?</summary>
+<summary><strong>3.앱 이전은 얼마나 걸리나요?</strong></summary>
 
 앱 이전은 4\~5일 소요됩니다.
 
@@ -48,7 +48,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>4.앱 이전도 거절이 될 수 있나요?</summary>
+<summary><strong>4.앱 이전도 거절이 될 수 있나요?</strong></summary>
 
 거절될 일은 없습니다 ^^&#x20;
 
@@ -58,7 +58,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>5.이전 후 출시 링크도 변경되나요?</summary>
+<summary><strong>5.이전 후 출시 링크도 변경되나요?</strong></summary>
 
 이전이 완료되어도, 이전 전 발행된 출시 링크는 동일합니다.
 
@@ -70,7 +70,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>6.앱이 옮겨지면 계정에서 직접 운영이 가능한가요?</summary>
+<summary><strong>6.앱이 옮겨지면 계정에서 직접 운영이 가능한가요?</strong></summary>
 
 네 앱 이전이 완료되어, 해당 사용자분의 계정으로 앱이 옮겨지면 직접 운영이 가능합니다.
 
@@ -78,7 +78,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>7.앱이 옮겨지면 계정에서 직접 운영이 가능한가요?</summary>
+<summary><strong>7.앱이 옮겨지면 계정에서 직접 운영이 가능한가요?</strong></summary>
 
 네 앱 이전이 완료되어, 해당 사용자분의 계정으로 앱이 옮겨지면 업데이트 직접 하실 수 있습니다.
 
@@ -90,7 +90,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>8.계정에 하나 앱이 출시되면, 이후 앱은 해당 계정에서 정상 출시 가능한가요?</summary>
+<summary><strong>8.계정에 하나 앱이 출시되면, 이후 앱은 해당 계정에서 정상 출시 가능한가요?</strong></summary>
 
 개인 개발자 계정은 앱을 등록할 때 마다 테스트 등록을 거쳐야 합니다.
 
@@ -102,7 +102,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>9.스윙투앱 계정으로 출시해서 계속 이용하면 안되나요? 개발자 계정 대리등록이 불가한가요?</summary>
+<summary><strong>9.스윙투앱 계정으로 출시해서 계속 이용하면 안되나요? 개발자 계정 대리등록이 불가한가요?</strong></summary>
 
 네 불가합니다. 구글은 정책상 대리등록을 금지하고 있습니다.
 
@@ -118,7 +118,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>10.그럼, 내부 테스트 등록은 안하나요?</summary>
+<summary><strong>10.그럼, 내부 테스트 등록은 안하나요?</strong></summary>
 
 앱 이전을 통한 앱 출시만 해드리고, 테스트 등록은 하지 않습니다.
 
@@ -132,7 +132,7 @@ description: 구글 플레이스토어 앱 이전에 대해서 자주 묻는 질
 
 <details>
 
-<summary>11.앱 이전 요청시 앱제작비용 ? 앱개발비용 ?발생되나요?</summary>
+<summary><strong>11.앱 이전 요청시 앱제작비용 ? 앱개발비용 ?발생되나요?</strong></summary>
 
 추가 앱개발, 앱제작 비용은 전혀 들지 않습니다.
 
