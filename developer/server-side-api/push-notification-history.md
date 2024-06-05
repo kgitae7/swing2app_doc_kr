@@ -49,11 +49,15 @@ description: 스윙투앱 푸시알림 목록 가져오기 API
     "result": true,
     "pushList": [
         {
+            "id" : 141512,
+            "read_datetime" : 1709614395000, 
             "message_subject": "제목",
             "message_content": "내용",
             "regi_datetime": 1709614395000
         },
         {
+            "id" : 141513,
+            "read_datetime" : 1709614395000,
             "message_subject": "title",
             "message_content": "content",
             "regi_datetime": 1709520271000
