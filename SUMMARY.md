@@ -15,7 +15,7 @@
   * [앱 설치 및 다운로드 FAQ](faq/app-downlod.md)
   * [유료이용 및 스토어업로드 FAQ](faq/paid-market.md)
   * [유료앱 이용권 및 티켓 FAQ](faq/product.md)
-  * [결제 관련 FAQ](faq/payment.md)
+  * [이용권/결제 관련 FAQ](faq/payment.md)
   * [무제한이용권 및 패키지상품 FAQ](faq/package.md)
   * [푸시 발송 관련 FAQ](faq/push.md)
   * [플레이스토어 FAQ](faq/paid-market-2.md)
