@@ -70,7 +70,6 @@
     * [앱 업데이트 방법](manual/v3/step4/app-update.md)
     * [업데이트 유형별 앱 실행화면](manual/v3/step4/update-type.md)
     * [디바이스 모드 설정(앱 화면 전환)](manual/v3/step4/dvice.md)
-    * [안드로이드 앱 패키지 아이디 변경](manual/v3/step4/undefined.md)
   * [앱 업데이트 방법](manual/v3/update.md)
 * [앱제작 메뉴얼(V2)](manual/v2/README.md)
   * [앱 기본정보](manual/v2/appbasic/README.md)
@@ -195,6 +194,7 @@
     * [비공개 앱만들기](manual/appmanage/service/private-app.md)
     * [앱 등록 기기수](manual/appmanage/service/appdevice.md)
     * [앱 고급 관리](manual/appmanage/service/advanced.md)
+    * [안드로이드 앱 패키지 아이디 변경](manual/appmanage/service/packageid.md)
     * [API-KEY 관리 페이지](manual/appmanage/service/api\_key.md)
     * [앱 문자열 관리](manual/appmanage/service/app-text.md)
     * [엡에 셋팅된 문구(메시지) 수정 방법](manual/appmanage/service/edit-text.md)
@@ -301,6 +301,7 @@
   * [푸시 테스트 발송 - 푸시 장치 관리](webapp/manual/pushtest.md)
   * [푸시앱, 웹뷰앱 이용 부관리자 설정](webapp/manual/webappadmin.md)
   * [\[푸시앱\] App Id, App Key](webapp/manual/api\_key.md)
+  * [안드로이드 앱 패키지 아이디 변경](webapp/manual/packageid.md)
 
 ## 앱 이용 가이드 <a href="#appguide" id="appguide"></a>
 
