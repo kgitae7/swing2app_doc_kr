@@ -173,7 +173,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 
-<mark style="color:orange;">**앱제작 V3버전 이용시)**</mark>
+<mark style="color:orange;">**앱제작 V3버전)**</mark>
 
 <figure><img src="../../../.gitbook/assets/가이드2-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -182,16 +182,6 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 등록 후 저장해주시면 반영됩니다.
 
 
-
-<mark style="color:orange;">**앱제작 V2버전 이용시)**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new1.png)
-
-만들어놓은 대기화면 이미지를 앱제작에서 적용해주세요
-
-**앱제작 → 1.앱기본정보 단계→대기화면 항목** 이미지에 마우스로 클릭하면 이미지 첨부 창이 뜹니다.
-
-등록 후 저장해주시면 반영됩니다.
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
