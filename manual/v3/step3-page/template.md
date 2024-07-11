@@ -152,6 +152,16 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
+<figure><img src="../../../.gitbook/assets/녹화_2024_07_11_10_58_01_820.gif" alt=""><figcaption></figcaption></figure>
+
+\-버튼 이미지 역시 이미지를 새로 변경할 경우 이미지 선택 후, 원하는 이미지를 넣어서 적용 가능합니다.
+
+\-아이콘 이미지는 따로 디자인된 이미지를 넣어주셔야 합니다.
+
+\*이미지 샘플은 제공하지 않습니다.&#x20;
+
+
+
 <mark style="color:blue;">**\[텍스트편집 도구]**</mark>
 
 <div align="left">
