@@ -50,9 +50,9 @@ description: 앱스토어 리뷰 관리 페이지 이용 방법을 알려드립�
 
 ## 3.이용방법
 
-<figure><img src="../../../.gitbook/assets/SE-bb51d03b-a811-4b71-82df-ac09394c3405 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱스토어리뷰.png" alt=""><figcaption></figcaption></figure>
 
-앱운영 – 서비스관리-부가 서비스관리-앱스토어 리뷰 관리
+[<mark style="color:blue;">앱운영 – 서비스관리-부가 서비스관리-앱스토어 리뷰 관리</mark>](https://www.swing2app.co.kr/view/apple\_app\_store\_review\_list)
 
 1\)앱스토어 리뷰 페이지에서는 해당 앱에 매겨진 평균 평점과 별점 표시
 
