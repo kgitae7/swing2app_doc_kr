@@ -185,7 +185,7 @@ description: 앱스토어에서 자주 거절되는 '웹앱' 심사 거절 사�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/웹뷰앱_신고차단 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/웹뷰앱_신고차단 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

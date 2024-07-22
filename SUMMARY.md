@@ -342,6 +342,7 @@
   * [플레이스토어 스크린샷 이미지](knowledgebase/playstore/screenshot.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
+  * [\[웹앱\] 플레이스토어 심사 거절 사례](knowledgebase/playstore/webappreject.md)
   * [플레이스토어 앱 심사 거절 사례](knowledgebase/playstore/reject.md)
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [플레이스토어 사전고지 문서(증빙서류)](knowledgebase/playstore/playstore-priornotice.md)
