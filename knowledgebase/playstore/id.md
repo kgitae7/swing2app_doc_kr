@@ -38,7 +38,7 @@ description: 앱 이전에 필요한 구글 개발자 계정 거래 ID를 확인
 
 ## <mark style="color:green;">2.계정 ID 확인방법</mark>
 
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252F1l5oR35inuIreBfboP91%252F%25EC%259D%25B4%25EC%25A0%25843.png%3Falt%3Dmedia%26token%3D26734028-8a95-4b57-9dd7-5d2bc37df478&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d0af581&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 [구글플레이 콘솔](https://play.google.com/console/u/0/developers) 대시보드 상단에 보시면 개발자 이름 밑에 계정 ID확인 가능합니다.
 
