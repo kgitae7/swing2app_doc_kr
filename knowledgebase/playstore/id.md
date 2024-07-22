@@ -14,17 +14,47 @@ description: 앱 이전에 필요한 구글 개발자 계정 거래 ID를 확인
 
 따라서 번거로우시겠지만 당사 스윙투앱 계정으로 앱 출시를 한 뒤 고객님의 계정으로 앱을 이전(옮겨드리는)해드리고 있습니다. &#x20;
 
-앱 이전에는   옮기고자 하는 계정의 거래 ID가 필요합니다.
+앱 이전에는  옮기고자 하는 계정의 거래 ID가 필요합니다.
 
-
-
-### <mark style="color:purple;">거래 ID확인하는 방법</mark>
+## <mark style="color:green;">1.거래 ID확인하는 방법</mark>
 
 <figure><img src="../../.gitbook/assets/다운로드.png" alt=""><figcaption></figcaption></figure>
 
 [Google Payments](https://payments.google.com/payments/home)에 접속한 뒤(구글 개발자 계정 로그인 후) – 본문 화면에 표시된 '거래내역'을 선택하면- 오른쪽 화면에 거래 ID를 확인할 수 있습니다.&#x20;
 
 해당 거래 ID를 스윙투앱 마켓업로드팀 메일(market@swing2app.co.kr) 보내주시기 바랍니다.&#x20;
+
+
+
+<mark style="color:red;">만약, 위의 방법으로 확인이 잘 안된다면 메일함에서 확인이 가능합니다.</mark>&#x20;
+
+구글 개발자 계정 - 받으신 메일함에 보시면 구매 영수증을 확인할 수 있습니다.&#x20;
+
+영수증에 구글 주문번호로 확인 가능합니다.&#x20;
+
+**메일 제목 "Google: 감사합니다" 확인해주세요.**
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/thumbnail_image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+해당 주문번호가 거래 ID입니다.
+
+***
+
+
+
+## <mark style="color:green;">2.계정 ID 확인방법</mark>
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252F1l5oR35inuIreBfboP91%252F%25EC%259D%25B4%25EC%25A0%25843.png%3Falt%3Dmedia%26token%3D26734028-8a95-4b57-9dd7-5d2bc37df478&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d0af581&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+[구글플레이 콘솔](https://play.google.com/console/u/0/developers) 대시보드 상단에 보시면 개발자 이름 밑에 계정 ID확인 가능합니다.
+
+해당 ID가 계정 ID 정보가 됩니다.&#x20;
+
+
 
 ***
 
