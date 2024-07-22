@@ -381,6 +381,7 @@
   * [앱스토어 스크린샷 이미지](knowledgebase/appstore/screenshot.md)
   * [앱스토어 업로드 신청방법](knowledgebase/appstore/upload.md)
   * [앱스토어 앱 심사 거절 대표 사례](knowledgebase/appstore/reject.md)
+  * [\[웹앱\] 앱스토어 앱 심사거절 사례](knowledgebase/appstore/webappreject.md)
   * [아이폰 푸시 인증서 연장](knowledgebase/appstore/push-certificate.md)
   * [TestFlight 앱출시 방법](knowledgebase/appstore/appstore-testflight.md)
   * [TestFlight 앱 연장방법](knowledgebase/appstore/testflightupdate.md)
