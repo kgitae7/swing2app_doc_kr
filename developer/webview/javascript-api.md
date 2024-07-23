@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_07_23_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -229,6 +229,10 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
     {
         console.log('push active');
     }
+    else if( result == 'off_on_permission' )    // android 13 이상에서 푸시 권한이 없을 경우
+    {
+        console.log('push inactive');    
+    }
     else if( result == 'off_on_system' )    // 시스템 설정에 의한 앱 푸시 비활성화
     {
         console.log('push inactive');
@@ -249,6 +253,17 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
     if( result == '1' ) // 푸시를 발송 할 수 있는 상태
     {
         console.log('push active');
+    }
+    else if( result == 'off_on_permission' )    // android 13 이상에서 푸시 권한이 없을 경우
+    {
+        console.log('push inactive');    
+        swingWebViewPlugin.permission.android.requestPermission('android.permission.POST_NOTIFICATIONS', function(status) {
+            if (status == 'granted') {
+                console.log('Push notification permission granted');
+            } else {
+                console.log('Push notification permission denied');
+            }
+        });        
     }
     else if( result == 'off_on_system' )    // 시스템 설정에 의한 앱 푸시 비활성화
     {
@@ -492,7 +507,242 @@ swingWebViewPlugin.event.addEvent('backExitEvent' , function() {
 });
 ```
 
-##
+
+
+## 어플리케이션 권한제어 Method <a href="#permission-control" id="permission-control"></a>
+
+Android 및 iOS 플랫폼에서 웹뷰를 사용하여 권한을 요청하고 확인하는 방법을 설명합니다.&#x20;
+
+아래의 예제 코드와 함께 권한을 요청하고 확인하는 방법을 안내합니다.
+
+<mark style="background-color:blue;">\*js lib 2024\_07\_23\_001 버전 부터 사용 가능</mark>
+
+<mark style="background-color:blue;">\*앱은 2024년 7월 23일 제작된 버전 이후부터 사용가능</mark>
+
+### • 권한 요청 (Android) <a href="#permission-request-android" id="permission-request-android"></a>
+
+**각 권한별 파라미터 설명**
+
+* **카메라**: `android.permission.CAMERA`
+* **위치**: `android.permission.ACCESS_FINE_LOCATION`
+* **푸시 알림**: `android.permission.POST_NOTIFICATIONS` (Andriod 13 이상에서 사용)
+* **마이크**: `android.permission.RECORD_AUDIO`
+
+각 권한별로 호출 예시(Ex:카메라 권한 요청)
+
+```javascript
+swingWebViewPlugin.permission.android.requestPermission('android.permission.CAMERA', function(status) {
+    if (status == 'granted') {
+        console.log('Camera permission granted');
+    } else {
+        console.log('Camera permission denied');
+    }
+});
+```
+
+위치 권한 요청
+
+```javascript
+swingWebViewPlugin.permission.android.requestPermission('android.permission.ACCESS_FINE_LOCATION', function(status) {
+    if (status == 'granted') {
+        console.log('Location permission granted');
+    } else {
+        console.log('Location permission denied');
+    }
+});
+```
+
+\*사용자가 권한을 거부한 경우
+
+사용자가 권한 요청을 거부한 경우, 이후 동일한 권한 요청 시 시스템에서 팝업을 표시하지 않습니다.&#x20;
+
+사용자는 시스템 설정에서 권한을 수동으로 허용해야 합니다.
+
+
+
+### • 권한 확인 (Android) <a href="#permission-check-android" id="permission-check-android"></a>
+
+**각 권한별 파라미터 설명**
+
+* **카메라**: `android.permission.CAMERA`
+* **위치**: `android.permission.ACCESS_FINE_LOCATION`
+* **푸시 알림**: `android.permission.POST_NOTIFICATIONS` (Andriod 13 이상에서만 사용가능)
+* **마이크**: `android.permission.RECORD_AUDIO`
+
+**권한 확인 후 권한이 없는 경우 요청하는 코드 예시**
+
+카메라 권한 확인 후 요청
+
+```javascript
+swingWebViewPlugin.permission.android.checkPermission('android.permission.CAMERA', function(status) {
+    if (status == 'granted') {
+        console.log('Camera permission already granted');
+    } else {
+        swingWebViewPlugin.permission.android.requestPermission('android.permission.CAMERA', function(status) {
+            if (status == 'granted') {
+                console.log('Camera permission granted');
+            } else {
+                console.log('Camera permission denied');
+            }
+        });
+    }
+});
+```
+
+**권한이 없을 경우 메시지 처리 예시**
+
+```javascript
+swingWebViewPlugin.permission.android.checkPermission('android.permission.CAMERA', function(status) {
+    if (status == 'granted') {
+        console.log('Camera permission already granted');
+    } else {
+        alert('Camera permission is required to use this feature.');
+        swingWebViewPlugin.permission.android.requestPermission('android.permission.CAMERA', function(status) {
+            if (status == 'granted') {
+                console.log('Camera permission granted');
+            } else {
+                console.log('Camera permission denied');
+            }
+        });
+    }
+});
+
+```
+
+모든 callback 의 결과는 granted 와 denied 로 return 값을 제공
+
+
+
+### • 권한 요청 (iOS) <a href="#permission-request-ios" id="permission-request-ios"></a>
+
+**각 권한별 파라미터 설명**
+
+* **카메라**: `'camera'`
+* **위치**: `'location'`
+* **푸시 알림**: `'push'`
+* **앨범**: `'album'`
+* **마이크**: `'microphone'`
+* **사용자 추적**: `'userTracking'`
+
+
+
+각 권한별로 호출 예시(Ex:카메라 권한 요청)
+
+```javascript
+swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
+    if (status == 'granted') {
+        console.log('Camera permission granted');
+    } else {
+        console.log('Camera permission denied');
+    }
+});
+```
+
+위치 권한 요청
+
+```javascript
+swingWebViewPlugin.permission.ios.requestPermission('location', function(status) {
+    if (status == 'granted') {
+        console.log('Location permission granted');
+    } else {
+        console.log('Location permission denied');
+    }
+});
+
+```
+
+
+
+\*사용자가 권한을 거부한 경우
+
+사용자가 권한 요청을 거부한 경우, 이후 동일한 권한 요청 시 시스템에서 팝업을 표시하지 않습니다.&#x20;
+
+사용자는 시스템 설정에서 권한을 수동으로 허용해야 합니다.
+
+
+
+### • 권한 확인 (iOS) <a href="#permission-check-ios" id="permission-check-ios"></a>
+
+**각 권한별 파라미터 설명**
+
+* **카메라**: `'camera'`
+* **위치**: `'location'`
+* **푸시 알림**: `'push'`
+* **앨범**: `'album'`
+* **마이크**: `'microphone'`
+* **사용자 추적**: `'userTracking'`
+
+
+
+**권한 확인 후 권한이 없는 경우 요청하는 코드 예시**
+
+카메라 권한 확인 후 요청
+
+```javascript
+swingWebViewPlugin.permission.ios.checkPermission('camera', function(status) {
+    if (status == 'granted') {
+        console.log('Camera permission already granted');
+    } else {
+        swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
+            if (status == 'granted') {
+                console.log('Camera permission granted');
+            } else {
+                console.log('Camera permission denied');
+            }
+        });
+    }
+});
+```
+
+**권한이 없을 경우 메시지 처리 예시**
+
+```javascript
+swingWebViewPlugin.permission.ios.checkPermission('camera', function(status) {
+    if (status == 'granted') {
+        console.log('Camera permission already granted');
+    } else {
+        alert('Camera permission is required to use this feature.');
+        swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
+            if (status == 'granted') {
+                console.log('Camera permission granted');
+            } else {
+                console.log('Camera permission denied');
+            }
+        });
+    }
+});
+
+```
+
+userTracking 제외하고는 모두 granted 와 denied 로 return 값을 제공
+
+
+
+**사용자 추적 권한 요청(userTracking)**&#x20;
+
+userTracking 권한의 경우 좀 더 다양한 return 값을 제공한다.(requestPermission 도 동일)
+
+```javascript
+swingWebViewPlugin.permission.ios.checkPermission('userTracking', function(status) {
+    if (status == 'granted') {
+        console.log('User tracking permission granted');
+    } else if (status == 'denied') {
+        console.log('User tracking permission denied');
+    } else if (status == 'unset_desc') {
+        console.log('User tracking usage description not set in Info.plist');
+    } else if (status == 'unset_os') {
+        console.log('User tracking not supported on this iOS version');
+    }
+});
+```
+
+
+
+이와 같이 권한 요청 및 확인 기능을 사용하여 웹뷰에서 Android 및 iOS 플랫폼의 다양한 권한을 관리할 수 있습니다.&#x20;
+
+필요에 따라 각 플랫폼에 맞는 권한을 요청하고 확인하여 사용자 경험을 향상시키세요.
+
+
 
 ## 애드몹 관련 Method
 
