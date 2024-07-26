@@ -20,13 +20,11 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 먼저 구글 개발자 계정을 만들어주세요(등록이 완료된 분들은 바로 초대 진행해주세요)
 
-
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" %}
 
 \*개발자 계정 등록비: 25달러 (한번 구매시 평생 이용)&#x20;
 
 **구글 개발자계정 등록이 완료되면** [**구글 플레이 콘솔사이트**](https://play.google.com/console/developers) **에서 아래 방법으로, 계정 초대를 해주세요.**&#x20;
-
-
 
 <figure><img src="../../.gitbook/assets/구글계정초대.png" alt=""><figcaption></figcaption></figure>
 
