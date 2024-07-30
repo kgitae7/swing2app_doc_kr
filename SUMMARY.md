@@ -30,6 +30,7 @@
   * [계정-회원가입,로그인 FAQ](faq/join-login.md)
   * [앱 미리보기 FAQ](faq/app-preview.md)
   * [스토어 유지보수 컨설팅 FAQ](faq/storemt.md)
+  * [비공개 테스트 FAQ](faq/playtest.md)
 
 ## 일반프로토타입 앱 매뉴얼 <a href="#manual" id="manual"></a>
 
