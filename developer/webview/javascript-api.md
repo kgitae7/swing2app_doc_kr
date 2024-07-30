@@ -407,6 +407,31 @@ swingWebViewPlugin.app.ui.setIosBackColor('00ff00');
 ```
 {% endcode %}
 
+### • 앱 화면모드 확인하기(다크모드,라이트모드) <a href="#device-ui-mode" id="device-ui-mode"></a>
+
+시스템에서 설정한 화면 모드(라이트모드,다크모드)를 확인하는 코드 입니다.
+
+이 코드를 활용해서 사용자의 폰에 설정된 화면모드에 따라 웹페이지 컨텐츠를 변경해보세요.
+
+<mark style="background-color:blue;">\*js lib 2024\_07\_23\_001 버전 부터 사용 가능(24년 7월30일 이후 제작된 버전부터 동작)</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.ui.getDeviceUiStyle(function (mode) {
+    if( mode == 'light' )
+    {
+        console.log('light');        
+    }
+    else if( mode == 'dark' )
+    {
+        console.log('dark');
+    }
+});
+```
+{% endcode %}
+
+
+
 
 
 ## 앱 화면 제어관련 Method <a href="#screen-control" id="screen-control"></a>
