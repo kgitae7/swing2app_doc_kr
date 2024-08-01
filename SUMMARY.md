@@ -307,7 +307,7 @@
 
 * [스윙투앱 브라우저 앱 이용방법](appguide/webappconverter.md)
 * [어플리케이션 운영](appguide/appoperation/README.md)
-  * [유료앱 전환 및 이용방법](appguide/appoperation/paidversion-app.md)
+  * [유료앱 전환 및 스토어 업로드 신청방법](appguide/appoperation/paidversion-app.md)
   * [앱 다운받는 방법 (APK파일 핸드폰 설치)](appguide/appoperation/appinstall.md)
   * [공유하기로 앱 설치하는 방법](appguide/appoperation/share-app.md)
   * [앱 설치 링크주소로 앱 다운받기](appguide/appoperation/applink-install.md)
