@@ -257,7 +257,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
     else if( result == 'off_on_permission' )    // android 13 이상에서 푸시 권한이 없을 경우
     {
         console.log('push inactive');    
-        swingWebViewPlugin.permission.android.requestPermission('android.permission.POST_NOTIFICATIONS', function(status) {
+        swingWebViewPlugin.app.permission.android.requestPermission('android.permission.POST_NOTIFICATIONS', function(status) {
             if (status == 'granted') {
                 console.log('Push notification permission granted');
             } else {
@@ -556,7 +556,7 @@ Android 및 iOS 플랫폼에서 웹뷰를 사용하여 권한을 요청하고 �
 각 권한별로 호출 예시(Ex:카메라 권한 요청)
 
 ```javascript
-swingWebViewPlugin.permission.android.requestPermission('android.permission.CAMERA', function(status) {
+swingWebViewPlugin.app.permission.android.requestPermission('android.permission.CAMERA', function(status) {
     if (status == 'granted') {
         console.log('Camera permission granted');
     } else {
@@ -568,7 +568,7 @@ swingWebViewPlugin.permission.android.requestPermission('android.permission.CAME
 위치 권한 요청
 
 ```javascript
-swingWebViewPlugin.permission.android.requestPermission('android.permission.ACCESS_FINE_LOCATION', function(status) {
+swingWebViewPlugin.app.permission.android.requestPermission('android.permission.ACCESS_FINE_LOCATION', function(status) {
     if (status == 'granted') {
         console.log('Location permission granted');
     } else {
@@ -599,11 +599,11 @@ swingWebViewPlugin.permission.android.requestPermission('android.permission.ACCE
 카메라 권한 확인 후 요청
 
 ```javascript
-swingWebViewPlugin.permission.android.checkPermission('android.permission.CAMERA', function(status) {
+swingWebViewPlugin.app.permission.android.checkPermission('android.permission.CAMERA', function(status) {
     if (status == 'granted') {
         console.log('Camera permission already granted');
     } else {
-        swingWebViewPlugin.permission.android.requestPermission('android.permission.CAMERA', function(status) {
+        swingWebViewPlugin.app.permission.android.requestPermission('android.permission.CAMERA', function(status) {
             if (status == 'granted') {
                 console.log('Camera permission granted');
             } else {
@@ -617,12 +617,12 @@ swingWebViewPlugin.permission.android.checkPermission('android.permission.CAMERA
 **권한이 없을 경우 메시지 처리 예시**
 
 ```javascript
-swingWebViewPlugin.permission.android.checkPermission('android.permission.CAMERA', function(status) {
+swingWebViewPlugin.app.permission.android.checkPermission('android.permission.CAMERA', function(status) {
     if (status == 'granted') {
         console.log('Camera permission already granted');
     } else {
         alert('Camera permission is required to use this feature.');
-        swingWebViewPlugin.permission.android.requestPermission('android.permission.CAMERA', function(status) {
+        swingWebViewPlugin.app.permission.android.requestPermission('android.permission.CAMERA', function(status) {
             if (status == 'granted') {
                 console.log('Camera permission granted');
             } else {
@@ -654,7 +654,7 @@ swingWebViewPlugin.permission.android.checkPermission('android.permission.CAMERA
 각 권한별로 호출 예시(Ex:카메라 권한 요청)
 
 ```javascript
-swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
+swingWebViewPlugin.app.permission.ios.requestPermission('camera', function(status) {
     if (status == 'granted') {
         console.log('Camera permission granted');
     } else {
@@ -666,7 +666,7 @@ swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
 위치 권한 요청
 
 ```javascript
-swingWebViewPlugin.permission.ios.requestPermission('location', function(status) {
+swingWebViewPlugin.app.permission.ios.requestPermission('location', function(status) {
     if (status == 'granted') {
         console.log('Location permission granted');
     } else {
@@ -704,11 +704,11 @@ swingWebViewPlugin.permission.ios.requestPermission('location', function(status)
 카메라 권한 확인 후 요청
 
 ```javascript
-swingWebViewPlugin.permission.ios.checkPermission('camera', function(status) {
+swingWebViewPlugin.app.permission.ios.checkPermission('camera', function(status) {
     if (status == 'granted') {
         console.log('Camera permission already granted');
     } else {
-        swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
+        swingWebViewPlugin.app.permission.ios.requestPermission('camera', function(status) {
             if (status == 'granted') {
                 console.log('Camera permission granted');
             } else {
@@ -722,12 +722,12 @@ swingWebViewPlugin.permission.ios.checkPermission('camera', function(status) {
 **권한이 없을 경우 메시지 처리 예시**
 
 ```javascript
-swingWebViewPlugin.permission.ios.checkPermission('camera', function(status) {
+swingWebViewPlugin.app.permission.ios.checkPermission('camera', function(status) {
     if (status == 'granted') {
         console.log('Camera permission already granted');
     } else {
         alert('Camera permission is required to use this feature.');
-        swingWebViewPlugin.permission.ios.requestPermission('camera', function(status) {
+        swingWebViewPlugin.app.permission.ios.requestPermission('camera', function(status) {
             if (status == 'granted') {
                 console.log('Camera permission granted');
             } else {
@@ -748,7 +748,7 @@ userTracking 제외하고는 모두 granted 와 denied 로 return 값을 제공
 userTracking 권한의 경우 좀 더 다양한 return 값을 제공한다.(requestPermission 도 동일)
 
 ```javascript
-swingWebViewPlugin.permission.ios.checkPermission('userTracking', function(status) {
+swingWebViewPlugin.app.permission.ios.checkPermission('userTracking', function(status) {
     if (status == 'granted') {
         console.log('User tracking permission granted');
     } else if (status == 'denied') {
