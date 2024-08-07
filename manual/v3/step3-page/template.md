@@ -260,7 +260,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-<img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
+<img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
 
 <div align="left">
 

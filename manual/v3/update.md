@@ -104,7 +104,7 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 ### **Q.AAB파일은 어디서 다운받나요??**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;[앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app\_work\_history)
 
