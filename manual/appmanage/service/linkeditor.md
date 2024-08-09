@@ -12,43 +12,33 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C3_19.09.png" alt="">
+<figure><img src="../../../.gitbook/assets/링크마법사.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 **링크마법사는 웹링크(URL)뿐만 아니라 스윙투앱에서 제공하는 다양한 기능들을 연동하여 사용할 수 있는 메뉴에요.**
 
-웹사이트 링크 연동과 함께 전화번호, 이메일, 게시판, 게시물, 이미지페이지, 파일첨부 등 다양한 방법으로 링크를 적용할 수 있습니다.
+<mark style="color:blue;">스윙투앱에서 제공하는 다양한 앱운영 기능 - 게시판 HTML글 작성, 업종별 템플릿, HTML에디터 페이지, 이미지 페이지, 푸시 발송, 팝업 기능 다양하게 '링크마법사' 를 적용할 수 있습니다.</mark>&#x20;
 
 
 
-<div align="left">
+**링크마법사에서 연동 가능한 메뉴)**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%ED%91%B8%EC%8B%9C4_19.09.png" alt="">
+게시판, 게시물, 쇼핑몰 기능, 템플릿, 이미지맵, 에디터페이지, 웹사이트 링크, 전화번호, 이메일주소, 파일 업로드, 이미지 업로드 그외 스윙투앱 앱제작 기본 기능들을 모두 연동할 수 있습니다.&#x20;
 
-</div>
 
-웹링크 외에도 스윙투앱에서 제공하는 기능 : 스윙 기능, 사용자 페이지, 게시판, 게시물, 파일첨부로 연동이 가능해요.
 
-\-게시판 선택하면 앱에 만들어놓은 게시판 중 원하는 게시판을 반영하여 이동할 수 있구요.
 
-\-게시물을 검색해서, 특정 게시물에도 푸시를 반영하여 보낼 수 있습니다.
 
 &#x20;**\[링크마법사 사용예시]를 통해서 어떻게 앱에서 링크마법사 이용이 가능한**​**지 알려드리겠습니다.**
 
 ***
 
-<mark style="color:blue;">**★ 잠깐! 링크마법사는 어디서 이용할 수 있나요?**</mark>
-
-**링크마법사는 스윙투앱의 다양한 메뉴에서 제공이 되고 있어요.**
-
-**푸시, 팝업, 게시물 작성(HTML에디터 글쓰기), 사용자페이지:이미지페이지, 웹템플릿, HTML에디터페이지에서 이용할 수 있습니다**.
-
 
 
 ### <mark style="color:blue;">**사용 예시1) 푸시 발송에서 \[링크마법사] 이용하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC3.png)
+
 
 푸시 발송하기 메뉴에서 푸시를 보낼 내용을 입력한 뒤 \[링크마법사]를 선택하여 원하는 페이지로 이동하도록 설정할 수 있습니다.
 
@@ -76,11 +66,9 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 ### <mark style="color:blue;">**사용 예시2) 웹템플릿 페이지에서 \[링크마법사] 이용하기**</mark>
 
-<div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png" alt="">
 
-</div>
+
 
 두번째는 웹템플릿 페이지에서 링크마법사 기능을 이용해볼게요.
 
@@ -89,12 +77,6 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 \[전화하기] 버튼을 누르면 스윙투앱 고객센터로 전화가 바로 연결되도록 설정해볼거에요.
 
 &#x20;
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC2.png" alt="">
-
-</div>
 
 \[링크마법사] 버튼을 선택한 뒤 → 웹링크: 전화번호걸기 선택 → 수신자 전화번호를 입력해주세요.
 
@@ -118,11 +100,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 ### <mark style="color:blue;">**사용 예시3) 팝업 에서 \[링크마법사] 이용하기**</mark>
 
-<div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%AC5.png" alt="">
-
-</div>
 
 세번째는 팝업 기능에서 링크마법사 기능을 이용해서 선택한 게시물로 페이지가 이동하도록 설정해볼게요.
 
