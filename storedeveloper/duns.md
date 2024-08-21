@@ -132,7 +132,7 @@ Dun & Bradstreet 사이트 [D\&B 지원 사이트 접속](https://support.dnb.co
 
 3\)회사 주소 입력, 상세 주소는 선택사항입니다.
 
-4\)사업체가 위치한 도시를 입력하빈다.
+4\)사업체가 위치한 도시를 입력합니다.
 
 5\)국가 선택: 대한민국 선택
 
@@ -144,7 +144,7 @@ Dun & Bradstreet 사이트 [D\&B 지원 사이트 접속](https://support.dnb.co
 
 <mark style="color:blue;">-법인: corporate entity or corporation</mark>
 
-<mark style="color:blue;">-개인: sole proprietor or Single Person Business</mark>
+<mark style="color:blue;">-개인: Sole proprietor or Single Person Business</mark>
 
 7\)Home-Based Business? : 사업체가 위치한 곳이 자택(본인의 집)인지를 묻는 질문입니다.
 
