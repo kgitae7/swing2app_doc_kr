@@ -14,13 +14,13 @@ description: 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅�
 
 ## 1.NAVER Developers 사이트 - 어플리케이션 등록
 
-<figure><img src=".gitbook/assets/네이버1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버1.png" alt=""><figcaption></figcaption></figure>
 
 1.Application - 애플리케이션 등록 선택
 
 
 
-<figure><img src=".gitbook/assets/네이버2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버2.png" alt=""><figcaption></figcaption></figure>
 
 2.어플리케이션 이름 입력
 
@@ -30,9 +30,11 @@ description: 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅�
 
 
 
-<figure><img src=".gitbook/assets/네이버3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버3.png" alt=""><figcaption></figcaption></figure>
 
 4.네이버 로그인에서 제공 정보를 선택합니다.
+
+제공 정보는 "회원이름"만&#x20;
 
 \*선택사항으로 가입&로그인시 사용자에게 어떤 정보를 받을지를 체크하는 항목입니다.
 
@@ -42,7 +44,7 @@ description: 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅�
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/네이버로그인예시2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버로그인예시2.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +52,7 @@ description: 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅�
 
 
 
-<figure><img src=".gitbook/assets/네이버4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버4.png" alt=""><figcaption></figcaption></figure>
 
 6.URL 입력
 
@@ -68,7 +70,7 @@ description: 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅�
 
 
 
-<figure><img src=".gitbook/assets/네이버5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버5.png" alt=""><figcaption></figcaption></figure>
 
 #### 9.테스터 ID 등록하기&#x20;
 
@@ -86,7 +88,7 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 
 
-<figure><img src=".gitbook/assets/네이버6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버6.png" alt=""><figcaption></figcaption></figure>
 
 **10.Client ID 복사**
 
@@ -100,7 +102,7 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 ## 2.스윙투앱 대시보드에 ID 입력하기
 
-<figure><img src=".gitbook/assets/네이버8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버8.png" alt=""><figcaption></figcaption></figure>
 
 [앱운영-서비스관리-정책관리-회원가입 양식](https://www.swing2app.co.kr/view/app\_policy)
 
@@ -114,13 +116,13 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 \*앱제작 이동 후 \[앱 업데이트]까지 꼭 해주세요. \*업데이트가 되어야 로그인 반영됩니다.
 
-<figure><img src=".gitbook/assets/네이버9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버9.png" alt=""><figcaption></figcaption></figure>
 
 스토어(플레이스토어, 앱스토어 등)에 출시되어 있을 경우&#x20;
 
 \*업데이트 유형: 하드 업데이트(재설치) 선택
 
-무료앱 혹은 유료앱이지만스토어 출시 전 앱 이라면&#x20;
+무료앱 혹은 유료앱이지만 스토어 출시 전 앱 이라면&#x20;
 
 \*소프트 업데이트(재실행) 선택
 
@@ -132,7 +134,7 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 ## 3.앱 실행화면
 
-<figure><img src=".gitbook/assets/네이버12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버12.png" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제작한 앱 - 로그인 화면에서  '네이버 로그인'이 셋팅된 것을 확인할 수 있습니다.&#x20;
 
@@ -156,7 +158,7 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 <mark style="color:red;">\*검수가 되지 않으면 정상적으로 이용이 불가하오니, 꼭 검수까지 진행해주세요</mark>
 
-<figure><img src=".gitbook/assets/네이버10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버10 (1).png" alt=""><figcaption></figcaption></figure>
 
 어플 선택 후 - 네이버 로그인 검수상태 탭을 선택합니다.
 
@@ -172,13 +174,13 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/네이버가입_회원정보1.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버가입_회원정보1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 
 
-<figure><img src=".gitbook/assets/네이버11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버11.png" alt=""><figcaption></figcaption></figure>
 
 4\)서비스 적용 형태 확인
 
@@ -188,11 +190,9 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 <mark style="color:blue;">캡쳐화면 샘플 예시)</mark>
 
-<figure><img src=".gitbook/assets/네이버가입_프로세스.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/네이버가입_프로세스.jpg" alt=""><figcaption></figcaption></figure>
 
 6\)추가 제출 서류 확인 : 해당 되는 것에 체크해주세요, 없으면 "없음"으로 체크해주세요.&#x20;
 
 7\)\[검수요청] 버튼 선택시 완료됩니다.&#x20;
-
-
 

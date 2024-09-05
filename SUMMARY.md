@@ -458,6 +458,7 @@
   * [Dynamic Links 연동](developer/firebase/dynamic-links.md)
 * [애플 개발자 계정 등록 프로세스](storedeveloper/appleprocess.md)
 * [DUNS 넘버 발행 방법](storedeveloper/duns.md)
+* [네이버 로그인 API 연동](developer/naver-login.md)
 
 ## 이용약관 <a href="#terms" id="terms"></a>
 
@@ -469,7 +470,3 @@
   * [앱스토어 업로드 대행 약관](terms/market-policy/appstore-policy.md)
 * [무료앱 설치 기기수 제한](terms/mau.md)
 * [이용제한 이용자 안내](terms/violation-policy.md)
-
-***
-
-* [네이버 로그인 API 연동](naver-login.md)
