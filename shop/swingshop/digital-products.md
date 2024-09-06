@@ -122,7 +122,7 @@ PDF 보기를 선택하면 컨텐츠 내용을 확인할 수 있습니다.&#x20;
 
 
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
 
 <div align="left">
 

@@ -14,7 +14,7 @@ description: 쇼핑몰 정보 이용방법 및 앱 적용방법 안내
 
 ***
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**쇼핑몰 정보 앱 실행화면**</mark>
 
 <div align="left">
 

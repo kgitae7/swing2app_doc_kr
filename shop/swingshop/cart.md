@@ -12,7 +12,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ***
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
 
 <div align="left">
 

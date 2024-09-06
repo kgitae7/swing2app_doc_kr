@@ -124,7 +124,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-&#x20;<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+&#x20;<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
 <div align="left">
 

@@ -130,7 +130,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**앱 실행화면**</mark>
 
 <div align="left">
 
@@ -186,7 +186,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> **옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> **옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%98%B5%EC%85%98%EC%84%A4%EC%A0%95.gif)
 
@@ -328,7 +328,7 @@ description: '예약시스템: 날짜 예약상품 등록 및 앱 적용방법 �
 
 ​
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"><mark style="color:blue;">**앱에 적용한 마이페이지 확인하기**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**앱에 적용한 마이페이지 확인하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D20\_20.04.png)
 
