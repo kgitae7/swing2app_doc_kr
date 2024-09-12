@@ -30,7 +30,13 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 <figure><img src="../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../.gitbook/assets/image (2) (1).png>) STEP1.  앱 설치 - 스윙투앱 브라우저
+## 1.이용방법1 -URL입력
+
+**웹앱 제작 전, 입력할 웹사이트(홈페이지)가 앱으로 어떻게 보여지는지 미리 확인할 경우 이용할 수 있습니다.**
+
+
+
+### <mark style="color:blue;">1)스윙투앱 브라우저 앱 설치</mark>
 
 <div align="left">
 
@@ -48,7 +54,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-## ![](<../.gitbook/assets/image (2) (1).png>) STEP2. 앱 실행&#x20;
+### <mark style="color:blue;">2)어플 실행</mark>
 
 <div align="left">
 
@@ -62,7 +68,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-## ![](<../.gitbook/assets/image (2) (1).png>) STEP3. 웹사이트 링크 입력 및 열기
+### <mark style="color:blue;">3)웹사이트 링크 입력 및 열기</mark>
 
 <div align="left">
 
@@ -78,7 +84,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-## ![](<../.gitbook/assets/image (2) (1).png>) STEP4.  웹앱 미리보기 확인&#x20;
+### <mark style="color:blue;">4)웹앱 미리보기 확인</mark>&#x20;
 
 <div align="left">
 
@@ -90,9 +96,57 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-<figure><img src="../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+***
 
-## ![](<../.gitbook/assets/image (2) (1).png>)  툴바이용 TIP
+
+
+## 2.이용방법2 -QR코드 촬영
+
+**2번째 이용방법은 앱제작에서 생성되는 QR코드로 앱을 미리보는 방법입니다.**
+
+### <mark style="color:blue;">1)앱에서 미리보기 선택</mark>
+
+<figure><img src="../.gitbook/assets/886앱미리보기.png" alt=""><figcaption></figcaption></figure>
+
+앱제작 화면 – STEP3 페이지에서 웹사이트 주소 입력 후 저장 버튼 선택
+
+웹 미리보기(웹 가상머신)화면에 연결된 웹이 정상적으로 뜨지 않을 경우&#x20;
+
+(1)가상머신 화면에 기재된 **\[앱에서 미리보기]**를 선택해주세요.
+
+(2)QR코드가 화면에 생성이 됩니다.&#x20;
+
+
+
+### <mark style="color:blue;">2)QR코드 촬영</mark>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/IMG-1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+아이이폰 혹은 안드로이드폰 카메라로 QR코드를 촬영합니다.
+
+
+
+### <mark style="color:blue;">3)브러우저 어플 연결</mark>&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/IMG-2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+스윙투앱 브라우저 어플로 연결되며, 앱 미리보기에서 연결된 웹사이트를 확인할 수 있습니다.
+
+
+
+***
+
+
+
+## 3.툴바이용 TIP
 
 <figure><img src="../.gitbook/assets/스윙투앱브라우저툴바.png" alt=""><figcaption></figcaption></figure>
 
