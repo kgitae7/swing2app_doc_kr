@@ -182,7 +182,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 <div align="left">
 
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252F1ywGeUEGz3k4s8SxWUZi%252F%25EC%25A1%25B0%25EC%25A7%25812.PNG%3Falt%3Dmedia%26token%3D1d1b351b-f616-46a3-b26d-07764214b675&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=eb389b39&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -196,7 +196,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 <div align="left">
 
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FdUT0dsfuBXWay70ri1Z8%252F%25EC%25A1%25B0%25EC%25A7%25813.PNG%3Falt%3Dmedia%26token%3Dc576435d-4beb-409f-bcd2-8862180b0bd7&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=63187ac1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
