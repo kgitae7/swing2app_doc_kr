@@ -154,33 +154,17 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 <mark style="color:red;">\*검수가 되지 않으면 정상적으로 이용이 불가하오니, 꼭 검수까지 진행해주세요</mark>
 
-<figure><img src="../.gitbook/assets/네이버10 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/네이버로그인검수.png" alt=""><figcaption></figcaption></figure>
 
 어플 선택 후 - 네이버 로그인 검수상태 탭을 선택합니다.
 
 1\)검수 요청 가이드 확인 체크
 
-2\)제공 정보 활용처 확인 : 첨부 여부에 체크해주세요.
+2\)서비스 적용 형태 확인 : 네이버 로그인을 통한 신규 회원가입에 적용 체크
 
 3\)'파일선택' 버튼 선택해서 캡쳐 파일을 등록합니다.
-
-앱에서 어떻게 수집하는 정보들이 보여지는지를 캡쳐해서 해당 이미지를 등록하시면 됩니다.&#x20;
-
-<mark style="color:blue;">캡쳐화면 샘플 예시)</mark>
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/네이버가입_회원정보1.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-
-
-<figure><img src="../.gitbook/assets/네이버11.png" alt=""><figcaption></figcaption></figure>
-
-4\)서비스 적용 형태 확인
-
-5\)'파일선택' 버튼 선택해서 캡쳐 파일을 등록합니다.
 
 앱에서 네이버 로그인 이용 화면- 네이버로그인 버튼을 클릭하여 로그인 혹은 회원가입을 완료하는 화면을 캡쳐해서 등록해주세요.
 
@@ -188,9 +172,9 @@ ID 입력시 @naver.com 이메일 다 입력하지 않고 앞에 아이디만 �
 
 <figure><img src="../.gitbook/assets/네이버가입_프로세스.jpg" alt=""><figcaption></figcaption></figure>
 
-6\)추가 제출 서류 확인 : 해당 되는 것에 체크해주세요, 없으면 "없음"으로 체크해주세요.&#x20;
+4\)추가 제출 서류 확인 : 해당 되는 것에 체크해주세요, 없으면 "없음"으로 체크해주세요.&#x20;
 
-7\)\[검수요청] 버튼 선택시 완료됩니다.&#x20;
+5\)\[검수요청] 버튼 선택시 완료됩니다.&#x20;
 
 ***
 
