@@ -90,7 +90,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ## <mark style="color:blue;">**2**</mark>
 
-![](../../.gitbook/assets/구글2.png)
+![](<../../.gitbook/assets/구글2 (1).png>)
 
 모든 패키지 쿼리 권한 \[시작] 버튼을 선택해주세요.
 
@@ -98,7 +98,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ## <mark style="color:blue;">3</mark>
 
-![](../../.gitbook/assets/구글3.png)
+![](<../../.gitbook/assets/구글3 (1).png>)
 
 모든 패키지 쿼리 페이지에서는 구글에 해당 기능에 대한 설명 및 이를 증빙할 수 있는 동영상 링크를 첨부해야 해요.
 

@@ -1,12 +1,10 @@
 ---
-description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022년 12월 업데이트 버전
+description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024년 9월 업데이트 버전
 ---
 
 # 플레이스토어 앱 등록 매뉴얼
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
-
-
 
 **구글 플레이스토어에 앱 출시하기**&#x20;
 
@@ -24,7 +22,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
-**구글 개발자계정 등록방법은 도움말 매뉴얼을 참고해주세요.**
+구글 개발자계정 등록방법은 도움말 매뉴얼을 참고해주세요.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**구글 개발자 계정 등록방법 매뉴얼 보러가기**](google-developer.md)
 
@@ -330,7 +328,39 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2022�
 
 
 
-<mark style="color:blue;">**앱 콘텐츠 입력 완료!**</mark>
+### <mark style="color:blue;">**11.**</mark><mark style="color:blue;">Photo and video permissions</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**(24.09 추가)**</mark>
+
+앱 컨텐츠 - 사진 및 영상 권한 선언 제출
+
+앱에서 사진(이미지) 영상 기능 권한이 필요한 이유를 제출하는 것입니다.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/구글0.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+1\)\[선언 시작] 선택
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/구글2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+2\)미디어 이미지 읽기: 앱에서 미디어 이미지 권한을 사용하는 방법을 설명하세요.
+
+<mark style="background-color:yellow;">**“프로필 사진, 게시판에 등록하는 이미지 첨부파일 등록을 위해 필요합니다.”**</mark> 내용으로 입력합니다.
+
+3\)미디어 동영상 읽기: 앱에서 미디어 비디오 권한을 사용하는 방법을 설명하세요.
+
+<mark style="background-color:yellow;">**“게시물 파일 및 영상 등록을 위해서 미디어 영상 접근 권한이 필요합니다.”**</mark> 내용으로 입력합니다.
+
+4\)입력이 완료되면 \[저장] 선택합니다.
+
+
+
+### <mark style="color:blue;">**앱 콘텐츠 입력 완료!**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C21\_%EC%BB%A8%ED%85%90%EC%B8%A0%EC%99%84%EB%A3%8C.png)
 
@@ -530,13 +560,13 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 
 
-<figure><img src="../../.gitbook/assets/구글2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[저장] 버튼 선택
 
 
 
-<figure><img src="../../.gitbook/assets/구글3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[게시 개요로 이동] 버튼 선택
 
