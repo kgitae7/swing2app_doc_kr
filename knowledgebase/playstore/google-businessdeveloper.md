@@ -49,8 +49,12 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 기업 개발자 등록시에는 이제 DUNS 넘버 등록도 함께 진행되어야 합니다.
 
-[**DUNS 넘버 등록 방법 보러가기**](https://documentation.swing2app.co.kr/developer/duns)
+[**던스번호 발행 보러가기**](https://documentation.swing2app.co.kr/developer/duns)
+
+
 {% endhint %}
+
+
 
 {% hint style="warning" %}
 <mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
