@@ -66,9 +66,11 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <mark style="color:red;">\*중요\*플레이스토어는 사용자의 구글 개발자 계정이 있어야 등록이 가능합니다.</mark>
 
-개발자 계정이 없으시면 [\[개발자 콘솔 사이트\]](https://play.google.com/apps/publish/)로 이용료 25$ 결제해서 만들어주세요.
+<mark style="color:red;">\*23년 11월 이후 개발자 계정을 새로 만드시는 분들은 반드시 계정 유형: ‘조직’으로 만들어주셔야 합니다.</mark>
 
-☞[ \[구글 개발자 계정 만드는 법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
+개인 개발자 계정은 앱 출시가 불가합니다. (23년 11월 이전에 생성한 경우 출시 가능)
+
+[구글 개발자 ‘조직’계정 등록방법 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 </details>
 
@@ -88,7 +90,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 1. 플레이스토어 업로드 신청방법
+## 1. 신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%88%98%EC%A0%951.png)
 
@@ -100,7 +102,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**2. 플레이스토어 업로드 신청서**
+## &#x20;**2. 업로드 신청서**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C-1.png)
 
@@ -120,7 +122,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 3. 플레이스토어 업로드 신청서 작성방법
+## 3. 신청서 작성방법
 
 업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.&#x20;
 
@@ -236,7 +238,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 \*플레이스토어 앱 등록을 위해서는 먼저 [**\[구글개발자 콘솔 사이트\]**](https://play.google.com/console/developers)에서 개발자 등록을 해주셔야 합니다.
 
-**구글에 등록비 25$(평생이용료) 결제 후 사용가능합니다.**
+**구글에 등록비 25$(평생이용료) 결제 후 사용가능합니다. \*반드시 '조직' 개발자 계정으로 진행해주세요. 조직 계정만 등록 대행이 가능합니다.**
+
+[구글 개발자 ‘조직’계정 등록방법 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 {% hint style="info" %}
 구글 개발자 계정 초대 상세 방법은 아래 매뉴얼을 참고해주세요.&#x20;
@@ -344,7 +348,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 4\) 플레이스토어 업로드 신청 전 반드시 사용자 분의 구글 개발자 계정을 미리 만들어주셔야 합니다.
 
-(구글 개발자 등록 수수료 25달러 있습니다.)   [**\[구글 개발자 계정 콘솔\]**](https://play.google.com/apps/publish/)
+(구글 개발자 등록 수수료 25달러 있습니다.)  [구글 개발자 ‘조직’계정 등록방법 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 5\)구글 개발자 계정을 스윙에서 대리로 결제해드리지 않으며, 반드시 사용자분의 개별 계정으로만 이용이 가능합니다.
 
