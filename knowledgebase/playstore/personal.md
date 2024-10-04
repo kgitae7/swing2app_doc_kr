@@ -108,7 +108,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/구글프레임 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글프레임 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

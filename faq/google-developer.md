@@ -137,7 +137,7 @@ DUNS에 등록된 주소가 정확하고 완전한지 확인해주세요.
 
 이 정보는 필수이며 삭제하거나 노출을 안하게 할 수 없습니다.
 
-<img src="../.gitbook/assets/구글프레임.png" alt="" data-size="original">
+<img src="../.gitbook/assets/구글프레임 (1).png" alt="" data-size="original">
 
 </details>
 
