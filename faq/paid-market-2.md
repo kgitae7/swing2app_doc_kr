@@ -60,8 +60,6 @@
 
 또한 직접 앱을 관리하면서 앱 설치 및 통계 자료를 직접 확인할 수 있습니다.
 
-**☞** [**구글 개발자 계정 등록 방법 확인하기 - 개인**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
-
 **☞** [**구글 개발자 계정 등록 방법 확인하기 - 조직**](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 </details>

@@ -46,11 +46,9 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1**. **이용권 및 업로드 티켓 구매**
+## **STEP1**. **이용권 및 업로드 티켓 구매**
 
-
-
-### &#x20;<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**유료앱 이용권(월 납부 이용권)**</mark>
+### <mark style="color:blue;">**1.구독형 이용권**</mark>
 
 [**결제/이용권 구매  - 유료앱 이용권 구매 페이지**](http://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term) **이동하면, 이용권과 업로드티켓 구매 가능합니다.**
 
@@ -71,12 +69,6 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 {% endhint %}
 
 
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/info (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 이용권은 1개월 외에 구매수량을 체크하여 3개월도 구매가 가능하구요.&#x20;
 
@@ -111,9 +103,17 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 1\)플레이스토어는 개발자 계정이 있어야 등록 가능하오니, 개발자 계정은 미리 등록을 완료해주세요 (구글 개발자 계정은 구글에 25달러 결제 후 이용 가능합니다.)
 
-☞ [구글개발자 계정 등록방법](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
 
-2\)앱스토어는 애플 개발자 계정 선택사항입니다.&#x20;
+
+2\)23년 11월 이후 개발자 계정을 새로 만드시는 분들은 반드시 계정 유형: ‘조직’으로 만들어주셔야 합니다.
+
+개인 개발자 계정은 앱 출시가 불가합니다. (23년 11월 이전에 생성한 경우 출시 가능)
+
+☞[구글 개발자 ‘조직’계정 등록방법 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
+
+
+
+3\)앱스토어는 애플 개발자 계정 선택사항입니다.&#x20;
 
 (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)
 
@@ -122,7 +122,9 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-### <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**무제한 이용권 \*웹뷰앱, 푸시앱만 적용 가능**</mark>
+
+
+### <mark style="color:blue;">**2.무제한 이용권 \*웹뷰앱, 푸시앱만 적용 가능**</mark>
 
 <figure><img src="../../.gitbook/assets/무제한상품.png" alt=""><figcaption></figcaption></figure>
 
@@ -144,7 +146,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-### <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**패키지 상품**</mark>
+### <mark style="color:blue;">3.</mark><mark style="color:blue;">**패키지 상품**</mark>
 
 <figure><img src="../../.gitbook/assets/패키지상품 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -166,13 +168,23 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-<mark style="color:blue;">**업로드티켓을 구매하지 않았다면, 업로드 신청이 불가합니다.**</mark>&#x20;
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
+
+위에서 이용권 및 업로드 티켓을 모두 구매했다면, [**앱운영 → 버전관리 → 앱제작이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동해서, 업로드 신청을 진행해주세요.**
+
+\[플레이스토어 업로드 신청] , \[앱스토어 업로드 신청] 버튼을 누르면 신청서 창이 뜨구요.
+
+스토어에 출시하고자 하는 앱 정보를 기재한 뒤 신청하기 버튼까지 눌러주셔야, 스윙투앱으로 신청서가 접수됩니다.
+
+업로드 티켓 구매 후 반드시 위의 방법대로 신청까지 진행해주셔야 합니다. 결제만 하시면 신청이 접수되지 않아요!
+
+
+
+<mark style="color:blue;">**\*업로드티켓을 구매하지 않았다면, 업로드 신청이 불가합니다.**</mark>&#x20;
 
 이용권 구매시 업로드티켓을 구매하지 않았다면 이용권 구매 - 업로드 티켓으로 이동하여 티켓을 구매해주세요
 
 <figure><img src="../../.gitbook/assets/티켓구매.PNG" alt=""><figcaption><p>스토어 업로드 티켓 구매 페이지</p></figcaption></figure>
-
-
 
 {% hint style="success" %}
 **\[티켓 상품 설명]**
@@ -198,21 +210,7 @@ description: 유료앱 이용권 구매 후 유료버전 전환 방법 안내
 
 
 
-### 스토어업로드 신청하기
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
-
-위에서 이용권 및 업로드 티켓을 모두 구매했다면, [**앱운영 → 버전관리 → 앱제작이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동해서, 업로드 신청을 진행해주세요.**
-
-\[플레이스토어 업로드 신청] , \[앱스토어 업로드 신청] 버튼을 누르면 신청서 창이 뜨구요.
-
-스토어에 출시하고자 하는 앱 정보를 기재한 뒤 신청하기 버튼까지 눌러주셔야, 스윙투앱으로 신청서가 접수됩니다.
-
-업로드 티켓 구매 후 반드시 위의 방법대로 신청까지 진행해주셔야 합니다. 결제만 하시면 신청이 접수되지 않아요!
-
-
-
-<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"><mark style="color:red;">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**</mark>&#x20;
+<mark style="color:red;">**플레이스토어는 업로드 대행 없이, 사용자가 직접 등록할 수 있습니다.**</mark>&#x20;
 
 플레이스토어 업로드 대행을 하지 않고, 직접 등록을 한다면 플레이스토어 업로드 티켓 구매를 하지 않아도 됩니다.
 
@@ -222,11 +220,15 @@ AAB파일을 받아서 직접 플레이스토어에 등록할 수 있습니다.&
 
 [**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
 
-AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다. <mark style="color:red;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.</mark>
+AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 더 해주셔야 새로 제작되는 버전부터 AAB파일이 생성됩니다.&#x20;
+
+<mark style="color:red;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.</mark>
 
 \[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
 
 다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bundle 파일로 업로드 해주시면 됩니다.&#x20;
+
+
 
 <mark style="color:red;">\*인터넷 브라우저 Chrome 으로 이용해주세요.</mark>
 
@@ -235,7 +237,11 @@ AAB파일은 유료앱 이용권 등의 상품 구매 후, 앱제작을 한번 �
 {% hint style="info" %}
 \*플레이스토어는 개발자 계정이 있어야 등록 가능하오니, 개발자 계정은 미리 등록을 완료해주세요 (구글 개발자 계정은 구글에 25달러 결제 후 이용 가능합니다.)
 
-☞ [구글개발자 계정 등록방법](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
+\*23년 11월 이후 개발자 계정을 새로 만드시는 분들은 반드시 계정 유형: ‘조직’으로 만들어주셔야 합니다.
+
+개인 개발자 계정은 앱 출시가 불가합니다. (23년 11월 이전에 생성한 경우 출시 가능)
+
+☞[구글 개발자 ‘조직’계정 등록방법 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
 
 \*앱스토어는 애플 개발자 계정 선택사항입니다. (직접 만들시 등록비는 1년 129,000원이며,  비용이 부담되신다면 스윙투앱 계정으로 대리등록 가능합니다.)
 

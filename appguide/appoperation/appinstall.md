@@ -22,7 +22,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱제작 완료하기**
+## **STEP1. 앱제작 완료하기**
 
 
 
@@ -88,7 +88,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP2. 안드로이드폰에서 APK파일을 다운 받는 방법**
+## STEP2. APK파일 다운받기
+
+
 
 스윙투앱에서 제작한 무료버전 앱을 다운 받는 방법은 3가지입니다.
 
