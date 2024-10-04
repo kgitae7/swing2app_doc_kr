@@ -566,9 +566,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 (2)구글 개발자 등록비(25달러, 평생이용)
 
-[\[구글 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer)
+[\[구글 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/businessidentity)
 
 \-구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능
+
+<mark style="color:red;">\*23년 11월 이후 계정 생성하시는 분들은 반드시 '조직' 개발자 계정으로 생성하셔야 등록 대행이 가능합니다.</mark>
 
 \-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
 {% endtab %}
