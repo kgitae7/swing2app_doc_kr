@@ -8,7 +8,11 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 구글 개발자 계정 확인 기한이 도래하면, 개발자는 구글의 요청대로 계정 인증을 완료해야 합니다.
 
-해당 도움말은 개인 개발자 계정에서 인증을 하는 방법입니다.
+해당 도움말은 '조직' 개발자 계정에서 인증을 하는 방법입니다.
+
+\*개인 개발자 계정 인증은 아래 가이드를 참고해주세요.
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/personal" %}
 
 {% hint style="info" %}
 #### 해당 케이스는 계정을 등록하여 사용하고 있는 분들 중, 계정 확인 기한을 선택하여 기한이 시작된 경우만 해당됩니다.
@@ -26,7 +30,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 ## 1.개발자 조직계정 인증
 
-구글 플레이 콘솔 접속
+[구글 플레이 콘솔 접속](https://play.google.com/console/u/0/developers)
 
 {% embed url="https://play.google.com/console/developers" %}
 
