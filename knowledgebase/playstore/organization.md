@@ -24,13 +24,13 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 
 
-## 1.개발자 개인 계정 인증
+## 1.개발자 조직계정 인증
 
 구글 플레이 콘솔 접속
 
-[https://play.google.com/console/developers](https://play.google.com/console/developers)
+{% embed url="https://play.google.com/console/developers" %}
 
-<figure><img src="../../.gitbook/assets/조직계정확인01.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 3.png" alt=""><figcaption></figcaption></figure>
 
 \[시작하기] 버튼 선택
 
@@ -38,7 +38,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 <figure><img src="../../.gitbook/assets/조직계정확인02.PNG" alt=""><figcaption></figcaption></figure>
 
-개발자 계정 인증에 필요한 단계가 표시됩니다. , \[시작] 선택
+개발자 계정 인증에 필요한 단계가 표시됩니다. \[시작] 선택
 
 
 
