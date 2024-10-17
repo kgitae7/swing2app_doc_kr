@@ -189,6 +189,7 @@
     * [앱 정책관리 - 앱 가입 정책](manual/appmanage/service/app-subscription-policy.md)
     * [앱 정책관리 - 회원가입 양식](manual/appmanage/service/signup.md)
     * [회원가입 양식 - 아이디 설정](manual/appmanage/service/signup-id.md)
+    * [회원가입 양식 - 외부 로그인 연동](manual/appmanage/service/external-login.md)
     * [회원가입 양식 - 가입 항목 추가하기](manual/appmanage/service/set-membershipform.md)
     * [앱 정책관리- 회원가입 완료 메시지 설정](manual/appmanage/service/subscription-completion-message.md)
     * [앱 이용약관, 개인정보취급방침](manual/appmanage/service/terms-of-app.md)
