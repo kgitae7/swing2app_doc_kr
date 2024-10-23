@@ -28,3 +28,22 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 ```
 {% endcode %}
 
+
+
+### • 웹사이트에서 앱 설치 유도 팝업 노출하기 <a href="#install-promotion-popup" id="install-promotion-popup"></a>
+
+푸시전용 또는 웹앱을 적용한 웹사이트에서 앱을 다운로드할 수 있도록 유도하는 팝업 노출하기
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.web.showInstallPopup(
+'f4397265-287a-4e17-ab7b-58f6f3209b32',    // 앱 아이디(스윙투앱 고객센터에 문의해주세요.)
+'앱에서 더 많은 정보를 확인해보세요',    // 팝업에 노출되는 메시지
+'https://www.swing2app.co.kr/assets/images/logo.png',    // 아이콘 이미지
+'앱으로 보기'    // 버튼명 입력
+)
+```
+{% endcode %}
+
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption><p>팝업예시 이미지</p></figcaption></figure>
+
