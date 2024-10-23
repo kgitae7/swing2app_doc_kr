@@ -40,7 +40,9 @@ swingWebViewPlugin.app.web.showInstallPopup(
 'f4397265-287a-4e17-ab7b-58f6f3209b32',    // 앱 아이디(스윙투앱 고객센터에 문의해주세요.)
 '앱에서 더 많은 정보를 확인해보세요',    // 팝업에 노출되는 메시지
 'https://www.swing2app.co.kr/assets/images/logo.png',    // 아이콘 이미지
-'앱으로 보기'    // 버튼명 입력
+'앱으로 보기'    // 버튼명 입력,
+'#1560e4',    // 버튼 배경색
+'white'       // 버튼 글자색 
 )
 ```
 {% endcode %}
