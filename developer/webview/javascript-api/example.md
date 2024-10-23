@@ -34,10 +34,12 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 푸시전용 또는 웹앱을 적용한 웹사이트에서 앱을 다운로드할 수 있도록 유도하는 팝업 노출하기
 
+안드로이드 또는 아이폰기기에서 브라우저에서 실행할 경우에만 노출되며 PC 환경에서는 노출되지 않습니다.
+
 {% code lineNumbers="true" %}
 ```javascript
 swingWebViewPlugin.app.web.showInstallPopup(
-'f4397265-287a-4e17-ab7b-58f6f3209b32',    // 앱 아이디(스윙투앱 고객센터에 문의해주세요.)
+'발급된 앱 아이디',    // 앱 아이디(스윙투앱 고객센터에 문의해주세요.)
 '앱에서 더 많은 정보를 확인해보세요',    // 팝업에 노출되는 메시지
 'https://www.swing2app.co.kr/assets/images/logo.png',    // 아이콘 이미지
 '앱으로 보기'    // 버튼명 입력,
