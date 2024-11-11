@@ -24,12 +24,6 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**부관리자 설정 방법은 영상을 통해서도 확인할 수 있습니다!!**</mark>
-
-{% embed url="https://youtu.be/d7Ox2GPMZKY" %}
-
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
-
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입 진행
 
 <div align="left">
