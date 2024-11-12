@@ -27,7 +27,11 @@ description: 웹사이트의 회원을 스윙투앱 콘솔에 등록하는 작�
 {% code lineNumbers="true" %}
 ```html
 <script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
-<script>swingWebViewPlugin.app.login.doAppLogin("사용자 아이디"," 사용자 이름"); </script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    swingWebViewPlugin.app.login.doAppLogin("사용자 아이디"," 사용자 이름");
+});
+</script>
 ```
 {% endcode %}
 
@@ -36,7 +40,11 @@ ex:) 사용자 아이디 : test\_account , 사용자 이름 : test\_name 일 경
 {% code lineNumbers="true" %}
 ```html
 <script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
-<script>swingWebViewPlugin.app.login.doAppLogin("test_account","test_name"); </script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    swingWebViewPlugin.app.login.doAppLogin("test_account","test_name");
+});
+</script>
 ```
 {% endcode %}
 
@@ -45,7 +53,11 @@ ex:) 사용자 아이디 : test\_account , 사용자 이름 : test\_name 일 경
 {% code lineNumbers="true" %}
 ```html
 <script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
-<script>swingWebViewPlugin.app.login.doAppLogout();</script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    swingWebViewPlugin.app.login.doAppLogout();
+});
+</script>
 ```
 {% endcode %}
 
