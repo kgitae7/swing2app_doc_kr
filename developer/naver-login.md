@@ -1,18 +1,28 @@
 ---
-description: 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅하기
+description: 일반 프로토타입 앱) 소셜 간편 로그인 연동 방법- 네이버 로그인 셋팅하기
 ---
 
 # 네이버 로그인 API 연동
 
 ***
 
-[https://developers.naver.com/](https://developers.naver.com/apps/) 접속 후 로그인
+{% hint style="warning" %}
+해당 기능은 스윙투앱 **일반 프로토타입 앱에서 적용할 수 있는 연동 매뉴얼입니다.**
 
-아직 가입이 안되어있다면, 가입 후 진행해주세요.
+\*무료앱 이용 불가/ 이용권 중 확장형, 프리미엄 이용권 이용시에만 이용 가능합니다.&#x20;
+
+\*웹사이트를 연결한 웹뷰앱, 푸시앱은 이용 불가합니다.&#x20;
+
+(웹앱은 웹사이트 내에서 소셜 로그인 셋팅을 하여 이용해주세요.)&#x20;
+{% endhint %}
+
+***
 
 
 
 ## 1.NAVER Developers 사이트 - 어플리케이션 등록
+
+[https://developers.naver.com/](https://developers.naver.com/apps/) 접속 후 로그인 아직 가입이 안되어있다면, 가입 후 진행해주세요.
 
 <figure><img src="../.gitbook/assets/네이버1.png" alt=""><figcaption></figcaption></figure>
 
