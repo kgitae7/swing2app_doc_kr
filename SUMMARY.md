@@ -373,6 +373,7 @@
   * [구글 플레이 개발자 계정 인증 기한 선택](knowledgebase/playstore/verification.md)
   * [플레이스토어 앱 업로드 키 재설정](knowledgebase/playstore/keymanagement.md)
   * [플레이스토어 출시 후 관리 페이지](knowledgebase/playstore/manage.md)
+  * [플레이스토어 등록된 앱 삭제](knowledgebase/playstore/undefined-2.md)
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
   * [구글 계정 만들기](knowledgebase/playstore/accounts.md)
   * [구글 개발자 개인 계정 설정](knowledgebase/playstore/identity.md)
