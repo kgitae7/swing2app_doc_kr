@@ -1,54 +1,70 @@
 ---
-description: 2024년 4월 2주차 스윙투앱 정기 업데이트
+description: 2024년 11월 2주차 스윙투앱 정기 업데이트
 ---
 
 # 스윙투앱 업데이트
 
-
-
 ﻿**\[업데이트 내용]**
 
-1.접근 권한 제어
-
-2.브랜드 관리 - 라벨설정
+**안드로이드 권한 셋팅 기능 신규 출시 - 웹앱 대상**
 
 ***
 
 
 
-## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **1.접근 권한 제어 기능 업데이트**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **안드로이드 권한 셋팅 기능 신규 출시**&#x20;
 
-<figure><img src=".gitbook/assets/접근권한제어.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/권한업데이트.png" alt=""><figcaption></figcaption></figure>
 
-**접근 권한 제어란?**
+**어떤 내용인가요?**
 
-접근 권한 제어란, 부관리자별로 대시보드에 접근할 수 있는 기능을 각각 다르게 설정하는 기능입니다.
+안드로이드에서는 앱 이용시, 앱에서 어떤 권한이 필요한지를 체크하게 되는데요.
 
-예를 들어)
+일반적으로 위의 권한이 앱에서 셋팅이 되어 제공되고 있습니다.
 
-\-A 부관리자: 결제 관리&#x20;
+{% hint style="success" %}
+\-사진 및 미디어 (읽기/저장)
 
-\-B 부관리자: 운영팀(앱 서비스관리, 게시물 관리, 쇼핑몰 관리)
+\-위치 권한 (지도, 내 위치 허용)
 
-\-C부관리자: 앱제작 관리
+\-마이크 사용 (파일 첨부 - 영상 녹화시 이용)
 
-이렇게 각 관리자별로 접근이 가능한 기능을 셋팅하여 해당 기능만 노출되도록 사용할 수 있습니다.&#x20;
+\-카메라 사용(파일 첨부- 사진 촬영시 이용)
+{% endhint %}
 
-설정한 기능 외에 다른 기능은 노출되지 않아요.
+**위의 권한은 웹뷰, 푸시앱제작시 필수로 제공되어 제작이 되었습니다.** <mark style="color:red;">\*일반 프로로타입앱은 사용 불가</mark>
 
-\*접근 권한을 사용하지 않을 경우 모든 부관리자는 관리자와 동일한 대시보드로 사용됩니다.
+위의 기능은 기존에는 고정값으로 저희가 소스 내에 권한을 셋팅해서 제공했기 때문에 사용자분들이 직접 설정이 불가했는데요.
 
-접근 권한 없이 모든 기능이 관리자 화면과 동일하게 노출됩니다.
+이제 사용자분들이 직접 권한 값을 셋팅할 수 있도록 제작 화면에 기능을 추가해놓았습니다.&#x20;
+
+앱 마다 사용하는 권한이 다른 만큼 내 앱에 맞는 권한을 체크하여 제작할 수 있습니다.
+
+{% hint style="info" %}
+활용 예시) 우리 앱은 정보를 제공하는 앱이라서 사용자 위치를 수집할 필요가 없어요. 위치 권한을 사용하지 않아요 → "위치 권한" 미사용으로 체크할 수 있습니다.
+
+이렇게 미사용으로 체크하면, 앱 설치시 권한 팝업 안내가 뜨지 않구요.&#x20;
+
+플레이스토어 제출시에도 문제없이 심사 받을 수 있습니다.
+{% endhint %}
+
+***
 
 
 
-### <img src=".gitbook/assets/question-(1) (1).png" alt="" data-size="line"> **이용방법**
+### <img src=".gitbook/assets/question-(1) (1).png" alt="" data-size="line"> **이용방법 : 웹뷰, 푸시앱에만 해당 됩니다.**&#x20;
 
-[앱운영 - 서비스관리 - 콘솔 액세스 관리 - 접근 권한 제어](https://www.swing2app.co.kr/view/app\_access\_management\_view) 메뉴에서 이용 가능합니다.
+<figure><img src=".gitbook/assets/업데이트유형2.png" alt=""><figcaption></figcaption></figure>
 
-이용방법은 아래 매뉴얼로 상세히 확인 가능합니다.
+앱제작 STEP2디자인 - 기본 스타일 및 옵션: 안드로이드 권한 선택 - 각 권한별 사용 or 미사용으로 체크 - 저장 - 앱 업데이트 버튼 선택
 
-[접근 권한 제어 이용방법 바로가기](https://documentation.swing2app.co.kr/manual/appmanage/service/accessmanagement)&#x20;
+<figure><img src=".gitbook/assets/업데이트유형.png" alt=""><figcaption></figcaption></figure>
+
+사용자들에게는 업데이트 된 기능이 없으므로, 업데이트 유형은 "업데이트 표시 안함"으로 체크해고 제작해주세요.
+
+\*반드시 업데이트를 해주셔야 반영됩니다.
+
+\*플레이스토어에 출시된 분들은, 새로 제작된 버전으로 플레이 콘솔 프로덕션에도 앱을 제출해주셔야 합니다. (업데이트 제출)
 
 
 
@@ -57,17 +73,13 @@ description: 2024년 4월 2주차 스윙투앱 정기 업데이트
 {% hint style="warning" %}
 접근 권한 제어, 브랜드 관리 기능은 모두 아래의 사용 조건에 충족해야 이용이 가능합니다.
 
-**\[사용조건]**
+해당 기능은 일반 프로토타입 앱에서는 이용이 불가합니다.&#x20;
 
-1\)일반 프로토타입 앱 사용자 대상
+**\*푸시앱, 웹뷰앱과 같은 웹앱에서만 사용 가능합니다.**
 
-2\)스윙투앱 유료앱 이용권 중 "프리미엄 이용권" 사용에 한해 이용 가능합니다.
+일반 프로토타입앱은 제작 시스템에 따라 권한이 꼭 제공이 되어야 합니다. \*사용자가 임의적으로 권한을 삭제하거나 변경할 수 없습니다.
 
-3\)앱에 설정된 부관리자가 있어야 합니다.&#x20;
-
-부관리자를 아직 설정하지 않았다면 매뉴얼을 보시고, 부관리자를 지정해주세요.&#x20;
-
-[부관리자 설정방법](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator)
+이용에 참고 부탁드립니다.
 {% endhint %}
 
 
@@ -75,46 +87,4 @@ description: 2024년 4월 2주차 스윙투앱 정기 업데이트
 ***
 
 
-
-## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **2.브랜드 관리 – 라벨 사용 업데이트**
-
-<figure><img src=".gitbook/assets/브랜드관리.png" alt=""><figcaption></figcaption></figure>
-
-**브랜드관리 - 라벨 사용이란?**
-
-브랜드 관리는, 앱을 운영하는 해당 업체 정보를 등록하여 입력된 브랜드로 페이지를 이용할 수 있는 기능입니다.
-
-라벨 사용시, 스윙투앱 대시보드 사업자 정보란에 입력하신 회사 정보로 표기되며, 개별 로그인 페이지 링크도 생성됩니다.&#x20;
-
-라벨을 사용하지 않을 경우 개별 페이지는 생성되지 않고, 회사 정보 역시 스윙투앱 정보로 표기 됩니다.
-
-
-
-### <img src=".gitbook/assets/question-(1) (1).png" alt="" data-size="line"> **이용방법**
-
-[앱운영 - 서비스관리 - 콘솔 액세스 관리 – 브랜드 관리](https://www.swing2app.co.kr/view/brand\_setting\_view) 메뉴에서 이용 가능합니다.
-
-이용방법은 아래 매뉴얼로 상세히 확인 가능합니다.
-
-[브랜드관리 이용방법 바로가기](https://documentation.swing2app.co.kr/manual/appmanage/service/brandsetting)
-
-
-
-### <img src=".gitbook/assets/warning-(2) (1) (1).png" alt="" data-size="line"> 안내사항
-
-{% hint style="warning" %}
-접근 권한 제어, 브랜드 관리 기능은 모두 아래의 사용 조건에 충족해야 이용이 가능합니다.
-
-**\[사용조건]**
-
-1\)일반 프로토타입 앱 사용자 대상
-
-2\)스윙투앱 유료앱 이용권 중 "프리미엄 이용권" 사용에 한해 이용 가능합니다.
-
-3\)앱에 설정된 부관리자가 있어야 합니다.&#x20;
-
-부관리자를 아직 설정하지 않았다면 매뉴얼을 보시고, 부관리자를 지정해주세요.&#x20;
-
-[부관리자 설정방법](https://documentation.swing2app.co.kr/manual/appmanage/pushmember/associate-administrator)
-{% endhint %}
 
