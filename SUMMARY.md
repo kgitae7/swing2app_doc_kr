@@ -378,7 +378,7 @@
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
   * [구글 계정 만들기](knowledgebase/playstore/accounts.md)
   * [구글 개발자 개인 계정 설정](knowledgebase/playstore/identity.md)
-  * [구글 개발자 조직 계정 설정](knowledgebase/playstore/businessidentity.md)
+  * [구글 개발자 조직 계정 설정(인증)](knowledgebase/playstore/businessidentity.md)
   * [구글 개발자 - 조직 웹사이트 인증](searchconsole.md)
   * [구글 개발자 계정 등록 프로세스](storedeveloper/googleprocess.md)
   * [구글 개발자 계정 확인 기한 '개인' 계정 인증](knowledgebase/playstore/personal.md)
