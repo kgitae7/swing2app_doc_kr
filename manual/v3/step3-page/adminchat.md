@@ -10,9 +10,9 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 카카오톡이나 메신저처럼 실시간으로 대화를 주고 받을 수 있기 때문에 특정 회원과의 커뮤니케이션이 필요한 경우 유용하게 사용할 수 있습니다.
 
-\-앱 관리자가 회원을 선택하여 채팅을 할 수 있구요.
+-앱 관리자가 회원을 선택하여 채팅을 할 수 있구요.
 
-\-앱 회원 역시 앱에 적용된 채팅방 메뉴에서 관리자에게 대화를 걸 수 있어요.
+-앱 회원 역시 앱에 적용된 채팅방 메뉴에서 관리자에게 대화를 걸 수 있어요.
 
 매뉴얼통해서 관리자 채팅(1:1 채팅)을 이용하는 방법을 확인해주세요.
 
@@ -84,11 +84,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 ## **2. 앱 실행화면: 채팅방 화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2.png" alt=""></div>
 
 앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
 
@@ -120,11 +116,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 #### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **채팅목록**&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png" alt=""></div>
 
 대화를 한 뒤 다시 해당 관리자와 채팅을 하고 싶을 경우 ‘채팅목록’으로 들어가시면 됩니다.
 
@@ -164,7 +156,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW3.png)
 
-스윙 홈페이지 [앱운영페이지 → 푸시&회원 → 회원조회](http://www.swing2app.co.kr/view/member\_list) 메뉴로 이동합니다.
+스윙 홈페이지 [앱운영페이지 → 푸시&회원 → 회원조회](http://www.swing2app.co.kr/view/member_list) 메뉴로 이동합니다.
 
 
 
@@ -230,7 +222,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## 5**. 추가안내**&#x20;
+## &#x35;**. 추가안내**&#x20;
 
 앱에서 기존에 채팅을 한 회원과 다시 대화를 하고 싶다면, 채팅 목록을 이용해주세요.
 
@@ -250,11 +242,7 @@ description: 관리자와 앱 회원 1:1 채팅 이용방법 매뉴얼 [관리�
 
 ## **6. 새글알람 푸시 알림 -관리자, 회원**
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/관리자채팅8-504x1024.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/관리자채팅8-504x1024.png" alt=""></div>
 
 채팅을 하게 되면 앱 관리자 – 앱 회원 모두 채팅 메시지 알림 푸시를 받을 수 있습니다.
 

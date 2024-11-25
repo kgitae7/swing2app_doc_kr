@@ -8,7 +8,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.푸시란, 푸시 아이콘 이미지란?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EB%9E%80\_886-847x1024.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EB%9E%80_886-847x1024.png)
 
 푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있는 기능이구요.
 
@@ -30,11 +30,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 <mark style="color:green;">이미지 참고)</mark>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/11/%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98.png" alt=""><figcaption></figcaption></figure></div>
 
 안드로이드 스펙에 맞는 notification설정을 해야 하는데 등록된 이미지 색상 배합이 스펙에 맞지 않아 발생한 문제에요.
 
@@ -48,7 +44,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.아이콘 이미지 색상 가이드 **<mark style="color:red;">**\*중요\***</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.아이콘 이미지 색상 가이드&#x20;**<mark style="color:red;">**\*중요\***</mark>
 
 1\)아이콘을 배경을 투명으로 만들어서 사용(모든 안드로이드 기기 동작)
 
@@ -58,11 +54,11 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 단, 범용적 사용을 위해서 투명 이미지로 제작하는 것을 권장드립니다.&#x20;
 
-\-아이콘 이미지 변경은 앱 업데이트가 필요합니다. 아이콘 이미지 변경 후 앱 업데이트를 해주세요.&#x20;
+-아이콘 이미지 변경은 앱 업데이트가 필요합니다. 아이콘 이미지 변경 후 앱 업데이트를 해주세요.&#x20;
 
-\-새 버전으로 업데이트 받은 뒤, 푸시 발송하기를 진행하면 변경된 푸시 아이콘 이미지로 발송됩니다.
+-새 버전으로 업데이트 받은 뒤, 푸시 발송하기를 진행하면 변경된 푸시 아이콘 이미지로 발송됩니다.
 
-\-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 플레이스토어에 업데이트를 다시 해주셔야 합니다.
+-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 플레이스토어에 업데이트를 다시 해주셔야 합니다.
 
 **\[guideline 참조]**
 
@@ -76,7 +72,7 @@ description: 푸시 아이콘 이미지 디자인 가이드라인
 
 {% embed url="http://romannurik.github.io/AndroidAssetStudio/icons-notification.html#source.type=clipart&source.clipart=ac_unit&source.space.trim=1&source.space.pad=0&name=ic_stat_onesignal_default" %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**푸시 아이콘 이미지 디자인 가이드
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**&#xD478;시 아이콘 이미지 디자인 가이드
 
 
 

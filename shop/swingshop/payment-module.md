@@ -18,19 +18,19 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**결제모듈관리 페이지 이동**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88_20.04.png)
 
-**스윙샵 – 상점관리 메뉴에서 – \[결제모듈관리]**로 이동합니다.
+**스윙샵 – 상점관리 메뉴에서 – \[결제모듈관리]**&#xB85C; 이동합니다.
 
 결제모듈 페이지는 스윙샵에서 제공하는 결제수단을 설정할 수 있는 페이지입니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804_20.04.png)
 
 페이앱(카드결제, 핸드폰소액결제, 실시간계좌이체), 무통장입금 결제모듈을 기본으로 제공하고 있구요.
 
-\+대면결제(현금)도 새롭게 추가되었습니다.
++대면결제(현금)도 새롭게 추가되었습니다.
 
 ​
 
@@ -46,7 +46,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **1. 페이앱**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%882\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%882_20.04.png)
 
 페이앱은 가입을 하지 않아도 테스트로 결제가 가능합니다.
 
@@ -80,17 +80,9 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면: 페이앱 결제화면**
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/결제모듈_22.08.png" alt=""></div>
 
-<img src="../../.gitbook/assets/결제모듈_22.08.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="../../.gitbook/assets/결제모듈2_22.08.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/결제모듈2_22.08.png" alt=""></div>
 
 **페이앱 결제수단을 선택하면 페이앱에서 제공하는 결제모듈을 선택할 수 있어요.**
 
@@ -100,7 +92,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **2. 무통장 입금**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%883\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%883_20.04.png)
 
 **무통장입금은 실물 상품, 예약시스템 상품에서만 적용 가능하구요.**
 
@@ -122,7 +114,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면: 무통장입금 결제화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8810\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8810_20.04.png)
 
 결제수단 – 무통장입금을 선택 후, \[결제하기] 버튼을 선택하면 아래로 입금 계좌 정보가 나옵니다.
 
@@ -132,7 +124,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **3. 대면결제(현금)**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803_20.04.png)
 
 스윙샵 결제모듈에서 대면결제(현장결제) 결제모듈이 추가되었습니다.
 
@@ -148,17 +140,13 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**앱 실행화면: 현장결제 화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802_20.04.png" alt=""></div>
 
 상품 선택 후 구매하기 결제수단: \[현장결제]를 선택합니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%801\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%801_20.04.png)
 
 결제하기 화면이 뜨며, 금액 확인 후 \[결제하기] 버튼을 선택하면 주문이 완료됩니다.
 

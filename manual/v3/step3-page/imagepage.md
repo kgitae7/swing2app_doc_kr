@@ -58,15 +58,11 @@
 
 ​
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_04_18_25_45_117.gif" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_04_18_25_45_117.gif" alt="">
+-이미지 위에 영역을 선택하여, 해당 배너 영역마다 페이지를 연동했어요.
 
-</div>
-
-\-이미지 위에 영역을 선택하여, 해당 배너 영역마다 페이지를 연동했어요.
-
-\-앱 실행시, 이미지의 특정 배너를 선택하면 연동된 페이지로 이동하게끔 제작할 수 있습니다
+-앱 실행시, 이미지의 특정 배너를 선택하면 연동된 페이지로 이동하게끔 제작할 수 있습니다
 
 
 
@@ -74,11 +70,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%802.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_10_23_12_00_46_924.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_10_23_12_00_46_924.gif" alt=""></div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
@@ -128,11 +120,7 @@
 
 ### <mark style="color:blue;">**2.이미지 페이지 제작**</mark>&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png" alt=""></div>
 
 이미지 페이지 작업은
 
@@ -141,40 +129,32 @@
 {% hint style="success" %}
 **★기본 스타일**&#x20;
 
-\-Background Color : 툴로 설정한 영역에 색을 입힐 수 있구요.
+-Background Color : 툴로 설정한 영역에 색을 입힐 수 있구요.
 
-\-Background Opacity : 툴로 설정된 영역의 투명도를 지정할 수 있습니다.&#x20;
+-Background Opacity : 툴로 설정된 영역의 투명도를 지정할 수 있습니다.&#x20;
 
-마우스를 선택했을 때 해당 툴이 보이지 않기를 원한다면 투명도를 ‘0’으로 설정하면 됩니다**.**
+마우스를 선택했을 때 해당 툴이 보이지 않기를 원한다면 투명도를 ‘0’으로 설정하면 됩니&#xB2E4;**.**
 {% endhint %}
 
 
 
 ### <mark style="color:blue;">**3.도형툴 – 스타일 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png" alt=""></div>
 
 **툴 모양은 점모양 ,사각형,  타원형, 다각형으로 제공됩니다.**
 
-\-점모양을 이용할 때는 이미지 위에 마우스 커서를 클릭하면 점이 생깁니다.
+-점모양을 이용할 때는 이미지 위에 마우스 커서를 클릭하면 점이 생깁니다.
 
-\-사각형, 타원형 모양을 이용할 때는 이미지 위에 마우스 커서를 놓고 왼쪽에서 드래그해서 영역을 만들어주면 됩니다.
+-사각형, 타원형 모양을 이용할 때는 이미지 위에 마우스 커서를 놓고 왼쪽에서 드래그해서 영역을 만들어주면 됩니다.
 
-\-다각형의 경우 여러 영역에 점을 찍고, 다시 처음에 점을 찍은 곳으로 점을 찍면 다각형 영역이 만들어집니다.
+-다각형의 경우 여러 영역에 점을 찍고, 다시 처음에 점을 찍은 곳으로 점을 찍면 다각형 영역이 만들어집니다.
 
 
 
 **▶움짤 이미지를 통해서 영역을 설정하는 방법을 확인해주세요**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif" alt=""></div>
 
 ### <mark style="color:blue;">**4.링크 적용하기**</mark>
 
@@ -242,7 +222,7 @@
 
 TIP을 한가지 드리면요
 
-리스트에서 **\[스타일 복제 버튼]**을 이용하면, **동일한 영역 스타일과 기본 스타일을 그대로 가져올 수 있습니다.**
+리스트에서 **\[스타일 복제 버튼]**&#xC744; 이용하면, **동일한 영역 스타일과 기본 스타일을 그대로 가져올 수 있습니다.**
 
 링크 설정만 변경을 하면 되니, 좀 더 간편하게 만들 수 있어요!
 
@@ -250,11 +230,7 @@ TIP을 한가지 드리면요
 
 ### <mark style="color:blue;">**6.제작 TIP - 배경색 추가하기**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/이미지배경색추가.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/이미지배경색추가.PNG" alt=""><figcaption></figcaption></figure></div>
 
 이미지 페이지는 이미지를 기반으로 웹페이지로 구성되는 사용자페이지 제작도구입니다.
 
@@ -350,11 +326,7 @@ TIP을 한가지 드리면요
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**툴팁 적용 예시)**&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png" alt=""></div>
 
 
 
@@ -462,11 +434,7 @@ TIP을 한가지 드리면요
 
 ### <mark style="color:blue;">**3. 앱 실행화면) 이미지 페이지 툴팁**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png" alt=""></div>
 
 ***
 

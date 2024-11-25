@@ -32,7 +32,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 앱제작이 완료되면 **1)\[저장], 2)\[앱제작하기]** 버튼을 눌러주세요.
 
-업데이트 표시 옵션을 선택한 뒤 **3)\[제작하기]**를 누르면 앱 제작이 시작됩니다**.**
+업데이트 표시 옵션을 선택한 뒤 **3)\[제작하기]**&#xB97C; 누르면 앱 제작이 시작됩니&#xB2E4;**.**
 
 \*업데이트 유형, 표시 옵션은 체크되어있는대로 그대로 두시고 제작해주세요.&#x20;
 
@@ -44,7 +44,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:blue;">**2 . 앱제작 진행 중**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C1.png)
 
 앱제작 페이지에서 앱제작요청을 누르면, 바로 앱운영 페이지의 앱 작업이력 페이지로 이동합니다.
 
@@ -58,7 +58,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:blue;">**3 . 앱 미리보기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C2.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C2.png)
 
 제작을 기다리는 중에 1분도 안되서 \[스윙 미리보기] 팝업창이 뜨는데요.
 
@@ -72,7 +72,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:blue;">**4. 앱 제작 완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C3.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C3.png)
 
 잠시 뒤 플랫폼별 상태가 ‘앱제작 완료’라고 바뀐 것을 확인할 수 있어요.
 
@@ -134,11 +134,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt=""></div>
 
 3\) 로그인이 완료되면 앱 미리보기 페이지가 열리며, 제작한 앱 목록을 확인할 수 있습니다.
 
@@ -147,11 +143,11 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 \*안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
 {% hint style="warning" %}
-\-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜬다면 ‘무시하고 설치’ 하고 진행해주시기 바랍니다.&#x20;
+-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜬다면 ‘무시하고 설치’ 하고 진행해주시기 바랍니다.&#x20;
 
-\-스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)
+-스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)
 
-\-<mark style="color:red;">아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.</mark>
+-<mark style="color:red;">아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.</mark>
 {% endhint %}
 
 
@@ -160,11 +156,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**앱 미리보기에서 앱 다운받는 방법 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_12_34_24_881.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_12_34_24_881.gif" alt=""></div>
 
 \*앱이 플레이스토어 혹은 앱스토어에 출시가 되어 있다면 ‘마켓에서 보기’를 선택하여 바로 출시된 해당 스토어로 이동할 수 있습니다.
 
@@ -184,11 +176,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <mark style="color:red;">★앱 다운은 아이폰은 이용할 수 없으며, 안드로이드폰에서만 이용이 가능합니다.</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9811.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9811.png" alt=""></div>
 
 앱이 제작되면 사용자의 이메일로 제작 완료된 APK파일이 발송되요.
 
@@ -196,11 +184,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%98121.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%98121.png" alt=""></div>
 
 APK파일이 핸드폰으로 다운됩니다.
 
@@ -220,11 +204,7 @@ APK파일이 핸드폰으로 다운됩니다.
 
 <mark style="color:blue;">**어플리케이션 설치완료!!**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%80-41.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B4%EB%AF%B8%EC%A7%80-41.png" alt=""></div>
 
 이렇게 스윙에서 제작한 무료버전 앱을 핸드폰에 설치 완료했습니다.&#x20;
 
@@ -236,31 +216,19 @@ APK파일이 핸드폰으로 다운됩니다.
 <mark style="color:red;">메일에서 정상적으로 다운이 안된다면, 링크 URL을 복사해서 웹브라우저 앱에서 열어주세요!</mark>
 {% endhint %}
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_09_22_13_50_52_221.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_09_22_13_50_52_221.gif" alt=""></div>
 
 이메일에서 설치파일을 열려고 하면, 이메일에 내장된 보안 시스템 때문에 외부  APK파일이 열리는 것을 막아놓을 수 있어요.
 
 따라서 이메일에서 받은 파일이 설치가 안된다면 새로운 웹브라우저를 열어서 해당 브라우저에서 다운을 받아주세요.&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-3.png" alt=""></div>
 
 \[앱다운로드 하기] 버튼을 길게 누르면 앱 URL 복사 팝업창이 뜹니다.
 
 앱설치 URL을 복사할 수 있어요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%98123.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%98123.png" alt=""></div>
 
 URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수 있구요.
 
@@ -268,11 +236,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EC%9C%A08.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EC%9C%A08.png" alt=""></div>
 
 인터넷 새 브라우저 창에 붙여 넣으면, 앱 파일이 열리면서 다운이 가능합니다.
 
@@ -282,11 +246,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**URL 복사 설치방법 움짤 이미지로 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_09_22_13_50_52_221.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_09_22_13_50_52_221.gif" alt=""></div>
 
 
 
@@ -308,11 +268,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%982.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%982.png" alt=""></div>
 
 5\)APK파일 받기를 선택하면 파일 다운로드가 시작됩니다.&#x20;
 
@@ -320,31 +276,19 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%983.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%983.png" alt=""></div>
 
 6\)앱 설치가 시작됩니다. 설치 버튼 탭해주세요.&#x20;
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%984.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%984.png" alt=""></div>
 
 7\)앱 설치가 완료 됩니다.&#x20;
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%985.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%985.png" alt=""></div>
 
 안드로이드폰에서 설치된 앱을 실행한 모습입니다.
 
@@ -362,11 +306,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP3. 보안 메시지 대처방법**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/앱설치-보안.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/앱설치-보안.png" alt=""><figcaption></figcaption></figure></div>
 
 안드로이드폰에는 기본적으로 외부에서 받아온 파일을 설치할 경우 보안 메시지가 뜹니다.
 

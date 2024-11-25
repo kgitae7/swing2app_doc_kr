@@ -78,7 +78,7 @@
 
 **​**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_11\_22\_12\_22\_24\_649.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_11_22_12_22_24_649.gif)
 
 **왼쪽 핸드폰 가상머신을 보시면 이미지가 홈화면으로 적용된 것을 확인할 수 있어요.**
 
@@ -132,7 +132,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 보시면 이해가 더 쉬울거에요^^**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_11\_26\_16\_43\_45\_953.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_11_26_16_43_45_953.gif)
 
 **오른쪽 핸드폰 가상머신을 보시면 게시판이 홈화면으로 적용된 것을 확인할 수 있어요.**
 
@@ -278,7 +278,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**홈화면에 에디터페이지 적용하는 방법 움짤로 보기.gif**</mark>
+<mark style="background-color:blue;">**▶**</mark>**&#x20;**<mark style="color:orange;">**홈화면에 에디터페이지 적용하는 방법 움짤로 보기.gif**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
 
@@ -324,7 +324,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**홈화면에 앱소개 페이지 적용하는 방법 움짤로 보기.gif**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_11\_26\_17\_33\_58\_450.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_11_26_17_33_58_450.gif)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%9822.jpg)
 

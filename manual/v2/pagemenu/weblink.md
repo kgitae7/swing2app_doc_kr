@@ -12,7 +12,7 @@
 
 웹링크를 이용하는 방법과 함께 웹링크 옵션사항인!! \[새창으로 보기], \[외부앱으로 열기] 기능도 함께 알려드리겠습니다.
 
-페이지메뉴 단계에서 \[웹링크] 메뉴를 이용하는 방법을 알려드리겠습니다**.**&#x20;
+페이지메뉴 단계에서 \[웹링크] 메뉴를 이용하는 방법을 알려드리겠습니&#xB2E4;**.**&#x20;
 
 
 
@@ -95,7 +95,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**새창으로 보기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_15\_59\_42\_883.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_03_15_59_42_883.gif)
 
 홈페이지 URL을 연결해놓았구요.
 
@@ -107,7 +107,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**외부앱으로 열기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_16\_02\_05\_720.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_03_16_02_05_720.gif)
 
 유튜브 링크는 ‘외부 앱으로 보기’로 연결했구요.
 

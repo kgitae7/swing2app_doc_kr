@@ -4,7 +4,7 @@ description: Apple Developer Enterprise Program
 
 # Apple Developer Enterprise Program
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
 
 ## ​1. **Apple Developer Enterprise Program 란?** <a href="#id-1.-apple-developer-enterprise-program" id="id-1.-apple-developer-enterprise-program"></a>
 
@@ -14,7 +14,7 @@ description: Apple Developer Enterprise Program
 
 내부 시스템을 이용하여 회사 내 직원들에게 비공개로 배포하여 이용할 수 있습니다.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
 
 ## ​2. **자격 요건** <a href="#id-2." id="id-2."></a>
 
@@ -36,17 +36,17 @@ TestFlight 이용방법은 아래 매뉴얼로 확인해주세요.
 
 특별한 자격요건 없이 아이폰을 사용하는 분들이라면 다 이용이 가능합니다.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
 
 ## ​3. **엔터프라이즈 계정 멤버쉽 비용 (1년)** <a href="#id-3.-1" id="id-3.-1"></a>
 
-\-사내 내부용 : 엔터프라이즈(Enterprise) 계정 **$299**
+-사내 내부용 : 엔터프라이즈(Enterprise) 계정 **$299**
 
-\-외부용: 일반 계정 **$99** (일반 앱스토어 개발자 등록비)
+-외부용: 일반 계정 **$99** (일반 앱스토어 개발자 등록비)
 
-\-사내, 외부 모두 사용 시 : **$299 + $99 = $398**
+-사내, 외부 모두 사용 시 : **$299 + $99 = $398**
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
 
 ## ​4. **엔터프라이즈 프로그램(Enterprise Program) 가입 신청방법** <a href="#id-4.-enterprise-program" id="id-4.-enterprise-program"></a>
 
@@ -82,11 +82,7 @@ TestFlight 이용방법은 아래 매뉴얼로 확인해주세요.
 
 조직 내에서 사용하기 위한 전용 앱 선택 하거나 유형에 맞도록 배포 방식을 선택합니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/01/%EC%95%A0%ED%94%8C2.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/01/%EC%95%A0%ED%94%8C2.png" alt="" width="100%"></div>
 
 내용을 모두 확인한 후 \[등록 시작하기] 버튼을 선택합니다.
 
@@ -126,7 +122,7 @@ TestFlight 이용방법은 아래 매뉴얼로 확인해주세요.
 
 약 2주 후부터 엔터프라이즈에서 계정을 사용할 수 있어요.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
 
 ## ​5. 스윙투앱 신청방법 <a href="#id-5." id="id-5."></a>
 
@@ -140,11 +136,11 @@ TestFlight 이용방법은 아래 매뉴얼로 확인해주세요.
 
 (이용권은 기본, 확장, 프리미엄 그외 플러그인 상품 중 원하는 상품으로 구매해주세요.)
 
-\*웹뷰, 푸시전용으로 앱을 제작하신 분들은 **무제한 유료앱 상품(이용기간 제한 없는 무제한 상품)**으로 구매가 가능합니다.
+\*웹뷰, 푸시전용으로 앱을 제작하신 분들은 **무제한 유료앱 상품(이용기간 제한 없는 무제한 상품)**&#xC73C;로 구매가 가능합니다.
 
 **2)유료앱 이용권, 앱스토어 업로드 티켓 구매 후 \***
 
-[**앱운영 →버전관리 → 앱제작 이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 앱스토어 업로드 신청을 해주세요.**
+[**앱운영 →버전관리 → 앱제작 이력**](http://www.swing2app.co.kr/view/app_work_history) **페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 앱스토어 업로드 신청을 해주세요.**
 
 실제 공식 출시를 하는 것은 아니지만, 엔터프라이즈 배포 앱도 앱스토어 애플의 심사를 받은 후에 이용이 가능해요.
 
@@ -152,7 +148,7 @@ TestFlight 이용방법은 아래 매뉴얼로 확인해주세요.
 
 \*업로드 신청서 애플 계정란에 애플 엔터프라이즈 개발자 계정을 기재해주셔야 합니다.
 
-\*업로드 신청서 업로드 요청사항란에 **“엔터프라이즈 출시”**라고 기재해주시기 바랍니다.
+\*업로드 신청서 업로드 요청사항란에 **“엔터프라이즈 출시”**&#xB77C;고 기재해주시기 바랍니다.
 
 **3)앱스토어 등록은 심사기간 3\~5일 정도가 소요됩니다.** &#x20;
 
@@ -162,7 +158,7 @@ TestFlight 이용방법은 아래 매뉴얼로 확인해주세요.
 
 공식 출시로 배포로 하는 것보다 앱 출시보다는 금방 되며, 거절 없이 거의 대부분은 승인이 되고 있습니다.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fc9fcx2Hm0R0ISfqNRE7f%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=ce898b39-cc5f-42f8-9d41-b88885dfaa79)
 
 ## ​6. **안내 사항** <a href="#id-6." id="id-6."></a>
 

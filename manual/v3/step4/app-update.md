@@ -74,7 +74,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **1.스토어 업데이트가 필요한 경우**
 
-**=**앱 기본정보, 디자인테마
+**=**&#xC571; 기본정보, 디자인테마
 
 앱이름, 아이콘, 대기화면 이미지,디자인테마 수정할 경우 \[앱 업데이트] 버튼 누르고, 새로 제작된 버전으로 스토어에 다시 업데이트 해야 합니다.
 
@@ -194,11 +194,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **\[재설치 진행]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_36_49_697.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_36_49_697.gif" alt=""></div>
 
 
 
@@ -214,11 +210,7 @@ description: 앱 업데이트 방법:제작한 앱 업데이트하는 방법 안
 
 **\[재설치 진행]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_44_37_946.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94_2022_07_07_11_44_37_946.gif" alt=""></div>
 
 ![](../../../.gitbook/assets/수평성.PNG)
 

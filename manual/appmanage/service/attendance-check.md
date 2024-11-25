@@ -16,23 +16,15 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ## **STEP1. 출석체크 등록하기**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1_2020.03.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1_2020.03.png" alt="">
-
-</div>
-
-[앱운영 페이지 → 서비스관리 → 출석체크 ](http://www.swing2app.co.kr/view/attendance\_board)메뉴로 이동합니다.
+[앱운영 페이지 → 서비스관리 → 출석체크 ](http://www.swing2app.co.kr/view/attendance_board)메뉴로 이동합니다.
 
 
 
 ### <mark style="color:blue;">**1. 출석체크 등록하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC_2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC_2.png" alt=""></div>
 
 **출석체크 관리에서 글을 입력합니다.**
 
@@ -54,7 +46,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 **\*설정한 주기에 맞춰 출석체크 게시물을 자동으로 게시되고자 할 때 이용해주세요!!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC\_4.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC_4.png)
 
 출석체크는 자동등록은 설정한 반복주기에 따라 게시물을 자동으로 게시되게 할 수 있습니다.
 
@@ -110,11 +102,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ### <mark style="color:blue;">**4. 출석체크 마감**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC_3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC_3.png" alt=""></div>
 
 이때, 다른 게시판과 달리 출석체크는 \[마감] 기능이 있어요.
 
@@ -122,7 +110,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 따라서 출석 이벤트 진행 후, 기간이 완료되면 \[마감] 버튼을 눌러서 글을 마감시켜주세요.
 
-수정 및 삭제도 가능하니 원하는 기능을 사용해주세요**.**
+수정 및 삭제도 가능하니 원하는 기능을 사용해주세&#xC694;**.**
 
 
 
@@ -184,21 +172,13 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3_20.03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3_20.03.png" alt=""></div>
 
 출석체크 게시물을 확인하면, 앞서 저장했던 게시물 내용과 이미지를 확인할 수 있어요.
 
 
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4_20.03.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4_20.03.png" alt=""><figcaption></figcaption></figure></div>
 
 게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있어요.
 
@@ -206,11 +186,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ### <mark style="color:blue;">**1.출석체크 이벤트 마감**</mark>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5_20.03.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5_20.03.png" alt=""><figcaption></figcaption></figure></div>
 
 이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
 
@@ -218,11 +194,7 @@ description: 출석체크 등록하는 방법과 댓글 입력하는 방법 안�
 
 ### <mark style="color:blue;">**2.앱 운영자 대시보드 확인**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6_20.03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6_20.03.png" alt=""></div>
 
 앱 운영자는 앱운영 대시보드 – 출석체크 페이지에서 출석체크 게시물에 달린 댓글을 확인할 수 있구요.
 

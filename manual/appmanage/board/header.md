@@ -8,11 +8,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 <mark style="color:blue;">**게시판 헤더란?**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%947.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%947.png" alt=""></div>
 
 위의 이미지에서 보시는 것처럼, <mark style="color:orange;">**게시판 헤더는 게시물을 상단에 고정시켜 보여주는 핀 기능이에요.**</mark>
 
@@ -24,11 +20,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 ## &#x20;STEP1. 게시판 헤더 적용하기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW1.png" alt=""></div>
 
 게시판 헤더는 게시판관리에서 설정할 수 있습니다.
 
@@ -46,7 +38,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 1\)게시판 및 기능설정 창에서 \[고급스타일]을 선택해주세요.
 
-2\)게시판 헤더 설정 **‘사용’**에 체크해주세요.
+2\)게시판 헤더 설정 **‘사용’**&#xC5D0; 체크해주세요.
 
 3\)헤더 영역에 들어갈 이미지를 등록해주세요
 
@@ -68,21 +60,13 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 게시판관리에서 헤더 적용을 끝냈다면 게시판으로 이동해서, 헤더에 보여질 우선순위를 적용해주셔야 합니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW3.png" alt=""></div>
 
 앱운영 페이지 → 게시물 관리→ 헤더를 적용하고자 하는 게시판으로 이동해주세요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%945.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%945.png" alt=""></div>
 
 게시물을 아직 작성하지 않았다면 게시물 먼저 입력을 해주시구요,
 
@@ -172,35 +156,27 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 앱에서 헤더가 어떻게 보여지는지 확인해볼까요?
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%947-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%947-1.png" alt=""></div>
 
 <mark style="color:orange;">**\* 게시판 상단 헤더 이미지**</mark>
 
-\-게시판관리에서 설정해놓은 헤더 이미지가 상단이미지로 지정됩니다.
+-게시판관리에서 설정해놓은 헤더 이미지가 상단이미지로 지정됩니다.
 
 <mark style="color:orange;">**\* 게시판 헤더글**</mark>
 
-\-게시물관리에서 설정해 놓은 우선순위 값으로 헤더글이 정렬됩니다.
+-게시물관리에서 설정해 놓은 우선순위 값으로 헤더글이 정렬됩니다.
 
-\-헤더를 선택하면 해당 게시물로 이동합니다.
+-헤더를 선택하면 해당 게시물로 이동합니다.
 
 <mark style="color:orange;">**\*게시판 설명글**</mark>
 
-\-작성해놓은 설명글이 헤더에 함께 나타납니다. “스윙 컨텐츠를 확인해주세요”
+-작성해놓은 설명글이 헤더에 함께 나타납니다. “스윙 컨텐츠를 확인해주세요”
 
-\-게시판 설명글 작성방법은 아래 방법을 확인해주세요.
+-게시판 설명글 작성방법은 아래 방법을 확인해주세요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%97%A4%EB%8D%94NEW4.png" alt=""></div>
 
 게시판 설명글은 **\[게시판 및 기능 설정창] → 기본설정 항목에서→ 게시판 및 기능설명란**에 입력해주시면 됩니다.
 
@@ -226,11 +202,7 @@ description: 게시판 헤더 설정 방법, 헤더글을 설정하는 방법, �
 
 <mark style="color:blue;">**앱 실행화면: 헤더글 삭제 후**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%948.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%97%A4%EB%8D%948.png" alt=""></div>
 
 헤더글 우선순위를 삭제한 뒤 다시 앱을 실행해 보시면, 해당 게시물이 헤더 영역에서 빠진 것을 확인할 수 있어요!
 

@@ -26,9 +26,9 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 스윙 유료앱 이용권, 앱스토어 업로드티켓을 모두 구매 완료하구요.
 
-앱스토어 업로드티켓(1회 20,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)에서 구매 가능합니다.&#x20;
+앱스토어 업로드티켓(1회 20,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order_info_action?product_id=3)에서 구매 가능합니다.&#x20;
 
-**\*구매가 완료되었다면,** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)**로 이동한 뒤 \[앱스토어 업로드 신청] 버튼을 눌러주세요.**
+**\*구매가 완료되었다면,** [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app_work_history)**로 이동한 뒤 \[앱스토어 업로드 신청] 버튼을 눌러주세요.**
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -40,13 +40,9 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 각 항목별로 내용을 입력해주시면 됩니다.&#x20;
 
-<mark style="color:red;">**\* 빨간색**</mark>** 으로 표시된 항목은 필수 입력해주셔야 합니다.**&#x20;
+<mark style="color:red;">**\* 빨간색**</mark>**&#x20;으로 표시된 항목은 필수 입력해주셔야 합니다.**&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%951.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%88%98%EC%A0%951.png" alt=""></div>
 
 <mark style="color:purple;">**? 물음표 아이콘**</mark>을 선택하면 가이드라인을 확인할 수 있어요!
 
@@ -92,28 +88,24 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/앱스토어신청서-8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/앱스토어신청서-8.png" alt=""><figcaption></figcaption></figure></div>
 
 **8)** 아이폰 8플러스 기준 (5.5 디스플레이) 사이즈:1242 x 228px 또는 2208 x 1242px
 
 **9)** 아이폰 8플러스 기준 (5.5 디스플레이) 사이즈:1242 x 228px 또는 2208 x 1242px
 
-**10)**아이폰 14 Pro Max (6.7 디스플레이) 사이즈:1290 x 2796px 또는 2796 x 1290px
+**10)**&#xC544;이폰 14 Pro Max (6.7 디스플레이) 사이즈:1290 x 2796px 또는 2796 x 1290px
 
 {% hint style="info" %}
 아이폰은 종류별 총 3개 사이즈 이미지를 준비해주셔야 합니다. 모두 필수 항목입니다.
 
-\-아이패드 이미지는 선택사항이에요. 등록하지 않아도 문제는 없습니다.
+-아이패드 이미지는 선택사항이에요. 등록하지 않아도 문제는 없습니다.
 
 아이패드에서도 앱 다운이 가능하고 스샷은 아이폰으로 대체되어 보여집니다.
 
 단, 아이패드에도 최적화된 이미지 제출을 원한다면 아이패드용 스크린샷 이미지도 등록하시는 것을 추천드려요.
 
-\-이미지는 모두 최소 3장\~최대 10장까지 등록 가능합니다.
+-이미지는 모두 최소 3장\~최대 10장까지 등록 가능합니다.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -132,7 +124,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 <mark style="color:red;">\*스크린샷 이미지가 적합하지 않을 경우, 앱스토어 담당자가 임의로 스크린샷 이미지 수정하여 다시 제출할 수 있습니다. (사용자 별도 동의를 구하지 않습니다)</mark>
 {% endhint %}
 
-**11)**아이패드 이미지 <mark style="color:red;">\*선택사항</mark> 사이즈:2048x2732px 또는 2732x2048px
+**11)**&#xC544;이패드 이미지 <mark style="color:red;">\*선택사항</mark> 사이즈:2048x2732px 또는 2732x2048px
 
 앱스토어에 아이패드용 앱 제출을 하실 경우 스크린샷 이미지를 제출해주세요.
 
@@ -144,11 +136,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 아이폰에서 캡쳐한 화면을 인위적으로 사이즈 늘려서 넣을 경우 등록 불가합니다.&#x20;
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/이미지 1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/이미지 1.png" alt=""><figcaption></figcaption></figure></div>
 
 **12)로그인 계정 입력**
 
@@ -172,11 +160,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/앱스토어신청서-15.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/앱스토어신청서-15.png" alt=""><figcaption></figcaption></figure></div>
 
 **15)업로드 계정 설정**
 
@@ -196,11 +180,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 내용 확인을 한 뒤 **“앱스토어 앱등록 이용정책에 동의해주시기 바랍니다”** 버튼을 선택해주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%8C%80%EB%A6%AC%EB%93%B1%EB%A1%9D-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%8C%80%EB%A6%AC%EB%93%B1%EB%A1%9D-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.png" alt=""></div>
 {% endtab %}
 
 {% tab title="애플 앱스토어 개발자 계정 등록" %}
@@ -228,15 +208,11 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 **18) 앱스토어 앱등록 이용정책 동의**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B86.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B86.png" alt="">
+해당 버튼을 눌러서 앱스토어 이용정책을 반드시 숙지한 뒤 **‘동의함’**&#xC5D0; 체크해주세요.
 
-</div>
-
-해당 버튼을 눌러서 앱스토어 이용정책을 반드시 숙지한 뒤 **‘동의함’**에 체크해주세요.
-
-**19) **<mark style="color:blue;">**\[신청하기]**</mark> 버튼을 누르면 앱스토어 업로드 신청이 완료됩니다.
+**19)&#x20;**<mark style="color:blue;">**\[신청하기]**</mark> 버튼을 누르면 앱스토어 업로드 신청이 완료됩니다.
 
 반드시 업로드 이용정책을 확인해주세요!
 
@@ -246,11 +222,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 ## 4. 앱스토어 업로드 신청완료
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%85%EB%A1%9C%EB%93%9C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B87.png" alt=""></div>
 
 **\*앱스토어 업로드 신청이 들어오면 마켓업로드 지원팀 담당자가 확인하여 앱스토어에 등록해드립니다.**
 
@@ -318,7 +290,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 앱스토어는 사용자가 직접 등록이 불가하기 때문에 업로드티켓을 구매해서, 스윙투앱으로 업로드 신청을 해주셔야 합니다.&#x20;
 
-[**앱운영페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지**](http://www.swing2app.co.kr/view/shop\_list)에서 **스윙 유료이용권 결제와 함께 앱스토어 업로드 티켓(1회 20,000원)을 구매해주시면 됩니다.**
+[**앱운영페이지 → 결제 → 스윙 이용권, 티켓 구매 페이지**](http://www.swing2app.co.kr/view/shop_list)에서 **스윙 유료이용권 결제와 함께 앱스토어 업로드 티켓(1회 20,000원)을 구매해주시면 됩니다.**
 
 그러면, 앱이 마켓에 올라가겠구나… 라고 생각할 수 있지만 !
 
@@ -332,7 +304,7 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <summary><strong>업로드 신청은 어디서 어떻게 하는건가요?</strong></summary>
 
-업로드 신청은 [**스윙 앱운영페이지 → 버전관리에 → 앱제작이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동합니다.**
+업로드 신청은 [**스윙 앱운영페이지 → 버전관리에 → 앱제작이력**](https://www.swing2app.co.kr/view/app_work_history) **페이지로 이동합니다.**
 
 해당 페이지에서 \[앱스토어 업로드 신청]을 확인할 수 있습니다.
 
@@ -368,9 +340,9 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 구글처럼 사용자분의 개발자 계정을 등록하셔도 되고, 없으실 경우 스윙투앱 계정으로 대리등록이 가능합니다.
 
-\-직접 계정을 만들 경우 **애플에 개발자 등록비 1년 129,000원(1년마다 개발자 등록비 납부)**을 납부하셔야 합니다.
+-직접 계정을 만들 경우 **애플에 개발자 등록비 1년 129,000원(1년마다 개발자 등록비 납부)**&#xC744; 납부하셔야 합니다.
 
-\-스윙투앱 계정 대리등록은 대리 등록에 대한 여러 주의사항이 있기 때문에 해당 내용을 반드시 확인하여 동의하신 뒤 진행해주시면 됩니다.
+-스윙투앱 계정 대리등록은 대리 등록에 대한 여러 주의사항이 있기 때문에 해당 내용을 반드시 확인하여 동의하신 뒤 진행해주시면 됩니다.
 
 <img src="../../../.gitbook/assets/앱스토어 대리등록.PNG" alt="" data-size="original">
 

@@ -34,7 +34,7 @@
 
 <mark style="color:orange;">**1단계 앱 기본정보**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%911\_20\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%911_20_886.png)
 
 스윙 홈페이지 로그인 후 \[앱제작 페이지]  – 1단계 앱 기본정보
 
@@ -64,13 +64,13 @@
 
 <mark style="color:orange;">**2단계 디자인테마**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94%EC%A0%9C%EA%B1%B02\_20886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94%EC%A0%9C%EA%B1%B02_20886.png)
 
 1\)프로토타입 선택: **‘푸시전용’** 선택
 
 2\)툴바 표시 여부 선택
 
-\-툴바 사용 or 툴바 제거 여부 선택
+-툴바 사용 or 툴바 제거 여부 선택
 
 3\)\[저장] 버튼
 
@@ -80,7 +80,7 @@
 
 <mark style="color:orange;">**3단계 페이지메뉴**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91120.08\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91120.08_886.png)
 
 1\) 사이트주소입력: 앱에 적용하고자 하는 링크 URL주소 입력해주세요.
 
@@ -166,7 +166,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EB%85%B9%ED%99%94\_2020\_09\_09\_15\_12\_16\_838.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EB%85%B9%ED%99%94_2020_09_09_15_12_16_838.gif)
 
 움짤 이미지를 통해서 앱미리보기에서 앱을 다운받는 과정을 확인해주세요.
 
@@ -198,11 +198,11 @@
 
 **-구매 상품 안내-**
 
-앱운영 →결제 →스윙 이용권, 티켓 구매 페이지로 이동해주세요.​ [http://www.swing2app.co.kr/view/shop\_list](http://www.swing2app.co.kr/view/shop\_list)
+앱운영 →결제 →스윙 이용권, 티켓 구매 페이지로 이동해주세요.​ [http://www.swing2app.co.kr/view/shop\_list](http://www.swing2app.co.kr/view/shop_list)
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:purple;">**스윙 기본형 이용권(1개월) 33,000원 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**</mark>
 
-\-스윙 기본형 이용권(1개월)상품은 30일 이용기간이 적용되며, 계속 스토어 앱 운영을 하실 경우 1개월마다 구매해주셔야 합니다.
+-스윙 기본형 이용권(1개월)상품은 30일 이용기간이 적용되며, 계속 스토어 앱 운영을 하실 경우 1개월마다 구매해주셔야 합니다.
 
 –-어떤 스토어에 출시를 할 것인지는 사용자분의 선택사항이기 때문에 앱스토어만 출시할 경우 앱스토어 업로드티켓만 구매하셔도 됩니다.
 
@@ -228,7 +228,7 @@
 
 <mark style="background-color:blue;">**▶**</mark><mark style="color:green;">**구매 상품 안내**</mark>&#x20;
 
-[앱운영 →결제 →스윙 플러그인 구매 페이지](http://www.swing2app.co.kr/view/shop\_list\_by\_plugin)로 이동해주세요&#x20;
+[앱운영 →결제 →스윙 플러그인 구매 페이지](http://www.swing2app.co.kr/view/shop_list_by_plugin)로 이동해주세요&#x20;
 
 <mark style="color:purple;">**1) 푸시전용 무제한 유료앱 +플레이스토어 업로드티켓 10,000원 +앱스토어 업로드 티켓 20,000원**</mark>
 
@@ -266,7 +266,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:green;">**상품 안내사항**</mark>&#x20;
+<mark style="background-color:blue;">**▶**</mark>**&#x20;**<mark style="color:green;">**상품 안내사항**</mark>&#x20;
 
 **1) 상품 상세 설명 보기**
 
@@ -282,15 +282,15 @@
 
 **2)업로드 티켓 이슈 및 상품 상세 설명을 확인해주세요.**
 
-\-업로드 티켓은 옵션상품으로(스윙투앱에서 사용자 앱을 스토어에 대신 올려드리는 비용)대행비이기 때문에 최초 등록시 한 번만 결제하시면 됩니다.
+-업로드 티켓은 옵션상품으로(스윙투앱에서 사용자 앱을 스토어에 대신 올려드리는 비용)대행비이기 때문에 최초 등록시 한 번만 결제하시면 됩니다.
 
 \*단, 앱 업데이트가 있을 경우는 스토어에 올라간 앱도 업데이트 하셔야 하기 때문에 업로드티켓 재구매가 필요합니다.
 
-\-어떤 스토어에 출시를 할 것인지는 사용자분의 선택사항이기 때문에 앱스토어만 출시할 경우 앱스토어 업로드티켓만 구매하셔도 됩니다.
+-어떤 스토어에 출시를 할 것인지는 사용자분의 선택사항이기 때문에 앱스토어만 출시할 경우 앱스토어 업로드티켓만 구매하셔도 됩니다.
 
-\-플레이스토어는 사용자가 직접 올릴 수 있을 경우 이용권만 구매 한 뒤 직접 올려주시면 됩니다. (업로드 티켓 구매 하지 않아도 됩니다.)
+-플레이스토어는 사용자가 직접 올릴 수 있을 경우 이용권만 구매 한 뒤 직접 올려주시면 됩니다. (업로드 티켓 구매 하지 않아도 됩니다.)
 
-\-앱스토어는 업로드 대행만 가능하기 때문에 출시할 예정이라면, 반드시 앱스토어 업로드 티켓을 구매해서 신청해주세요.
+-앱스토어는 업로드 대행만 가능하기 때문에 출시할 예정이라면, 반드시 앱스토어 업로드 티켓을 구매해서 신청해주세요.
 
 
 
@@ -298,9 +298,9 @@
 
 \*스윙투앱에 결제해야 하는 비용 외에 <mark style="color:red;">애플 개발자 계정 등록비(1년 129,000원), 구글 개발자 등록비(25달러, 평생이용</mark>)는 사용자분께서 직접 만들어서 결제 해주셔야 합니다.
 
-\-구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능
+-구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능
 
-\-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
+-애플은 개발자 계정 선택 사항: 사용자 애플 개발자 계정 등록 or 스윙투앱 계정 대리등록 중 선택
 
 ***
 
@@ -310,7 +310,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%9C%A0%EB%A3%8C%EB%B2%84%EC%A0%842.png)
 
-\*[앱운영 → 버전관리→앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
+\*[앱운영 → 버전관리→앱제작이력](http://www.swing2app.co.kr/view/app_work_history)메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청] 버튼을 선택합니다.
 
 신청서 팝업이 뜨며, 신청 양식에 따라 내용을 기재한 뒤 업로드 신청을 해주셔야 스윙투앱으로 업로드 신청건이 전달됩니다.
 
@@ -326,7 +326,7 @@
 
 각 스토어별 정책은 반드시 확인해주셔야 합니다.
 
-**\*스토어 등록정책:** [**http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice**](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)
+**\*스토어 등록정책:** [**http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice**](http://www.swing2app.co.kr/view/swing_notice_detail?notice_id=292\&notice_type=normalNotice)
 
 ***
 
@@ -398,7 +398,7 @@
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**푸시앱 특징 – 툴바**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/Info\_toolbar\_Main\_886%EC%82%AC%EC%9D%B4%EC%A6%88.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/Info_toolbar_Main_886%EC%82%AC%EC%9D%B4%EC%A6%88.png)
 
 푸시앱은 웹뷰앱과 다르게 푸시 메시지를 보낼 수 있고, 화면 하단에 툴바가 생성된다고 안내드렸죠\~!
 
@@ -484,7 +484,7 @@
 
 \*스윙투앱 커스텀 패키지 상품 페이지에서 제작대행비를 확인할 수 있습니다.&#x20;
 
-[http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom)
+[http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom](http://www.swing2app.co.kr/view/payment_list_by_recommend_custom)
 
 단, 플레이스토어에 올릴 구글 개발자 계정은 직접 만들어서 계정을 알려주셔야 하구요.
 

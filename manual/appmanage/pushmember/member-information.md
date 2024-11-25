@@ -6,7 +6,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ***
 
-[**앱운영 페이지 → 푸시&회원 → 회원조회** ](http://www.swing2app.co.kr/view/member\_list)페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
+[**앱운영 페이지 → 푸시&회원 → 회원조회** ](http://www.swing2app.co.kr/view/member_list)페이지에서 앱에 가입하고 이용중인 앱 회원들의 상세 정보를 확인할 수 있어요.
 
 특히 앱 회원가입 양식에 여러 항목을 추가한 경우 (**\*예: 전화번호, 주소, 성별, 이메일주소 등**)
 
@@ -20,7 +20,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
-\*[**앱운영 페이지 → 푸시&회원 → 회원조회**](https://www.swing2app.co.kr/view/member\_list) 메뉴로 이동해주세요.
+\*[**앱운영 페이지 → 푸시&회원 → 회원조회**](https://www.swing2app.co.kr/view/member_list) 메뉴로 이동해주세요.
 
 회원조회 페이지에서 앱에 가입한 회원 목록을 모두 확인할 수 있구요.
 
@@ -32,13 +32,13 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ## <mark style="color:blue;">1.회원정보 확인</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B42\_20.01.30.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B42_20.01.30.png)
 
 회원을 선택하면 회원 정보 창이 열리면서, 해당 회원의 계정 관리를 확인할 수 있습니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4\_20.01.30-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4_20.01.30-1.png)
 
 계정 관리는 회원의 기본 정보부터, 다양한 정보를 확인할 수 있어요.
 
@@ -46,11 +46,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ### **1) 기본 정보 확인**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C1.png" alt=""></div>
 
 회원 이름, 관리자 메모, 프로필 이미지 항목을 확인할 수 있는데요.
 
@@ -60,11 +56,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ### **2) 회원 그룹정보 변경**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C2.png" alt=""></div>
 
 회원의 그룹을 변경할 수 있습니다.
 
@@ -82,11 +74,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ### **3) 비밀번호 재설정**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C3.png" alt=""></div>
 
 만약 회원이 앱에서 사용하는 비밀번호를 잃어버렸다면 관리자가 앱 회원의 비밀번호를 재설정 해줄 수 있습니다.
 
@@ -98,11 +86,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ### **4) 계정 탈퇴 및 삭제**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C4.png" alt=""></div>
 
 회원이 탈퇴를 요청할 경우 \[회원 탈퇴] 기능을 이용해주시구요.
 
@@ -112,19 +96,11 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B48._20.01.30.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B48._20.01.30.png" alt=""></div>
 
 ### **5) 상세정보**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B47._20.01.30.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B47._20.01.30.png" alt=""></div>
 
 회원 상세정보 항목도 확인할 수 있는데요.
 
@@ -134,17 +110,13 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 <mark style="color:blue;">**앱 실행화면: 회원가입 양식(정보 입력 항목)**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B46._20.01.30.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B46._20.01.30.png" alt=""></div>
 
 실제로 앱에서 회원가입시 관리자가 설정해놓은 항목대로 사용자가 입력하게 됩니다.
 
 이렇게 입력한 정보를 관리자가 회원정보 페이지에서 확인할 수 있어요.
 
-**★ 회원가입 양식은 \***[**앱운영페이지 → 서비스관리 → 정책관리 → 회원가입 양식**](https://www.swing2app.co.kr/view/app\_policy)**​** 에서 설정할 수 있어요.
+**★ 회원가입 양식은 \***[**앱운영페이지 → 서비스관리 → 정책관리 → 회원가입 양식**](https://www.swing2app.co.kr/view/app_policy)**​** 에서 설정할 수 있어요.
 
 \* 회원가입 양식 설정 방법은 아래 매뉴얼을 참고해주세요.
 
@@ -206,7 +178,7 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 
 
 
-### **2)**생성된 계정으로 로그인 하기) 앱 실행 화면
+### **2)**&#xC0DD;성된 계정으로 로그인 하기) 앱 실행 화면
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%ED%9A%8C%EC%9B%90%EC%83%9D%EC%84%B1.png)
 
@@ -217,19 +189,19 @@ description: 앱 가입 회원 상세 정보, 회원 계정 관리 등 회원정
 {% hint style="success" %}
 **활용 예시​**
 
-\-학교에서 제작한 앱으로 해당 학교의 학생들 모두에게 앱을 배포해야 할 때 : 학번 혹은 학급 번호로 일률적으로 계정 생성
+-학교에서 제작한 앱으로 해당 학교의 학생들 모두에게 앱을 배포해야 할 때 : 학번 혹은 학급 번호로 일률적으로 계정 생성
 
-\-회사 내에서 사용할 때: 일련번호, 사원번호로 계정 생성
+-회사 내에서 사용할 때: 일련번호, 사원번호로 계정 생성
 
-\-앱 공식 배포 전 테스트로 여러 사용자들이 이용해야 하는 경우 (하나씩 가입하지 않아도 일괄 생성된 계정으로 로그인)
+-앱 공식 배포 전 테스트로 여러 사용자들이 이용해야 하는 경우 (하나씩 가입하지 않아도 일괄 생성된 계정으로 로그인)
 
-\-그 외 관리자의 재량으로 특정 아이디를 생성해야 할 때 사용할 수 있습니다.
+-그 외 관리자의 재량으로 특정 아이디를 생성해야 할 때 사용할 수 있습니다.
 {% endhint %}
 
 {% hint style="warning" %}
 **회원 생성 주의사항**
 
-\-회원생성은 일반 아이디, 이메일 아이디만 생성이 가능합니다.
+-회원생성은 일반 아이디, 이메일 아이디만 생성이 가능합니다.
 
 \*전화번호 아이디는 생성이 불가합니다.
 

@@ -28,11 +28,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 **구글 개발자계정 등록이 완료되면** [**구글 플레이 콘솔사이트**](https://play.google.com/console/developers) **에서 아래 방법으로, 계정 초대를 해주세요.**&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글계정초대1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글계정초대1.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)왼쪽 카테고리에서\[사용자 및 권한]선택&#x20;
 
@@ -76,11 +72,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글초대2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글초대2.png" alt=""><figcaption></figcaption></figure></div>
 
 3\)서비스 약관 \[동의] 버튼 선택
 
@@ -94,21 +86,13 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글초대4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글초대4.png" alt=""><figcaption></figcaption></figure></div>
 
 6\)\[Google Cloud Platform에서 보기] 선택
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글초대5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글초대5.png" alt=""><figcaption></figcaption></figure></div>
 
 Google Cloud(구글 클라우드) 화면으로 이동합니다.&#x20;
 
@@ -116,23 +100,15 @@ Google Cloud(구글 클라우드) 화면으로 이동합니다.&#x20;
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글초대6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글초대6.png" alt=""><figcaption></figcaption></figure></div>
 
 8\)\[이 프로젝트에서 사용자 추가] 선택
 
 
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/구글초대7.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/구글초대7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-9\)새 주 구성원 입력란에 **스윙투앱 메일주소( swingapp.developer@gmail.com)**를 입력해주세요.
+9\)새 주 구성원 입력란에 **스윙투앱 메일주소( swingapp.developer@gmail.com)**&#xB97C; 입력해주세요.
 
 **이메일주소: swingapp.developer@gmail.com**
 

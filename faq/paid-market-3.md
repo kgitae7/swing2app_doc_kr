@@ -86,7 +86,7 @@
 
 스윙투앱 개발자 계정으로 출시 후, 사용자분의 애플 개발자 계정을 등록하셨다면 해당 계정으로 앱을 옮겨드릴 수 있습니다.
 
-별도 추가 비용 없으며, 문의메일: [help@swing2app.co.kr](mailto:help@swing2app.co.kr) 혹은 [문의게시판](http://www.swing2app.co.kr/view/service\_qa) 등으로 문의 주시면 옮겨드립니다.
+별도 추가 비용 없으며, 문의메일: [help@swing2app.co.kr](mailto:help@swing2app.co.kr) 혹은 [문의게시판](http://www.swing2app.co.kr/view/service_qa) 등으로 문의 주시면 옮겨드립니다.
 
 </details>
 
@@ -137,7 +137,7 @@
 플레이스토어도 애플과 비슷한 정책으로 심사를 하기 때문에 플레이스토어도 참고하여 확인해주시기 바랍니다.&#x20;
 
 \
-**☞** [**앱스토어 앱출시 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
+&#xNAN;**☞** [**앱스토어 앱출시 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
 
 **☞** [**플레이스토어 앱 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/playstore/reject)
 

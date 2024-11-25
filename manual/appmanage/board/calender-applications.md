@@ -12,9 +12,9 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 캘린더의 경우 앱 운영 목적에 맞게 다양하게 활용할 수 있는데요.
 
-\-관리자만 일정을 기재하고, 사용자들에게 일정 공지용으로 활용할 수 있구요.
+-관리자만 일정을 기재하고, 사용자들에게 일정 공지용으로 활용할 수 있구요.
 
-\-모든 앱 사용자가 일정을 직접 작성하고 공유할 수 있는 기능, 개인용으로 캘린더를 운영할 수도 있습니다.
+-모든 앱 사용자가 일정을 직접 작성하고 공유할 수 있는 기능, 개인용으로 캘린더를 운영할 수도 있습니다.
 
 **캘린더 제작 및 운영방법 상세 내용은 해당 매뉴얼을 확인해주세요!**
 
@@ -24,17 +24,17 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 ## STEP1. 캘린더 만들기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94_20.06.png)
 
-[앱운영페이지 → 서비스관리 → 게시판 관리](http://www.swing2app.co.kr/view/board\_edit) 페이지로 이동해주세요.&#x20;
+[앱운영페이지 → 서비스관리 → 게시판 관리](http://www.swing2app.co.kr/view/board_edit) 페이지로 이동해주세요.&#x20;
 
 
 
 게시판관리 페이지에서 \[게시판 생성] 버튼을 선택하면, 게시판 및 기능설정 창이 뜹니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%941\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%941_20.06.png)
 
-게시판관리 페이지에서 **\[게시판 생성]**버튼을 선택하면, 게시판 및 기능설정 창에서  **‘캘린더’**를 확인할 수 있습니다.
+게시판관리 페이지에서 **\[게시판 생성]**&#xBC84;튼을 선택하면, 게시판 및 기능설정 창에서  **‘캘린더’**&#xB97C; 확인할 수 있습니다.
 
 1\) 게시판 생성 버튼 선택
 
@@ -120,19 +120,11 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 모든 사용자가 앱에서 일정을 작성할 수 있고, 일정 목록 및 상세 일정 글을 보고 공유할 수 있습니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A91.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A91.png" alt=""></div>
 
 위의 앱 실행화면에서 보시듯이 사용자로 앱 접속시 캘린더 화면에서 다른 사용자들이 작성해놓은 일정을 확인할 수 있습니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A92.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A92.png" alt=""></div>
 
 앱에서 일정 작성이 가능하기 때문에! **캘린더 화면 오른쪽 상단을 보시면 \[글 작성] 아이콘 버튼이 있습니다.**
 
@@ -152,7 +144,7 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-17.png)
 
-위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board\_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
+위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
 
 <mark style="color:purple;">**\[게시판 권한 설정]**</mark>
 
@@ -172,21 +164,13 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 관리자만 일정을 작성할 수 있고, 앱 사용자들은 캘린더 – 일정 목록 및 상세 일정 글을 보고 공유할 수 있습니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A94.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A94.png" alt=""></div>
 
 앱 회원으로 로그인시 관리자가 작성해놓은 일정을 캘린더 목록화면에서 확인할 수 있습니다.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A95.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A95.png" alt=""></div>
 
 캘린더 목록 화면에서 보이는 일정 (제목)을 선택하면 → 일정 상세 페이지로 이동합니다.
 
@@ -200,13 +184,9 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 <mark style="color:orange;">**응용사례2와 같은 캘린더를 제작하는 방법**</mark>
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png" alt="">
-
-</div>
-
-위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board\_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
+위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
 
 <mark style="color:purple;">**\[게시판 권한 설정]**</mark>
 
@@ -226,17 +206,9 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 관리자만 일정을 작성할 수 있고, 앱 사용자들은 캘린더 – 일정 목록 및 상세 일정 글을 보고 공유할 수 있습니다.
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A96.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A96.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A97.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BA%98%EB%A6%B0%EB%8D%94%EC%9D%91%EC%9A%A97.png" alt=""></div>
 
 앱 회원으로 로그인시 관리자가 작성해놓은 일정을 캘린더 목록화면에서 확인할 수 있습니다.
 
@@ -252,13 +224,9 @@ description: '캘린더 응용: 다양한 기능별로 활용하는 방법 안�
 
 &#x20;<mark style="color:orange;">**응용사례3과 같은 캘린더를 제작하는 방법**</mark>
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%9D%B4%EB%AF%B8%EC%A7%80-16.png" alt="">
-
-</div>
-
-위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board\_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
+위에서 보셨던 \*[서비스관리- 게시판관리](https://www.swing2app.co.kr/view/board_edit)-게시판 및 기능설정 창에서 다시 확인해주세요.
 
 **\[게시판 권한 설정]**
 

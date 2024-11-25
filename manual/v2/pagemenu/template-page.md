@@ -10,7 +10,7 @@
 
 디자인측면으로 직접 제작이 어려운 웹페이지를 각 스타일별, 업종별 템플릿을 제공함으로 사용자분들은 보다 간편하게 페이지를 제작할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886_2019.07.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
@@ -54,7 +54,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 실행화면 -템플릿 페이지 적용**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif)
 
 스윙 호텔 샘플앱을 실행한 화면이에요.
 
@@ -100,7 +100,7 @@
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2_19.09.png)
 
 1\)제작화면 왼쪽에 있는 \[새로만들기] 버튼을 선택해주세요.
 
@@ -112,13 +112,13 @@
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3_19.09.png)
 
 3\) 페이지를 선택한 뒤 \[추가] 버튼을 눌러주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4_19.09.png)
 
 4\) 제작도구 화면에 이렇게 추가된 템플릿 페이지를 확인할 수 있구요.
 
@@ -132,23 +132,23 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤로 이용방법을 확인해주세요\~!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_09_25_16_46_33_274.gif)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_09_25_16_50_15_66.gif)
 
-\-상단의 페이지명은 앱에서 표시되는 페이지 이름이니 수정해서 사용해주시구요.
+-상단의 페이지명은 앱에서 표시되는 페이지 이름이니 수정해서 사용해주시구요.
 
-\-영역에 들어가는 모든 내용 수정 당연히 가능하구요.
+-영역에 들어가는 모든 내용 수정 당연히 가능하구요.
 
-\-텍스트: 글자 크기, 색상 모두 지정 가능하며, 타이틀 영역은 여백까지 조율할 수 있도록 제공하고 있어요.
+-텍스트: 글자 크기, 색상 모두 지정 가능하며, 타이틀 영역은 여백까지 조율할 수 있도록 제공하고 있어요.
 
-\-버튼 추가 및 삭제 모두 가능하구요.
+-버튼 추가 및 삭제 모두 가능하구요.
 
-\-각 영역마다 \[링크마법사]를 이용해서 원하는 페이지로 링크를 걸 수도 있어요,
+-각 영역마다 \[링크마법사]를 이용해서 원하는 페이지로 링크를 걸 수도 있어요,
 
-\-항목이 필요없다면 활성화 여부에서 ‘비활성화’를 체크하면 해당 영역이 템플릿에서 삭제됩니다.&#x20;
+-항목이 필요없다면 활성화 여부에서 ‘비활성화’를 체크하면 해당 영역이 템플릿에서 삭제됩니다.&#x20;
 
 이미 툴이 다 입혀진 템플릿 위에서 수정만해서 사용하면 되기 때문에 이렇게 간단한 앱제작은 또 없겠죠?^^
 
@@ -156,7 +156,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**다른 스타일의 템플릿 페이지 제작**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5_19.09.png)
 
 5\) 다른 스타일의 템플릿도 동일하게, 페이지를 선택하면 화면에 표시가 되구요.
 
@@ -164,7 +164,7 @@
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6_19.09.png)
 
 **6)이미지 첨부 하실 때에도, 이미지 버튼 누르면 원하는 이미지 등록할 수 있어요.**
 
@@ -176,7 +176,7 @@
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8_19.09.png)
 
 **7) 링크마법사는 각 배너(버튼)마다 적용할 수 있는 링크를 말하는데요.**
 
@@ -184,7 +184,7 @@
 
 스윙투앱은 일반 웹사이트 웹링크 외에도, 앱 내에서 사용되는 모든 기능들을 연동할 수 있습니다.
 
-**8) 작업이 모두 완료되면 반드시 **<mark style="color:blue;">**\[저장하기]**</mark>** 버튼을 눌러주세요.**
+**8) 작업이 모두 완료되면 반드시&#x20;**<mark style="color:blue;">**\[저장하기]**</mark>**&#x20;버튼을 눌러주세요.**
 
 저장을 눌러주셔야 해당 페이지가 완벽하게 저장이 됩니다.!!
 
@@ -236,7 +236,7 @@
 
 **▶ 앱 실행화면) 템플릿 페이지 적용화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif)
 
 ***
 

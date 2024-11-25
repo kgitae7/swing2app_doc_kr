@@ -36,7 +36,7 @@
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:orange;">**플레이스토어 앱 등록시 어디서 개인정보 처리방침 URL을 입력하나요?**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15\_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-1.png)
 
 구글 플레이 콘솔에서 앱을 선택하면 초기 설정 첫단계가  나오구요.&#x20;
 
@@ -56,13 +56,13 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC4new.png)
 
-[**스윙 앱운영 페이지 →서비스관리 →정책관리 →앱 가입 정책**](http://www.swing2app.co.kr/view/app\_setting) **페이지로 이동합니다.**
+[**스윙 앱운영 페이지 →서비스관리 →정책관리 →앱 가입 정책**](http://www.swing2app.co.kr/view/app_setting) **페이지로 이동합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80\_2018.02.28.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80_2018.02.28.png)
 
 앱 가입정책 페이지에 \[서비스 이용약관], \[개인정보 취급방침]을 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%802\_2018.02.28.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%802_2018.02.28.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42.png)
 
@@ -74,7 +74,7 @@
 
 이용약관에 있는 내용은 모두 수정가능하니 회사명, 상품명 등을 꼭 바꿔서 수정해주시구요.
 
-**​\*이용약관, 개인정보 처리방칙 내용 입력 및 수정이 모두 완료 되면 하단에 **<mark style="color:blue;">**\[정책 설정하기]**</mark>**버튼을 선택해서 저장해주세요.**
+**​\*이용약관, 개인정보 처리방칙 내용 입력 및 수정이 모두 완료 되면 하단에&#x20;**<mark style="color:blue;">**\[정책 설정하기]**</mark>**버튼을 선택해서 저장해주세요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%A0%95%EC%B1%852.png)
 
@@ -124,11 +124,11 @@
 
 대시보드 \[초기 설정] 첫단계 -> 콘텐츠 등급 입력을 끝내면 -> 위의 이미지처럼 ‘개인정보처리방침’ 항목이 뜹니다.
 
-해당 페이지에서 **\[개인정보처리방침]**항목을 확인할 수 있으며, \[시작] 버튼을 선택해주세요.
+해당 페이지에서 **\[개인정보처리방침]**&#xD56D;목을 확인할 수 있으며, \[시작] 버튼을 선택해주세요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15\_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-1.png)
 
 개인정보처리방침 URL 입력란에 위에서 복사해놓으신 URL을 넣어주시면 됩니다 ^^
 
@@ -138,7 +138,7 @@
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:orange;">**출시된 앱에서 개인정보처리방침이 어떻게 보이나요?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41_20.04.png)
 
 플레이스토어에 출시된 앱은 **개발자 연락처 메뉴 – 개인정보처리방침**메뉴에서 확인할 수 있습니다.
 
@@ -152,7 +152,7 @@
 
 **1.개인정보처리방침 입력 or링크 복사하기**
 
-1\)일반 프로토타입 제작 앱 – 스윙투앱에서 제공하는 [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app\_setting)을 수정하여 해당 URL 링크를 복사
+1\)일반 프로토타입 제작 앱 – 스윙투앱에서 제공하는 [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app_setting)을 수정하여 해당 URL 링크를 복사
 
 2\)웹뷰,푸시앱은 앱에 연결된 웹사이트에서 제공하는 개인정보처리방침 링크를 복사
 
@@ -162,7 +162,7 @@
 
 4\. 대시보드 \[초기 설정] 첫단계 -> 콘텐츠 등급 입력을 끝내면 -> ‘개인정보처리방침’ 항목이 뜹니다.
 
-5\. **\[개인정보처리방침]**항목을 확인할 수 있으며, \[시작]버튼을 선택해주세요.
+5\. **\[개인정보처리방침]**&#xD56D;목을 확인할 수 있으며, \[시작]버튼을 선택해주세요.
 
 6\. ‘개인정보처리방침’ 입력란에 위에서 복사해놓은 위에서 URL 붙여넣기 후, \[저장]버튼 선택하면 완료
 

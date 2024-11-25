@@ -22,7 +22,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1.png)
 
-[앱운영 페이지 → 푸시&회원 → 푸시 히스토리](http://www.swing2app.co.kr/view/push\_list) 메뉴로 이동합니다.&#x20;
+[앱운영 페이지 → 푸시&회원 → 푸시 히스토리](http://www.swing2app.co.kr/view/push_list) 메뉴로 이동합니다.&#x20;
 
 
 
@@ -38,17 +38,13 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 ### <mark style="color:blue;">1)푸시 발송 수 체크</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/푸시히스토리2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/푸시히스토리2.png" alt=""><figcaption></figcaption></figure></div>
 
 푸시 히스토리에서는 푸시 발송 수 통계를 확인할 수 있습니다.&#x20;
 
-\-발송 회원 수 : 푸시를 받은 해당 앱 회원 수(앱에서 회원가입한 사용자 수)를 말합니다.
+-발송 회원 수 : 푸시를 받은 해당 앱 회원 수(앱에서 회원가입한 사용자 수)를 말합니다.
 
-\-발송 장치 수 : 실제 기기로 발송된 푸시 수를 말합니다.&#x20;
+-발송 장치 수 : 실제 기기로 발송된 푸시 수를 말합니다.&#x20;
 
 
 
@@ -58,9 +54,9 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 \[발송 이력보기] 버튼 선택시, 발송된 내역을 보다 정확히 확인할 수 있습니다.
 
-\-실제 발송된 장치 수: 총 발송 수, 성공 발송 수, 실패 발송 수 기재
+-실제 발송된 장치 수: 총 발송 수, 성공 발송 수, 실패 발송 수 기재
 
-\-플랫폼별 현황: 안드로이드, IOS 플랫폼 별 발송 수 확인 가능합니다.
+-플랫폼별 현황: 안드로이드, IOS 플랫폼 별 발송 수 확인 가능합니다.
 
 \*Remaining: 아직 푸시 전송이 완료되지 않은 \*발송 중 상태를 말합니다.
 
@@ -132,11 +128,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 발송한 푸시 중에서 동일한 내용으로 다시 푸시를 보내야 한다면, 복제 기능을 이용할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/SE-8090a45b-c879-4761-bc07-d26071975268.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/SE-8090a45b-c879-4761-bc07-d26071975268.png" alt=""><figcaption></figcaption></figure></div>
 
 푸시 히스토리 리스트 가장 오른쪽에 관리 영역에 보시면 \[복제]버튼 확인할 수 있습니다.
 
@@ -162,11 +154,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 4.푸시 기록 삭제
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC4.18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC4.18.09.png" alt=""></div>
 
 발송된 푸시 기록을 삭제하고 싶다면, **\[기록삭제]** 버튼을 눌러서 삭제할 수 있어요.
 
@@ -210,17 +198,13 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 스윙투앱에서 앱제작시 일반 프로토타입(슬라이드, 푸터, 탑, 드롭다운) 으로 제작한 앱에서는!
 
-\*앱 실행 후 \[설정] 메뉴에서 – **푸시 알림 설정을 \[ON-OFF]**로 설정할 수 있습니다. &#x20;
+\*앱 실행 후 \[설정] 메뉴에서 – **푸시 알림 설정을 \[ON-OFF]**&#xB85C; 설정할 수 있습니다. &#x20;
 
 
 
 <mark style="color:orange;">**앱 선택 - 어플리케이션 정보에서도 푸시 알림을 끌 수 있습니다.**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/알림끄기.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/알림끄기.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -234,11 +218,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <mark style="color:orange;">**(1) V3버전 제작 푸시앱 (안드로이드폰 앱 실행화면)**</mark>&#x20;
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/푸시끄기.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/푸시끄기.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20;V3 버전에서 제작된 푸시앱은 툴바'- 설정' 페이지 상단 알림 설정에서 알림을 끌 수 있습니다.&#x20;
 
@@ -248,11 +228,7 @@ description: '푸시 히스토리: 발송된 푸시 내역을 관리하고 확�
 
 <mark style="color:orange;">**(2) V2버전 제작 푸시앱 (안드로이드폰 앱 실행화면)**</mark>&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%91%B8%EC%8B%9C%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC3.png" alt=""></div>
 
 앱 화면 하단의 푸시 툴바에서 → 톱니바퀴 모양의 아이콘을 선택 한 뒤 → 푸시 메시지 수신 설정 체크 박스를 풀어주시면 됩니다.
 

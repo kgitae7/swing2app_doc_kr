@@ -10,7 +10,7 @@
 
 스윙 알뜰형 패키지 상품은, 스윙 이용권 패키지 상품이구요.
 
-**\[유료앱 1년(12개월) 이용권+플레이스토어 업로드 티켓+앱스토어 업로드티켓]**을 제공합니다.
+**\[유료앱 1년(12개월) 이용권+플레이스토어 업로드 티켓+앱스토어 업로드티켓]**&#xC744; 제공합니다.
 
 기본 유료앱 이용권을 월단위로 이용해서 결제하는 것보다 약 50% 할인된 금액으로 이용이 가능합니다.
 
@@ -20,11 +20,7 @@
 
 #### <mark style="color:blue;">**제공 서비스**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/SE-a9f3c00b-f718-412a-a55d-15d727769ccc.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/SE-a9f3c00b-f718-412a-a55d-15d727769ccc.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)무료로 제작된 앱을유료버전으로 전환하는 이용권이며 패키지 상품입니다.
 
@@ -42,13 +38,9 @@
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **02.알뜰형 패키지 이용방법**&#x20;
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/알뜰형구매.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/알뜰형구매.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-1\)앱제작이 완료되면 [앱운영→ 결제/이용권 구매 페이지 → 패키지 상품 구매](https://www.swing2app.co.kr/view/new\_product\_list\_by\_package) 페이지로 이동해서 \[스윙 알뜰형 패키지 상품]을 구매해주세요.​
+1\)앱제작이 완료되면 [앱운영→ 결제/이용권 구매 페이지 → 패키지 상품 구매](https://www.swing2app.co.kr/view/new_product_list_by_package) 페이지로 이동해서 \[스윙 알뜰형 패키지 상품]을 구매해주세요.​
 
 <mark style="color:red;">\*패키지 상품 구매는 일반 프로토타입(탑,푸터,슬라이드,드롭다운)으로 제작한 앱만 신청 가능 \*푸시, 웹뷰버전앱은 구매가 불가합니다.</mark>
 
@@ -74,7 +66,7 @@
 
 #### **\[업로드 신청 방법]**
 
-\*[앱운영→버전관리→앱제작이력](https://www.swing2app.co.kr/view/app\_work\_history) 메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청], \[앱스토어 업로드 신청] 버튼을 선택합니다.​
+\*[앱운영→버전관리→앱제작이력](https://www.swing2app.co.kr/view/app_work_history) 메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청], \[앱스토어 업로드 신청] 버튼을 선택합니다.​
 
 신청양식에 따라 내용을 기재한 뒤 업로드 신청을 해주셔야 스윙으로 업로드 신청건이 전달됩니다. (결제한 뒤 꼭 업로드 신청을 해주세요)
 
@@ -90,7 +82,7 @@
 
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.**스윙 알뜰형 패키지 특징
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.**&#xC2A4;윙 알뜰형 패키지 특징
 
 <figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -146,13 +138,13 @@
 
 용량이 초과가 되면 남은 앱 이용 일수와는 상관없이 앱 이용이 정지되오니 이용용량을 항상 확인해주시기 바랍니다.
 
-용량이 초과되기 전에 용량추가 상품을 구매하거나, [앱운영 → 서비스관리 →리소스관리](https://www.swing2app.co.kr/view/storage\_manager) 에서 용량을 확보해주시기 바랍니다.
+용량이 초과되기 전에 용량추가 상품을 구매하거나, [앱운영 → 서비스관리 →리소스관리](https://www.swing2app.co.kr/view/storage_manager) 에서 용량을 확보해주시기 바랍니다.
 
 7\) 이용권은 하루라도 이용일수가 지난 경우 환불이 불가하며, 남은 일수를 환불해드리지 않으며, 이용을 보류해드리지 않습니다.
 
 따라서 신중히 고려하여 구매해주시기 바랍니다.&#x20;
 
-8\) 구매한 이용권은 스윙 [앱운영페이지→ 결제 → 내결제현황](https://www.swing2app.co.kr/view/payment\_list) 페이지에서 구매한 내역 및 이용기간을 확인할 수 있습니다.
+8\) 구매한 이용권은 스윙 [앱운영페이지→ 결제 → 내결제현황](https://www.swing2app.co.kr/view/payment_list) 페이지에서 구매한 내역 및 이용기간을 확인할 수 있습니다.
 
 9\)유료이용이 끝나기 전 다시 이용권을 재구매 하지 않으시면 유료버전은 종료되며 앱이용이 정지됩니다.
 
@@ -182,8 +174,8 @@
 
 <mark style="color:purple;">\*푸시버전,웹뷰버전으로 제작한 앱은 구매할 수 없습니다.</mark>&#x20;
 
-14\)플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=380\&notice\_type=paymentNotice)&#x20;
+14\)플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing_notice_detail?notice_id=380\&notice_type=paymentNotice)&#x20;
 
-앱스토어는 사용자의 개발자 계정으로 등록하거나 or 당사 스윙투앱 회사 계정으로 대리등록 중 선택하여 등록 가능합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=381\&notice\_type=paymentNotice)&#x20;
+앱스토어는 사용자의 개발자 계정으로 등록하거나 or 당사 스윙투앱 회사 계정으로 대리등록 중 선택하여 등록 가능합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing_notice_detail?notice_id=381\&notice_type=paymentNotice)&#x20;
 
 각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다. &#x20;

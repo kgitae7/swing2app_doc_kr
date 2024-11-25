@@ -14,13 +14,9 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 상품관리-상품조회**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C1-1.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C1-1.png" alt="">
-
-</div>
-
-[**스윙샵 → 상품관리 → 상품조회**](http://www.swing2app.co.kr/view/store\_product\_list) 페이지로 이동합니다.
+[**스윙샵 → 상품관리 → 상품조회**](http://www.swing2app.co.kr/view/store_product_list) 페이지로 이동합니다.
 
 상품조회는 상품등록에서 등록한 상품 목록을 볼 수 있는 페이지입니다.
 
@@ -30,11 +26,7 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 <mark style="color:blue;">**1. 상품조회페이지 이용방법**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2.png" alt=""></div>
 
 상품조회 페이지는 해당 앱에 등록된 모든 상품 목록을 확인할 수 있습니다.
 
@@ -52,15 +44,11 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 <mark style="color:blue;">**2. 상품 상태 변경**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C3.png" alt=""></div>
 
 상품 조회 페이지에서 상품의 상태를 개별적으로 변경할 수 있습니다.
 
-원하는 상품에 체크한 뒤 **\[상태변경]**에서 **\[품절]**을 선택해주시면, 해당 상품의 상태가 판매가능에서 – 품절로 변경됩니다.
+원하는 상품에 체크한 뒤 **\[상태변경]**&#xC5D0;서 **\[품절]**&#xC744; 선택해주시면, 해당 상품의 상태가 판매가능에서 – 품절로 변경됩니다.
 
 \*\*실제로 판매 중인 상품을 \[품절, 판매중지] 등으로 상태를 변경할 때 해당 상품조회페이지에서 간편하게 수정하실 수 있습니다.
 
@@ -72,13 +60,9 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 이어서 예약상품조회 페이지도 함께 확인해보겠습니다.
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2-1.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2-1.png" alt="">
-
-</div>
-
-[**스윙샵 → 상품관리 → 예약상품조회**](http://www.swing2app.co.kr/view/store\_product\_booking\_list) 페이지로 이동합니다.
+[**스윙샵 → 상품관리 → 예약상품조회**](http://www.swing2app.co.kr/view/store_product_booking_list) 페이지로 이동합니다.
 
 **예약상품은 상품 등록시, 예약시스템을 적용하여 등록한 상품을 확인할 수 있는 페이지입니다.**
 
@@ -88,11 +72,7 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 <mark style="color:blue;">**1 . 예약상품조회 이용방법**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C2.png" alt=""></div>
 
 예약상품조회도 상품조회 페이지와 이용방법은 동일합니다.
 
@@ -106,17 +86,13 @@ description: 상품관리-상품조회, 예약상품 조회를 이용하는 방�
 
 <mark style="color:blue;">**2. 예약상품 상태 변경**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C3.png" alt=""></div>
 
 예약 상품 역시 상태를 변경할 수 있습니다.
 
 **\[상태변경]** 메뉴를 선택해서 원하는 상태를 선택해주세요.
 
-상품 상태가 **\[품절]**로 변경된 것을 확인할 수 있습니다**.**
+상품 상태가 **\[품절]**&#xB85C; 변경된 것을 확인할 수 있습니&#xB2E4;**.**
 
 
 

@@ -4,17 +4,13 @@
 
 **앱제작 응용TIP) 앱 로딩아이콘 변경방법 안내**
 
-<mark style="background-color:blue;">**▶**</mark>** 로딩 아이콘이란?**
+<mark style="background-color:blue;">**▶**</mark>**&#x20;로딩 아이콘이란?**
 
 앱 내에서 작업이 실행되기 전, 즉 실행할 프로그램을 준비하는 단계를 로딩이라고 하구요.
 
 로딩이 되는 동안 표시 되는 이미지가 로딩 아이콘이에요.
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3033619efc6c659b91c2d59584fb0b56.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3033619efc6c659b91c2d59584fb0b56.png" alt=""></div>
 
 **↑↑위의 이미지처럼 로딩이 되는 동안 회색 동그라미 아이콘이 돌아가게 됩니다.**
 
@@ -78,7 +74,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%A1%9C%EB%94%A9%EC%95%84%EC%9D%B4%EC%BD%981.gif)
 
-**위의 로딩 아이콘은 **<mark style="color:blue;">**스윙에서 기본 제공하는 로딩 아이콘**</mark>** 스타일이에요.**
+**위의 로딩 아이콘은&#x20;**<mark style="color:blue;">**스윙에서 기본 제공하는 로딩 아이콘**</mark>**&#x20;스타일이에요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/%EC%BA%A122.jpg)
 
@@ -92,11 +88,7 @@
 \
 <mark style="background-color:blue;">**▶**</mark><mark style="color:orange;">**앱 실행화면) 변경한 로딩 아이콘2**</mark>
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/601469de8864b75d2dbd26ea66e11176.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/601469de8864b75d2dbd26ea66e11176.png" alt=""></div>
 
 <mark style="color:blue;">**응용 ) GIF 이미지도 넣을 수 있어요!**</mark>
 

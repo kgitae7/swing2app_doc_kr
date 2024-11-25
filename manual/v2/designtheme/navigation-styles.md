@@ -28,7 +28,7 @@
 
 <mark style="color:orange;"><mark style="color:blue;">**★ 앱 내비게이션 스타일 이용방법**<mark style="color:blue;"></mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_09.png)
 
 **앱 내비게이션 디자인 스타일은 디자인테마단계에서 확인할 수 있습니다.**
 
@@ -40,9 +40,9 @@
 
 <mark style="color:blue;">**1. 앱 내비게이션 스타일 – 기본**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_14.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_14.png)
 
-**\[기본]**으로 체크를 하면 다른 스타일이 입혀지지 않고, 디자인테마에서 설정한 스타일 그대로 셋팅이 되어 제작됩니다.
+**\[기본]**&#xC73C;로 체크를 하면 다른 스타일이 입혀지지 않고, 디자인테마에서 설정한 스타일 그대로 셋팅이 되어 제작됩니다.
 
 스킨컬러를 파란색으로 설정할 경우 내비게이션도 파란색상으로 기본스타일로 보여집니다.
 
@@ -52,7 +52,7 @@
 
 <mark style="color:blue;">**2. 앱 내비게이션 스타일 – 배경이미지**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">​</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_15.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_15.png)
 
 \[배경이미지 등록]을 선택하면, 내비게이션에 배경이미지를 등록할 수 있습니다.
 
@@ -66,11 +66,7 @@
 
 내비게이션 배경이미지를 넣을때에는 패턴 형식으로 된 이미지를 넣는 것이 좋습니다.
 
-<div align="center">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d58833f4499dc4ec9a4202c52ca2f742.jpg" alt="">
-
-</div>
+<div align="center"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d58833f4499dc4ec9a4202c52ca2f742.jpg" alt=""></div>
 
 (배경이미지 예시)
 
@@ -82,7 +78,7 @@
 
 <mark style="color:blue;">**3. 앱 내비게이션 스타일 – 배경이미지 + 배경마스크**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_16.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_16.png)
 
 위에서 선택한 이미지에 \[배경마스크]를 추가로 적용해볼게요.
 

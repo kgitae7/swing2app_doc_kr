@@ -24,7 +24,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
 
-[**앱운영 페이지 → 서비스관리 → 앱 문자열 관리**](http://www.swing2app.co.kr/view/app\_resourecs\_manager) **페이지 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 앱 문자열 관리**](http://www.swing2app.co.kr/view/app_resourecs_manager) **페이지 이동합니다.**
 
 
 
@@ -70,7 +70,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 <figure><img src="../../../.gitbook/assets/업데이트 (2).png" alt=""><figcaption></figcaption></figure>
 
-5\) 앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요**.**
+5\) 앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세&#xC694;**.**
 
 \*문구만 수정해서는 앱에 반영되지 않으며, 반드시 앱제작 페이지에서 새 버전으로 앱 업데이트 해주셔야 합니다.
 
@@ -78,11 +78,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 ### <mark style="color:blue;">**3)앱 실행화면: 영문으로 수정된 문구 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B4%80%EB%A6%AC4.png" alt=""></div>
 
 \[앱 문자열 관리]에서 회원가입 페이지에서 표시되는 모든 문구를 영어로 변경했구요.
 
@@ -95,11 +91,11 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 {% hint style="info" %}
 <mark style="color:blue;">**업데이트 유형 안내**</mark>
 
-\-플레이스토어, 앱스토어 등에 앱이 출시되어 있을 경우: 하드 업데이트(앱 재설치) 선택 해주시구요. 새 버전앱 다시 스토어에 업데이트 해주셔야 합니다.&#x20;
+-플레이스토어, 앱스토어 등에 앱이 출시되어 있을 경우: 하드 업데이트(앱 재설치) 선택 해주시구요. 새 버전앱 다시 스토어에 업데이트 해주셔야 합니다.&#x20;
 
-\-무료이용 혹은 스토어 출시를 안하셨다면 : 소프트 업데이트(앱 재실행) 선택&#x20;
+-무료이용 혹은 스토어 출시를 안하셨다면 : 소프트 업데이트(앱 재실행) 선택&#x20;
 
-\-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
+-업데이트 표시 옵션은 권장, 필수 중 원하는 표시로 선택해주시면 됩니다.&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
@@ -112,7 +108,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%AC%B8%EC%9E%90%EC%97%B4.png)
 
-[**앱운영 페이지 → 서비스관리 → 앱 문자열 관리**](http://www.swing2app.co.kr/view/app\_resourecs\_manager) **페이지 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 앱 문자열 관리**](http://www.swing2app.co.kr/view/app_resourecs_manager) **페이지 이동합니다.**
 
 
 
@@ -144,17 +140,13 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 <mark style="color:orange;">**TIP. 움짤 이미지로 문자열 수정방법 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EA%B5%AC%EC%88%98%EC%A0%95.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%AC%B8%EA%B5%AC%EC%88%98%EC%A0%95.gif" alt=""></div>
 
 **앱 업데이트**&#x20;
 
 <figure><img src="../../../.gitbook/assets/업데이트.png" alt=""><figcaption></figcaption></figure>
 
-4\)앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세요**.**
+4\)앱제작 화면 이동 → \[앱 업데이트] 버튼을 눌러서 앱 새버전으로 업데이트 해주세&#xC694;**.**
 
 \*문구만 수정해서는 앱에 반영되지 않으며, 반드시 앱제작 페이지에서 새 버전으로 앱 업데이트 해주셔야 합니다.
 
@@ -176,7 +168,7 @@ description: '앱에서 사용되는 문구(메시지) 내용 변경: 영문으�
 
 ## 3. 운영 TIP
 
-### <mark style="color:red;">**TIP1**</mark>** 컨트롤(control) + F 버튼**
+### <mark style="color:red;">**TIP1**</mark>**&#x20;컨트롤(control) + F 버튼**
 
 &#x20;몇 개 단어만 수정할 경우 **\*컨트롤(control) + F 버튼**을 누르면 내용을 검색하여 찾을 수 있습니다!!
 

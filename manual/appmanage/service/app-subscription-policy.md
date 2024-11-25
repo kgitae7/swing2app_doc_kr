@@ -16,7 +16,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
-[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]**](http://www.swing2app.co.kr/view/app\_setting) **메뉴로 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]**](http://www.swing2app.co.kr/view/app_setting) **메뉴로 이동합니다.**
 
 
 
@@ -67,21 +67,13 @@ description: 앱 정책관리 – 앱 가입 정책
 
 **1) 공개 – 비회원 이용가능**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%835.18.09.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%835.18.09.png" alt="" width="375"></div>
 
 
 
 2\) **공개(비회원 이용가능. 개별인식)**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%832.18.09.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%832.18.09.png" alt="" width="375"></div>
 
 ,
 
@@ -95,7 +87,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 **관리자는 웹에서 미인증회원을 인증 처리할 수 있어요!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%9D%B8%EC%A6%9D\_2019.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%9D%B8%EC%A6%9D_2019.png)
 
 (1) 앱운영 페이지 푸시&회원 – 회원조회 메뉴로 이동합니다.
 
@@ -127,11 +119,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 <mark style="color:orange;">**앱 실행화면: 앱 가입 문구 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%856-514x1024.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%856-514x1024.png" alt="" width="375"></div>
 
 ***
 
@@ -170,15 +158,11 @@ description: 앱 정책관리 – 앱 가입 정책
 
 그리고 작성한 서비스 이용약관은 URL로 확인할 수 있어요.
 
-하단의 **\[서비스 이용약관 URL보기]**를 선택해주세요.&#x20;
+하단의 **\[서비스 이용약관 URL보기]**&#xB97C; 선택해주세요.&#x20;
 
 
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/36e505eeab3360efc192f053ed3f8483.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/36e505eeab3360efc192f053ed3f8483.png" alt=""></div>
 
 위의 이미지처럼 이용약관 내용이 담긴 새 웹페이지 창이 뜹니다.\
 \
@@ -187,7 +171,7 @@ description: 앱 정책관리 – 앱 가입 정책
 이때 스윙으로 앱을 제작하신 사용자분들은 해당 서비스이용약관 URL을 복사해서 붙혀넣으면 됩니다!!\
 따라서 **서비스 이용약관은 스윙에서 기본 셋팅해놓은 내용을 그대로 쓰지 마시고, 꼭 서비스에 맞게끔!! 수정하여 이용해주시기 바랍니다.**\
 (상호명, 앱이름을 수정하지 않고 그대로 쓸 경우 문제가 생길 수 있으니 주의해주세요)\
-**☞** [**\[구글 플레이스토어 개인정보 처리방침 적용방법 확인하기\]**](http://blog.naver.com/swing2app/220893281032)
+&#xNAN;**☞** [**\[구글 플레이스토어 개인정보 처리방침 적용방법 확인하기\]**](http://blog.naver.com/swing2app/220893281032)
 
 
 
@@ -195,11 +179,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/a9c6c1036dc7296923ed03da090c038d.png)
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e38099333ab64247c012a7ac7c488161.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e38099333ab64247c012a7ac7c488161.png" alt="" width="375"></div>
 
 회원가입 메뉴 하단에 보시면, \[이용약관 확인하기] 버튼이 있습니다.
 
@@ -217,7 +197,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 <mark style="color:orange;">**1) 플레이스토어**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41_20.04.png)
 
 플레이스토어에 출시된 앱은 **개발자 연락처 메뉴  – 개인정보처리방침**메뉴에서 확인할 수 있습니다.
 
@@ -227,7 +207,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 <mark style="color:orange;">**2) 앱스토어**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42_20.04.png)
 
 앱스토어에 출시된 앱 역시 정보란의 **– 개인정보 취급방침** 메뉴에서 확인할 수 있습니다.
 

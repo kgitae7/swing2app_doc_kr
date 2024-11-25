@@ -12,11 +12,11 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 이러한 스탬프를 이제 앱을 이용하여 제공할 수 있습니다.
 
-\-스탬프 메뉴 추가시, 각 회원마다 스탬프 번호와 함께 QR코드 이미지가 발행됩니다.
+-스탬프 메뉴 추가시, 각 회원마다 스탬프 번호와 함께 QR코드 이미지가 발행됩니다.
 
-\-관리자는 번호를 입력해서 스탬프 적립을 하거나,  QR코드로 스탬프를 적립할 수 있습니다.
+-관리자는 번호를 입력해서 스탬프 적립을 하거나,  QR코드로 스탬프를 적립할 수 있습니다.
 
-\-앱 관리자메뉴에서는 QR코드이미지를 스캔하여 앱에서 바로 스탬프를 적립할 수 있습니다.
+-앱 관리자메뉴에서는 QR코드이미지를 스캔하여 앱에서 바로 스탬프를 적립할 수 있습니다.
 
 
 
@@ -66,21 +66,13 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 <mark style="color:orange;">**–관리자 메뉴) 관리자 로그인이 완료되면, 관리자 메뉴가 열립니다.**</mark>&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%841.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%841.png" alt=""></div>
 
 관리자 메뉴가 열리구요.&#x20;
 
 여기서 <mark style="color:blue;">**\[스탬프 추가]**</mark>를 선택해주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%842.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%842.png" alt=""></div>
 
 스탬프 등록화면에서 등록수량을 체크하구요.
 
@@ -94,7 +86,7 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%843.png)
 
-**\[QR코드로 읽기]**를 선택하면  엡에 내장된 QR코드 리더기가 실행됩니다.&#x20;
+**\[QR코드로 읽기]**&#xB97C; 선택하면  엡에 내장된 QR코드 리더기가 실행됩니다.&#x20;
 
 그리고 사용자의 폰에서 스탬프 화면을 열어놓으면 위의 이미지에서 보시는 것처럼 사용자의 QR코드 이미지를 스캔할 수 있습니다.
 
@@ -106,21 +98,13 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 사용자 앱을 실행해서, 스탬프를 확인해볼게요
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%844.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%844.png" alt=""></div>
 
 위에서 QR코드를 스캔하여 적립한 스탬프 수만큼 사용자의 스탬프가 추가된 것을 확인할 수 있어요.
 
 <mark style="color:orange;">**움짤이미지를 통해서 스탬프 등록방법을 확인해주세요.**</mark>&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2021_04_15_15_24_28_174.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2021_04_15_15_24_28_174.gif" alt=""></div>
 
 실제로 앱 관리자메뉴- 스탬프 등록 화면에서  QR코드를 실행하여서 사용자의 스탬프를 등록할 수 있어요.&#x20;
 
@@ -136,7 +120,7 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
-[앱운영 페이지 → 서비스관리→게시판관리](https://www.swing2app.co.kr/view/board\_edit) 이동합니다.&#x20;
+[앱운영 페이지 → 서비스관리→게시판관리](https://www.swing2app.co.kr/view/board_edit) 이동합니다.&#x20;
 
 
 
@@ -144,7 +128,7 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 게시판 관리 페이지에서 \[게시판 생성] 버튼을 선택하면 \[게시판 및 기능설정]창이 열립니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%ED%83%AC%ED%94%841\_20.02.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%ED%83%AC%ED%94%841_20.02.png)
 
 **첫번째 기능 설정 창에서 게시판을 선택합니다.**
 
@@ -170,7 +154,7 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 ### <mark style="color:blue;">**2. 스탬프 게시판 상세설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%ED%83%AC%ED%94%842\_20.02.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%ED%83%AC%ED%94%842_20.02.png)
 
 **두 번째 기본설정 메뉴에서 입력이 모두 끝났다면 \[스탬프 상세설정]으로 이동합니다.**
 
@@ -234,11 +218,7 @@ description: 앱 관리자 메뉴에서 QR코드로 스탬프를 등록하는 �
 
 <mark style="color:purple;">**↓↓ 회원번호는 아래 앱 실행화면을 보면, 사용자마다 회원번호를 확인할 수 있습니다.**</mark>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%845.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%8A%A4%ED%83%AC%ED%94%845.png" alt=""><figcaption></figcaption></figure></div>
 
 그리고 만약!! 스탬프를 잘 못 추가했다면**스탬프 \[추가], \[삭제] 버튼이 있습니다.**
 

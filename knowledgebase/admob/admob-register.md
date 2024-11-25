@@ -88,11 +88,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 5\) \[ADMOB 계정 만들기] 버튼을 선택해주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B927.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B927.png" alt=""></div>
 
 6\) 기본정보 입력 후 해당 항목들에 체크한 뒤 **\[계속해서 ADMOB 사용]** 버튼을 선택합니다.
 
@@ -148,7 +144,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 2\) 지원되는 앱스토어에 앱이 등록되어 있나요?
 
-\-앱이 출시가 되어 있다면 ‘예’에 체크해주세요.
+-앱이 출시가 되어 있다면 ‘예’에 체크해주세요.
 
 3\)\[계속] 버튼 선택
 
@@ -184,11 +180,7 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 광고 단위 추가 방법은 아래 "​**STEP4.앱 광고단위 아이디 만들기 - 배너, 전면**" 파트에서 확인해주세요.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/캡처33 (1) (1).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/캡처33 (1) (1).png" alt=""></div>
 
 ### **2.스토어에 출시되지 않았다면 '아니요' 에 체크하고 진행해주세요**
 
@@ -200,9 +192,9 @@ description: 애드몹 가입 방법과 애드몹 광고 단위 아이디를 만
 
 2\) 지원되는 앱스토어에 앱이 등록되어 있나요?&#x20;
 
-\-앱이 스토어에 출시되지 않은 분들은 ‘아니요’ 를 선택해주세요.
+-앱이 스토어에 출시되지 않은 분들은 ‘아니요’ 를 선택해주세요.
 
-\-앱이 출시가 되어 있다면 ‘예’에 체크해주시면 됩니다.
+-앱이 출시가 되어 있다면 ‘예’에 체크해주시면 됩니다.
 
 3\)\[계속] 버튼 선택&#x20;
 
@@ -246,13 +238,13 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/info-2.png) **애드몹 연결 앱에 스토어 추가하기**
 
-1.[https://apps.admob.com](https://apps.admob.com/?utm\_source=internal\&utm\_medium=et\&utm\_campaign=helpcentrecontextualopt\&utm\_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
+1.[https://apps.admob.com](https://apps.admob.com/?utm_source=internal\&utm_medium=et\&utm_campaign=helpcentrecontextualopt\&utm_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
 
 2.사이드바에서 **앱**을 클릭합니다.
 
 3.다음에서 앱을 연결할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%B6%94%EA%B0%801\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%B6%94%EA%B0%801_886.png)
 
 1\)**앱 메뉴 선택**
 
@@ -360,11 +352,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 **광고 단위 아이디는 아래에서 확인 가능합니다.**&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt=""></div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%95%84%EC%9D%B4%EB%94%949.png)
 
@@ -420,15 +408,11 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 메인 대시보드를 보시면, 결제 정보 누락 항목이 보이시죠?
 
-**결제 정보가 누락되어 있다는 메시지가 기재되어 있구요. **<mark style="color:red;">**\*결제정보가 누락되어 있을 경우 광고가 게재되지 않기 때문에 꼭 추가해주세요**</mark>
+**결제 정보가 누락되어 있다는 메시지가 기재되어 있구요.&#x20;**<mark style="color:red;">**\*결제정보가 누락되어 있을 경우 광고가 게재되지 않기 때문에 꼭 추가해주세요**</mark>
 
 **\[결제 정보 추가]** 메뉴로 들어가주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt=""></div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B44-1.png)
 
@@ -440,11 +424,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 <mark style="color:red;">따라서 해당 화면에서는 수익을 받을 계좌, 은행 등을 입력하지 않습니다.</mark>
 
-<div align="left">
-
-<img src="../../.gitbook/assets/캡처33 (1) (1).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/캡처33 (1) (1).png" alt=""></div>
 
 ### **2. 차단 관리 – 앱 광고 관리**
 
@@ -464,11 +444,7 @@ AdMob에서 앱을 검토하고 승인하려면 AdMob에서 지원하는 스토�
 
 2\)<mark style="color:blue;">**\[모두 검토됨으로 표시]**</mark> 버튼을 선택해서 상태를 ‘검토완료’로 변경해주셔야 합니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt=""></div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9-%EA%B4%91%EA%B3%A0%EA%B4%80%EB%A6%AC2-1.png)
 

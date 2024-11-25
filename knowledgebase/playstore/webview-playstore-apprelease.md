@@ -22,7 +22,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:green;">**플레이스토어에 웹뷰앱, 푸시앱을 등록할 때는 반드시 사전고지 문서를 함께 제출해야 합니다.**</mark>
 
-스윙투앱으로 앱을 제작한 분들 중 \***웹뷰 앱, 푸시버전앱(웹사이트를 그대로 앱에 연동한 웹브라우저 앱 형태)**으로 제작한 사용자분들은 플레이스토어 앱 등록시 위의 사전고지 문서를 제출해야 합니다.
+스윙투앱으로 앱을 제작한 분들 중 \***웹뷰 앱, 푸시버전앱(웹사이트를 그대로 앱에 연동한 웹브라우저 앱 형태)**&#xC73C;로 제작한 사용자분들은 플레이스토어 앱 등록시 위의 사전고지 문서를 제출해야 합니다.
 
 **앱에 연결된 웹사이트가 업체 혹은 본인의 소유가 맞는지 증빙서류를 제출해야 하며, 일반적으로 사업자등록증, 웹사이트 도메인 등록 확인서를 제출하시면 됩니다.**
 
@@ -88,7 +88,7 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 <mark style="color:blue;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18\_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
 
 1\)앱 선택
 
@@ -220,17 +220,13 @@ description: 웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법
 
 파일 업로드가 완료되면, **화면 하단의 \[저장]버튼 선택 → \[버전검토]버튼을 선택합니다.**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png" alt=""></div>
 
 <mark style="color:red;">**\*AAB파일은 어디서 다운받나요??**</mark>
 
 AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB파일을 이곳에 첨부하면 되구요.
 
-[**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
+[**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app_work_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
 
 **\*AAB파일은 유료버전앱에서만 다운 가능하며 무료버전앱에서는 제공되지 않습니다.**&#x20;
 
@@ -240,7 +236,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
 
-앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
+앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app_work_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
 
 \[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
 
@@ -430,11 +426,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 <mark style="color:red;">**★ 잠깐!**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B2%BD%EA%B3%A0.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B2%BD%EA%B3%A0.png" alt=""></div>
 
 해당 경고 메시지가 뜨는 분들도 있을 거에요.
 
@@ -456,7 +448,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 심사에서 문제가 없으면 해당 심사 기간 후 출시됩니다
 
-심사가 통과되어 정상적으로 승인이 완료되면, 해당 앱의 상태는 **‘출시됨’**으로 변경됩니다.
+심사가 통과되어 정상적으로 승인이 완료되면, 해당 앱의 상태는 **‘출시됨’**&#xC73C;로 변경됩니다.
 
 만약 심사가 거절될 경우, 거절 사유가 사용자의 구글 개발자 메일로 발송되오니 메일을 꼭 확인해주세요!
 

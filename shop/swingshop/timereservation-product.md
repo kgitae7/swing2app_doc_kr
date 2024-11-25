@@ -30,7 +30,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 **☞** [**스윙샵 신청방법 보러가기**](broken-reference)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7_19.09.png)
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
@@ -40,7 +40,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 **​**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D8\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D8_19.09.png)
 
 상품카테고리 등록관리 화면에 있는 1)\[등록하기] 버튼을 선택해주세요.
 
@@ -50,7 +50,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 <mark style="color:red;">\*카테고리는 상품을 포함하는 이름을 기재해야 합니다. 예시) 상의, 하의, 악세사리… 이렇게 표시합니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_20.04.png)
 
 카테고리 등록이 완료되었습니다.
 
@@ -60,17 +60,17 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP2**</mark>**. **<mark style="color:blue;">**예약시스템 상품 등록하기**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP2**</mark>**.&#x20;**<mark style="color:blue;">**예약시스템 상품 등록하기**</mark>
 
 이제 카테고리 등록이 끝났다면! 본격적으로 예약상품을 등록해볼게요 ^^
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_19.09.png)
 
-[**스윙샵 → 상품관리 → 상품등록 화면** ](http://www.swing2app.co.kr/view/store\_product\_management)으로 이동해주세요.
+[**스윙샵 → 상품관리 → 상품등록 화면** ](http://www.swing2app.co.kr/view/store_product_management)으로 이동해주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2_20.04.png)
 
 1\. 상품유형: 예약시스템을 선택합니다.
 
@@ -108,7 +108,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3_20.04.png)
 
 8\. 상품명: 상품 이름을 입력합니다.
 
@@ -134,7 +134,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 16\. 재고관리사용: 상품 재고관리를 사용할 것인지 체크합니다. <mark style="color:red;">**\*예약상품은 따로 재고관리가 필요 없기 때문에 넘어가시면 됩니다.**</mark>
 
-17**.** 옵션사용여부: 예약상품에 추가로 옵션상품을 기재할 경우 사용하실 수 있어요.
+1&#x37;**.** 옵션사용여부: 예약상품에 추가로 옵션상품을 기재할 경우 사용하실 수 있어요.
 
 **예시)조식추가, 일회용품추가, 베드추가 등을 기재해서 옵션을 설정하고 옵션금액을 설정할 수 있습니다.**
 
@@ -144,7 +144,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%98%B5%EC%85%98%EC%84%A4%EC%A0%95.gif)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D4\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D4_20.04.png)
 
 18\. 상품간단설명: 상품을 소개하는 간단한 한 줄 설명을 입력합니다.
 
@@ -154,7 +154,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5_20.04.png)
 
 21\. 주문양식 항목: 주문양식은 특별히 더 받아야 할 정보가 있다면 입력을 해주시고, 그렇지 않으면 작성하지 않아도 됩니다.
 
@@ -166,7 +166,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 <mark style="color:purple;">**상품 등록이 완료되었구요. 등록된 상품은 상품 조회에서 확인할 수 있어요.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D6\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D6_20.04.png)
 
 \[상품조회] 메뉴에서 등록한 상품 목록을 모두 확인할 수 있구요.
 
@@ -288,7 +288,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 <mark style="color:orange;">**앱에 적용한 마이페이지 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D9\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D9_20.04.png)
 
 앱에 적용된 마이페이지에서 배송완료/구매완료 메뉴를 선택하면, 구매한 예약상품을 확인할 수 있습니다.
 
@@ -302,7 +302,7 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 **시간 예약상품이 적용된 앱을 실행해서 확인해볼게요!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D10\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D10_20.04.png)
 
 시간 예약상품은 먼저 캘린더(달력)에서 예약 하고자 하는 날을 선택하면, 예약 가능한 상품 목록이 표시됩니다.
 
@@ -310,45 +310,25 @@ description: '예약시스템: 날짜+시간 상품 등록 방법 및 앱 적용
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D11_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D11_20.04.png" alt=""></div>
 
 상품 상세보기를 확인한 뒤 \[예약하기] 버튼을 눌러주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12_20.04.png" alt=""></div>
 
 \[구매진행하기] 버튼을 눌러주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D15_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D15_20.04.png" alt=""></div>
 
 이때 결제수단은 페이앱 카드 및 전자결제, 무통장입금 중에서 선택할 수 있습니다.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13_20.04.png" alt=""></div>
 
 주문상세 페이지에서 전화번호 인증번호 확인해주시구요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%98%88%EC%95%BD%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14_20.04.png" alt=""></div>
 
 결제요청하기를 진행하시면, 결제까지 진행됩니다.
 

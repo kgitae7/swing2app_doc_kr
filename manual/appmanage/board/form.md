@@ -18,11 +18,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 **앱운영- 게시물관리에서는 폼이 적용되지 않기 때문에 해당 기능은 반드시 앱에서만 이용해주시기 바랍니다.**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%8F%BC-KR.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B2%8C%EC%8B%9C%ED%8C%90%ED%8F%BC-KR.png" alt=""></div>
 
 <mark style="color:blue;">**게시판 작성글과는 어떻게 다른가요?**</mark>
 
@@ -36,7 +32,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 작성폼은 앱에서 어떻게 보여지나요?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4_20.03.png)
 
 위의 앱 실행화면에서 보시는 것처럼 게시물 작성을 할때 입사지원서처럼 미리 질문 항목들이 기재되어 폼형식으로 제공되구요
 
@@ -48,13 +44,13 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 ## 1. 게시판 작성폼 설정하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%801\_20.03-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%801_20.03-1.png)
 
 앱운영 페이지 → 서비스 관리 → 게시판 관리로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2_20.03.png)
 
-게시판 관리 페이지에서 게시판을 새로 만들어야 할 경우는 **\[게시판 생성]**버튼을 선택하구요.
+게시판 관리 페이지에서 게시판을 새로 만들어야 할 경우는 **\[게시판 생성]**&#xBC84;튼을 선택하구요.
 
 만들어놓은 게시판이 있을 경우는**해당 게시판에 있는 \[설정]​**버튼을 선택합니다.
 
@@ -68,13 +64,13 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC1\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC1_20.03.png)
 
 게시판 기본설정 입력이 완료되면 두 번째 메뉴인
 
-1\) **\[작성글 설정]**을 선택합니다.
+1\) **\[작성글 설정]**&#xC744; 선택합니다.
 
-2\) **\[작성폼 사용여부]**에 체크해주세요.
+2\) **\[작성폼 사용여부]**&#xC5D0; 체크해주세요.
 
 **▶작성글 이용방법은 아래 매뉴얼을 참고해주세요.**
 
@@ -82,7 +78,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC5\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC5_20.03.png)
 
 게시판 작성폼에는 필요한 항목을 선택하여 추가해주시면 되구요.
 
@@ -124,11 +120,11 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_25\_16\_39\_51\_723.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_25_16_39_51_723.gif)
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC6\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC6_20.03.png)
 
 위의 이미지처럼 항목들을 추가해서 양식을 설정한 뒤 저장해주시면 해당 내용으로 작성폼이 만들어집니다.
 
@@ -196,21 +192,13 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 핸드폰 앱 실행화면을 통해서 작성폼이 어떻게 나타나는지 확인해볼게요
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC_20.07.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC_20.07.png" alt=""></div>
 
 게시판 목록 화면으로 이동하면 오른쪽 상단 글작성 버튼을 선택해주시구요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4_20.03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC4_20.03.png" alt=""></div>
 
 글작성 페이지로 이동하면, 작성폼에서 입력한 내용처럼 질문 항목과 답변 항목 양식이 만들어졌습니다.
 
@@ -230,11 +218,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 글 등록이 완료된 후 게시판 작성폼을 확인해볼게요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2_20.07.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC2_20.07.png" alt=""></div>
 
 각 항목별로 답변이 입력된 것을 확인할 수 있습니다.&#x20;
 

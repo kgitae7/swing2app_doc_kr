@@ -27,11 +27,11 @@ description: 접근 권한 제어 - 부관리자별 대시보드 접근 권한 �
 
 예를 들어)
 
-\-A 부관리자: 결제 관리&#x20;
+-A 부관리자: 결제 관리&#x20;
 
-\-B 부관리자:운영팀(앱 서비스관리, 게시물 관리, 쇼핑몰 관리)
+-B 부관리자:운영팀(앱 서비스관리, 게시물 관리, 쇼핑몰 관리)
 
-\-C부관리자: 앱제작 관리
+-C부관리자: 앱제작 관리
 
 이렇게 각 관리자별로 접근이 가능한 기능을 셋팅하여 해당 기능만 노출되도록 사용할 수 있습니다.&#x20;
 
@@ -70,7 +70,7 @@ description: 접근 권한 제어 - 부관리자별 대시보드 접근 권한 �
 
 <figure><img src="../../../.gitbook/assets/접근권한.png" alt=""><figcaption></figcaption></figure>
 
-[앱운영 - 서비스관리 - 콘솔 액세스 관리 - 접근 권한 제어](https://www.swing2app.co.kr/view/app\_access\_management\_view) 메뉴로이동합니다.
+[앱운영 - 서비스관리 - 콘솔 액세스 관리 - 접근 권한 제어](https://www.swing2app.co.kr/view/app_access_management_view) 메뉴로이동합니다.
 
 <mark style="color:red;">"일반 프로토타입 앱" - "프리미엄 이용권" 사용자만 이용이 가능한 기능입니다.</mark>&#x20;
 
@@ -106,7 +106,7 @@ description: 접근 권한 제어 - 부관리자별 대시보드 접근 권한 �
 
 <figure><img src="../../../.gitbook/assets/접근권한2.png" alt=""><figcaption></figcaption></figure>
 
-(1)**+**버튼을 선택해서 항목을 추가합니다.
+(1)**+**&#xBC84;튼을 선택해서 항목을 추가합니다.
 
 (2)메모란은 사용 용도를 입력해주세요.
 
@@ -134,11 +134,7 @@ description: 접근 권한 제어 - 부관리자별 대시보드 접근 권한 �
 
 부관리자별 접근 권한 기능을 설정 한 후, 해당 부관리자로 로그인해보겠습니다.&#x20;
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/접근권한3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/접근권한3.png" alt=""><figcaption></figcaption></figure></div>
 
 '김스윙' 이라는 부관리자로 로그인한 화면입니다.
 

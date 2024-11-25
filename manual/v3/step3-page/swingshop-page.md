@@ -30,7 +30,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 스윙샵을 신청하면 쇼핑몰에서 운영할 수 있는 기본 페이지들을 제공하는데요.
 
-**\*앱제작→ STEP3 페이지 → 페이지 디자인에서 \[쇼핑몰 기능] 선택→ \[페이지]**를 선택하면 스윙샵(쇼핑몰 운영에 필요한 페이지) 관련 페이지들을 확인할 수 있습니다.
+**\*앱제작→ STEP3 페이지 → 페이지 디자인에서 \[쇼핑몰 기능] 선택→ \[페이지]**&#xB97C; 선택하면 스윙샵(쇼핑몰 운영에 필요한 페이지) 관련 페이지들을 확인할 수 있습니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%87%BC%ED%95%91%EB%AA%B02.png)
 
@@ -64,11 +64,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ## **1. 쇼핑몰 메인 페이지**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt=""></div>
 
 쇼핑몰메인 페이지는 홈화면에 적용하기 적합한 메인홈화면 페이지에요.
 
@@ -114,11 +110,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ## **2. 장바구니**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" alt=""></div>
 
 장바구니는 **관심이 있는 상품, 구매할 예정이 있는 상품을 보관하는 페이지이구요.**&#x20;
 
@@ -132,11 +124,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ## **3. 카테고리 리스트**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt=""></div>
 
 **카테고리 리스트는 개별 상품이 아닌 카테고리를 리스트로 보여주는 페이지입니다.**
 
@@ -144,11 +132,11 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 예를 들어 의류 쇼핑몰은
 
-\-TOP 카테고리: 티셔츠, 블라우스, 니트
+-TOP 카테고리: 티셔츠, 블라우스, 니트
 
-\-DRESS 카테고리: 원피스
+-DRESS 카테고리: 원피스
 
-\-BOTTOM 카테고리: 바지, 치마, 반바지, 청바지
+-BOTTOM 카테고리: 바지, 치마, 반바지, 청바지
 
 이렇게 카테고리를 구성한 뒤 해당 카테고리 별로 적합한 상품을 등록하게 되요.
 
@@ -178,11 +166,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ## **5. 마이페이지**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt=""></div>
 
 \[마이페이지]는 사용자 구매 정보부터 결제, 배송에 관련된 모든 내역을 확인할 수 있는 페이지에요.
 
@@ -196,11 +180,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ## **6. 쇼핑몰 정보**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt=""></div>
 
 상점 정보 페이지이구요.
 
@@ -212,11 +192,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 ## **7. 상품 검색**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt=""></div>
 
 앱에 등록한 상품을 검색하여 찾을 수 있는 상품 검색 페이지입니다.
 
@@ -262,7 +238,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 **해당 날짜에 예약가능한 상품이 조회되고, 시간을 선택하여 예약을 할 수 있습니다.**
 
-따라서 날짜 및 시간 예약상품을 등록하신 경우라면 두번째 페이지을 적용해주시면 됩니다**.**
+따라서 날짜 및 시간 예약상품을 등록하신 경우라면 두번째 페이지을 적용해주시면 됩니&#xB2E4;**.**
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 

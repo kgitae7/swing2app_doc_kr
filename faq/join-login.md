@@ -1,4 +1,6 @@
-# 회원가입 및 로그인 FAQ
+# 계정-회원가입,로그인 FAQ
+
+
 
 <details>
 
@@ -58,7 +60,7 @@
 
 3\)비밀번호는 다시 \[내 정보 수정]페이지- 로그인정보에서 변경해주시면 됩니다.
 
-[https://www.swing2app.co.kr/view/myinfo\_login\_info](https://www.swing2app.co.kr/view/myinfo\_login\_info)
+[https://www.swing2app.co.kr/view/myinfo\_login\_info](https://www.swing2app.co.kr/view/myinfo_login_info)
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B83.png" alt="" data-size="original">
 
@@ -84,7 +86,7 @@
 
 스윙투앱 홈페이지에서 부관리자로 로그인할 때는 로그인 화면에서 \[부관리자]로 선택해서 로그인해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png)
 
 1\)앱아이디: 관리자가 앱을 제작할 때 설정한 아이디를 입력합니다.
 
@@ -160,7 +162,7 @@
 
 <summary><strong>앱에서 비밀번호는 어떻게 찾나요?</strong></summary>
 
-앱에서 비밀번호를 찾기 위해서는 아이디형태가 **‘이메일’**로 지정되어 있어야 합니다.
+앱에서 비밀번호를 찾기 위해서는 아이디형태가 **‘이메일’**&#xB85C; 지정되어 있어야 합니다.
 
 임시 비밀번호를 가입된 이메일로 보낼 수가 있어요.&#x20;
 
@@ -214,7 +216,7 @@
 
 다만 동일 아이디로 재가입을 위해서는 관리자가 웹 대시보드- 회원조회에서 해당 회원(탈퇴한 회원) 정보를 모두 삭제해주셔야 합니다.
 
-[푸시&회원 → 회원조회 ](https://www.swing2app.co.kr/view/member\_list)→ 회원조회 목록에서 1)탈퇴한 해당 사용자를 선택해주시구요.
+[푸시&회원 → 회원조회 ](https://www.swing2app.co.kr/view/member_list)→ 회원조회 목록에서 1)탈퇴한 해당 사용자를 선택해주시구요.
 
 회원정보 창 “계정 탈퇴 및 삭제” 메뉴에서 2) 회원삭제 버튼을 선택합니다.
 

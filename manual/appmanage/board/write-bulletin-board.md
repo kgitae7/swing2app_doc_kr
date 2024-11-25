@@ -24,11 +24,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/form" %}
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%807_20.03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%807_20.03.png" alt=""></div>
 
 위의 앱 실행화면에서 보시는 것처럼 게시물 작성을 할때 설문지 혹은 질문지 처럼 미리 질문 항목들이 기재되어 있구요.
 
@@ -38,17 +34,17 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 ## 1. 게시판 작성글 설정하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%801\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%801_20.03.png)
 
-[**앱운영 페이지 → 서비스관리 → 게시판 관리 페이지**](http://www.swing2app.co.kr/view/board\_edit)**로 이동합니다**.
+[**앱운영 페이지 → 서비스관리 → 게시판 관리 페이지**](http://www.swing2app.co.kr/view/board_edit)**로 이동합니다**.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%802\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%802_20.03.png)
 
 게시판 관리 페이지에서  게시판을 새로 만들어야 할 경우는 <mark style="color:blue;">**\[게시판 생성]**</mark> 버튼을 선택하구요.
 
-만들어놓은 게시판이 있을 경우는 **해당 게시판에 있는 **<mark style="color:blue;">**\[설정]**</mark>버튼을 선택합니다.
+만들어놓은 게시판이 있을 경우는 **해당 게시판에 있는&#x20;**<mark style="color:blue;">**\[설정]**</mark>버튼을 선택합니다.
 
 해당 버튼을 선택하면, 게시판 및 기능설정 창이 열려요.
 
@@ -58,11 +54,11 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/boardeditor" %}
 
-입력이 완료되면 두번째 메뉴인 **\[작성글 설정]**을 선택합니다.
+입력이 완료되면 두번째 메뉴인 **\[작성글 설정]**&#xC744; 선택합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%803\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%803_20.03.png)
 
-**작성글 설정 메뉴에서, 원하는 내용을 입력해주시면 됩니다. **<mark style="color:red;">**\*사용자에게 받아야 할 정보들을 질문지 형태로 기재합니다.**</mark>
+**작성글 설정 메뉴에서, 원하는 내용을 입력해주시면 됩니다.&#x20;**<mark style="color:red;">**\*사용자에게 받아야 할 정보들을 질문지 형태로 기재합니다.**</mark>
 
 1\)해당 게시판에 초기값으로 보여질 내용을 관리자가 직접 입력할 수 있습니다.
 
@@ -132,7 +128,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 ## 3. 앱 실행화면: 작성글 확인하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%805\_20.03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%805_20.03.png)
 
 앱을 실행하여 회원 자기소개방 게시판을 선택합니다.
 
@@ -144,21 +140,13 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%806_20.03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%EA%B8%806_20.03.png" alt=""></div>
 
 
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_13_20_21_625.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_13_20_21_625.gif" alt=""><figcaption></figcaption></figure></div>
 
 게시판 작성글은 글을 작성할 수 있는 양식을 설정해놓는 것으로, **사용자들은 양식에 맞게 글을 입력할 수 있습니다.**&#x20;
 

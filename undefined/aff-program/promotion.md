@@ -36,15 +36,15 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 더욱 많이 홍보할 수록 그만큼 제휴로 들어오는 회원들이 많아지니깐 여러 매체로 다양하게 운영하는게 좋겠죠?&#x20;
 
-제휴프로그램 신청 후 승인을 받았다면!! 본격적으로 홍보할 수 있는 방법에 대해서 확인해주세요**.**
+제휴프로그램 신청 후 승인을 받았다면!! 본격적으로 홍보할 수 있는 방법에 대해서 확인해주세&#xC694;**.**
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) 1.제휴 URL은 어디서 발행이 되나요?&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B41\_19.11.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B41_19.11.png)
 
-제휴프로그램은 [앱운영 → 내메뉴 → 제휴관리](http://www.swing2app.co.kr/swing\_affilate\_view/dashboard)에서 신청할 수 있구요.
+제휴프로그램은 [앱운영 → 내메뉴 → 제휴관리](http://www.swing2app.co.kr/swing_affilate_view/dashboard)에서 신청할 수 있구요.
 
 신청을 하고 승인이 완료되면 **제휴관리 페이지에서 나의 제휴 URL이 발행이 됩니다.**
 
@@ -60,7 +60,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>) **2.배너 스타일**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B42\_19.11.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B42_19.11.png)
 
 제휴 승인이 완료되면 이렇게 홍보용 배너이미지를 메일로 함께 보내드려요.
 
@@ -78,7 +78,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 <mark style="color:blue;">**홍보예시1. 홈페이지에 제휴 배너 등록하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B43\_19.11.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B43_19.11.png)
 
 **사용자분의 홈페이지가 있을 경우, 홈페이지에 스윙에서 제공하는 배너 이미지를 등록하여 홍보할 수 있습니다.**
 
@@ -96,11 +96,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 <mark style="color:blue;">**홍보예시2. 앱에 제휴 배너 등록하기**</mark>
 
-<div align="left">
-
-<img src="../../.gitbook/assets/제휴홍보4_19.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/제휴홍보4_19.png" alt=""></div>
 
 스윙투앱으로 제작한 앱에도 배너 이미지를 적용할 수 있죠\~!
 
@@ -116,7 +112,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 <mark style="color:blue;">**홍보예시3. 카카오톡으로 링크 보내기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B45\_19.11.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B45_19.11.png)
 
 **카톡으로도 링크 보내기가 가능합니다.**
 

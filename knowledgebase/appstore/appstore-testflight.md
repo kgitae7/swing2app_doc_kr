@@ -42,27 +42,27 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 이용방법은 유료앱 이용과 동일합니다. (무료버전앱 이용불가)
 
-**1)앱제작을 완료한 뒤 **<mark style="color:purple;">**스윙투앱 유료앱 이용권, 앱스토어 업로드 티켓**</mark>** 구매해주세요.**
+**1)앱제작을 완료한 뒤&#x20;**<mark style="color:purple;">**스윙투앱 유료앱 이용권, 앱스토어 업로드 티켓**</mark>**&#x20;구매해주세요.**
 
 (이용권은 기본, 확장, 프리미엄 그외 무제한 상품 중 원하는 상품으로 구매해주세요.)
 
-[유료앱 이용권 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term)
+[유료앱 이용권 구매 페이지](http://www.swing2app.co.kr/view/new_product_list_by_use_term)
 
-\*웹뷰, 푸시전용으로 앱을 제작하신 분들은 **무제한 유료앱 상품(이용기간 제한 없는 무제한 상품)**으로 구매가 가능합니다.
+\*웹뷰, 푸시전용으로 앱을 제작하신 분들은 **무제한 유료앱 상품(이용기간 제한 없는 무제한 상품)**&#xC73C;로 구매가 가능합니다.
 
-[무제한 상품 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term)
+[무제한 상품 구매 페이지](http://www.swing2app.co.kr/view/new_product_list_by_use_term)
 
 &#x20;\*무제한 상품은 웹뷰앱 or 푸시앱으로 제작하신 분들에게만  구매페이지 화면이 열립니다.
 
 
 
-**2)유료앱 이용권, 앱스토어 업로드 티켓 구매 후 \***[**앱운영 →버전관리 → 앱제작 이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 앱스토어 업로드 신청을 해주세요.**
+**2)유료앱 이용권, 앱스토어 업로드 티켓 구매 후 \***[**앱운영 →버전관리 → 앱제작 이력**](http://www.swing2app.co.kr/view/app_work_history) **페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 앱스토어 업로드 신청을 해주세요.**
 
 실제 공식 출시를 하는 것은 아니지만 테스트 출시 앱도 앱스토어 애플의 심사를 받은 후에 이용이 가능해요.
 
 따라서 업로드 신청서에 기재된 항목을 모두 입력해서 신청해주셔야 합니다.
 
-\*업로드 신청서 업로드 요청사항란에 **“test-flight 출시”**라고 기재해주시기 바랍니다.&#x20;
+\*업로드 신청서 업로드 요청사항란에 **“test-flight 출시”**&#xB77C;고 기재해주시기 바랍니다.&#x20;
 
 **☞** [**앱스토어 업로드 신청방법 매뉴얼 확인하기**](../../manual/appmanage/version/appstore-upload.md)
 
@@ -96,7 +96,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 **1)test-flight 앱 출시는 이용기간이 90일입니다.**
 
-애플의 정책사항으로 90일만 이용이 가능하며, 아이폰 앱 이용이 더 필요하실 경우 앱스토어 업로드 티켓(20,000원)구매 후 [앱제작이력 페이지](http://www.swing2app.co.kr/view/app\_work\_history)에서 \[앱스토어 업로드 신청] 버튼 눌러서 재신청 해주세요.
+애플의 정책사항으로 90일만 이용이 가능하며, 아이폰 앱 이용이 더 필요하실 경우 앱스토어 업로드 티켓(20,000원)구매 후 [앱제작이력 페이지](http://www.swing2app.co.kr/view/app_work_history)에서 \[앱스토어 업로드 신청] 버튼 눌러서 재신청 해주세요.
 
 저희쪽에서 앱을 버전 업데이트 하여 다시 앱스토어에 해당 작업을 진행해드립니다.&#x20;
 
@@ -112,7 +112,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 이후 사용자 계정을 초대할 때마다, 초대시마다 업로드 신청을 다시 주셔야 하기 때문에 비용이 발생됩니다.
 
-이메일 추가시에도, 앱스토어 업로드 티켓 구매 후 [앱제작이력 페이지](http://www.swing2app.co.kr/view/app\_work\_history)에서 \[앱스토어 업로드 신청] 버튼 눌러서 재신청 해주세요.&#x20;
+이메일 추가시에도, 앱스토어 업로드 티켓 구매 후 [앱제작이력 페이지](http://www.swing2app.co.kr/view/app_work_history)에서 \[앱스토어 업로드 신청] 버튼 눌러서 재신청 해주세요.&#x20;
 
 **4) 이메일은 반드시 애플 아이디만 설정이 가능합니다.**
 
@@ -126,11 +126,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 ## 3. TestFlight 출시 후 앱 설치 방법
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B81.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B81.png" alt=""></div>
 
 **TestFlight 앱 출시가 완료되면 등록된 사용자 애플 아이디로 앱 설치 초대 메일이 발송됩니다.**
 
@@ -138,11 +134,7 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B82.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B82.png" alt=""></div>
 
 <mark style="color:red;">★중요: TestFlight 앱이 설치가 안된 분들은 앱스토어에서 TestFlight앱 검색해서 설치 먼저 해주셔야 합니다.</mark>
 
@@ -152,31 +144,19 @@ description: 아이폰 내부 사용 목적의 앱스토어 앱 등록 Test-flig
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B83.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B83.png" alt=""></div>
 
 TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 \*이용약관은 TestFlight를 처음 이용하는 분들만 뜨기 때문에 한번이라도 이용을 한 사용자들은 위의 페이지가 뜨지 않고 바로 앱 설치화면으로 이동합니다!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B84.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B84.png" alt=""></div>
 
 \[설치] 버튼을 눌러서 앱을 설치해주세요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B85.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B85.png" alt=""></div>
 
 설치가 완료되었구요.
 
@@ -190,7 +170,7 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 90일 이용기간 종료 전/ 후 연장하는 방법입니다.
 
-1\)[앱운영-버전관리-앱제작 이력](http://www.swing2app.co.kr/view/app\_work\_history) 페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 신청서 제출해주세요.
+1\)[앱운영-버전관리-앱제작 이력](http://www.swing2app.co.kr/view/app_work_history) 페이지에서 \[앱스토어 업로드 신청] 버튼을 눌러서 신청서 제출해주세요.
 
 이때 기존 초대된 사용자 외에 신규 사용자 추가를 원하시면 업로드 요청 메모란에 사용자 이메일주소를 기재해주세요.&#x20;
 
@@ -202,7 +182,7 @@ TestFlight 시작하기에서 **\[계속]** 버튼을 눌러주세요.
 
 3\)앱스토어 업로드 티켓(20,000원)이 없다면, 티켓 구매 후 신청해주세요.
 
-[앱스토어 업로드티켓 구매 페이지](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)
+[앱스토어 업로드티켓 구매 페이지](http://www.swing2app.co.kr/view/order_info_action?product_id=3)
 
 4\)업로드 신청이 들어와야 접수가 되어 연장도 진행해드릴 수 있습니다.
 

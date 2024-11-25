@@ -54,7 +54,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EA%B2%B0%EC%A0%9C%ED%94%84%EB%A1%9C%ED%95%844.png)
 
-Payments 설정에서 **\[지급 받는 방법: 결제수단 추가]**를 선택해주세요.&#x20;
+Payments 설정에서 **\[지급 받는 방법: 결제수단 추가]**&#xB97C; 선택해주세요.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EA%B2%B0%EC%A0%9C%ED%94%84%EB%A1%9C%ED%95%845.png)
 

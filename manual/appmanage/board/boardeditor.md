@@ -8,7 +8,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:blue;">**\*게시판 제작방법**</mark>
 
-[앱운영페이지 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) →\[게시판 생성] 버튼 선택하여 게시판 제작 \*게시판 UI, 사용용도, 옵션 등 내용 설정
+[앱운영페이지 → 서비스관리 → 게시판관리](http://www.swing2app.co.kr/view/board_edit) →\[게시판 생성] 버튼 선택하여 게시판 제작 \*게시판 UI, 사용용도, 옵션 등 내용 설정
 
 
 
@@ -24,11 +24,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:orange;">**앱 실행화면) 게시판 적용 화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png" alt=""></div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -40,21 +36,13 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 게시판을 만드는 방법을 알려드릴게요!
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png" alt="">
-
-</div>
-
-게시판은  [**앱운영페이지→서비스관리 → 게시판관리**](http://www.swing2app.co.kr/view/board\_edit)메뉴로 이동해주세요.
+게시판은  [**앱운영페이지→서비스관리 → 게시판관리**](http://www.swing2app.co.kr/view/board_edit)메뉴로 이동해주세요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B02_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B02_19.09.png" alt=""></div>
 
 게시판 관리 페이지의 <mark style="color:blue;">**\[게시판 생성]**</mark> 버튼을 선택하면<mark style="color:blue;">**\[게시판 및 기능설정]**</mark> 창이 뜹니다.
 
@@ -66,11 +54,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ### <mark style="color:blue;">**2. 게시판 및 기능설정: 기본설정**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B03_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B03_19.09.png" alt=""></div>
 
 게시판 제작 전 확인해주세요!
 
@@ -100,11 +84,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B04_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B04_19.09.png" alt=""></div>
 
 **4) 글쓰기 권한**
 
@@ -146,11 +126,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:red;">상단의 \[고급 스타일] 항목으로 이동합니다.</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B05_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B05_19.09.png" alt=""></div>
 
 **9) 고급스타일 – 게시물 옵션 설정​**
 
@@ -170,11 +146,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 **\[게시판 생성 완료]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B06_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B06_19.09.png" alt=""></div>
 
 저장이 완료되면 게시판 관리 목록에 생성된 게시판을 확인할 수 있습니다.
 
@@ -190,11 +162,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 **\[움짤 이미지로 게시판 생성 방법 확인하기]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%9C%EC%9E%91%EB%B0%A9%EB%B2%95.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%9C%EC%9E%91%EB%B0%A9%EB%B2%95.gif" alt=""></div>
 
 게시판은 생성하시고, 또 원하는 스타일과 이용 용도로 자유롭게 수정하여 사용할 수 있으시니깐 걱정하지 마시고!!
 
@@ -211,16 +179,12 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 해당 기능들은 모두 매뉴얼로 제공하고 있으니 운영시 함께 확인해주세요!
 
 {% hint style="info" %}
-**각 메뉴 옆에는 **<mark style="color:blue;">**파란색 ? 물음표 아이콘**</mark>**이 모두 기재되어있습니다. 버튼을 누르면 바로 해당 메뉴 이용방법 매뉴얼로 이동해요\~!**
+**각 메뉴 옆에는&#x20;**<mark style="color:blue;">**파란색 ? 물음표 아이콘**</mark>**이 모두 기재되어있습니다. 버튼을 누르면 바로 해당 메뉴 이용방법 매뉴얼로 이동해요\~!**
 {% endhint %}
 
 <mark style="color:orange;">**1)작성글 설정**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B07_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B07_19.09.png" alt=""></div>
 
 **(1)작성글**
 
@@ -238,11 +202,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:orange;">**2)관리자 설정**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B08_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B08_19.09.png" alt=""></div>
 
 **(1)관리자 설정**
 
@@ -264,11 +224,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 <mark style="color:orange;">**3) 고급 스타일**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B09_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B09_19.09.png" alt=""></div>
 
 **(1) 게시판 헤더 설정**
 
@@ -306,11 +262,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ### -앱제작 V3버전 이용시
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱제작 화면 - STEP3 페이지 선택
 
@@ -340,11 +292,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ### -앱제작 V2버전 이용시
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1.png" alt=""></div>
 
 앱제작 →  페이지 메뉴 로 이동합니다.&#x20;
 
@@ -380,17 +328,9 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 ## STEP3.앱 실행화면)게시판 적용 화면
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_01_22_11_58_31_417.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_01_22_11_58_31_417.gif" alt=""></div>
 
 게시판은 다양한 UI 스타일을 제공하고 있기 때문에 게시판마다 이렇게 다른 스타일로 앱에서 보여지게 됩니다.
 
@@ -418,11 +358,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 따라서**게시물에 섬네일 이미지를 지정할 경우! 반드시 사진 아이콘을 선택해서, 이미지를 등록해주시기 바랍니다.**&#x20;
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/사진아이콘.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/사진아이콘.png" alt=""><figcaption></figcaption></figure></div>
 
 3\)무료사용자는 **게시판 총 30개**까지 제작 가능합니다. \*게시물 수는 제한 없어요!
 
@@ -434,7 +370,7 @@ description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 �
 
 업로드하는 이미지의 수가 많을 경우 그만큼 용량이 많이 집계되오니 이용에 참고 하시기 바랍니다.
 
-\*용량은 [앱운영페이지→ 서비스관리→ 리소스 관리](http://www.swing2app.co.kr/view/storage\_manager)에서 앱의 이용용량을 체크할 수 있습니다.
+\*용량은 [앱운영페이지→ 서비스관리→ 리소스 관리](http://www.swing2app.co.kr/view/storage_manager)에서 앱의 이용용량을 체크할 수 있습니다.
 
 
 

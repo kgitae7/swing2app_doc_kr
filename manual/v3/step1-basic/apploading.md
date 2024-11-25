@@ -44,11 +44,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:red;">\*배경색은 투명색으로 하지 않도록 하구요. 반드시 색상을 채워주세요</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4-%EA%B0%80%EC%9D%B4%EB%93%9C1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4-%EA%B0%80%EC%9D%B4%EB%93%9C1.png" alt=""></div>
 
 <mark style="color:red;">중요\*\* 파란색으로 보이는 부분에 배경이미지를 넣고, 가운데 회색 영역이 중요이미지 및 로고가 들어갈 부분입니다.</mark>
 
@@ -59,23 +55,11 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:blue;">**+대기화면 이미지 예시**</mark>
 
-<div align="left">
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/700cd2c1b7a4831ea5913493b5432420.png" alt=""></div>
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/700cd2c1b7a4831ea5913493b5432420.png" alt="">
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/29e5f3bd706c18d530e5b35ac64d0923.png" alt=""></div>
 
-</div>
-
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/29e5f3bd706c18d530e5b35ac64d0923.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="../../../.gitbook/assets/제목-없음-1.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/제목-없음-1.png" alt=""></div>
 
 기존의 앱들 역시 **대기화면을 보시면 중요이미지를 가운데에 배치하고 전체 이미지는 배경이미지로 만들어서 제공하고 있어요.**
 
@@ -187,11 +171,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 ## **7. 앱 실행) 핸드폰에서 대기화면 이미지 확인하기**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new4.png" alt=""></div>
 
 어플을 실행 한 후 나타나는 대기화면이미지입니다.
 
@@ -219,11 +199,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:blue;">**어플실행 화면) 잘못된 방법의 대기화면 이미지 확인**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B4new2.png" alt=""></div>
 
 
 
@@ -241,13 +217,9 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:blue;">**어플실행 화면) 잘못된 방법의 대기화면 이미지 확인**</mark>
 
-<div align="left">
+<div align="left"><img src="../../../.gitbook/assets/대기화면new3.png" alt=""></div>
 
-<img src="../../../.gitbook/assets/대기화면new3.png" alt="">
-
-</div>
-
-이미지 글자가 잘려서 보이고 일그러지면서 해상도도 엄청깨집니다**.**
+이미지 글자가 잘려서 보이고 일그러지면서 해상도도 엄청깨집니&#xB2E4;**.**
 
 따라서 대기화면 이미지는 꼭!! 가이드라인을 따라서 만들어주세요!!\
 

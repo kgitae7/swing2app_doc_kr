@@ -26,11 +26,11 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 <mark style="color:red;">\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!</mark>
 
-[스윙샵 → 상품관리→ 상품카테고리 등록관리](http://www.swing2app.co.kr/view/store\_product\_category) 메뉴로 이동합니다.
+[스윙샵 → 상품관리→ 상품카테고리 등록관리](http://www.swing2app.co.kr/view/store_product_category) 메뉴로 이동합니다.
 
 **​**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2_19.09.png)
 
 상품카테고리 등록관리 화면에 있는 1)\[등록하기] 버튼을 선택해주세요.
 
@@ -42,7 +42,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D3\_19.09\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D3_19.09_1.png)
 
 카테고리 등록이 완료되었습니다.
 
@@ -56,25 +56,25 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 카테고리 등록이 끝났다면! 본격적으로 디지털 상품중에서 – 영상 및 파일 판매 상품을 등록해볼게요
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5_19.09.png)
 
 스윙샵 → 상품관리 → 상품등록 화면으로 이동해주세요.
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81_19.09.png)
 
 1\. 상품유형: ‘디지털’을 선택합니다.
 
 2\. 디지털 상품 유형 선택: <mark style="color:blue;">**\[권한변경, PDF보기, 영상 및 파일 판매, 쿠폰]**</mark> 중에서 선택할 수 있습니다.
 
-해당 포스팅에서는 **‘영상 및 파일판매’**를 선택해서 등록할게요!
+해당 포스팅에서는 **‘영상 및 파일판매’**&#xB97C; 선택해서 등록할게요!
 
 3\. 영상 및 파일 업로드: 등록하고자 하는 파일을 업로드 해주세요&#x20;
 
 4\. 외부 공유 및 연동 금지
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%818\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%818_19.09.png)
 
 <mark style="color:red;">-구매한 영상 및 파일을 공유할 수 없고, 앱에서만 확인하도록 설정하고 싶다면 ‘외부 공유 및 연동 금지’ 체크해주세요</mark>
 
@@ -98,7 +98,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%812\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%812_19.09.png)
 
 11\. 상품별 결제수단: PAY APP(페이앱)카드결제를 체크해주세요.
 
@@ -128,7 +128,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 16\. 상품 상세 설명: 상품 이미지, 설명, 상품정보, 환불 및 교환 등 상세 정보를 에디터 프로그램을 이용해서 작성해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%813\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%813_19.09.png)
 
 17\. 상품 상세 이미지: 상품 이미지를 등록합니다. 여러장의 이미지 등록이 가능하고 순서 변경이 가능합니다.
 
@@ -142,7 +142,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 **—상품 등록이 완료되었구요. 등록된 상품은 상품 조회에서 확인할 수 있어요.—**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D4\_19.09-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D4_19.09-1.png)
 
 상품조회 메뉴에서 등록한 상품 목록을 모두 확인할 수 있구요.
 
@@ -160,11 +160,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ### **1.앱제작 V3버전 이용시**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/상품카테고리(영상).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/상품카테고리(영상).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱제작 - STEP3 페이지 선택
 
@@ -186,11 +182,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ### **2.앱제작 V2버전 이용시**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3.png" alt=""></div>
 
 **앱제작 – 페이지 메뉴 단계로 이동합니다.**
 
@@ -216,11 +208,7 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. 앱 실행화면) 디지털-영상 파일 판매 앱**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_10_01_01_36_09_304.gif" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_10_01_01_36_09_304.gif" alt="" width="375"></div>
 
 앱에 적용된 영상 파일을 구매할 수 있구요.
 
@@ -228,16 +216,8 @@ description: '디지털제품: 영상파일 등록 및 앱에 적용하는 방�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%815\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%815_19.09.png)
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%816_19.09.png" alt="" width="375"></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%816_19.09.png" alt="" width="375">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%817_19.09.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%817_19.09.png" alt="" width="375"></div>

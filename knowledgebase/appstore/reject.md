@@ -38,11 +38,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 테스트용으로 따로 가입한 뒤 제공 해주셔도 좋습니다.&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 로그인 기능이 있는 앱은 반드시 앱스토어 심사시 테스트용 계정(아이디, 비밀번호)을 제출해야 합니다.
 
@@ -68,29 +64,17 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 
 
-<mark style="color:red;">**\*주의사항 : 애플에서 제공하는 표준 디자인 사용**</mark>** \*해당 디자인은 2022년 10월 규정된 정책입니다.**
+<mark style="color:red;">**\*주의사항 : 애플에서 제공하는 표준 디자인 사용**</mark>**&#x20;\*해당 디자인은 2022년 10월 규정된 정책입니다.**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/67.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/67.PNG" alt=""><figcaption></figcaption></figure></div>
 
 애플 로그인 셋팅시에는 애플에서 제공하는 로그인 버튼의 표준 디자인을 확인하여 만들어주셔야 합니다.&#x20;
 
 다른 디자인을 사용하거나 표준 텍스트를 사용하지 않을 경우도 심사가 거절됩니다.&#x20;
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/로그인.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고1</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/로그인.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고1</p></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241899/20220518.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고2</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241899/20220518.jpg" alt=""><figcaption><p>*애플 로그인 셋팅 이미지 참고2</p></figcaption></figure></div>
 
 
 
@@ -124,11 +108,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 **-거절사례: 디지털 상품 판매시 애플 인앱(in-app)을 적용하지 않음**&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/인앱참고.png" alt=""><figcaption><p>이미지 참고) 애플 인앱 적용된 앱 화면</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/인앱참고.png" alt=""><figcaption><p>이미지 참고) 애플 인앱 적용된 앱 화면</p></figcaption></figure></div>
 
 앱 내에서 디지털 상품을 판매할 경우, 애플 결제모듈인 인앱 결제 모듈을 셋팅해주셔야 합니다.
 
@@ -177,11 +157,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 \*탈퇴 기능 이미지 참고
 
-<div align="left">
-
-<figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241898/20220418.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://ncdn2.swing2app.co.kr/public/swing_notice_editor_attach/9241898/20220418.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -215,11 +191,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 >
 > 3\)출시 예정
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/웹뷰앱_테스트2.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/웹뷰앱_테스트2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
@@ -241,11 +213,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 \*신고, 차단 기능 이미지 참고
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/웹뷰앱_신고차단 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/웹뷰앱_신고차단 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/사용자-생성정책.png" alt=""><figcaption></figcaption></figure>
 
@@ -273,9 +241,9 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 &#x20;test-flight 혹은 엔터프라이즈로 배포해주셔야 합니다.
 
-&#x20;\-test-flight : 특정 사용자들에게만 배포하는 프로그램(앱스토어에 검색되지 않고, 등록한 사용자들만 이용)
+&#x20;-test-flight : 특정 사용자들에게만 배포하는 프로그램(앱스토어에 검색되지 않고, 등록한 사용자들만 이용)
 
-\-엔터프라이즈 : 회사 및 기업에서 진행할 수 있으며, 회사 직원들에게 공유할 수 있는 앱입니다.&#x20;
+-엔터프라이즈 : 회사 및 기업에서 진행할 수 있으며, 회사 직원들에게 공유할 수 있는 앱입니다.&#x20;
 
 특정 회사 특정 그룹 이용 용도의 경우도 동일합니다.&#x20;
 
@@ -341,9 +309,9 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 예를 들어)
 
-\-제작 앱 이름: 스윙투
+-제작 앱 이름: 스윙투
 
-\-앱스토어 노출 앱 이름: 스윙투앱 - 모바일 앱제작 플랫폼
+-앱스토어 노출 앱 이름: 스윙투앱 - 모바일 앱제작 플랫폼
 
 이런식으로 이름 옆에 단어를 추가하는 것은 괜찮습니다.&#x20;
 
@@ -353,9 +321,9 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 예를 들어)
 
-\-제작 앱 이름: 가나다교회
+-제작 앱 이름: 가나다교회
 
-\-앱스토어 노출 앱 이름: 서울기독교총회&#x20;
+-앱스토어 노출 앱 이름: 서울기독교총회&#x20;
 
 이렇게 완전히 다른 이름으로 제출할 경우가 해당됩니다.
 

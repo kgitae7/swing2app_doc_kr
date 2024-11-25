@@ -38,15 +38,11 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90NEW3.png)
 
-[**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) 메뉴로 이동합니다.
+[**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board_edit) 메뉴로 이동합니다.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5%EA%B2%8C%EC%8B%9C%ED%8C%90NEW3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5%EA%B2%8C%EC%8B%9C%ED%8C%90NEW3.png" alt=""></div>
 
 **\[게시판 생성] 버튼을 선택하면 게시판 및 기능 설정 창이 뜹니다.**
 
@@ -54,11 +50,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ### <mark style="color:blue;">**1. 게시판 기능 설정 – 기본설정**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5NEW1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5NEW1.png" alt=""></div>
 
 1\)게시판 및 기능 이름 : 게시판 이름을 작성합니다.
 
@@ -80,11 +72,7 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ### <mark style="color:blue;">**2. 구글맵정보**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5NEW2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5NEW2.png" alt=""></div>
 
 기존의 지도게시판과 달리, **구글맵 게시판은 \[구글맵정보] 로 이동하여서 구글맵 API키 값을 넣어주셔야 합니다.**&#x20;
 
@@ -98,21 +86,13 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ## STEP2. 구글맵 게시판에 위치 등록하기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5NEW3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EB%A7%B5NEW3.png" alt=""></div>
 
 **앱운영 페이지 → 게시물관리 → 만들어놓은 ‘구글맵’으로 이동합니다.**
 
 &#x20;
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/51a8e3013f81df9afadb15d789beda23.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/51a8e3013f81df9afadb15d789beda23.png" alt=""></div>
 
 새롭게 추가된 구글맵 게시판이에요\~!
 
@@ -122,15 +102,11 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ### <mark style="color:blue;">**1. 위치등록**</mark>
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/841c42c62a09604b2610bc127ef81550.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/841c42c62a09604b2610bc127ef81550.png" alt=""></div>
 
 1\) 구글맵 상단 검색창에서 주소를 입력하거나 상호명(키워드)로 검색해주세요. \
 2\) 주소에서 위치가 생성이 되면 \[추가] 버튼을 선택해서 위치에 대한 정보 및 상세정보 등을 입력해주세요.\
-**\*저는 홍콩에 있는 호텔들을 구글맵으로 보여줄 수 있도록, 홍콩 호텔들을 검색하여 위치에 추가해볼게요!**
+&#xNAN;**\*저는 홍콩에 있는 호텔들을 구글맵으로 보여줄 수 있도록, 홍콩 호텔들을 검색하여 위치에 추가해볼게요!**
 
 ### &#x20;<mark style="color:blue;">**2. 위치등록 – 상세 정보 입력**</mark>
 
@@ -224,28 +200,16 @@ description: '구글맵 지도 게시판 : 구글맵에서 위치를 등록하�
 
 ## STEP4. 앱 실행화면
 
-<div align="left">
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c16e6d52ae519aefccb0b73ff3fb7bb7.png" alt=""></div>
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c16e6d52ae519aefccb0b73ff3fb7bb7.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/307bfd14b7ef1a1033355eccfdba48b5.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/307bfd14b7ef1a1033355eccfdba48b5.png" alt=""></div>
 
 앱을 실행하여서 구글맵 게시판이 어떻게 보여지는지 확인할게요.
 
-**\[리스트 열기]**를 선택하면 앞서 게시판에서 등록한 위치들이 리스트로 보여집니다. \
+**\[리스트 열기]**&#xB97C; 선택하면 앞서 게시판에서 등록한 위치들이 리스트로 보여집니다. \
 
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4b02fd1d10f6647c5eb89e9ed06dacd6.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4b02fd1d10f6647c5eb89e9ed06dacd6.png" alt=""></div>
 
 입력한 위치 중에서 ‘르네상스 홍콩 하버 뷰 호텔’을 선택하구요.
 

@@ -34,7 +34,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 
 
-![](<../../../.gitbook/assets/가입정책\_핸드폰1 (1).png>)
+![](<../../../.gitbook/assets/가입정책_핸드폰1 (1).png>)
 
 **1)앱 실행 후 회원가입 페이지에서 – \[이용약관 확인하기]를 선택하면 내용을 확인할 수 있어요.**
 
@@ -54,7 +54,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
-[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]** ](http://www.swing2app.co.kr/view/app\_setting)**메뉴로 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 정책관리→ \[앱 가입 정책\]** ](http://www.swing2app.co.kr/view/app_setting)**메뉴로 이동합니다.**
 
 ***
 
@@ -156,7 +156,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 
 
-## **​**​4**.** **서비스 이용약관 및 개인정보 처리방침 확인 – 앱 실행화면**
+## **​**​&#x34;**.** **서비스 이용약관 및 개인정보 처리방침 확인 – 앱 실행화면**
 
 
 
@@ -164,11 +164,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 **1)설정 메뉴**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/이용약관1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/이용약관1.png" alt=""><figcaption></figcaption></figure></div>
 
 설정 메뉴하단에 보시면 **\*이용약관 확인하기** 버튼이 있어요.
 
@@ -176,27 +172,19 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 **2)회원가입 화면**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/이용약관2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/이용약관2.png" alt=""><figcaption></figcaption></figure></div>
 
 회원가입 창 하단에 보시면 **\*이용약관 확인하기** 버튼이 있어요.
 
 
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/가입정책_핸드폰2.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/가입정책_핸드폰2.png" alt=""></div>
 
 해당 버튼을 선택하면 앱 가입정책에서 입력한 서비스 이용약관과 개인정보 처리방침 내용을 확인할 수 있어요.
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
-## **​**​5**. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**
+## **​**​&#x35;**. 스토어별 개인정보처리방침 적용 화면 (플레이스토어, 앱스토어)**
 
 위에서 작성한 앱 개인정보처리방침 내용이 플레이스토어, 앱스토어에서는 어떻게 적용되어 보여지는지 확인해볼게요!
 
@@ -204,7 +192,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 **1) 플레이스토어**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41_20.04.png)
 
 플레이스토어에 출시된 앱은 **개발자 연락처 메뉴  – 개인정보처리방침**메뉴에서 확인할 수 있습니다.
 
@@ -214,7 +202,7 @@ description: 앱 가입 정책 - 이용약관, 개인정보취급방침 내용 �
 
 **2) 앱스토어**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42_20.04.png)
 
 앱스토어에 출시된 앱 역시 정보란의 **– 개인정보 취급방침** 메뉴에서 확인할 수 있습니다.
 

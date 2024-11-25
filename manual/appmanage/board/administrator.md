@@ -18,9 +18,9 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 ## 1. 게시판 관리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%95\_20.5.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%95_20.5.png)
 
-스윙 홈페이지 접속 후 [**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) 메뉴로 이동합니다.
+스윙 홈페이지 접속 후 [**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board_edit) 메뉴로 이동합니다.
 
 
 
@@ -28,7 +28,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 ## 2. 게시판 생성 및 설정    &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%952\_20.5.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%952_20.5.png)
 
 **1)게시판관리 페이지에서 \[게시판 생성] 버튼 혹은 \[설정] 버튼을 선택합니다.**
 
@@ -50,7 +50,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 ## 3. 게시판 관리자 설정
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%953\_20.5.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%953_20.5.png)
 
 1\) \[관리자설정] 버튼을 선택합니다.
 
@@ -138,15 +138,11 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 앱을 실행하여 관리자가 적용된 해당 게시판을 확인해볼게요.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/게시판관리자.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/게시판관리자.png" alt=""><figcaption></figcaption></figure></div>
 
 앱에서 해당 관리자 계정으로 로그한 뒤, 관리자로 지정된 게시판으로 이동해주세요.
 
-다른 사용자가 작성한 게시물에서, **상단의 점 세개 버튼을 선택하면 **<mark style="color:blue;">**\[삭제, 고정글 설정, 공유하기]**</mark>** 메뉴를 확인할 수 있습니다.**
+다른 사용자가 작성한 게시물에서, **상단의 점 세개 버튼을 선택하면&#x20;**<mark style="color:blue;">**\[삭제, 고정글 설정, 공유하기]**</mark>**&#x20;메뉴를 확인할 수 있습니다.**
 
 **관리자로 적용된 게시판에서는 다른 사용자가 등록한 게시글을 삭제하거나 고정글로 설정 하실 수 있습니다.**
 
@@ -162,11 +158,7 @@ description: 게시판 관리자 설정하는 방법 매뉴얼
 
 <mark style="color:blue;">**만약 게시판 관리자가 아닌 일반 사용자로 접속시, 어떻게 보여지나요?**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/게시판관리자1 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/게시판관리자1 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 일반 사용자 혹은 게시판관리자가 아닌 일반 관리자의 경우는 **\[신고하기, 차단, 공유하기]** 메뉴만 확인할 수 있어요!
 

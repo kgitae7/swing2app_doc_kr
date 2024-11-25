@@ -130,7 +130,7 @@
 
 따라서 마켓 업로드 등록정보가 매우 중요하겠죠?
 
-간단한 안드로이드 마켓 업로드 등록 팁을 링크해드립니다**.**
+간단한 안드로이드 마켓 업로드 등록 팁을 링크해드립니&#xB2E4;**.**
 
 **☞** [**플레이스토어 검색 잘되는 TIP**](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-searchtip)
 
@@ -170,9 +170,9 @@
 
 새로운 버전의 앱을 플레이스토어에  업데이트 하는 방법은 간단합니다.
 
-\-구글 개발자 콘솔 사이트에 로그인 한 후 프로덕메뉴에서 새로운 버전의 앱을 등록합니다.
+-구글 개발자 콘솔 사이트에 로그인 한 후 프로덕메뉴에서 새로운 버전의 앱을 등록합니다.
 
-\-업데이트도 재심사가 들어가며 2-3일 정도 소요됩니다.
+-업데이트도 재심사가 들어가며 2-3일 정도 소요됩니다.
 
 &#x20;
 
@@ -181,7 +181,7 @@
 스토어에 올린 – 앱 설명, 스크린샷 이미지, 카테고리 등을 변경 하면 상단에 \[업데이트 제출] 버튼이 활성화 됩니다.
 
 aab파일 업로드와는 다르게 스토어 정를 수정한 경우 해당 버튼을 눌러야만 업데이트가 처리됩니다.\
-**☞** [**플레이스토어 업데이트 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)\
+&#xNAN;**☞** [**플레이스토어 업데이트 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)\
 
 
 </details>

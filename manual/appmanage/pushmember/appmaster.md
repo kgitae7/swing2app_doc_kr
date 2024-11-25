@@ -52,13 +52,9 @@ description: 회원그룹 정보 - 앱 관리자로 그룹을 변경하는 방�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입하기&#x20;
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%956_19.09.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%956_19.09.png" alt="">
-
-</div>
-
-앱 실행 후, 회원가입 메뉴에서 회원가입을 해주세요**.**
+앱 실행 후, 회원가입 메뉴에서 회원가입을 해주세&#xC694;**.**
 
 \*회원가입은 앱제작시 기본으로 셋팅되어 있으나, 만약 메뉴를 삭제했다면 앱제작페이지 – STEP3 페이지에서 메뉴를 다시 적용해주세요.
 
@@ -72,11 +68,7 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**회원가입 완료: 사용자 등급**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%957_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%957_19.09.png" alt=""></div>
 
 회원가입이 완료되면, **자동으로 등급은 손님 등급에서 → 사용자 등급으로 변경이됩니다.**
 
@@ -90,7 +82,7 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 등급 변경은 스윙투앱 대시보드 – 앱운영페이지에서 작업 가능합니다.
 
-[**앱운영 → 푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member\_list) **메뉴로 이동합니다.**
+[**앱운영 → 푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member_list) **메뉴로 이동합니다.**
 
 
 
@@ -120,7 +112,7 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 <mark style="color:blue;">**\[ 그룹 변경 완료 ]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%954\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%954_19.09.png)
 
 변경 완료 후 회원조회 목록 페이지를 보시면 앞서 **사용자 등급이었던 회원이 ‘관리자’로 등급이 변경된 것을 확인할 수 있습니다.**
 
@@ -128,17 +120,13 @@ STEP3 페이지 – 메뉴추가 - 페이지 디자인: 기본 기능 - 페이�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 앱 실행화면: 변경된 등급 확인하기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%958_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%958_19.09.png" alt=""></div>
 
 등급 변경이 되면, 앱에서 등급이 변경되었다는 푸시 알림이 자동 발송됩니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%955\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%955_19.09.png)
 
 다시 설정 메뉴로 들어가면, 사용자였던 회원이 ‘관리자’로 변경된 것을 확인할 수 있습니다.
 

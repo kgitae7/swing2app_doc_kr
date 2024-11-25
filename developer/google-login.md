@@ -32,11 +32,7 @@ description: 일반 프로토타입 앱 적용 - 구글 로그인 API 연동
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글로그인2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글로그인2.png" alt=""><figcaption></figcaption></figure></div>
 
 2\)프로젝트 이름 입력 \*원하는 이름으로 입력해주세요, 프로젝트명으로 사용되며 공개적으로 어디에 노출되는 것은 아닙니다.&#x20;
 
@@ -62,11 +58,7 @@ description: 일반 프로토타입 앱 적용 - 구글 로그인 API 연동
 
 \*만약 카테고리에 'API 및 서비스' 메뉴가 고정되어 바로 있다면 해당 경로로 선택해서 이동하셔도 됩니다.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글로그인17.png" alt=""><figcaption><p>메뉴가 고정되어 있을 경우</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글로그인17.png" alt=""><figcaption><p>메뉴가 고정되어 있을 경우</p></figcaption></figure></div>
 
 
 
@@ -107,7 +99,7 @@ description: 일반 프로토타입 앱 적용 - 구글 로그인 API 연동
 
 **경로)**
 
-[**앱운영- 서비스관리-정책관리-앱가입 정책**](https://www.swing2app.co.kr/view/app\_setting)  &#x20;
+[**앱운영- 서비스관리-정책관리-앱가입 정책**](https://www.swing2app.co.kr/view/app_setting)  &#x20;
 
 \[서비스 이용약관URL 보기]를 선택해서, 인터넷 주소란에 기재된 링크 주소를 복사해서 붙여넣습니다.
 {% endhint %}
@@ -118,13 +110,9 @@ description: 일반 프로토타입 앱 적용 - 구글 로그인 API 연동
 
 
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/구글로그인7.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/구글로그인7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-\+도메인 추가 버튼을 눌러서 도메인 입력란에 아래 도메인 URL 입력해주세요
++도메인 추가 버튼을 눌러서 도메인 입력란에 아래 도메인 URL 입력해주세요
 
 (7)승인된 도메인 1 입력&#x20;
 
@@ -194,7 +182,7 @@ description: 일반 프로토타입 앱 적용 - 구글 로그인 API 연동
 
 (3)브라우저 URL 입력 1 **\*아래 URL 입력해주세요.**&#x20;
 
-(4)브라우저 URL 입력 2**\*아래 URL 입력해주세요.**&#x20;
+(4)브라우저 URL 입력 &#x32;**\*아래 URL 입력해주세요.**&#x20;
 
 {% hint style="success" %}
 URL1) [**https://www.swing2app.co.kr**](https://www.swing2app.co.kr)
@@ -208,9 +196,9 @@ URL2) [**https://www.swing2app.com**](https://www.swing2app.com/)
 
 {% hint style="success" %}
 URL1) [**https://www.swing2app.com/main/google\_login\_api**\
-](https://www.swing2app.com/main/google\_login\_api)\
+](https://www.swing2app.com/main/google_login_api)\
 URL1) [**https://www.swing2app.co.kr/main/google\_login\_api**\
-](https://www.swing2app.co.kr/main/google\_login\_api)
+](https://www.swing2app.co.kr/main/google_login_api)
 {% endhint %}
 
 (7)만들기 선택
@@ -219,11 +207,7 @@ URL1) [**https://www.swing2app.co.kr/main/google\_login\_api**\
 
 **OAuth 클라이언트 생성 완료**&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글로그인13.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글로그인13.png" alt=""><figcaption></figcaption></figure></div>
 
 14\)클라이언트 ID 값이 생성됩니다.&#x20;
 
@@ -239,15 +223,15 @@ URL1) [**https://www.swing2app.co.kr/main/google\_login\_api**\
 
 <figure><img src="../.gitbook/assets/구글로그인14.png" alt=""><figcaption></figcaption></figure>
 
-[앱운영-서비스관리-정책관리-회원가입 양식](https://www.swing2app.co.kr/view/app\_policy)
+[앱운영-서비스관리-정책관리-회원가입 양식](https://www.swing2app.co.kr/view/app_policy)
 
-\-아이디 형태: 일반아이디 선택
+-아이디 형태: 일반아이디 선택
 
-\-외부연동 로그인 :  '구글'  체크
+-외부연동 로그인 :  '구글'  체크
 
-\-google clientID 입력란에 복사한 ID를붙혀넣기 해주세요.
+-google clientID 입력란에 복사한 ID를붙혀넣기 해주세요.
 
-\-\[정책설정하기] 선택
+-\[정책설정하기] 선택
 
 <mark style="color:red;">\*앱제작 이동 후 \[앱 업데이트]까지 꼭 해주세요. \*업데이트가 되어야 로그인 반영됩니다.</mark>
 
@@ -275,11 +259,7 @@ URL1) [**https://www.swing2app.co.kr/main/google\_login\_api**\
 
 앱 업데이트 후, 구글 로그인이 앱에서 정상적으로 셋팅 되었는지 확인할 수 있습니다.&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글로그인15.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글로그인15.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/구글로그인16 (1).png" alt=""><figcaption></figcaption></figure>
 

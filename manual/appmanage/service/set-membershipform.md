@@ -14,7 +14,7 @@
 **회원가입 양식 설정 – 회원 가입 항목 추가하기**
 ------------------------------
 
-[앱운영- 서비스관리- 정책관리-회원가입 양식](http://www.swing2app.co.kr/view/app\_policy)으로 이동합니다.
+[앱운영- 서비스관리- 정책관리-회원가입 양식](http://www.swing2app.co.kr/view/app_policy)으로 이동합니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D.png)
 
@@ -140,11 +140,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 ## **4. 움짤 이미지로 입력 방법 확인하기**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif" alt=""></div>
 
 ![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
 
@@ -208,31 +204,19 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 **1)전화번호**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png" alt=""></div>
 
 &#x20;
 
 **2)생일**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png" alt=""></div>
 
 &#x20;
 
 **3)추천 트레이너 – 문장 작성 UI (단문 작성)**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png" alt=""></div>
 
 &#x20;
 
@@ -247,7 +231,7 @@ ex) 좋아하는 과일은? = 사과, 귤, 딸기, 수박, 배, 바나나 중에
 
 
 
-**'**회원가입 항목을 설정하지 않아도, 스윙투앱에서는 기본 항목을 고정값으로 제공하는데요.
+**'**&#xD68C;원가입 항목을 설정하지 않아도, 스윙투앱에서는 기본 항목을 고정값으로 제공하는데요.
 
 아이디, 비밀번호, 비밀번호 확인, 이름(닉네임) 으로 제공됩니다.
 

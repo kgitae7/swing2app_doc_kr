@@ -18,7 +18,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%ED%92%88%EB%85%B8%EC%B6%9C%EA%B4%80%EB%A6%AC.png)
 
-[**스윙샵 → 상품관리 → 상품노출관리**](http://www.swing2app.co.kr/view/store\_product\_expression) **페이지로 이동합니다.**
+[**스윙샵 → 상품관리 → 상품노출관리**](http://www.swing2app.co.kr/view/store_product_expression) **페이지로 이동합니다.**
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -30,7 +30,7 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 <mark style="color:red;">현재 노출유형은 ‘메인페이지-콜렉션’ 만 이용이 가능합니다.</mark>&#x20;
 
-**\[메인페이지-콜렉션]**으로 선택한 뒤 \[등록하기] 버튼을 선택해주세요.
+**\[메인페이지-콜렉션]**&#xC73C;로 선택한 뒤 \[등록하기] 버튼을 선택해주세요.
 
 
 
@@ -130,15 +130,11 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 **쇼핑몰 앱을 실행해서, 위에서 등록한 상품노출관리 페이지가 앱에서는 어떻게 보여지는지 확인해볼게요\~!**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%A9%94%EC%9D%B8%EC%BB%AC%EB%A0%89%EC%85%98.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%A9%94%EC%9D%B8%EC%BB%AC%EB%A0%89%EC%85%98.png" alt=""></div>
 
 홈화면에 **\[쇼핑몰 메인]** 페이지를 적용했구요.
 
-스크롤해서 아래로 내려가면, 하단에 **\[주요상품]**이라는 메뉴가 보입니다.
+스크롤해서 아래로 내려가면, 하단에 **\[주요상품]**&#xC774;라는 메뉴가 보입니다.
 
 **\*위에서 등록한 \[메인페이지-콜렉션]은 앱에서 \[주요상품]에 표시되어서 나타납니다.**
 
@@ -152,8 +148,4 @@ description: 상품 노출관리 이용방법 및 앱 적용화면 안내
 
 <mark style="color:blue;">**\[움짤 이미지로 상품노출관리 메뉴가 적용된 앱 실행화면 확인하기]**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_02_15_15_12_42_710.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2021_02_15_15_12_42_710.gif" alt=""></div>

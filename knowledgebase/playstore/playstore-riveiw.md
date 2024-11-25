@@ -4,7 +4,7 @@
 
 플레이스토어에 앱을 다운 받은 사용자가 리뷰를 달면, 개발자는 리뷰에 대한 답글을 어디서 작성해야 하는지 알고 계신가요?
 
-\-플레이스토어 앱에서는 리뷰에 대한 답글을 달 수 없구요.
+-플레이스토어 앱에서는 리뷰에 대한 답글을 달 수 없구요.
 
 – 구글 플레이 콘솔 사이트에서 구글 개발자 계정으로 로그인하여 리뷰를 확인하고 답글을 달 수 있습니다!!
 
@@ -18,7 +18,7 @@
 
 <mark style="color:orange;">**\*\*리뷰는 플레이스토어 앱에서 확인이 가능하지만, 리뷰에 대한 답글 작성은 구글 플레이 콘솔 사이트에서만 이용 가능합니다**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B01\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B01_new.png)
 
 구글 개발자 콘솔사이트로 이동하여 구글개발자 계정으로 로그인해주시구요.
 
@@ -26,7 +26,7 @@
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**평점 및 리뷰**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B05\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B05_new.png)
 
 왼쪽 카테고리에 \[평점 및 리뷰] 메뉴를 선택하면 – **평점, 리뷰 분석, 리뷰, 테스트 메뉴들을 확인할 수 있어요.**
 
@@ -34,16 +34,16 @@
 
 아래 \[리뷰] 메뉴를 선택하면 리뷰 페이지로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B02\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B02_new.png)
 
 **\[리뷰] 메뉴를 선택해주세요.**&#x20;
 
 리뷰 페이지에서는 앱에 달린 사용자들의 리뷰 목록을 모두 확인할 수 있습니다.&#x20;
 
-댓글 밑에 있는 답장 입력란에 내용을 입력 한뒤 **\[답글 게시]**버튼을 선택하면 답글이 달리게 됩니다.\
+댓글 밑에 있는 답장 입력란에 내용을 입력 한뒤 **\[답글 게시]**&#xBC84;튼을 선택하면 답글이 달리게 됩니다.\
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B03\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B03_new.png)
 
 간단하죠?
 
@@ -53,7 +53,7 @@
 
 <mark style="color:orange;">**★ 만약 리뷰에 광고나 스팸 글이 달린다면??**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B04\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B04_new.png)
 
 리뷰 페이지에 보시면 각 리뷰 글마다 깃발 모양의 아이콘이 있어요.
 
@@ -72,11 +72,7 @@
 \
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**모바일 화면) 플레이스토어 어플 실행**</mark>&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B06_new-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%A6%AC%EB%B7%B06_new-1.png" alt=""></div>
 
 플레이스토어 어플을 실행하면 사용자 리뷰에 개발자 답글이 달린 것을 볼 수 있습니다.
 

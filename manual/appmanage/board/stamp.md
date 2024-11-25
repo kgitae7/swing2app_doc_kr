@@ -8,7 +8,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <mark style="color:blue;">**스윙투앱에서 제공하는 스탬프란?**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84\_800.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%ED%83%AC%ED%94%84_800.png)
 
 스윙투앱에서는 종이쿠폰이 아닌 앱에 내장된 모바일 쿠폰으로 도장을 찍을 수 있답니다.
 
@@ -28,7 +28,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
-[스윙 앱운영 페이지 → 서비스관리 → 게시판 관리](https://www.swing2app.co.kr/view/board\_edit) 페이지로 이동합니다.
+[스윙 앱운영 페이지 → 서비스관리 → 게시판 관리](https://www.swing2app.co.kr/view/board_edit) 페이지로 이동합니다.
 
 
 
@@ -84,11 +84,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 13\) **“스탬프 완료시 쿠폰발행”** 체크 여부는 선택사항입니다.
 
-\-스탬프 완료 후 자동으로 쿠폰이 발행되길 원한다면 체크해주시구요., 발행할 쿠폰을 선택합니다.
+-스탬프 완료 후 자동으로 쿠폰이 발행되길 원한다면 체크해주시구요., 발행할 쿠폰을 선택합니다.
 
 (쿠폰은 서비스관리→ 쿠폰관리에서 먼저 만들어 주셔야 적용이 가능하겠죠?)
 
-\-자동 발행을 원치 않거나 쿠폰 발행을 이용하지 않는다면 체크를 풀어주세요.
+-자동 발행을 원치 않거나 쿠폰 발행을 이용하지 않는다면 체크를 풀어주세요.
 
 \*쿠폰발행에 체크하실 경우, 쿠폰은 먼저 만들어주셔야 합니다.
 
@@ -136,7 +136,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <figure><img src="../../../.gitbook/assets/스탬프2_20.02-1.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;**두 번째 기본설정 메뉴에서 입력이 모두 끝났다면 **<mark style="color:blue;">**\[스탬프 상세설정]**</mark>**으로 이동합니다.**
+&#x20;**두 번째 기본설정 메뉴에서 입력이 모두 끝났다면&#x20;**<mark style="color:blue;">**\[스탬프 상세설정]**</mark>**으로 이동합니다.**
 
 7\)스탬프 이미지 등록: 스탬프 이미지는 원하는 이미지로 등록가능합니다.(이미지 사이즈 512px \* 512px)
 
@@ -224,11 +224,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <mark style="color:blue;">**스탬프 적용 앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png" alt=""></div>
 
 스탬프 게시판에는 <mark style="color:blue;">**QR코드, 회원번호**</mark>**가 각 사용자 계정으로 발행이 됩니다.**
 
@@ -264,11 +260,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 <mark style="color:orange;">**↓↓ 회원번호는 아래 앱 실행화면을 보면, 사용자마다 회원번호를 확인할 수 있습니다.**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B03.png" alt=""></div>
 
 
 
@@ -299,20 +291,16 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 1\)앱 회원 가입 후&#x20;
 
-2\)회원조회 페이지 이동 [앱 운영 → 푸시 & 회원 → 회원조회](http://www.swing2app.co.kr/view/member\_list)
+2\)회원조회 페이지 이동 [앱 운영 → 푸시 & 회원 → 회원조회](http://www.swing2app.co.kr/view/member_list)
 
-3\)회원 선택 후 그룹을 **‘관리자’**로 변경
+3\)회원 선택 후 그룹을 **‘관리자’**&#xB85C; 변경
 
 4\)앱 실행 → 로그인 후 → 앱 설정 → 관리자 메뉴 선택시 관리자 로그인에서 제공되는 메뉴 동일하게 이용 가능합니다.
 {% endhint %}
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/관리자_420.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/관리자_420.png" alt=""><figcaption></figcaption></figure></div>
 
 관리자메뉴에서 – \[스탬프 추가]를 선택합니다.
 
@@ -328,11 +316,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 앱 관리자에서 스탬프를 추가하는 방법! 움짤 이미지로 확인해주세요!!
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c8c3a0e0ef1750d37952356f491e6e3c.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/c8c3a0e0ef1750d37952356f491e6e3c.png" alt=""></div>
 
 실제로 앱 관리자메뉴- 스탬프 등록 화면에서  QR코드를 실행하여서 사용자의 스탬프를 등록했습니다.
 
@@ -350,11 +334,11 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 **\[삭제] 버튼을 눌러서 원하는 수량만큼 삭제하거나 모든 스탬프를 다 삭제할 수 있습니다.**
 
-\-스탬프 게시판의 회원 목록 옆의 \[삭제]버튼을 누르면 삭제할 수량입력 창이 뜹니다.
+-스탬프 게시판의 회원 목록 옆의 \[삭제]버튼을 누르면 삭제할 수량입력 창이 뜹니다.
 
-\-삭제할 수량을 입력한 뒤 \[확인]을 누르면 해당 숫자만큼 스탬프가 삭제되요.
+-삭제할 수량을 입력한 뒤 \[확인]을 누르면 해당 숫자만큼 스탬프가 삭제되요.
 
-\-만약 스탬프를 초기할 경우는 스탬프 전체 수량을 입력하고 삭제하시면 됩니다.
+-만약 스탬프를 초기할 경우는 스탬프 전체 수량을 입력하고 삭제하시면 됩니다.
 
 <figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -362,11 +346,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 **앱에서는 스탬프 게시판이 어떻게 실행되고, 스탬프가 어떻게 추가되는지 확인해볼게요!!**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B0.png" alt=""></div>
 
 스탬프 게시판에는 <mark style="color:red;">QR코드와 회원번호가 사용자마다 랜덤으로 발행이 됩니다.</mark>
 
@@ -376,11 +356,7 @@ description: 게시판 관리 - 스탬프 UI 추가 및 스탬프 이용 전체�
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BF%A0%ED%8F%B04.png" alt=""></div>
 
 게시판기능 – 상세설정에서 입력한 사용방법 메시지 내용은 스탬프 화면 하단에 배치됩니다.
 

@@ -4,11 +4,7 @@
 
 조직 웹사이트 인증
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/조직인증5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/조직인증5.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 개요
 
@@ -32,10 +28,10 @@
 1. **웹사이트 호스팅 플랫폼을 사용하는 경우** [서비스 도움말 페이지를 검색](https://support.google.com/webmasters/answer/9008080#cms)하여 Search Console에서 사이트를 확인하는 방법을 알아보세요. DNS 제공업체를 모르는 경우 [DNS 제공업체 찾기 도움말](https://support.google.com/a/answer/48323)을 참고하세요. 제공업체의 페이지에서 맞춤 해결책을 찾지 못한 경우 다음 단계로 이동합니다.
 2. Search Console에서 속성의 [소유권 확인 페이지](https://search.google.com/search-console/ownership)에 있는 **도메인 이름 제공업체 방법을 선택**합니다. 도메인 속성을 만들면 이 방법이 자동으로 선택됩니다.
 3.
-   * **Search Console에서 TXT 레코드를 제공하는 경우** 아래의 _수동 도메인 이름 제공업체 안내 > TXT DNS 레코드 안내_를 따릅니다.
+   * **Search Console에서 TXT 레코드를 제공하는 경우** 아래의 _수동 도메인 이름 제공업체 안내 > TXT DNS 레코드 안&#xB0B4;_&#xB97C; 따릅니다.
    * **Search Console에서 도메인 이름 제공업체가 목록에 표시되면** 제공업체를 선택하고 **확인 시작**을 클릭한 다음 제공되는 안내를 따릅니다. 도메인 이름 제공업체에 로그인해야 하며, 로그인 후 즉시 확인이 진행됩니다.
    * **Search Console에 내가 소유하지 않은 도메인 이름 제공업체가 표시되면** 목록에서 **DNS 제공업체**를 선택하고 아래의 _수동 도메인 이름 제공업체_ 안내를 따릅니다.수동 도메인 이름 제공업체 안내
-4. Search Console 확인 세부정보 페이지에서 **확인**을 클릭하여 **소유권 확인을 완료**합니다. **중요:** 수동으로 설치된 레코드의 경우 제공업체에서 레코드를 제공하기 시작할 때까지 최대 2\~3일이 걸릴 수 있습니다. 위의 수동 도메인 이름 제공업체 안내를 따랐으나 확인하는 데 실패했다면 1\~2일 후 다시 시도하시기 바랍니다. 문제를 해결하거나 도메인 이름 제공업체의 레코드 제공 여부를 확인하는 방법은 [발생할 수 있는 오류 섹션](https://support.google.com/webmasters/answer/9008080#dns\_troubleshooting)을 참고하세요.
+4. Search Console 확인 세부정보 페이지에서 **확인**을 클릭하여 **소유권 확인을 완료**합니다. **중요:** 수동으로 설치된 레코드의 경우 제공업체에서 레코드를 제공하기 시작할 때까지 최대 2\~3일이 걸릴 수 있습니다. 위의 수동 도메인 이름 제공업체 안내를 따랐으나 확인하는 데 실패했다면 1\~2일 후 다시 시도하시기 바랍니다. 문제를 해결하거나 도메인 이름 제공업체의 레코드 제공 여부를 확인하는 방법은 [발생할 수 있는 오류 섹션](https://support.google.com/webmasters/answer/9008080#dns_troubleshooting)을 참고하세요.
 
 ## 소유권 확인 방법 선택
 

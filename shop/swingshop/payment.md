@@ -18,13 +18,13 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **쇼핑몰 결제모듈 확인하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%804_20.04.png)
 
 결제모듈은 스윙샵 신청 후 **\*앱운영 -스윙샵- 상점관리-결제모듈 관리**로 이동하시면 결제수단을 확인할 수 있어요.
 
 스윙(페이앱 전자결제), 무통장입금 기본으로 사용할 수 있습니다.
 
-\+대면결제(현금)도 새롭게 추가되었습니다.
++대면결제(현금)도 새롭게 추가되었습니다.
 
 그 외에 인앱결제, 카카오페이를 사용할 수 있는데요.
 
@@ -52,25 +52,13 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>)**1. 페이앱 전자결제**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886_20.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886_20.png" alt=""></div>
 
 페이앱 결제모듈 선택시, 페이앱 결제 화면으로 이동합니다.
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/결제모듈_22.08.png" alt=""></div>
 
-<img src="../../.gitbook/assets/결제모듈_22.08.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="../../.gitbook/assets/결제모듈2_22.08.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/결제모듈2_22.08.png" alt=""></div>
 
 페이앱은 다양한 결제 방식을 제공하고 있습니다.
 
@@ -78,11 +66,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%889_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%889_20.04.png" alt=""></div>
 
 앱에서 결제가 완료되면 앱 관리자에게도 구매알림이 들어옵니다.
 
@@ -94,11 +78,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **1)푸시 알림**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC.png" alt=""></div>
 
 **-앱으로는 관리자에게 구매알림 푸시가 들어옵니다.**
 
@@ -108,11 +88,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **2)메일 알림**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B5%AC%EB%A7%A4%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%95%8C%EB%A6%BC.png" alt=""></div>
 
 **-메일로도 알림이 들어옵니다.**
 
@@ -122,7 +98,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ​
 
-**해당 알림은 **<mark style="color:red;">**\*관리자 통합 알림**</mark>** : 쇼핑몰 알림에서 푸시 알림, 메일 알림이 모두 설정되어있다면 앱 관리자에게 구매알림이 들어옵니다.**
+**해당 알림은&#x20;**<mark style="color:red;">**\*관리자 통합 알림**</mark>**&#x20;: 쇼핑몰 알림에서 푸시 알림, 메일 알림이 모두 설정되어있다면 앱 관리자에게 구매알림이 들어옵니다.**
 
 통합 알림은 스윙투앱 앱운영에서 제공되는 메뉴로 앱 운영 관련 알림, 쇼핑몰 알림을 설정할 수 있는 페이지에요.
 
@@ -134,13 +110,9 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>)**2. 무통장입금 결제 화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887_20.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887_20.png" alt="">
-
-</div>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8810\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8810_20.04.png)
 
 결제수단 – 무통장입금을 선택 후, \[결제하기] 버튼을 선택하면 아래로 입금 계좌 정보가 나옵니다.
 
@@ -148,9 +120,9 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%888\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%888_20.04.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8813\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8813_20.04.png)
 
 앱에서 상품을 구매하는 사용자는 해당 계좌번호를 확인하여 입금을 진행할 수 있구요.
 
@@ -162,11 +134,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**관리자(앱 운영자)는 어떻게 무통장 입금 확인 요청 메일을 받을 수 있나요?**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8811_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8811_20.04.png" alt=""></div>
 
 관리자 통합 알림- 쇼핑몰 알림에서 메일 알림이 모두 설정되어있다면 앱 관리자에게 입금 확인 메일이 들어옵니다.
 
@@ -178,7 +146,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ### ![](<../../.gitbook/assets/image (2) (1).png>)**3. 대면결제(현금) 화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803_20.04.png)
 
 **대면결제(현장결제)는 2020.4월에 추가된 결제수단 방법이에요.**
 
@@ -194,17 +162,13 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**현장결제 화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%802_20.04.png" alt=""></div>
 
 상품 선택 후 구매하기 결제수단: \[현장결제]를 선택합니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%801\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%801_20.04.png)
 
 결제하기 화면이 뜨며, 금액 확인 후 \[결제하기] 버튼을 선택하면 주문이 완료됩니다.
 
@@ -216,19 +180,11 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 **1)푸시 알림**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8814_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8814_20.04.png" alt=""></div>
 
 **2)메일 알림**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8812_20.04.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%8812_20.04.png" alt=""></div>
 
 다른 결제 수단과 동일하게 앱 운영자(관리자)에게 **현장 구매 푸시 알림, 메일이 발송되요.**
 

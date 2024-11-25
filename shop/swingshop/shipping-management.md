@@ -20,7 +20,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC.png)
 
-스윙샵 신청후 [스윙샵 → 1)상점관리 → 2)배송관리 ](http://www.swing2app.co.kr/view/store\_info\_delivery\_setting)페이지로 이동합니다.
+스윙샵 신청후 [스윙샵 → 1)상점관리 → 2)배송관리 ](http://www.swing2app.co.kr/view/store_info_delivery_setting)페이지로 이동합니다.
 
 
 
@@ -62,17 +62,13 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 예) 배송 요청사항을 입력할 경우 입력 UI를 ‘문장입력’으로 체크하고 수정합니다.
 
-항목을 모두 추가했다면 **\[저장]**버튼을 눌러주세요.
+항목을 모두 추가했다면 **\[저장]**&#xBC84;튼을 눌러주세요.
 
 
 
 &#x20;<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC3.png" alt=""></div>
 
 위의 이미지에서 보시는 것과 같이 구매를 진행할 때 (결제 페이지 넘어가기 전 화면) 주문서 양식 페이지가 나타나구요.
 
@@ -102,11 +98,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 무료**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC1.png" alt=""></div>
 
 가격이 45,000원 상품을 결제할 때는 배송비가 없이 ‘0’으로 표시됩니다.
 
@@ -114,11 +106,7 @@ description: 상점관리에서 배송비 설정, 배송정보를 입력하는 �
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**배송비 포함**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC2.png" alt=""></div>
 
 3만원 미만인 25,000원 금액의 상품을 결제할 때는 위에서 설정해놓은 배송비 2,500원이 포함되어서 총합계가 계산됩니다.
 

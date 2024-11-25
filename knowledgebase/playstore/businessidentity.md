@@ -54,11 +54,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직2.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직2.PNG" alt=""><figcaption></figcaption></figure></div>
 
 1.\[업로드] 버튼을 선택해서 조직을 증명할 수 있는 서류를 제출합니다.
 
@@ -68,11 +64,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직3.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직3.PNG" alt=""><figcaption></figcaption></figure></div>
 
 본인(개인) 신원 정보 입력
 
@@ -88,11 +80,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직4.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직4.PNG" alt=""><figcaption></figcaption></figure></div>
 
 주소 입력
 
@@ -108,21 +96,13 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증7.png" alt=""><figcaption></figcaption></figure></div>
 
 13\) 인증번호 6자리 코드 입력 후 \[확인] 선택
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증8.png" alt=""><figcaption></figcaption></figure></div>
 
 14\)확인 선택합니다.
 
@@ -154,7 +134,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 <figure><img src="../../.gitbook/assets/웹사이트 인증.PNG" alt=""><figcaption></figcaption></figure>
 
-1\) **'Search Console'**인증 버튼을 선택해주세요.
+1\) **'Search Console'**&#xC778;증 버튼을 선택해주세요.
 
 등록된 소유자가 Search Console에서 요청을 승인하면 웹사이트가 인증됩니다.
 
@@ -170,11 +150,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직12.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직12.PNG" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="background-color:yellow;">**URL 접두어 항목**</mark>
 
@@ -184,11 +160,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직13.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직13.PNG" alt=""><figcaption></figcaption></figure></div>
 
 다른 확인방법에 보시면 첫번 줄에 '사이트 홈페이지에 메타태그 추가'방법이 있습니다.
 
@@ -202,11 +174,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직14.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직14.PNG" alt=""><figcaption></figcaption></figure></div>
 
 '소유권이 확인됨' 창이 뜹니다.
 
@@ -214,11 +182,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/조직15.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/조직15.PNG" alt=""><figcaption></figcaption></figure></div>
 
 7\)다시 \[개발자 계정- 내 정보]로 이동한 뒤 \[확인 요청 보내기]를 선택해주세요.
 

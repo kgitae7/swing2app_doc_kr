@@ -72,7 +72,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**1.개인정보처리방침 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15\_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C15_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4.png)
 
 앱에 제공하는 개인정보처리방침 링크를 입력합니다.
 
@@ -80,7 +80,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 스윙투앱 일반프로토타입(슬라이드,푸터, 탑 등)으로 제작한 분들은 스윙투앱에서 제공하는 이용약관 URL을 입력할 수 있습니다.
 
-**스윙투앱 사이트의** [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app\_setting)**을 수정하여 해당 링크를 넣어주세요**&#x20;
+**스윙투앱 사이트의** [**\[서비스이용약관\]**](http://www.swing2app.co.kr/view/app_setting)**을 수정하여 해당 링크를 넣어주세요**&#x20;
 
 (스윙투앱으로 제작한 앱에서만 적용 가능합니다)
 
@@ -94,15 +94,11 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**2.앱 액세스 권한**</mark>
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80_%EC%95%A1%EC%84%B8%EC%8A%A42.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80_%EC%95%A1%EC%84%B8%EC%8A%A42.png" alt="">
+-앱 내에 로그인 기능이 없다면(회원가입 포함) **“특수한 액세스 권한 없이 모든 기능 이용 가능”**&#xC5D0; 체크하면 완료!
 
-</div>
-
-\-앱 내에 로그인 기능이 없다면(회원가입 포함) **“특수한 액세스 권한 없이 모든 기능 이용 가능”**에 체크하면 완료!
-
-\-앱 내에 회원가입, 로그인 메뉴가 있다면 **“전체 또는 일부 기능이 제한됨”으로 체크한 뒤, \[+새 안내 추가]**를 선택합니다.
+-앱 내에 회원가입, 로그인 메뉴가 있다면 **“전체 또는 일부 기능이 제한됨”으로 체크한 뒤, \[+새 안내 추가]**&#xB97C; 선택합니다.
 
 <mark style="color:green;">\*\*웹사이트를 연결한 웹앱 – 푸시앱, 웹뷰앱 역시 해당 웹사이트에서 로그인 기능을 제공하고 있다면 동일하게 “전체 또는 일부 기능이 제한됨” 체크해주세요.</mark>
 
@@ -138,7 +134,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**3.광고**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C13\_%EA%B4%91%EA%B3%A0.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C13_%EA%B4%91%EA%B3%A0.png)
 
 앱 내에 광고가 있다면 “예, 앱에 광고가 있습니다” 체크
 
@@ -188,7 +184,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**5.타겟층 및 콘텐츠**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C16\_%ED%83%80%EC%BC%93%EC%97%B0%EB%A0%B9.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C16_%ED%83%80%EC%BC%93%EC%97%B0%EB%A0%B9.png)
 
 앱 대상 연령을 체크해주세요.
 
@@ -206,7 +202,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 **​**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C17\_%ED%83%80%EA%B2%9F%EC%99%84%EB%A3%8C.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C17_%ED%83%80%EA%B2%9F%EC%99%84%EB%A3%8C.png)
 
 \[저장] 완료
 
@@ -248,7 +244,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 제출하고자 하는 앱이 코로나 관련 앱인지 체크하는 항목이구요.
 
-**“공개된 코로나19 접촉자 추적 앱 또는 이력 앱이 아님”**에 체크하고 \[저장] 버튼을 선택합니다.
+**“공개된 코로나19 접촉자 추적 앱 또는 이력 앱이 아님”**&#xC5D0; 체크하고 \[저장] 버튼을 선택합니다.
 
 <mark style="color:red;">\*코로나 관련 앱은 구글 정책상 출시가 불가합니다.\_보건복지부, 질병예방본부와 같은 인증받은 국가기관에서만 본 앱을 출시할 수 있습니다.</mark>
 
@@ -294,11 +290,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**10.금융기능 (23.08 추가)**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글추가1 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글추가1 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 앱에서 제공하는 금융 기능을 선택하는 콘텐츠 항목입니다.&#x20;
 
@@ -306,11 +298,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글추가2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글추가2.png" alt=""><figcaption></figcaption></figure></div>
 
 "앱에서 금융 기능을 제공하지 않음"에 체크해주세요. (화면 가장 아래로 스크롤 하시면 있습니다)
 
@@ -334,19 +322,11 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 앱에서 사진(이미지) 영상 기능 권한이 필요한 이유를 제출하는 것입니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글0.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글0.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)\[선언 시작] 선택
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글2.png" alt=""><figcaption></figcaption></figure></div>
 
 2\)미디어 이미지 읽기: 앱에서 미디어 이미지 권한을 사용하는 방법을 설명하세요.
 
@@ -362,7 +342,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**앱 콘텐츠 입력 완료!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C21\_%EC%BB%A8%ED%85%90%EC%B8%A0%EC%99%84%EB%A3%8C.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C21_%EC%BB%A8%ED%85%90%EC%B8%A0%EC%99%84%EB%A3%8C.png)
 
 앱 콘텐츠 항목이 모두 초록색 불이 들어오고 상단에 ‘완료됨’으로 표시되면 완료된 것입니다.
 
@@ -370,7 +350,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 <mark style="color:purple;">**——대시보드로 이동해주세요.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C19\_%EC%B2%AB%EB%8B%A8%EA%B3%84%EC%99%84%EB%A3%8C%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C19_%EC%B2%AB%EB%8B%A8%EA%B3%84%EC%99%84%EB%A3%8C%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png)
 
 단계별 입력이 완료되면, 완료로 체크됩니다.
 
@@ -384,7 +364,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18\_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
 
 1\)앱 선택
 
@@ -410,7 +390,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**2.기본 스토어 등록정보 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D-39\_-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D%EC%A0%95%EB%B3%B41-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D-39_-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D%EC%A0%95%EB%B3%B41-1.png)
 
 1\) 앱 이름 입력 (플레이스토어에 표시되는 앱 이름)
 
@@ -508,11 +488,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글신규8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글신규8.png" alt=""><figcaption></figcaption></figure></div>
 
 App Bundle \[서명 키 선택] → \[Google에서 생성한 키 사용]에 체크합니다.
 
@@ -524,7 +500,7 @@ App Bundle \[서명 키 선택] → \[Google에서 생성한 키 사용]에 체�
 
 업로드 버튼을 선택한 뒤, 스윙투앱에서 제작완료한 AAB 파일을 해당 화면으로 업로드 해주세요.
 
-파일 업로드가 완료되면, **화면 하단의 **<mark style="color:green;">**\[저장]**</mark>**버튼 선택 → **<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
+파일 업로드가 완료되면, **화면 하단의&#x20;**<mark style="color:green;">**\[저장]**</mark>**버튼 선택 →&#x20;**<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
 
 **AAB파일을 가져오는 방법은 아래에서 확인 가능합니다.**&#x20;
 
@@ -533,7 +509,7 @@ App Bundle \[서명 키 선택] → \[Google에서 생성한 키 사용]에 체�
 
 AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB파일을 이곳에 첨부하면 되구요.
 
-[**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
+[**스윙투앱 홈페이지 → 앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app_work_history) **페이지**에서 AAB파일을 직접 다운받을 수 있습니다.
 
 \*AAB파일은 유료버전앱에서만 다운 가능하며 무료버전앱에서는 제공되지 않습니다.&#x20;
 
@@ -544,7 +520,7 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
 
-앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app\_work\_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
+앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app_work_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
 
 \[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
 
@@ -642,7 +618,7 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 심사에서 문제가 없으면 해당 심사 기간 후 출시됩니다
 
-심사가 통과되어 정상적으로 승인이 완료되면, 해당 앱의 상태는 **‘출시됨’**으로 변경됩니다.
+심사가 통과되어 정상적으로 승인이 완료되면, 해당 앱의 상태는 **‘출시됨’**&#xC73C;로 변경됩니다.
 
 만약 심사가 거절될 경우, 거절 사유가 사용자의 구글 개발자 메일로 발송되오니 메일을 꼭 확인해주세요!
 

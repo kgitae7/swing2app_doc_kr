@@ -38,11 +38,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 ### <mark style="color:blue;">1)스윙투앱 브라우저 앱 설치</mark>
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/브라우저1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/브라우저1.png" alt=""><figcaption></figcaption></figure></div>
 
 안드로이드폰은 플레이스토어, 아이폰은 앱스토어에서 검색 후 다운 받아 주세요
 
@@ -56,11 +52,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 ### <mark style="color:blue;">2)어플 실행</mark>
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/브라우저2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/브라우저2.png" alt=""><figcaption></figcaption></figure></div>
 
 앱 실행 후 웹사이트 URL입력란에 앱으로 적용할 홈페이지 주소를 입력해주세요.
 
@@ -70,11 +62,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 ### <mark style="color:blue;">3)웹사이트 링크 입력 및 열기</mark>
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/브라우저3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/브라우저3.png" alt=""><figcaption></figcaption></figure></div>
 
 해당 매뉴얼에서는 스윙투앱 홈페이지 주소를 입력했습니다.&#x20;
 
@@ -86,11 +74,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 ### <mark style="color:blue;">4)웹앱 미리보기 확인</mark>&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/브라우저4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/브라우저4.png" alt=""><figcaption></figcaption></figure></div>
 
 입력한 웹사이트로 연결되며, 웹앱 미리보기 확인이 가능합니다.
 
@@ -112,7 +96,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 웹 미리보기(웹 가상머신)화면에 연결된 웹이 정상적으로 뜨지 않을 경우&#x20;
 
-(1)가상머신 화면에 기재된 **\[앱에서 미리보기]**를 선택해주세요.
+(1)가상머신 화면에 기재된 **\[앱에서 미리보기]**&#xB97C; 선택해주세요.
 
 (2)QR코드가 화면에 생성이 됩니다.&#x20;
 
@@ -120,11 +104,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 ### <mark style="color:blue;">2)QR코드 촬영</mark>
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/IMG-1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/IMG-1.png" alt=""><figcaption></figcaption></figure></div>
 
 아이이폰 혹은 안드로이드폰 카메라로 QR코드를 촬영합니다.
 
@@ -132,11 +112,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 ### <mark style="color:blue;">3)브러우저 어플 연결</mark>&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/IMG-2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/IMG-2.png" alt=""><figcaption></figcaption></figure></div>
 
 스윙투앱 브라우저 어플로 연결되며, 앱 미리보기에서 연결된 웹사이트를 확인할 수 있습니다.
 

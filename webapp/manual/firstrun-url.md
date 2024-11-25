@@ -32,7 +32,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 ![](../../.gitbook/assets/최초실행주소1.png)
 
-최초 실행 주소는 웹뷰앱, 푸시앱에서만 이용 가능하구요**.**
+최초 실행 주소는 웹뷰앱, 푸시앱에서만 이용 가능하구&#xC694;**.**
 
 **STEP3 페이지 단계에서 최초 실행 주소 설정 옵션을 확인할 수 있습니다.**
 
@@ -62,7 +62,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**앱 확인\_ 최초 실행 주소 움짤 영상 확인하기**
 
-&#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94\_2022\_06\_16\_15\_52\_04\_616.gif)
+&#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94_2022_06_16_15_52_04_616.gif)
 
 최초 실행 주소를 적용한 뒤 앱을 설치 후 실행한 화면입니다.
 
@@ -72,7 +72,7 @@ description: 웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용�
 
 #### <mark style="color:blue;">**앱 종료 후, 재실행한 화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94\_2022\_06\_16\_16\_10\_48\_11.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94_2022_06_16_16_10_48_11.gif)
 
 그리고 앱 종료 후 다시 앱을 실행하면, 원래 웹뷰앱에 적용한 웹사이트이죠,
 

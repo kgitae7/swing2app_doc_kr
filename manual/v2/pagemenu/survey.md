@@ -1,6 +1,6 @@
 # 스윙페이지 - 설문조사
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%A0%9C%EB%AA%A9\_19.06.27.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%A0%9C%EB%AA%A9_19.06.27.png)
 
 **스윙 페이지에서 제공하는 – 설문조사 기능**
 
@@ -26,7 +26,7 @@
 
 <mark style="color:orange;">**2. 기본 정보 입력**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B82\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B82_1.png)
 
 가장 먼저 설문조사관리 페이지에서 설문에 필요한 기본 정보를 입력해주세요\~!!
 
@@ -48,7 +48,7 @@
 
 <mark style="color:orange;">**3. 설문조사 항목 입력**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B83\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B83_1.png)
 
 ​​1) 질문내용: 설문지에 들어갈 질문을 입력합니다.
 
@@ -66,7 +66,7 @@
 
 <mark style="color:orange;">**4. 설문지 작성 완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B86\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B86_1.png)
 
 설문지 기본 설정 및 내용입력이 모두 완료되면 ‘저장하기‘를 눌러주세요.
 
@@ -150,7 +150,7 @@
 
 
 
-<mark style="background-color:blue;">**▶**</mark>** 설문조사지 만들기**
+<mark style="background-color:blue;">**▶**</mark>**&#x20;설문조사지 만들기**
 
 [앱운영 페이지 → 서비스관리 →설문관리](http://www.swing2app.co.kr/view/survey) → \[설문 추가] 버튼을 선택 → 설문조사명, 설문기간 설정 후 → \[새 설문항목 추가] 버튼을 눌러서 질문 및 답변 항목을 입력해주시면 됩니다.
 

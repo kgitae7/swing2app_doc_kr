@@ -26,7 +26,7 @@
 
 <summary><strong>스윙샵(스윙쇼핑몰)은 어떻게 신청하나요?</strong></summary>
 
-스윙 쇼핑몰은 **앱운영페이지 → 내메뉴 → ‘쇼핑몰(결제시스템)신청’**에서 신청하실 수 있습니다.
+스윙 쇼핑몰은 **앱운영페이지 → 내메뉴 → ‘쇼핑몰(결제시스템)신청’**&#xC5D0;서 신청하실 수 있습니다.
 
 쇼핑몰서비스 \[결제모듈은] 사용/미사용을 선택해서 적용합니다.
 
@@ -40,7 +40,7 @@
 
 **☞** [**스윙샵 신청방법 상세보기**](https://documentation.swing2app.co.kr/shop/swingshop/apply)
 
-**☞** [**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
+**☞** [**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing_shop_apply)
 
 </details>
 
@@ -79,7 +79,7 @@
 스윙쇼핑몰은 앱운영페이지>내메뉴> ‘쇼핑몰(결제시스템)신청’에서 신청하실 수 있습니다.\
 쇼핑몰서비스-결제모듈은 사용/미사용을 선택해서 적용합니다.\
 \
-[**\[쇼핑몰 서비스 신청하러가기\]**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
+[**\[쇼핑몰 서비스 신청하러가기\]**](http://www.swing2app.co.kr/view/swing_shop_apply)
 
 </details>
 
@@ -157,9 +157,9 @@
 
 따라서 디지털상품을 적용한 앱을 출시할 계획이라면 페이앱과 같은 전자결제시스템을 적용하는 것이 아니라 애플과 구글에서 제공하는 인앱 결제모듈을 따로 앱에 개발하여 적용해야 합니다.
 
-\-인앱 상담은 [문의 게시판](http://www.swing2app.co.kr/view/service\_qa), 업무시간 중은 실시간 채팅을 이용해주시기 바랍니다.
+-인앱 상담은 [문의 게시판](http://www.swing2app.co.kr/view/service_qa), 업무시간 중은 실시간 채팅을 이용해주시기 바랍니다.
 
-\-인앱은 개발작업이 필요하며 앱 내부 볼륨에 따라 개발 비용은 달라집니다. 상담 후 비용 안내가 가능합니다.
+-인앱은 개발작업이 필요하며 앱 내부 볼륨에 따라 개발 비용은 달라집니다. 상담 후 비용 안내가 가능합니다.
 
 </details>
 
@@ -171,7 +171,7 @@
 
 그러나 **페이앱을 신청하실 때에는(실제 결제모듈을 적용) 유료버전앱만 신청이 가능합니다.**
 
-즉 결제서비스를 ‘미사용’으로 체크할 때에는 무료버전도 모두 이용이 가능하며**, ‘사용’으로 체크할 때에는 유료버전앱만 신청이 가능합니다.**
+즉 결제서비스를 ‘미사용’으로 체크할 때에는 무료버전도 모두 이용이 가능하&#xBA70;**, ‘사용’으로 체크할 때에는 유료버전앱만 신청이 가능합니다.**
 
 결제서비스(페이앱 신청)를 사용 할 경우는 상용화를 진행하는 것이므로, 유료버전 앱에서만 적용이 가능하구요.
 
@@ -205,11 +205,11 @@
 
 스윙투앱은 전자결제 서비스 대행사인 페이앱(PayApp)과 제휴하고 있기 때문에 페이앱 홈페이지로 접속하여 판매점으로 가입을 진행해주셔야 합니다.
 
-\-페이앱 홈페이지 [https://www.payapp.kr/](https://www.payapp.kr/)
+-페이앱 홈페이지 [https://www.payapp.kr/](https://www.payapp.kr/)
 
-\-가입 안내  [https://www.payapp.kr/homepage/guide/guide2.html](https://www.payapp.kr/homepage/guide/guide2.html)
+-가입 안내  [https://www.payapp.kr/homepage/guide/guide2.html](https://www.payapp.kr/homepage/guide/guide2.html)
 
-\-제출서류 [https://www.payapp.kr/homepage/guide/guide3.html](https://www.payapp.kr/homepage/guide/guide3.html)
+-제출서류 [https://www.payapp.kr/homepage/guide/guide3.html](https://www.payapp.kr/homepage/guide/guide3.html)
 
 위의 가입 안내 및 제출서류를 확인하여 페이앱에 직접 가입을 진행해주시기 바랍니다.
 
@@ -298,7 +298,7 @@
 **2) 도박, 불법 거래**
 
 **3) 결제 시 구매자와 판매자가 다이렉트로 연결된 형태가 아닌, 중간 매매업자가 있는 경우**\
-**(중간에서 수수료를 떼고 판매자에게 남은 금액 제공)**&#x20;
+&#xNAN;**(중간에서 수수료를 떼고 판매자에게 남은 금액 제공)**&#x20;
 
 **4) 업종 확인이 어려운 경우(상품 확인 불가, 실제 거래 경로 확인 불가, 후원, 펀딩, 모금 등)**
 

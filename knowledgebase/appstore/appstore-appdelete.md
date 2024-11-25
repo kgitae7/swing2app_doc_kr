@@ -50,15 +50,15 @@
 
 ### <mark style="color:blue;">**STEP.3 가격 및 사용가능 여부 선택**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C3\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C3_886.png)
 
-왼쪽 카테고리에서 **\[가격 및 사용가능 여부]**메뉴를 선택해주세요.
+왼쪽 카테고리에서 **\[가격 및 사용가능 여부]**&#xBA54;뉴를 선택해주세요.
 
 ***
 
 ### <mark style="color:blue;">**STEP.4  \[판매 중단] 선택 후 저장**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C3\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C3_886.png)
 
 사용 가능 여부에 보시면 출시가 된 앱은 ‘모든 국가 및 지역이 선택됨’에 체크가 되어 있을거에요.
 

@@ -32,11 +32,7 @@ description: 앱 관리자 메뉴 이용 방법, 관리자 메뉴에서 제공�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B41-515x1024.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B41-515x1024.png" alt="" width="375"></div>
 
 <mark style="color:purple;">**앱 실행 후 \[설정]  → \[관리자 로그인] → \[스윙투앱 가입 계정 로그인] → 관리자 메뉴가 생성됩니다.**</mark>&#x20;
 
@@ -54,9 +50,9 @@ description: 앱 관리자 메뉴 이용 방법, 관리자 메뉴에서 제공�
 
 1\)앱 회원 가입 후&#x20;
 
-2\)회원조회 페이지 이동 [앱 운영 → 푸시 & 회원 → 회원조회](http://www.swing2app.co.kr/view/member\_list)
+2\)회원조회 페이지 이동 [앱 운영 → 푸시 & 회원 → 회원조회](http://www.swing2app.co.kr/view/member_list)
 
-3\)회원 선택 후 그룹을 **‘관리자’**로 변경
+3\)회원 선택 후 그룹을 **‘관리자’**&#xB85C; 변경
 
 4\)앱 실행 → 로그인 후 → 앱 설정  → 관리자 메뉴 선택시 관리자 로그인에서 제공되는 메뉴 동일하게 이용 가능합니다.
 
@@ -90,11 +86,7 @@ description: 앱 관리자 메뉴 이용 방법, 관리자 메뉴에서 제공�
 
 ### <mark style="color:blue;">**2) 스탬프 등록하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1_%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%8A%A4%ED%83%AC%ED%94%842.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1_%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%8A%A4%ED%83%AC%ED%94%842.png" alt=""></div>
 
 관리자메뉴에는 QR코드 스캐너가 내장되어 있기 때문에 , 사용자의 스탬프의 QR코드를 스캔하여 스탬프를 추가할 수 있습니다.
 
@@ -102,11 +94,7 @@ description: 앱 관리자 메뉴 이용 방법, 관리자 메뉴에서 제공�
 
 ### <mark style="color:blue;">**3) 쿠폰 사용 처리하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B4%80%EB%A6%AC%EC%9E%90%EB%A9%94%EB%89%B4-%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9.png" alt=""></div>
 
 관리자메뉴에서 사용자에게 발송된 쿠폰번호를 입력하여 쿠폰은 사용처리할 수 있습니다.&#x20;
 
@@ -126,7 +114,7 @@ description: 앱 관리자 메뉴 이용 방법, 관리자 메뉴에서 제공�
 
 모든 기능은 스윙투앱 사이트(홈페이지)에서 동일하게 이용할 수 있습니다.&#x20;
 
-\-QR코드로 스캔하는 기능은 앱에 내장된 리더기로 이용해야 하기 때문에 앱에서만 가능합니다.&#x20;
+-QR코드로 스캔하는 기능은 앱에 내장된 리더기로 이용해야 하기 때문에 앱에서만 가능합니다.&#x20;
 
-\-사이트에서 스탬프 추가시 스탬프 번호를 입력하여 사용처리해주세요.&#x20;
+-사이트에서 스탬프 추가시 스탬프 번호를 입력하여 사용처리해주세요.&#x20;
 

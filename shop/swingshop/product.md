@@ -4,7 +4,7 @@ description: 쇼핑몰 앱에서 구성할 수 있는 판매 상품 유형 안�
 
 # 스윙샵 상품유형
 
-​**\[스윙샵에서 제공하는 상품유형]**
+&#x200B;**\[스윙샵에서 제공하는 상품유형]**
 
 **1. 실물상품**
 
@@ -34,25 +34,17 @@ description: 쇼핑몰 앱에서 구성할 수 있는 판매 상품 유형 안�
 
 <mark style="color:orange;">**Q. 상품 유형은 어디에서 선택할 수 있나요?**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EC%83%81%ED%92%88%EC%9C%A0%ED%98%95.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EC%83%81%ED%92%88%EC%9C%A0%ED%98%95.png" alt=""></div>
 
 상품유형은 스윙샵을 먼저 신청해주시구요.
 
-[**앱운영 페이지 → 스윙샵 → 상품관리**](http://www.swing2app.co.kr/view/store\_product\_management)**로 이동하시면, \*상품유형에서 – 실물, 디지털, 예약시스템 중에서 선택할 수 있습니다.**
+[**앱운영 페이지 → 스윙샵 → 상품관리**](http://www.swing2app.co.kr/view/store_product_management)**로 이동하시면, \*상품유형에서 – 실물, 디지털, 예약시스템 중에서 선택할 수 있습니다.**
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### <mark style="color:blue;">1. 실물상품</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88.jpg" alt=""></div>
 
 쇼핑몰 앱에서 가장 많이 활용되는 실물 상품 유형입니다.&#x20;
 
@@ -64,11 +56,7 @@ description: 쇼핑몰 앱에서 구성할 수 있는 판매 상품 유형 안�
 
 ### <mark style="color:blue;">**2. 디지털상품 – 권한변경**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%81%ED%92%88.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%81%ED%92%88.jpg" alt=""></div>
 
 **특정 등급 권한을 판매하는 상품 유형입니다.**
 
@@ -80,11 +68,7 @@ description: 쇼핑몰 앱에서 구성할 수 있는 판매 상품 유형 안�
 
 ### <mark style="color:blue;">3.디지털상품 – PDF 파일 판매</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%81%ED%92%882.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%81%ED%92%882.png" alt=""></div>
 
 **디지털 제품 – PDF 파일을 올려서 판매할 수 있습니다.**
 
@@ -96,11 +80,7 @@ PDF 파일을 구매하면 앱에서 직접 확인할 수 있으며, 외부앱�
 
 ### <mark style="color:blue;">**4. 디지털상품 – 영상 및 파일**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%81%ED%92%883.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/07/%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%81%ED%92%883.jpg" alt=""></div>
 
 **영상, 문서 파일을 첨부하여 앱에서 판매할 수 있습니다.**
 

@@ -24,13 +24,9 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 <mark style="color:blue;">**앱 실행화면 – 지도게시판**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90\_8.13.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90_8.13.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt=""></div>
 
 앱 실행화면을 통해서 지도게시판이 어떻게 보여지는지 확인해주시구요.
 
@@ -44,7 +40,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90NEW3.png)
 
-[앱운영 페이지 → 서비스관리 ](http://www.swing2app.co.kr/view/board\_edit)→ 게시판 관리 로 이동합니다.
+[앱운영 페이지 → 서비스관리 ](http://www.swing2app.co.kr/view/board_edit)→ 게시판 관리 로 이동합니다.
 
 
 
@@ -56,7 +52,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 ### <mark style="color:blue;">**1.기본설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D\_19.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D_19.png)
 
 1\)게시판 및 기능 이름 : 게시판 이름을 작성합니다.
 
@@ -81,11 +77,11 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 {% hint style="info" %}
 **지도게시판은 기능설명 문구는 입력하지 않습니다.**
 
-\+지도를 볼 수 있는 권한을 설정해야 할 경우(옵션 추가) **서비스용도에서 ‘사용자 정의’를 선택하면 고정된 회색 영역이 풀려요.**
++지도를 볼 수 있는 권한을 설정해야 할 경우(옵션 추가) **서비스용도에서 ‘사용자 정의’를 선택하면 고정된 회색 영역이 풀려요.**
 
-\+UI 및 기능선택에 ‘위치등록’을 선택한 뒤 권한 설정, 지정권한 허용 등의 옵션을 이용해주시면 되겠습니다.
++UI 및 기능선택에 ‘위치등록’을 선택한 뒤 권한 설정, 지정권한 허용 등의 옵션을 이용해주시면 되겠습니다.
 
-\+위치등록 밑에 보이는 **위치등록(구글맵)은 구글지도를 연동하는 지도게시판이에요.**
++위치등록 밑에 보이는 **위치등록(구글맵)은 구글지도를 연동하는 지도게시판이에요.**
 
 해외 주소를 사용하여 지도게시판을 만들어야 할 경우 위치등록(구글맵)을 이용해주세요\~
 {% endhint %}
@@ -167,7 +163,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 지도 게시판은 이렇게 주소 및 키워드로 위치를 추가할 수 있구요.\
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D4\_19.10.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D4_19.10.png)
 
 **등록된 주소지를 선택하면 위치 수정 및 삭제가 가능합니다.**
 
@@ -262,11 +258,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 <mark style="color:green;">**Q.지도 게시판에 나오는 버튼은 어떻게 수정하나요?**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/지도게시판버튼변경.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/지도게시판버튼변경.png" alt=""><figcaption></figcaption></figure></div>
 
 위치등록 게시판에서 제공되는 버튼이름\[전화걸기, 길안내, 링크, 사진보기]을 원하는 메뉴명(텍스트)으로 수정하여 이용할 수 있습니다.
 
@@ -280,7 +272,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 <figure><img src="../../../.gitbook/assets/20241224 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-1\)[앱운영-서비스관리-앱 운영관리-앱 문자열 관리](https://www.swing2app.co.kr/view/app\_resourecs\_manager) 이동
+1\)[앱운영-서비스관리-앱 운영관리-앱 문자열 관리](https://www.swing2app.co.kr/view/app_resourecs_manager) 이동
 
 2\)키보드 Control+F 버튼 선택하여, 단어를 검색해주세요.&#x20;
 
@@ -314,15 +306,11 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%94%94%EC%9E%90%EC%9D%B8%EB%B3%80%EA%B2%BD.png)
 
-지도게시판은 **\[리스트 열기]**를 선택하여 적용된 위치등록 목록을 확인할 수 있어요.
+지도게시판은 **\[리스트 열기]**&#xB97C; 선택하여 적용된 위치등록 목록을 확인할 수 있어요.
 
 여러 위치를 등록했다면,리스트에서 등록한 위치 목록을 확인할 수 있습니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt=""></div>
 
 **\[전화걸기] 버튼을 선택하면 입력된 전화번호로 바로 전화연결이 됩니다.**
 

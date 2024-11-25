@@ -104,15 +104,15 @@ com.hustay.\~ 로 시작하는 값이 패키지 아이디이며, 원스토어에
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 기본정보**
 
-항목 중 <mark style="color:red;">**\***</mark> 표시된 항목은 필수 입력 정보이기 때문에 입력해주시구요. 그외 항목은 해당 될 경우만 입력해주세요**.**
+항목 중 <mark style="color:red;">**\***</mark> 표시된 항목은 필수 입력 정보이기 때문에 입력해주시구요. 그외 항목은 해당 될 경우만 입력해주세&#xC694;**.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B41-1.png)
 
 1\)외부결제 사용: 사용안함으로 고정셋팅됩니다.
 
-\-앱 내에 결제모듈(쇼핑몰처럼 결제할 수 있는 기능)이 있는지를 물어보는 항목입니다.
+-앱 내에 결제모듈(쇼핑몰처럼 결제할 수 있는 기능)이 있는지를 물어보는 항목입니다.
 
-\-결제가 있을 경우 ‘사용’을 체크해주세요.
+-결제가 있을 경우 ‘사용’을 체크해주세요.
 
 2\)검색용 상품제목: 출시되는 앱 이름이며 해당 이름은 네이버에서도 검색어로 활용됩니다.
 
@@ -176,7 +176,7 @@ Goole Play 패키지 네임은 **위의 이미지처럼, 구글 플레이스토�
 
 **\[개인정보 취급방침 URL 가져오기]**
 
-스윙 [앱운영페이지 → 서비스관리 → 정책관리 → 앱 가입 정책](http://www.swing2app.co.kr/view/app\_setting)으로 이동해주세요.
+스윙 [앱운영페이지 → 서비스관리 → 정책관리 → 앱 가입 정책](http://www.swing2app.co.kr/view/app_setting)으로 이동해주세요.
 
 여기에서 서비스 이용약관은 확인할 수 있구요.
 
@@ -320,7 +320,7 @@ APK파일을 등록할 경우
 
 (결제 후 앱제작에서 \[앱 업데이트] 버튼만 눌러주시면 됩니다.)
 
-앱제작이 완료된 후 [앱운영- 버전관리 – 앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history) 페이지로 이동합니다.
+앱제작이 완료된 후 [앱운영- 버전관리 – 앱제작이력](http://www.swing2app.co.kr/view/app_work_history) 페이지로 이동합니다.
 
 &#x20;
 
@@ -364,7 +364,7 @@ APK파일을 등록할 경우
 
 **\*판매 옵션: 검증완료시 앱을 스토어에 바로 출시할 것인지를 선택할 수 있어요.**
 
-바로 출시하길 원한다면, **‘즉시 적용’**을 선택해주세요.
+바로 출시하길 원한다면, **‘즉시 적용’**&#xC744; 선택해주세요.
 
 그 외에 다른 옵션을 선택하셔도 됩니다.
 
@@ -396,17 +396,9 @@ APK파일을 등록할 경우
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.9 원스토어에 출시된 앱 확인하기**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B418.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B418.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B417.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%90%EC%8A%A4%ED%86%A0%EC%96%B417.png" alt=""></div>
 
 **원스토어 어플을 실행 한 뒤, 앱 검색창에 등록한 앱이름을 검색하면 어플이 조회됩니다.**
 

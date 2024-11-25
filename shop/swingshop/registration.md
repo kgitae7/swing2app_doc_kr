@@ -8,11 +8,11 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 스윙에서는 상품 유형을 – 실물, 디지털, 예약 시스템으로 제공하고 있습니다.
 
-\-실물상품은 일반적으로 쇼핑몰에서 판매하는 제품들이구요.
+-실물상품은 일반적으로 쇼핑몰에서 판매하는 제품들이구요.
 
-\-디지털은 문서, PDF파일, 영상, 관리자 권한 등이 있습니다.
+-디지털은 문서, PDF파일, 영상, 관리자 권한 등이 있습니다.
 
-\-예약시스템은 호텔, 캠핑장, 게스트 하우스 등의 숙박시설 예약시스템과&#x20;
+-예약시스템은 호텔, 캠핑장, 게스트 하우스 등의 숙박시설 예약시스템과&#x20;
 
 날짜+시간을 예약할 수 있는 미용실, 레스토랑 등의 예약 시스템을 이용할 수 있습니다.&#x20;
 
@@ -30,17 +30,17 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_19.09.png)
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
 <mark style="color:red;">\*상품을 등록하는 것이 아니라 상품을 포함하는 상단 메뉴인 카테고리를 먼저 만들어주셔야 합니다\~!</mark>
 
-[스윙샵 → 상품관리→ 상품카테고리 등록관리](http://www.swing2app.co.kr/view/store\_product\_category) 메뉴로 이동합니다.
+[스윙샵 → 상품관리→ 상품카테고리 등록관리](http://www.swing2app.co.kr/view/store_product_category) 메뉴로 이동합니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2_19.09.png)
 
 상품카테고리 등록관리 화면에 있는 1)\[등록하기] 버튼을 선택해주세요.
 
@@ -52,7 +52,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3_19.09.png)
 
 카테고리 등록이 완료되었습니다.
 
@@ -66,13 +66,13 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 카테고리 등록이 끝났다면! 본격적으로 상품을 등록해볼게요&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5_19.09.png)
 
-[스윙샵 → 상품관리 → 상품등록 화면](http://www.swing2app.co.kr/view/store\_product\_management)으로 이동해주세요.
+[스윙샵 → 상품관리 → 상품등록 화면](http://www.swing2app.co.kr/view/store_product_management)으로 이동해주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D6\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D6_19.09.png)
 
 1\. 상품유형: ‘실물’을 선택합니다.
 
@@ -98,11 +98,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 9\. 상품 수령방법 선택: 앱 사용자가 상품 구매시 수령을 ‘택배배송’으로 할지 ‘직접 수령’ , ‘선택사항’으로 할지 설정해주세요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%843.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%843.png" alt=""></div>
 
 9\. 상품별 결제수단: 통장입금, PAY APP(페이앱)카드결제를 체크해주세요.
 
@@ -112,17 +108,13 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 <mark style="color:red;">\*할인금액은 할인이 된 최종 금액을 입력해주셔야 합니다.</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%844.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%844.png" alt=""></div>
 
 11\. 재고 관리 사용: 상품 재고관리를 사용할 것인지 체크합니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D7_19.09.png)
 
 12\. 옵션사용여부: 상품에 추가로 옵션상품을 기재할 경우 사용하실 수 있어요
 
@@ -142,7 +134,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D8\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D8_19.09.png)
 
 15\. 상품 상세 이미지: 상품 이미지를 등록합니다. 여러장의 이미지 등록이 가능하고 순서 변경이 가능합니다.
 
@@ -156,7 +148,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 **—상품 등록이 완료되었구요. 등록된 상품은 상품 조회에서 확인할 수 있어요.—**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D4\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D4_19.09.png)
 
 상품조회 메뉴에서 등록한 상품 목록을 모두 확인할 수 있구요.
 
@@ -222,11 +214,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 **\[앱 실행화면]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D12_19.09.png" alt=""></div>
 
 앱을 실행하면 홈화면에 쇼핑몰 메인페이지가 뜨구요.
 
@@ -294,11 +282,7 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 **\[앱 실행화면]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D13_19.09.png" alt=""></div>
 
 상품 카테고리는 해당 카테고리가 메뉴에 구성이 되는 스타일이구요.
 
@@ -360,23 +344,15 @@ description: 스윙샵 실물 상품 등록 후 상품을 앱에 적용하는 �
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png" alt=""></div>
 
 **\[앱 실행화면]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D14_19.09.png" alt=""></div>
 
 카테고리 리스트는 앱에 등록된 모든 카테고리 목록이 한 화면에 표시되는 스타일이에요.&#x20;
 
 카테고리를 선택하면 위에 소개해드린 카테고리별 상품 화면으로 이동하구요.
 
-동일하게 상품을 선택하면 구매 페이지로 이동합니다**.**
+동일하게 상품을 선택하면 구매 페이지로 이동합니&#xB2E4;**.**
 

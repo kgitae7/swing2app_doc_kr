@@ -16,7 +16,7 @@
 
 <mark style="color:blue;">★</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**앱 메인 디자인 스타일 이용방법**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_09.png)
 
 앱 메인 디자인 스타일은 **디자인테마 단계**에서 확인할 수 있습니다.
 
@@ -28,9 +28,9 @@
 
 <mark style="color:blue;">**1. 앱 메인 디자인 스타일 – 기본**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_10.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_10.png)
 
-**\[기본]**으로 체크를 하면 다른 스타일이 입혀지지 않고, 디자인테마에서 설정한 스타일 그대로 셋팅이 되어 제작됩니다.
+**\[기본]**&#xC73C;로 체크를 하면 다른 스타일이 입혀지지 않고, 디자인테마에서 설정한 스타일 그대로 셋팅이 되어 제작됩니다.
 
 기본스타일로 제작을 하고 싶다면 ‘기본’에 체크를 해주세요.
 
@@ -38,7 +38,7 @@
 
 <mark style="color:blue;">**2. 앱 메인 디자인 스타일 – 이미지 기반**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_11.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_11.png)
 
 \[이미지 기반]을 선택하면, 배경 이미지를 등록할 수 있습니다.
 
@@ -56,7 +56,7 @@
 
 <mark style="color:orange;">(예시 이미지: 아래 이미지와 같은 배경이미지를 넣어주세요)</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/bank-2547356\_1920-1024x653.jpg)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/bank-2547356_1920-1024x653.jpg)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-4.png)
 
@@ -80,7 +80,7 @@
 
 <mark style="color:blue;">**3. 앱 메인 디자인 스타일 – 이미지 기반 + 배경마스크**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_12.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_12.png)
 
 위에서 선택한 이미지에 배경마스크를 추가로 적용해볼게요.
 
@@ -104,9 +104,9 @@
 
 <mark style="color:blue;">**4. 앱 메인 디자인 스타일 – 투명**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_13.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_13.png)
 
-**\[투명]**으로 선택할 경우, 상단의 네비게이션이 투명으로 되어서 적용해놓은 웹템플릿이 하나의 메인 페이지로 보이게 됩니다.
+**\[투명]**&#xC73C;로 선택할 경우, 상단의 네비게이션이 투명으로 되어서 적용해놓은 웹템플릿이 하나의 메인 페이지로 보이게 됩니다.
 
 그리고 메뉴를 열면 메뉴 역시, 기존에 설정한 디자인색상 (파란 색상)에 투명 음영이 적용되어서 뒷 배경이 보이는 것을 확인할 수 있어요.
 

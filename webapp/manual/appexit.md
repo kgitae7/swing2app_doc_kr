@@ -22,11 +22,7 @@ description: 웹뷰앱, 푸시앱에 앱 종료 알림 메시지 띄우는 방�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**2.이용방법**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/앱종료-메시지-이용 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/앱종료-메시지-이용 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 앱제작 화면 이동 합니다.
 
@@ -44,13 +40,9 @@ description: 웹뷰앱, 푸시앱에 앱 종료 알림 메시지 띄우는 방�
 
 <figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**3.**앱 적용 화면
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**3.**&#xC571; 적용 화면
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/앱종료메시지업데이트(폰).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/앱종료메시지업데이트(폰).png" alt=""><figcaption></figcaption></figure></div>
 
 앱 종료 메시지 표시를 사용할 경우,&#x20;
 

@@ -14,11 +14,7 @@
 
 <mark style="color:blue;">**플레이스토어 자동 업데이트 설정 방법**</mark>
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/5752cc9692c8ad19189c21a86437fc51.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/5752cc9692c8ad19189c21a86437fc51.png" alt=""></div>
 
 먼저 구글 플레이스토어 앱을 실행해주세요.
 
@@ -28,11 +24,7 @@
 
 &#x20;
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1a7c0f0b320800aafe8437899aa09ca9.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1a7c0f0b320800aafe8437899aa09ca9.png" alt=""></div>
 
 2\. 메뉴 창에서 스크롤해서 조금만 내려 주시면 <mark style="color:blue;">**\[설정]**</mark> 메뉴가 보일거에요.
 
@@ -40,20 +32,12 @@
 
 &#x20;
 
-<div align="left">
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d497d7915d12f8c177961ddd8af91bcf.png" alt=""></div>
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d497d7915d12f8c177961ddd8af91bcf.png" alt="">
-
-</div>
-
-3\. 기본설정 창에서 **‘앱 자동 업데이트’**를 선택해주세요. \
+3\. 기본설정 창에서 **‘앱 자동 업데이트’**&#xB97C; 선택해주세요. \
 
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3c5e098d0e6778f6d7d9ebcf2e1976d1.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3c5e098d0e6778f6d7d9ebcf2e1976d1.png" alt=""></div>
 
 4\. 세가지 업데이트 방법 중에서 <mark style="color:blue;">**‘항상 자동 업데이트’**</mark> 로 체크하거나
 

@@ -10,7 +10,7 @@ description: 대용량 패키지 이용방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **01. 대용량 패키지란?**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/15\_%EB%8C%80%EC%9A%A9%EB%9F%89%ED%8C%A8%ED%82%A4%EC%A7%80\_2%EC%A0%9C%EA%B3%B5%EC%84%9C%EB%B9%84%EC%8A%A42-886\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2021/06/15_%EB%8C%80%EC%9A%A9%EB%9F%89%ED%8C%A8%ED%82%A4%EC%A7%80_2%EC%A0%9C%EA%B3%B5%EC%84%9C%EB%B9%84%EC%8A%A42-886_1.png)
 
 \[기본형 유료앱 이용권 1년+앱스토어 업로드 티켓+플레이스토어 업로드 티켓+앱 용량 30GB] 포함된 패키지 상품
 
@@ -58,7 +58,7 @@ description: 대용량 패키지 이용방법
 
 <mark style="color:red;">\*패키지 상품 구매는 일반프로토타입으로 제작한 앱만 신청 가능 – 푸시, 웹뷰버전앱은 구매가 불가합니다.</mark>
 
-2\)앱제작이 완료되면 [앱운영→ 결제/이용권 구매 페이지→ 패키지 상품 구매](https://www.swing2app.co.kr/view/new\_product\_list\_by\_package) 페이지로 이동해서 \[대용량패키지 상품]을 구매해주세요.​
+2\)앱제작이 완료되면 [앱운영→ 결제/이용권 구매 페이지→ 패키지 상품 구매](https://www.swing2app.co.kr/view/new_product_list_by_package) 페이지로 이동해서 \[대용량패키지 상품]을 구매해주세요.​
 
 <figure><img src="../../../.gitbook/assets/대용량구매.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ description: 대용량 패키지 이용방법
 
 5\)패키지 상품 구매시 함께 받은 티켓(플레이스토어, 앱스토어)으로 업로드 신청을 해주시면 당사에서 대행해서 스토어에 앱을 출시해드립니다.
 
-\*[앱운영→버전관리→앱제작이력](https://www.swing2app.co.kr/view/app\_work\_history) 메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청], \[앱스토어 업로드 신청] 버튼을 선택합니다.​
+\*[앱운영→버전관리→앱제작이력](https://www.swing2app.co.kr/view/app_work_history) 메뉴로 이동한 뒤, 마켓등록란에 있는 \[플레이스토어 업로드 신청], \[앱스토어 업로드 신청] 버튼을 선택합니다.​
 
 신청양식에 따라 내용을 기재한 뒤 업로드 신청을 해주셔야 스윙으로 업로드 신청건이 전달됩니다. (결제한 뒤 꼭 업로드 신청을 해주세요)
 
@@ -94,7 +94,7 @@ description: 대용량 패키지 이용방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04. 이용 안내 및 주의사항**
 
-​**\* 대용량 패키지 상품은 많은 앱 장기 운영, 스토어 상용화, 많은 앱 용량을 사용해야 할 때 추천드립니다.**
+&#x200B;**\* 대용량 패키지 상품은 많은 앱 장기 운영, 스토어 상용화, 많은 앱 용량을 사용해야 할 때 추천드립니다.**
 
 **\* 더 많은 앱 용량이 필요할 경우 개별로 구매하지 않아도 한번에 30GB가 추가됩니다!(기본형이용권 단품 구매시 앱 용량은 2GB 기본 제공)**
 
@@ -134,13 +134,13 @@ description: 대용량 패키지 이용방법
 
 앱에 제공되는 용량이 초과 되면, 남은 앱 이용 일수와는 상관없이 앱 이용이 정지되오니 앱 용량을 항상 확인해주시기 바랍니다.
 
-용량이 초과되기 전에 용량추가 상품을 구매하거나, [앱운영 → 서비스관리 →리소스관리](https://www.swing2app.co.kr/view/storage\_manager)에서 용량을 확보해주시기 바랍니다.
+용량이 초과되기 전에 용량추가 상품을 구매하거나, [앱운영 → 서비스관리 →리소스관리](https://www.swing2app.co.kr/view/storage_manager)에서 용량을 확보해주시기 바랍니다.
 
 9\) 이용권은 하루라도 이용일수가 지난 경우 환불이 불가하며, 남은 일수를 환불해드리지 않으며, 이용을 보류해드리지 않습니다.
 
 따라서 신중히 고려하여 구매해주시기 바랍니다.
 
-10\) 구매한 이용권은 스윙 [앱운영페이지→ 결제 → 내결제현황](https://www.swing2app.co.kr/view/payment\_list) 페이지에서 구매한 내역 및 이용기간을 확인할 수 있습니다.
+10\) 구매한 이용권은 스윙 [앱운영페이지→ 결제 → 내결제현황](https://www.swing2app.co.kr/view/payment_list) 페이지에서 구매한 내역 및 이용기간을 확인할 수 있습니다.
 
 11\) 유료이용이 끝나기 전 다시 이용권을 재구매 하지 않으시면 유료버전은 종료되며 앱이용이 정지됩니다.
 
@@ -170,9 +170,9 @@ description: 대용량 패키지 이용방법
 
 <mark style="color:purple;">\*푸시버전,웹뷰버전으로 제작한 앱은 구매할 수 없습니다.</mark>
 
-16\) 플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=380\&notice\_type=paymentNotice)&#x20;
+16\) 플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing_notice_detail?notice_id=380\&notice_type=paymentNotice)&#x20;
 
-앱스토어는 사용자의 개발자 계정으로 등록하거나 or 당사 스윙투앱 회사 계정으로 대리등록 중 선택하여 등록 가능합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=381\&notice\_type=paymentNotice)&#x20;
+앱스토어는 사용자의 개발자 계정으로 등록하거나 or 당사 스윙투앱 회사 계정으로 대리등록 중 선택하여 등록 가능합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/swing_notice_detail?notice_id=381\&notice_type=paymentNotice)&#x20;
 
 각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다. &#x20;
 

@@ -17,7 +17,7 @@
 일반 구글 이용고객들은 지원대상이 아닙니다.
 
 \
-**☞** [**구글 플레이 콘솔 지원팀 바로가기**](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
+&#xNAN;**☞** [**구글 플레이 콘솔 지원팀 바로가기**](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
 
 &#x20;구글플레이콘솔 지원팀은 전화(유선 상담)상담을 하지 않기 때문에 위의 사이트로 이동하셔서 문의주셔야 합니다.&#x20;
 
@@ -29,7 +29,7 @@
 
 문의 내용을 선택 한뒤, 03 문의 옵션에서 채팅 or 이메일 지원을 선택할 수 있습니다.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%ED%94%8C%EB%A0%88%EC%9D%B4%EC%BD%98%EC%86%94%EC%A7%80%EC%9B%90%ED%8C%801\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%ED%94%8C%EB%A0%88%EC%9D%B4%EC%BD%98%EC%86%94%EC%A7%80%EC%9B%90%ED%8C%801_new.png)
 
 [https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
 
@@ -41,7 +41,7 @@
 
 &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%ED%94%8C%EB%A0%88%EC%9D%B4%EC%BD%98%EC%86%94%EC%A7%80%EC%9B%90%ED%8C%802\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%ED%94%8C%EB%A0%88%EC%9D%B4%EC%BD%98%EC%86%94%EC%A7%80%EC%9B%90%ED%8C%802_new.png)
 
 채팅 요청을 누르면  – 간단한 채팅 신청서 입력 페이지로 이동하구요.
 

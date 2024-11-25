@@ -44,23 +44,15 @@ description: 애플 앱스토어 디지털 서비스법 규정 조치사항 안�
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플1.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플1.PNG" alt=""><figcaption></figcaption></figure></div>
 
 앱 대시보드 상단에 경고 조치 메시지를 볼 수 있습니다.&#x20;
 
-**\[규정 준수 요구 사항 완료]**배너를 탭해주세요.
+**\[규정 준수 요구 사항 완료]**&#xBC30;너를 탭해주세요.
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플2.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플2.PNG" alt=""><figcaption></figcaption></figure></div>
 
 다음 페이지에서 **\[OOO용 규정 준수 요구 사항 완료]** 배너 탭 합니다.
 
@@ -120,23 +112,19 @@ description: 애플 앱스토어 디지털 서비스법 규정 조치사항 안�
 
 <figure><img src="../../.gitbook/assets/애플4.PNG" alt=""><figcaption></figcaption></figure>
 
-\-국가번호 선택 +82
+-국가번호 선택 +82
 
-\-핸드폰번호 입력 \*인증번호 받아야 하기 때문에 핸드폰번호를 입력합니다.
+-핸드폰번호 입력 \*인증번호 받아야 하기 때문에 핸드폰번호를 입력합니다.
 
-\-이메일주소 입력 \*인증번호 받아야 하기 때문에 실제 이용중인 이메일주소로 입력해주세요.
+-이메일주소 입력 \*인증번호 받아야 하기 때문에 실제 이용중인 이메일주소로 입력해주세요.
 
-\-\[다음] 버튼
+-\[다음] 버튼
 
 
 
 ### 2)이메일 주소 확인
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플5.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플5.PNG" alt=""><figcaption></figcaption></figure></div>
 
 입력한 이메일로 인증번호가 발송됩니다. 6자리 입력해주세요.
 
@@ -144,11 +132,7 @@ description: 애플 앱스토어 디지털 서비스법 규정 조치사항 안�
 
 ### 3)전화번호 확인
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플55.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플55.PNG" alt=""><figcaption></figcaption></figure></div>
 
 이메일 인증이 완료되면, 이어서 입력한 전화번호 - 인증번호가 발송됩니다. 6자리 입력해주세요.
 
@@ -156,11 +140,7 @@ description: 애플 앱스토어 디지털 서비스법 규정 조치사항 안�
 
 ### 4)연락처 정보 확인
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플8.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플8.PNG" alt=""><figcaption></figcaption></figure></div>
 
 인증이 완료되면 연락처 정보 확인 창이 뜹니다.
 
@@ -170,11 +150,7 @@ description: 애플 앱스토어 디지털 서비스법 규정 조치사항 안�
 
 ### 5)완료
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플6.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플6.PNG" alt=""><figcaption></figcaption></figure></div>
 
 계약 탭 확인시 \[디지털 서비스법 규정 준수]에 모든 사항을 완료했다는 메시지가 뜹니다.
 

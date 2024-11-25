@@ -26,11 +26,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 앱 회원가입 진행
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83_20.07.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B83_20.07.png" alt=""></div>
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **부관리자로 지정을 하기 위해서는 앱에서 회원가입이 되어 있어야 해요!**
 
@@ -46,27 +42,27 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
-**스윙 홈페이지 접속 후,** [**앱운영 → 푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member\_list) **메뉴로 이동합니다.**
+**스윙 홈페이지 접속 후,** [**앱운영 → 푸시&회원 → 회원조회**](http://www.swing2app.co.kr/view/member_list) **메뉴로 이동합니다.**
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%902\_18.1.18.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%902_18.1.18.png)
 
 회원조회 페이지에서 **사용자인  ‘윈디’ 회원을 선택해서 그룹을→관리자로 변경**해볼게요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B82\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B82_20.07.png)
 
 1\)윈디 회원을 마우스로 선택하면 회원정보 창이 뜹니다.
 
-2\) 그룹 정보를 **‘사용자’에서 → ‘관리자’**로 설정합니다.
+2\) 그룹 정보를 **‘사용자’에서 → ‘관리자’**&#xB85C; 설정합니다.
 
 3\) \[그룹변경하기] 버튼을 선택하면 완료됩니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%904\_18.1.18.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%904_18.1.18.png)
 
 저장이 완료되면 앞서 보셨던 사용자 **윈디 회원이 ‘관리자’ 그룹으로 변경** 된 것을 확인할 수 있어요!&#x20;
 
@@ -80,11 +76,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 먼저 [\[스윙투앱 홈페이지\]](http://www.swing2app.co.kr) 접속하여 부관리자로 로그인해볼게요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png" alt=""></div>
 
 홈페이지 접속 후 – 로그인 화면에서&#x20;
 
@@ -140,11 +132,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 앱에서 부관리자로 로그인하는 방법을 알려드릴게요!!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B84_20.07.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B84_20.07.png" alt=""></div>
 
 **앱 로그인은 가입하신 아이디, 비밀번호로 동일하게 로그인을 하시면 됩니다.**
 
@@ -152,7 +140,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B85\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B85_20.07.png)
 
 &#x20;**등급이 관리자로 변경된 것을 확인할 수 있습니다.**
 
@@ -164,11 +152,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 <mark style="color:blue;">**★ 관리자 등급 변경 푸시 발송**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B86_20.07.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B86_20.07.png" alt=""></div>
 
 **★ 등급 변경시에는 사용자에게 푸시 알림이 함께 발송이 됩니다.**
 
@@ -191,7 +175,7 @@ description: 부관리자 지정 방법 및 부관리자 로그인 방법
 
 가입된 사용자 계정을 확인하여 아래에서, 해당 사용자를 관리자 그룹으로 변경해주시면 됩니다.
 
-**2) 스윙 홈페이지에서 →** [**앱운영페이지 →푸시&회원 → 회원조회**](https://www.swing2app.co.kr/view/member\_list) **페이지 이동**
+**2) 스윙 홈페이지에서 →** [**앱운영페이지 →푸시&회원 → 회원조회**](https://www.swing2app.co.kr/view/member_list) **페이지 이동**
 
 **회원조회 페이지에서 관리자로 변경할 해당 회원을 선택 후 → 현재 그룹 정보의 ‘사용자’에서 → ‘관리자’로 선택한 뒤**
 

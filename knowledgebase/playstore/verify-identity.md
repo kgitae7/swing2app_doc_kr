@@ -26,11 +26,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하는 경우가 대부분인데요.
 
@@ -40,27 +36,19 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 ## **STEP1. 본인인증**
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D2.png" alt=""><figcaption></figcaption></figure></div>
 
 버튼 선택시,
 
 구글 플레이 콘솔 페이지로 이동되며, 위의 이미지처럼 본인 인증이 필요하다는 메시지가 떠 있는 것을 확인할 수 있어요.
 
-**\[본인 인증]**을 선택해주세요.
+**\[본인 인증]**&#xC744; 선택해주세요.
 
 
 
 ## **STEP2. 본인 확인 절차**
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D3.png" alt=""><figcaption></figcaption></figure></div>
 
 본인 확인을 위해 가장 먼저 개인 신원을 확인하게 됩니다.
 
@@ -88,11 +76,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 ## **STEP3. OTP(인증 코드 번호) 입력**
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D4.png" alt=""><figcaption></figcaption></figure></div>
 
 마지막 인증으로 사용자가 입력한 핸드폰번호로 인증번호(코드)를 발송합니다.
 
@@ -102,11 +86,7 @@ description: 구글 개발자 계정 등록 – 본인 인증 확인하기
 
 ## **STEP4. 확인 완료**
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D5.png" alt=""><figcaption></figcaption></figure></div>
 
 OTP 코드 등록까지 완료되면 모든 본인 인증 확인이 완료됩니다.
 

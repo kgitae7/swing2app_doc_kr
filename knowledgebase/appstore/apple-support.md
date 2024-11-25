@@ -7,7 +7,7 @@
 애플 고객센터 이용방법을 확인하여 도움을 얻으시길 바랍니다.
 
 \
-**☞**[**애플 앱스토어 고객센터 바로가기**](https://developer.apple.com/contact/phone/kr/)
+&#xNAN;**☞**[**애플 앱스토어 고객센터 바로가기**](https://developer.apple.com/contact/phone/kr/)
 
 위의 바로가기를 선택하면 앱스토어 고객센터로 이동합니다.&#x20;
 

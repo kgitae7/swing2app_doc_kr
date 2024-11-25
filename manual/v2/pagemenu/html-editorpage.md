@@ -4,7 +4,7 @@
 
 사용자 페이지 제작 도구 중 하나인 !! HTML에디터 페이지 제작 방법 매뉴얼입니다.&#x20;
 
-<mark style="background-color:blue;">**▶**</mark>** HTML 에디터페이지란?**
+<mark style="background-color:blue;">**▶**</mark>**&#x20;HTML 에디터페이지란?**
 
 스윙투앱 사용자페이지에서 제공하는 기능 중 하나로 사용자가 직접 웹페이지를 제작할 수 있는 메뉴에요.
 
@@ -22,7 +22,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **앱실행화면) HTML에디터 페이지 적용**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_07\_17\_17\_31\_06\_778.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_07_17_17_31_06_778.gif)
 
 스윙투앱 공식앱에 적용된 HTML에디터 페이지에요.
 
@@ -49,7 +49,7 @@ HTML에디터 페이지 만들기는 앱제작 화면 상단에 \[사용자페�
 
 <mark style="color:orange;">**2.HTML에디터 페이지 제작도구**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801_20.07.png)
 
 위의 이미지가 HTML 에디터 페이지 제작도구 화면이에요.
 
@@ -77,7 +77,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:orange;">**3. 동영상 등록(유튜브 URL 입력)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802_20.07.png)
 
 1\)동영상은 옵션바의 \[동영상 삽입] 아이콘 버튼을 선택해주시구요.
 
@@ -97,13 +97,13 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 앱 실행화면 참고)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8016\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8016_20.07.png)
 
 따라서 화면에 맞게 비율을 맞추고 싶다면 아래 방법으로 동영상 크기를 수정할 수 있어요.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8017\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8017_20.07.png)
 
 <mark style="color:red;">영상을 마우스로 선택하면 영상 크기: 가로와 세로 길이를 직접 수정할 수 있습니다.</mark>
 
@@ -113,7 +113,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 **앱 실행화면)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8018\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8018_20.07.png)
 
 영상 크기를 조율하면 앱 화면에서 영상 섬네일 비율을 좀 더 화면에 맞게 구성할 수 있습니다.
 
@@ -123,7 +123,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:orange;">**3. 이미지 등록**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%803\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%803_20.07.png)
 
 1\)옵션바의 \[이미지 삽입] 아이콘 버튼을 선택해주시구요.
 
@@ -143,7 +143,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%804\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%804_20.07.png)
 
 1\)이미지를 마우스로 클릭하시면, 아래로 옵션창이 열리구요. 여기서 **\[크기 변경]** 버튼을 선택해주세요.
 
@@ -163,7 +163,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:orange;">**4. 본문 글 등록**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%805\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%805_20.07.png)
 
 텍스트 입력은 마우스 커서를 본문으로 갖다 놓으면 글 입력이 되구요.
 
@@ -173,7 +173,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:orange;">**5. 웹링크 삽입**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%806\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%806_20.07.png)
 
 스윙투앱 공식앱 에디터 페이지를 잠시 보시면 이미지를 터치하면 새로운 페이지로 이동하고 있죠!!
 
@@ -193,11 +193,11 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:red;">**★ 잠깐!**</mark>
 
-\-저는 웹사이트 링크가 아니라, 이미지를 터치하면 앱에서 만들어놓은 특정 게시판으로 이동하게끔 하고 싶어요!
+-저는 웹사이트 링크가 아니라, 이미지를 터치하면 앱에서 만들어놓은 특정 게시판으로 이동하게끔 하고 싶어요!
 
-\-이미지 페이지로 이동하고 싶어요!
+-이미지 페이지로 이동하고 싶어요!
 
-\-쇼핑몰 앱이라서 상품 페이지로 이동하게끔 하고 싶어요!!
+-쇼핑몰 앱이라서 상품 페이지로 이동하게끔 하고 싶어요!!
 
 이렇게 외부 웹링크가 아닌 앱에서 만들어놓은 페이지로 연동하고 싶으시다면 방법이 있죠!!
 
@@ -205,9 +205,9 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 &#x20;
 
-<mark style="background-color:blue;">**▶**</mark>** 링크 마법사 이용하기**
+<mark style="background-color:blue;">**▶**</mark>**&#x20;링크 마법사 이용하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%807\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%807_20.07.png)
 
 1\)이미지를 마우스로 클릭하시면, 아래로 옵션창이 열리구요. 여기서 **\[링크 삽입]** 버튼을 선택해주세요.
 
@@ -217,11 +217,11 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 3\)**링크 마법사 팝업 창이 새롭게 열리구요.** 왼쪽 메뉴를 선택해서 원하는 스윙 기능을 넣어주실 수 있습니다.
 
-\-이미지 페이지를 넣고 싶다면, 사용자페이지를 선택해서 적용 가능하구요.
+-이미지 페이지를 넣고 싶다면, 사용자페이지를 선택해서 적용 가능하구요.
 
-\-게시판을 넣고 싶다면, 게시판 선택해서 적용해주시구요.
+-게시판을 넣고 싶다면, 게시판 선택해서 적용해주시구요.
 
-\-특정 게시물로 이동하고 싶다면, 게시물 선택 후 – 게시물 검색해서 적용 가능합니다.
+-특정 게시물로 이동하고 싶다면, 게시물 선택 후 – 게시물 검색해서 적용 가능합니다.
 
 이렇게 일반 웹사이트 링크 외에도 \[링크마법사] 를 이용하면 앱 내에 사용된 페이지로의 이동이 가능합니다!!
 
@@ -229,7 +229,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:orange;">**5. 제작 완료시 저장 버튼을 눌러주세요.**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%808\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%808_20.07.png)
 
 에디터 페이지 제작이 완료되면 저장 버튼을 누르고 나옵니다.
 
@@ -237,7 +237,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STET.2 HTML에디터 페이지 앱에 적용하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8012\_20.07-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8012_20.07-1.png)
 
 <mark style="color:purple;">**\*\*앱제작V2 버전으로 소개**</mark>
 
@@ -269,7 +269,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:blue;">**1. 수평선**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%809\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%809_20.07.png)
 
 글을 작성하다 보면 위의 내용과 아래 내용을 구분할 만한 뭔가가 필요할 때가 있죠!
 
@@ -281,7 +281,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:blue;">**2. 전체화면**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8010\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8010_20.07.png)
 
 페이지 작업을 하다보면 내용이 길어져서 페이지가 아래로 내려가는데요.
 
@@ -297,7 +297,7 @@ HTML 에디터페이지는 게시물 작성에서 사용되는 에디터 글쓰�
 
 <mark style="color:blue;">**3. 빠른 삽입**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8013\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8013_20.07.png)
 
 본문 화면에서 왼쪽에 보시면 +모양 버튼이 있습니다.
 

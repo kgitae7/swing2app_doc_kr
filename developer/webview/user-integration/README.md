@@ -48,6 +48,27 @@ document.addEventListener("DOMContentLoaded", function() {
 ```
 {% endcode %}
 
+### - 회원아이디와 그룹명을 지정해서 로그인하고 싶을때 삽입하는 코드
+
+{% code lineNumbers="true" %}
+```html
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    swingWebViewPlugin.app.login.doAppLoginWithGroup("test_account","test_name","회원그룹명");
+});
+</script>
+```
+{% endcode %}
+
+<mark style="background-color:blue;">\*js lib 2024\_11\_24\_001 버전 부터 사용 가능</mark>
+
+<mark style="background-color:blue;">\*앱 제작일시 2024년 11월 25일 19시 이후 제작된 버전부터 사용가능</mark>
+
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption><p>스윙투앱 콘솔에서 지정한 그룹명을 입력</p></figcaption></figure>
+
+\*회원그룹명은 반드시 스윙투앱 콘솔에서 지정한 그룹명을 입력해야 합니다. 일치하는 그룹명이 없을경우 반영되지 않음.
+
 ### - 로그아웃 또는 로그인되지 않았을때 삽입하는 코드
 
 {% code lineNumbers="true" %}
@@ -68,6 +89,12 @@ js 파일 삽입 요령
 
 (2) 웹사이트 공통 헤더와 푸터에 삽입하는 것을 권장드립니다.
 {% endhint %}
+
+```html
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_11_24_001/js/swing_app_on_web.js"></script>
+```
+
+
 
 
 
