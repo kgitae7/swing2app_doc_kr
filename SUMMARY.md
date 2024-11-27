@@ -474,7 +474,7 @@
 * [스윙투앱 이용약관](terms/user-protocol.md)
 * [스윙투앱 개인정보 처리방침](terms/privacy.md)
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
-* [스윙투앱 교육용 라이선스](terms/undefined.md)
+* [스윙투앱 교육용 라이선스](terms/license-for-edu.md)
 * [스토어 이용약관](terms/market-policy/README.md)
   * [플레이스토어 업로드 대행 약관](terms/market-policy/playstore-policy.md)
   * [앱스토어 업로드 대행 약관](terms/market-policy/appstore-policy.md)
