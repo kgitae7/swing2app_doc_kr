@@ -12,7 +12,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 
 
-<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> **유료버전앱 → 무료버전 앱 전환 주의사항**
+<img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line"> **유료버전앱 → 무료버전 앱 전환 주의사항**
 
 <mark style="color:green;">**1.유료버전앱 이용기간이 종료되어야 무료앱으로 전환할 수 있습니다.**</mark>
 
@@ -22,7 +22,7 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <mark style="color:green;">**2.무료로 전환된 앱은 무료버전 앱 서비스로 제공됩니다.**</mark>
 
-\-용량 100MB 제공, 게시판 제작수 30개, 그룹채팅방 1개 제작 가능 등 무료버전 서비스로 전환됩니다.
+-용량 100MB 제공, 게시판 제작수 30개, 그룹채팅방 1개 제작 가능 등 무료버전 서비스로 전환됩니다.
 
 <mark style="color:green;">**3. 무료버전앱은 스토어(플레이스토어, 앱스토어) 이용이 불가능한 버전입니다.**</mark>
 
@@ -62,15 +62,11 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) STEP1. 유료앱 이용기간 만료된 앱 실행화면
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) STEP1. 유료앱 이용기간 만료된 앱 실행화면
 
 먼저 유료앱 이용기간이 종료된 앱 실행화면을 확인해볼게요!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/1.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/1.jpg" alt=""></div>
 
 유료앱을 이용하다가 이용기간이 만료된 앱을 실행하면 위의 이미지처럼 ‘이용기간 만료’ 메시지가 뜨구요.
 
@@ -78,19 +74,15 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP2.** **설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **STEP2.** **설치된 유료앱 삭제하기 (안드로이드폰에서 앱삭제)**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/3.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/3.jpg" alt=""></div>
 
 무료로 전환된 앱을 다시 다운 받아야 하기 때문에 기존에 안드로이드폰에 설치된 유료앱은 삭제해주세요.
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP3.** **앱 업데이트하기**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **STEP3.** **앱 업데이트하기**
 
 <figure><img src="../../.gitbook/assets/앱업데이트.png" alt=""><figcaption></figcaption></figure>
 
@@ -112,13 +104,9 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP4. 앱 다운 받기**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **STEP4. 앱 다운 받기**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/4.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/4.jpg" alt=""></div>
 
 기존 유료앱은 삭제한 뒤, 무료로 전환된 앱으로 다시 다운(설치)받아 주셔야 합니다.&#x20;
 
@@ -130,13 +118,9 @@ description: 이용기간이 만료된 유료버전앱에서 → 무료버전앱
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **STEP5. 무료앱 전환 완료**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **STEP5. 무료앱 전환 완료**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/2.jpg" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/2.jpg" alt=""></div>
 
 앱을 다시 다운 받으면 정상적으로 앱이 구동되는 것을 확인할 수 있습니다.
 

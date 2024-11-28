@@ -40,7 +40,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 <figure><img src="../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../.gitbook/assets/image (2) (1).png>)1.회원 생성하기
+## ![](<../../.gitbook/assets/image (2) (1) (1).png>)1.회원 생성하기
 
 <figure><img src="../../.gitbook/assets/웹앱부관리자1.png" alt=""><figcaption></figcaption></figure>
 
@@ -80,13 +80,9 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 홈페이지에서 부관리자로 로그인하는 방법을 알려드릴게요.
 
-## ![](<../../.gitbook/assets/image (2) (1).png>)2. 홈페이지- 부관리자 로그인하기
+## ![](<../../.gitbook/assets/image (2) (1) (1).png>)2. 홈페이지- 부관리자 로그인하기
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/부관리자-로그인_20.07.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/부관리자-로그인_20.07.png" alt=""><figcaption></figcaption></figure></div>
 
 스윙투앱 홈페이지 접속 후 – 로그인 화면 이동해주세요.
 
@@ -120,11 +116,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 <mark style="color:blue;">**앱제작 V3 버전 화면**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/앱아이디1 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/앱아이디1 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 앱 아이디는 **앱제작 - STEP1 기본정보에서 입력한 앱 아이디**를 말합니다.
 
@@ -132,11 +124,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/웹앱부관리자5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/웹앱부관리자5.png" alt=""><figcaption></figcaption></figure></div>
 
 로그인 하면, 관리자가 이용했던 동일한 웹 대시보드 화면이 표시되구요.
 
@@ -146,7 +134,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 <figure><img src="../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../.gitbook/assets/image (2) (1).png>)3.부관리자 설정 정리
+## ![](<../../.gitbook/assets/image (2) (1) (1).png>)3.부관리자 설정 정리
 
 
 

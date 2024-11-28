@@ -14,17 +14,9 @@ description: 스윙투앱에서 구글, 페이스북 로그인 보안으로 인�
 
 &#x20;(아래와 같은 메시지를 발견했다면 해당 이유로 차단된 경우입니다. )
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt="" width="375"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt="" width="375"><figcaption><p>Google Login 웹뷰에서 차단</p></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>Facebook Login 웹뷰에서 차단</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>Facebook Login 웹뷰에서 차단</p></figcaption></figure></div>
 
 이러한 차단은 앱 사용자의 개인 정보와 계정 보안을 보호하기 위한 조치로 이해해야 합니다.&#x20;
 
@@ -65,21 +57,17 @@ description: 스윙투앱에서 구글, 페이스북 로그인 보안으로 인�
 
     &#x20;     앱 제작 -> 고급 설정 -> 앱 제작 설정 에서 아래의 두개 값 변경
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="563"><figcaption><p>스윙투앱에서 UserAgent 변경방법 </p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="563"><figcaption><p>스윙투앱에서 UserAgent 변경방법 </p></figcaption></figure></div>
 
 &#x20;       (1) Android WebView UserAgent
 
-&#x20;          \-> 구글 로그인 회피 가능한 UserAgent 값 (Android)
+&#x20;          -> 구글 로그인 회피 가능한 UserAgent 값 (Android)
 
 &#x20;          <mark style="color:blue;">**"Mozilla/5.0 (Linux; Android 9; SM-G950N) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36"**</mark>
 
 &#x20;       (2) IOS WebView UserAgent
 
-&#x20;          \-> 구글 로그인 회피 가능한 UserAgent 값 (iOS)
+&#x20;          -> 구글 로그인 회피 가능한 UserAgent 값 (iOS)
 
 &#x20;          <mark style="color:blue;">**"Mozilla/5.0 (iPhone; CPU iPhone OS 16\_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1"**</mark>
 
@@ -101,11 +89,7 @@ login\_example.html 실행 파라미터중 customUrl 항목이 있는데 해당 
 
 \*custom url scheme 값은 앱 마다 고유값으로 설정하는 것을 권장드립니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption><p>custom scheme 확인 및 설정하는 화면</p></figcaption></figure></div>
 
 {% code title="실행코드" %}
 ```javascript

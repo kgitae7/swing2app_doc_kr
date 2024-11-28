@@ -50,7 +50,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**1. 페이앱 전자결제**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>)**1. 페이앱 전자결제**
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%886_20.png" alt=""></div>
 
@@ -108,7 +108,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**2. 무통장입금 결제 화면**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>)**2. 무통장입금 결제 화면**
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%887_20.png" alt=""></div>
 
@@ -144,7 +144,7 @@ description: '쇼핑몰앱 결제수단: 페이앱, 무통장입금, 대면결�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>)**3. 대면결제(현금) 화면**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>)**3. 대면결제(현금) 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803_20.04.png)
 

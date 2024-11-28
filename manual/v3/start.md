@@ -10,13 +10,13 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ###
 
-## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> **앱제작 3가지 방법**
+## <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> **앱제작 3가지 방법**
 
-\-템플릿을 이용하여 디자인이 모두 입혀진 앱제작(일반 프로토타입)
+-템플릿을 이용하여 디자인이 모두 입혀진 앱제작(일반 프로토타입)
 
-\-웹사이트를 연동한 웹뷰, 푸시앱 제작
+-웹사이트를 연동한 웹뷰, 푸시앱 제작
 
-\-메뉴 및 페이지를 모두 직접 구성하는 앱제작 (일반 프로토타입)
+-메뉴 및 페이지를 모두 직접 구성하는 앱제작 (일반 프로토타입)
 
 
 
@@ -30,7 +30,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> 방법1. 빠른 앱제작
+## <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> 방법1. 빠른 앱제작
 
 ![](../../.gitbook/assets/제작마법사1.png)
 
@@ -62,7 +62,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> 방법2. 웹사이트 기반한 웹
+## <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> 방법2. 웹사이트 기반한 웹
 
 ![](../../.gitbook/assets/제작마법사2.png)
 
@@ -86,7 +86,7 @@ description: V3버전 앱제작 마법사 - 앱제작 방식 선택하기
 
 ![](../../.gitbook/assets/수평성.PNG)
 
-## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> 방법3. 처음부터 시작하기
+## <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> 방법3. 처음부터 시작하기
 
 ![](../../.gitbook/assets/제작마법사3.png)
 

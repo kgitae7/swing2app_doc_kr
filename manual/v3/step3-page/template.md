@@ -16,17 +16,13 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 디자인측면으로 직접 제작이 어려운 웹페이지를 각 스타일별, 업종별 템플릿을 제공함으로 사용자분들은 보다 간편하게 페이지를 제작할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886_2019.07.png)
 
 ![](../../../.gitbook/assets/수평성.PNG)
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**템플릿 페이지 제작 단계**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/KR-페이지 템플렛 2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/KR-페이지 템플렛 2.png" alt=""><figcaption></figcaption></figure></div>
 
 **\[템플릿 페이지 제작하기]**
 
@@ -64,11 +60,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**앱 실행화면 -템플릿 페이지 적용**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif" alt=""></div>
 
 스윙 호텔 샘플앱을 실행한 화면이에요.
 
@@ -108,7 +100,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2_19.09.png)
 
 1\)제작화면 왼쪽에 있는 \[새로만들기] 버튼을 선택해주세요.
 
@@ -120,13 +112,13 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3_19.09.png)
 
 3\) 페이지를 선택한 뒤 \[추가] 버튼을 눌러주세요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4_19.09.png)
 
 4\) 제작도구 화면에 이렇게 추가된 템플릿 페이지를 확인할 수 있구요.
 
@@ -140,23 +132,23 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **움짤로 이용방법을 확인해주세요\~!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_09_25_16_46_33_274.gif)
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_09_25_16_50_15_66.gif)
 
-\-상단의 페이지명은 앱에서 표시되는 페이지 이름이니 수정해서 사용해주시구요.
+-상단의 페이지명은 앱에서 표시되는 페이지 이름이니 수정해서 사용해주시구요.
 
-\-영역에 들어가는 모든 내용 수정 당연히 가능하구요.
+-영역에 들어가는 모든 내용 수정 당연히 가능하구요.
 
 
 
 <figure><img src="../../../.gitbook/assets/녹화_2024_07_11_10_58_01_820.gif" alt=""><figcaption></figcaption></figure>
 
-\-버튼 이미지 역시 이미지를 새로 변경할 경우 이미지 선택 후, 원하는 이미지를 넣어서 적용 가능합니다.
+-버튼 이미지 역시 이미지를 새로 변경할 경우 이미지 선택 후, 원하는 이미지를 넣어서 적용 가능합니다.
 
-\-아이콘 이미지는 따로 디자인된 이미지를 넣어주셔야 합니다.
+-아이콘 이미지는 따로 디자인된 이미지를 넣어주셔야 합니다.
 
 \*이미지 샘플은 제공하지 않습니다.&#x20;
 
@@ -164,13 +156,9 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 <mark style="color:blue;">**\[텍스트편집 도구]**</mark>
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/이미지-1.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/이미지-1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-\-텍스트:  대문자 A 버튼을 누르면 글자 크기, 색상 모두 수정이 가능합니다.
+-텍스트:  대문자 A 버튼을 누르면 글자 크기, 색상 모두 수정이 가능합니다.
 
 &#x20;
 
@@ -178,21 +166,21 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 <figure><img src="../../../.gitbook/assets/이미지21.png" alt=""><figcaption></figcaption></figure>
 
-\-타이틀 영역은 여백까지 조율할 수 있도록 제공하고 있어요.
+-타이틀 영역은 여백까지 조율할 수 있도록 제공하고 있어요.
 
-\-버튼 추가 및 삭제 모두 가능하구요.
+-버튼 추가 및 삭제 모두 가능하구요.
 
-\-각 영역마다 \[링크마법사]를 이용해서 원하는 페이지로 링크를 걸 수도 있어요,
+-각 영역마다 \[링크마법사]를 이용해서 원하는 페이지로 링크를 걸 수도 있어요,
 
-\-항목이 필요없다면 활성화 여부에서 ‘비활성화’를 체크하면 해당 영역이 템플릿에서 삭제됩니다.&#x20;
+-항목이 필요없다면 활성화 여부에서 ‘비활성화’를 체크하면 해당 영역이 템플릿에서 삭제됩니다.&#x20;
 
 이미 툴이 다 입혀진 템플릿 위에서 수정만해서 사용하면 되기 때문에 이렇게 간단한 앱제작은 또 없겠죠?^^
 
 
 
-<img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
+<img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5_19.09.png)
 
 5\) 다른 스타일의 템플릿도 동일하게, 페이지를 선택하면 화면에 표시가 되구요.
 
@@ -200,7 +188,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6_19.09.png)
 
 **6)이미지 첨부 하실 때에도, 이미지 버튼 누르면 원하는 이미지 등록할 수 있어요.**
 
@@ -210,7 +198,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 여기서 해당 이미지 사이즈에 맞게 조율해서 등록이 가능하답니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8_19.09.png)
 
 **7) 링크마법사는 각 배너(버튼)마다 적용할 수 있는 링크를 말하는데요.**
 
@@ -260,13 +248,9 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-<img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
+<img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **앱 실행화면) 템플릿 페이지 적용화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_05_12_51_29_731.gif" alt=""></div>
 
 ***
 

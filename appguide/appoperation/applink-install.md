@@ -50,7 +50,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 \*브라우저는 반드시 크롬 이용해주세요. PC에서 이용해주세요.
 
-1\)[앱운영-버전관리-앱제작이력 페이지](https://www.swing2app.co.kr/view/app\_work\_history) 이동
+1\)[앱운영-버전관리-앱제작이력 페이지](https://www.swing2app.co.kr/view/app_work_history) 이동
 
 2\)\[APK파일 받기] 버튼을 선택합니다. (PC에 설치하는 용도가 아니며, 다운만 받아주세요)
 
@@ -76,11 +76,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 <mark style="color:red;">**\*다운로드 화면에서 링크 주소가 바로 뜨지 않으면 아래 방법으로 이용해주세요.**</mark>&#x20;
 
-<div align="center" data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 파일명에 마우스 오른쪽 버튼을 클릭하면 '링크 주소 복사'를 선택할 수 있습니다.&#x20;
 
@@ -88,11 +84,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/녹화_2024_08_07_14_04_50_804.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/녹화_2024_08_07_14_04_50_804.gif" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 하면 제작하신 앱 파일이 아닌 링크로 받을 수 있습니다.&#x20;
 
@@ -108,11 +100,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC4.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94_2021_03_27_09_17_57_698.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94_2021_03_27_09_17_57_698.gif" alt=""></div>
 
 이메일로 앱 설치 링크를 받은 뒤 앱 다운을 진행할 수 있습니다.
 

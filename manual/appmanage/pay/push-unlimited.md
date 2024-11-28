@@ -36,11 +36,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ​**STEP1. 푸시앱 제작방법**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/V3푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/V3푸시앱-제작방법.png" alt=""><figcaption></figcaption></figure></div>
 
 푸시앱은 10분 내로 제작이 완료되구요.
 
@@ -64,15 +60,11 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 해당 상품을 구매해야 플레이스토어, 앱스토어에 출시할 수 있어요!
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/푸시무제한상품구매.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/푸시무제한상품구매.png" alt=""><figcaption></figcaption></figure></div>
 
 **1) 구매 상품 안내**
 
-[앱운영 →결제/이용권 구매 → 스윙투앱 이용권 추천 페이지](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_voucher)로 이동해주세요 &#x20;
+[앱운영 →결제/이용권 구매 → 스윙투앱 이용권 추천 페이지](http://www.swing2app.co.kr/view/payment_list_by_recommend_voucher)로 이동해주세요 &#x20;
 
 **푸시 무제한 유료앱 +플레이스토어 업로드티켓 (20,000원) +앱스토어 업로드 티켓 (20,000원)**
 
@@ -104,7 +96,7 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP3**. 스토어 업로드 신청
+## &#x20;​![](<../../../.gitbook/assets/image (2) (1) (1).png>)**STEP3**. 스토어 업로드 신청
 
 플레이스토어, 앱스토어 등 출시를 원하는 스토어에 업로드 신청을 해주세요.&#x20;
 
@@ -112,11 +104,11 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 플레이스토어, 앱스토어 등 출시를 원하는 스토어에 업로드 신청을 해주세요.
 
-&#x20;[**\*앱운영- 버전관리- 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)에서
+&#x20;[**\*앱운영- 버전관리- 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app_work_history)에서
 
 \[플레이스토어 업로드 신청] or \[앱스토어 업로드 신청]  버튼을 눌러서 신청서 작성하시면 접수 됩니다.&#x20;
 
-업로드티켓이 없을 경우, [결제/이용권  구매 - 업로드티켓구매](http://www.swing2app.co.kr/view/new\_product\_list\_by\_publish\_service) 페이지에서 업로드 티켓 구매 후 신청해주세요.&#x20;
+업로드티켓이 없을 경우, [결제/이용권  구매 - 업로드티켓구매](http://www.swing2app.co.kr/view/new_product_list_by_publish_service) 페이지에서 업로드 티켓 구매 후 신청해주세요.&#x20;
 
 **\*플레이스토어는 직접 등록이 가능할 경우 업로드 티켓 구매하실 필요 없으며, 해당 버전앱을 직접 출시해주시면 됩니다.**
 
@@ -133,20 +125,20 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 업로드 신청을 할 수 있습니다.&#x20;
 
-[\[플레이스토어 업로 티켓 구매하기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4) ,  [\[앱스토어 업로드티켓 구매하기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)
+[\[플레이스토어 업로 티켓 구매하기\]](http://www.swing2app.co.kr/view/order_info_action?product_id=4) ,  [\[앱스토어 업로드티켓 구매하기\]](http://www.swing2app.co.kr/view/order_info_action?product_id=3)
 
-3\)플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)&#x20;
+3\)플레이스토어 업로드를 위해서는 반드시 사용자 분의 구글 개발자 계정(등록비 25$)을 미리 만들어주셔야 합니다. [\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/order_info_action?product_id=4)&#x20;
 
 4\)앱스토어는 개발자 계정을 만들거나 당사 스윙투앱 계정으로 대리등록이 가능합니다.
 
-[\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=3)&#x20;
+[\[상품 상세 내용 보기\]](http://www.swing2app.co.kr/view/order_info_action?product_id=3)&#x20;
 
 \*각 업로드 티켓별 상세 내용은 구매페이지에서 확인해주시기 바랍니다.   &#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP4**. 푸시 무제한 유료앱 이용시 주의사항
+## &#x20;​![](<../../../.gitbook/assets/image (2) (1) (1).png>)**STEP4**. 푸시 무제한 유료앱 이용시 주의사항
 
 1\) 푸시 무제한 이용 중, 앱에 적용된 웹링크 주소를 변경해야 할 경우는 앱 업데이트가 필요합니다.&#x20;
 
@@ -188,10 +180,10 @@ description: 푸시앱에 적용 가능한 무제한 이용권 - 푸시 무제�
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 
-## ​![](<../../../.gitbook/assets/image (2) (1).png>)**STEP5**. 환불안내
+## ​![](<../../../.gitbook/assets/image (2) (1) (1).png>)**STEP5**. 환불안내
 
-* 사용하지 않은 이용권은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment\_list) 환불 신청 가능
-* **무제한 셋팅 작업이 완료되면 환불이 불가합니다.** 취소 및 환불은 상품 적용 전  [문의게시판](http://www.swing2app.co.kr/view/service\_qa) 혹은 [채팅 상담](https://direct.lc.chat/12036120/)으로 문의주시기 바랍니다.
+* 사용하지 않은 이용권은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment_list) 환불 신청 가능
+* **무제한 셋팅 작업이 완료되면 환불이 불가합니다.** 취소 및 환불은 상품 적용 전  [문의게시판](http://www.swing2app.co.kr/view/service_qa) 혹은 [채팅 상담](https://direct.lc.chat/12036120/)으로 문의주시기 바랍니다.
 * 구매한 이용권은 다른 앱으로 옮길 수 없습니다.
 * 구매일 기준 30일 이후에는 어떤 경우라도 환불이 불가합니다.
 

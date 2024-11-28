@@ -16,11 +16,7 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 ### 1.왼쪽 상단 **\[앱제작]** 선택
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/업데이트1 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/업데이트1 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### &#x20;\*앱을 다시 수정하고자 할 때에도 해당 경로로 앱제작 화면으로 이동해주시기 바랍니다.&#x20;
 
@@ -84,9 +80,9 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 이렇게 제작하시면 새 버전으로 앱제작이 다시 진행이 되구요.
 
-\-일반 프로토타입 앱: 5분 이내 제작
+-일반 프로토타입 앱: 5분 이내 제작
 
-\-웹뷰 및 푸시 앱: 8분 이내 제작 됩니다.&#x20;
+-웹뷰 및 푸시 앱: 8분 이내 제작 됩니다.&#x20;
 
 업로드 신청을 하시는 분들은 제작이 완료되면, 업로드 신청 버튼이 활성화 되오니 그때 신청 버튼을 선택해서 신청서 제출해주시기 바랍니다.&#x20;
 
@@ -94,7 +90,7 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 **\*업로드 신청 화면 경로**
 
-[앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app\_work\_history)
+[앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app_work_history)
 
 
 
@@ -104,9 +100,9 @@ description: 앱제작 화면 이동 후 앱 새 버전으로 업데이트 하�
 
 ### **Q.AAB파일은 어디서 다운받나요??**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;[앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app\_work\_history)
+&#x20;[앱운영 – 버전관리 - 앱제작 이력](http://www.swing2app.co.kr/view/app_work_history)
 
 유료앱(이용권 적용된 유료버전앱)은 앱제작 이력 페이지에서 AAB파일을 받을 수 있습니다.&#x20;
 

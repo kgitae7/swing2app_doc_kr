@@ -29,9 +29,9 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 {% hint style="success" %}
 **★구글 개발자 계정이란?**
 
-\-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
+-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
 
-\-계정 등록비 : 25달러 (한번 결제시 평생 이용, 한국 원화로 약 33,000\~36,000원 비용)
+-계정 등록비 : 25달러 (한번 결제시 평생 이용, 한국 원화로 약 33,000\~36,000원 비용)
 
 **\*구글 플레이 개발자 콘솔 사이트** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
@@ -161,11 +161,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">3.내 정보 입력</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/개인play9.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/개인play9.PNG" alt=""><figcaption></figcaption></figure></div>
 
 1\)플레이 콘솔 사용 및 안드로이드 앱개발 경험이 있다면 메시지란에 기재해주세요.
 
@@ -187,11 +183,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">4.앱 정보</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
 
@@ -247,11 +239,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 구글 개발자 등록비는 카드결제만 이용 가능합니다. \*해외결제 가능한 카드만 가능
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png" alt=""></div>
 
 결제할 카드 정보를 입력합니다. <mark style="color:red;">\*개발자 등록비 결제는 해외 결제가 가능한 카드 결제만 됩니다.</mark>
 
@@ -271,7 +259,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**8.결제완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3\_20.01.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3_20.01.png)
 
 결제가 완료되었습니다. 등록 계속하기를 선택합니다.
 
@@ -279,11 +267,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**9.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 말구요.&#x20;
 
@@ -349,31 +333,19 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/계정2 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/계정2 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2\) 생년월일, 성별 입력 후 다음
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/계정3 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/계정3 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 3\)새로운 Gmail 계정을 만들어주세요.  다음 선택
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/계정4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/계정4.png" alt=""><figcaption></figcaption></figure></div>
 
 4\) 비밀번호 입력 후 다음 선택
 
@@ -487,11 +459,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">5.내 정보 입력</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/개인play9.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/개인play9.PNG" alt=""><figcaption></figcaption></figure></div>
 
 1\)플레이 콘솔 사용 및 안드로이드 앱개발 경험이 있다면 메시지란에 기재해주세요.
 
@@ -513,11 +481,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">6.앱 정보</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
 
@@ -569,11 +533,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**9.등록 수수료 결제하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new2.png" alt=""></div>
 
 구글 개발자 등록비 25달러를카결제합니다.  \*카드 결제만 가능합니다.&#x20;
 
@@ -593,7 +553,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3\_20.01.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3_20.01.png)
 
 결제가 완료되었습니다. 등록 계속하기를 선택합니다.
 
@@ -601,11 +561,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ### <mark style="color:blue;">**10.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 마시구요.&#x20;
 

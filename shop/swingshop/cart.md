@@ -12,13 +12,9 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ***
 
-<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**장바구니 앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%882.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%882.png" alt=""></div>
 
 장바구니 페이지 역시 스윙샵 기능 이용시 이용가능하오니, **스윙샵 서비스 신청 후 적용해주세요.**&#x20;
 
@@ -76,11 +72,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘장바구니’를  �
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 장바구니 앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_28_03_56_34_792.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_28_03_56_34_792.gif" alt=""></div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%881.png)
 

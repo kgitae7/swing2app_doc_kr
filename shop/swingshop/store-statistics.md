@@ -14,23 +14,15 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**상점통계 메뉴 이동**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%84.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%84.png" alt="">
-
-</div>
-
-[스윙샵 –  \[상점통계\] ](http://www.swing2app.co.kr/view/store\_statistics\_month)페이지로 이동합니다.
+[스윙샵 –  \[상점통계\] ](http://www.swing2app.co.kr/view/store_statistics_month)페이지로 이동합니다.
 
 ***
 
 ## <mark style="color:blue;">**1. 월별 주문금액**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%848.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%848.png" alt=""></div>
 
 월별 주문금액은 매 월 결제된 상품의 주문금액 합산과 수량합산을 확인할 수 있는 통계입니다.
 
@@ -42,11 +34,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 ### <mark style="color:orange;">**1-1 월별 주문금액**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%849.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%849.png" alt=""></div>
 
 확인하고자 하는 기간을 적용한 뒤 해당 월 별로 주문금액을 확인할 수 있습니다.
 
@@ -84,7 +72,7 @@ description: '상점 통계 관리자 페이지: 운영 및 판매 내역 확인
 
 
 
-<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line">**엑셀다운**
+<img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line">**엑셀다운**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%83%81%EC%A0%90%ED%86%B5%EA%B3%8413.png)
 

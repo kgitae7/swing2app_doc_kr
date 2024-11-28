@@ -14,11 +14,7 @@ description: 쇼핑몰 메인페이지 이용방법 및 적용방법 매뉴얼
 
 UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해서 메인화면으로 이용할 수 있습니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png" alt=""></div>
 
 쇼핑몰 메인페이지가 적용된 앱 실행화면이에요.
 
@@ -36,7 +32,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP1. 쇼핑몰 메인페이지 적용하기**
+## ![](<../../.gitbook/assets/image (2) (1) (1).png>) **STEP1. 쇼핑몰 메인페이지 적용하기**
 
 
 
@@ -94,17 +90,9 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 **앱 실행화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B81.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B81.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B82.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B82.png" alt=""></div>
 
 스윙샵 신청 후 상점 정보 및 상품등록이 아무것도 되어 있지 않기 때문인데요!
 
@@ -112,17 +100,13 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 따라서 **아래 방법을 확인하셔서 메인 화면을 채워주세요.**
 
-<div align="left">
-
-<img src="../../.gitbook/assets/줄라인.PNG" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/줄라인.PNG" alt=""></div>
 
 ### &#x20;<mark style="color:blue;">**1. 메인 이미지**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B84.png)
 
-[1)스윙샵 상점관리 → 2)기본정보 설정 페이지](http://www.swing2app.co.kr/view/store\_info\_basic\_setting)로 이동해주세요.&#x20;
+[1)스윙샵 상점관리 → 2)기본정보 설정 페이지](http://www.swing2app.co.kr/view/store_info_basic_setting)로 이동해주세요.&#x20;
 
 
 
@@ -146,11 +130,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_19_16_31_07_548.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_19_16_31_07_548.gif" alt=""></div>
 
 상점 상세이미지 등록이 완료된 후, 앱을 실행하시면 앱 상단 메인 이미지가 슬라이딩 되어 보여집니다.
 
@@ -160,7 +140,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B86.png)
 
-[1)스윙샵 상품관리 → 2)상품 등록 화면 페이지](http://www.swing2app.co.kr/view/store\_product\_management)로 이동해서 상품을 등록해주세요.
+[1)스윙샵 상품관리 → 2)상품 등록 화면 페이지](http://www.swing2app.co.kr/view/store_product_management)로 이동해서 상품을 등록해주세요.
 
 상품을 등록해야 메인화면에 상품이 노출이 되구요.
 
@@ -180,7 +160,7 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B85.png)
 
-[1)스윙샵 상품관리 → 2)상품 카테고리 등록 관리](http://www.swing2app.co.kr/view/store\_product\_category)→ 3)카테고리를 등록하면, 쇼핑몰 메인 페이지의 카테고리 항목으로 노출되요.
+[1)스윙샵 상품관리 → 2)상품 카테고리 등록 관리](http://www.swing2app.co.kr/view/store_product_category)→ 3)카테고리를 등록하면, 쇼핑몰 메인 페이지의 카테고리 항목으로 노출되요.
 
 <mark style="color:red;">\*카테고리는 상품을 등록할 때 필요한 대분류 항목이에요.</mark>
 
@@ -194,17 +174,13 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EC%8A%A4%EC%9C%99%EC%83%B5-%EB%A9%94%EC%9D%B87.png)
 
-[1)스윙샵 상품관리 → 2)상품 노출관리](http://www.swing2app.co.kr/view/store\_product\_expression) → 3)노출유형: 메인페이지-콜렉션 → 4)이벤트를 등록하면, 쇼핑몰 메인 페이지의 ‘주요상품’ 항목으로 노출됩니다.
+[1)스윙샵 상품관리 → 2)상품 노출관리](http://www.swing2app.co.kr/view/store_product_expression) → 3)노출유형: 메인페이지-콜렉션 → 4)이벤트를 등록하면, 쇼핑몰 메인 페이지의 ‘주요상품’ 항목으로 노출됩니다.
 
 주요상품 항목은 이벤트 기능으로, 더 노출을 하고 싶은 상품이 있다면 해당 섹션에서 보여줄 수 있구요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_20_17_53_24_275.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_20_17_53_24_275.gif" alt=""></div>
 
 섬네일 이미지 아래에 표시되는 조그만 상품 이미지를 누르면 해당 상품 페이지로 이동합니다.
 
@@ -238,19 +214,15 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 메인페이지 제일 아래에 보시면 푸터 영역이 있고, 메시지를 입력할 수 있어요.
 
-해당 메시지는 [1)스윙샵 상점관리 → 2)기본정보 설정](http://www.swing2app.co.kr/view/store\_info\_basic\_setting) → 3)상점 푸터에서 수정 및 등록할 수 있어요.
+해당 메시지는 [1)스윙샵 상점관리 → 2)기본정보 설정](http://www.swing2app.co.kr/view/store_info_basic_setting) → 3)상점 푸터에서 수정 및 등록할 수 있어요.
 
 원하는 멘트를 기재한 뒤 저장하시면 쇼핑몰 메인페이지 상점 푸터 글로 보여집니다.
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-## ![](<../../.gitbook/assets/image (2) (1).png>) **STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
+## ![](<../../.gitbook/assets/image (2) (1) (1).png>) **STEP2. 앱 실행화면 – 쇼핑몰 메인 페이지 적용**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_20_17_54_01_331.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%EB%85%B9%ED%99%94_2020_08_20_17_54_01_331.gif" alt=""></div>
 
 상품 등록 등 모든 내용 입력이 완료된 후 다시 앱을 실행해보시면 메인 페이지 항목이 모두 채워진 것을 확인할 수 있습니다.
 

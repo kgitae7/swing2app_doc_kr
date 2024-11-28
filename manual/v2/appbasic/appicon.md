@@ -6,13 +6,9 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **1. 앱 아이콘이란?**
+### ![](<../../../.gitbook/assets/image (2) (1) (1).png>) **1. 앱 아이콘이란?**
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt=""></div>
 
 **앱을 대표하는 이미지이며, 스마트폰 바탕화면에 표시되는 대표 아이콘 이미지를 말합니다.**
 
@@ -26,7 +22,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **2. 앱 아이콘 제작 가이드**
+### ![](<../../../.gitbook/assets/image (2) (1) (1).png>) **2. 앱 아이콘 제작 가이드**
 
 앱 아이콘은 핸드폰에서는 조그맣게 보이지만 실제로는 굉장히 높은 해상도로 작업을 해주셔야 해요.
 
@@ -66,15 +62,15 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **3. 앱 아이콘 디자인 가이드**
+### ![](<../../../.gitbook/assets/image (2) (1) (1).png>) **3. 앱 아이콘 디자인 가이드**
 
 **앱 아이콘을 어떻게 디자인 해야 하는지 어려워하시는 분들이 있을 텐데요.**
 
 **디자인의 가장 큰 핵심 포인트는!! ‘깔끔’해야 한다는 것입니다.**
 
-\-글자수를 절대 많이 넣으면 안되구요.
+-글자수를 절대 많이 넣으면 안되구요.
 
-\-배경화면, 이미지를 많이 넣는 것도 안됩니다.
+-배경화면, 이미지를 많이 넣는 것도 안됩니다.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98%EA%B0%80%EC%9D%B4%EB%93%9C4.png)
 
@@ -95,7 +91,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **4. 앱 아이콘 적용하기**
+### ![](<../../../.gitbook/assets/image (2) (1) (1).png>) **4. 앱 아이콘 적용하기**
 
 <mark style="color:green;">**앱제작 V3버전 이용시)**</mark>
 
@@ -142,7 +138,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../../.gitbook/assets/image (2) (1).png>) **5. 안드로이드폰과 아이폰에 앱 아이콘 스타일은 다릅니다.**
+### ![](<../../../.gitbook/assets/image (2) (1) (1).png>) **5. 안드로이드폰과 아이폰에 앱 아이콘 스타일은 다릅니다.**
 
 > **간혹 앱 아이콘이 아이폰과 안드로이드폰에서 다르게 보여요. 뭐가 잘못된거 아니에요?**\
 > **혹은** \
@@ -160,11 +156,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 <mark style="color:blue;">**1) 아이폰에서 보이는 앱 아이콘 스타일**</mark>
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/iphone_icon1.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/iphone_icon1.png" alt=""></div>
 
 아이폰은 모든 아이폰 모델에서 아이콘 스타일이 동일하게 보여지는데요.
 
@@ -176,11 +168,7 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 <mark style="color:blue;">**2)**</mark> <mark style="color:blue;">**안드로이드폰에서 보이는 앱 아이콘 – 안드로이드 11 버전**</mark>
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt=""></div>
 
 안드로이드폰(11버전)도 아이폰과 동일하게 특정 앱 아이콘 스타일로 보여집니다.
 

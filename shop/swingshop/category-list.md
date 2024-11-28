@@ -10,13 +10,9 @@ description: 스윙샵에서 제공하는 페이지 중 ‘카테고리 리스�
 
 ***
 
-<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**카테고리 리스트 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**카테고리 리스트 앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png" alt=""></div>
 
 카테고리 리스트는 실물상품, 디지털 상품시에만 적용해주세요.
 
@@ -90,11 +86,7 @@ description: 스윙샵에서 제공하는 페이지 중 ‘카테고리 리스�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 카테고리 리스트 페이지 앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_26_16_46_56_168.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_26_16_46_56_168.gif" alt=""></div>
 
 카테고리 리스트 페이지가 적용된 앱 실행화면입니다.&#x20;
 
@@ -112,7 +104,7 @@ ex) TOP 카테고리 선택시 → 블라우스, 니트, 티 상품 목록 확�
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.png)
 
-[<mark style="color:blue;">**\[**</mark>**앱운영→스윙샵→상품관리→상품카테고리등록관리\]**](https://www.swing2app.co.kr/view/store\_product\_category)
+[<mark style="color:blue;">**\[**</mark>**앱운영→스윙샵→상품관리→상품카테고리등록관리\]**](https://www.swing2app.co.kr/view/store_product_category)
 
 카테고리 등록관리 화면이구요.&#x20;
 

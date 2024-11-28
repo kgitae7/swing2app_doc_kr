@@ -8,13 +8,9 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 상품 검색 외에도 등록된 모든 상품을 리스트로 보여주며, 목록&필터 기능을 이용하여 상품을 조회할 수 있습니다.&#x20;
 
-<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**상품검색 앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt=""></div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -78,17 +74,9 @@ description: 스윙샵에서 제공하는 페이지 중 ‘상품검색’을  �
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 상품검색 페이지 앱 실행화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_17_17_34_18_503.gif" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_17_17_34_18_503.gif" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_17_17_29_01_325.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_17_17_29_01_325.gif" alt=""></div>
 
 상품 검색은 상품명을 검색하여 볼 수 있는 것 외에도 목록보기, 필터 기능도 제공되고 있어요!
 

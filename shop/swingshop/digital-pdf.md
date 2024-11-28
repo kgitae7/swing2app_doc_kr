@@ -20,7 +20,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 **☞** [**스윙샵 신청방법 보러가기**](broken-reference)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1\_19.09-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_19.09-1.png)
 
 \[스윙샵]이 생성되었다면, 먼저 상품 카테고리를 등록해야 합니다.
 
@@ -30,7 +30,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2\_19.09-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2_19.09-1.png)
 
 상품카테고리 등록관리 화면에 있는 1)\[등록하기] 버튼을 선택해주세요.
 
@@ -42,7 +42,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D3\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D3_19.09.png)
 
 카테고리 등록이 완료되었습니다.
 
@@ -56,11 +56,11 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 이제 카테고리 등록이 끝났다면! 본격적으로 상품을 등록해볼게요&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D5_19.09.png)
 
 스윙샵 → 상품관리 → 상품등록 화면으로 이동해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D6\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D6_19.09.png)
 
 1\. 상품유형: ‘디지털’을 선택합니다.
 
@@ -68,11 +68,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 해당 포스팅에서는 ‘PDF보기’를 선택해서 등록할게요!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D7_19.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D7_19.09.png" alt=""></div>
 
 3\. PDF파일 업로드: 등록하고자 하는 pdf 파일을 업로드 해주세요 \[미리보기] 버튼을 선택해서 등록한 파일을 확인할 수 있어요.
 
@@ -82,7 +78,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 <mark style="color:red;">-외부 공유 및 연동이 되어도 괜찮다면 체크를 풀어주세요.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D10\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D10_19.09.png)
 
 5\. 상품명 : 상품 이름을 입력해주세요.
 
@@ -100,7 +96,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D8\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D8_19.09.png)
 
 11\. 상품별 결제수단: PAY APP(페이앱)카드결제를 체크해주세요.
 
@@ -124,19 +120,15 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-&#x20;<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+&#x20;<img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif" alt=""></div>
 
 16\. 상품간단설명: 상품을 소개하는 간단한 한 줄 설명을 입력합니다.
 
 17\. 상품 상세 설명: 상품 이미지, 설명, 상품정보, 환불 및 교환 등 상세 정보를 에디터 프로그램을 이용해서 작성해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D9\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D9_19.09.png)
 
 18\. 상품 상세 이미지: 상품 이미지를 등록합니다. 여러장의 이미지 등록이 가능하고 순서 변경이 가능합니다.
 
@@ -150,7 +142,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 **—상품 등록이 완료되었구요. 등록된 상품은 상품 조회에서 확인할 수 있어요.—**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D4\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%88%EB%93%B1%EB%A1%9D4_19.09.png)
 
 상품조회 메뉴에서 등록한 상품 목록을 모두 확인할 수 있구요.
 
@@ -222,27 +214,15 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 그리고 어떻게 pdf파일을 구매하고, 열람이 가능한지 확인할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%882\_19.09-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%9C%ED%92%882_19.09-1.png)
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A46-1.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A46-1.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A47-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/pdf%ED%8C%90%EB%A7%A47-1.png" alt=""></div>
 
 **▶구매 진행단계 및 구매한 PDF 파일을 열람하는 방법을 움짤이미지로 확인해주세요.**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_09_24_12_30_50_728.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_09_24_12_30_50_728.gif" alt=""></div>
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -264,11 +244,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B03.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png" alt=""></div>
 
 디지털구매완료 메뉴를 선택해주세요.
 
@@ -344,11 +320,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%87%BC%ED%95%91%EB%AA%B0-pdf%ED%8C%8C%EC%9D%BC%EB%B3%B4%EA%B8%B023.png" alt=""></div>
 
 컨텐츠 열람 페이지에서 해당 파일의 pdf 버튼을 선택하면 pdf를 다시 볼 수 있습니다.
 

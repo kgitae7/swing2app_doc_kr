@@ -44,7 +44,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **1. 페이앱**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **1. 페이앱**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%882_20.04.png)
 
@@ -90,7 +90,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **2. 무통장 입금**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **2. 무통장 입금**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%883_20.04.png)
 
@@ -122,7 +122,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **3. 대면결제(현금)**&#x20;
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **3. 대면결제(현금)**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EA%B2%B0%EC%A0%9C%EB%AA%A8%EB%93%88%EC%B6%94%EA%B0%803_20.04.png)
 
@@ -158,7 +158,7 @@ description: 스윙샵에 적용하는 결제모듈(전자결제, 무통장입�
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **4. 카카오페이 설정**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **4. 카카오페이 설정**
 
 **그 외 확장형 이용권 사용중인 분들은 카카오페이를 적용할 수 있습니다.**
 

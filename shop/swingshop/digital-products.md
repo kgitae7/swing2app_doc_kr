@@ -14,13 +14,9 @@ description: 스윙샵에서 제공하는 페이지 중 ‘디지털상품 구�
 
 ***
 
-<img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**디지털상품 구매완료 페이지 앱 실행화면**</mark>
+<img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:blue;">**디지털상품 구매완료 페이지 앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C.1png.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C.1png.png" alt=""></div>
 
 스윙 학원 샘플앱을 실행한 화면이구요.
 
@@ -90,19 +86,11 @@ description: 스윙샵에서 제공하는 페이지 중 ‘디지털상품 구�
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 디지털상품 구매완료 페이지 앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_28_03_46_38_29.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_28_03_46_38_29.gif" alt=""></div>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C2.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%99%84%EB%A3%8C3.png" alt=""></div>
 
 디지털상품 구매완료 페이지로 이동하면 사용자가 구매 완료한 상품을 모두 확인할 수 있구요.
 
@@ -122,13 +110,9 @@ PDF 보기를 선택하면 컨텐츠 내용을 확인할 수 있습니다.&#x20;
 
 
 
-<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
+<img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line">**이용권한 상품 구매시 앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_28_03_49_47_21.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/02/%EB%85%B9%ED%99%94_2021_02_28_03_49_47_21.gif" alt=""></div>
 
 **이용권한은 \[보기]** 버튼을 누르면 권한 이용기한 등 내용을 확인해주는 용도의 주문상세 페이지로 이동합니다.
 

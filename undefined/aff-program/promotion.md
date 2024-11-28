@@ -40,7 +40,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) 1.제휴 URL은 어디서 발행이 되나요?&#x20;
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) 1.제휴 URL은 어디서 발행이 되나요?&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B41_19.11.png)
 
@@ -58,7 +58,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **2.배너 스타일**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **2.배너 스타일**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A0%9C%ED%9C%B4%ED%99%8D%EB%B3%B42_19.11.png)
 
@@ -72,7 +72,7 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](<../../.gitbook/assets/image (2) (1).png>) **3.배너를 이용한 홍보방법**
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>) **3.배너를 이용한 홍보방법**
 
 
 
