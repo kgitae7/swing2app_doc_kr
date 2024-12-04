@@ -464,7 +464,7 @@
   * [Firebase 프로젝트 연동하기(iOS)](developer/firebase/firebase-ios.md)
   * [Dynamic Links 연동](developer/firebase/dynamic-links.md)
 * [애플 개발자 계정 등록 프로세스](storedeveloper/appleprocess.md)
-* [DUNS 넘버 발행 방법](storedeveloper/duns.md)
+* [DUNS 번호 발행 방법](storedeveloper/duns.md)
 * [네이버 로그인 API 연동](developer/naver-login.md)
 * [카카오 로그인 API 연동](developer/kakao-login.md)
 * [구글 로그인 API 연동](developer/google-login.md)
