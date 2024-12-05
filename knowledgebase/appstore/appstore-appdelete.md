@@ -1,14 +1,12 @@
 # 앱스토어 출시된 앱 삭제하기
 
+앱스토어에 출시된 앱을 판매 중지(삭제) 하는 방법을 알려드리겠습니다.&#x20;
+
+***
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%95%B1%EC%82%AD%EC%A0%9C.png)
 
-**앱스토어에 출시된 앱을 판매 중지(삭제) 하는 방법을 알려드리겠습니다.**&#x20;
-
-&#x20;
-
-### <mark style="color:blue;">**STEP.1 앱스토어 커넥트 사이트 접속**</mark>
+## **STEP1. 앱스토어 커넥트 사이트**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C1.png)
 
@@ -18,15 +16,15 @@
 
 [https://appstoreconnect.apple.com/](https://appstoreconnect.apple.com/)
 
-<mark style="color:orange;">**+해당 사이트로 접속하여, 애플 개발자 계정으로 로그인해주시면 됩니다.**</mark>
+<mark style="color:orange;">+해당 사이트로 접속하여, 애플 개발자 계정으로 로그인해주시면 됩니다.</mark>
 
-<mark style="color:orange;">**+\[나의 앱]을 선택해주세요.**</mark>
+<mark style="color:orange;">+\[나의 앱]을 선택해주세요.</mark>
 
 ***
 
 &#x20;
 
-### <mark style="color:blue;">**STEP.2 삭제할 앱 선택**</mark>
+## **STEP2. 앱 선택**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C2.png)
 
@@ -34,8 +32,7 @@
 
 여기서 판매를 중단할 앱을 선택해주세요.
 
-&#x20;
-
+{% hint style="danger" %}
 <mark style="color:red;">**★ 주의사항**</mark>
 
 앱 목록에는 판매가 되고 있는 앱도 있고, 심사가 거절된 앱들도 있을 거에요.
@@ -43,38 +40,66 @@
 이때 **판매가 준비됨으로 표시된 앱만 삭제가 가능하구요.**
 
 **심사가 거절되어 출시가 되지 않는 앱은 삭제가 되지 않으니 유념해주세요.**&#x20;
+{% endhint %}
 
 ***
 
 &#x20;
 
-### <mark style="color:blue;">**STEP.3 가격 및 사용가능 여부 선택**</mark>
+## **STEP3. 앱 판매중단 선택**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C3_886.png)
+<figure><img src="../../.gitbook/assets/애플 앱 판매중단1.png" alt=""><figcaption></figcaption></figure>
 
-왼쪽 카테고리에서 **\[가격 및 사용가능 여부]**&#xBA54;뉴를 선택해주세요.
+왼쪽 카테고리에서 **\[가격 및 사용가능 여부]** 메뉴 선택
+
+해당 페이지 가장 아래에 <mark style="color:blue;">**'앱 판매 중단**</mark>'을 선택합니다.
+
+'저장' 선택하시면 반영됩니다.&#x20;
+
+{% hint style="warning" %}
+해당 방법은 완전히 앱을 삭제하는 것이 아닙니다.
+
+앱스토어에 앱을 내리는(게시 취소)하는 것입니다.
+
+따라서 얼마든지 다시 앱을 게시로 변경할 수 있습니다.&#x20;
+
+**판매 중단을 해도 바로 반영되는 것이 아닙니다.**&#x20;
+
+**최대 24시간 후에 반영되며, 이후에 앱스토어에서 보이지 않게 됩니다.**
+{% endhint %}
+
+
 
 ***
 
-### <mark style="color:blue;">**STEP.4  \[판매 중단] 선택 후 저장**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%A0%ED%94%8C%EC%82%AD%EC%A0%9C3_886.png)
 
-사용 가능 여부에 보시면 출시가 된 앱은 ‘모든 국가 및 지역이 선택됨’에 체크가 되어 있을거에요.
+## **STEP4.앱을 완전히 삭제하는 방법은? =앱 삭제**
 
-바로 밑에 있는<mark style="color:purple;">**‘판매 중단’**</mark>에 체크를 해주시구요.
+앱스토어 커넥트에서 앱을 완전히 삭제 할 수도 있습니다.&#x20;
 
-상단의 <mark style="color:purple;">**‘저장’**</mark> 버튼을 누르면 삭제가 완료됩니다.
+<div align="left"><figure><img src="../../.gitbook/assets/애플 앱 삭제1.png" alt=""><figcaption></figcaption></figure></div>
 
-**\*\* 구글 플레이스토어와 마찬가지로 애플도 앱을 삭제했다고 마켓에서 바로 없어지는 것이 아니구요.**
+왼쪽 메뉴 **일반정보: \[앱 정보]** 선택합니다.&#x20;
 
-**최대 하루 정도 후에 반영되어서 앱스토어에서 앱 판매가 중지됩니다.**&#x20;
+페이지 가장 아래에 **\[앱 삭제]**&#xB97C; 선택합니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/애플 앱 삭제2.png" alt=""><figcaption></figcaption></figure>
+
+**\[삭제]** 버튼을 선택하면, 완전히 커넥트에서 앱이 삭제됩니다.
+
+
 
 ***
 
+{% hint style="info" %}
 <mark style="color:red;">**\[안내사항]**</mark>
 
-1\. 앱스토어 앱 삭제는 출시된 앱을 내리는 것일 뿐, 스윙투앱에서 제작한 앱 자체가 삭제되는 것이 아니에요.
+**앱스토어에서 앱을 내리는 것 = 판매 중단**
+
+**앱스토어 앱 삭제 = 앱 삭제**&#x20;
+
+1.판매중단은 앱이 삭제되는 것이 아니며, 스토어에서 내리는 것입니다. 다음에 다시 배포할 수 있습니다.&#x20;
 
 2\. 앱스토어에 앱 판매중지를 하면 바로 반영되는 것이 아니라 최대 하루 후에 반영이 됩니다.
 
@@ -85,3 +110,5 @@
 5\. 애플 개발자 계정 없이, 스윙 계정으로 아이폰 앱 출시를 하신 분들 중 앱 삭제를 원하는 분들은 스윙투앱으로 별도 문의를 주세요.
 
 문의게시판 혹은 고객센터로 연락주시면 확인하고 앱스토어에 앱을 삭제해드리도록 하겠습니다.
+{% endhint %}
+
