@@ -38,14 +38,6 @@ description: 구글 , 개발자 계정에서 자주 묻는 질문을 정리해�
 
 <details>
 
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
 <summary>개발자 정보를 인증하는 데 시간이 더 필요한데 어떻게 해야 하나요?</summary>
 
 개발자 정보를 인증하는 데 시간이 더 필요한 경우 Play Console에서 이의신청을 제출할 수 있습니다.
