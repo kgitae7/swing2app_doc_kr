@@ -334,16 +334,16 @@
   * [제휴프로그램 신청방법](undefined/aff-program/apply.md)
   * [제휴프로그램 약관](undefined/aff-program/affiliate-program-terms.md)
   * [제휴프로그램 홍보방법](undefined/aff-program/promotion.md)
+* [타사 앱 서비스 이전 문의](undefined/apptransfer.md)
 
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
 * [개발자 계정 자주 묻는 질문](knowledgebase/faq/README.md)
-  * [구글 개발자 계정 자주 묻는 질문](knowledgebase/faq/googledeveloper.md)
-  * [애플 개발자 계정 자주 묻는 질문](knowledgebase/faq/appledeveloper.md)
+  * [구글 개발자계정 자주 묻는 질문](knowledgebase/faq/googledeveloper.md)
+  * [애플-앱스토어 자주 묻는 질문](knowledgebase/faq/appledeveloper.md)
   * [구글 개발자 계정 생성 방법](knowledgebase/faq/googleaccount.md)
   * [애플 개발자 계정 생성 방법](knowledgebase/faq/appleaccount.md)
   * [애플 개발자 계정 갱신(멤버십 연장)](knowledgebase/faq/appleaccount-renew.md)
-  * [타사 앱 서비스 이전 문의](knowledgebase/faq/apptransfer.md)
 * [플레이스토어](knowledgebase/playstore/README.md)
   * [구글 개발자-개인 계정 만들기](knowledgebase/playstore/google-developer.md)
   * [구글 개발자-조직 계정 만들기](knowledgebase/playstore/google-businessdeveloper.md)
