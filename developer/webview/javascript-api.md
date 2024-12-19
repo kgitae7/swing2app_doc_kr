@@ -273,7 +273,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
     else if( result == 'off_on_app' )       // 앱 설정에 의한 앱 푸시 비활성화
     {
         console.log('push inactive');
-        swingWebViewPlugin.app.methods.goToNotificationSetting("app");    // 앱 설정 Open
+        swingWebViewPlugin.app.screen.setting.show();    // 앱 설정 Open
     }
 });
 ```
@@ -286,7 +286,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
 (1) 어플리케이션 자체적인 알람 설정을 할 수 있는 화면으로 이동
 
 ```javascript
-swingWebViewPlugin.app.methods.goToNotificationSetting('app');
+swingWebViewPlugin.app.screen.setting.show();
 ```
 
 (2) 시스템(안드로이드, iOS) 자체적인 알람 설정을 할 수 있는 화면으로 이동
