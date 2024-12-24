@@ -24,13 +24,18 @@ description: Meta SDK를 활용하는 Javascript Interface
 
 값 없이 이벤트 기록하기
 
+* 첫번째 파라미터는 이벤트 명을 입력해주시면 됩니다.
+
 {% code lineNumbers="true" %}
 ```javascript
 swingWebViewPlugin.event.meta.addFbEvent('PageView');
 ```
 {% endcode %}
 
-값을 포함하여 이벤트 기록하기
+값을 포함하여 이벤트 기록하기&#x20;
+
+* 첫번째 파라미터는 이벤트 명을 입력해주시면 됩니다.
+* 두번째 파라미터는 반드시 숫자를 입력해주셔야 합니다. (소숫점 포함)
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -39,6 +44,10 @@ swingWebViewPlugin.event.meta.addFbEventWithValue('PageView', '1.25');
 {% endcode %}
 
 값과 파라미터를 포함하여 이벤트 기록하기
+
+* 첫번째 파라미터는 이벤트 명을 입력해주시면 됩니다.
+* 두번째 파라미터는 반드시 숫자를 입력해주셔야 합니다. (소숫점 포함)
+* 세번째 파라미터는 Meta 에 전달할 Event 파라미터를 정의하시면 됩니다.
 
 {% code lineNumbers="true" %}
 ```javascript
