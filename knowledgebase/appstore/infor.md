@@ -2,7 +2,7 @@
 description: 앱스토어 앱 등록을 위해 준비해야 하는 항목을 알려드립니다.
 ---
 
-# 앱스토어 앱 등록 전 준비사항
+# 앱스토어 앱 등록 준비사항
 
 ***
 
@@ -42,11 +42,7 @@ description: 앱스토어 앱 등록을 위해 준비해야 하는 항목을 알
 
 따라서 만약 앱 이름을 생각했는데 중복되어 사용이 불가하다면 이름을 변경해야 합니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/이름.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/이름.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -60,11 +56,7 @@ description: 앱스토어 앱 등록을 위해 준비해야 하는 항목을 알
 
 글자수는 30자 이내입니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/부제.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/부제.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -84,11 +76,7 @@ description: 앱스토어 앱 등록을 위해 준비해야 하는 항목을 알
 
 예시) 앱제작, 앱만들기, 어플제작, 어플개발, 앱개발, 앱제작도구
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/키워드.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/키워드.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -108,11 +96,7 @@ description: 앱스토어 앱 등록을 위해 준비해야 하는 항목을 알
 
 해당 앱에 어떤 기능이 제공되고 있는지, 그래서 어떠한 편의성을 주는지 등등 어플을 설치했을 때 오는 이점을 알려주는 것이 좋습니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/자세한설명.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/자세한설명.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -126,34 +110,28 @@ description: 앱스토어 앱 등록을 위해 준비해야 하는 항목을 알
 
 앱 실제 실행화면이 들어가야 하며, 앱 다운을 유도하는 홍보 사진이 됩니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/스샷.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/스샷.png" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:blue;">**\[이미지사이즈 확인해주세요]**</mark>
 
-1\)아이폰 8플러스 기준 (5.5 디스플레이), 사이즈:1242 x 228px 또는 2208 x 1242px
+1\)아이폰 X 기준 (6.5 디스플레이), 사이즈:1242 x 2688px 또는 2688 x 1242px
 
-2\)아이폰 X 기준 (6.5 디스플레이), 사이즈:1242 x 2688px 또는 2688 x 1242px
+2\)아이폰 14 Pro Max (6.7 디스플레이), 사이즈:1290 x 2796px 또는 2796 x 1290px
 
-3\)아이폰 14 Pro Max (6.7 디스플레이), 사이즈:1290 x 2796px 또는 2796 x 1290px
-
-4\)아이패드 이미지 (선택사항), 사이즈:2048x2732px 또는 2732x2048px
+3\)아이패드 이미지 (선택사항), 사이즈:2048x2732px 또는 2732x2048px
 
 &#x20;아이패드 이미지는 2개 항목이지만, 사이즈가 같기 때문에 하나만 만들어서 2개 항목에 등록해주시면 됩니다.
 
 {% hint style="info" %}
-\-아이폰은 종류별 총 3개 사이즈 이미지를 준비해주셔야 합니다. 모두 필수 항목입니다.
+-아이폰은 종류별 총 3개 사이즈 이미지를 준비해주셔야 합니다. 모두 필수 항목입니다.
 
-\-아이패드 이미지는 선택사항이에요. 등록하지 않아도 문제는 없습니다.
+-아이패드 이미지는 선택사항이에요. 등록하지 않아도 문제는 없습니다.
 
 아이패드에서도 앱 다운이 가능하고 스샷은 아이폰으로 대체되어 보여집니다.
 
 단, 아이패드에도 최적화된 이미지 제출을 원한다면 아이패드용 스크린샷 이미지도 등록하시는 것을 추천드려요.
 
-\-이미지는 모두 최소 3장\~최대 10장까지 등록 가능합니다.
+-이미지는 모두 최소 3장\~최대 10장까지 등록 가능합니다.
 {% endhint %}
 
 {% hint style="danger" %}
