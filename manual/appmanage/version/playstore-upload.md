@@ -14,9 +14,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **스윙 유료앱이용권 결제와 함께 플레이스토어 업로드 티켓을 구매해주시면 됩니다.**
 
-[이용권 구매 페이지](https://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term)
+[이용권 구매 페이지](https://www.swing2app.co.kr/view/new_product_list_by_use_term)
 
-[플레이스토어 업로드티켓 구매 페이지](https://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)
+[플레이스토어 업로드티켓 구매 페이지](https://www.swing2app.co.kr/view/order_info_action?product_id=4)
 
 그러면, 앱이 마켓에 올라가겠구나… 라고 생각할 수 있지만 !
 
@@ -30,7 +30,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <summary><mark style="color:blue;"><strong>Q. 업로드 신청은 어디서 어떻게 하는건가요?</strong></mark></summary>
 
-업로드 신청은 [ 앱운영페이지 → 버전관리에 → 앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history)으로 들어가구요.
+업로드 신청은 [ 앱운영페이지 → 버전관리에 → 앱제작이력](http://www.swing2app.co.kr/view/app_work_history)으로 들어가구요.
 
 해당 페이지에서 \[플레이스토어 업로드 신청]을 확인할 수 있습니다.
 
@@ -78,8 +78,8 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
-{% content-ref url="../../../terms/market-policy/" %}
-[market-policy](../../../terms/market-policy/)
+{% content-ref url="../../../knowledgebase/store/" %}
+[store](../../../knowledgebase/store/)
 {% endcontent-ref %}
 
 ★ 앱스토어 업로드 신청방법은 해당 매뉴얼을 참고해주세요!!
@@ -96,9 +96,9 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 스윙 유료앱 이용권, 플레이스토어 업로드티켓을 모두 구매 완료하구요.
 
-플레이스토어 업로드티켓(1회 20,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=4)에서 구매 가능합니다.
+플레이스토어 업로드티켓(1회 20,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order_info_action?product_id=4)에서 구매 가능합니다.
 
-\*구매가 완료되었다면, [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app\_work\_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
+\*구매가 완료되었다면, [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app_work_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -264,11 +264,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **15) 스윙투앱 스토어 출시 및 마케팅 정보 활용 동의(선택사항)**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C4.png" alt=""></div>
 
 <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
 
@@ -276,11 +272,11 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 해당 버튼을 선택해서, 내용을 확인해주세요.
 
-\-‘동의’ 하실 경우 스윙투앱의 마케팅 채널에 사용자 분의 앱이 소개되며, 스윙스토어 출시가 되구요.
+-‘동의’ 하실 경우 스윙투앱의 마케팅 채널에 사용자 분의 앱이 소개되며, 스윙스토어 출시가 되구요.
 
 감사의 의미로 무료 플레이스토어 업로드 티켓이 제공됩니다.
 
-\-마케팅 채널에 소개되는 것을 원치 않으면 ‘동의안함’에 체크해주시면 됩니다.
+-마케팅 채널에 소개되는 것을 원치 않으면 ‘동의안함’에 체크해주시면 됩니다.
 
 \* 이용권만 구매한 뒤 플레이스토어 업로드티켓을 구매하지 않으셔도, 이벤트 참여해주시면 무료로 플레이스토어 업로드를 이용할 수 있습니다.
 
@@ -308,7 +304,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ## 4. 업로드 신청완료
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%EC%88%98%EC%A0%95\_19.10.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%EC%88%98%EC%A0%95_19.10.png)
 
 플레이스토어 업로드 신청 모든 과정이 끝났구요.
 
@@ -340,11 +336,11 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 3\) 플레이스토어 심사기간은 **최대 7일이 소요**됩니다. 심사에서 문제가 없으면 해당 심사 기간 후 출시됩니다.
 
-\-주말 및 업무시간 외에 업로드 신청을 할 경우 당일 심사 불가하며, 평일 업무시간에 순차적으로 진행됩니다.
+-주말 및 업무시간 외에 업로드 신청을 할 경우 당일 심사 불가하며, 평일 업무시간에 순차적으로 진행됩니다.
 
 업로드 심사 거절시, 심사거절 및 조치사항을 메일로 보내드립니다. \*재심사는 비용추가 없이 진행해드립니다.
 
-\-메일을 받으면 조치사항에 대해서 회신주셔야 재심사를 진행해드리며, 일주일 내로 회신을 주지 않으면 업로드건은 등록 보류로 처리됩니다. (등록 보류건은 이후 다시 연락주시면 재심사 진행해드립니다)
+-메일을 받으면 조치사항에 대해서 회신주셔야 재심사를 진행해드리며, 일주일 내로 회신을 주지 않으면 업로드건은 등록 보류로 처리됩니다. (등록 보류건은 이후 다시 연락주시면 재심사 진행해드립니다)
 
 4\) 플레이스토어 업로드 신청 전 반드시 사용자 분의 구글 개발자 계정을 미리 만들어주셔야 합니다.
 

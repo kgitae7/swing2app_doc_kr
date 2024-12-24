@@ -328,16 +328,25 @@
   * [앱 관리자메뉴:쿠폰사용](appguide/appoperation/appmanager-couponuse.md)
 * [앱 미리보기 이용방법](appguide/swingpreview.md)
 
-## 프로그램 및 컨설팅
+## 프로그램 및 컨설팅 <a href="#program" id="program"></a>
 
-* [제휴프로그램](undefined/aff-program/README.md)
-  * [제휴프로그램 신청방법](undefined/aff-program/apply.md)
-  * [제휴프로그램 약관](undefined/aff-program/affiliate-program-terms.md)
-  * [제휴프로그램 홍보방법](undefined/aff-program/promotion.md)
-* [타사 앱 서비스 이전 문의](undefined/apptransfer.md)
+* [제휴프로그램](program/aff-program/README.md)
+  * [제휴프로그램 신청방법](program/aff-program/apply.md)
+  * [제휴프로그램 약관](program/aff-program/affiliate-program-terms.md)
+  * [제휴프로그램 홍보방법](program/aff-program/promotion.md)
+* [타사 앱 서비스 이전 문의](program/apptransfer.md)
 
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
 
+* [스토어 이용약관](knowledgebase/store/README.md)
+  * [플레이스토어 업로드 대행 약관](knowledgebase/store/playstore-policy.md)
+  * [앱스토어 업로드 대행 약관](knowledgebase/store/appstore-policy.md)
+  * [플레이스토어 등록 불가 앱(컨텐츠, 업종)](knowledgebase/store/playstoreunable.md)
+  * [앱스토어 등록 불가 앱(컨텐츠, 업종)](knowledgebase/store/appstoreunable.md)
+  * [앱스토어, 플레이스토어 등록 주의사항](knowledgebase/store/cautions.md)
+  * [애플 개발자 계정 대리 등록 주의사항](knowledgebase/store/applecautions.md)
+  * [앱스토어 주요 정책 이슈](knowledgebase/store/appstorepolicy.md)
+  * [플레이스토어 주요 정책 이슈](knowledgebase/store/playstorepolicy.md)
 * [개발자 계정 자주 묻는 질문](knowledgebase/faq/README.md)
   * [구글 개발자계정 자주 묻는 질문](knowledgebase/faq/googledeveloper.md)
   * [애플-앱스토어 자주 묻는 질문](knowledgebase/faq/appledeveloper.md)
@@ -482,12 +491,9 @@
 * [스윙투앱 개인정보 처리방침](terms/privacy.md)
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
 * [스윙투앱 교육용 라이선스](terms/license-for-edu.md)
-* [스토어 이용약관](terms/market-policy/README.md)
-  * [플레이스토어 업로드 대행 약관](terms/market-policy/playstore-policy.md)
-  * [앱스토어 업로드 대행 약관](terms/market-policy/appstore-policy.md)
 * [무료앱 설치 기기수 제한](terms/mau.md)
 * [이용제한 이용자 안내](terms/violation-policy.md)
 
 ***
 
-* [고급 푸시 발송](undefined-1.md)
+* [고급 푸시 발송](undefined.md)
