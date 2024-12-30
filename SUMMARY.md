@@ -330,10 +330,11 @@
 
 ## 프로그램 및 컨설팅 <a href="#program" id="program"></a>
 
-* [제휴프로그램](program/aff-program/README.md)
-  * [제휴프로그램 신청방법](program/aff-program/apply.md)
-  * [제휴프로그램 약관](program/aff-program/affiliate-program-terms.md)
-  * [제휴프로그램 홍보방법](program/aff-program/promotion.md)
+* [제휴프로그램](program/affilate/README.md)
+  * [제휴프로그램 소개](program/affilate/main.md)
+  * [제휴프로그램 신청방법](program/affilate/apply.md)
+  * [제휴프로그램 약관](program/affilate/affiliate-program-terms.md)
+  * [제휴프로그램 홍보방법](program/affilate/promotion.md)
 * [타사 앱 서비스 이전 문의](program/apptransfer.md)
 
 ## 스토어 <a href="#knowledgebase" id="knowledgebase"></a>
