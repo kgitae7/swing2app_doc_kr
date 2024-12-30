@@ -14,24 +14,26 @@ description: 나의 광고로 접속한 사용자 판매금액의 일부를 수�
 
 
 
-## 1.스윙투앱 제휴프로그램이란?
+## 1.제휴프로그램이란?
 
 {% hint style="info" %}
 **최고 수익률 30%**
 {% endhint %}
 
-* **스윙투앱을 나의 블로그, 홈페이지 또는 SNS에 홍보해주세요.**
-* **나의 광고로 접속한 사용자판매금액의 일부를 수수료로 받는 제휴프로그램** &#x20;
-* **나의 광고로 접속한 사용자의 매출은 평생 나의 수익이 됩니다.**
-* **스윙으로 누구나 마케터가 되어 스윙의 수익을 함께 할 수 있습니다.**
+* 스윙투앱을 나의 블로그, 홈페이지 또는 SNS에 홍보해주세요.
+* 나의 광고로 접속한 사용자판매금액의 일부를 수수료로 받는 제휴프로그램 &#x20;
+* 나의 광고로 접속한 사용자의 매출은 평생 나의 수익이 됩니다.
+* 스윙으로 누구나 마케터가 되어 스윙의 수익을 함께 할 수 있습니다.
 
 ***
 
 
 
-## 2.스윙투앱 제휴 신청 및 진행 절차
+## 2.제휴 신청 및 진행 절차
 
 간단한 신청 절차를 통해 스윙투앱을 알리고 최고의 수익을 얻을 수 있습니다\~!
+
+{% embed url="https://documentation.swing2app.co.kr/program/affilate/apply" %}
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>제휴 프로그램 신청</strong></td><td><p></p><p>제휴 프로그램 신청 - 스윙투앱에서 심사 후 자격 취득</p></td><td><p></p><ul><li>제휴프로그램 신청서 작성</li><li>스윙투앱 팀 심사 (1-2일 소요)</li><li>심사 완료 승인</li><li>관리자 화면 및 관리자 전용 URL제공</li></ul></td></tr><tr><td><strong>광고 or 홍보 진행</strong></td><td><p></p><p>제공된 링크를 블로그, 홈페이지, SNS 등 다양한 매체로 홍보합니다.</p></td><td><p></p><ul><li>블로그 및 사이트 홍보(배너, 사이트 소개)</li><li>SNS 홍보(배너, 사이트 소개)</li><li>카카오톡, 라인 등 메신저 홍보 (사이트 소개)</li><li>관리자는 지속적으로 홍보 활동 진행</li></ul></td></tr><tr><td><strong>수익발생</strong></td><td><p></p><p>나의 광고로 유입된 고객의 매출액의 20~40의 수익을 가져갑니다.</p></td><td><p></p><ul><li>소개한 사용자 매출 발생</li><li>매월 정산일 기준 수익 정산</li><li>수익자 계좌로 정산금액 입금</li><li>세금계산서 및 영수증 발행 가능</li></ul></td></tr></tbody></table>
 
@@ -59,11 +61,23 @@ description: 나의 광고로 접속한 사용자 판매금액의 일부를 수�
 
 
 
-## 4.스윙투앱 제휴프로그램 혜택
+## 4.제휴프로그램 혜택
 
-<table data-view="cards"><thead><tr><th data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../../.gitbook/assets/혜택1 (1).png">혜택1 (1).png</a></td></tr><tr><td><a href="../../.gitbook/assets/혜택2.png">혜택2.png</a></td></tr><tr><td><a href="../../.gitbook/assets/혜택3.png">혜택3.png</a></td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/혜택.png" alt=""><figcaption></figcaption></figure>
 
 
+
+***
+
+
+
+**지금부터 스윙투앱으로 수익을 창출해보세요!**
+
+기타 궁금한 사항은 문의사항 또는 자주묻는 질문을 통해 확인해주세요.
+
+**\[제휴프로그램 담당자]**
+
+**이메일 : help@swing2app.co.kr**
 
 
 

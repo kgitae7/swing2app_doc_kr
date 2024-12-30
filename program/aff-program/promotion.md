@@ -6,23 +6,19 @@ description: 제휴프로그램을 이용하여 스윙투앱을 홍보하는 방
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **제휴 프로그램이란?**
+## **제휴 프로그램이란?**
 
 스윙투앱을 사용자들에게 홍보하고, 해당 사용자가 이용료를 결제하면 해당 이용료의 일정 수수료를 수익료(커미션)로 지급받는 프로그램입니다.
 
-[**☞ 스윙투앱 제휴프로그램 상세보기**](https://wp.swing2app.co.kr/aff-program/)
+{% embed url="https://documentation.swing2app.co.kr/program/affilate/main" %}
 
-
-
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **어떻게 수익료를 받을 수 있나요?**
+## **어떻게 수익료를 받을 수 있나요?**
 
 **스윙투앱 제휴를 신청하고, 승인을 받으시면 접속할 수 있는 제휴 URL을 발행해드립니다.**
 
 이 제휴 URL을 사용자에게 공유하거나 홍보해주시구요.
 
 이렇게 나의 광고로 접속한 사용자들이 스윙투앱에서 회원가입을 한 뒤 이용권을 구매하면, 해당 이용권의 일정 금액이 수익료로 지급 됩니다.
-
-
 
 제휴 승인이 완료되면 제공된 제휴 URL을 받아서 나의 홈페이지, 블로그, 앱 등에서 홍보를 할 수 있구요.
 
