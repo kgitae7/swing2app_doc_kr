@@ -17,9 +17,9 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 {% hint style="info" %}
 **★구글 개발자 계정이란?**
 
-\-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
+-플레이스토어에 앱을 출시하기 위해 만들어야 하는 개발자용 계정으로, 구글에 등록비를 내고 만들 수 있습니다.
 
-\-계정 등록비 : 25달러 (한번 결제시 평생 이용, 한국 원화로 약 31,000\~34,000원 비용)
+-계정 등록비 : 25달러 (한번 결제시 평생 이용, 한국 원화로 약 31,000\~34,000원 비용)
 
 **\*구글 플레이 개발자 콘솔 사이트** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
@@ -109,7 +109,13 @@ description: 구글 개발자 계정 – 비즈니스 관리 계정을 만드는
 
 <figure><img src="../../.gitbook/assets/계정9.png" alt=""><figcaption><p>계정 만들기 - 개인용 선택</p></figcaption></figure>
 
+{% hint style="danger" %}
+\*계정을 처음에 만들때만, '개인용'으로 선택하구요.
 
+개발자 등록시 다시 '조직 유형: 회사 또는 비즈니스' 선택 하게 됩니다.&#x20;
+
+따라서 구글 계정 생성시에는 우선 '개인'으로 선택해주세요.&#x20;
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/g1.png" alt=""><figcaption></figcaption></figure>
 
@@ -303,11 +309,7 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 ### STEP7.앱 정보
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9513.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9513.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱 수 체크: 앞으로 구글 플레이에 몇 개 앱을 게시할 지 묻는 질문입니다.
 
@@ -325,11 +327,7 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 ### STEP8.구글에서 연락하는 방법
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/play12.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/play12.PNG" alt=""><figcaption></figcaption></figure></div>
 
 ​1)담당자 이름 입력
 
@@ -349,11 +347,7 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 ### STEP9.약관
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C1.png" alt=""><figcaption></figcaption></figure></div>
 
 약관 내용 체크해주세요.
 
@@ -367,29 +361,21 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 ## 3.결제하기(계정 등록비 결제)
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C2.png" alt=""><figcaption></figcaption></figure></div>
 
 **조직 등록에 필요한 정보 입력은 모두 완료했구요. 마지막 단계인 개발자 계정 등록비를 결제합니다.**
 
 **\[신용카드 또는 체크카드 추가]** 선택해주세요.
 
-\-구글 개발자 등록비 $25 (한화에 따라 33,000\~35,000원)
+-구글 개발자 등록비 $25 (한화에 따라 33,000\~35,000원)
 
-\-카드만 결제 가능합니다.
+-카드만 결제 가능합니다.
 
-\-카드 결제시 계정을 등록한 사람과 결제하고자 하는 카드 소유자는 달라도 상관없습니다.
+-카드 결제시 계정을 등록한 사람과 결제하고자 하는 카드 소유자는 달라도 상관없습니다.
 
 ​
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C3.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)카드 번호 입력
 
@@ -419,21 +405,13 @@ DUNS 번호 입력시 자동으로 번호 발행시 등록한 주소가 자동�
 
 
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B3%84%EC%A0%95%EA%B2%B0%EC%A0%9C4.png" alt=""><figcaption></figcaption></figure></div>
 
 카드등록이 완료되었구요. \[구입] 버튼을 선택해주세요.
 
 
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure></div>
 
 구매 완료 및, 개발자 계정 생성이 완료되었습니다.
 
