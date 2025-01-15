@@ -46,7 +46,7 @@ description: '푸시앱에서 이용 가능한 기본스타일: 추가 기능 �
 \*인앱은 프리미엄 이용권 구매했을때 이용 가능하며, 필요한 셋팅은 스윙투앱에서 모두 지원해드립니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/이미지 7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 '추가 기능'은 푸시앱제작 - STEP2 디자인 - 기본 스타일 및 옵션 - 추가 기능 탭에서 확인 가능합니다.&#x20;
 

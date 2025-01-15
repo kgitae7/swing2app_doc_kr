@@ -2,7 +2,7 @@
 description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수정하는 방법 안내
 ---
 
-# 푸시앱-메뉴 리스트 수정 방법
+# 푸시앱 \[메뉴] 리스트 수정 방법
 
 ***
 
@@ -32,11 +32,7 @@ description: 푸시앱에서 제공하는 툴바에서 리스트 메뉴를 수�
 
 **1)메뉴(Menu) 사용 하지 않을 경우 \*삭제**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바메뉴삭제2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바메뉴삭제2.png" alt=""><figcaption></figcaption></figure></div>
 
 메뉴(Menu) 자체를 사용하지 않는다면 제거해주시면 됩니다.
 
@@ -80,11 +76,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 앱 실행화면) 푸시앱 툴바 메뉴
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바메뉴핸드폰.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바메뉴핸드폰.png" alt=""><figcaption></figcaption></figure></div>
 
 푸시앱 메뉴 화면을 캡쳐한 화면이구요. 해당 메뉴처럼 기능들을 넣어볼게요.
 
@@ -94,11 +86,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 먼저 등록된 메뉴를 모두 삭제할게요.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바메뉴삭제 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바메뉴삭제 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 삭제하고자 하는 메뉴에 마우스 커서를 가져다대면 휴지통 모양의 아이콘이 보여집니다.
 
@@ -136,7 +124,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 \*아이콘은 선택 입력입니다. 텍스트만 입력하실 경우 해당 항목은 넘어가주세요.
 
-\-아이콘 등록은 돋보기 모양 아이콘 클릭시, 아이콘을 선택할 수 있습니다.
+-아이콘 등록은 돋보기 모양 아이콘 클릭시, 아이콘을 선택할 수 있습니다.
 
 다른 이미지를 이용하고 싶다면 마지막 업로드 버튼을 선택해서 아이콘 이미지를 등록해서 사용 가능합니다.
 
@@ -156,11 +144,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ### 4)이미지맵 적용하기
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바메뉴2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바메뉴2.png" alt=""><figcaption></figcaption></figure></div>
 
 다음은 이벤트 페이지로, 이벤트 홍보 이미지를 이미지맵으로 적용하여 등록하겠습니다.
 
@@ -176,7 +160,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 \*아이콘은 선택 입력입니다. 텍스트만 입력하실 경우 해당 항목은 넘어가주세요.
 
-\-아이콘 등록은 돋보기 모양 아이콘 클릭시, 아이콘을 선택할 수 있습니다.
+-아이콘 등록은 돋보기 모양 아이콘 클릭시, 아이콘을 선택할 수 있습니다.
 
 다른 이미지를 이용하고 싶다면 마지막 업로드 버튼을 선택해서 아이콘 이미지를 등록해서 사용 가능합니다.
 
@@ -202,17 +186,9 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ## 2.앱 실행화면
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/툴바메뉴핸드폰 (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/툴바메뉴핸드폰 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/녹화_2023_09_12_17_37_00_976.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/녹화_2023_09_12_17_37_00_976.gif" alt=""><figcaption></figcaption></figure></div>
 
 푸시앱 툴바 메뉴에 연결된 기능들을 확인한 화면입니다.
 
@@ -228,11 +204,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ### 1)앱 실행화면
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바10.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바10.png" alt=""><figcaption></figcaption></figure></div>
 
 기본 제공되는 아이콘 이미지 외에, 다른 이미지를 업로드하여 툴바 리스트아이콘을 꾸밀 수 있습니다.
 
@@ -282,11 +254,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ### 1)앱 실행화면
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바9.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바9.png" alt=""><figcaption></figcaption></figure></div>
 
 앱 실행화면에 보시는 것처럼, 리스트에 보여지는 글자 색상을 변경할 수 있습니다.
 
@@ -298,11 +266,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 ### 2)메뉴 리스트 텍스트 색상 변경하기
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/툴바메뉴7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/툴바메뉴7.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱제작 -STEP2디자인 선택
 
@@ -312,11 +276,7 @@ Menu에는 기능들이 샘플로 셋팅 되어 있습니다.
 
 HEX 값을 직접 입력하거나, 색상 버튼을 선택해서 원하는 색상을 핀으로 선택해도 됩니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/이미지 7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/이미지 7 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 4\)저장 버튼 선택
 

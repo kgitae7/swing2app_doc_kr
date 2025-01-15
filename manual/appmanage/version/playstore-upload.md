@@ -90,7 +90,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 1. 신청방법
+## 1.신청방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%88%98%EC%A0%951.png)
 
@@ -102,9 +102,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**2. 업로드 신청서**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C-1.png)
+## **2.업로드 신청서**
 
 업로드 신청 버튼은 누르면, 업로드 신청서 팝업창이  뜹니다. &#x20;
 
@@ -112,9 +110,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 &#x20;<mark style="color:red;">**\* 빨간색**</mark> 으로 표시된 항목은 필수 입력해주셔야 합니다.
 
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C2.png)
+<div align="left"><figure><img src="../../../.gitbook/assets/이미지 7.png" alt=""><figcaption></figcaption></figure></div>
 
 **‘ ? ’ 물음표** 아이콘을 선택하면 가이드라인을 확인할 수 있어요!
 
@@ -122,7 +118,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 3. 신청서 작성방법
+## 3.신청서 작성방법
 
 업로드 신청서 작성 방법을 가이드라인을 통해서 설명해드리겠습니다.&#x20;
 
@@ -130,23 +126,29 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **1) 마켓 출시 앱 이름**: 플레이스토어에 출시되는 앱 이름을 기재해주세요.(30자 이내)
 
-<mark style="color:red;">\*제작한 앱 이름과 출시 앱이름을 다르게 기재하실 경우 플레이 스토어에는 출시이름으로 기재되며, 앱 다운로드를 하면 핸드폰에는 제작한 앱 이름으로 설치됩니다.</mark>&#x20;
+{% hint style="warning" %}
+\*제작한 앱 이름과 출시 앱이름을 다르게 기재하실 경우 플레이 스토어에는 출시이름으로 기재되며, 앱 다운로드를 하면 핸드폰에는 제작한 앱 이름으로 설치됩니다.&#x20;
 
-<mark style="color:red;">주의) 영문 앱이름시 대문자로만 이루어진 이름 금지, 이름에 가격/할인/순서/ 순위 등을 나열하는 이름 금지</mark>
+주의) 영문 앱이름시 대문자로만 이루어진 이름 금지, 이름에 가격/할인/순서/ 순위 등을 나열하는 이름 금지
 
-<mark style="color:red;">예시)no.1 앱제작 서비스 스윙투앱 → no.1 금지입니다.</mark>
+예시)no.1 앱제작 서비스 스윙투앱 → no.1 금지입니다<mark style="color:red;">.</mark>
+{% endhint %}
 
 **2) 간단한 설명:** 앱을 설명하는 소개글로, 간단하게 소개글을 입력해주세요. (80자 이내로 작성)
 
-<mark style="color:red;">주의) 앱 사용후기, 키워드를 반복(개,반려견,애완동물,애완견,강아지…)해서 넣지 않도록 해주세요.</mark>
+{% hint style="warning" %}
+주의) 앱 사용후기, 키워드를 반복(개,반려견,애완동물,애완견,강아지…)해서 넣지 않도록 해주세요.
 
-<mark style="color:red;">구글 정책사항이기 때문에 해당 내용 입력시 삭재한 뒤 등록합니다.</mark>
+구글 정책사항이기 때문에 해당 내용 입력시 삭재한 뒤 등록합니다.
+{% endhint %}
 
 **3) 자세한 설명**: 앱에 대한 상세한 설명을 기재해주세요. (4000자 이내)
 
-<mark style="color:red;">주의) 앱 사용후기, 키워드를 반복(개,반려견,애완동물,애완견,강아지…)해서 넣지 않도록 해주세요.</mark>
+{% hint style="warning" %}
+주의) 앱 사용후기, 키워드를 반복(개,반려견,애완동물,애완견,강아지…)해서 넣지 않도록 해주세요.
 
-<mark style="color:red;">구글 정책사항이기 때문에 해당 내용 입력시 삭제한 뒤 등록합니다.</mark>
+구글 정책사항이기 때문에 해당 내용 입력시 삭제한 뒤 등록합니다
+{% endhint %}
 
 **4) 업데이트 변경사항:** 처음으로 앱을 등록하는 경우 ‘신규등록’ 으로 입력해주세요.
 
@@ -154,9 +156,13 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **5) 스크린샷 이미지**: 앱 화면을 캡쳐한 이미지를 사이즈에 맞게 등록합니다.
 
-<mark style="color:red;">스크린샷은 반드시 앱 실제 화면이 들어가야 하며, 관련 없는 이미지는 심사 거절됩니다. 신청서에 기재된 사이즈를 확인하셔서 작업해주세요.</mark>&#x20;
+{% hint style="warning" %}
+스크린샷은 반드시 앱 실제 화면이 들어가야 하며, 관련 없는 이미지는 심사 거절됩니다. 신청서에 기재된 사이즈를 확인하셔서 작업해주세요.&#x20;
 
-<mark style="color:red;">(관련 없는 이미지 등록시 업로드 담당자가 임의로 이미지 수정하여 등록합니다)</mark>
+(관련 없는 이미지 등록시 업로드 담당자가 임의로 이미지 수정하여 등록합니다)
+{% endhint %}
+
+<div align="left"><figure><img src="../../../.gitbook/assets/이미지 10.png" alt=""><figcaption></figcaption></figure></div>
 
 **5-1)태블릿 스크린샷 이미지 \*선택사항**
 
@@ -164,13 +170,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 태블릿과 크롬북 스크린샷 이미지는 필수 입력은 아니며, 선택사항입니다.
 
-**"등록안함"으로 체크할 경우 5번에 제출한 휴대전화 스크린샷 이미지로 대체됩니다.**
-
-제출하실 경우 "등록"을 체크해주세요.
-
-
-
-<figure><img src="../../../.gitbook/assets/플레이업로드신청서new3.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/플레이업로드신청서new3.png" alt=""><figcaption></figcaption></figure></div>
 
 ﻿"등록" 으로 체크시, 이미지를 등록할 수 있는 화면이 열리구요.
 
@@ -188,15 +188,17 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 이미지 참고)
 
-<figure><img src="../../../.gitbook/assets/MicrosoftTeams-image-32 (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<div align="left"><figure><img src="../../../.gitbook/assets/MicrosoftTeams-image-32 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 프로모션 동영상 URL을 제출하였을 경우 맨 앞에 영상이 보여지는데, 그래픽 이미지가 영상의 표지 이미지로 사용이 됩니다.
 
-프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 어디서도 노출이 되지 않습니다.&#x20;
+프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 노출이 되지 않습니다.&#x20;
 
 그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지를 사용합니다.
+
+단, 플레이스토어 PC 사이트에서 앱 이름 검색시 그래픽 이미지가 섬네일로 표시됩니다.&#x20;
+
+
 
 **7) 앱 기본언어:** 플레이스토어에 보여질 언어를 선택합니다.
 
@@ -302,7 +304,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 4. 업로드 신청완료
+## 4.업로드 신청완료
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%EC%88%98%EC%A0%95_19.10.png)
 
@@ -322,7 +324,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## 5. 안내사항
+## 5.안내사항
 
 **1) 업로드 티켓 20,000원은 1회 비용입니다.**
 
