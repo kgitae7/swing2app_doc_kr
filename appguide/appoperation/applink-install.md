@@ -38,8 +38,6 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 6\)앱 설치 링크는 위에 안내드린 것 외에도 메신저(카톡)이나 링크를 공유할 수 있는 다양한 어플에서 이용이 가능합니다
 {% endhint %}
 
-
-
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱 설치 링크주소 복사하기**
@@ -56,7 +54,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC2.png)
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC2.png" alt=""></div>
 
 3\)그다음 크롬 브라우저 상단 오른쪽 점 3개 버튼 선택해주세요
 
@@ -64,27 +62,17 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 **​**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC3.png)
-
 다운로드 새창이 열리구요. 방금 다운 받으신 앱을 확인할 수 있습니다.
-
-5\) 링크쪽에 마우스 커서를가져다 대고, 마우스 오른쪽 버튼 선택해주세요.
-
-**‘링크 주소 복사’** 하시면 앱 설치(다운로드) 주소를 복사할 수 있습니다.
-
-
-
-<mark style="color:red;">**\*다운로드 화면에서 링크 주소가 바로 뜨지 않으면 아래 방법으로 이용해주세요.**</mark>&#x20;
 
 <div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
-파일명에 마우스 오른쪽 버튼을 클릭하면 '링크 주소 복사'를 선택할 수 있습니다.&#x20;
-
-주소가 복사 되구요, 복사된 주소를 붙여넣기해서 공유할 수 있습니다.&#x20;
+5\)파일명에 마우스 오른쪽 버튼을 클릭하면 '링크 주소 복사'를 선택할 수 있습니다.&#x20;
 
 
 
 <div align="left"><figure><img src="../../.gitbook/assets/녹화_2024_08_07_14_04_50_804.gif" alt=""><figcaption></figcaption></figure></div>
+
+6\)복사된 주소를 붙여넣기해서 공유할 수 있습니다.&#x20;
 
 이렇게 하면 제작하신 앱 파일이 아닌 링크로 받을 수 있습니다.&#x20;
 
@@ -106,6 +94,18 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 
 
+### <mark style="color:blue;">2.카카오톡(메신저) 공유하기</mark>
+
+<mark style="color:red;">\*설치 주의사항</mark>
+
+카카오톡의 메신저에서의 외부앱 설치시, 보안상 해당 경로에서는 다운을 막아놓고 있어요.
+
+따라서 링크는 반드시 다른 웹 브라우저(인터넷 어플)를 통해서 다운받아주세요.
+
+<div align="left"><figure><img src="../../.gitbook/assets/녹화_2025_01_15_11_53_47_415.gif" alt=""><figcaption></figcaption></figure></div>
+
+
+
 ***
 
 
@@ -118,11 +118,13 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 관련 메시지가 뜰 경우 모두 "무시하고 설치"로 진행해주세요.&#x20;
 
+<div align="left"><figure><img src="../../.gitbook/assets/이미지 2.png" alt=""><figcaption><p><br><br></p></figcaption></figure></div>
 
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/이미지 3 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
+
+
 
 {% hint style="danger" %}
 <mark style="color:red;">**주의사항**</mark>
@@ -135,11 +137,13 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 설치 기기수는 제한이 없습니다.&#x20;
 
-3\)앱 설치 링크이기 때문에 반드시 모바일(안드로이드폰)에서 다운 받아주셔야 하구요.
+3\)설치 링크로 공유시, 보안 세션에 따라 링크 유효시간 15분입니다. 15분후에는 앱 설치가 불가합니다.
 
-4\)해당 기능은 아이폰은 이용 할 수 없어요. 안드로이드폰에서만 앱 다운이 가능합니다.
+4\)앱 설치 링크이기 때문에 반드시 모바일(안드로이드폰)에서 다운 받아주셔야 하구요.
 
-5\)앱 설치 링크는 위에 안내드린 것 외에도 메신저(카톡)이나 링크를 공유할 수 있는 다양한 어플에서 이용이 가능합니다
+5\)해당 기능은 아이폰은 이용 할 수 없어요. 안드로이드폰에서만 앱 다운이 가능합니다.
+
+6\)앱 설치 링크는 위에 안내드린 것 외에도 메신저(카톡)이나 링크를 공유할 수 있는 다양한 어플에서 이용이 가능합니다
 {% endhint %}
 
 .

@@ -166,6 +166,8 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 
 <mark style="color:red;">**\*중요\***</mark>**앱스토어 업로드 계정을 선택해주세요.**&#x20;
 
+<figure><img src="../../../.gitbook/assets/녹화_2025_01_15_11_24_42_4.gif" alt=""><figcaption><p>스윙투앱 계정 체크</p></figcaption></figure>
+
 <mark style="color:red;">\*애플 앱스토어는 스윙 개발자 계정을 이용하여 대리로 등록이 가능하거나, 사용자가 직접 애플 개발자 계정을 만들어서 본인의 개발자 계정으로도 등록할 수 있습니다.</mark>
 
 <mark style="color:red;">→ 2가지 방법 중에서 한 가지 선택해주세요.</mark>
