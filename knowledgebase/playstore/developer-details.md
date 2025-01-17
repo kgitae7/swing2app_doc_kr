@@ -52,6 +52,8 @@ description: 구글 플레이스토어 - 연락처 세부 정보 수정 방법
 
 <figure><img src="../../.gitbook/assets/계정변경4.png" alt=""><figcaption></figcaption></figure>
 
+**구글 플레이 콘솔사이트 접속:**  [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
+
 연락처 세부정보 화면에서 밑으로 내려보시면, "개발자 프로필에 포함된 세부정보" 라고 있습니다.
 
 해당 정보에는 **이메일주소, 개발자 전화번호 2가지 항목**이 보이는데요.
