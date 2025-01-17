@@ -12,7 +12,7 @@ description: 시스템 폰트 사용 적용화면
 
 웹뷰앱 제작시 설정할 수 있는 기본 스타일 옵션, 고급 스타일 옵션에 대해 안내드리겠습니다.
 
-<figure><img src="../../.gitbook/assets/이미지 6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 6 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 시스템 폰트는 웹뷰&푸시앱제작시 확인할 수 있구요.&#x20;
 

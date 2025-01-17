@@ -54,7 +54,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 애플 아이디가 없다면 먼저 만들어주세요. [애플 ID 생성하기](https://appleid.apple.com/account)
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FH0xwKYhUyRpEvQIIwYRl%2F%EC%95%A0%ED%94%8C1.png?alt=media\&token=599152f6-1f8b-4020-af91-161e15c15ced)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FH0xwKYhUyRpEvQIIwYRl%2F%EC%95%A0%ED%94%8C1.png?alt=media\&token=599152f6-1f8b-4020-af91-161e15c15ced)
 
 1\)성, 이름 입력 \*모두 영어로 입력합니다.
 
@@ -78,7 +78,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FFFgvEoG4jFIrRhKiaxb5%2F%EC%95%A0%ED%94%8C2.png?alt=media\&token=deecc51f-fb64-4c83-8db5-1517dbbaa64b)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FFFgvEoG4jFIrRhKiaxb5%2F%EC%95%A0%ED%94%8C2.png?alt=media\&token=deecc51f-fb64-4c83-8db5-1517dbbaa64b)
 
 8\)동의 내용 체크
 
@@ -88,27 +88,19 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FiVZcy7L3UBt1Ny1XXomA%2F%EC%95%A0%ED%94%8C3.png?alt=media&#x26;token=9178c6f8-de73-43a1-b24c-993b4c388d52" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FiVZcy7L3UBt1Ny1XXomA%2F%EC%95%A0%ED%94%8C3.png?alt=media&#x26;token=9178c6f8-de73-43a1-b24c-993b4c388d52" alt="" width="100%"></div>
 
 11\)입력한 이메일주소로 인증 코드가 발송됩니다.
 
 
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FAOKBNIbA5f1N7YHnxe7Z%2F%EC%95%A0%ED%94%8C4.png?alt=media&#x26;token=8dc3d566-4833-4460-8d43-dbd8ee20debc" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FAOKBNIbA5f1N7YHnxe7Z%2F%EC%95%A0%ED%94%8C4.png?alt=media&#x26;token=8dc3d566-4833-4460-8d43-dbd8ee20debc" alt="" width="100%"></div>
 
 12\)입력한 핸드폰번호로 인증 코드가 발송됩니다.
 
 문자 메시지를 확인하여 6자리 코드를 입력해주세요.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FrJ3nV4iOkO4wVNcqSzrM%2F%EC%95%A0%ED%94%8C5.png?alt=media\&token=67bb4edd-0f8a-40b8-9edb-7690dc9e1811)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FrJ3nV4iOkO4wVNcqSzrM%2F%EC%95%A0%ED%94%8C5.png?alt=media\&token=67bb4edd-0f8a-40b8-9edb-7690dc9e1811)
 
 13\)모든 인증이 완료되면, 아이디 생성이 완료됩니다.
 
@@ -122,7 +114,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 [Apple developer 사이트](https://developer.apple.com/) **접속, 오른쪽 상단의 \[계정] 버튼을 선택해주세요.**
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FiaSVhyI4DlMpxkQF8vIW%2F%EC%95%A0%ED%94%8C6.png?alt=media\&token=64897efe-77b2-434f-8cba-51e6ae777a0e)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FiaSVhyI4DlMpxkQF8vIW%2F%EC%95%A0%ED%94%8C6.png?alt=media\&token=64897efe-77b2-434f-8cba-51e6ae777a0e)
 
 애플 계정을 소유한 분들 또는 위에서 만든 애플 계정으로 로그인해주세요.
 
@@ -132,7 +124,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 <mark style="color:blue;">**개발자 계약 동의**</mark>
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FACmaqnSZtErZZCCbwvNe%2F%EC%95%A0%ED%94%8C7.png?alt=media\&token=0d63a971-7512-4134-8805-d924b367ca41)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FACmaqnSZtErZZCCbwvNe%2F%EC%95%A0%ED%94%8C7.png?alt=media\&token=0d63a971-7512-4134-8805-d924b367ca41)
 
 ​애플 개발자 계약에 동의하는지 확인해주세요.
 
@@ -144,7 +136,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 ## STEP2. 가입하기
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FMH4ctFtFKD87Kju0l4vO%2F%EC%95%A0%ED%94%8C8.png?alt=media\&token=77818185-3a1c-4aa6-9b6a-42b1bc3379ce)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FMH4ctFtFKD87Kju0l4vO%2F%EC%95%A0%ED%94%8C8.png?alt=media\&token=77818185-3a1c-4aa6-9b6a-42b1bc3379ce)
 
 Apple Developer Program 가입
 
@@ -152,21 +144,13 @@ Apple Developer Program 가입
 
 
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F0NTJVnI930GWbG7KelIP%2F%EC%95%A0%ED%94%8C9.png?alt=media&#x26;token=012a8a19-5c17-490b-82b3-10330cbfd21c" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F0NTJVnI930GWbG7KelIP%2F%EC%95%A0%ED%94%8C9.png?alt=media&#x26;token=012a8a19-5c17-490b-82b3-10330cbfd21c" alt="" width="100%"></div>
 
 웹에서 등록 계속 진행하기 선택 (Apple Developer 앱을 통해서도 등록 가능합니다)
 
 
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fwb1c3qlidFVfzWjOsbl7%2F%EC%95%A0%ED%94%8C10.png?alt=media&#x26;token=f3f78d37-ca50-4b19-81ba-0e0ca01149bf" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fwb1c3qlidFVfzWjOsbl7%2F%EC%95%A0%ED%94%8C10.png?alt=media&#x26;token=f3f78d37-ca50-4b19-81ba-0e0ca01149bf" alt="" width="100%"></div>
 
 가입하는 사용자분의 개인정보를 작성합니다. \*신분증에 기재된 정보와 동일하게 입력해주시면 됩니다.
 
@@ -176,11 +160,7 @@ Apple Developer Program 가입
 
 
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FhAtnD9bL3rZIpmnSKeAv%2F%EC%95%A0%ED%94%8C11.png?alt=media&#x26;token=19f55c60-883e-4f22-9209-b1bbd57ff491" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FhAtnD9bL3rZIpmnSKeAv%2F%EC%95%A0%ED%94%8C11.png?alt=media&#x26;token=19f55c60-883e-4f22-9209-b1bbd57ff491" alt="" width="100%"></div>
 
 어떤 자격으로 가입할지 선택해주세요.
 
@@ -198,11 +178,7 @@ Apple Developer Program 가입
 
 <mark style="color:blue;">**+조직정보**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플기업.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플기업.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)법인명을 영문으로 기재해주세요. \*DUNS넘버 발급시 입력된 이름으로 등록합니다.
 
@@ -226,11 +202,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/이미지 6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/이미지 6 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 조직 정보를 입력해주세요.
 
@@ -264,11 +236,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플기업2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플기업2.png" alt=""><figcaption></figcaption></figure></div>
 
 내용 입력이 완료되면, 등록 신청 처리 중이라는 메시지가 뜨구요.
 
@@ -276,11 +244,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플기업3.png" alt=""><figcaption><p>애플에서 발송하는 메일</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플기업3.png" alt=""><figcaption><p>애플에서 발송하는 메일</p></figcaption></figure></div>
 
 가입한 계정 이메일로 애플에서 발송된 메일을 확인하여 마지막 작업을 진행해주셔야 합니다.
 
@@ -302,7 +266,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <mark style="color:blue;">**+결제 페이지**</mark>
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FamNBruSPyMPHU2OVNxB7%2F%EC%95%A0%ED%94%8C15.png?alt=media\&token=9af66f21-65a2-453b-8d2f-160e2cf32e7e)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FamNBruSPyMPHU2OVNxB7%2F%EC%95%A0%ED%94%8C15.png?alt=media\&token=9af66f21-65a2-453b-8d2f-160e2cf32e7e)
 
 청구 주소, 연락처 정보를 제출 한뒤 카드 정보를 입력하여 결제를 완료할 수 있습니다.
 
@@ -312,17 +276,9 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <mark style="color:blue;">**+결제 완료**</mark>
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/애플기업4.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/애플기업4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/애플기업5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/애플기업5.png" alt=""><figcaption></figcaption></figure></div>
 
 결제 완료되면 구매 완료 영수증이 발송되구요.
 
@@ -356,7 +312,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fh6aKdiJaA0IyyXTYmB1O%2F%EC%95%A0%ED%94%8C16\(%EA%B0%9C%EC%9D%B8\).jpg?alt=media\&token=cad8f7e3-62ed-4701-8b55-b1b9d895eda1)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fh6aKdiJaA0IyyXTYmB1O%2F%EC%95%A0%ED%94%8C16\(%EA%B0%9C%EC%9D%B8\).jpg?alt=media\&token=cad8f7e3-62ed-4701-8b55-b1b9d895eda1)
 
 정상적으로 결제가 완료되면, 멤버십 항목이 생성됩니다.
 
@@ -368,34 +324,22 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 
 
-<div align="left">
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FU3xKFdbmksx8lAmz6S6J%2Fwarning-(2).png?alt=media&#x26;token=ce082bdf-e3d8-418c-a243-ffb80f1841c5" alt="" width="100%"></div>
 
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FU3xKFdbmksx8lAmz6S6J%2Fwarning-(2).png?alt=media&#x26;token=ce082bdf-e3d8-418c-a243-ffb80f1841c5" alt="" width="100%">
-
-</div>
-
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FDWkrCAlKQAKsxnyLBMZL%2F%EC%95%A0%ED%94%8C18.png?alt=media&#x26;token=8717b532-67b1-46f0-b6f6-3da26148d3dd" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FDWkrCAlKQAKsxnyLBMZL%2F%EC%95%A0%ED%94%8C18.png?alt=media&#x26;token=8717b532-67b1-46f0-b6f6-3da26148d3dd" alt="" width="100%"></div>
 
 <mark style="color:red;">만약 승인 대기 중 등의 메시지가 뜬 다면 승인완료까지더 기다려 주셔야 합니다.</mark>
 
 
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FLDgxAofPD9Y3WBXi0njF%2F%EC%95%A0%ED%94%8C17.png?alt=media&#x26;token=6bbb1ab4-2582-4797-bba7-a547e839ad29" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FLDgxAofPD9Y3WBXi0njF%2F%EC%95%A0%ED%94%8C17.png?alt=media&#x26;token=6bbb1ab4-2582-4797-bba7-a547e839ad29" alt="" width="100%"></div>
 
 앱스토어 앱 출시는 앱스토어 커넥트 사이트로 이동하여 이용할 수 있습니다.
 
 {% hint style="info" %}
-\-앱 등록 및 앱 관리는 모두 [App Store Cnnect](https://appstoreconnect.apple.com/login) 사이트에서 이용해주셔야 하구요.
+-앱 등록 및 앱 관리는 모두 [App Store Cnnect](https://appstoreconnect.apple.com/login) 사이트에서 이용해주셔야 하구요.
 
-\-개발자 계정 관리는 [Apple developer](https://developer.apple.com/) 사이트에서 이용해주시면 됩니다.
+-개발자 계정 관리는 [Apple developer](https://developer.apple.com/) 사이트에서 이용해주시면 됩니다.
 {% endhint %}
 
 {% hint style="danger" %}

@@ -34,7 +34,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 {% embed url="https://play.google.com/console/developers" %}
 
-<figure><img src="../../.gitbook/assets/이미지 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 \[시작하기] 버튼 선택
 

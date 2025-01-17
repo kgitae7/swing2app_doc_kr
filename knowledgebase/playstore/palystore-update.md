@@ -62,9 +62,9 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 ### <mark style="color:blue;">**2.프로덕션 → 새 버전 만들기**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
+<figure><img src="../../.gitbook/assets/이미지 3.png" alt=""><figcaption></figcaption></figure>
 
-**콘솔 사이트 왼쪽 메뉴&#x20;**<mark style="color:green;">**1) \[프로덕션] 선택 → 2)\[새 버전 만들기]**</mark>**&#x20;버튼을 선택합니다.**&#x20;
+왼쪽 메뉴  - 테스트 및 출시 - 프로덕션 선택 - \[새 버전 만들기] 선택&#x20;
 
 
 
@@ -194,9 +194,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 ### <mark style="color:blue;">**6.업데이트 완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B811new.png)
-
-업데이트가 완료되면, 출시 개요 페이지에서 프로덕션 전체출시를 확인할 수 있습니다.&#x20;
+업데이트가 완료되면, 출시 개요 페이지에서 프로덕션 출시를 확인할 수 있습니다.&#x20;
 
 만약 ‘업데이트 거절됨’, ‘업데이트 거부됨’, ‘앱 삭제’ 등의 메시지가 뜰 경우 심사가 거절된 것이구요.
 
@@ -208,29 +206,35 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 이어서 스토어 등록정보를 수정하여 업데이트 하는 방법을 알려드릴거에요!!
 
-플레이스토어에서 보여지는 **앱 이름, 아이콘 이미지, 그래픽 이미지, 간단한설명, 자세한 설명, 스크린샷 이미지를 변경하고 싶을 경우는**?
+{% hint style="success" %}
+**스토어 등록정보는,**&#x20;
+
+앱 이름, 아이콘 이미지, 그래픽 이미지, 간단한설명, 자세한설명, 스크린샷 이미지를 변경할 수 있습니다.
+{% endhint %}
+
+플레이스토어에서 보여지는 &#x20;
 
 동일하게 **\*구글 콘솔–스토어등록정보 페이지에서 내용을 수정하고 업데이트하면 스토어에 반영이 됩니다.**
 
 ### &#x20;<mark style="color:blue;">**1.앱 정보 → 기본 스토어 등록정보**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83new.png)
+[**구글 플레이 콘솔사이트**](https://play.google.com/console/developers)**에 접속  → 업데이트 할 어플을 선택해주세요.**
 
-**구글 플레이 콘솔사이트에 접속** [**https://play.google.com/console** ](https://play.google.com/console) **→ 업데이트 할 어플을 선택해주세요.**
+<figure><img src="../../.gitbook/assets/이미지 4.png" alt=""><figcaption></figcaption></figure>
 
-**앱 선택한 상태에서 왼쪽 메뉴 \[앱 정보]에서 \[스토어 등록정보] 페이지로 이동합니다.**
+앱 선택한 상태에서 **왼쪽 카테고리:  사용자 늘리기 - 앱 정보- 스토어 등록정보 - 수정 버튼 선택**
 
 스토어에서 내용을 수정하고 업데이트 하는 방법은 더 간단해요!
 
 스토어 등록정보에서 처음 앱 출시를 할때 등록했던 내용을 직접 수정해주시면 됩니다.
 
-\=> 스토어 등록정보는 <mark style="color:green;">출시 앱이름, 간단한/자세한 설명, 스크린샷 이미지, 아이콘 이미지, 그래픽 이미지, 이메일주소</mark> 등을 수정할 수 있습니다.&#x20;
+스토어 등록정보는 <mark style="color:green;">출시 앱이름, 간단한/자세한 설명, 스크린샷 이미지, 아이콘 이미지, 그래픽 이미지</mark> 등을 수정할 수 있습니다.&#x20;
 
 
 
 ### <mark style="color:blue;">**2.수정 후 \[저장] 버튼 선택**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84new.png)
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84new.png" alt=""></div>
 
 수정을 하면 화면 하단에 안보였던 <mark style="color:blue;">**\[저장]**</mark>**&#x20;버튼**이 파란색으로 바뀌면서 활성화됩니다.
 
@@ -246,25 +250,39 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP3. 스토어 설정
 
-앱 카테고리, 연락처 수정은 스토어 설정에서 수정 가능합니다.&#x20;
+{% hint style="success" %}
+**앱 카테고리, 연락처 수정은** 스토어 설정에서 수정 가능합니다.&#x20;
+{% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B810new.png)
+<figure><img src="../../.gitbook/assets/이미지 5.png" alt=""><figcaption></figcaption></figure>
 
-**앱 정보 →스토어 설정 으로 이동, 내용 수정 후 \[저장]버튼을 눌러주세요.**
+왼쪽 카테고리: 사용자 늘리기 - 앱 정보 - 스토어 설정으로 이동한 뒤, 수정해주세요.&#x20;
 
-<mark style="color:red;">**\*스토어 설정 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
+&#x20;**내용 수정 후 \[저장]버튼을 눌러주세요.**
+
+<mark style="color:red;">\*스토어 설정 수정도 업데이트 심사 후 반영이 됩니다.</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP4. 앱 콘텐츠 수정&#x20;
 
-개인정보 처리방침 링크 수정, 광고 여부 수정, 콘텐츠(카테고리 수정), 타켓 수정은 \[앱 콘텐츠]페이지에서 수정가능합니다.
+{% hint style="success" %}
+개인정보 처리방침 링크 수정, 광고 여부 수정, 콘텐츠(카테고리 수정), 타겟층 수정은 \[앱 콘텐츠]페이지에서 수정가능합니다.
+{% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B85new.png)
+<figure><img src="../../.gitbook/assets/이미지 6.png" alt=""><figcaption></figcaption></figure>
 
-**정책 → 앱 콘텐츠 페이지로 이동하면 각 섹션별 내용 수정이 가능합니다.**&#x20;
+[구글 플레이 콘솔](https://play.google.com/console/developers) 접속 - 앱 선택&#x20;
 
-예를들어 앱 출시 후에 광고가 들어간 버전으로 업데이트 되었다면, **광고포함에 반드시 체크를 해주셔야 해요.**
+**왼쪽 카테고리: 모니터링 및 개선 - 정책 및 프로그램 - 앱 콘텐츠 선택합니다.**&#x20;
+
+각 섹션별 내용 수정이 가능합니다.&#x20;
+
+
+
+예를들어)
+
+앱 출시 후에 광고가 들어간 버전으로 업데이트 되었다면, **광고포함에 반드시 체크를 해주셔야 해요.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98.1PNG.png)
 
@@ -272,7 +290,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 관리 버튼을 눌러서  **“예, 광고가 포함되어 있습니다.” 에 체크한 뒤 저장 버튼을 눌러주시면 됩니다.**&#x20;
 
-<mark style="color:red;">**\*앱 콘텐츠 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
+<mark style="color:red;">\*앱 콘텐츠 수정도 업데이트 심사 후 반영이 됩니다.</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
