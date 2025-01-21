@@ -2,7 +2,7 @@
 description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설치(다운)하는 방법 매뉴얼
 ---
 
-# 앱 다운받는 방법 (APK파일 핸드폰 설치)
+# APK파일 받기 (핸드폰 앱 다운 받기)
 
 **스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설치하는 방법을 알려드리겠습니다.**
 
@@ -12,17 +12,17 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 제작이 완료되면  웹 대시보드에서 앱제작완료로 변경되며, 앱 제작 완성 메일도 발송됩니다. (스윙투에 가입하신 계정 이메일로 발송)
 
-**그리고 앱은 안드로이드폰에서 다운받아 이용할 수 있습니다.**&#x20;
-
+{% hint style="info" %}
 **\*스윙투앱 공식앱에서 \[앱 미리보기]를 통해서 앱을 다운 받을 수 있습니다.**
 
-**\*\*안드로이드에서만 가능, 아이폰은 설치 안되요\~!​**
+**\*안드로이드에서만 가능, 아이폰은 앱 설치 불가합니다. (미리보기로만 확인 가능)**
+{% endhint %}
 
 아래 매뉴얼을 통해서 앱제작완료 후 APK파일(앱)을 다운받아 설치하는 방법을 확인해주세요.
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## **STEP1. 앱제작 완료하기**
+## **STEP1.앱제작 완료하기**
 
 
 
@@ -88,7 +88,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## STEP2. APK파일 다운받기
+## STEP2.APK파일 다운받기
 
 
 
@@ -100,8 +100,9 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-### **1. 스윙투앱 공식앱 – 앱미리보기 이용**
+### **1. 스윙투앱 공식앱 – 앱미리보기**&#x20;
 
+{% hint style="success" %}
 스윙투앱 공식앱 -앱미리보기에서 앱을 다운받는 방법이 이용하시기에 가장 편리합니다. \_보안상의 문제 없이 다운이 가능!
 
 따라서 앱을 다운받으실 때는 앱미리보기를 이용하시기를 권장드립니다. (스윙 추천!!)
@@ -109,6 +110,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 <mark style="color:red;">\*안드로이드폰에서 앱 다운이 가능합니다.</mark>&#x20;
 
 <mark style="color:red;">\*아이폰도 앱 미리보기로 확인이 가능하지만, 웹뷰와 푸시로 제작한 앱은 아이폰 미리보기 이용이 불가합니다.</mark>
+{% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
 
@@ -122,7 +124,7 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1%EA%B3%B5%EC%8B%9D%EC%95%B11-1.png)
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1%EA%B3%B5%EC%8B%9D%EC%95%B11-1.png" alt=""></div>
 
 2\) 앱 실행 후 → 카테고리 상단에 \[앱미리보기] 메뉴를 선택한 뒤 스윙투앱 웹사이트 가입 계정(아이디, 비밀번호)으로 로그인해주세요.
 
@@ -163,6 +165,10 @@ description: 스윙투앱에서 제작한 APK파일(앱)을 핸드폰으로 설�
 **\*스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)**
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
+
+
+
+***
 
 
 
@@ -304,7 +310,7 @@ URL 복사하여 웹브라우저 어플로 앱 설치 링크를 붙여넣을 수
 
 
 
-## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP3. 보안 메시지 대처방법**
+## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP3.보안 메시지 대처방법**
 
 <div align="left"><figure><img src="../../.gitbook/assets/앱설치-보안.png" alt=""><figcaption></figcaption></figure></div>
 
