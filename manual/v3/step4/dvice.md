@@ -63,11 +63,11 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 {% hint style="info" %}
 **용어 설명**
 
-\-portrait+landscape (가로+세로 복합)
+-portrait+landscape (가로+세로 복합)
 
-\-portrait (세로)
+-portrait (세로)
 
-\-landscape (가로)
+-landscape (가로)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -92,11 +92,7 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 ### <mark style="color:blue;">**1)세로 모드**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EB%AA%A8%EB%93%9C4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EB%AA%A8%EB%93%9C4.png" alt="" width="375"></div>
 
 세로 모드 혹은 가로-세로 복합 앱은, 앱 실행시 세로 화면으로 보여집니다.
 
@@ -114,11 +110,7 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 ### &#x20;<mark style="color:blue;">3)</mark><mark style="color:blue;">**핸드폰 설정- 자동 회전(자동화면전환) 체크**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EB%AA%A8%EB%93%9C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EB%AA%A8%EB%93%9C3.png" alt="" width="375"></div>
 
 가로-세로 복합은 핸드폰에서 자동 화면 회전이 선택되어 있어야 자유롭게 화면을 가로로, 세로로 전환하여 볼 수 있어요.
 
@@ -135,6 +127,4 @@ description: '디바이스 모드: 앱 화면을 전환하는 방법(가로 or �
 
 앱을 재 제작하시면 핸드폰 앱 실행시 설정된 모드로 앱 화면이 전환됩니다.
 {% endhint %}
-
-
 
