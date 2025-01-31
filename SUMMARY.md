@@ -72,6 +72,7 @@
     * [업데이트 유형별 앱 실행화면](manual/v3/step4/update-type.md)
     * [디바이스 모드 설정(앱 화면 전환)](manual/v3/step4/dvice.md)
     * [앱 리뷰 버튼](manual/v3/step4/reviewbutton.md)
+    * [앱 로딩 아이콘 변경](manual/v3/step4/loadingicon.md)
   * [앱 업데이트 방법](manual/v3/update.md)
 * [앱제작 메뉴얼(V2)](manual/v2/README.md)
   * [앱 기본정보](manual/v2/appbasic/README.md)
