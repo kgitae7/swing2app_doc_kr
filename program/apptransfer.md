@@ -20,11 +20,11 @@ description: 타사에서 제작한 앱을 스윙투앱으로 이전할 때 필�
 
 3.스윙투앱 고객센터 메일(help@swing2app.co.kr) 혹은 [문의게시판](https://www.swing2app.co.kr/view/service_qa) 혹은 [실시간 채팅](https://direct.lc.chat/12036120/)을 통해 앱 이전 문의를 남겨주세요.
 
-4\. Android 앱 이전 제작한 필요한 아래의 정보를 보내주세요.&#x20;
+4\. Android 앱 이전에 필요한 아래의 정보를 보내주세요.&#x20;
 
 * **키스토어 파일**
-* **storePassword(스토어 비밀번호)**
-* **keyAlias(키별칭)**
+* **keystore Password(키스토어 비밀번호)**
+* **keyAlias(키 별칭)**
 * **keyPassword(키 비밀번호)**
 
 위의 정보는 기존 앱을 제작한 개발사 혹은 개발자를 통해 받을 수 있으며, 앱 이전을 하기 위해 정보를 요청한다는 내용을 꼭 말씀해주셔야 합니다.&#x20;
