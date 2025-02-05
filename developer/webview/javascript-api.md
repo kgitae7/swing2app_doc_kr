@@ -851,7 +851,7 @@ import org.json.JSONObject;
 public class DecoderMain {
     public static void main(String[] args) {
         // 테스트용 JWT (실제 토큰 사용 시 변경)
-        String identityToken = "eyJraWQiOiJyQlJmVm1xc2puIiwiYWxnIjoiUlMyNTYifQ.eyJpc3MiOiJodHRwczovL2FwcGxlaWQuYXBwbGUuY29tIiwiYXVkIjoia3IuY28uc21hcnR3YWxraW5nLmFwcDIiLCJleHAiOjE3Mzg4MzczMzcsImlhdCI6MTczODc1MDkzNywic3ViIjoiMDAxMDc2LjNmYThiNGNiYjdhYjQ1NDViOTdlM2YxZTg0ODdhYmRjLjA5MzkiLCJjX2hhc2giOiJheXFTdlhxdXlTSFY4c3BNVUE2elB3IiwiZW1haWwiOiJrZ2l0YWU3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdXRoX3RpbWUiOjE3Mzg3NTA5MzcsIm5vbmNlX3N1cHBvcnRlZCI6dHJ1ZX0.IYtbx6obFb3bl4iuGrtfhKyYuTrW4JeohHalyaX4wBIBrKsZPFSOB3ZlEkTURPnLCCFDBjlx-JUoRX-oMzwTTaCnw0RVdSym5rGeyZpx_nvfKUrKU4uwO2jihsfJDG21hbqA6G1nikAPGZAf1CZVkk4cO3lXP4T6kgOpU6-mF1R8T429Mb4XCn0Zo2PMdpYR63zdhLK4Ia2MVHioOQI71eZvirdw8PVvfS_9jA9sBuc9m3Eqvq_-dnLOfReVLcPsL2jUvMH-QCIczw8RfcEDlgAvEHmpzLTSgeRzeqKp-ra_dwQKpVUx1cr07s55mXbOvGhVoyH9rVidPifVHVv66w";  // 실제 JWT 토큰으로 변경 필요
+        String identityToken = "identifyToken 값";  
 
         // 토큰 디코딩 및 값 추출
         Map<String, Object> loginResult = decodeIdentityToken(identityToken);
