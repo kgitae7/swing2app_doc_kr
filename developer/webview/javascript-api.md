@@ -432,8 +432,6 @@ swingWebViewPlugin.app.ui.getDeviceUiStyle(function (mode) {
 
 
 
-
-
 ## 앱 화면 제어관련 Method <a href="#screen-control" id="screen-control"></a>
 
 ### • 설정화면으로 이동하기 <a href="#go-to-setting" id="go-to-setting"></a>
@@ -766,6 +764,136 @@ swingWebViewPlugin.app.permission.ios.checkPermission('userTracking', function(s
 이와 같이 권한 요청 및 확인 기능을 사용하여 웹뷰에서 Android 및 iOS 플랫폼의 다양한 권한을 관리할 수 있습니다.&#x20;
 
 필요에 따라 각 플랫폼에 맞는 권한을 요청하고 확인하여 사용자 경험을 향상시키세요.
+
+
+
+## 추가 기능 API <a href="#additional-functions" id="additional-functions"></a>
+
+웹사이트에서 직접 앱내의 애드몹 광고를 관리할 수 있는 명령어 입니다.
+
+아래의 내용을 참고하셔서 광고들을 활용해보세요.
+
+{% hint style="info" %}
+반드시 애드몹이 활성된 앱의 경우만 동작하는 명령어 입니다.
+{% endhint %}
+
+### • 애플 아이디로 로그인하기 구현 <a href="#apple-signin" id="apple-signin"></a>
+
+애플에서는 외부 로그인(예:네이버,카카오,구글 등)이 존재할 경우 반드시 애플 로그인을 제공해야 합니다.
+
+복잡한 애플 로그인 구현을 앱의 네이티브 API 를 활용하면 손쉽게 단 몇줄로 애플 로그인을 구현하실 수 있습니다.
+
+해당 코드는 네이티브 API 를 활용한것이기 때문에 <mark style="background-color:yellow;">**iOS 에서만 동작합니다.**</mark>
+
+<mark style="background-color:blue;">\*js lib 2024\_12\_23\_001 버전 부터 사용 가능</mark>
+
+
+
+**로그인 처리(Front-end 처리 방식)**
+
+```javascript
+swingWebViewPlugin.app.ios.doAppleSignIn(function (result) {
+    if( result.result )
+    {
+        // 로그인 성공
+        // 개인정보에 해당하는 정보는 최초 로그인 1회만 제공되며, 이후에는 userId 와 authTime 만 제공됩니다.
+        var loginTokenResult = swingWebViewPlugin.utils.parseJWT(result.identityToken);
+        var loginResult = {
+            fullName : result.fullName,
+            givenName : result.givenName,
+            familyName : result.familyName,
+            email : loginTokenResult.email,
+            userId : loginTokenResult.sub,
+            authTime : loginTokenResult.auth_time
+        }
+
+        console.log(JSON.stringify(loginResult));
+        alert(JSON.stringify(loginResult));
+    }
+    else
+    {
+        alert('로그인 실패');
+    }
+});
+```
+
+**로그인 처리(Back-end 처리 방식)**
+
+```javascript
+swingWebViewPlugin.app.ios.doAppleSignIn(function (result) {
+    if( result.result )
+    {
+        // 로그인 성공
+        // 개인정보에 해당하는 정보는 최초 로그인 1회만 제공되며, 이후에는 userId 와 authTime 만 제공됩니다.
+        // 파라미터로 전달된 identifyToken 을 서버에서 복호화해서 아래의 데이터를 가져와 로그인 및 회원가입을 처리한다.
+        // fullName, givenName, familyName, email, userId, authTime
+        location.href = '/loginWithApple?token=' + result.identityToken;
+    }
+    else
+    {
+        alert('로그인 실패');
+    }
+});
+```
+
+**identityToken 처리 방법(Server-Side)**
+
+전달된 identifyToken 은 JWT(Java JSON Web Token) 형식으로  암호화 되어있습니다.
+
+각 언어별로 JWT 토큰 파싱 방법은 쉽게 검색할 수 있습니다.
+
+```javascript
+import java.util.Base64;
+import java.util.HashMap;
+import java.util.Map;
+import org.json.JSONObject;
+
+public class DecoderMain {
+    public static void main(String[] args) {
+        // 테스트용 JWT (실제 토큰 사용 시 변경)
+        String identityToken = "eyJraWQiOiJyQlJmVm1xc2puIiwiYWxnIjoiUlMyNTYifQ.eyJpc3MiOiJodHRwczovL2FwcGxlaWQuYXBwbGUuY29tIiwiYXVkIjoia3IuY28uc21hcnR3YWxraW5nLmFwcDIiLCJleHAiOjE3Mzg4MzczMzcsImlhdCI6MTczODc1MDkzNywic3ViIjoiMDAxMDc2LjNmYThiNGNiYjdhYjQ1NDViOTdlM2YxZTg0ODdhYmRjLjA5MzkiLCJjX2hhc2giOiJheXFTdlhxdXlTSFY4c3BNVUE2elB3IiwiZW1haWwiOiJrZ2l0YWU3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdXRoX3RpbWUiOjE3Mzg3NTA5MzcsIm5vbmNlX3N1cHBvcnRlZCI6dHJ1ZX0.IYtbx6obFb3bl4iuGrtfhKyYuTrW4JeohHalyaX4wBIBrKsZPFSOB3ZlEkTURPnLCCFDBjlx-JUoRX-oMzwTTaCnw0RVdSym5rGeyZpx_nvfKUrKU4uwO2jihsfJDG21hbqA6G1nikAPGZAf1CZVkk4cO3lXP4T6kgOpU6-mF1R8T429Mb4XCn0Zo2PMdpYR63zdhLK4Ia2MVHioOQI71eZvirdw8PVvfS_9jA9sBuc9m3Eqvq_-dnLOfReVLcPsL2jUvMH-QCIczw8RfcEDlgAvEHmpzLTSgeRzeqKp-ra_dwQKpVUx1cr07s55mXbOvGhVoyH9rVidPifVHVv66w";  // 실제 JWT 토큰으로 변경 필요
+
+        // 토큰 디코딩 및 값 추출
+        Map<String, Object> loginResult = decodeIdentityToken(identityToken);
+
+        // 결과 출력
+        System.out.println("Decoded Identity Token Data:");
+        loginResult.forEach((key, value) -> System.out.println(key + " : " + value));
+    }
+
+    public static Map<String, Object> decodeIdentityToken(String token) {
+        Map<String, Object> result = new HashMap<>();
+
+        try {
+            // JWT는 "header.payload.signature" 형태이므로, 두 번째 부분(payload)만 추출
+            String[] parts = token.split("\\.");
+            if (parts.length < 2) {
+                throw new IllegalArgumentException("유효하지 않은 JWT 형식");
+            }
+
+            // Base64Url 디코딩 (패딩 처리)
+            String payloadJson = new String(Base64.getUrlDecoder().decode(parts[1]));
+
+            // JSON 파싱 (JDK 기본 기능만 사용할 경우 직접 String 파싱 필요)
+            JSONObject json = new JSONObject(payloadJson);
+
+            // 필요한 정보 추출
+            result.put("fullName", json.optString("fullName", null));
+            result.put("givenName", json.optString("given_name", null));
+            result.put("familyName", json.optString("family_name", null));
+            result.put("email", json.optString("email", null));
+            result.put("userId", json.optString("sub", null));
+            result.put("authTime", json.optLong("auth_time", 0));
+
+        } catch (Exception e) {
+            System.err.println("토큰 디코딩 오류: " + e.getMessage());
+        }
+
+        return result;
+    }
+}
+
+```
 
 
 
