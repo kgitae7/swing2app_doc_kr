@@ -407,6 +407,7 @@
   * [구글 개발자 계정 등록 프로세스](storedeveloper/googleprocess.md)
   * [구글 개발자 계정 확인 기한 '개인' 계정 인증](knowledgebase/playstore/personal.md)
   * [구글 개발자 계정 확인 기한 '조직' 계정 인증](knowledgebase/playstore/organization.md)
+  * [구글 플레이 개발자 계정 환불](knowledgebase/playstore/refund.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [앱스토어 애플 개발자계정 등록(개인)](knowledgebase/appstore/apple-developer.md)
   * [앱스토어 애플 개발자계정 등록(기업)](knowledgebase/appstore/developer-corporation.md)
