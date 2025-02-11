@@ -28,7 +28,9 @@ UI 템플릿이 모두 셋팅된 화면이기 때문에 홈화면에 적용해�
 
 그 다음 앱제작페이지에서 앱 홈화면에 쇼핑몰 메인페이지를 적용해볼게요.
 
-{% embed url="https://documentation.swing2app.co.kr/manual/swingshop/apply" %}
+{% embed url="https://documentation.swing2app.co.kr/shop/swingshop/apply" %}
+
+[https://documentation.swing2app.co.kr/shop/swingshop/apply](https://documentation.swing2app.co.kr/shop/swingshop/apply)
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
