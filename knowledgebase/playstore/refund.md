@@ -126,11 +126,31 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 
 <div align="left"><figure><img src="../../.gitbook/assets/환불6.png" alt=""><figcaption></figcaption></figure></div>
 
+환불 접수 완료
+
+***
+
+
+
+## 4.환불 완료
+
+<div align="left"><figure><img src="../../.gitbook/assets/환불8.png" alt=""><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/환불9.png" alt=""><figcaption></figcaption></figure></div>
+
 환불 완료가 될 경우 결제된 카드 취소 처리가 되는데요.
 
-아무래도 해외 결제라서 카드 취소 자체도 바로 되지 않고, \~7일 정도 소요됩니다.
+메일은 1일\~2일 정도 소요되었습니다. (주말 및 공휴일은 더 지연됩니다)
 
-그리고 이렇게 취소된 계정은 다시 이용이 불가한 점 유념해주세요.
+​
+
+실제 카드사 매출 취소는 해외 결제라서 바로 되지는 않구요.
+
+7일\~14일 정도 소요됩니다.
+
+​
+
+그리고 이렇게 취소된 계정은 환불만 된게 아니라, 해지가 됩니다. 따라서 다시 이용이 불가한 점 유념해주세요.
 
 즉, 환불이 완료된 계정 :메일주소로 다시 구글 개발자 계정을 생성할 수 없습니다.
 
