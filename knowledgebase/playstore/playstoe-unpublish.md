@@ -10,11 +10,11 @@
 
 ***
 
-### <mark style="color:blue;">**STEP.1 출시된 앱 게시취소하기**</mark>
+### <mark style="color:green;">**STEP.1 출시된 앱 게시취소하기**</mark>
 
 **먼저 플레이스토어에 출시 된 앱을 스토어에서 내리는 방법을 알려드릴게요.**
 
-\*구글 플레이 콘솔 접속 [https://play.google.com/console](https://play.google.com/console)
+\*구글 플레이 콘솔 접속  [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C1new.png)
 
@@ -22,13 +22,19 @@
 
 플레이스토어에 게시취소할 앱을 선택합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C2\_new.png)
 
-왼쪽 메뉴에서 <mark style="color:blue;">**1)설정 > 고급 설정**</mark>을 선택합니다.
 
-<mark style="color:blue;">**2)앱 이용 가능 여부**</mark> 탭에서 <mark style="color:blue;">**3)출시안됨**</mark>에 체크해주세요.
+<figure><img src="../../.gitbook/assets/게시취소.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**4)변경사항 저장**</mark>버튼을 누르면 완료됩니다.&#x20;
+왼쪽 메뉴에서&#x20;
+
+<mark style="color:blue;">**1)테스트 및 출시 선택**</mark>
+
+<mark style="color:blue;">**2)설정:고급 설정**</mark>을 선택합니다.
+
+<mark style="color:blue;">**3)앱 이용 가능 여부**</mark> 탭에서 <mark style="color:blue;">**"출시안됨"**</mark>에 체크해주세요.
+
+<mark style="color:blue;">**4)\[게시취소]**</mark> 버튼을 누르면 완료됩니다.&#x20;
 
 
 
@@ -40,11 +46,11 @@
 
 
 
-### <mark style="color:blue;">**STEP.2  출시되지 않은 앱 삭제하기**</mark>
+### <mark style="color:green;">**STEP.2  출시되지 않은 앱 삭제하기**</mark>
 
 **플레이스토어에 출시된 상태가 아닌, 임시 보관중인 앱이라면 콘솔에서 바로 삭제를 할 수 있어요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C3\_new.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C3_new.png)
 
 앱 목록 페이지에 바로 **‘휴지통’** 모양의 아이콘을 확인할 수 있는데요.
 
@@ -53,6 +59,8 @@
 <mark style="color:red;">\* 출시된 앱이 아니기 때문에 삭제 즉시 영구적으로 앱이 제거됩니다.</mark>
 
 ***
+
+
 
 <mark style="color:red;">**\[안내사항]**</mark>
 
