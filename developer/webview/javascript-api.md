@@ -145,6 +145,7 @@ swingWebViewPlugin.app.methods.getAppVersion(function(value){
     console.log('radio_version : ' + appVersion.radio_version);
     console.log('package_name : ' + appVersion.package_name);
     console.log('uuid : ' + appVersion.uuid);
+    console.log('deviceToken : ' + appVersion.deviceToken);
 });
 
 // ios
@@ -158,6 +159,7 @@ swingWebViewPlugin.app.methods.getAppVersion(function(value){
     console.log('bundleVersion : ' + appVersion.bundleVersion);
     console.log('bundleID : ' + appVersion.bundleID);
     console.log('uuid : ' + appVersion.uuid);
+    console.log('deviceToken : ' + appVersion.deviceToken);
 });
 ```
 {% endcode %}
