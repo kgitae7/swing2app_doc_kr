@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_12_23_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2025_02_14_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -335,17 +335,42 @@ swingWebViewPlugin.app.methods.inactivePush();
 
 다음 기능을 활용해서 웹 사이트 자동 로그인을 쉽게 구현할 수 있습니다.
 
-<mark style="background-color:blue;">\*js lib 2023\_12\_20\_001 버전 부터 사용 가능</mark>
+<mark style="background-color:blue;">\*js lib 2025\_02\_14\_001 버전으로 업데이트 됨</mark>
 
 {% code lineNumbers="true" %}
 ```javascript
-swingWebViewPlugin.app.methods.setVariable('id','test');
+// 앱과 웹 모두 사용할 경우
+swingWebViewPlugin.app.methods.setVariable('id','test', {type : 'app_n_web'}); // 앱과 웹에 모두 저장
+// 앱에만 데이터를 저장할 경우
+swingWebViewPlugin.app.methods.setVariable('id','test', {type : 'app'}); // 앱에만 저장
+
+// 'app_n_web' 앱과 웹 모두 저장할 경우 앱이 아닌 웹 환경에서도 loadVariable 호출할 경우 localStorage 를 통해 값을 가져올 수 있습니다.
+// 'app' 으로 사용할 경우 앱 환경에서만 저장되며, 웹 환경에서는 loadVariable 호출할 경우 값은 null이 반환됩니다.
 ```
 {% endcode %}
 
-### • 디바이스에 저장된 변수 불러오기 <a href="#load-localstorage" id="load-localstorage"></a>
+### • (New)디바이스에 저장된 변수 불러오기 <a href="#load-localstorage" id="load-localstorage"></a>
 
 앱내에 Storage 저장된 변수값 가져오기
+
+변수값을 저장할때 setVariable 함수의 옵션에 따라 앱 또는 웹 저장소에 저장된 값을 가져오게 됩니다.
+
+<mark style="background-color:blue;">\*js lib 2025\_02\_14\_001 버전 부터 사용 가능, 2025년 2월 14일 이후 제작된 앱에서만 실행가능</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.methods.loadVariable('id',function(value) {
+    console.log(value);
+    // 출력예시 : test
+});
+```
+{% endcode %}
+
+### • (Old)디바이스에 저장된 변수 불러오기 <a href="#load-localstorage" id="load-localstorage"></a>
+
+앱내에 Storage 저장된 변수값 가져오기
+
+웹에서는 callback 함수가 실행되지 않으며 앱으로 구동 되었을때만 callback 함수가 실행됩니다.
 
 <mark style="background-color:blue;">\*js lib 2023\_12\_20\_001 버전 부터 사용 가능</mark>
 
