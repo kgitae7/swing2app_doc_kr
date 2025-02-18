@@ -43,6 +43,7 @@ description: 스윙투앱 WebView 모듈(푸시전용)에 인앱결제 모듈을
 구현을 시작하기 전에, 구글 플레이 콘솔에서 소모성 상품을 생성하고, 해당 상품 ID를 준비합니다. 아래는 소모성 상품 결제를 스윙투앱 모듈에서 구현하는 코드의 예시입니다:
 
 ```javascript
+var productId = 'test_product_id';
 swingWebViewPlugin.app.inapp.buy(productId,
     function(responseCode,data) {
         console.log('responseCode : ' + responseCode + ', ret : ' + JSON.stringify(data));
@@ -113,6 +114,7 @@ swingWebViewPlugin.app.inapp.buy(productId,
 구현을 시작하기 전에, 구글 플레이 콘솔에서 비소모성 상품을 생성하고, 해당 상품 ID를 준비합니다. 아래는 비소모성 상품 결제를 스윙투앱 모듈에서 구현하는 코드의 예시입니다:
 
 ```javascript
+var productId = 'test_product_id';
 swingWebViewPlugin.app.inapp.buyAndType(productId,'none-consume',
     function(responseCode,data) {
         console.log('responseCode : ' + responseCode + ', ret : ' + JSON.stringify(data));
@@ -177,6 +179,7 @@ swingWebViewPlugin.app.inapp.buyAndType(productId,'none-consume',
 구독 상품 결제를 처리할 때 아래와 같은 예제를 참고할 수 있습니다:
 
 ```javascript
+var productId = 'test_product_id';
 swingWebViewPlugin.app.inapp.subscribe(productId,
     function(responseCode,data) {
         console.log('responseCode : ' + responseCode + ', ret : ' + JSON.stringify(data));
