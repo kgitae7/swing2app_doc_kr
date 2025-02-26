@@ -2,7 +2,7 @@
 description: 구글 플레이스토어에 [인앱] 상품 등록하는 방법
 ---
 
-# \[인앱] 구글플레이스토어 인앱 상품 등록하기
+# \[구글] 플레이스토어 인앱 상품 등록
 
 ***
 
@@ -17,6 +17,8 @@ description: 구글 플레이스토어에 [인앱] 상품 등록하는 방법
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 구글 개발자 콘솔사이트에 접속 후, 어플리케이션 목록에서 인앱 상품을 등록할 어플을 선택해주세요.
+
+***
 
 
 
@@ -118,7 +120,7 @@ description: 구글 플레이스토어에 [인앱] 상품 등록하는 방법
 
 <figure><img src="../../.gitbook/assets/인앱셋팅4.png" alt=""><figcaption></figcaption></figure>
 
-[**스윙샵 →상품관리 → 상품등록**](https://www.swing2app.co.kr/view/store\_product\_management) **화면으로 이동합니다.**
+[**스윙샵 →상품관리 → 상품등록**](https://www.swing2app.co.kr/view/store_product_management) **화면으로 이동합니다.**
 
 
 
@@ -126,7 +128,7 @@ description: 구글 플레이스토어에 [인앱] 상품 등록하는 방법
 
 <figure><img src="../../.gitbook/assets/인앱셋팅3.png" alt=""><figcaption></figcaption></figure>
 
-[**스윙샵→상품관리→ 상품조회** ](https://www.swing2app.co.kr/view/store\_product\_list)화면 이동
+[**스윙샵→상품관리→ 상품조회** ](https://www.swing2app.co.kr/view/store_product_list)화면 이동
 
 수정 하고자 하는 상품을 선택하면, 상품수정 화면으로 이동합니다.&#x20;
 

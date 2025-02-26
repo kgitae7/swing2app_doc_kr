@@ -1,6 +1,4 @@
-# \[인앱] 애플 앱스토어 인앱 상품 등록하기
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%ED%94%8C%EC%9D%B8%EC%95%B1%EB%93%B1%EB%A1%9D%EC%A0%9C%EB%AA%A9-1024x283.png)
+# \[애플] 앱스토어 인앱 상품 등록
 
 **애플 앱스토어에서 인앱 상품을 등록하는 방법을 알려드리겠습니다.**&#x20;
 
@@ -78,7 +76,7 @@
 
 **스윙 홈페이지 접속 후, 스윙샵 →상품관리 → 상품등록화면으로 이동합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B5\_%EC%A0%9C%ED%92%88%EC%95%84%EC%9D%B4%EB%94%941-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B5_%EC%A0%9C%ED%92%88%EC%95%84%EC%9D%B4%EB%94%941-1.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B5%EC%A0%9C%ED%92%88%EC%95%84%EC%9D%B4%EB%94%942-1.png)
 
