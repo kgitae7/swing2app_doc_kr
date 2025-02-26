@@ -88,7 +88,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 입력된 정보 확인 후 \[다음]버튼 선택합니다
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)조직 규모: 네모칸 화살표를 선택해서 맞는 유형을 선택해주세요.
 

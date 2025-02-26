@@ -460,7 +460,7 @@
   * [\[인앱\] 애플 앱스토어 인앱 상품 등록하기](knowledgebase/inapp/appleproduct.md)
   * [\[인앱\] 구글플레이스토어 인앱 환불](knowledgebase/inapp/refund.md)
   * [\[인앱\] 구글플레이스토어 인앱 상품 등록하기](knowledgebase/inapp/product.md)
-  * [\[인앱\] 구글 판매자 계좌정보 입력](knowledgebase/inapp/bankaccount.md)
+  * [\[구글\] 인앱 판매자 계좌정보 입력](knowledgebase/inapp/bankaccount.md)
   * [\[인앱\] 구글 판매자 계정 연결](knowledgebase/inapp/account.md)
   * [인앱 주의사항](knowledgebase/inapp/announcement.md)
   * [인앱(In-app)이란?](knowledgebase/inapp/inapp.md)

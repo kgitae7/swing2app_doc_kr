@@ -1,14 +1,14 @@
-# \[인앱] 구글 판매자 계좌정보 입력
+---
+description: 구글 결제 수단 - 입금 계좌 인증 하기
+---
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%9D%B8%EC%95%B1-%EA%B3%84%EC%A2%8C%ED%99%95%EC%9D%B8%EC%A0%9C%EB%AA%A9-1024x282.png)
+# \[구글] 인앱 판매자 계좌정보 입력
+
+***
 
 **인앱- 구글 판매자의 계좌정보를 입력하는 방법**
 
 계좌정보를 입력하기 전, 먼저 구글에서 사용할 판매자 계정을 등록해주시구요.&#x20;
-
-판매자 계정 등록방법은 해당 포스팅을 확인해주세요.
-
-**→** [**구글 판매자 계정 설정하기** ](http://blog.naver.com/swing2app/221151714353)
 
 판매자 계정 등록이 완료되면 **결제수단- 판매자의 계좌정보**를 입력해야 하는데요.
 
@@ -16,67 +16,33 @@
 
 따라서 **계좌정보- 예금주 이름, 은행명, 계좌번호를 입력하여 사용해야 합니다.** \
 \
-**매뉴얼을 통해서 구글 개발자콘솔사이트에서 판매자의 계좌정보 -결제수단을 입력하는 방법을 알려드릴게요.**&#x20;
+**매뉴얼을 통해서 구글 플레이 콘솔사이트에서 판매자의 계좌정보 -결제수단을 입력하는 방법을 알려드릴게요.**&#x20;
+
+
 
 ***
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**구글 개발자 콘솔사이트 접속**  [**https://play.google.com/apps/publish/**](https://play.google.com/apps/publish/)
 
-**판매자 계정을 설정하기 위해서는 구글 개발자 계정을 먼저 만들어주셔야 합니다.**&#x20;
 
-**개발자 계정 비용 25$ 결제 후 판매자 계정을 설정해주세요.**&#x20;
+### 구글 플레이 콘솔 접속&#x20;
 
-### <mark style="color:blue;">**STEP.1 결제수단 추가하기 1**</mark>
+<figure><img src="../../.gitbook/assets/인앱결제프로필1.png" alt=""><figcaption></figcaption></figure>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EA%B8%80%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C%EC%88%98%EB%8B%A81.png)
+설정 - 결제 프로필 선택
 
-**구글 개발자 콘솔사이트 접속 후**
+<figure><img src="../../.gitbook/assets/인앱결제프로필12.png" alt=""><figcaption></figcaption></figure>
 
-**개발자계정 → Payments 설정 페이지에서 → \[지급 받는 방법: 결제수단 추가]를 선택**해주세요.
+결제 프로필 화면에  \[지금 확인하기] 메시지가 떠 있을 것입니다.
 
-***
+&#x20;지금 확인하기 선택 - 구글에입금된 금액을 입력하고 확인 버튼 눌러주세요.&#x20;
 
-### <mark style="color:blue;">**STEP.2 결제수단 추가하기2**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EA%B8%80%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C%EC%88%98%EB%8B%A82.png)
 
-**은행 계좌를 입력합니다.**&#x20;
+<div align="left"><figure><img src="../../.gitbook/assets/인앱결제프로필13.png" alt=""><figcaption></figcaption></figure></div>
 
-\* 비지니스 정보: 제품을 판매할 나라를 선택할 때 ‘대한민국’이라고 선택했기 때문에 **은행계좌는 대한민국에서 발급된 계좌로 입력해주셔야 합니다.** &#x20;
+은행계좌 확인이 완료되었다는 메시지 창이 뜹니다.
 
-**1)예금주 이름 입력**&#x20;
 
-**2)은행코드 입력: 은행코드를 모른다면 인터넷에서 조회하면 바로 검색이 되더라구요. 코드를 찾아서 입력해주세요.**&#x20;
-
-**3)계좌번호 입력**&#x20;
-
-**4)저장버튼을 누르면 완료됩니다.**
-
-### <mark style="color:blue;">**STEP.3 결제수단 추가하기3**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EA%B8%80%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C%EC%88%98%EB%8B%A83.png)
-
-**계좌 입력은 모두 완료되었구요.**&#x20;
-
-<mark style="color:red;">**\*구글에서 사용자(관리자)가 입력한 계좌가 정상적인 계좌인지 확인하기 위해서 3일 이내로 소액을 해당 계좌로 입금하게 되요.**</mark> &#x20;
-
-따라서 사용자는 **통장에 입금이 된 금액을 확인하고 결제 수단 페이지에서 정확히 입금된 금액을 입력해야 계좌 인증이 완료**됩니다.&#x20;
-
-인증 완료가 되지 않으면, 정산을 받을 수 없기때문에 잊지 말고 꼭 해주세요!!
-
-***
-
-### <mark style="color:blue;">**STEP.4 최종확인**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B5%AC%EA%B8%80%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C%EC%88%98%EB%8B%A84.png)
-
-통장 계좌로 구글에서 입금이 되면  <mark style="color:blue;">**Payments**</mark> <mark style="color:blue;">**설정**</mark> 페이지로 이동합니다.
-
-**구글에서 입금한 금액을 확인하여 금액을 선택하고, 확인해주셔야 합니다.**
-
-그래야만 최종으로 입금계좌가 정상적으로 승인됩니다.
-
-***
 
 <mark style="color:blue;">**판매자 지급계좌 설정 완료**</mark> \
 \

@@ -178,7 +178,7 @@ description: 사용자 페이지 기능 - 템플릿 페이지 이용방법 매�
 
 
 
-<img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
+<img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="line"> **다른 스타일의 템플릿 페이지 제작**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF5_19.09.png)
 
