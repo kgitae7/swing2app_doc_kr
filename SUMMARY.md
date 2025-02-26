@@ -455,6 +455,7 @@
   * [애드몹 광고 셋팅 주의사항](knowledgebase/admob/admobplugin-check.md)
   * [앱미리보기 이용방법](undefined/swingpreview.md)
 * [인앱(In-App)](knowledgebase/inapp/README.md)
+  * [\[인앱\] 구글 개발자 \[결제 프로필\] 설정 방법](knowledgebase/inapp/payment.md)
   * [\[인앱\] 구글 개발자-결제 프로필 설정 방법](knowledgebase/inapp/google-payments.md)
   * [\[인앱\] 애플 계좌 등록 및 수정방법](knowledgebase/inapp/appstorepayment.md)
   * [\[인앱\] 애플 앱스토어 인앱 상품 등록하기](knowledgebase/inapp/appleproduct.md)
