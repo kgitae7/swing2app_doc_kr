@@ -1,5 +1,6 @@
 ---
 description: 키스토어 분실, 재설정이 필요할 경우 구글에 업로드키 재설정을 요청할 수 있습니다.
+hidden: true
 ---
 
 # 플레이스토어 앱 업로드 키 재설정
@@ -70,11 +71,7 @@ description: 키스토어 분실, 재설정이 필요할 경우 구글에 업로
 
 ### 5.메일 도착
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/업로드키4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/업로드키4.png" alt=""><figcaption></figcaption></figure></div>
 
 인증키 등록 후 개발자 계정 이메일로 "업로드 키 재설정 요청이 접수되었습니다" 메일을 받게 됩니다.&#x20;
 
@@ -86,11 +83,7 @@ description: 키스토어 분실, 재설정이 필요할 경우 구글에 업로
 
 <mark style="color:red;">\*만약 해당 날짜가 되지 않았는데 앱 번들 파일을 등록하려고 하면, 첨부된 이미지 처럼 경고 메시지가 뜹니다.</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/업로드키6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/업로드키6.png" alt=""><figcaption></figcaption></figure></div>
 
 따라서 구글에서 받은 메일에 기재된 날짜, 시간에 맞춰 새로운 앱 파일을 등록해주세요.&#x20;
 

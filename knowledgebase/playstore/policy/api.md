@@ -4,7 +4,7 @@ description: '구글 플레이 콘솔 정책 - 민감한 권한 API: 쿼리 권�
 
 # 구글 플레이 정책 - 민감한 권한 API: 쿼리 권한 정책
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 민감한 권한 API정책은 <mark style="color:green;">2022년 6월 14일 이후 제작한 앱에서는 패키지 쿼리 권한 문제가 모두 처리되어 제공됩니다. (권한 내용 모두 삭제된 버전으로 제작됩니다)</mark>
@@ -28,11 +28,11 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 만약 해당 내용을 계속해서 등록하지 않는다면, 구글에서 앱을 삭제하오니 반드시 따라서 작업해주셔야 합니다. ​
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 > ### **구글 경고 메일 발송**
 
-![](<../../.gitbook/assets/캡처 (2).PNG>)
+![](<../../../.gitbook/assets/캡처 (2).PNG>)
 
 **이렇게 앱이 정책에 준수하지 않는다는 내용으로 구글에서 앱이 삭제되거나, 업데이트가 거부되는 경우가 있을거에요.**
 
@@ -54,7 +54,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 앱 업데이트만 하면 완료되는 내용이기 때문에, 아래 내용은 확인하지 않아도 됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **\*여기서부터는022년 6월 이전 제작된 앱에 해당되는 매뉴얼입니다.**
 
@@ -64,7 +64,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 **\*\*구글 플레이 콘솔 사이트 접속** [**https://play.google.com/console/developers**](https://play.google.com/console/developers) **앱을 선택해주세요.**
 
-![](../../.gitbook/assets/구글1.png)
+![](../../../.gitbook/assets/구글1.png)
 
 **왼쪽 카테고리에서 정책 -\[앱 콘텐츠] 메뉴를 선택합니다.**
 
@@ -90,7 +90,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ## <mark style="color:blue;">**2**</mark>
 
-![](<../../.gitbook/assets/구글2 (1).png>)
+![](<../../../.gitbook/assets/구글2 (1).png>)
 
 모든 패키지 쿼리 권한 \[시작] 버튼을 선택해주세요.
 
@@ -98,7 +98,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ## <mark style="color:blue;">3</mark>
 
-![](<../../.gitbook/assets/구글3 (1).png>)
+![](<../../../.gitbook/assets/구글3 (1).png>)
 
 모든 패키지 쿼리 페이지에서는 구글에 해당 기능에 대한 설명 및 이를 증빙할 수 있는 동영상 링크를 첨부해야 해요.
 
@@ -122,7 +122,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ​
 
-![](../../.gitbook/assets/구글4.png)
+![](../../../.gitbook/assets/구글4.png)
 
 **2)용도**
 
@@ -146,7 +146,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ## <mark style="color:blue;">4</mark>
 
-![](../../.gitbook/assets/구글5.png)
+![](../../../.gitbook/assets/구글5.png)
 
 "모든 패키지 쿼리를 선언했습니다." 메시지가 뜨면 완료된 것입니다.
 

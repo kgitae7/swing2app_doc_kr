@@ -16,9 +16,9 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 따라서 앱에서 제공하는 사용자의 데이터 수집 정보를 플레이스토어에 모두 제출하여 심사시 문제가 없도록 해야 합니다.
 
-\-신규 앱을 등록하는 사용자분들은 프로세스에 따라 등록해주시면 되구요.
+-신규 앱을 등록하는 사용자분들은 프로세스에 따라 등록해주시면 되구요.
 
-\-기존 앱 출시 사용자분들은 앱 콘텐츠 메뉴로 이동하시면, 새롭게 추가된 '데이터 보안' 메뉴를 확인할 수 있습니다.
+-기존 앱 출시 사용자분들은 앱 콘텐츠 메뉴로 이동하시면, 새롭게 추가된 '데이터 보안' 메뉴를 확인할 수 있습니다.
 
 ​
 
@@ -30,7 +30,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 '데이터 보안' 메뉴 미입력시 정책위반으로 앱이 플레이스토어에서 삭제될 수 있습니다.
 
-![](../../.gitbook/assets/수평성.PNG)
+![](../../../.gitbook/assets/수평성.PNG)
 
 {% hint style="warning" %}
 ### **데이터 보안 메뉴 입력시 주의사항**
@@ -52,7 +52,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP1. 앱 콘텐츠 메뉴 - 데이터 보안**
 
@@ -60,7 +60,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 {% embed url="https://play.google.com/console/developers" %}
 
-<figure><img src="../../.gitbook/assets/데이터업뎃1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/데이터업뎃1.png" alt=""><figcaption></figcaption></figure>
 
 \*처음 앱을 등록하는 분들은 등록 단계 중 정책 -\[앱 콘텐츠]메뉴로 이동 - 데이터 보안 시작
 
@@ -76,7 +76,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 ### <mark style="color:blue;">1. 개요</mark>
 
-<figure><img src="../../.gitbook/assets/데이터2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/데이터2.png" alt=""><figcaption></figcaption></figure>
 
 데이터 보안 - 개요 항목을 읽어본 뒤 \[다음] 버튼을 선택합니다.
 
@@ -84,7 +84,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 ### <mark style="color:blue;">**2.데이터 수집 및 보안**</mark>
 
-<figure><img src="../../.gitbook/assets/데이터3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/데이터3.png" alt=""><figcaption></figcaption></figure>
 
 4\)앱에서 필수 사용자 데이터 유형을 수집하거나 공유하나요? “예”에 체크합니다.
 
@@ -110,13 +110,13 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 
 
-<figure><img src="../../.gitbook/assets/데이터4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/데이터4.png" alt=""><figcaption></figcaption></figure>
 
 7\)계정 URL 입력 \*중요\*
 
-\-일반 프로토타입앱 사용자는 스윙투앱에서 제공하는 개인정보 취급방침 링크 입력
+-일반 프로토타입앱 사용자는 스윙투앱에서 제공하는 개인정보 취급방침 링크 입력
 
-\-웹사이트를 연결한 웹뷰 or푸시앱 사용자는 사용자분의 홈페이지에서 제공하는 개인정보 취급방침 링크를 입력합니다.
+-웹사이트를 연결한 웹뷰 or푸시앱 사용자는 사용자분의 홈페이지에서 제공하는 개인정보 취급방침 링크를 입력합니다.
 
 ​
 
@@ -126,7 +126,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 \[개인정보 취급방침 링크를 가져오는 방법]
 
-[앱운영-서비스관리-정책관리-앱가입 정책](http://www.swing2app.co.kr/view/app\_setting)- \[정책 설정하기] 버튼 선택 - 서비스 이용약관 URL보기 선택 – 인터넷 창에 기재된 URL복사하여 이용
+[앱운영-서비스관리-정책관리-앱가입 정책](http://www.swing2app.co.kr/view/app_setting)- \[정책 설정하기] 버튼 선택 - 서비스 이용약관 URL보기 선택 – 인터넷 창에 기재된 URL복사하여 이용
 
 개인정보 취급방침 링크를 가져오는 자세한 설명이 필요하다면 아래 매뉴얼 참고해주세요.
 
@@ -170,7 +170,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 \*앱에 로그인 기능이 있는데, 없다고 진행하실 경우 심사가 거절됩니다. 반드시 실제 제공하는 기능에 맞게 제출해주세요.
 
-<figure><img src="../../.gitbook/assets/N데이터-계정없음1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/N데이터-계정없음1 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱에서 필수 사용자 데이터 유형을 수집하거나 공유하나요? “예”에 체크합니다.
 
@@ -184,7 +184,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 
 
-<figure><img src="../../.gitbook/assets/n데이터-계정없음2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/n데이터-계정없음2.png" alt=""><figcaption></figcaption></figure>
 
 3\)\[앱에서 사용자가 계정을 만들도록 허용하지 않음] 체크
 
@@ -228,9 +228,9 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 그외 위치 수집 금융정보-구매내역 등, 파일 저장 등 해당되는 항목에 체크한 뒤 \[다음] 버튼을 선택합니다.
 
-![](../../.gitbook/assets/구글정책4.png)
+![](../../../.gitbook/assets/구글정책4.png)
 
-![](../../.gitbook/assets/구글정책5.png)
+![](../../../.gitbook/assets/구글정책5.png)
 
 데이터 유형도 마찬가지로, 사용자의 앱에서 해당되는 항목에 체크를 해주시면 됩니다.
 
@@ -240,9 +240,9 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 **​**<mark style="background-color:yellow;">**\[기기 또는 기타 ID 데이터 유형]**</mark>
 
-<figure><img src="../../.gitbook/assets/데이터보안-기기1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/데이터보안-기기1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/데이터보안-기기2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/데이터보안-기기2.png" alt=""><figcaption></figcaption></figure>
 
 기기 또는 기타 ID 메뉴도 확인해서 입력을 해주세요 - **필수!!**
 
@@ -250,7 +250,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 ### <mark style="color:blue;">**4.데이터 사용량 및 처리**</mark>
 
-![](../../.gitbook/assets/구글정책6.png)
+![](../../../.gitbook/assets/구글정책6.png)
 
 데이터 사용량 및 처리 메뉴에서는 앞서 체크한 데이터 유형별로 상세 내용을 입력하는 단계입니다.
 
@@ -258,7 +258,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 ​
 
-![](../../.gitbook/assets/구글정책7-\(1\).png)
+![](../../../.gitbook/assets/구글정책7-\(1\).png)
 
 데이터 사용량 및 처리 메뉴 상세 페이지 입니다.
 
@@ -274,7 +274,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 ## **STEP2. 데이터 보안 입력완료**
 
-![](../../.gitbook/assets/구글정책8.png)
+![](../../../.gitbook/assets/구글정책8.png)
 
 데이터 항목 입력이 완료되었습니다.&#x20;
 
@@ -282,13 +282,13 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 
 
-<figure><img src="../../.gitbook/assets/20234924.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20234924.png" alt=""><figcaption></figcaption></figure>
 
 \[저장] 선택 - \[개요로 이동] 선택
 
 
 
-<figure><img src="../../.gitbook/assets/20235124.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20235124.png" alt=""><figcaption></figcaption></figure>
 
 게시개요 화면에서 \[검토를 위해 변경사항 \~개 전송]선택 - \[검토를 위해 변경사항 전송] 선택
 
@@ -296,7 +296,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 
 
-<figure><img src="../../.gitbook/assets/20235124 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20235124 (2).png" alt=""><figcaption></figcaption></figure>
 
 콘솔 대시보드를 보시면 앱 심사가 다시 들어간 것을 확인할 수 있습니다. "검토중"표시
 
@@ -306,7 +306,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 간혹 제출 준비중으로 뜨고, 심사가 제대로 제출되지 않는 경우도 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP3.** 모든 조치가 다 되었는지 확인하는 방법
 
@@ -314,9 +314,9 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 모든 조치가 다 되었는지, 문제가 된 항목은 더 없는지 어떻게 확인하나요?
 
-<figure><img src="../../.gitbook/assets/20230523 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20230523 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/20230523_(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20230523_(1).png" alt=""><figcaption></figcaption></figure>
 
 주의항목 제출이 모두 완료되면 정책 상태, 앱 콘텐츠 항목에서 완료된 내용을 확인할 수 있습니다.
 
