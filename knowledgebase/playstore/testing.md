@@ -2,7 +2,7 @@
 description: 비공개 테스트 앱 등록 방법 매뉴얼
 ---
 
-# 플레이스토어 비공개 테스트 등록
+# 비공개 테스트 등록
 
 ***
 
@@ -19,11 +19,11 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 1\)신규 개발자는 프로덕션에 앱 게시를 바로 할 수 없습니다.
 
-2\)앱은 비공개 TEST 등록으로 제출하고 20여명의 테스트 계정을 연결 해주셔야 합니다.
+2\)앱은 비공개 TEST 등록으로 제출하고 12명의 테스트 계정을 연결 해주셔야 합니다.
 
 3\)테스트는 14일간 진행되어야 합니다.
 
-4\)20명의 테스트, 14일 기간이 종료된 후 프로덕션으로 전환하여 앱 제출을 요청할 수 있습니다.
+4\)12명의 테스트, 14일 기간이 종료된 후 프로덕션으로 전환하여 앱 제출을 요청할 수 있습니다.
 
 <mark style="color:red;">​2023년 11월 13일 이후 구글 개발자 ‘개인’으로 만드신 분들은 플레이스토어 앱 출시 할 수 없습니다.</mark>&#x20;
 
@@ -64,11 +64,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/테스트등록2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/테스트등록2.png" alt=""><figcaption></figcaption></figure></div>
 
 3\)트랙 이름을 입력합니다.
 
@@ -113,7 +109,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 이메일을 쉼표로 구분한 뒤, Enter 키 누르면 목록에 추가됩니다.
 
 {% hint style="info" %}
-비공개 테스트는 20명의 테스터를 등록해야 하기 때문에 총 20개의 이메일주소를 입력해주셔야 합니다.
+비공개 테스트는 12명의 테스터를 등록해야 하기 때문에 총 12개의 이메일주소를 입력해주셔야 합니다.
 
 이메일은 구글 계정만 가능하며, 실제 이용이 가능한 계정이어야 합니다.
 
@@ -140,11 +136,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/테스트등록8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/테스트등록8.png" alt=""><figcaption></figcaption></figure></div>
 
 16\)서명 키 선택
 
@@ -152,11 +144,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/테스트등록9.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/테스트등록9.png" alt=""><figcaption></figcaption></figure></div>
 
 18\)업로드 버튼을 선택해서 aab파일을 등록해주세요.
 
@@ -184,11 +172,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/테스트등록11.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/테스트등록11.png" alt=""><figcaption></figcaption></figure></div>
 
 21\)'검토를 위해 변경사항 2개 전송' 버튼 탭
 
@@ -196,11 +180,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/테스트등록12.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/테스트등록12.png" alt=""><figcaption></figcaption></figure></div>
 
 앱 등록이 완료되었구요.
 
