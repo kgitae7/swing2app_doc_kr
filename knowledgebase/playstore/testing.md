@@ -134,7 +134,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-## 3.출시
+## 3.비공개 테스트 앱등록
 
 <figure><img src="../../.gitbook/assets/테스트등록7.png" alt=""><figcaption></figcaption></figure>
 
@@ -236,33 +236,37 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 
 
-## 4.진행 과정
+## 4.프로덕션 액세스 신청하기
 
 <figure><img src="../../.gitbook/assets/테스트등록14.png" alt=""><figcaption></figcaption></figure>
 
-하나씩 임무가 완수되는 것을 볼 수 있습니다.
+비공개 테스트 동안 하나씩 임무가 완수되는 것을 볼 수 있습니다.
 
 
 
-<figure><img src="../../.gitbook/assets/테스트등록15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/비공개9.png" alt=""><figcaption></figcaption></figure>
 
-2주간의 20명 앱 테스트가 완료되면, 프로덕션을 신청할 수 있게 됩니다.
+2주간의 12명 이상의 앱 테스트가 완료되면, 프로덕션을 신청할 수 있게 됩니다.
+
+프로덕션 신청 버튼을 선택하면 구글에서 제공하는 질문(인터뷰지)에 답변을 하게 됩니다.&#x20;
+
+해당 답변 까지 작성 완료해야 신청이 완료됩니다.
 
 
+
+**--프로덕션 액세스 신청 접수 완료**
 
 <figure><img src="../../.gitbook/assets/테스트등록16.png" alt=""><figcaption></figcaption></figure>
 
 프로덕션 배포 역시 검수 시간이 들어가구요. (일주일 이내)
+
+
 
 TEST에서 통과했으니 프로덕션은 심사 거절 없이 다 출시가 되겠죠? 할 수 있지만,, 그렇지는 않습니다. ^^
 
 프로덕션도 다시 심사가 들어가고 심사에서 거절이 될 수 있어요.
 
 정상적으로 출시가 완료되면 이제 플레이스토어에 공식 배포가 되어 앱을 다운받고, 검색할 수 있게 됩니다.
-
-***
-
-
 
 {% hint style="success" %}
 보시는 것처럼 개인 개발자 계정 - 플레이스토어 앱 등록은 시간과 노력이 많이 들어갑니다.
