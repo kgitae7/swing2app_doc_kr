@@ -52,13 +52,21 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 ​
 
+{% hint style="warning" %}
+&#x20;비공개 테스트 등록은, 플레이스토어 모든 입력 항목이 입력 완료된 후 마지막에 진행합니다.
+
+위의 등록 매뉴얼을 보고, 등록 완료 후 비공개 테스트로 들어와서 테스트 등록을 해주세요.&#x20;
+{% endhint %}
+
 [**구글플레이 콘솔 접속** ](https://play.google.com/console/u/0/developers)
 
 ## 테스트 트랙 만들기
 
-<figure><img src="../../.gitbook/assets/테스트등록1.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/비공개1.png" alt=""><figcaption></figcaption></figure></div>
 
-1\)왼쪽 메뉴 테스트 > 비공개 테스트 선택
+1\)왼쪽 메뉴 테스트 및 출시 카테고리
+
+테스트 > 비공개 테스트 선택
 
 2\)페이지 오른쪽 상단에서 \[트랙 만들기]를 선택합니다.
 
@@ -78,21 +86,21 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 ## 1.국가선택
 
-<figure><img src="../../.gitbook/assets/테스트등록3.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/비공개2.png" alt=""><figcaption></figcaption></figure></div>
 
 5\)국가/지역 탭
 
 6\)배포할 국가를 선택한 뒤 '저장' 버튼
 
-\* 대한민국으로만 배포하거나 전체 국가 모두 선택하셔도 됩니다. 원하는 국가로 저장 가능!
+\* 테스트 할때는 대한민국으로만 배포하거나 전체 국가 모두 선택하셔도 됩니다. 원하는 국가로 저장 가능!
 
 ***
 
 ​
 
-## 2.테스터
+## 2.테스터 선택
 
-<figure><img src="../../.gitbook/assets/테스트등록4.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/비공개3.png" alt=""><figcaption></figcaption></figure></div>
 
 7\)테스터 선택
 
