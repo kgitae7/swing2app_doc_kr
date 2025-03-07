@@ -1,74 +1,58 @@
----
-description: 플레이스토어에 등록된 앱을 삭제하는 방법 매뉴얼
----
+# 플레이스토어 앱 자동업데이트 설정하기
 
-# 플레이스토어 등록된 앱 삭제
+안드로이드폰에서 내가 사용하고 있는 **앱들이 최신버전으로 업데이트 될 경우 ‘자동업데이트’를 설정해놓으면 알아서 최신버전으로 업데이트 됩니다.**
 
-{% hint style="warning" %}
-**플레이스토어 앱 삭제는 아래 조건이 충족되어야 합니다.**
+**혹은 데이터가 걱정이 된다면, 와이파이 상태에서만 자동업데이트가 되도록 설정할 수 있구요.**
 
-1.앱에 아무런 문제가 없어야 합니다. 출시가 된 상태여야 하고, 삭제되거나 정지된 앱이 아니어야 합니다.
+**자동업데이트가 싫다면, 업데이트를 하지 않음으로 설정할 수도 있어요. (그럼 업데이트가 안되겠지만요 ㅠㅠ)**
 
-2.앱의 설치 수가 0이어야 합니다. \*설치된 적이 없어야 함
+스윙 이용자분들 역시 플레이스토어에 앱을 출시하셔서 이용중이라면,
 
-3.앱이 24시간 동안 게시 취소 상태여야 합니다. \*설치수를 0으로 유지하기 위해 게시 취소된 상태여야 합니다.&#x20;
-{% endhint %}
+플레이스토어 앱 > ‘설정’ 에서> ‘앱 자동 업데이트’를 선택해서 사용하시길 권장드립니다.
 
 
 
-***
+<mark style="color:blue;">**플레이스토어 자동 업데이트 설정 방법**</mark>
 
-<figure><img src="../../.gitbook/assets/앱삭제3.PNG" alt=""><figcaption></figcaption></figure>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/5752cc9692c8ad19189c21a86437fc51.png" alt=""></div>
 
-출시된 앱 중 위의 앱을 삭제 요청해보도록 하겠습니다.&#x20;
+먼저 구글 플레이스토어 앱을 실행해주세요.
 
+1\. 그리고 화면의 <mark style="color:blue;">**왼쪽 상단 버튼**</mark>을 눌러주세요.
 
+그럼 아래처럼 ↓↓  메뉴창이 뜹니다.
 
-***
+&#x20;
 
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1a7c0f0b320800aafe8437899aa09ca9.png" alt=""></div>
 
+2\. 메뉴 창에서 스크롤해서 조금만 내려 주시면 <mark style="color:blue;">**\[설정]**</mark> 메뉴가 보일거에요.
 
-**\*앱 삭제 요청은 구글 고객센터 링크를 타고 들어가서 양식을 작성해주시면 됩니다.**&#x20;
+<mark style="color:blue;">**‘설정’**</mark> 메뉴를 선택해주세요
 
-### <mark style="color:blue;">앱 게시 관련 문제 고객센터 링크 이동</mark>
+&#x20;
 
-{% embed url="https://support.google.com/googleplay/android-developer/contact/publishing?extra.IssueType=missing&sjid=8997568107584616336-AP&hl=ko" %}
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d497d7915d12f8c177961ddd8af91bcf.png" alt=""></div>
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/앱삭제1.PNG" alt=""><figcaption></figcaption></figure>
-
-이름과 성, 이메일주소, 내 위치는 자동으로 입력되어 들어가 있구요.
-
-개발자 이름, 개발자 계정 ID, 앱 이름, 앱 패키지 이름을 입력해주시면 됩니다.
-
-? 물음표 버튼을 선택하면 어떤 경로에서 정보 가져와서 입력할 수 있는지 확인 가능합니다.&#x20;
+3\. 기본설정 창에서 **‘앱 자동 업데이트’**&#xB97C; 선택해주세요. \
 
 
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3c5e098d0e6778f6d7d9ebcf2e1976d1.png" alt=""></div>
 
-<figure><img src="../../.gitbook/assets/앱삭제2.PNG" alt=""><figcaption></figcaption></figure>
+4\. 세가지 업데이트 방법 중에서 <mark style="color:blue;">**‘항상 자동 업데이트’**</mark> 로 체크하거나
 
-신청서에 "앱 삭제를 요청하고 싶음"에 체크해주세요.
+or&#x20;
 
-{% hint style="success" %}
-앱이 다음 조건을 충족하는지 확인하세요.
+데이터가 부담될 경우 <mark style="color:blue;">**‘Wi-Fi 환경에서만 자동 업데이트**</mark><mark style="color:blue;">’</mark>로 선택해주시면 완료됩니다.
 
-* 앱에 아무런 문제가 없어야 함(Google에서 삭제되거나 정지되지 않음)
-* 앱의 전체 기간 설치 수가 0이어야 함
-* 앱이 24시간 동안 게시 취소 상태여야 함(설치 수를 0으로 유지하기 위해)
-{% endhint %}
+**이렇게 플레이스토어에서 자동 업데이트를 선택해놓으면, 일일이 스토어로 이동하여 업데이트를 하지 않아도 되구요.**
 
-"무엇을 도와드릴까요?"본문 내용에는 모든 조건을 충족하며, 앱 삭제를 요청한다는 내용으로 기재해주세요.
+**업데이트 건이 있으면 알라서 업데이트가 되니 너무 편리하죵\~!!**
 
-\[제출하기] 버튼을 눌러서 신청을 완료합니다.&#x20;
+**혹은 자동업데이트를 사용하지 않을 때에도 해당 방법을 이용해주시면 됩니다.**
 
 
 
-<figure><img src="../../.gitbook/assets/앱삭제.PNG" alt=""><figcaption></figcaption></figure>
+**따라서 안드로이드폰을 이용하고 계신다면, 플레이스토어 앱에 접속하여 자동업데이트를 설정해주세요.**
 
-신청서 작성 2일 후에 앱 삭제가 완료되었다는 메일을 받을 수 있습니다.
-
-이렇게 조건에 문제가 없으면 구글 플레이 고객센터에서 콘솔에 있는 앱을 삭제해줍니다.
-
-해당 방법을 이용하여 앱을 삭제해주시기 바랍니다.&#x20;
-
+**알아서 내가 이용하고 있는 앱들이 최신 버전으로 업데이트가 되니 간편하게 이용이 가능합니다. ^^**
