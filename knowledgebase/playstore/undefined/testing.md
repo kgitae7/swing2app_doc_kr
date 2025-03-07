@@ -62,7 +62,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 ## 테스트 트랙 만들기
 
-<div align="left"><figure><img src="../../.gitbook/assets/비공개1.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/비공개1.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)왼쪽 메뉴 테스트 및 출시 카테고리
 
@@ -72,7 +72,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/테스트등록2.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/테스트등록2.png" alt=""><figcaption></figcaption></figure></div>
 
 3\)트랙 이름을 입력합니다.
 
@@ -86,7 +86,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 ## 1.국가선택
 
-<div align="left"><figure><img src="../../.gitbook/assets/비공개2.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/비공개2.png" alt=""><figcaption></figcaption></figure></div>
 
 5\)국가/지역 탭
 
@@ -100,7 +100,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 ## 2.테스터 선택
 
-<div align="left"><figure><img src="../../.gitbook/assets/비공개3.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/비공개3.png" alt=""><figcaption></figcaption></figure></div>
 
 7\)테스터 선택
 
@@ -108,7 +108,7 @@ description: 비공개 테스트 앱 등록 방법 매뉴얼
 
 
 
-<figure><img src="../../.gitbook/assets/테스트등록5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록5.png" alt=""><figcaption></figcaption></figure>
 
 9\)목록 이름 \*어디에 노출되는 정보는 아닙니다. 관리자 화면에서만 확인
 
@@ -126,7 +126,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 
 
-<figure><img src="../../.gitbook/assets/테스트등록6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록6.png" alt=""><figcaption></figcaption></figure>
 
 13\) 입력 완료 후 저장 선택
 
@@ -134,9 +134,9 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-## 3.비공개 테스트 앱등록
+## 3.비공개 테스트 앱 등록
 
-<figure><img src="../../.gitbook/assets/테스트등록7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록7.png" alt=""><figcaption></figcaption></figure>
 
 14\)출시
 
@@ -144,7 +144,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left"><figure><img src="../../.gitbook/assets/테스트등록8.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/테스트등록8.png" alt=""><figcaption></figcaption></figure></div>
 
 16\)서명 키 선택
 
@@ -152,7 +152,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left"><figure><img src="../../.gitbook/assets/테스트등록9.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/테스트등록9.png" alt=""><figcaption></figcaption></figure></div>
 
 18\)업로드 버튼을 선택해서 aab파일을 등록해주세요.
 
@@ -160,7 +160,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 <mark style="color:orange;">**\*AAB파일은 어디서 가져 올 수 있나요?**</mark>
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 스윙투앱 앱제작이 완료된 후 앱운영→ 버전관리→앱제작이력 에서 AAB파일을 받을 수 있습니다.
 
@@ -172,7 +172,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<figure><img src="../../.gitbook/assets/테스트등록10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록10.png" alt=""><figcaption></figcaption></figure>
 
 19\)파일 등록 후 \[다음] 버튼
 
@@ -180,7 +180,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left"><figure><img src="../../.gitbook/assets/테스트등록11.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/테스트등록11.png" alt=""><figcaption></figcaption></figure></div>
 
 21\)'검토를 위해 변경사항 2개 전송' 버튼 탭
 
@@ -188,7 +188,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ​
 
-<div align="left"><figure><img src="../../.gitbook/assets/테스트등록12.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/테스트등록12.png" alt=""><figcaption></figcaption></figure></div>
 
 앱 등록이 완료되었구요.
 
@@ -208,7 +208,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 <mark style="color:orange;">**앱을 다운 받는 링크는 어디서 확인할 수 있나요?**</mark>
 
-<figure><img src="../../.gitbook/assets/테스트등록13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록13.png" alt=""><figcaption></figcaption></figure>
 
 '테스트 참여방법' 챕터에서
 
@@ -238,13 +238,13 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ## 4.프로덕션 액세스 신청하기
 
-<figure><img src="../../.gitbook/assets/테스트등록14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록14.png" alt=""><figcaption></figcaption></figure>
 
 비공개 테스트 동안 하나씩 임무가 완수되는 것을 볼 수 있습니다.
 
 
 
-<figure><img src="../../.gitbook/assets/비공개9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비공개9.png" alt=""><figcaption></figcaption></figure>
 
 2주간의 12명 이상의 앱 테스트가 완료되면, 프로덕션을 신청할 수 있게 됩니다.
 
@@ -256,7 +256,7 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 **--프로덕션 액세스 신청 접수 완료**
 
-<figure><img src="../../.gitbook/assets/테스트등록16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/테스트등록16.png" alt=""><figcaption></figcaption></figure>
 
 프로덕션 배포 역시 검수 시간이 들어가구요. (일주일 이내)
 
