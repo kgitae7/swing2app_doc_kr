@@ -48,13 +48,13 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 
 
-
-
 ### <mark style="color:blue;">**1.구글 플레이 콘솔 접속 – 업데이트 할 앱 선택하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B86new.png)
+<figure><img src="../../.gitbook/assets/스토어업데이트5.png" alt=""><figcaption></figcaption></figure>
 
-구글 플레이 콘솔사이트에 접속 [**https://play.google.com/console/developers**](https://play.google.com/console/developers)→ 업데이트 할 어플을 선택해주세요.
+구글 플레이 콘솔사이트에 접속 [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
+
+→ 업데이트 할 어플을 선택해주세요.
 
 &#x20;<mark style="color:red;">\*구글 플레이 콘솔은 인터넷 브라우저 Chrome 으로 이용해주세요.</mark>&#x20;
 
@@ -70,7 +70,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 ### <mark style="color:blue;">**3.프로덕션 버전 만들기 – AAB파일 \[업로드] 하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B87new.png)
+<figure><img src="../../.gitbook/assets/스토어업데이트3.png" alt=""><figcaption></figcaption></figure>
 
 프로덕션 버전 만들기 페이지에서 \[업로드] 버튼을 선택해서 새로운 버전의 AAB파일을 등록해주세요.
 
@@ -176,12 +176,13 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 ### <mark style="color:blue;">**5.업데이트 검토 중**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82new.png)
+<figure><img src="../../.gitbook/assets/스토어업데이트4.png" alt=""><figcaption></figcaption></figure>
 
-대시보드에서업데이트 검토 중 단계를 확인할 수 있습니다.
+대시보드에서 업데이트 검토 중 단계를 확인할 수 있습니다.
 
 이렇게 하면, 앱 파일 업데이트 과정은 모두 완료되구요. 심사를 기다려 주세요.&#x20;
 
+{% hint style="warning" %}
 <mark style="color:red;">\*업데이트도, 앱 출시와 동일하게 심사 시간이 있어요.</mark>&#x20;
 
 <mark style="color:red;">(보통 하루 이내로 완료되지만, 최대 7일까지 심사가 걸릴 경우도 있습니다.)</mark>
@@ -189,8 +190,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 -심사가 완료되면 업데이트된 버전으로 다시 출시가 됩니다.
 
 -업데이트 심사에서 심사가 거절될 수도 있기 때문에 거절 될 경우 내용을 확인하여 다시 재심사 진행해야 합니다.
-
-
+{% endhint %}
 
 ### <mark style="color:blue;">**6.업데이트 완료**</mark>
 
@@ -216,9 +216,15 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 동일하게 **\*구글 콘솔–스토어등록정보 페이지에서 내용을 수정하고 업데이트하면 스토어에 반영이 됩니다.**
 
-### &#x20;<mark style="color:blue;">**1.앱 정보 → 기본 스토어 등록정보**</mark>
 
-[**구글 플레이 콘솔사이트**](https://play.google.com/console/developers)**에 접속  → 업데이트 할 어플을 선택해주세요.**
+
+<figure><img src="../../.gitbook/assets/스토어업데이트5.png" alt=""><figcaption></figcaption></figure>
+
+[구글 플레이 콘솔사이트](https://play.google.com/console/developers)에 접속  → 업데이트 할 어플을 선택해주세&#xC694;**.**
+
+
+
+### <mark style="color:blue;">**1.사용자 늘리기 - 앱 정보:스토어 등록정보**</mark>
 
 <figure><img src="../../.gitbook/assets/이미지 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -234,17 +240,23 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 ### <mark style="color:blue;">**2.수정 후 \[저장] 버튼 선택**</mark>
 
-<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84new.png" alt=""></div>
+<figure><img src="../../.gitbook/assets/스토어업데이트.png" alt=""><figcaption></figcaption></figure>
 
 수정을 하면 화면 하단에 안보였던 <mark style="color:blue;">**\[저장]**</mark>**&#x20;버튼**이 파란색으로 바뀌면서 활성화됩니다.
 
-해당 버튼을 누르면 업데이트가 진행됩니다.
+**저장 선택 - 게시개요 이동 버튼 선택**
 
+<figure><img src="../../.gitbook/assets/스토어업데이트2.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;게시 개요 화면에서 <mark style="color:blue;">\*검토를 위해 변경사항 \~개 전송</mark> 버튼 까지 눌러주셔야 심사 들어갑니다.
+
+{% hint style="warning" %}
 <mark style="color:red;">**\*스토어 등록정보 수정도 업데이트 심사 후 반영이 됩니다.**</mark>&#x20;
 
-업데이트는 평균 1일 이지만, 심사에 따라 최대 7일까지 걸리는 경우가 있어서 편차가 좀 큽니다 ㅜㅜ
+업데이트는 평균 1일 이지만, 심사에 따라 최대 7일까지 걸리는 경우가 있어서 편차가 좀 큽니다&#x20;
 
 심사가 완료되면 업데이트된 버전으로 스토어 정보가 바뀌게 됩니다.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
