@@ -140,7 +140,7 @@ description: 구글 플레이스토어 사전고지 문서 제출하기
 
 <mark style="color:blue;">**앱제작 V3 버전 이용시)**</mark>
 
-<figure><img src="../../.gitbook/assets/고급설저_v3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/고급설저_v3 (1).png" alt=""><figcaption></figcaption></figure>
 
 **스윙투앱 앱제작  → 고급설정 → 설정: 앱제작 설정 → 안드로이드 패키지 아이디 \[EDIT] 버튼 누르면 전체 아이디 확인할 수 있습니다.**
 

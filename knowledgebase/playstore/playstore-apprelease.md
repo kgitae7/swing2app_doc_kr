@@ -88,7 +88,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 **개인정보 처리방침 URL 항목은 해당 매뉴얼을 꼭!! 참고해주세요**
 
-☞[ 플레이스토어 개인정보처리방침 URL을 넣는 방법 보러가기](playstore-policyurl.md)
+☞[ 플레이스토어 개인정보처리방침 URL을 넣는 방법 보러가기](policy/playstore-policyurl.md)
 
 
 
@@ -230,7 +230,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 \*구글 플레이스토어 사전고지 문서 제출방법은 아래 링크로 확인해주세요!
 
-**☞** [**구글 플레이 사전고지 문서 제출방법 보러가기**](playstore-priornotice.md)
+**☞** [**구글 플레이 사전고지 문서 제출방법 보러가기**](policy/playstore-priornotice.md)
 
 
 
