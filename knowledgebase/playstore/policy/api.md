@@ -2,7 +2,7 @@
 description: '구글 플레이 콘솔 정책 - 민감한 권한 API: 쿼리 권한 정책 입력 방법'
 ---
 
-# 구글 플레이 정책 - 민감한 권한 API: 쿼리 권한 정책
+# 민감한 권한 API: 쿼리 권한 정책
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ description: '구글 플레이 콘솔 정책 - 민감한 권한 API: 쿼리 권�
 
 
 
-<mark style="color:red;">**\*\*민감한 권한 API: 쿼리 권한 정책이란?**</mark><mark style="color:red;">\*</mark>
+## <mark style="color:red;">**\*\*민감한 권한 API: 쿼리 권한 정책이란?**</mark><mark style="color:red;">\*</mark>
 
 앱 실행 시 SMS, 통화기록, 위치기반 등 개인정보 등의 사용자 정보에 접근할 경우 앱에서 해당 기능이 왜 필요한지 구글에 이유를 알려줘야 한다는 내용입니다.
 
@@ -30,7 +30,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 <figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-> ### **구글 경고 메일 발송**
+## **구글 경고 메일 발송**
 
 ![](<../../../.gitbook/assets/캡처 (2).PNG>)
 
@@ -40,9 +40,9 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 
 
-##
 
-> ### **조치사항 안내**
+
+## **조치사항 안내**
 
 2022년 6월 14일 이후 제작한 앱에서는 패키지 쿼리 권한 문제가 모두 처리되어 제공되므로 별도 조치를 할 것이 없습니다.
 
@@ -54,15 +54,15 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 앱 업데이트만 하면 완료되는 내용이기 때문에, 아래 내용은 확인하지 않아도 됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
-
-**\*여기서부터는022년 6월 이전 제작된 앱에 해당되는 매뉴얼입니다.**
 
 
+**\*여기서부터는 22년 6월 이전 제작된 앱에 해당되는 매뉴얼입니다.**
 
-## <mark style="color:blue;">**1**</mark>
 
-**\*\*구글 플레이 콘솔 사이트 접속** [**https://play.google.com/console/developers**](https://play.google.com/console/developers) **앱을 선택해주세요.**
+
+### **1.구글 플레이 콘솔 사이트 접속**&#x20;
+
+[https://play.google.com/console/developers](https://play.google.com/console/developers)  앱을 선택해주세요.
 
 ![](../../../.gitbook/assets/구글1.png)
 
@@ -86,17 +86,17 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 동일하게, 경고가 들어온 내용을 계속 처리하지 않는다면 구글에서 앱을 삭제하오니 반드시 따라서 작업해주셔야 합니다.
 
-***
 
-## <mark style="color:blue;">**2**</mark>
+
+### 2.민감한 권한 및 API
 
 ![](<../../../.gitbook/assets/구글2 (1).png>)
 
 모든 패키지 쿼리 권한 \[시작] 버튼을 선택해주세요.
 
-***
 
-## <mark style="color:blue;">3</mark>
+
+### 3.모든 패키지 쿼리
 
 ![](<../../../.gitbook/assets/구글3 (1).png>)
 
@@ -142,9 +142,9 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 &#x34;**)저장** 버튼을 선택하면 완료됩니다.
 
-​
 
-## <mark style="color:blue;">4</mark>
+
+### 4.패키지 쿼리 선언 완료
 
 ![](../../../.gitbook/assets/구글5.png)
 
@@ -152,6 +152,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 ​
 
+{% hint style="info" %}
 <mark style="color:red;">**\[안내]**</mark>
 
 \*해당 내용 입력이 완료되면 앱은 다시 업데이트 심사에 들어갑니다.
@@ -159,9 +160,9 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 사용자가 기재한 내용이 적합한지 구글에서 판단해서 업데이트를 적용해주거나, 적합하지 않을 경우 심사를 거절합니다.
 
 \*스윙투앱에서 제작한 앱으로, 위의 내용으로 기재시 특별한 이유 없이 심사가 거절된 적은 없습니다.
+{% endhint %}
 
-​
-
+{% hint style="warning" %}
 **2022년 6월 14일 이후 제작한 앱에서는 패키지 쿼리 권한 문제가 모두 처리되어 제공되므로 별도 조치를 할 것이 없습니다.**
 
 그러나 22년 6월 14일 이전에 제작한 앱에서는 해당 내용으로 경고를 받거나 앱이 삭제될 수 있으니 반드시 업데이트를 해주셔야 합니다.
@@ -170,8 +171,7 @@ QUERY\_ALL\_PACKAGES 내용으로 일반 프로토타입으로 제작한 앱에�
 
 -새로 제작된 버전의 앱으로 플레이스토어 - 프로덕션에 제출해주세요.
 
--앱만 새로 제출하면 위의 항목은콘텐츠에서 없어집니다. \
+-앱만 새로 제출하면 위의 항목은콘텐츠에서 없어집니다.&#x20;
+{% endhint %}
 
-
-
-
+\
