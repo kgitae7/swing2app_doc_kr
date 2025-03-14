@@ -178,21 +178,13 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 
 ## 5.비공개 테스트 앱 등록
 
-<figure><img src="../../../.gitbook/assets/테스트등록7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비공개33.png" alt=""><figcaption></figcaption></figure>
 
 14\)출시
 
 15\)새 버전 만들기 선택
 
-​
 
-<div align="left"><figure><img src="../../../.gitbook/assets/테스트등록8.png" alt=""><figcaption></figcaption></figure></div>
-
-16\)서명 키 선택
-
-17\)\[Google에서 생성한 키 사용] 버튼
-
-​
 
 <div align="left"><figure><img src="../../../.gitbook/assets/테스트등록9.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -301,6 +293,14 @@ Google 그룹 이메일 주소를 입력합니다. 사용자가 입력한 Google
 <figure><img src="../../../.gitbook/assets/테스트등록16.png" alt=""><figcaption></figcaption></figure>
 
 프로덕션 배포 역시 검수 시간이 들어가구요. (일주일 이내)
+
+
+
+&#x20;📌**비공개 테스트 승인 완료 후 프로덕션에 앱을 출시하는 방법은 아래 가이드로 확인해주세요.**&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/test/test-access" %}
+
+***
 
 
 
