@@ -418,6 +418,24 @@ swingWebViewPlugin.app.methods.isFirstRun(function (value) {
 
 
 
+### • 앱 리뷰 요청하기  <a href="#open-review" id="open-review"></a>
+
+사용자에게 앱 리뷰를 요청하는 기능을 호출하는 함수
+
+\*iOS 에서 리뷰 요청기능에 대한 호출 제한이 있어 호출 제한이 걸릴 경우 앱스토어 이동하도록 처리되어있습니다.
+
+<mark style="background-color:blue;">\*js lib 2025\_03\_14\_001 버전 부터 사용 가능, 25년 3월 14일 앱 제작 이후에 만든앱 부터 동작합니다.</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.methods.doOpenReview();
+```
+{% endcode %}
+
+<figure><img src="../../.gitbook/assets/그림1.png" alt=""><figcaption><p>앱에서 리뷰 기능을 호출한 화면</p></figcaption></figure>
+
+
+
 ## 앱 UI 제어관련 Method <a href="#ui-control" id="ui-control"></a>
 
 ### • iOS 배경색상 설정하기 <a href="#change-ios-backcolor" id="change-ios-backcolor"></a>
