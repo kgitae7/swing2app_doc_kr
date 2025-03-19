@@ -38,7 +38,7 @@ description: 앱스토어에서 자주 발생되는 심사 거절 사유 - 대�
 
 테스트용으로 따로 가입한 뒤 제공 해주셔도 좋습니다.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/캡처 (1) (1).PNG" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 로그인 기능이 있는 앱은 반드시 앱스토어 심사시 테스트용 계정(아이디, 비밀번호)을 제출해야 합니다.
 

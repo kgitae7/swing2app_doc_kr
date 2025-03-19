@@ -22,7 +22,7 @@ description: 회원가입 양식 설정
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW10.png)
 
-[**앱운영→ 서비스관리 → 정책관리 → 회원가입 양식**](http://www.swing2app.co.kr/view/app\_policy) **메뉴로 이동합니다.**
+[**앱운영→ 서비스관리 → 정책관리 → 회원가입 양식**](http://www.swing2app.co.kr/view/app_policy) **메뉴로 이동합니다.**
 
 
 
@@ -30,11 +30,7 @@ description: 회원가입 양식 설정
 
 ## **1.  아이디 형태**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW11.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW11.png" alt=""></div>
 
 **아이디 형태는 앱에서 로그인 할 때 어떤 아이디 형태를 쓸지 선택하는 메뉴입니다.**&#x20;
 
@@ -66,11 +62,7 @@ description: 회원가입 양식 설정
 
 <mark style="color:blue;">**1)아이디 형태: 이메일**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D8.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D8.png" alt="" width="375"></div>
 
 
 
@@ -78,21 +70,13 @@ description: 회원가입 양식 설정
 
 일반적인 아이디로 영문+숫자로 가입을 할 수 있어요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D7.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D7.png" alt="" width="375"></div>
 
 
 
 <mark style="color:blue;">**3) 아이디 형태: 전화번호**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D9.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D9.png" alt="" width="375"></div>
 
 전화번호는 입력한 번호로 인증번호를 받도록 합니다.
 
@@ -100,13 +84,9 @@ description: 회원가입 양식 설정
 
 <mark style="color:red;">**★전화번호 아이디는 위에서 설명했듯이!**</mark>
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-&#x20;[**1000건 SMS메시지발송 상품**](https://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)을 구매해야 전화번호 아이디를 선택할 수 있습니다.
+&#x20;[**1000건 SMS메시지발송 상품**](https://www.swing2app.co.kr/view/order_info_action?product_id=6)을 구매해야 전화번호 아이디를 선택할 수 있습니다.
 
 상품 결제가 안되어 있으면 전화번호 선택이 안됩니다.
 
@@ -138,11 +118,7 @@ description: 회원가입 양식 설정
 
 <mark style="color:orange;">**회원가입 내에 항목을 추가하는 방법을 움짤로 확인해주세요!!**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9D%EC%9E%91%EC%84%B1.gif" alt=""></div>
 
 > **\* 항목명칭 : ‘사용자정의’ 입력정보를 선택한 경우, 입력정보의 이름을 입력합니다.**
 >
@@ -198,20 +174,12 @@ description: 회원가입 양식 설정
 
 <mark style="color:orange;">**1)전화번호 UI (숫자 입력)**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW4.png" alt=""></div>
 
 \
 <mark style="color:orange;">**2) 생일 작성 UI (날짜 설정)**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW3.png" alt=""></div>
 
 
 
@@ -219,11 +187,7 @@ description: 회원가입 양식 설정
 
 &#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW5.png" alt=""></div>
 
 
 
@@ -233,11 +197,7 @@ description: 회원가입 양식 설정
 
 <mark style="color:red;">**★ 회원가입 기본 항목 수정 불가**</mark>&#x20;
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85_11.20.png" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%85_11.20.png" alt="" width="375"></div>
 
 회원가입 항목을 설정하지 않아도, 스윙투앱에서는 기본 항목을 고정값으로 제공하는데요.
 

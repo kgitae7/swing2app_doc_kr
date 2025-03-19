@@ -36,11 +36,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 ### <mark style="color:blue;">**1. 일반 아이디 설정**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C12.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C12.png" alt=""></div>
 
 앱 아이디의 기본 셋팅은 일반 아이디로 모두 제공이 되요.
 
@@ -52,11 +48,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 <mark style="color:orange;">**앱 실행화면) 회원가입, 로그인**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C3.png" alt=""></div>
 
 회원가입 화면에서 보듯이 일반 아이디 작성 항목을 확인할 수 있구요.
 
@@ -80,41 +72,25 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 **인증번호 SMS가 발송되어야 하기 때문에 스윙투앱 상품 중 – SMS 발송 티켓을 구매해야 전화번호를 선택할 수 있습니다.**
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-[ **\[SMS 발송 티켓 구매하러 가기\]**](http://www.swing2app.co.kr/view/order\_info\_action?product\_id=6)
+[ **\[SMS 발송 티켓 구매하러 가기\]**](http://www.swing2app.co.kr/view/order_info_action?product_id=6)
 
 
 
 <mark style="color:orange;">**전화번호 아이디 – 회원가입, 로그인 미리보기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_14_07_40_398.gif" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_14_07_40_398.gif" alt="" width="375"></div>
 
 <mark style="color:orange;">**1)회원가입 화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C7.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C7.png" alt=""></div>
 
 가입할 전화번호 입력 후 \[인증번호 발송]을 눌러주시구요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C8.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C8.png" alt=""></div>
 
 입력한 전화번호로 인증번호 문자가 발송됩니다.
 
@@ -124,11 +100,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 <mark style="color:orange;">**2)로그인 화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C11.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C11.png" alt=""></div>
 
 로그인을 할 때에도 전화번호를 입력하여 인증번호를 받은 뒤 로그인을 할 수 있습니다.
 
@@ -160,11 +132,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 <mark style="color:orange;">**이메일 아이디 – 회원가입, 로그인 미리보기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_13_45_37_401.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_04_09_13_45_37_401.gif" alt=""></div>
 
 
 
@@ -188,11 +156,7 @@ description: 아이디 형태 - 일반 아이디, 전화번호, 이메일 설정
 
 <mark style="color:orange;">**2)로그인 화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C6.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EC%95%84%EC%9D%B4%EB%94%94%ED%98%95%ED%83%9C6.png" alt=""></div>
 
 인증이 완료되면 다시 로그인 화면에서 가입된 이메일주소 입력하여 로그인해주시면 됩니다.
 

@@ -61,7 +61,7 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. **개발자 웹사이트 구축 및 스토어 정보에 개발자 웹사이트 추가하기**
+## <mark style="color:blue;">STEP1.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**개발자 웹사이트 구축 및 스토어 정보에 개발자 웹사이트 추가하기**</mark>
 
 
 
@@ -109,7 +109,7 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. app-ads.txt 파일 확인 및 앱에 코드 스니펫 적용하기**
+## <mark style="color:blue;">**STEP2. app-ads.txt 파일 확인 및 앱에 코드 스니펫 적용하기**</mark>
 
 ​
 
@@ -119,12 +119,12 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EC%95%B1%EC%84%A0%ED%83%9D2.png" alt=""><figcaption></figcaption></figure>
 
-1. [https://apps.admob.com](https://apps.admob.com/?utm\_source=internal\&utm\_medium=et\&utm\_campaign=helpcentrecontextualopt\&utm\_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
+1. [https://apps.admob.com](https://apps.admob.com/?utm_source=internal\&utm_medium=et\&utm_campaign=helpcentrecontextualopt\&utm_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
 2. 사이드바에서 앱을 클릭합니다.
 3. \[모든 앱 보기]를 클릭합니다.
 4. app-ads.txt 탭을 클릭합니다.
 5. app-ads.txt 설정 방법을 클릭합니다.
-6. 복사할 코드 스니펫 옆에 있는 ![](https://lh3.googleusercontent.com/7kjkT9hCjpcFg8nA83VtPX1vD8WzPm\_Ja0HkVtUTnWJ1kfEGGYlzIq2nY\_\_xF2r9bzc) 을 클릭합니다.
+6. 복사할 코드 스니펫 옆에 있는 ![](https://lh3.googleusercontent.com/7kjkT9hCjpcFg8nA83VtPX1vD8WzPm_Ja0HkVtUTnWJ1kfEGGYlzIq2nY__xF2r9bzc) 을 클릭합니다.
 
 ​
 
@@ -135,7 +135,29 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 1. 서비스관리-애드몹 플러그인 설정 이동
 2. 애드몹 플러그인 설정 화면 하단에 있는 “스윙투앱 app-ads.txt 등록하기”를 확인할 수 있습니다.
 3. 복사한 코드 스니펫을 app-ads.txt 입력란에 붙여넣습니다.
-4. 저장하기 버튼을 선택하면 완료입니다.
+4. 저장하기 버튼을 선택해주세요.
+
+
+
+**app-ads.txt 적용한 앱은 업데이트 한 뒤, 플레이스토어 혹은 앱스토어에 업데이트 제출을 하셔야 합니다.**
+
+<figure><img src="../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
+
+앱제작 화면 이동 - 앱 업데이트 버튼을 선택해주세요.
+
+업데이트 표시 옵션: '업데이트 표시 안함'으로 체크해주세요. &#x20;
+
+새 버전으로 제작되면, 해당 버전의 앱을 스토어에 제출해서 승인을 받습니다.
+
+***
+
+
+
+## <mark style="color:blue;">**STEP3. 플레이스토어 or 앱스토어 업데이트 제출하기**</mark>
+
+플레이스토어는 새로 제작된 버전의 앱으로 프로덕션에 제출해서 심사 받아주세요.
+
+\*앱스토어는 업로드 대행만 가능하기 때문에, 업데이트 시 <mark style="color:red;">앱스토어 업로드티켓(20,000원) 구매 후 다시 신청해주셔야 합니다.</mark>
 
 {% hint style="danger" %}
 <mark style="color:red;">**중요 안내**</mark>
@@ -155,7 +177,7 @@ AdMob에서 app-ads.txt 파일을 찾고 확인할 수 있도록 하려면 다�
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. AdMob이 app-ads.txt 파일을 크롤링하고 확인할 때까지 기다리기**
+## <mark style="color:blue;">**STEP4. AdMob이 app-ads.txt 파일을 크롤링하고 확인할 때까지 기다리기**</mark>
 
 ​
 
@@ -165,7 +187,7 @@ AdMob에서 app-ads.txt 파일을 크롤링하고 확인하는 데 최대 24시�
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EC%95%B1%EC%84%A0%ED%83%9D5.png" alt=""><figcaption></figcaption></figure>
 
-1. [https://apps.admob.com](https://apps.admob.com/?utm\_source=internal\&utm\_medium=et\&utm\_campaign=helpcentrecontextualopt\&utm\_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
+1. [https://apps.admob.com](https://apps.admob.com/?utm_source=internal\&utm_medium=et\&utm_campaign=helpcentrecontextualopt\&utm_term=http://goo.gl/6Xkfcf\&subid=ww-ww-et-amhelpv4)에서 AdMob 계정에 로그인합니다.
 2. 사이드바에서 앱을 클릭합니다.
 3. 모든 앱을 클릭합니다.
 4. app-ads.txt 탭을 클릭합니다.
@@ -173,17 +195,19 @@ AdMob에서 app-ads.txt 파일을 크롤링하고 확인하는 데 최대 24시�
 
 애드몹에서 app-ads.txt 파일을 확인했고, 크롤링이 실행되고 있다는 메시지를 확인할 수 있습니다.
 
-> AdMob에서 app-ads.txt 파일을 크롤링하고 확인하는 데 최대 24시간이 소요될 수 있습니다.
->
-> app-ads.txt 상태가 업데이트되려면 최소 24시간은 기다려야 합니다.
->
-> 최근에 Google Play에서 개발자 웹사이트를 추가했거나 Google Play에서 앱 등록정보를 업데이트한 경우 AdMob에서 이러한 변경사항을 감지하는 데 최대 24시간이 걸립니다.
+{% hint style="danger" %}
+AdMob에서 app-ads.txt 파일을 크롤링하고 확인하는 데 최대 24시간이 소요될 수 있습니다.
+
+app-ads.txt 상태가 업데이트되려면 최소 24시간은 기다려야 합니다.
+
+최근에 Google Play에서 개발자 웹사이트를 추가했거나 Google Play에서 앱 등록정보를 업데이트한 경우 AdMob에서 이러한 변경사항을 감지하는 데 최대 24시간이 걸립니다.
+{% endhint %}
 
 
 
 <figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4. AdMob 계정에서 app-ads.txt 파일이 확인되었는지 살펴보기**
+## <mark style="color:blue;">**STEP4. AdMob 계정에서 app-ads.txt 파일이 확인되었는지 살펴보기**</mark>
 
 ​
 
