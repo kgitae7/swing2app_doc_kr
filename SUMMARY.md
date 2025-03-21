@@ -31,7 +31,6 @@
   * [앱 미리보기 FAQ](faq/app-preview.md)
   * [스토어 유지보수 컨설팅 FAQ](faq/storemt.md)
   * [구글플레이 개발자 계정 FAQ](faq/google-developer.md)
-  * [비공개 테스트 FAQ](faq/playtest.md)
 
 ## 일반프로토타입 앱 매뉴얼 <a href="#manual" id="manual"></a>
 
@@ -374,6 +373,7 @@
     * [비공개 테스트 등록](knowledgebase/playstore/undefined/testing.md)
     * [비공개 테스트 승인 완료  프로덕션 출시](knowledgebase/playstore/undefined/test-access.md)
     * [비공개 테스트 가이드 및 주의사항](knowledgebase/playstore/test/notice.md)
+    * [비공개 테스트 FAQ](knowledgebase/playstore/test/playtest.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
   * [구글 개발자-개인 계정 만들기](knowledgebase/playstore/google-developer.md)
