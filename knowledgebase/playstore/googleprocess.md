@@ -6,6 +6,8 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 ***
 
+
+
 구글 개발자 계정 등록 후, 스윙투앱으로 계정 초대 하는 방법입니다.&#x20;
 
 아래 방법을 확인하시어 등록해주시기 바랍니다.&#x20;
@@ -16,8 +18,6 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> 구글 개발자 계정 초대
 
-&#x20;
-
 먼저 구글 개발자 계정을 만들어주세요(등록이 완료된 분들은 바로 초대 진행해주세요)
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" %}
@@ -26,7 +26,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 **구글 개발자계정 등록이 완료되면** [**구글 플레이 콘솔사이트**](https://play.google.com/console/developers) **에서 아래 방법으로, 계정 초대를 해주세요.**&#x20;
 
-<figure><img src="../../.gitbook/assets/구글계정초대.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글계정초대 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)왼쪽 카테고리에서\[사용자 및 권한]선택&#x20;
 
@@ -46,7 +46,7 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 #### 초대 완료
 
-<figure><img src="../../.gitbook/assets/구글계정초대-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 4 (1).png" alt=""><figcaption></figcaption></figure>
 
 스윙투앱 계정을 입력하고 초대장을 보내주시면&#x20;
 
@@ -54,9 +54,9 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 사용자 및 권한 메뉴에서 등록된 스윙투앱 계정을 확인할 수 있습니다.&#x20;
 
-
-
 ***
+
+
 
 프로세스를 완료하면 사용자분께서 해야 할 구글 개발자 초대는 완료됩니다.
 
