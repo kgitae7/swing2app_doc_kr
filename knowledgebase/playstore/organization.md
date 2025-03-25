@@ -144,7 +144,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/구글프레임 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글프레임 (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

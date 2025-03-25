@@ -106,11 +106,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 <mark style="color:blue;">플레이스토어 어플)  개발자 소개 노출 화면 캡쳐</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글프레임 (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글프레임 (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -124,20 +120,12 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 핸드폰 번호로 인증번호를 받은 뒤, 계정에 등록된 주소와 이름이 동일한지를 확인하기 위해 서류를 제출합니다.&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글개인계정확인9.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글개인계정확인9.PNG" alt=""><figcaption></figcaption></figure></div>
 
 동의에 체크한 뒤 \[확인 절차 시작하기] 선택해주세요.   \
 
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FN0VZYJV5fKvjGbKsrODH%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D3.png%3Falt%3Dmedia%26token%3D11c0eb1a-d2e1-48ec-be99-59cb4229d8c6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e08d5b06&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FN0VZYJV5fKvjGbKsrODH%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D3.png%3Falt%3Dmedia%26token%3D11c0eb1a-d2e1-48ec-be99-59cb4229d8c6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e08d5b06&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 (1)법적이름 입력 \*실제 계정 소유자 분의 이름을 입력해주세요
 
@@ -149,11 +137,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 #### 2)주소 입력 <a href="#id-2" id="id-2"></a>
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FaI9DUtuHLzphUfLaGgJm%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D4.png%3Falt%3Dmedia%26token%3Da0ad145b-b5e5-4079-9e6b-808edb9ed1d4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=866d1309&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FaI9DUtuHLzphUfLaGgJm%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D4.png%3Falt%3Dmedia%26token%3Da0ad145b-b5e5-4079-9e6b-808edb9ed1d4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=866d1309&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 (4)도/시 선택
 
@@ -181,11 +165,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 (9)다음 선택
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FywQ0focLVgnHikG0rNvT%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D5.png%3Falt%3Dmedia%26token%3D9969b034-790b-4deb-88c8-6d407689bee4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95c03df4&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FywQ0focLVgnHikG0rNvT%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D5.png%3Falt%3Dmedia%26token%3D9969b034-790b-4deb-88c8-6d407689bee4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95c03df4&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 (10)확인 선택
 
@@ -193,29 +173,17 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 #### 3)전화번호 입력하기 <a href="#id-3" id="id-3"></a>
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FGDn7HnxKcaefgfMJuaxr%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D6.png%3Falt%3Dmedia%26token%3Df7361a66-e920-40c3-bb47-a020d4dd3070&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1bd95666&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FGDn7HnxKcaefgfMJuaxr%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D6.png%3Falt%3Dmedia%26token%3Df7361a66-e920-40c3-bb47-a020d4dd3070&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1bd95666&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 (11)이동통신사 선택, 연락처 입력 대한민국이라면 +821011112222 번호로 입력해주세요.
 
 (12)제출 선택
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252F44NQu2RtHCDPgiJNr0Uc%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D7.png%3Falt%3Dmedia%26token%3D25ee7452-4c0a-404a-adbf-54cf7ffe37fd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=459e2d35&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252F44NQu2RtHCDPgiJNr0Uc%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D7.png%3Falt%3Dmedia%26token%3D25ee7452-4c0a-404a-adbf-54cf7ffe37fd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=459e2d35&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 13\) 핸드폰 문자로 코드 번호가 전송되면 번호입력 후 \[확인] 버튼을 선택해주세요.
 
-<div align="left">
-
-<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FewMnZtSPwwRed9bEiRGc%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D8.png%3Falt%3Dmedia%26token%3Da34af6ab-80c2-40e7-897e-067974bcc22e&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95c2e38e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FewMnZtSPwwRed9bEiRGc%252F%25EB%25B3%25B8%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D8.png%3Falt%3Dmedia%26token%3Da34af6ab-80c2-40e7-897e-067974bcc22e&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95c2e38e&#x26;sv=1" alt=""><figcaption></figcaption></figure></div>
 
 (14) 확인 선택합니다.
 
@@ -233,11 +201,7 @@ description: 구글 개발자 계정 확인 기한이 시작되었을 경우, �
 
 **본인 인증 완료**&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/구글개인계정확인10.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글개인계정확인10.PNG" alt=""><figcaption></figcaption></figure></div>
 
 인증에 문제가 없으면 1\~2일 후 완료 메일이 전송됩니다. 해당 계정 테스트에서도 1일 뒤 메일을 받았습니다.
 

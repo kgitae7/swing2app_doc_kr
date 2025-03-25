@@ -1,8 +1,8 @@
 ---
-description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
+description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인증 작업
 ---
 
-# 구글 개발자 조직 계정 설정(인증)
+# 구글 개발자 조직 계정 인증
 
 ***
 
@@ -10,9 +10,11 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 구글 개발자 조직 계정으로 가입 후에 계정 설정 까지 완료해야 모든 작업이 완료됩니다.
 
-계정 설정을 위해서는 2가지 작업이 완료되어야 하구요.
+계정 설정을 위해서는 3가지 작업이 완료되어야 합니다.
 
-매뉴얼을 통해서 인증을 하는 방법을 확인해주세요.
+해당 작업 까지 완료되어야 계정 이용이 가능하며, 앱 등록이 가능합니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/조직인증.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **구글 조직 개발자 계정 등록시 인증하는 정보**
@@ -34,9 +36,15 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 웹사이트 인증을 통해 실제 해당 회사에서 정상적으로 운영되고 있는 공식 홈페이지인지, 홈페이지 운영에 문제가 없는지 등을 봅니다.
 
 전체적으로 계정을 등록해도 될만한 회사인지 확인하는 과정이라고 보시면 됩니다.
+
+<mark style="color:blue;">**3)전화번호 인증**</mark>
+
+계정 소유자의 연락처(핸드폰번호)로 인증번호를 받아 번호 인증을 합니다.
+
+전화 번호는 위의 2개 인증이 모두 완료된 후 마지막으로 진행 가능합니다.
+
+
 {% endhint %}
-
-
 
 ***
 
@@ -44,7 +52,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 ## 1.본인확인
 
-<figure><img src="../../.gitbook/assets/조직1.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/인증09.png" alt=""><figcaption></figcaption></figure>
 
 \*본인 인증에는 조직 증명 서류(사업자등록증) 제출, 본인 인증을 위한 휴대전화 번호 제출, 주소 입력으로 정보를 제출합니다.
 
@@ -110,7 +118,9 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-<figure><img src="../../.gitbook/assets/조직7.PNG" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/인증02.png" alt=""><figcaption></figcaption></figure>
 
 보통 1일이내 처리가 완료되는데 승인이 되면 바로 이용 가능하며, 서류가 적합하지 않을 경우 승인을 거절합니다.&#x20;
 
@@ -124,23 +134,25 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 ## 2.조직 웹사이트 인증
 
-
-
-<figure><img src="../../.gitbook/assets/조직8.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/인증03.png" alt=""><figcaption></figcaption></figure>
 
 조직 웹사이트 인증 \[세부정보 보기] 선택
 
 
 
-<figure><img src="../../.gitbook/assets/웹사이트 인증.PNG" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/웹사이트 인증.PNG" alt=""><figcaption></figcaption></figure></div>
 
-1\) **'Search Console'**&#xC778;증 버튼을 선택해주세요.
+1\) **'Search Console'** 인증 버튼을 선택해주세요.
+
+
 
 등록된 소유자가 Search Console에서 요청을 승인하면 웹사이트가 인증됩니다.
 
 <mark style="color:red;">\*구글 개발자 조직 계정을 만들 때는 회사 홈페이지(웹사이트)가 있어야 합니다.</mark>
 
 웹사이트 인증을 해야 계정 사용이 가능하기 때문에, 홈페이지가 없을 경우 사이트를 만든 뒤 등록 해주세요.
+
+만약 이미 웹사이트가 구글 Search Console에 등록되어 있다면 바로 웹사이트 인증 버튼을 선택해서 인증 완료해주세요.
 
 
 
@@ -150,7 +162,11 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
+<mark style="background-color:yellow;">**\[속성 유형은 아래 2가지 중에서 하나 선택 할 수 있습니다]**</mark>
+
 <div align="left"><figure><img src="../../.gitbook/assets/조직12.PNG" alt=""><figcaption></figcaption></figure></div>
+
+해당 포스팅에서는 'URL접두어'로 선택해서 진행하겠습니다.
 
 <mark style="background-color:yellow;">**URL 접두어 항목**</mark>
 
@@ -190,11 +206,81 @@ description: 개발자 조직 계정 설정 완료 하기 - 인증 작업
 
 
 
-이렇게 2가지 요청사항이 완료되어야, 구글 개발자 조직 계정이 최종적으로 등록이 완료되며 앱 등록을 하실 수 있습니다.
+***
+
+
+
+## 3.전화번호 인증
+
+<div align="left"><figure><img src="../../.gitbook/assets/인증06.png" alt=""><figcaption></figcaption></figure></div>
+
+마지막으로 전화번호 인증을 시작하겠습니다. \[세부정보 보기] 선택해주세요.
+
+
+
+<div align="left"><figure><img src="../../.gitbook/assets/인증07.png" alt=""><figcaption></figcaption></figure></div>
+
+유선 전화도 가능하다고 기재되어 있으나, 한국에서는 아직 지원이 되고 있지 않습니다.
+
+따라서 아직은 핸드폰번호 문자 인증만 가능합니다.
+
+
+
+<div align="left"><figure><img src="../../.gitbook/assets/인증08.png" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+전화번호 인증은 계정 소유자분의 핸드폰 번호를 입력해서 인증번호를 받아야 합니다.
+
+2군데 인증을 하는데요. 2개 모두 같은 번호라면 한번만 인증을 받으시면 되구요.
+
+서로 다른 번호라면 각각의 번호로 인증 받아야 합니다.
+{% endhint %}
+
+
+
+<mark style="color:blue;">**1)Google에서 연락하는 방법**</mark>
+
+이 정보는 Google에서 개발자에게 연락하는 데만 사용되며 Google Play에 표시되지 않습니다.
+
+
+
+<mark style="color:blue;">**2)개발자 프로필에 포함된 세부정보**</mark>
+
+공개 개발자 프로필의 일부로 이 정보가 Google Play에 표시됩니다.
+
+이 정보는 플레이스토어 앱 등록 후, 개발자 정보 탭에서 모두 노출이 됩니다.
+
+따라서 노출이 되는 번호로 고려해서 등록해주세요.
+
+
+
+\[개발자 소개에 노출되는 정보 확인하기]
+
+<div align="left"><figure><img src="../../.gitbook/assets/구글프레임.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+연락처 전화번호 확인 후 - 문자 메시지 받기 선택 - 전화번호 확인을 탭해주세요.
+
+잠시 후 핸드폰번호로 인증코드 6자리가 전송됩니다.
+
+코드를 입력하고 확인을 눌러주세요.
+
+변경사항 저장 선택하면 완료됩니다.
+
+
 
 ***
 
 
+
+## 4.인증완료
+
+
+
+<figure><img src="../../.gitbook/assets/앱등록.png" alt=""><figcaption></figcaption></figure>
+
+이렇게 3가지 요청사항이 완료되어야, 구글 개발자 조직 계정이 최종적으로 등록이 완료되며 앱 등록을 하실 수 있습니다.
 
 {% hint style="info" %}
 1\)구글 개발자 계정 설정 완료를 꼭 해주세요!

@@ -36,7 +36,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 {% embed url="https://play.google.com/console/developers" %}
 
-<figure><img src="../../.gitbook/assets/앱등록.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/앱등록 (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\[앱 만들기]**</mark> 버튼을 선택합니다.
 

@@ -64,7 +64,7 @@ description: 구글 플레이스토어 - 연락처 세부 정보 수정 방법
 
 <mark style="color:blue;">**\*앱 지원 화면 캡쳐 이미지**</mark>
 
-<div align="left"><figure><img src="../../.gitbook/assets/구글프레임.png" alt="" width="317"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글프레임 (1).png" alt="" width="317"><figcaption></figcaption></figure></div>
 
 앱 지원에서 노출되는 정보가 위의 "개발자 프로필에 포함된 세부정보"에 입력된 정보로 노출됩니다.
 
