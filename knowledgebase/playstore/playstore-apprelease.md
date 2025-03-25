@@ -34,15 +34,15 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ## <mark style="color:blue;">**구글 플레이 콘솔 접속**</mark>&#x20;
 
-&#x20;[https://play.google.com/console/developers](https://play.google.com/console/developers)
+{% embed url="https://play.google.com/console/developers" %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C1.png)
+<figure><img src="../../.gitbook/assets/앱등록.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\[앱 만들기]**</mark> 버튼을 선택합니다.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C2.png)
+<figure><img src="../../.gitbook/assets/앱등록4.png" alt=""><figcaption></figcaption></figure>
 
 1\)앱이름 (플레이스토어 출시되는 이름)
 
@@ -54,17 +54,21 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 5\)개발자 프로그램 정책 체크
 
-6\)미국 수출법규 체크
+6\)Play앱 서명 체크
 
-7\)\[앱 만들기] 버튼 선택합니다.
+7\)미국 수출법규 체크
+
+8\)\[앱 만들기] 버튼 선택합니다.
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP1. 대시보드: 앱 설정**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 대시보드: 앱 설정**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-4-1.png)
+<figure><img src="../../.gitbook/assets/앱등록3.png" alt=""><figcaption></figcaption></figure>
 
-대시보드 선택 – \[앱 설정] 메뉴를 보시면 입력해야 할 정보가 단계별 메뉴가 순서대로 기재되어 있어요.
+대시보드 선택 – \[앱 설정] 메뉴를 보시면&#x20;
+
+입력해야 할 정보가 단계별 메뉴가 순서대로 기재되어 있어요.
 
 하나씩 선택해서 입력을 완료해주시면 됩니다.
 
@@ -358,17 +362,25 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 스토어 설정 단계
 
-**앱 콘텐츠 단계 입력이 끝났으면, 왼쪽 메뉴의 앱정보 – 스토어 설정으로 이동합니다.**
 
 
+앱 콘텐츠 단계 입력이 끝났으면,
+
+&#x20;**왼쪽 메뉴 '사용자 늘리기' - 앱 정보: 스토어 설정 메뉴로 이동합니다.**&#x20;
 
 ### <mark style="color:blue;">**1.앱 카테고리 선택 및 연락처 세부정보 제공**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C18_%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%A4%EC%A0%95.png)
+<figure><img src="../../.gitbook/assets/앱등록5.png" alt=""><figcaption></figcaption></figure>
+
+각 항목들의 수정 버튼을 선택해서 입력합니다.&#x20;
+
+<div align="left"><figure><img src="../../.gitbook/assets/앱등록6.png" alt=""><figcaption></figcaption></figure></div>
 
 1\)앱 선택
 
 2\)카테고리 선택
+
+<div align="left"><figure><img src="../../.gitbook/assets/앱등록7.png" alt=""><figcaption></figcaption></figure></div>
 
 3\)이메일 주소 입력
 
@@ -380,17 +392,19 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C4.png)
-
 앱 카테고리 선택 및 연락처 세부정보 제공 입력도 완료되었구요.
 
 **다음은 \[스토어 등록정보 설정]을 선택해주세요.**
 
-
-
 ### <mark style="color:blue;">**2.기본 스토어 등록정보 설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D-39_-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%B1%EB%A1%9D%EC%A0%95%EB%B3%B41-1.png)
+<div align="left"><figure><img src="../../.gitbook/assets/앱등록8.png" alt=""><figcaption></figcaption></figure></div>
+
+**\[기본 스토어 등록정보 만들기] 선택**
+
+
+
+<figure><img src="../../.gitbook/assets/앱등록9.png" alt=""><figcaption></figcaption></figure>
 
 1\) 앱 이름 입력 (플레이스토어에 표시되는 앱 이름)
 
@@ -424,7 +438,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지를 사용합니다.
 
-프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 어디서도 노출이 되지 않습니다.
+프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 노출이 되지 않습니다.
 
 
 
@@ -440,33 +454,27 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 가로 세로 비율은 16:9 입니다. (가로모드 스크린샷 적용시)
 
-
-
 9\) **\[저장]** 버튼을 누르면 스토어 정보 입력이 완료됩니다.
 
 
 
-**플레이스토어에 입력해야 하는 내용은 모두 완료되었구요.**
-
-**마지막으로 앱(APK파일)을 업로드해주시면 됩니다.**
+**플레이스토어에 입력해야 하는 내용은 모두 완료되었구요. 마지막으로 앱(AAB파일)을 업로드해주시면 됩니다.**
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP3. 프로덕션 – 앱 등록하기
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP3. 프로덕션 – 앱 등록하기
 
-**— 다시 대시보드로 이동해주시구요. 구글플레이에 앱 게시를 선택합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C5.png)
+
+<figure><img src="../../.gitbook/assets/앱등록10.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;**테스트 및 출시 - 프로덕션을 선택해주세요.**
 
 ### <mark style="color:blue;">**1.국가/지역 선택**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C6.png)
-
 파란색 글자로 된 <mark style="color:blue;">**국가/지역 추가**</mark> 를 선택합니다.
 
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C7.png)
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 어떤 국가에 출시를 할지 선택을 하는데요. 전체 국가를 선택해주시면 되구요.
 
@@ -478,7 +486,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**2.프로덕션 – AAB파일 등록**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C23-%EC%83%88%EB%B2%84%EC%A0%84-%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 다음으로 프로덕션 화면에서 \[출시] 를 선택합니다.
 
@@ -488,21 +496,33 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/구글신규8.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-App Bundle \[서명 키 선택] → \[Google에서 생성한 키 사용]에 체크합니다.
+업로드 버튼을 선택한 뒤, 스윙투앱에서 제작완료한 AAB파일을 해당 화면으로 업로드 해주세요.
 
-\*반영 시간이 소요될 수 있으니 조금만 기다려주세요. 기다리면 App Bundle 업로드 창이 활성화 됩니다.
 
-﻿
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B42-1.png)
+<figure><img src="../../.gitbook/assets/앱등록11.png" alt=""><figcaption></figcaption></figure>
 
-업로드 버튼을 선택한 뒤, 스윙투앱에서 제작완료한 AAB 파일을 해당 화면으로 업로드 해주세요.
+파일 업로드가 완료되면, **화면 하단의&#x20;**<mark style="color:green;">**\[다음]**</mark>**버튼 선택 →&#x20;**<mark style="color:green;">**\[저장]**</mark>**버튼을 선택합니다.**
 
-파일 업로드가 완료되면, **화면 하단의&#x20;**<mark style="color:green;">**\[저장]**</mark>**버튼 선택 →&#x20;**<mark style="color:green;">**\[버전검토]**</mark>**버튼을 선택합니다.**
 
-**AAB파일을 가져오는 방법은 아래에서 확인 가능합니다.**&#x20;
+
+<mark style="background-color:yellow;">**AAB파일을 가져오는 방법은 아래에서 확인 가능합니다.**</mark>&#x20;
+
+{% tabs %}
+{% tab title="AAB파일 가져오기" %}
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
+
+앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app_work_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
+
+\[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
+
+다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bundle 파일로 업로드 해주시면 됩니다.&#x20;
+
+<mark style="color:red;">\*인터넷 브라우저 Chrome 으로 이용해주세요.</mark>
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 #### <mark style="color:blue;">**\*AAB파일은 어디서 다운받나요??**</mark>
@@ -518,37 +538,19 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 <mark style="color:blue;">이용권 구매 후 꼭! 앱제작하기(업데이트)를 해주세요.</mark>
 {% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
-
-앱제작이 완료된 후 [**앱운영→ 버전관리→앱제작이력**](http://www.swing2app.co.kr/view/app_work_history) 에서 AAB파일을 받을 수 있습니다. (이용권 구매 후 앱제작 한번 더 해주세요)
-
-\[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
-
-다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bundle 파일로 업로드 해주시면 됩니다.&#x20;
-
-<mark style="color:red;">\*인터넷 브라우저 Chrome 으로 이용해주세요.</mark>
 
 
 
-<figure><img src="../../.gitbook/assets/구글1 (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;앱 파일 등록 후 하단 \[임시보관함에 저장] 버튼 선택 후 - \[다음] 버튼 선택해주세요.
-
-
-
-<figure><img src="../../.gitbook/assets/구글2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 \[저장] 버튼 선택
-
-
-
-<figure><img src="../../.gitbook/assets/구글3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[게시 개요로 이동] 버튼 선택
 
 
 
-<figure><img src="../../.gitbook/assets/구글4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **게시개요 화면 이동 \*게시개요로 넘어와서 전송을 해주셔야 완료가 됩니다.**
 
@@ -556,17 +558,9 @@ AAB파일은 스윙투앱에서 앱제작 요청 후 이메일로 발송된 AAB�
 
 \[검토를 위해 변경사항 전송]을 선택하면 완료됩니다.
 
-
-
-<figure><img src="../../.gitbook/assets/구글5 (1).png" alt=""><figcaption></figcaption></figure>
-
 화면이 자동으로 대시보드 화면으로 넘어오구요.
 
 <mark style="color:green;">**업데이트 상태: 검토 중**</mark>으로 표시되면 정상적으로 제출이 완료된 것입니다.&#x20;
-
-
-
-
 
 {% hint style="warning" %}
 #### <mark style="color:orange;">**중요안내**</mark>
@@ -596,8 +590,8 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 
 
 
-<mark style="color:red;">**★ 잠깐!**</mark>
-
+{% tabs %}
+{% tab title="★ 잠깐!" %}
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%BD%EA%B3%A0.jpg)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%BD%EA%B3%A02.jpg)
@@ -607,10 +601,18 @@ AAB파일은 스윙투앱에서 21년 8월 9일 이후에 제작된 앱부터 �
 해당 내용은 앱출시와는 관계가 없기 때문에 무시하셔도 됩니다.&#x20;
 
 **\* 플레이스토어 등록은 유료버전으로 전환된 앱만 등록가능합니다.**&#x20;
+{% endtab %}
+{% endtabs %}
+
+
 
 ***
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP4. 앱 출시 완료 (심사기간 7일 이내)
+
+
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) STEP4. 앱 출시 완료 (심사기간 7일 이내)
+
+
 
 **\*출시는 바로 되는 것이 아니라, 구글 심사를 거친 뒤 승인이 되는 것이라서 기다려주셔야 해요\~!**
 

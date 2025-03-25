@@ -55,7 +55,7 @@ description: 아임웹(imweb.me) 웹사이트에 간단한 코드삽입으로 �
 
 
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>스윙투앱 콘솔화면에서 아임웹 회원 연동이 확인된 화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>스윙투앱 콘솔화면에서 아임웹 회원 연동이 확인된 화면</p></figcaption></figure>
 
 
 

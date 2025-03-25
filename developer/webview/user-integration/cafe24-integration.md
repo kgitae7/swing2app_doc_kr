@@ -18,13 +18,13 @@ description: 카페24(Cafe24) 웹사이트에 간단한 코드삽입으로 회�
 
 ### 1.1 카페24(Cafe24) Dashboard 이동 하기
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>카페24 콘솔화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>카페24 콘솔화면</p></figcaption></figure>
 
 ### 1.2 홈화면에 Embed HTML 요소 삽입하기
 
 
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>카페24 콘솔화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>카페24 콘솔화면</p></figcaption></figure>
 
 (1) 전체화면 클릭 후 -> (2) 레이아웃 (하단 회사정보) 클릭 후&#x20;
 
@@ -113,7 +113,7 @@ description: 카페24(Cafe24) 웹사이트에 간단한 코드삽입으로 회�
 
 
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>스윙투앱 콘솔화면에서 카페24 회원 연동이 확인된 화면</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>스윙투앱 콘솔화면에서 카페24 회원 연동이 확인된 화면</p></figcaption></figure>
 
 
 
