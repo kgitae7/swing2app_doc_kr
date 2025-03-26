@@ -8,6 +8,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 **구글 플레이스토어에 앱 출시하기**&#x20;
 
+{% hint style="success" %}
 <mark style="color:red;">플레이스토어 앱 등록을 위해서는, 먼저 구글 개발자 계정을 만들어주셔야 합니다.</mark>
 
 **구글 개발자 콘솔사이트:** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
@@ -19,13 +20,17 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 \*일반 구글 메일 계정이 있다고 해서, 해당 계정이 구글 개발자 계정이 되는 것이 아닙니다.
 
 &#x20;구글 콘솔에서 25달러 등록 수수료를 결제한 계정이 개발자 계정이 됩니다.
+{% endhint %}
 
 
 
 구글 개발자계정 등록방법은 도움말 매뉴얼을 참고해주세요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**구글 개발자 계정 등록방법 매뉴얼 보러가기**](google-developer.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" %}
 
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-developer" %}
+
+\
 플레이스토어 출시는 스윙투앱 유료버전앱만 가능합니다.
 
 <mark style="color:red;">**\*무료앱은 스토어 출시가 불가합니다. 유료앱이용권 구매 후 출시 가능!**</mark>
@@ -96,7 +101,17 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-### <mark style="color:blue;">**2.앱 액세스 권한**</mark>
+### <mark style="color:blue;">**2.광고**</mark>
+
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
+앱 내에 광고가 있다면 “예, 앱에 광고가 있습니다” 체크
+
+광고가 없다면 ” 아니요, 앱에 광고가 없습니다” 체크 후 저장
+
+
+
+### <mark style="color:blue;">**3앱 액세스 권한**</mark>
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80_%EC%95%A1%EC%84%B8%EC%8A%A42.png" alt=""></div>
 
@@ -136,15 +151,7 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ​
 
-### <mark style="color:blue;">**3.광고**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%8B%A0%EA%B7%9C13_%EA%B4%91%EA%B3%A0.png)
-
-앱 내에 광고가 있다면 “예, 앱에 광고가 있습니다” 체크
-
-광고가 없다면 ” 아니요, 앱에 광고가 없습니다” 체크 후 저장
-
-​
 
 ### <mark style="color:blue;">**4.콘텐츠 등급**</mark>
 
@@ -214,6 +221,8 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 ### <mark style="color:blue;">**6.뉴스 앱**</mark>
 
+
+
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%B6%94%EA%B0%801.png)
 
 **뉴스앱은 제출하는 앱이 뉴스앱인지 체크하는 항목이에요.**
@@ -238,25 +247,9 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-### <mark style="color:blue;">**7.코로나 관련 앱 체크(21.08.16 추가메뉴)**</mark>
+### <mark style="color:blue;">**7.데이터 보안**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%94%EB%A1%9C%EB%82%98%EC%B2%B4%ED%81%AC.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BD%94%EB%A1%9C%EB%82%98%EC%B2%B4%ED%81%AC2.png)
-
-코로나19 접촉자 추적 앱 검사 결과 공유앱 항목이 추가 되었습니다.
-
-제출하고자 하는 앱이 코로나 관련 앱인지 체크하는 항목이구요.
-
-**“공개된 코로나19 접촉자 추적 앱 또는 이력 앱이 아님”**&#xC5D0; 체크하고 \[저장] 버튼을 선택합니다.
-
-<mark style="color:red;">\*코로나 관련 앱은 구글 정책상 출시가 불가합니다.\_보건복지부, 질병예방본부와 같은 인증받은 국가기관에서만 본 앱을 출시할 수 있습니다.</mark>
-
-
-
-### <mark style="color:blue;">**8.데이터 보안 (21.11 추가 메뉴)**</mark>
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EC%B6%94%EA%B0%801.png)
+<div align="left"><figure><img src="../../.gitbook/assets/데이터보안.png" alt=""><figcaption></figcaption></figure></div>
 
 데이터 보안은 앱에서 어떤 데이터를 수집 및 공유하는지, 사용자 데이터 유형이 무엇인지 항목을 제출하는 메뉴입니다.
 
@@ -270,11 +263,27 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/Datasecurity" %}
 
+### <mark style="color:blue;">**8. 광고 ID**</mark>
+
+<div align="left"><figure><img src="../../.gitbook/assets/광고아이디.png" alt=""><figcaption></figcaption></figure></div>
+
+광고 ID를 사용하는지 선택하는 항목입니다.
 
 
-### <mark style="color:blue;">**9.정부앱 체크 (22.12 추가 메뉴)**</mark>
 
-<figure><img src="../../.gitbook/assets/정부체크_구글.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/광고아이디2.png" alt=""><figcaption></figcaption></figure>
+
+앱에 광고가 없다면 ‘아니요’ 체크 후 저장 버튼 선택
+
+앱에 광고가 있다면 ‘예’ 체크해주세요.
+
+
+
+### <mark style="color:blue;">**9.정부앱**</mark>&#x20;
+
+<div align="left"><figure><img src="../../.gitbook/assets/정부.png" alt=""><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/정부2.png" alt=""><figcaption></figcaption></figure></div>
 
 제출하는 앱이 정부에서 개발했거나, 정부에서 대신하여 개발한 앱인지를 체크하는 항목입니다.
 
@@ -284,21 +293,19 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-<figure><img src="../../.gitbook/assets/정부체크2_구글.png" alt=""><figcaption></figcaption></figure>
-
 “예” 체크시 어떤 정부 기관인지 체크하게 됩니다.
 
 그리고 증빙할 수 있는 서류를 반드시 함께 제출해주셔야 합니다.
 
 
 
-### <mark style="color:blue;">**10.금융기능 (23.08 추가)**</mark>
+### <mark style="color:blue;">**10.금융기능**</mark>&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/구글추가1 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/금융.png" alt=""><figcaption></figcaption></figure></div>
 
 앱에서 제공하는 금융 기능을 선택하는 콘텐츠 항목입니다.&#x20;
 
-\[시작] 버튼을 선택합니다.
+\[선언시작] 버튼을 선택합니다.
 
 
 
@@ -307,6 +314,10 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 "앱에서 금융 기능을 제공하지 않음"에 체크해주세요. (화면 가장 아래로 스크롤 하시면 있습니다)
 
 \[다음] 버튼을 선택합니다.
+
+<figure><img src="../../.gitbook/assets/금융2.png" alt=""><figcaption></figcaption></figure>
+
+\[저장] 버튼 선택
 
 {% hint style="danger" %}
 앱에 금융 기능이 제공될 경우, 제공되는 기능에 맞게 체크해주셔야 합니다.
@@ -320,11 +331,32 @@ description: 플레이스토어에 앱을 등록하여 출시하는 방법_2024�
 
 
 
-### <mark style="color:blue;">**11.**</mark><mark style="color:blue;">Photo and video permissions</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**(24.09 추가)**</mark>
+### <mark style="color:blue;">**11. 건강앱**</mark>&#x20;
 
-앱 컨텐츠 - 사진 및 영상 권한 선언 제출
+<figure><img src="../../.gitbook/assets/건강.png" alt=""><figcaption></figcaption></figure>
 
-앱에서 사진(이미지) 영상 기능 권한이 필요한 이유를 제출하는 것입니다.
+앱에서 사용하는 건강 기능을 선택하는 콘텐츠 항목입니다.&#x20;
+
+\[선언 시작] 선택\
+
+
+<div align="left"><figure><img src="../../.gitbook/assets/건강2.png" alt=""><figcaption></figcaption></figure></div>
+
+<mark style="color:purple;">**카테고리: 건강**</mark>을 선택한 경우만 해당되는 항목 모두 선택해주세요.
+
+건강 외 다른 카테고리 앱은 “앱에 건강 기능이 없음”에 체크 후 저장 선택합니다.
+
+11번까지의 콘텐츠 항목이 입력되면 완료됩니다.&#x20;
+
+
+
+<mark style="color:red;">--아래는 해당 되는 경우만 입력합니다--</mark>
+
+### <mark style="color:blue;">**12.**</mark><mark style="color:blue;">Photo and video permissions</mark>
+
+앱 컨텐츠 - 사진 및 영상 권한 선언 제출로, 앱에서 사진 및 미디어 권한이 있을 경우만 해당 질문이 뜹니다.&#x20;
+
+앱에서 사진(이미지) 영상 기능 권한이 필요한 이유를 제출하는 것입니다.&#x20;
 
 <div align="left"><figure><img src="../../.gitbook/assets/구글0.png" alt=""><figcaption></figcaption></figure></div>
 
