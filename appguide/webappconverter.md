@@ -34,8 +34,6 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 **웹앱 제작 전, 입력할 웹사이트(홈페이지)가 앱으로 어떻게 보여지는지 미리 확인할 경우 이용할 수 있습니다.**
 
-
-
 ### <mark style="color:blue;">1)스윙투앱 브라우저 앱 설치</mark>
 
 <div align="left"><figure><img src="../.gitbook/assets/브라우저1.png" alt="" width="317"><figcaption></figcaption></figure></div>
@@ -84,9 +82,31 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-## 2.이용방법2 -QR코드 촬영
+## 2.이용방법2 -홈페이지 랜딩페이지&#x20;
 
-**2번째 이용방법은 앱제작에서 생성되는 QR코드로 앱을 미리보는 방법입니다.**
+홈페이지 랜딩 페이지에서도 앱 미리보기가 가능합니다.
+
+[https://www.swing2app.co.kr/landing/webview](https://www.swing2app.co.kr/landing/webview) 접속
+
+<figure><img src="https://i0.wp.com/ltwp.swing2app.com/wp-content/uploads/2025/03/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%96%B4%ED%94%8C-1024x768.png?resize=1024%2C768&#x26;ssl=1" alt="" height="768" width="1024"><figcaption></figcaption></figure>
+
+웹사이트 입력창 >홈페이지 주소 입력 > QR코드 팝업이 뜹니다.
+
+
+
+<figure><img src="https://i0.wp.com/ltwp.swing2app.com/wp-content/uploads/2025/03/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.jpg?resize=860%2C854&#x26;ssl=1" alt="" height="854" width="860"><figcaption></figcaption></figure>
+
+아이폰 카메라 실행 후 > QR코드 촬영> 브라우저 어플로 이동> 연결된 홈페이지 앱 미리보기 할 수 있습니다.
+
+
+
+***
+
+
+
+## 3.이용방법3 -QR코드 촬영
+
+**3번째 이용방법은 앱제작에서 생성되는 QR코드로 앱을 미리보는 방법입니다.**
 
 ### <mark style="color:blue;">1)앱에서 미리보기 선택</mark>
 
@@ -122,7 +142,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-## 3.툴바이용 TIP
+## 4.툴바이용 TIP
 
 <figure><img src="../.gitbook/assets/스윙투앱브라우저툴바.png" alt=""><figcaption></figcaption></figure>
 
