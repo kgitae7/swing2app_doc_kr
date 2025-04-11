@@ -12,7 +12,7 @@ description: DUNS Number DUNS 번호 조회 방법
 
 DUNS 번호는 D\&B 사이트에서 제공하는 페이지에서 조회 가능해요
 
-{% embed url="https://www.dnb.com/de-de/upik-en.html" %}
+[https://www.dnb.com/de-de/upik-en.html](https://www.dnb.com/de-de/upik-en.html)
 
 {% embed url="https://www.dnb.com/de-de/upik-en.html" %}
 
