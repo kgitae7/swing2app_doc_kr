@@ -53,7 +53,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 {% endhint %}
 
 {% hint style="danger" %}
-#### <mark style="color:$danger;">**안내사항**</mark>
+#### <mark style="color:$danger;">**안내사항 - 개인 계정에서는 '비공개 테스트'를 해야 합니다!**</mark>
 
 구글 개인 개발자 계정으로 앱을 등록할 경우, 정책에 따라 **비공개 테스트 진행이 필수**입니다.
 
