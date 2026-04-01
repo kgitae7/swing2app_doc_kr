@@ -8,6 +8,9 @@ description: 스윙투앱 WebView 모듈(푸시전용)에 인앱결제 모듈을
 
 스윙투앱에서 제공하는 웹뷰와 푸시전용 프로토타입의 앱을 제어할 수 있는 javascript API 입니다.
 
+* 인앱 모듈은 프리미엄 사용자 또는 별도의 커스터마이징 및 플러그인 구매자에 한해서 이용이 가능합니다.
+* 기본형과 무제한 이용권 사용자는 인앱을 이용할 수 없습니다.
+
 공통적으로 아래의 js 파일을 include 하여 사용하시고 아래의 API 명세를 통해서
 
 필요한 기능을 실행하시면 됩니다.
@@ -18,7 +21,7 @@ description: 스윙투앱 WebView 모듈(푸시전용)에 인앱결제 모듈을
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2025_02_14_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2026_02_04_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -240,6 +243,28 @@ swingWebViewPlugin.app.inapp.subscribe(productId,
 ```
 
 위의 코드에서는 사용자가 구독을 구매하려고 할 때 결제 API를 호출하고, 결제가 성공적으로 완료되면 관련 데이터를 처리합니다. 구독 상태를 지속적으로 확인하고 갱신하여 사용자가 콘텐츠를 지장 없이 사용할 수 있도록 보장합니다.
+
+
+
+### 구글 플레이 스토어 구독 여부 체크 <a href="#check-subscribe" id="check-subscribe"></a>
+
+특정 `productId`(구독 상품)에 대해 사용자의 **현재 구독 활성 상태**를 네이티브에서 확인하여 웹(JS)로 반환
+
+<mark style="color:red;">\*\* js lib 2025\_08\_29\_001 부터 사용가능</mark>
+
+```javascript
+swingWebViewPlugin.app.inapp.isSubscribed(productId, function(value) {
+  if (value) {
+    // 구독중
+  } else {
+    // 미구독 상태
+  }
+});
+```
+
+
+
+
 
 ## &#x20;
 

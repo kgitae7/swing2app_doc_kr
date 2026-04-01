@@ -19,9 +19,9 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 {% endhint %}
 
 {% hint style="success" %}
-\-프로필 이미지 등록: 앱 회원가입시 등록 가능
+-프로필 이미지 등록: 앱 회원가입시 등록 가능
 
-\-프로필 이미지 변경: 앱설정: 회원정보 수정에서 변경
+-프로필 이미지 변경: 앱설정: 회원정보 수정에서 변경
 {% endhint %}
 
 매뉴얼을 통해서 앱 프로필 사진 등록과 변경 방법을 확인해주세요.
@@ -34,21 +34,13 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 회원가입시 프로필이미지 등록**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD5.png" alt=""></div>
 
 회원가입: 상단 프로필 이미지 \[등록하기] 버튼을 선택하여 원하는 이미지를 등록할 수 있어요!
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD6.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD6.png" alt=""></div>
 
 해당 이미지를 터치하면 이미지를 등록 할 수 있는 창이 열립니다.&#x20;
 
@@ -92,11 +84,7 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 
 **등록된 이미지를 변경하거나, 새로 프로필 이미지를 등록하는 방법을 알려드릴게요.**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD.png" alt=""></div>
 
 1\)앱을 실행 한뒤  **\[설정]** 메뉴를 선택해주세요. \*로그인이 안되어 있다면 로그인 먼저 해주세요!
 
@@ -108,11 +96,7 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD1.png" alt=""></div>
 
 회원정보수정 창에서 상단 프로필 이미지 \[등록하기] 버튼을 선택해서 프로필 이미지를 변경할 수 있습니다.&#x20;
 
@@ -156,11 +140,7 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 
 <mark style="color:orange;">**프로필 이미지 변경 완료**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD3.png" alt=""></div>
 
 새로 등록한 이미지로 프로필 사진이 변경된 것을 확인할 수 있어요\~!!
 
@@ -176,11 +156,7 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 
 <mark style="color:blue;">**Q. 비회원도 프로필 이미지를 변경할 수 있나요?**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD5.png" alt=""></div>
 
 비회원은 로그 기록이 없기 때문에 회원정보를 인식할 수 없어요.
 
@@ -188,16 +164,11 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 
 **프로필 외에도 다른 회원정보에 접근할 수 없어요.**
 
-회원가입이 된 회원사용자만 이용할 수 있습니다\~!!\
-
+회원가입이 된 회원사용자만 이용할 수 있습니다\~!!<br>
 
 &#x20;<mark style="color:blue;">**이 외에도 \[설정] 메뉴에는 다양한 기능을 사용할 수 있어요\~!**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD4.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD4.png" alt=""></div>
 
 회원정보 수정, 푸시 알림(on/off), 알림 목록 확인, 회원 탈퇴, 앱 공유, 버전 체크 등의 메뉴를 이용할 수 있습니다.
 
@@ -211,9 +182,9 @@ description: 앱 회원가입 - 프로필 이미지 등록, 변경하는 방법
 **2)프로필 이미지 변경방법:  ‘설정-회원정보수정’ 메뉴에서 이미지 변경**
 {% endhint %}
 
-\-이미지는 핸드폰 내 앨범이나 혹은 바로 카메라로 사진을 찍어서 바로 올릴 수 있습니다.&#x20;
+-이미지는 핸드폰 내 앨범이나 혹은 바로 카메라로 사진을 찍어서 바로 올릴 수 있습니다.&#x20;
 
-\-프로필 사진 변경은 회원가입이 된 사용자 계정에서만 이용가능합니다.(비회원은 사용 안되요\~)
+-프로필 사진 변경은 회원가입이 된 사용자 계정에서만 이용가능합니다.(비회원은 사용 안되요\~)
 
 
 

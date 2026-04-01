@@ -4,19 +4,19 @@ description: 관리자 권한으로 앱 가입자 회원 이름을 변경하는 
 
 # 회원 이름 변경 \*관리자 권한 변경
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;앱운영 관리자 페이지에서 앱 사용자(회원) 이름을 변경하는 방법을 알려드릴게요.
 
 > <mark style="color:red;">**★회원 이름 변경 활용 용도 TIP**</mark>
 >
-> \-앱에서 그룹을 설정해놓았을 경우 “사용자 이름에 그룹명을 기재하여 구분”
+> -앱에서 그룹을 설정해놓았을 경우 “사용자 이름에 그룹명을 기재하여 구분”
 >
-> \-“실명제로 운영되는 앱에서 닉네임으로 기재한 경우” 관리자 권한으로 이름 수정
+> -“실명제로 운영되는 앱에서 닉네임으로 기재한 경우” 관리자 권한으로 이름 수정
 >
-> \-“앱에서 동일한 이름을 사용할 경우” 관리자 권한으로 수정
+> -“앱에서 동일한 이름을 사용할 경우” 관리자 권한으로 수정
 >
-> \-“특정 회원을 구분해야 할 경우”
+> -“특정 회원을 구분해야 할 경우”
 
 이렇게 다양한 용도로 사용할 수 있구요!
 
@@ -24,17 +24,17 @@ description: 관리자 권한으로 앱 가입자 회원 이름을 변경하는 
 
 아래 매뉴얼을 통해서 앱운영페이지에서 회원이름을 변경하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 1. 회원 이름 변경하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EC%A1%B0%ED%9A%8C.png)
 
-[앱운영 페이지 → 푸시&회원 →회원조회](https://www.swing2app.co.kr/view/member\_list) 페이지 이동
+[앱운영 페이지 → 푸시&회원 →회원조회](https://www.swing2app.co.kr/view/member_list) 페이지 이동
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%9A%8C%EC%9B%90%EC%9D%B4%EB%A6%84%EB%B3%80%EA%B2%BD\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%9A%8C%EC%9B%90%EC%9D%B4%EB%A6%84%EB%B3%80%EA%B2%BD_20.07.png)
 
 1\)사용자 이름을  마우스로 클릭하면 회원정보 창이 열립니다.
 
@@ -42,7 +42,7 @@ description: 관리자 권한으로 앱 가입자 회원 이름을 변경하는 
 
 3\)저장 버튼을 누르면 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 2. 변경 후 회원 이름 확인하기 : 회원 조회 페이지
 
@@ -50,7 +50,7 @@ description: 관리자 권한으로 앱 가입자 회원 이름을 변경하는 
 
 사용자(회원)의 이름이 관리자가 수정한 이름으로 변경된 것을 확인할 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) 3. 앱 실행화면
 

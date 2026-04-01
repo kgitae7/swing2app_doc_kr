@@ -4,7 +4,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 # 게시물관리 옵션 기능
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물관리에서 이용할 수 있는 다양한 옵션 기능을 알아볼텐데요.
 
@@ -14,11 +14,11 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>1. 게시판 복사 : 특정 게시판을 다른 게시판으로 복사하는 기능(게시판 전체 복사)</p><p>2. 게시물 복사: 여러 게시물을 한번에 선택하여 특정 게시판으로 복사하는 기능</p><p>3. 게시글 다운: 게시판에 작성된 게시글을 엑셀파일로 다운받아 보관할 수 있는 기능</p><p>4. 게시물 일괄삭제 : 게시판에서 여러 게시물을 한번에 삭제하고자 할 때, 다중 선택된 게시물을 일괄로 삭제하는 기능</p> |
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. \[게시판 복사] 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC_20.06.png)
 
 스윙 앱운영페이지 → 게시물관리에서  만들어놓은 게시판으로 이동합니다.
 
@@ -32,9 +32,9 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**게시판 복사 방법**</mark>
+### <img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"><mark style="color:blue;">**게시판 복사 방법**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC1\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC1_20.06.png)
 
 1\. \[게시판 복사] 버튼을 누르면 만들어놓은 게시판 리스트가 뜹니다.
 
@@ -46,11 +46,11 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 대상 게시판으로 이동하면 복사한 게시판이 그대로 옮겨진 것을 확인할 수 있습니다\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. \[게시글 복사] 이용방법
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC_20.06.png)
 
 1\)앱운영 페이지 – 게시물 관리에서 글을 복사할 게시판을 선택해주세요
 
@@ -62,9 +62,9 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"><mark style="color:blue;">**게시물 복사하기**</mark><mark style="color:blue;">​</mark>
+### <img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"><mark style="color:blue;">**게시물 복사하기**</mark><mark style="color:blue;">​</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC1\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC1_20.06.png)
 
 1\) 복사할 게시물 선택 후
 
@@ -78,9 +78,9 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 게시물 복사 이용방법 이렇게 간단하게 이용할 수 있어요!!
 
-\-해당 게시판의 전체 글을 복사할 수도 있구요.
+-해당 게시판의 전체 글을 복사할 수도 있구요.
 
-\-복사를 원하는 게시물 몇개만 선택하여 복사할 수 있습니다.
+-복사를 원하는 게시물 몇개만 선택하여 복사할 수 있습니다.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**안내사항**</mark>
@@ -104,7 +104,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. \[게시글 다운] 이용방법
 
@@ -138,7 +138,7 @@ description: 게시판 복사, 게시물 복사, 게시글 다운, 게시물 일
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. \[게시물 일괄삭제] 이용방법
 

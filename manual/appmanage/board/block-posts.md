@@ -4,7 +4,7 @@ description: 게시물을 차단하여 게시물을 안보이게 하는 방법
 
 # 게시물 차단하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시물 차단은,**
 
@@ -14,15 +14,11 @@ description: 게시물을 차단하여 게시물을 안보이게 하는 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EC%B0%A8%EB%8B%A8%EA%B8%B0%EB%8A%A5.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 게시물 차단하기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EC%B0%A8%EB%8B%A81.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/09/%EC%B0%A8%EB%8B%A81.png" alt=""></div>
 
 게시판 – 게시물 상세보기에서 오른쪽 상단을 보시면, 점 3개로 표시된 아이콘이 있습니다.
 

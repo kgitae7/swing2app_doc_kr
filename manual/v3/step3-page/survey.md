@@ -48,19 +48,15 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 ​+설문조사는 푸시로 설정할 수 있습니다
 
-\+푸시설정을 선택해서 발송대상자를 선택한 뒤 제목, 내용, 이미지를 입력하면 푸시가 발송됩니다.
++푸시설정을 선택해서 발송대상자를 선택한 뒤 제목, 내용, 이미지를 입력하면 푸시가 발송됩니다.
 
-\+공지사항으로 많은 사용자들에게 설문조사를 알려야 한다면 푸시를 사용하는 것도 좋은 방법입니다.
++공지사항으로 많은 사용자들에게 설문조사를 알려야 한다면 푸시를 사용하는 것도 좋은 방법입니다.
 
 
 
 ### **3. 설문조사 항목 입력**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png" alt=""></div>
 
 **1) 질문내용**: 설문지에 들어갈 질문을 입력합니다.
 
@@ -199,11 +195,11 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 {% hint style="success" %}
 **활용 TIP**
 
-\-여러 설문지를 등록한 뒤, 특정 시기 마다 새로운 설문지를 공개할 때 일정에 맞게 하나씩 오픈하여 사용할 수 있어요.
+-여러 설문지를 등록한 뒤, 특정 시기 마다 새로운 설문지를 공개할 때 일정에 맞게 하나씩 오픈하여 사용할 수 있어요.
 
-\-아직 시작이 되지 않은 설문지가 공개되지 않도록 활용할 수 있어요.
+-아직 시작이 되지 않은 설문지가 공개되지 않도록 활용할 수 있어요.
 
-\-메뉴별 다른 주제의 설문지를 연결해서 사용자들에게 다양한 설문조사지를 받을 때 활용할 수 있어요.
+-메뉴별 다른 주제의 설문지를 연결해서 사용자들에게 다양한 설문조사지를 받을 때 활용할 수 있어요.
 {% endhint %}
 
 
@@ -214,11 +210,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png" alt=""></div>
 
 설문조사 입력이 완료 된 후 다시 앱을 실행하면, 입력된 설문조사가 뜨구요.
 
@@ -228,7 +220,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 <mark style="color:blue;">**▶ 설문조사 페이지 적용 화면 VS 설문조사 개별 링크 적용화면 비교**</mark>
 
-<figure><img src="../../../.gitbook/assets/설문조사업데이트2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/설문조사업데이트2.png" alt=""><figcaption></figcaption></figure>
 
 설문조사 페이지 적용 화면과, 설문조사 개별 링크로 적용한 화면을 확인해주세요.
 
@@ -276,7 +268,7 @@ description: 설문조사 페이지를 앱에 적용하는 방법 매뉴얼
 
 **-‘수정’** 버튼을 선택해서 질문 내용을 수정할 수 있으며, ‘**삭제**‘ 버튼 선택하여 설문을 삭제할 수도 있습니다.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **STEP**5.이용방법 총정리
 

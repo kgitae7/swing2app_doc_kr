@@ -13,9 +13,9 @@ description: App ID, API 키 확인
 {% hint style="info" %}
 해당 화면은 유료 사용자에게만 제공되는 화면입니다.
 
-\-유료앱 이용권(기본형 및 무제한 이용권 모두 포함) 구매한 사용자에 한해서 제공됩니다.&#x20;
+-유료앱 이용권(기본형 및 무제한 이용권 모두 포함) 구매한 사용자에 한해서 제공됩니다.&#x20;
 
-\-유료사용자일반 프로토타입 앱, 푸시앱에서 확인 가능
+-유료사용자일반 프로토타입 앱, 푸시앱에서 확인 가능
 
 <mark style="color:red;">\*웹뷰앱은 API 키를 제공하지 않으므로 유료앱 이용권 구매하셔도, 이용이 불가합니다.</mark>
 {% endhint %}
@@ -24,17 +24,13 @@ description: App ID, API 키 확인
 
 ## **API KEY  관리 페이지**
 
-<figure><img src="../../.gitbook/assets/키1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/키1 (1).png" alt=""><figcaption></figcaption></figure>
 
-[앱운영-서비스관리-앱 운영관리-앱 고급관리 - API KEY관리](https://www.swing2app.co.kr/view/app\_advanced\_management\_by\_api\_key)&#x20;
+[앱운영-서비스관리-앱 운영관리-앱 고급관리 - API KEY관리](https://www.swing2app.co.kr/view/app_advanced_management_by_api_key)&#x20;
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/키3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/키3.png" alt=""><figcaption></figcaption></figure></div>
 
 APP ID,   API 키 확인이 가능합니다.
 
@@ -46,17 +42,9 @@ APP ID,   API 키 확인이 가능합니다.
 
 <mark style="color:red;">\[발급 요청] 버튼을 선택해서 키 값을 발급 받아주세요!</mark>
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/키4.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/키4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/키5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/키5.png" alt=""><figcaption></figcaption></figure></div>
 
 API키 등록이 안되어 있을 경우 \[발급요청] 버튼을 선택해주세요.&#x20;
 

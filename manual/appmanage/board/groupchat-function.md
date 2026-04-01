@@ -14,7 +14,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 1.채팅 공지 메시지
 
-<figure><img src="../../../.gitbook/assets/공지메시지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/공지메시지 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,17 +22,13 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 공지 메시지 설정은 그룹채팅 생성시 → 채팅 상세 설정에서 채팅 공지 메시지 입력을 통해 적용할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/공지.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/공지.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 ## 2.사용자 목록 보기
 
-<figure><img src="../../../.gitbook/assets/사용자목록보기.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/사용자목록보기 (1).png" alt=""><figcaption></figcaption></figure>
 
 채팅방에 접속한 사용자 목록 확인이 가능합니다.
 
@@ -40,11 +36,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 사용자 목록보기 설정은 그룹채팅 생성시 → 채팅 상세 설정에서 사용자 목록보기 기능 '예' 체크를 통해 적용할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/목록보기.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/목록보기.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -56,17 +48,13 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 비밀번호 설정은 그룹채팅 생성시 → 채팅 상세 설정에서 비밀번호 설정 체크를 통해 적용할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/비밀.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/비밀.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 ## 4.이전 대화목록 확인
 
-<figure><img src="../../../.gitbook/assets/이전대화목록.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/이전대화목록 (1).gif" alt=""><figcaption></figcaption></figure>
 
 채팅방에 접속한 상태가 아니라도 사용자들이 채팅방에서 주고 받은 대화목록을 확인할 수 있습니다.
 
@@ -76,7 +64,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 5.채팅 알림 푸시
 
-<figure><img src="../../../.gitbook/assets/푸시알림.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/푸시알림 (1).png" alt=""><figcaption></figcaption></figure>
 
 채팅 메시지 발송시, 사용자 앱으로 푸시 알림이 발송됩니다.
 
@@ -98,7 +86,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 ## 7. 사용자 프로필 이미지 생성
 
-<figure><img src="../../../.gitbook/assets/프로필이미지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/프로필이미지 (1).png" alt=""><figcaption></figcaption></figure>
 
 대화 메시지 옆에 사용자 프로필 이미지가 표시됩니다.&#x20;
 
@@ -156,7 +144,7 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 \*신고가 들어간 글은 스윙투앱 대시보드에서 관리자가 확인 가능합니다.
 
-[앱운영 → 서비스관리→ 앱 신고 관리 페이지](http://www.swing2app.co.kr/view/app\_report\_manage)에서 확인이 가능합니다.
+[앱운영 → 서비스관리→ 앱 신고 관리 페이지](http://www.swing2app.co.kr/view/app_report_manage)에서 확인이 가능합니다.
 
 
 
@@ -197,9 +185,9 @@ description: 그룹채팅 이용 안내 및 제공 기능을 소개합니다.
 
 1\)그룹채팅은 신규 기능을 이용하기 위해서는 앱제작 V3 버전으로 이용해주셔야 하며, 업데이트 기준일로 업데이트가 필요합니다.&#x20;
 
-\-2023년 2월 이후 새로 제작된 앱은 자동으로 해당 기능으로 반영되어 앱 이용 가능
+-2023년 2월 이후 새로 제작된 앱은 자동으로 해당 기능으로 반영되어 앱 이용 가능
 
-\-2023년 2월 이전에 제작된 앱은 업데이트를 해주세요.
+-2023년 2월 이전에 제작된 앱은 업데이트를 해주세요.
 
 \*앱제작 화면 이동 – 앱 업데이트 선택
 

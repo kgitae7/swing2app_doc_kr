@@ -4,7 +4,7 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 # 스탬프 응용: 스탬프 완료시 쿠폰발행하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 해당 기능을 이용하면 스탬프가 정해진 갯수만큼 다 채워질 경우 자동으로 스탬프 화면이 초기화 되구요.
 
@@ -18,17 +18,13 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 스탬프 등록이 완료되면 자동으로 스탬프가 초기화(리셋)되며, 사용자 앱으로 관리자가 설정해놓은 쿠폰이 자동 발행되는 기능입니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B0.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%84-%EC%9E%90%EB%8F%99%EC%BF%A0%ED%8F%B0.png" alt=""></div>
 
 \*관리자가 설정한 스탬프 숫자만큼 모두 찍히면, 자동으로 사용자의 앱에서 스탬프가 모두 비워진 화면으로 리셋되구요!
 
 \*자동으로 관리자가 설정해놓은 쿠폰을 사용자 앱으로 발행됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> STEP2. 이용방법
 
@@ -40,13 +36,13 @@ description: 스탬프 등록 완료시, 쿠폰 자동발행하기 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B4%80%EB%A6%AC.png)
 
-[앱운영페이지→서비스관리→ 게시판 관리](http://www.swing2app.co.kr/view/board\_edit) 페이지로 이동합니다.
+[앱운영페이지→서비스관리→ 게시판 관리](http://www.swing2app.co.kr/view/board_edit) 페이지로 이동합니다.
 
 
 
 ### <mark style="color:blue;">**2.기본설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%841\_20.02.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%841_20.02.png)
 
 <mark style="color:purple;">**스탬프 게시판을 새로 만들경우**</mark>
 
@@ -78,7 +74,7 @@ or
 
 ### <mark style="color:blue;">**3.스탬프 상세설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%842\_20.02.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%8A%A4%ED%83%AC%ED%94%842_20.02.png)
 
 7\)스탬프 이미지 등록 (이미지 사이즈 512px \* 512px)
 
@@ -104,11 +100,11 @@ or
 
 **☞** [**쿠폰 만들고 발행하기 상세방법 보러가기**](../service/coupon.md)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> STEP3. 앱 실행화면
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_28\_14\_15\_58\_592.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94_2019_03_28_14_15_58_592.gif)
 
 **움짤이미지를 통해서 스탬프 등록이 완료되면 앱에서 화면이 어떻게 전환되는지 확인해주세요!**
 

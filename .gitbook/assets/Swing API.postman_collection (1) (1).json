@@ -1,0 +1,82 @@
+{
+	"info": {
+		"_postman_id": "9cb0274e-89f6-474e-bf20-da1f13c401a9",
+		"name": "Swing API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14364369"
+	},
+	"item": [
+		{
+			"name": "Send Push API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "app_id",
+							"value": "app_id",
+							"description": "스윙투앱에서 제공하는 APP_ID",
+							"type": "text"
+						},
+						{
+							"key": "api_user",
+							"value": "UserAccount",
+							"description": "스윙투앱 사용자 계정(이메일 주소)",
+							"type": "text"
+						},
+						{
+							"key": "api_key",
+							"value": "api_key",
+							"type": "text"
+						},
+						{
+							"key": "send_target_list",
+							"value": "test",
+							"type": "text"
+						},
+						{
+							"key": "send_target_type_list",
+							"value": "MEMBER",
+							"type": "text"
+						},
+						{
+							"key": "send_type",
+							"value": "push",
+							"type": "text"
+						},
+						{
+							"key": "message_json",
+							"value": "{\"messageTitle\" : \"타이틀 내용\" , \"messageContent\" : \"보내는 내용. 네이버 테스트\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://www.swing2app.co.kr/swapi/push_send",
+					"protocol": "https",
+					"host": [
+						"www",
+						"swing2app",
+						"co",
+						"kr"
+					],
+					"path": [
+						"swapi",
+						"push_send"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

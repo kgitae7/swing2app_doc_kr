@@ -49,5 +49,5 @@ swingWebViewPlugin.app.web.showInstallPopup(
 ```
 {% endcode %}
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption><p>팝업예시 이미지</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption><p>팝업예시 이미지</p></figcaption></figure>
 

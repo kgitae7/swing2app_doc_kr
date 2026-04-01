@@ -54,21 +54,13 @@ description: 애플 ID 새로 만들기
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/a3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/a3.png" alt=""><figcaption></figcaption></figure></div>
 
 11\)입력한 이메일주소로 인증 코드가 발송됩니다.
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/a4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/a4.png" alt=""><figcaption></figcaption></figure></div>
 
 12\)입력한 핸드폰번호로 인증 코드가 발송됩니다.
 
@@ -80,4 +72,4 @@ description: 애플 ID 새로 만들기
 
 13\)모든 인증이 완료되면, 아이디 생성이 완료됩니다.
 
-\
+<br>

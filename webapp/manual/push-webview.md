@@ -1,6 +1,6 @@
 # 푸시앱, 웹뷰앱 초간단 제작방법
 
-<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 **운영중인 홈페이지(웹사이트)가 있다면,**&#x20;
 
@@ -16,7 +16,7 @@
 
 **푸시전용앱, 웹뷰전용 앱을 제작하는 방법을 알려드리겠습니다.**
 
-<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@
 
 4\)\[다음] 버튼 선택해주세요.&#x20;
 
-\-웹사이트 주소 및 푸시 기능, 툴바 기능은 제작 메이커에서 다시 수정가능합니다.
+-웹사이트 주소 및 푸시 기능, 툴바 기능은 제작 메이커에서 다시 수정가능합니다.
 
 
 
@@ -80,7 +80,7 @@
 
 3\)대기화면 이미지 등록
 
-\-앱 이름, 아이콘 이미지, 대기화면 이미지 역시 제작 메이커에서 다시 수정가능합니다.
+-앱 이름, 아이콘 이미지, 대기화면 이미지 역시 제작 메이커에서 다시 수정가능합니다.
 
 
 
@@ -142,14 +142,13 @@
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**푸시앱 특징**
 
-\-푸시로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
+-푸시로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
-\-스윙투앱에서 제공하는 푸시 발송 기능을 이용할 수 있어요.
+-스윙투앱에서 제공하는 푸시 발송 기능을 이용할 수 있어요.
 
 **-앱 제작시 앱 화면 하단에 푸시툴바가 생성됩니다.**
 
-**-다양한 스타일의 툴바를 직접 구성할 수 있습니다.** \
-
+**-다양한 스타일의 툴바를 직접 구성할 수 있습니다.** <br>
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
 
@@ -165,11 +164,7 @@
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**푸시 앱) 앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png" alt=""></div>
 
 스윙투앱 홈페이지(웹사이트) 웹링크를 앱에 그대로 적용해서 제작된 푸시버전 앱입니다.
 
@@ -187,7 +182,7 @@
 
 {% embed url="https://documentation.swing2app.co.kr/webapp/manual/pushapp-push" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -309,11 +304,11 @@
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**웹뷰앱 특징**
 
-\-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
+-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
-\-웹사이트만 그대로 연동한 스타일이기 때문에 스윙투앱에서 제공하는 다른 앱 메뉴들은 사용할 수 없어요. (푸시 기능 이용불가)
+-웹사이트만 그대로 연동한 스타일이기 때문에 스윙투앱에서 제공하는 다른 앱 메뉴들은 사용할 수 없어요. (푸시 기능 이용불가)
 
-\-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
+-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
 
 
 
@@ -339,11 +334,7 @@
 
 ### <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **웹뷰앱) 앱 실행화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png" alt=""></div>
 
 웹뷰 버전 역시 모바일 웹사이트를 앱에 그대로 적용해서 제작하는 앱 플랫폼이에요.
 

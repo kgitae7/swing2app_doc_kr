@@ -4,7 +4,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 # 대기화면 이미지 제작 가이드
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 대기화면 이미지란?
 
@@ -34,7 +34,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **2. 대기화면 가이드라인**
 
@@ -50,8 +50,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 즉 전체 이미지는 배경이미지로 지정해놓고, 중요 이미지는 화면 가운데로 배치해놓아야 합니다.
 
-그래야만 핸드폰 기종에 따라서도 잘리거나 찌그러지지 않고 정상적으로 보일 수 있습니다.\
-
+그래야만 핸드폰 기종에 따라서도 잘리거나 찌그러지지 않고 정상적으로 보일 수 있습니다.<br>
 
 <mark style="color:blue;">**+대기화면 이미지 예시**</mark>
 
@@ -65,7 +64,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 **아래 내용을 통해서 제작 가이드 방법을 확인해주세요.**
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **3. 제작방법1–포토샵 실행**&#x20;
 
@@ -109,7 +108,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 이미지에서 보듯이 이렇게 영역 안으로 깔끔하게 넣어주시면 됩니다. &#x20;
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **4. 제작방법2-배경색 삭제하기**
 
@@ -119,7 +118,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 **\*배경색을 아예 없애면 투명하게 지정이 되니깐요. 흰색이나 사용자가 원하는 다른 색상으로 꼭!! 넣어주세요.**
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **5. 제작방법3-배경 이미지 업그레이드하기**
 
@@ -151,7 +150,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 4\. 만든 후 사각형 영역은 삭제해주시면 됩니다.&#x20;
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **6. 앱에 대기화면 이미지 등록하기**&#x20;
 
@@ -159,7 +158,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 <mark style="color:orange;">**앱제작 V3버전)**</mark>
 
-<figure><img src="../../../.gitbook/assets/가이드2-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/가이드2-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 앱제작 → STEP1 기본정보 → 대기화면 업로드를 마우스로 클릭하면 이미지 첨부 창이 뜹니다.
 
@@ -167,7 +166,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **7. 앱 실행) 핸드폰에서 대기화면 이미지 확인하기**
 
@@ -181,13 +180,13 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 이러한 방법으로 대기화면 이미지를 제작해주세요.
 
-![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **8. 대기화면 잘못된 예시**
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시1**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/91d217c38ad4ecd313e29f23ff870d61.png)
 
@@ -203,7 +202,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**대기화면 이미지 잘못된 예시2**</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1be27db8531d4701dae081e6279e74fa.png)
 
@@ -221,8 +220,7 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 이미지 글자가 잘려서 보이고 일그러지면서 해상도도 엄청깨집니&#xB2E4;**.**
 
-따라서 대기화면 이미지는 꼭!! 가이드라인을 따라서 만들어주세요!!\
-
+따라서 대기화면 이미지는 꼭!! 가이드라인을 따라서 만들어주세요!!<br>
 
 {% hint style="success" %}
 <mark style="color:green;">**잊지 말아야 할 점**</mark>

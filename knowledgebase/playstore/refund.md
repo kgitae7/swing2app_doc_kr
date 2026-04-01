@@ -8,7 +8,7 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 
 
 
-﻿구글 플레이 개발자 계정 비용 환불이 필요하다면, 아래 구글 콘솔 고객센터로 접속하여 양식 기재 후 신청할 수 있습니다.
+﻿구글 플레이 개발자 계정 비용 환불이 필요하다면, 아래 구글 콘솔 고객센터로 접속하여 지원팀 티켓입력하여신청할 수 있습니다.
 
 현재 한국어, 영어, 중국어, 일본어로 작성된 이메일에만 응답 가능합니다.
 
@@ -19,15 +19,15 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 {% hint style="warning" %}
 **환불 주의사항**
 
-1.계정 환불은 계정 내에 등록된 앱이 없는 경우 신청할 수 있습니다.&#x20;
+1.계정 환불은 **계정 내에 등록된 앱이 없는 경우 신청할 수 있습니다.**&#x20;
 
-이미 앱이 출시되었거나, 심사 거절, 사용중지 이력이 있는경우는  환불 신청이불가합니다. &#x20;
+<mark style="color:$warning;">**이미 앱이 출시되었거나, 심사 거절, 사용중지 이력이 있는경우는  환불 신청이불가합니다.**</mark> &#x20;
 
-2.계정 인증은 완료되어 있어야 합니다.&#x20;
+2.**계정 인증은 완료되어 있어야 합니다.**&#x20;
 
 개인 개발자 계정은 본인 신원 확인 인증 완료가 되어 있어야 하며, 조직 개발자 계정은 조직 인증 및 웹사이트 인증 모두 완료되어 있어야 합니다.
 
-3.계정이 해지되었을 경우 환불 신청이 불가합니다.&#x20;
+3.**계정이 해지되었을 경우 환불 신청이 불가합니다.**&#x20;
 
 정상 상태에서만 신청 가능합니다.&#x20;
 {% endhint %}
@@ -38,101 +38,57 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 
 
 
-#### [계정 환불 고객센터 바로가기](refund.md#undefined)
+## 1.도움말 - 지원팀 티켓 만들기
 
-#### [https://support.google.com/googleplay/android-developer/contact/dev\_registration?extra.IssueType=cancel\&sjid=14379898998631747419-AP](https://support.google.com/googleplay/android-developer/contact/dev_registration?extra.IssueType=cancel\&sjid=14379898998631747419-AP)
 
-## 1.양식 작성하기
 
-<figure><img src="../../.gitbook/assets/환불1.png" alt=""><figcaption></figcaption></figure>
+1.구글 플레이 콘솔 접속(개발자 계정 로그인) [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-1\)이름, 2)성, 3)이메일주소는
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-계정으로 로그인시 자동으로 입력되어 보여지니 따로 입력할 필요 없습니다.
+대시보드 왼쪽 메뉴 "도움말" 선택
 
-4\)내 위치 : 대한민국 선택
 
-5\)개발자 이름
 
-<mark style="color:orange;">\*개발자 이름은 플레이콘솔 메인 홈 화면에서 확인 가능합니다.</mark>
+2.**\[+지원 티켓 만들기]** 선택
 
-6\)개발자 계정 ID
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FeG4uwcrJYa2iXjwuJSGx%252F%25EA%25B5%25AC%25EA%25B8%2580%25EB%258F%2584%25EC%259B%2580%25EB%25A7%25902.png%3Falt%3Dmedia%26token%3Decf6bf07-a979-4f91-9b92-009bfe1a69e3&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=2e044cd0&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">\*계정 ID 역시 플레이콘솔 메인 홈 화면에서 확인 가능합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/환불4.png" alt=""><figcaption><p>플레이콘솔 -홈화면에서 개발자이름, 개발자 계정ID 확인 가능</p></figcaption></figure>
 
-﻿﻿
+3.새 지원 티켓 화면에서 주제를 선택해서 내용을 제출합니다.
 
-<figure><img src="../../.gitbook/assets/환불2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/환불 1.png" alt=""><figcaption></figcaption></figure>
 
-7\)어플리케이션 패키지 이름
+**1)주제 선택: '개발자 계정 및 인증' 선택**
 
-<mark style="color:orange;">\*패키지 이름(아이디)는 제작된 앱에 등록된 아이디이며, 앱 등록을 하면 홈화면에서 앱 이름 밑에 확인이 가능합니다.</mark>
+**2)설명 항목: '개발자 확인' 선택**
 
-<mark style="color:orange;">아직 앱 등록을 하지 않았다면, 스윙투앱 사용자분들은 아래 첨부된 이미지를 통해서 확인 가능합니다.</mark>
+**3)문제 선택: '기타' 선택**
 
-8\)개발자 계정 등록에 사용된 거래 ID 입력
+<figure><img src="../../.gitbook/assets/환불 2.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">\*거래 ID는 거래내역 화면에서 확인 가능합니다. 혹은 결제 후 받은 영수증 메일을 보시면 확인 가능합니다.</mark>
+**4)문제 설명: 개발자 계정 환불 요청한다는 내용으로 입력해주세요.**
 
-<mark style="color:orange;">\* 아래 첨부된 이미지를 확인해주세요.</mark>
+**5)대시보드 화면 등을 캡처하여 이미지 등록해주세요.**&#x20;
 
-9\)항목 선택 "계정을 취소하고 환불받고 싶음" 을 선택해주세요.
+**6)제출 버튼 선택**
 
-10\)무엇을 도와드릴까요? 입력 항목에 자세한 설명을 기재해주세요.
 
-어떤 이유로 환불을 요청하는지 내용을 기재합니다.
 
-11\)제출 버튼 선택하면 완료됩니다.
+***
+
+## 2.구글정책팀이메일 답신&#x20;
+
+<div align="left"><figure><img src="../../.gitbook/assets/환불 3.png" alt=""><figcaption></figcaption></figure></div>
+
+제출된 티켓 접수가 완료 되었다는 메일을 받게 됩니다.
 
 ***
 
 
 
-## 2.경로 안내 - 첨부 이미지
-
-
-
-**7)어플리케이션 패키지 이름 확인 하는 방법**
-
-<figure><img src="../../.gitbook/assets/환불5.png" alt=""><figcaption></figcaption></figure>
-
-﻿[앱운영-서비스관리-앱 운영관리-앱 고급관리](https://www.swing2app.co.kr/view/app_advanced_management_by_android)로 이동합니다.
-
-안드로이드 화면에서 '패키지 아이디' 항목 탭을 복사해서, 붙여넣기 해주세요.
-
-그럼에도, 확인이 어렵다면 스윙투앱 고객센터로 문의주세요.
-
-앱 이름 알려주시면 고객센터에서 즉시 확인해드리겠습니다.
-
-
-
-**8)거래 ID 확인 하는 방법**
-
-<div align="left"><figure><img src="../../.gitbook/assets/거래ID영수증.PNG" alt=""><figcaption></figcaption></figure></div>
-
-구글 개발자 계정 로그인 후 - 받으신 메일함에 보시면 구매 영수증을 확인할 수 있습니다.
-
-영수증에 구글 주문번호로 확인 가능합니다
-
-<mark style="color:blue;">메일 제목 "Google: 감사합니다"</mark> 확인해주세요.
-
-***
-
-
-
-## 3.이메일 전송 완료&#x20;
-
-<div align="left"><figure><img src="../../.gitbook/assets/환불6.png" alt=""><figcaption></figcaption></figure></div>
-
-환불 접수 완료
-
-***
-
-
-
-## 4.환불 완료
+## 3.환불 완료
 
 <div align="left"><figure><img src="../../.gitbook/assets/환불8.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -152,7 +108,7 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 
 그리고 이렇게 취소된 계정은 환불만 된게 아니라, 해지가 됩니다. 따라서 다시 이용이 불가한 점 유념해주세요.
 
-즉, 환불이 완료된 계정 :메일주소로 다시 구글 개발자 계정을 생성할 수 없습니다.
+즉, <mark style="color:$danger;">**환불이 완료된 계정 :메일주소로 다시 구글 개발자 계정을 생성할 수 없습니다.**</mark>
 
 ﻿
 

@@ -4,9 +4,9 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 # 모바일웹 업로드 신청방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**모바일 웹 등록이란?**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line">**모바일 웹 등록이란?**
 
 모바일 웹 등록은 웹사이트가 없는 분들은 유용하게 사용할 수 있는데요.
 
@@ -18,7 +18,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 ***
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**모바일 웹등록 이용(신청)방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line">**모바일 웹등록 이용(신청)방법**
 
 앱 제작 완료
 
@@ -26,7 +26,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 → 스윙 유료앱 이용권 결제(확장형 or 프리미엄 상품), 모바일 웹등록 티켓 결제 (20,000원)&#x20;
 
-→ [앱운영-버전관리-앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history) 페이지에서 \[모바일 웹업로드 신청] 버튼 선택하여 신청서 작성
+→ [앱운영-버전관리-앱제작이력](http://www.swing2app.co.kr/view/app_work_history) 페이지에서 \[모바일 웹업로드 신청] 버튼 선택하여 신청서 작성
 
 → 신청 후 약 2일 후 모바일 웹사이트 출시
 
@@ -36,7 +36,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 **스윙투앱 확장형 or 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 1. 모바일 웹 업로드 티켓 구매하기
 
@@ -46,7 +46,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 
 
-1\)[앱운영-결제/이용권 구매-유료앱 이용권 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_use\_term) 에서 스윙 확장형 유료앱 이용권 혹은 프리미엄 이용권을 구매해주세요.
+1\)[앱운영-결제/이용권 구매-유료앱 이용권 구매 페이지](http://www.swing2app.co.kr/view/new_product_list_by_use_term) 에서 스윙 확장형 유료앱 이용권 혹은 프리미엄 이용권을 구매해주세요.
 
 확장형, 프리미엄 유료앱이용권을 결제한 유료버전앱에서만 모바일웹등록을 신청할 수 있습니다.&#x20;
 
@@ -56,11 +56,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 \*이용권구매 페이지 - 옵션 선택에서 "모바일 웹 등록 티켓" 선택시 이용권과 함께 구매할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/모바일웹2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/모바일웹2.png" alt=""><figcaption></figcaption></figure></div>
 
 3\)프리미엄 이용권은 모바일웹 등록 티켓 무제한 제공되기 때문에 모바일웹 등록 티켓을 따로 구매하지 않아도 됩니다.&#x20;
 
@@ -72,13 +68,13 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 1년치를 결제했다면, 모바일 웹사이트도 1년간 이용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 2. 모바일 웹 등록 신청하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EC%8B%A0%EA%B7%9C1.png)
 
-구매가 완료되면 [**버전관리 →앱 제작 이력**](https://www.swing2app.co.kr/view/app\_work\_history) **페이지로 이동합니다.**
+구매가 완료되면 [**버전관리 →앱 제작 이력**](https://www.swing2app.co.kr/view/app_work_history) **페이지로 이동합니다.**
 
 마켓등록의 **\[모바일 웹 업로드 신청]** 버튼을 선택해주세요.
 
@@ -88,11 +84,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 **모바일 웹 업로드 입력창이 뜨면 순서대로 해당 내용을 입력합니다.**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9-5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9-5.png" alt=""></div>
 
 1\) 웹 사이트 명: 웹사이트 이름을 기재합니다.
 
@@ -112,29 +104,21 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 
 **담당자 확인 후에 약 2일 정도 후에 등록된 웹사이트를 확인할 수 있습니다.**&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 3. 모바일 웹 등록 완료
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A92.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A92.png" alt=""></div>
 
 모바일 웹 등록이 완료되면 사용자 메일로 등록완료 메일이 발송됩니다.&#x20;
 
 \[모바일웹 등록 확인]을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 4. 모바일 웹 실행하기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/08/%EB%AC%B4%EB%A3%8C%EC%83%81%EC%9A%A93.png" alt=""></div>
 
 등록 완료된 모바일 웹사이트를 확인할 수 있습니다.
 
@@ -154,7 +138,7 @@ description: 업로드 신청 - 모바일 웹 등록 방법 매뉴얼
 4\. 모바일웹사이트가 필요한데 제작비용이 부담스러울 경우 앱과 함께 이용할 수 있어요!
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### 5. 모바일 웹 등록 주의사항
 

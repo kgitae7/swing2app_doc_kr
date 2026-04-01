@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <mark style="background-color:blue;">\*앱 제작일시 2024년 11월 25일 19시 이후 제작된 버전부터 사용가능</mark>
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption><p>스윙투앱 콘솔에서 지정한 그룹명을 입력</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption><p>스윙투앱 콘솔에서 지정한 그룹명을 입력</p></figcaption></figure>
 
 \*회원그룹명은 반드시 스윙투앱 콘솔에서 지정한 그룹명을 입력해야 합니다. 일치하는 그룹명이 없을경우 반영되지 않음.
 

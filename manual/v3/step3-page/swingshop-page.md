@@ -24,7 +24,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 **웹사이트를 연결한 웹뷰, 푸시앱은 이용 불가합니다.**&#x20;
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 <mark style="color:blue;">**Q. 쇼핑몰 기능 페이지는 어디서 확인하고, 어떻게 앱에 적용하나요?**</mark>
 
@@ -60,7 +60,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 아래 매뉴얼을 통해서 각 페이지별 앱 실행화면을 보여드릴게요 \~!!
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ## **1. 쇼핑몰 메인 페이지**
 
@@ -78,7 +78,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 
 
-#### <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**&#x20;
+#### <img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%87%BC%ED%95%91%EB%AA%B0-%EB%A9%94%EC%9D%B8.png)
 
@@ -240,7 +240,7 @@ description: 쇼핑몰 기능 페이지 소개 및 앱 적용방법 매뉴얼
 
 따라서 날짜 및 시간 예약상품을 등록하신 경우라면 두번째 페이지을 적용해주시면 됩니&#xB2E4;**.**
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 {% hint style="success" %}
 ### **스윙샵 (쇼핑몰) 기본 페이지 안내사항**

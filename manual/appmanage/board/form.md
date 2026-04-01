@@ -4,7 +4,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 # 게시판 작성폼 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**게시판 작성폼이란?**</mark>
 
@@ -40,7 +40,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 이미지 첨부 및 캘린더(날짜설정) 등을 활용할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 게시판 작성폼 설정하기
 
@@ -76,7 +76,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/write-bulletin-board" %}
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 양식 입력하기**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC5_20.03.png)
 
@@ -118,11 +118,11 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**게시판 작성폼 – 입력 방법을 확인해주세요.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_03_25_16_39_51_723.gif)
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**작성폼 입력 완료**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9E%91%EC%84%B1%ED%8F%BC6_20.03.png)
 
@@ -132,7 +132,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 앱에 게시판 적용하기
 
@@ -140,7 +140,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 <mark style="color:blue;">**앱제작 V3버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/게시판 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 STEP3 페이지 선택
 
@@ -186,7 +186,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 앱 실행화면: 작성폼 확인하기
 
@@ -214,7 +214,7 @@ description: 게시판 작성폼 사용방법 및 활용방법 안내
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**등록 완료된 게시판 작성폼 확인하기**</mark>
 
 글 등록이 완료된 후 게시판 작성폼을 확인해볼게요.
 

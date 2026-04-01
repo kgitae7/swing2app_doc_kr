@@ -42,8 +42,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%B1%EA%B3%B5%EA%B0%9C%EB%B2%94%EC%9C%84%EC%97%85%EB%8E%831.18.09.png)
 
-<mark style="color:orange;">**\* 앱공개범위 : 앱을 이용하기 위해 회원가입이 필수인지 아닌지 설정합니다.**</mark> \
-
+<mark style="color:orange;">**\* 앱공개범위 : 앱을 이용하기 위해 회원가입이 필수인지 아닌지 설정합니다.**</mark> <br>
 
 <mark style="color:orange;">**\*4가지 앱 공개 범위 내용을 알려드릴게요!**</mark>
 
@@ -135,8 +134,7 @@ description: 앱 정책관리 – 앱 가입 정책
 
 <mark style="color:red;">그대로 쓰셔도 되지만 해당 내용은 어떤 앱을 제공하는지 서비스마다 내용이 달라지기 때문에 사용자가 확인하여서  수정하여 사용해주세요</mark>
 
-해당 페이지에서 내용을 수정한 뒤  **\[정책 설정하기]** 버튼을 누르면 저장됩니다.\
-
+해당 페이지에서 내용을 수정한 뒤  **\[정책 설정하기]** 버튼을 누르면 저장됩니다.<br>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/23bc3a60807b68e59c616809338b1af5.png)
 

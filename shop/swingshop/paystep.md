@@ -8,7 +8,7 @@ description: 쇼핑몰 앱 상품 구매 결제 화면 - 페이앱 카드결제,
 
 스윙샵이 적용된 쇼핑몰앱에서 상품 구매시, 어떻게 결제가 진행되는지 상품 결제 화면을 확인해주세요.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 페이앱 결제모듈 – 카드 결제 화면**
 
@@ -20,7 +20,7 @@ description: 쇼핑몰 앱 상품 구매 결제 화면 - 페이앱 카드결제,
 
 따라서 결제시 원하는 결제 방식을 선택하여 상품을 구매할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 무통장입금 결제화면**
 

@@ -8,7 +8,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 
 
-### **앱 미리보기란?**
+## **0.앱 미리보기란?**
 
 스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.
 
@@ -36,23 +36,19 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
 
-## ​1. 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기 <a href="#1." id="1."></a>
+## 1. 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기 <a href="#id-1" id="id-1"></a>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04.png" alt="" width="100%"></div>
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요.
 
 \*스윙투앱 공식앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
 
-## ​**2. \[앱 미리보기] 로그인** <a href="#2." id="2."></a>
+## ​**2. \[앱 미리보기] 로그인** <a href="#id-2" id="id-2"></a>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1%EA%B3%B5%EC%8B%9D%EC%95%B11-1.png)
 
@@ -70,23 +66,15 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or QR코드로 미리보기 기능으로 이용해주세요.
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
 
-## ​**3. \[앱 미리보기] 앱 목록확인** <a href="#3." id="3."></a>
+## ​**3. \[앱 미리보기] 앱 목록확인** <a href="#id-3" id="id-3"></a>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt=""></div>
 
 아이폰은 \[미리보기] 버튼을 눌러서 확인이 가능합니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="" width="100%"></div>
 
 안드로이드폰에서는 \[앱 미리보기], \[앱 다운로드] 모두 가능하구요.
 
@@ -98,29 +86,21 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
 
-## ​**4. 앱 실행)안드로이드, 아이폰 앱 미리보기** <a href="#4." id="4."></a>
+## ​**4. 앱 실행)안드로이드, 아이폰 앱 미리보기** <a href="#id-4" id="id-4"></a>
 
 ​
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> **안드로이드폰-\[앱미리보기] 실행**
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="line"> **안드로이드폰-\[앱미리보기] 실행**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_07_08_14_33_38_528.gif" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_07_08_14_33_38_528.gif" alt="" width="100%"></div>
 
 안드로이드폰에서는 \[앱 다운로드] 버튼을 통해서 제작한 앱을 직접 핸드폰으로 다운받아 설치할 수 있어요!
 
 **안드로이폰에서는 스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱 다운로드로만 설치가 가능합니다.**
 
-<div align="left">
-
-<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FdtBuDsA4wnfhvqyBRwih%2F%EC%88%98%EC%A0%95_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.gif?alt=media&#x26;token=d51b828a-7305-4177-900d-4aa1ddce603e" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FdtBuDsA4wnfhvqyBRwih%2F%EC%88%98%EC%A0%95_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.gif?alt=media&#x26;token=d51b828a-7305-4177-900d-4aa1ddce603e" alt="" width="100%"></div>
 
 아이폰은 앱 다운이 안되기 때문에 \[미리보기] 버튼을 통해서 제작한 앱을 미리보기로 확인 할 수 있습니다.
 
@@ -130,15 +110,11 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **따라서 앱 설치가 제대로 안된다면 아래 매뉴얼을 확인하여 보안 설정을 풀어주시기 바랍니다.**
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
 
-## ​5. 앱미리보기에서 제공되는 기능 <a href="#5." id="5."></a>
+## **5. 부관리자 로그인** <a href="#id-5" id="id-5"></a>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="" width="100%"></div>
 
 앱 미리보기 에서는 관리자 로그인 분만 아니라 앱 부관리자도 로그인하여 앱을 확인할 수 있습니다.
 
@@ -168,21 +144,13 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 회원조회 페이지에서는 앱에 가입된 회원목록을 확인할 수 있어요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EB%B3%80%EA%B2%BD.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EB%B3%80%EA%B2%BD.png" alt="" width="100%"></div>
 
 회원을 한 명 선택한 뒤 이름을 클릭하면, 위의 이미지처럼 회원정보 창이 뜹니다.
 
 1\)회원정보 창에서 **\[현재 그룹정보] 버튼을 누른 뒤 – ‘관리자’로 선택**합니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%954_19.09.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%84%A4%EC%A0%954_19.09.png" alt="" width="100%"></div>
 
 앞서 사용자였던 회원이 ‘관리자’로 변경이 됩니다.
 
@@ -190,70 +158,65 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 그리고 ‘부관리자’라는 명칭은 별도로 없으며 관리자로 통합되어 사용합니다.
 
-더욱 자세한 내용은 아래 링크 첨부해드리니 확인해주세요!
+![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
 
-![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+## **6. QR코드로 미리보기** <a href="#id-5" id="id-5"></a>
+
+
 
 스윙 앱미리보기는 관리자 로그인 외에, QR코드로 찍어서도 앱을 미리보기로 확인할 수 있어요
 
-\*주의) 웹뷰, 푸시로 제작한 앱은 QR코드 미리보기 지원이 되지 않습니다. 일반 프로토타입 앱제작시에만 이용 가능
+<mark style="color:red;">\*주의) 웹뷰, 푸시로 제작한 앱은 QR코드 미리보기 지원이 되지 않습니다. 일반 프로토타입 앱제작시에만 이용 가능</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/QR%EC%BD%94%EB%93%9C%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png" alt="" width="100%">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/QR%EC%BD%94%EB%93%9C%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png" alt="" width="100%"></div>
 
 앱미리보기 로그인화면에 QR코드로 미리보기 메뉴를 확인할 수 있어요.
 
 해당 메뉴는 관리자나 부관리자로 로그인하지 않아도, **앱 마다 제공되는 QR코드를 스캔하여 핸드폰에서 앱을 미리볼 수 있습니다.**
 
-**그럼.. 어디서 QR코드를 스캔할 수 있나요?**
+
+
+### **1)어디서 QR코드를 스캔할 수 있나요?**
 
 아래에서 QR코드를 스캔하는 방법을 알려드릴게요.
 
-​
+[앱운영-버전관리-앱제작이력](https://www.swing2app.co.kr/view/app_work_history) 페이지의 오른쪽 화면에서 **\[미리보기]** 메뉴를 확인할 수 있어요.
 
-<div align="left">
+<figure><img src="../.gitbook/assets/미리보기.png" alt=""><figcaption></figcaption></figure>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B01.png" alt="" width="100%">
-
-</div>
-
-앱제작이력 페이지 \[앱 미리보기]에서 **\[미리보기]** 메뉴를 확인할 수 있어요.
-
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
+<figure><img src="../.gitbook/assets/미리보기2.png" alt=""><figcaption></figcaption></figure>
 
 미리보기를 선택하면, 위의 이미지처럼 \[스윙미리보기] 팝업창이 뜹니다.
 
 그리고 팝업이미지에 QR코드가 함께 내장되어 보이구요.
 
-**이 QR코드 이미지가 앱을 실행하게 해줍니다.**
+<mark style="color:green;">**이 QR코드 이미지가 앱을 실행하게 해줍니다.**</mark>
 
-**각 앱마다 다른 QR코드가 뜨기 때문에 자신의 계정에 있는 다른 앱들도 동일하게 확인할 수 있어요.**
+<mark style="color:green;">**각 앱마다 다른 QR코드가 뜨기 때문에 자신의 계정에 있는 다른 앱들도 동일하게 확인할 수 있어요.**</mark>
 
 
 
-### <mark style="color:blue;">**QR 미리보기 이용방법 움짤 이미지로 확인하기**</mark>
+### <mark style="color:blue;">**2)QR 미리보기 - 움짤 이미지로 확인하기**</mark>
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_04_19_17_12_28_478.gif" alt="" width="100%"></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_04_19_17_12_28_478.gif" alt="" width="100%">
-
-</div>
-
+{% hint style="info" %}
 **스윙투앱 공식 앱 실행 → 앱 미리보기 선택 → \[QR코드로 미리보기] 버튼 선택 → 핸드폰을 해당 QR코드 이미지에 가져다 대면 제작한 앱이 핸드폰에서 미리보기로 실행됩니다.**
+{% endhint %}
 
-\*주의) 웹뷰, 푸시로 제작한 앱은 QR코드 미리보기 지원이 되지 않습니다. 일반 프로토타입 앱제작시에만 이용 가능
+{% hint style="danger" %}
+**\*주의**
 
-1\)아이폰은 앱 미리보기만 가능합니다. (안드로이드폰처럼 앱 다운은 이용할 수 없으며, 웹뷰/푸시로 제작한 앱은 아이폰에서는 확인 불가)
+1\)웹뷰, 푸시로 제작한 앱은 QR코드 미리보기 지원이 되지 않습니다. \*일반 프로토타입 앱제작시에만 이용 가능
 
-2\)스윙투앱 프로토타입-푸시, 웹뷰로 작업한 앱은 안드로이드폰에서는 앱 다운로드만 가능하며, 아이폰에서는 확인할 수 없습니다.
+웹뷰, 푸시앱은 스윙투앱 웹뷰 브라우저 어플을 이용해주세요.&#x20;
 
-3\)미리보기로 앱을 이용할 때는 푸시 알림, 공유기능 등이 적용되지 않습니다.
+2\)아이폰은 앱 미리보기만 가능합니다. (안드로이드폰처럼 앱 다운은 이용할 수 없으며, 웹뷰/푸시로 제작한 앱은 아이폰에서는 확인 불가)
 
-\-푸시 알림, 공유를 이용하셔야 한다면 앱 다운받기를 하여 앱을 설치한 뒤 이용해주세요 (아이폰은 지원 X)
+3\)스윙투앱 프로토타입-푸시, 웹뷰로 작업한 앱은 안드로이드폰에서는 앱 다운로드만 가능하며, 아이폰에서는 확인할 수 없습니다.
 
-4\)QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이 가능합니다. \*웹뷰, 푸시앱으로 제작한 앱은 이용 불가
+4\)미리보기로 앱을 이용할 때는 푸시 알림, 공유기능 등이 적용되지 않습니다.
+
+-푸시 알림, 공유를 이용하셔야 한다면 앱 다운받기를 하여 앱을 설치한 뒤 이용해주세요 (아이폰은 지원 X)
+{% endhint %}
+

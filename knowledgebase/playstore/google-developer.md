@@ -44,21 +44,28 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 <mark style="color:orange;">**구글 개발자 계정 등록 전 확인해주세요.**</mark>&#x20;
 
 1. Google Play 개발자 계정을 만들려면 만 18세 이상이어야 합니다.&#x20;
-2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다.                                                                              이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
-3. 본인 인증이 가능해야 합니다. 경우에 따라 구글에서 본인 법적 이름으로 발급된 유효한 국가 발급 신분증과 신용카드가 모두 요구할 수 있습니다.
-4. 구글 개발자 등록비 25달러가 있습니다. 한 번만 청구되며, 아래 목록에 있는 신용 또는 체크카드로 결제 가능합니다. (카드로만 결제됩니다)
-5. 본인 인증이 되지 않거나, 잘못된 정보를 제공하는 경우 등록 수수료가 환불되지 않습니다.
-6. 아래 목록에 있는 신용카드 또는 체크카드로 결제할 수 있습니다.
+2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다.                                                                             &#x20;
+3. 이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
+4. 본인 인증이 가능해야 합니다. 경우에 따라 구글에서 본인 법적 이름으로 발급된 유효한 국가 발급 신분증과 신용카드가 모두 요구할 수 있습니다.
+5. 구글 개발자 등록비 25달러가 있습니다. 한 번만 청구되며, 아래 목록에 있는 신용 또는 체크카드로 결제 가능합니다. (카드로만 결제됩니다)
+6. 본인 인증이 되지 않거나, 잘못된 정보를 제공하는 경우 등록 수수료가 환불되지 않습니다.
+7. 해외결제 가능한 신용카드 또는 체크카드로만 결제할 수 있습니다.
+{% endhint %}
 
+{% hint style="danger" %}
+#### <mark style="color:$danger;">**안내사항**</mark>
 
+구글 개인 개발자 계정으로 앱을 등록할 경우, 정책에 따라 **비공개 테스트 진행이 필수**입니다.
 
-* Mastercard
-* Visa
-* American Express
-* Discover(미국만 해당)
-* Visa Electron(미국 이외의 지역만 해당)
+최소 12명의 테스터가 14일(2주) 동안 테스트를 완료해야 하며, 이후 구글 승인 후 프로덕션(정식) 출시가 가능합니다.
 
-&#x20;**참고**: 선불카드는 사용할 수 없습니다. 사용할 수 있는 카드 유형은 지역에 따라 다를 수 있음.
+전체 과정은 약 20\~30일 정도 소요될 수 있습니다.
+
+또한, 비공개 테스트는 **앱마다 개별적으로 진행해야 하므로**, 여러 개의 앱을 등록할 경우 동일한 테스트를 반복 진행해야 합니다.(ex.10개 앱 출시한다면, 비공개 테스트 10번 진행해야 함)
+
+따라서 개인 개발자 계정으로 만드는 분들은 앱 **비공개 테스트를 해야 한다는 내용을 꼭 기억해주세요.**
+
+사업자가 있으신 경우, **비공개 테스트 없이 즉시 출시가 가능한 ‘조직 개발자 계정’ 사용을 권장드립니다.**&#x20;
 {% endhint %}
 
 
@@ -71,7 +78,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line"> **STEP1. 사용중인 구글 계정으로 만들기**&#x20;
 
@@ -265,7 +272,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 ​
 
-### <mark style="color:blue;">**9.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+### <mark style="color:blue;">**9.구글 개발자 계정 생성**</mark>
 
 <div align="left"><figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure></div>
 
@@ -273,33 +280,65 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 &#x20;<mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
 
-콘솔에서 본인 인증이 필요한 경우가 있습니다.&#x20;
-
-콘솔로 이동하여 ‘본인 인증’ 메시지가 표시된다면 본인인증을 선택해서 작업을 완료해주세요.&#x20;
-
-바로 콘솔 이용이 가능하면, 본인 인증을 할 필요 없습니다.&#x20;
-
-{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/verify-identity" %}
-
-위의 매뉴얼을 확인하여, 본인 인증까지 완료해주세요.&#x20;
 
 
+### <mark style="color:blue;">**10.본인 인증 확인**</mark>&#x20;
 
-### <mark style="color:blue;">**10.완료 - 구글 플레이 콘솔 접속**</mark>&#x20;
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80new3.png)
+**구글 플레이 콘솔 접속**
 
 계정 등록이 완료되면, 실제로 앱을 등록할 수 있는 구글 플레이 콘솔 페이지가 열립니다.
 
-<mark style="color:blue;">**\[앱 만들기]**</mark> 파란색 버튼을 선택해서 앱을 플레이스토어에 출시할 수 있어요.
+그런데! 등록이 완료되었다고 바로 콘솔에서 앱을 등록할 수 있는 것이 아닙니다
+
+계정 설정을 완료해주셔야 합니다.
+
+<figure><img src="../../.gitbook/assets/개인계정6.png" alt=""><figcaption></figcaption></figure>
+
+계정 등록이 완료되어야, 실제로 앱을 등록할 수 있습니다.&#x20;
+
+본인 확인, 휴대전화 액세스 인증, 전화번호 인증까지3가지를 모두 완료해주세요.
+
+{% hint style="success" %}
+#### **계정 인증하기**
+
+#### **1)본인 확인**
+
+개인 신원을 확인하기 위해 계정 소유자의 이름, 주민번호 입력, 주소지를 입력합니다.
+
+핸드폰번호 인증번호를 받고, 이름과 주소지를 증빙할 서류를 제출합니다.
 
 
+
+#### **2)Android 휴대기기에 액세스할 수 있는지 확인**
+
+안드로이드폰에서 계정 로그인이 가능한지를 확인하는 것입니다.
+
+따라서 구글 개발자 계정을 만들 때는 안드로이드 기기가 있어야 합니다.
+
+기기에서 구글 개발자 계정을 로그인 한 뒤, 구글 플레이 콘솔 어플에서 접속을 하여 인증을 합니다.
+
+\*만약 본인의 안드로이드 기기가 없다면 주변 지인의 휴대기기를 이용해서 계정에 로그인하여 인증할 수 있습니다.
+
+#### &#x20;**3)연락처 전화번호 인증**
+
+계정 소유자의 핸드폰 번호 인증 입니다.&#x20;
+
+pass인증처럼 신원확인을 위해 이름, 주민번호, 핸드폰번호를 차례로 입력 후 인증번호만 받아서 입력하면  완료됩니다.&#x20;
+{% endhint %}
+
+
+
+👉계정 인증을 하는 방법은 아래 가이드로 확인해주세요.
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/identity" %}
+
+계정 인증까지 완료해야, 최종적으로 계정 등록이 완료됩니다!
 
 **플레이스토어 앱 출시방법은 스윙투앱 – 플레이스토어 앱 등록 출시하기 매뉴얼을 확인해주세요\~!**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [**플레이스토어 앱등록 출시방법 보러가기**](playstore-apprelease.md)
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease" %}
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">**STEP2. 구글 계정 새로 만들어서 등록하기**&#x20;
 
@@ -559,7 +598,7 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 
 
-### <mark style="color:blue;">**10.구글 개발자 계정 등록 완료-본인 인증 확인**</mark>&#x20;
+### <mark style="color:blue;">**10.구글 개발자 계정 생성**</mark>
 
 <div align="left"><figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure></div>
 
@@ -567,48 +606,36 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 &#x20;<mark style="color:blue;">**\[Play Console로 이동]**</mark> 버튼을 선택해주세요.
 
-콘솔에서 본인 인증이 필요한 경우가 있습니다.&#x20;
-
-콘솔로 이동하여 ‘본인 인증’ 메시지가 표시된다면 본인인증을 선택해서 작업을 완료해주세요.&#x20;
-
-바로 콘솔 이용이 가능하면, 본인 인증을 할 필요 없습니다.&#x20;
-
-{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/verify-identity" %}
-
-위의 매뉴얼을 확인하여, 본인 인증까지 완료해주세요
 
 
+### <mark style="color:blue;">**11.본인 인증 확인**</mark>
 
-### <mark style="color:blue;">**11.구글 플레이 콘솔 접속**</mark>
-
-<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
+**구글 플레이 콘솔 접속**
 
 계정 등록이 완료되면, 실제로 앱을 등록할 수 있는 구글 플레이 콘솔 페이지가 열립니다.
 
-그런데! 등록이 완료되었다고 바로 콘솔에서 앱을 등록할 수 있는 것이 아닙니다.
+그런데! 등록이 완료되었다고 바로 콘솔에서 앱을 등록할 수 있는 것이 아닙니다
 
-계정 설정을 완료해주셔야 합니다.&#x20;
+계정 설정을 완료해주셔야 합니다.
 
+<figure><img src="../../.gitbook/assets/개인계정6.png" alt=""><figcaption></figcaption></figure>
 
+계정등록이 완료되어야, 실제로 앱을 등록할 수 있습니다.&#x20;
 
-***
-
-
-
-## STEP3.구글 개발자 개인 계정 설정 완료하기
-
-<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
-
-개발자 계정 가입이 완료되면 대시보드 상단에 위와 같은 메시지를 확인할 수 있습니다.
+본인 확인, 휴대전화 액세스 인증, 전화번호 인증까지3가지를 모두 완료해주세요.
 
 {% hint style="success" %}
-**1)본인 확인**
+#### **계정 인증하기**
+
+#### **1)본인 확인**
 
 개인 신원을 확인하기 위해 계정 소유자의 이름, 주민번호 입력, 주소지를 입력합니다.
 
 핸드폰번호 인증번호를 받고, 이름과 주소지를 증빙할 서류를 제출합니다.
 
-**2)Android 휴대기기에 액세스할 수 있는지 확인**
+
+
+#### **2)Android 휴대기기에 액세스할 수 있는지 확인**
 
 안드로이드폰에서 계정 로그인이 가능한지를 확인하는 것입니다.
 
@@ -617,24 +644,26 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 기기에서 구글 개발자 계정을 로그인 한 뒤, 구글 플레이 콘솔 어플에서 접속을 하여 인증을 합니다.
 
 \*만약 본인의 안드로이드 기기가 없다면 주변 지인의 휴대기기를 이용해서 계정에 로그인하여 인증할 수 있습니다.
+
+#### &#x20;**3)연락처 전화번호 인증**
+
+계정 소유자의 핸드폰 번호 인증 입니다.&#x20;
+
+pass인증처럼 신원확인을 위해 이름, 주민번호, 핸드폰번호를 차례로 입력 후 인증번호만 받아서 입력하면  완료됩니다.&#x20;
 {% endhint %}
 
-
-
-계정 인증을 하는 방법은 아래 가이드로 확인해주세요.&#x20;
+👉계정 인증을 하는 방법은 아래 가이드로 확인해주세요.
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/identity" %}
 
 계정 인증까지 완료해야, 최종적으로 계정 등록이 완료됩니다!
 
-**플레이스토어 앱 출시방법은 스윙투앱 – 플레이스토어 앱 등록 출시하기 매뉴얼을 확인해주세요\~!**
 
-{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease" %}
 
 ***
 
 {% hint style="danger" %}
-<mark style="color:red;">**중요 안내**</mark>
+#### <mark style="color:red;">**중요 안내**</mark>
 
 1\)플레이스토어 앱 등록 및 출시를 위해서는 사용자분의 구글 개발자 계정이 반드시 있어야 하며, 선택이 아닌 필수입니다.
 
@@ -642,20 +671,22 @@ description: 플레이스토어 앱 등록을 위한 구글 개발자 계정 등
 
 3\)구글개발자 등록비는 스윙투앱 서비스와는 관련이 없습니다. (스윙투앱 서비스와는 관계없으며, 환불 등의 내용은 모두 구글 고객센터로 문의주시기 바랍니다.)
 
-4\)구글 개발자 '개인' 계정은 스윙투앱에서 만들어드리지 않습니다. (개인 정보 입력 및 본인인증이 필요하기 때문에 만들어드리지 못합니다)&#x20;
+4\)구글 개발자 '개인' 계정은 스윙투앱에서 만들어드리지 않습니다.&#x20;
+
+(개인 정보 입력 및 본인인증이 필요하기 때문에 만들어드리지 못합니다)&#x20;
 
 5\)스윙투앱으로 제작한 앱을 플레이스토어 출시하고자 할 때는 유료버전앱만 출시 가능합니다.
 
-무료버전 앱은 상용화가 불가한 버전으로, 스토어 출시를 하고자 할 때는 유료앱 이용권을 구매해주시기 바랍니다.&#x20;
+무료버전 앱은 상용화가 불가한 버전으로, 스토어 출시를 하고자 할 때는 유료앱 이용권과 플레이스토어업로드티켓 구매해주시기 바랍니다.&#x20;
 
-6\)스윙투앱에서 제작한 앱을 플레이스토어 등록시, 직접 하는 것이 어렵다면 업로드 대행도 가능합니다.
+6\) 만든 개발자 계정에는 제한없이 앱 등록이 가능합니다.
 
-관련 내용은 플레이스토어 업로드 신청방법 매뉴얼을 확인해주세요.&#x20;
+단, 정책 위반시 앱 삭제 및 개발자 계정이 삭제될 수 있으므로 구글 플레이 정책 내용은 반드시 확인해주시기 바랍니다.
 
-[**플레이스토어 업로드 신청방법 보러가기**](https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload)
+7\)구글 개인 개발 자계정은 비공개 테스트를 진행해야합니다. \*12명의 테스터가 2주간 앱테스트 진행       &#x20;
 
-7\) 만든 개발자 계정에는 제한없이 앱 등록이 가능합니다.
+🔗[비공개 테스트 진행방법](https://documentation.swing2app.co.kr/knowledgebase/playstore/test/testing)&#x20;
 
-단, 정책 위반시 앱 삭제 및 개발자 계정이 삭제될 수 있으므로 구글 플레이 정책 내용은 반드시 확인해주시기 바랍니다.&#x20;
+
 {% endhint %}
 

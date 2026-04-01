@@ -4,7 +4,7 @@ description: '게시물 링크 생성: 링크마법사에서 게시물 링크를
 
 # 게시물 링크 생성하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 게시물관리에서 링크 생성하기&#x20;
 
@@ -40,7 +40,7 @@ description: '게시물 링크 생성: 링크마법사에서 게시물 링크를
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 어떻게 활용할 수 있나요?
 
@@ -100,11 +100,7 @@ description: '게시물 링크 생성: 링크마법사에서 게시물 링크를
 
 ### <mark style="color:blue;">**3)앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%85%B9%ED%99%94_2021_04_29_15_50_23_219.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EB%85%B9%ED%99%94_2021_04_29_15_50_23_219.gif" alt=""></div>
 
 메뉴 선택시 해당 게시물 페이지로 바로 이동하는 것을 확인할 수 있습니다.&#x20;
 

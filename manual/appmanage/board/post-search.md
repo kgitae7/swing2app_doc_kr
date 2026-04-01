@@ -4,7 +4,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 # 게시물 검색 기능
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 게시물 통합 검색은 앱에 적용해놓은 게시판의  모든 게시물의 검색하여 찾아주는 기능입니다.
 
@@ -38,7 +38,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 <mark style="color:red;">전체 글에서 검색어를 찾아주는 기능은 아래 방법으로 확인해주세요!</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;2. 전체 게시판 게시물 검색
 
@@ -52,7 +52,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 **​**
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 검색은 앱에 어떻게 적용하나요?**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**게시물 검색은 앱에 어떻게 적용하나요?**</mark>
 
 **-앱제작 V3 버전 이용시**
 
@@ -100,7 +100,7 @@ description: 게시판 - 게시물 통합 검색 이용방법 (모든 게시물 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**앱 실행화면: 움짤 이미지로 게시물 검색을 확인해주세요.**</mark>
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_29_16_53_54_855.gif" alt=""></div>
 

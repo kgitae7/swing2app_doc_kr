@@ -181,8 +181,7 @@
 스토어에 올린 – 앱 설명, 스크린샷 이미지, 카테고리 등을 변경 하면 상단에 \[업데이트 제출] 버튼이 활성화 됩니다.
 
 aab파일 업로드와는 다르게 스토어 정를 수정한 경우 해당 버튼을 눌러야만 업데이트가 처리됩니다.\
-&#xNAN;**☞** [**플레이스토어 업데이트 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)\
-
+&#xNAN;**☞** [**플레이스토어 업데이트 매뉴얼**](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)<br>
 
 </details>
 

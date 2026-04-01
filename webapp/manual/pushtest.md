@@ -4,7 +4,7 @@ description: 테스트 푸시 발송, 테스트 기기 등록 방법
 
 # 푸시 테스트 발송 - 푸시 장치 관리
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) 푸시 장치 관리 기능이란?
 
@@ -31,13 +31,13 @@ description: 테스트 푸시 발송, 테스트 기기 등록 방법
 * [x] 해당 기능은 2020년 3월 업데이트 된 기능입니다. 2020년 3월 이전에 제작한 앱은 새로 업데이트 하신 뒤 이용해주시기 바랍니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP1. 푸시 장치 관리 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/03/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98%EA%B4%80%EB%A6%AC2.png)
 
-[앱운영 → 푸시&회원 → \[푸시 장치 관리\]](http://www.swing2app.co.kr/view/push\_device\_management)로 이동합니다.
+[앱운영 → 푸시&회원 → \[푸시 장치 관리\]](http://www.swing2app.co.kr/view/push_device_management)로 이동합니다.
 
 
 
@@ -55,25 +55,23 @@ description: 테스트 푸시 발송, 테스트 기기 등록 방법
 
 
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/info (2).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/info (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<mark style="color:blue;">**안드로이드폰에서 device\_token은 어떻게 확인할 수 있나요?**</mark>
+<mark style="color:blue;">**device\_token은 어떻게 확인할 수 있나요?**</mark>
 
 <figure><img src="../../.gitbook/assets/푸시앱-토큰.png" alt=""><figcaption></figcaption></figure>
 
 핸드폰에서 앱을 실행한 뒤 푸시 툴바에서 설정 버튼을 터치해주세요.
 
-설정 페이지에서 - **‘앱 정보’** 단어를 3번 터치해주세요.
+<mark style="color:orange;">\*안드로이드:  설정 화면에서 -</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**"앱 정보"**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">단어를 3번 터치해주세요.</mark>&#x20;
+
+<mark style="color:orange;">\*아이폰: 설정 화면에서 -</mark><mark style="color:orange;">**"Ver"**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">단어를 3\~4번 터치해주세요.</mark>
 
 해당 핸드폰의  **device\_token** 팝업이창 뜹니다. **token 정보를 확인할 수 있습니다.**&#x20;
 
 푸시 장치 관리에서 해당 디바이스 정보와 동일한 기기를 확인하여 테스트로 등록할 수 있습니다.
 
-\*안드로이드폰에서만 확인 가능합니다.&#x20;
+\*안드로이드폰, 아이폰에서 모두 확인 가능합니다.&#x20;
 
 
 
@@ -81,11 +79,7 @@ description: 테스트 푸시 발송, 테스트 기기 등록 방법
 
 <mark style="color:blue;">**\[움짤 이미지로 확인하기]**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/녹화_2023_01_13_15_36_23_106.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/녹화_2023_01_13_15_36_23_106.gif" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -109,9 +103,7 @@ description: 테스트 푸시 발송, 테스트 기기 등록 방법
 
 푸시 장치 관리에서 해당 디바이스 정보와 동일한 기기를 확인하여 테스트로 등록할 수 있습니다.
 
-
-
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) STEP2. 테스트 푸시 발송하기
 
@@ -129,13 +121,11 @@ description: 테스트 푸시 발송, 테스트 기기 등록 방법
 
 내용 입력해서 푸시발송하기 선택해주세요.
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ​푸시 장치 관리는 푸시버전앱에서 유용하게 사용할 수 있는 기능입니다.
 
 푸시앱에서, 푸시 알림이 잘 들어오는지 테스트가 필요할 때 앱 운영자 기기를 테스트로 등록한 뒤 푸시 발송 테스트를 해볼 수 있습니다.&#x20;
 
-**푸시장치 관리는 안드로드이폰에서만 푸시 테스트가 가능합니다. (아이폰 이용 불가)**
-
-
+**푸시장치 관리는 안드로드이폰,아이폰 모두 테스트 기기 등록 가능합니다.**&#x20;
 

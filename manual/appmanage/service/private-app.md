@@ -4,7 +4,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 # 비공개 앱만들기
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">비공개 앱 2가지 종류
 
@@ -32,7 +32,7 @@ description: 비공개 앱 2가지 스타일 제작방법 매뉴얼
 
 매뉴얼을 통해서 각각의 비공개 앱 설정이 어떻게 다른지 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png" alt="" data-size="line">&#x20;**&#x20;STEP1.비공개 회원가입시 관리자 승인 후 이용**
 

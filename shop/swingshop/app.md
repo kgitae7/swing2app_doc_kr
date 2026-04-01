@@ -10,7 +10,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 스윙샵 이용시 기본으 제공되는 쇼핑몰 페이지로 적용 하셔도 되고, 사용자 페이지를 이용해서 다양한 방법으로 응용하실 수 있습니다.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**1. 쇼핑몰 메인 페이지 적용**
 
@@ -18,11 +18,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 쇼핑몰 메인 페이지 스타일과, 앱 홈화면에 적용하는 방법을 알려드릴게요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B42.png" alt=""></div>
 
 쇼핑몰 메인 페이지를 적용한 스윙샵 앱 메인 홈화면입니다.
 
@@ -34,7 +30,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**쇼핑몰 메인 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image (48).png" alt="" data-size="line">**쇼핑몰 메인 페이지 – 앱 홈화면에 적용하는 방법**
 
 <figure><img src="../../.gitbook/assets/쇼핑몰메인1.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +50,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 쇼핑몰 정보 페이지 적용**
 
@@ -62,11 +58,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 쇼핑몰 정보 페이지 스타일과, 앱 홈화면에 적용하는 방법을 알려드릴게요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B44.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B44.png" alt=""></div>
 
 쇼핑몰 정보 페이지를 적용한 스윙샵 앱 메인 홈화면입니다.
 
@@ -76,7 +68,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**쇼핑몰 정보 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image (48).png" alt="" data-size="line">**쇼핑몰 정보 페이지 – 앱 홈화면에 적용하는 방법**
 
 <figure><img src="../../.gitbook/assets/쇼핑몰정보-홈화면.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +88,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 사용자 페이지 이용하기**
 
@@ -126,7 +118,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**웹 템플릿 페이지-스윙샵 상품을 넣어서 제작하는 방법**
+<img src="../../.gitbook/assets/image (48).png" alt="" data-size="line">**웹 템플릿 페이지-스윙샵 상품을 넣어서 제작하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B48.png)
 
@@ -170,7 +162,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**템플릿 페이지 앱에 적용하기**
+<img src="../../.gitbook/assets/image (48).png" alt="" data-size="line">**템플릿 페이지 앱에 적용하기**
 
 <figure><img src="../../.gitbook/assets/템플릿페이지2.png" alt=""><figcaption></figcaption></figure>
 
@@ -202,11 +194,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 다른 스타일의 웹템플릿으로도 예약상품 페이지를 구성할 수 있어요.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B412.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B412.png" alt=""></div>
 
 다른 업종 템플릿의 \[정보 페이지]를 사용했구요.
 
@@ -214,11 +202,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 이렇게 다양한 웹템플릿 디자인을 이용해서 쇼핑몰 화면을 구성할 수 있어요!
 
-<div align="left">
-
-<img src="../../.gitbook/assets/줄라인.PNG" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/줄라인.PNG" alt=""></div>
 
 ### <mark style="color:blue;">**2)이미지 페이지 이용하기**</mark>
 
@@ -234,7 +218,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**이미지 페이지-스윙샵 상품을 넣어서 제작하는 방법**
+<img src="../../.gitbook/assets/image (48).png" alt="" data-size="line">**이미지 페이지-스윙샵 상품을 넣어서 제작하는 방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%87%BC%ED%95%91%EB%AA%B0-%ED%99%88%ED%99%94%EB%A9%B411.png)
 
@@ -264,7 +248,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">**이미지 페이지 – 앱 홈화면에 적용하는 방법**
+<img src="../../.gitbook/assets/image (48).png" alt="" data-size="line">**이미지 페이지 – 앱 홈화면에 적용하는 방법**
 
 <figure><img src="../../.gitbook/assets/이미지맵2-1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -284,7 +268,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 7\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4.** 앱제작 V2버전 이용시
 
@@ -402,7 +386,7 @@ description: 스윙샵 메뉴를 앱에 적용하여, 홈화면을 구성하는 
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 이상으로 스윙샵 쇼핑몰 앱에 구성할 수 있는 앱 홈화면 스타일을 알려드렸어요.
 

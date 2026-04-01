@@ -23,26 +23,22 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 **\*유료앱 이용**
 
-\-기본형 유료앱 이용권 : 채팅방 5개 개설, 사용자 20명까지 접속 가능
+-기본형 유료앱 이용권 : 채팅방 5개 개설, 사용자 20명까지 접속 가능
 
-\-확장형 유료앱 이용권: 채팅방 10개 개설, 사용자 100명까지 접속 가능
+-확장형 유료앱 이용권: 채팅방 10개 개설, 사용자 100명까지 접속 가능
 
-\-프리미엄 유료앱 이용권 : 채팅방 무제한 개설 가능, 사용자 무제한 접속 가능
+-프리미엄 유료앱 이용권 : 채팅방 무제한 개설 가능, 사용자 무제한 접속 가능
 
-\-스윙 알뜰형 패키지 사용: 채팅방 4개 개설, 사용자 10명까지 접속 가능
+-스윙 알뜰형 패키지 사용: 채팅방 4개 개설, 사용자 10명까지 접속 가능
 
 패키지 상품)애드몹 파워패키지, 대용량 패키지는 기본형 유료앱이용권 상품과 동일하게 제공됩니다. (채팅방 5개 개설, 사용자 20명까지 접속 가능)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;STEP1. 그룹채팅방 만들기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%851_20.06.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%851_20.06.png" alt=""></div>
 
 스윙 앱운영 페이지 → 서비스관리 → 게시판 관리 메뉴로 이동합니다.
 
@@ -50,7 +46,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**1. 그룹채팅방 생성 – 기본설정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%852\_20.06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%852_20.06.png)
 
 게시판 관리 페이지에서 \[게시판 생성] 버튼을 선택하면 게시판 및 기능설정 창이 열립니다.
 
@@ -78,11 +74,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**2.그룹채팅방 생성 – 채팅 상세설정**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/그룹채팅수정.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/그룹채팅수정.png" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:red;">채팅 상세설정은 필수가 아닌 ‘선택 옵션’이에요.</mark>&#x20;
 
@@ -100,7 +92,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 앱에 그룹채팅방 적용하기
 
@@ -156,7 +148,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. 앱 실행화면
 
@@ -164,17 +156,9 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**1. 그룹채팅방 화면**</mark>
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/그룹채팅-메인.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/그룹채팅-메인.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/이전대화목록 (1).gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/이전대화목록 (2).gif" alt=""><figcaption></figcaption></figure></div>
 
 채팅방에는 본인 외에 다른 사용자의 입장을 확인할 수 있으며, 인원 및 글을 입력하는 상태도 확인할 수 있습니다.
 
@@ -184,7 +168,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 ### <mark style="color:blue;">**2. 채팅방 메시지 푸시 알림**</mark>
 
-<figure><img src="../../../.gitbook/assets/푸시알림 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/푸시알림.png" alt=""><figcaption></figcaption></figure>
 
 그룹채팅방에서 메시지를 입력하면 상대방에 푸시 알림이 발송이 되요.
 
@@ -198,11 +182,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**1) 채팅 공지 메시지**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/공지메시지 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/공지메시지.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20;채팅방 입장시 입력된 공지사항메시지 창이 뜹니다.&#x20;
 
@@ -210,11 +190,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**2) 비밀번호 설정**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/비밀번호 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/비밀번호 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 채팅방 입장시 채팅방 비밀번호 입력 창이 뜹니다.
 
@@ -224,15 +200,11 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 <mark style="color:green;">**3) 사용자 목록 보기**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/사용자목록보기 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/사용자목록보기.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20;채팅방의 오른쪽 상단 버튼을 누르면 채팅방에 입장한 사용자 목록을 확인할 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. 그룹채팅 기능 소개
 
@@ -242,7 +214,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/groupchat-function" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP5. 그룹채팅 Q\&A
 
@@ -274,11 +246,7 @@ description: 그룹 채팅방을 만드는 방법, 그룹 채팅방 이용방법
 
 앱에서 사용자들이 받은 푸시를 선택하면 바로 그룹채팅방으로 이동하기 때문에 해당 방법으로 채팅방 참여를 유도할 수 있습니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512_20.06.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512_20.06.png" alt=""></div>
 
 단, 위에서 안내드렸듯이 <mark style="color:green;">상품에 따라 접속 인원이 정해져있기 때문에 적용된 상품에 기재된 인원만 접속할 수 있습니다.</mark>
 

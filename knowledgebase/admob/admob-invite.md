@@ -4,7 +4,7 @@ description: 애드몹 계정에 사용자를 초대하여, 액세스 권한을 
 
 # 애드몹-스윙투앱 계정 초대하기
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 애드몹 관리 페이지 이슈사항을 확인하기 위해서 사용자 초대가 필요할 수 있습니다.
 
@@ -14,13 +14,13 @@ description: 애드몹 계정에 사용자를 초대하여, 액세스 권한을 
 
 **아래 매뉴얼을 확인하시고 진행방법을 따라주시기 바랍니다.**&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP1. Google Ads 사이트 접속
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/05/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B3%84%EC%A0%95%EC%B4%88%EB%8C%801.png)
 
-[https://ads.google.com/intl/ko\_KR/home/?pli=1](https://ads.google.com/intl/ko\_KR/home/?pli=1)
+[https://ads.google.com/intl/ko\_KR/home/?pli=1](https://ads.google.com/intl/ko_KR/home/?pli=1)
 
 1\) Google Ads 사이트에 접속하여 로그인을 해주세요. (애드몹 가입 계정으로 로그인)
 
@@ -60,13 +60,13 @@ description: 애드몹 계정에 사용자를 초대하여, 액세스 권한을 
 
 구글 애즈에서 사용자 초대가 완료되었으면, 다음은 애드센스로 접속하여 사용자 초대를 진행해주세요.&#x20;
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)STEP2. Google AdSense(애드센스) 사이트 접속
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/05/%EC%95%A0%EB%93%9C%EC%84%BC%EC%8A%A44.png)
 
-1\) [Google AdSense 사이트](https://www.google.com/intl/ko\_kr/adsense/start/)에 접속하여 로그인을 해주세요. (애드몹 가입 계정으로 로그인)
+1\) [Google AdSense 사이트](https://www.google.com/intl/ko_kr/adsense/start/)에 접속하여 로그인을 해주세요. (애드몹 가입 계정으로 로그인)
 
 
 
@@ -104,5 +104,5 @@ description: 애드몹 계정에 사용자를 초대하여, 액세스 권한을 
 
 구글 애즈, 구글 애드센스 계정 초대가 완료되면 해당 사용자(초대를 한)의 애드몹 사이트의 내용을 공유할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 

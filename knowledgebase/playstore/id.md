@@ -24,11 +24,7 @@ description: 앱 이전에 필요한 구글 개발자 계정 거래 ID를 확인
 
 **메일 제목 "Google: 감사합니다" 확인해주세요.**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/thumbnail_image (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/thumbnail_image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 해당 주문번호가 거래 ID입니다.
 
@@ -38,7 +34,7 @@ description: 앱 이전에 필요한 구글 개발자 계정 거래 ID를 확인
 
 ## <mark style="color:green;">2.계정 ID 확인방법</mark>
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 [구글플레이 콘솔](https://play.google.com/console/u/0/developers) 대시보드 상단에 보시면 개발자 이름 밑에 계정 ID확인 가능합니다.
 

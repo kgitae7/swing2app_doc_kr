@@ -10,7 +10,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 예를 들어 입력된 해시태그 중 ‘ #스윙투앱’ 을 선택하면, 스윙투앱 태그 단어가 포함된 모든 게시물을 찾아서 보여주는 것이죠\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;1. 앱 실행화면) 해시태그 검색 기능
 
@@ -20,11 +20,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 해당 단어 선택시 태그로 검색된 글을 모두 찾아서 보여줍니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B86.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B86.png" alt=""></div>
 
 앱 실행 후 1)게시물에서 해시태그로 입력된 단어를 선택하면 (#스윙 을 선택해볼게요!)
 
@@ -34,17 +30,13 @@ description: '해시태그 # 검색기능 이용방법'
 
 <mark style="color:red;">**#스윙 들어간 게시물 목록들이 모두 검색됩니다.**</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 해시태그 입력하기
 
 ### <mark style="color:blue;">**1) 앱에서 해시태그 입력하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B85.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B85.png" alt=""></div>
 
 **앱에서 사용자가 게시물을 작성할 때는 간단합니다.**
 
@@ -58,21 +50,13 @@ description: '해시태그 # 검색기능 이용방법'
 
 ### <mark style="color:blue;">**2) 대시보드 앱운영 - 해시태그 입력하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B8%EC%9E%85%EB%A0%A51.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B8%EC%9E%85%EB%A0%A51.png" alt=""></div>
 
 앱운영 페이지 → 게시물 관리에서 게시물을 입력하고자 하는 게시판으로 이동하구요.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B8%EC%9E%85%EB%A0%A5.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B8%EC%9E%85%EB%A0%A5.png" alt=""></div>
 
 해당 페이지에 보시면, 해시태그 입력란이 보입니다.
 
@@ -82,11 +66,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 <mark style="color:orange;">**게시물에 해시태그 입력하는 방법. 움짤이미지로 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_45_08_671.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_45_08_671.gif" alt=""></div>
 
 ***
 
@@ -96,11 +76,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 만약 기존에 등록한 게시물에 해시태그만 추가하고 싶을 경우는!!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B85.18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B85.18.09.png" alt=""></div>
 
 (1)게시물 목록에서 연필모양의 \[수정] 아이콘을 선택하면 게시물 수정 창이 열립니다.
 
@@ -112,11 +88,7 @@ description: '해시태그 # 검색기능 이용방법'
 
 ### <mark style="color:blue;">**3) 해시태그 안내**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B87.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%83%9C%EA%B7%B87.png" alt=""></div>
 
 **웹에서 작성한 해시태그는 검색시에만 작동을 하구요, 앱 게시물에는 보이지 않아요.**
 

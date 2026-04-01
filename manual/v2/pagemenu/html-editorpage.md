@@ -34,8 +34,7 @@
 
 <mark style="color:orange;">**1.  \[에디터 페이지] 새로 만들기**</mark>
 
-\
-
+<br>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%93%B1%EB%A1%9D.png)
 

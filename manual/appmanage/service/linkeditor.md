@@ -4,17 +4,13 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 # 링크마법사
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 스윙투앱에서 제공하는 앱운영 기능인 ‘링크마법사’ 이용방법 매뉴얼입니다.
 
 ### <mark style="color:blue;">**링크 마법사란?**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/링크마법사.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/링크마법사.png" alt=""><figcaption></figcaption></figure></div>
 
 **링크마법사는 웹링크(URL)뿐만 아니라 스윙투앱에서 제공하는 다양한 기능들을 연동하여 사용할 수 있는 메뉴에요.**
 
@@ -58,17 +54,13 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 &#x20;<mark style="color:orange;">**앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_47_33_456.gif" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_47_33_456.gif" alt="" width="375"></div>
 
 앱에서 푸시가 발송된 알림 화면을 탭하면 위에서 연동한 웹링크인 블로그 페이지로 이동하게 됩니다.
 
 링크마법사 기능을 통해서 웹사이트 링크로 연동 할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**사용 예시2) 웹템플릿 페이지에서 \[링크마법사] 이용하기**</mark>
 
@@ -96,15 +88,11 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <mark style="color:orange;">**앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_46_04_734.gif" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_13_46_04_734.gif" alt="" width="375"></div>
 
 앱 실행 후 템플릿 페이지가 적용된 홈화면의 \[전화하기] 버튼을 선택하면, 입력해놓은 번호로 전화 연결이 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (8).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**사용 예시3) 팝업 에서 \[링크마법사] 이용하기**</mark>
 
@@ -126,11 +114,7 @@ description: 링크마법사 이용방법, 사용예시 매뉴얼
 
 <mark style="color:orange;">**앱 실행화면**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_14_10_13_709.gif" alt="" width="375">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94_2020_01_15_14_10_13_709.gif" alt="" width="375"></div>
 
 앱 실행 후 팝업창이 뜨구요.
 

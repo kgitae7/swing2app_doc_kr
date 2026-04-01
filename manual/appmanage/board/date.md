@@ -4,7 +4,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 # 게시판 날짜 형식 설정 방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 **게시판 날짜 형식을 지정할 수 있는 옵션 기능이 새롭게 추가되었습니다.**&#x20;
 
@@ -14,7 +14,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 \*해당 기능은 앱제작 V3버전에서 이용이 가능합니다. V2이용중이라면 V3버전 전환 후 이용해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **1.게시판 날짜 형식 설정이란?**
 
@@ -22,11 +22,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 사용자분들은 게시판 날짜 형식 옵션기능을 이용하여 앱 게시판에 표시되는 날짜 형식을 직접 선택할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합날짜.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합날짜.png" alt=""><figcaption></figcaption></figure></div>
 
 **\*기본 셋팅: 복합 날짜 형식**
 
@@ -38,15 +34,11 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 기본 날짜 형식은 게시물 작성 순간부터 YYYY년/MM월/DD일로 날짜가 표시됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2.이용방법
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/20231724 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/20231724 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 앱제작 이동
 
@@ -72,7 +64,7 @@ description: 게시판 날짜 형식을 지정 방법 매뉴얼
 
 앱 업데이트 후 확인하시면 게시판 날짜 형식이 변경된 것을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **3.안내사항**
 

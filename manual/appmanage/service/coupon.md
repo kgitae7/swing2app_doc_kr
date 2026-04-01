@@ -4,7 +4,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 # 쿠폰관리: 쿠폰만들기, 발행하기
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 \[쿠폰관리]는 관리자가 앱을 이용하는 회원들에게 쿠폰을 발송하고 관리하는 메뉴입니다.
 
@@ -12,33 +12,21 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 쿠폰을 만드는 방법, 사용자에게 쿠폰을 발행하는 방법, 앱 실행화면, 쿠폰 사용처리 등 쿠폰관리에 대한 상세 매뉴얼을 알려드리겠습니다.
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B0_800.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B0_800.png" alt="">
-
-</div>
-
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. 쿠폰 만들기
 
 가장 먼저 사용자에게 발행할 쿠폰을 만들어볼게요!
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B02-1.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B02-1.png" alt="">
-
-</div>
-
-[앱운영 페이지 → 서비스관리 → 쿠폰 관리](http://www.swing2app.co.kr/view/coupon\_admin) 메뉴로 이동합니다.
+[앱운영 페이지 → 서비스관리 → 쿠폰 관리](http://www.swing2app.co.kr/view/coupon_admin) 메뉴로 이동합니다.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B02.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B02.png" alt=""></div>
 
 쿠폰 관리 페이지의 오른쪽 상단의 \[쿠폰 추가] 버튼을 선택합니다.
 
@@ -56,11 +44,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B03.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B03.png" alt=""></div>
 
 \*쿠폰 유효기간은 무제한 설정도 가능하구요.
 
@@ -68,11 +52,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B011.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B011.png" alt=""></div>
 
 이렇게 쿠폰관리 메뉴에서는 만들어놓은 쿠폰을 확인할 수 있구요.
 
@@ -82,7 +62,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 쿠폰을 다 만들었다면! 아래에서 쿠폰을 사용자에게(앱 회원) 보내는 방법을 알려드릴게요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 쿠폰 발송하기
 
@@ -132,11 +112,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 **1)쿠폰푸시 알림**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B06-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%BF%A0%ED%8F%B06-1.png" alt=""></div>
 
 쿠폰 발행시, 앱 푸시 알림이 들어오기 때문에 사용자는 푸시 알림을 통해서 쿠폰이 발행되었음을 알 수 있어요.
 
@@ -146,11 +122,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 **2)쿠폰 확인**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/쿠폰2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/쿠폰2.png" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 관리자에게 발급 받은 쿠폰을 확인할 수 있습니다.
 
@@ -158,11 +130,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 **3)사용된 쿠폰 확인**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/쿠폰3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/쿠폰3.png" alt=""><figcaption></figcaption></figure></div>
 
 앱에 쿠폰조회 메뉴를 적용하시면, 사용자는 쿠폰조회 페이지에서 자신이 받은 쿠폰을 확인할 수 있어요.
 
@@ -170,11 +138,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 **4)쿠폰조회 메뉴에서 확인하기**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/쿠폰1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/쿠폰1.png" alt=""><figcaption></figcaption></figure></div>
 
 앱 실행 후 \[내 쿠폰확인] 메뉴를 선택하면, 쿠폰조회 페이지가 열립니다.
 
@@ -228,7 +192,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 7\) \[저장] 버튼 눌러주시면 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP3.** **쿠폰 사용처리 방법**
 
@@ -266,11 +230,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 ### <mark style="color:blue;">**3.쿠폰 사용처리 후 사용자 앱 실행화면**</mark>
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/쿠폰3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/쿠폰3.png" alt=""><figcaption></figcaption></figure></div>
 
 사용자계정으로 다시 앱을 실행한 뒤 – 쿠폰 조회 페이지 \[사용된 쿠폰] 메뉴에서 사용처리 된 것을 확인할 수 있습니다.
 
@@ -280,11 +240,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 **\[앱 관리자 메뉴 이용]**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%95%B1%EA%B4%80%EB%A6%AC%EB%A9%94%EB%89%B4-%EC%BF%A0%ED%8F%B01.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/02/%EC%95%B1%EA%B4%80%EB%A6%AC%EB%A9%94%EB%89%B4-%EC%BF%A0%ED%8F%B01.png" alt=""></div>
 
 <mark style="color:red;">**이용방법**</mark>
 
@@ -296,7 +252,7 @@ description: '쿠폰관리: 쿠폰을 만들고 사용자에게 발행하는 방
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appoperation/appmanager-couponuse" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. 쿠폰 관리 이용방법 정리
 

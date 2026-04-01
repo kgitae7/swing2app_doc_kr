@@ -4,7 +4,7 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 # 앱 활동 모음
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱운영: 내메뉴 – 앱 활동 모음**&#x20;
 
@@ -22,15 +22,15 @@ description: 앱운영 메뉴 중 ‘앱 활동 모음’ 이용방법
 
 앱운영- 내메뉴 -앱 활동 모음 이동하여 확인 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ### **2.앱 활동 모음: 앱 필터, 활동 필터**
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/01/%EC%95%B1%ED%99%9C%EB%8F%992.png" alt=""><figcaption></figcaption></figure>
 
-\-앱 필터: 내 계정에 등록된 모든 앱 목록이며 앱을 선택하여 활동 내역을 확인할 수 있습니다.
+-앱 필터: 내 계정에 등록된 모든 앱 목록이며 앱을 선택하여 활동 내역을 확인할 수 있습니다.
 
-\-활동 필터: 새글알림(앱에 등록된 게시글), 좋아요 등록된 글, 댓글, 신규 회원 목록을 확인할 수 있습니다.
+-활동 필터: 새글알림(앱에 등록된 게시글), 좋아요 등록된 글, 댓글, 신규 회원 목록을 확인할 수 있습니다.
 
 
 

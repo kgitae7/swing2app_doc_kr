@@ -4,15 +4,11 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 # 앱 정책관리- 회원가입 완료 메시지 설정
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 회원가입완료 메시지란?
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C%EB%A9%94%EC%8B%9C%EC%A7%803.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C%EB%A9%94%EC%8B%9C%EC%A7%803.png" alt=""></div>
 
 회원 가입완료 메시지는 앱에서 회원가입을 완료 한 사용자에게 보여지는 메시지 팝업창입니다.
 
@@ -28,7 +24,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 등 다양한 용도로 메시지를 이용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;2. 앱에서 어떻게 보이나요?
 
@@ -46,13 +42,13 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 메시지 입력은 HTML 글쓰기로 제공되기 때문에 일반 게시물 글쓰기와 동일하게 이미지, 웹링크 연동, 동영상 등을 입력할 수 있어요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 회원가입 완료 메시지 설정 방법
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C.png)
 
-[앱운영 페이지 → 서비스관리 → 정책 관리 → 회원가입 양식](https://www.swing2app.co.kr/view/app\_policy) → 가입완료 메시지 사용 여부로 이동합니다.
+[앱운영 페이지 → 서비스관리 → 정책 관리 → 회원가입 양식](https://www.swing2app.co.kr/view/app_policy) → 가입완료 메시지 사용 여부로 이동합니다.
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%99%84%EB%A3%8C%EB%A9%94%EC%8B%9C%EC%A7%802.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +62,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 \*완료 메시지 수정 역시 해당 페이지에서 기존 내용에 덮어서 입력하신 뒤 \[정책 설정하기] 버튼을 다시 선택해주시면 반영됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**\[안내사항]**</mark>
 
@@ -78,11 +74,7 @@ description: 앱 가입 정책 - 앱 화원가입 완료 메시지 설정하기
 
 ↓ 업데이트가 안되신 분들은 아래 이미지처럼 업데이트 안내 문구가 뜹니다.
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%BA%A1%EC%B2%98.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%BA%A1%EC%B2%98.png" alt=""></div>
 
 2\)회원가입 완료 메시지이기 때문에 가입이 완료된 사용자에게만 최초 한 번만 보여집니다.
 

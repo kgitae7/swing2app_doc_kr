@@ -4,7 +4,7 @@ description: 구글 플레이스토어 - 연락처 세부 정보 수정 방법
 
 # 구글 플레이 개발자 연락처 정보 변경
 
-<figure><img src="../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 개발자 연락처는 비노출 정보와 구글 플레이에 표시되는 정보 2가지로 나뉩니다.
 

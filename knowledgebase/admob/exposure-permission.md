@@ -4,7 +4,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 # 애드몹 - 광고 노출 권한 설정
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ﻿<mark style="color:blue;">**구글 애드몹(Admob)이란,**</mark>
 
@@ -26,7 +26,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 <mark style="color:red;">웹사이트를 연결한 웹앱-웹뷰, 푸시앱은 지정 불가합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)﻿1.이용방법
 
@@ -46,7 +46,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 2\)앱 제작이 완료되면, 구글 애드몹 적용 플러그인 상품을 구매해주세요.
 
-애드몹 플러그인 상품은 [결제/이용권 구매 - 플러그인 추가 상품 구매 페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)에서 구매 가능합니다.
+애드몹 플러그인 상품은 [결제/이용권 구매 - 플러그인 추가 상품 구매 페이지](http://www.swing2app.co.kr/view/new_product_list_by_plugin)에서 구매 가능합니다.
 
 스토어 출시를 위한 유료앱 이용권, 스토어 업로드티켓은 애드몹 적용 후 구매하셔도 되고 함께 구매해도 됩니다.
 
@@ -54,7 +54,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 3\)애드몹 플러그인을 구매하면, 앱운영- 서비스관리- 애드몹 설정 플러그인 메뉴가 생성됩니다.
 
-[애드몹 플러그인 설정](http://www.swing2app.co.kr/view/app\_plugin\_by\_admob)으로 이동해주세요. (플러그인 구매시에만 이동 가능)
+[애드몹 플러그인 설정](http://www.swing2app.co.kr/view/app_plugin_by_admob)으로 이동해주세요. (플러그인 구매시에만 이동 가능)
 
 <figure><img src="../../.gitbook/assets/애드몹구매2.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 5\)배너, 전면광고에 노출권한을 설정해주세요.
 
-\-전체 노출로 기본 셋팅되어 있으며, '다중 지정 권한 설정'을 선택해서 추가할 수 있습니다.
+-전체 노출로 기본 셋팅되어 있으며, '다중 지정 권한 설정'을 선택해서 추가할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/애드몹구매4.png" alt=""><figcaption></figcaption></figure>
 
@@ -102,11 +102,11 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 7\)테스트에서 정상적으로 권한별로 노출이 된다면 스토어에 앱 등록을 진행합니다.
 
-\-이용권, 업로드티켓 구매 전이면 구매 후 업로드를 진행해주세요.
+-이용권, 업로드티켓 구매 전이면 구매 후 업로드를 진행해주세요.
 
-\-앱스토어는 업로드 대행만 가능하기 때문에, 당사로 앱스토어 업로드 신청주시기 바랍니다.
+-앱스토어는 업로드 대행만 가능하기 때문에, 당사로 앱스토어 업로드 신청주시기 바랍니다.
 
-\-플레이스토어는 직접 앱 등록 가능하며, 대행 요청 시 동일하게 플레이스토어 업로드 신청 주시면 됩니다.
+-플레이스토어는 직접 앱 등록 가능하며, 대행 요청 시 동일하게 플레이스토어 업로드 신청 주시면 됩니다.
 
 {% hint style="danger" %}
 <mark style="color:red;">**\*주의\***</mark>
@@ -168,9 +168,9 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 7\)테스트 후 문제 없으면, 앱이 출시된 각 스토어에 업데이트 버전의 앱으로 심사 제출해야 합니다.
 
-\-앱스토어는 업로드 대행만 가능하기 때문에, 당사로 앱스토어 업로드 신청주시기 바랍니다.
+-앱스토어는 업로드 대행만 가능하기 때문에, 당사로 앱스토어 업로드 신청주시기 바랍니다.
 
-\-플레이스토어는 직접 업데이트 가능하며, 대행 요청 시 동일하게 플레이스토어 업로드 신청 주시면 됩니다.
+-플레이스토어는 직접 업데이트 가능하며, 대행 요청 시 동일하게 플레이스토어 업로드 신청 주시면 됩니다.
 
 
 
@@ -180,7 +180,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 [앱운영-버전관리-앱제작이력](https://documentation.swing2app.co.kr/knowledgebase/admob/testad) 페이지 이동, 업데이트 설정: “필수 업데이트(재설치)”로 선택합니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)2. 애드몹 노출 지정 권한 운영방법 TIP
 
@@ -192,7 +192,7 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 이처럼 앱 이용 목적에 맞게 광고 노출 범위를 운영자가 직접 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)3. 안내사항
 
@@ -218,5 +218,5 @@ description: 애드몹 광고에서 지정 노출 권한을 설정하는 방법
 
 6\)기능 업데이트일 기준 2023년 1월 20일 이후 신규 앱제작 혹은 앱 업데이트를 하고 애드몹 플러그인 구매시, 애드몹 플러그인 설정 화면에 광고 노출 권한 설정 기능을 즉시 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 

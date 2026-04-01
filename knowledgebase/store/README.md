@@ -4,7 +4,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 # 스토어 이용약관
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **제 1 조 앱스토어, 플레이스토어 업로드 주의사항**
 
@@ -78,7 +78,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 스윙투앱은 앱 출시 대행만 진행해드릴 뿐, 이후 업데이트나 정책 조치를 하지 않아 생기는 문제는 책임지지 않습니다.
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **제 2 조 구글 플레이스토어 이용정책**&#x20;
 
@@ -278,7 +278,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 
 
-<figure><img src="../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **제 3 조** 앱스토어 이용 정책
 
@@ -374,8 +374,7 @@ description: 플레이스토어, 앱스토어 업로드 관련  스토어 이용
 
 \*스윙투앱 계정으로 대리 등록하신 분들은 저희가 진행해드리기 때문에 해당 사항 없습니다.&#x20;
 
-\
-
+<br>
 
 ### **5. 앱스토어 앱 정책위반(거절 사례)**
 

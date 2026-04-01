@@ -4,15 +4,14 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 # 캘린더 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**스윙투앱의 캘린더 ?**</mark>
 
 캘린더에 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.
 
 또한 중요한 소식, 공지사항을 기재할 수 있습니다.\
-\
-
+<br>
 
 <mark style="color:blue;">**스윙투앱의 캘린더에서 제공하는 기능**</mark>&#x20;
 
@@ -29,8 +28,7 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 \+ 일정 작성은 게시물 HTML에디터 작성과 동일(이미지첨부, 링크,동영상 첨부 모두 가능)&#x20;
 
 \+ 일정 선택 시 ‘상세 일정보기’ 게시물로 이동\
-\
-
+<br>
 
 <mark style="color:blue;">**스윙투앱의 캘린더 이용방법**</mark>
 
@@ -50,7 +48,7 @@ description: 게시판 - 캘린더를 제작하고 이용하는 방법 매뉴얼
 
 자세한 이용방법은 매뉴얼을 참고해주시기 바랍니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 캘린더 만들기
 
@@ -158,7 +156,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 캘린더 일정 입력하기
 
@@ -226,8 +224,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/6e7b289ffc3f8391417bf870a16b9535.png)
 
 중요한 공지는 공지사항 버튼을 선택하여 작성할 수 있어요.\
-\
-
+<br>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/b671465b25de0de2cac66e86633a9113.png)
 
@@ -235,7 +232,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 그럼 만들어놓은 캘린더를 앱에 적용해볼게요!!
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 앱에 캘린더 적용하기
 
@@ -265,7 +262,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 앱 실행화면
 
@@ -281,7 +278,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 
 공지사항을 작성했으면 캘린더 화면에 공지글이 고정글로 표시 됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 5. 앱에서 캘린더 일정 작성하는 방법
 

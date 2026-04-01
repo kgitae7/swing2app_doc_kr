@@ -16,11 +16,7 @@ description: 프로그레스바를 노출시키지 않는 방법
 
 노출을 원하지 않을 경우, 고급설정에서 사용을 해제해주시면 앱에서 보이지 않게 설정 가능합니다.&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/프로그레스바 제거.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/프로그레스바 제거.PNG" alt=""><figcaption></figcaption></figure></div>
 
 프로그레스바 제거 기능이 추가되어, ‘사용하지 않음’으로 체크시 보여지지 않습니다.
 
@@ -30,11 +26,7 @@ description: 프로그레스바를 노출시키지 않는 방법
 
 ### <mark style="color:blue;">**\*프로그레스바란?**</mark>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%ED%91%9C%EC%8B%9C%EC%A4%84.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/12/%ED%91%9C%EC%8B%9C%EC%A4%84.png" alt=""><figcaption></figcaption></figure></div>
 
 **프로그레스바는**, 모바일 웹 상단에 표시되는 진행 표시줄입니다.
 
@@ -106,4 +98,4 @@ description: 프로그레스바를 노출시키지 않는 방법
 
 1월 3일 전에 제작하신 분들은 위의 방법으로 셋팅 후 앱 업데이트를 하셔야 반영됩니다.
 
-스토어(앱스토어, 플레이스토어)에 출시된 앱은 업데이트 버전으로 다시 제출해주셔야 합니다.\
+스토어(앱스토어, 플레이스토어)에 출시된 앱은 업데이트 버전으로 다시 제출해주셔야 합니다.<br>

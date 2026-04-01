@@ -4,9 +4,9 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 # 스윙투앱 브라우저 앱 이용방법
 
-<figure><img src="../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**스윙투앱 브라우저 앱이란?**</mark>
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**스윙투앱 브라우저 앱이란?**</mark>
 
 앱을 제작하지 않아도 웹사이트를 입력하면 바로 웹앱 스타일로 확인 가능한 미리보기 어플입니다. &#x20;
 
@@ -14,11 +14,11 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**스윙투앱 브라우저 앱 이용방법**</mark>
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**스윙투앱 브라우저 앱 이용방법**</mark>
 
 <figure><img src="../.gitbook/assets/웹뷰-브라우저2.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**스윙투앱 브라우저 앱 장점**</mark>
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**스윙투앱 브라우저 앱 장점**</mark>
 
 1\)웹사이트를 적용한 웹 앱이 어떻게 보여지는지 앱 제작 없이 바로 확인 가능
 
@@ -28,7 +28,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 4\)앱으로 만들고자 하는 웹사이트가 있다면, 언제 어디서든! 횟수 제한없이 자유롭게 확인 가능
 
-<figure><img src="../.gitbook/assets/구분선 (6).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1.이용방법1 -URL입력
 
@@ -88,13 +88,11 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 [https://www.swing2app.co.kr/landing/webview](https://www.swing2app.co.kr/landing/webview) 접속
 
-<figure><img src="https://i0.wp.com/ltwp.swing2app.com/wp-content/uploads/2025/03/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%96%B4%ED%94%8C-1024x768.png?resize=1024%2C768&#x26;ssl=1" alt="" height="768" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dd.PNG" alt=""><figcaption></figcaption></figure>
 
 웹사이트 입력창 >홈페이지 주소 입력 > QR코드 팝업이 뜹니다.
 
-
-
-<figure><img src="https://i0.wp.com/ltwp.swing2app.com/wp-content/uploads/2025/03/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.jpg?resize=860%2C854&#x26;ssl=1" alt="" height="854" width="860"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dd2.PNG" alt=""><figcaption></figcaption></figure>
 
 아이폰 카메라 실행 후 > QR코드 촬영> 브라우저 어플로 이동> 연결된 홈페이지 앱 미리보기 할 수 있습니다.
 
@@ -146,11 +144,11 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 <figure><img src="../.gitbook/assets/스윙투앱브라우저툴바.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> **툴바 미사용**
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="line"> **툴바 미사용**
 
 웹뷰앱 스타일로 모바일 웹과 동일한 화면 &#x20;
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> **툴바 사용**&#x20;
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="line"> **툴바 사용**&#x20;
 
 푸시앱으로 웹 앱 하단에 푸시 툴바가 생성됨
 

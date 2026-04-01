@@ -4,21 +4,13 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 # 해시태그 검색옵션 이용방법2
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8-KR.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8-KR.png" alt=""></div>
 
 <mark style="color:blue;">**앱 실행화면 – 해시태그 예시**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%B1%84%EC%9A%A97.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%B1%84%EC%9A%A97.png" alt=""></div>
 
 
 
@@ -26,7 +18,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 **1. 해시태그 검색 옵션 만들기**
 
-[앱운영 → 서비스 관리 → 게시판관리](http://www.swing2app.co.kr/view/board\_edit) 페이지로 이동합니다.
+[앱운영 → 서비스 관리 → 게시판관리](http://www.swing2app.co.kr/view/board_edit) 페이지로 이동합니다.
 
 \[게시판 생성] 버튼을 선택 → ‘게시판 및 기능설정’ 창에서 → \[고급스타일] 메뉴로 이동합니다.
 
@@ -48,17 +40,17 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 매뉴얼을 통해서 해시태그 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. 게시판 관리 – 해시태그 관리
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B82\_20.05.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B82_20.05.png)
 
-[**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board\_edit) **메뉴로 이동합니다.**
+[**앱운영 페이지 → 서비스관리 → 게시판 관리**](http://www.swing2app.co.kr/view/board_edit) **메뉴로 이동합니다.**
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B83\_20.05.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B83_20.05.png)
 
 \[게시판 생성] 버튼을 선택하면 ‘게시판 및 기능설정’ 창이 열리구요.
 
@@ -66,11 +58,11 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. 해시태그 검색 옵션 만들기&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B84\_20.05.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B84_20.05.png)
 
 해시태그 검색 옵션에서
 
@@ -114,11 +106,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 ### <mark style="color:blue;">**2.앱 실행화면 \_ 해시태그 연산자 적용(AND)**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%B1%84%EC%9A%A97.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%B1%84%EC%9A%A97.png" alt=""></div>
 
 해시태그를 적용한 게시판을 이동하면, 상단에 \[업직종 검색] 이라는 배너가 보입니다.
 
@@ -146,9 +134,9 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 <mark style="color:blue;">**해시태그 검색옵션 추가 방법. 움짤이미지로 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_05\_28\_15\_48\_09\_538.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_48_09_538.gif)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. 게시물에 해시태그 검색어 입력하기
 
@@ -158,11 +146,7 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 게시물과 게시판의 해당 해시태그가 입력이 되어야 서로 매칭이되어 검색이 가능하답니다.!!
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_45_08_671.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_45_08_671.gif" alt=""></div>
 
 **해시태그는 일반 글작성과 형식이 다르기때문에 게시물 본문에 동일한 검색어를 입력한다고 해서, 검색이 되는 것이 아니에요.**
 
@@ -178,13 +162,9 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 <mark style="color:blue;">**게시물에 해시태그 입력하는 방법. 움짤이미지로 확인하기**</mark>
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_45_08_671.gif" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_28_15_45_08_671.gif" alt="">
-
-</div>
-
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. 앱에 해시태그 게시판 적용하기
 
@@ -244,17 +224,9 @@ description: 해시태그 - 연산자 검색 옵션 이용방법
 
 <mark style="color:blue;">**대표적인 해시태그 앱 제작 사례 ‘올댓모델’ 앱**</mark>
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8NEW2.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8NEW2.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8NEW3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8NEW3.png" alt=""></div>
 
 해시태그를 적용하여 만든 사용자 앱 중에서 ‘올댓모델’ 앱을 소개해드리면요.
 

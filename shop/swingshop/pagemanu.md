@@ -26,7 +26,7 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 <mark style="color:red;">웹사이트를 연결한 웹뷰, 푸시앱은 이용 불가합니다.</mark>&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 <mark style="color:blue;">**Q. 스윙샵 페이지는 어디서 확인하고, 어떻게 앱에 적용하나요?**</mark>
 
@@ -38,17 +38,17 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 > **\[제공되는 스윙샵 페이지 안내]**
 >
-> \-고객(사용자용)페이지: 장바구니, 마이페이지
+> -고객(사용자용)페이지: 장바구니, 마이페이지
 >
-> \-쇼핑몰 메인, 쇼핑몰 정보
+> -쇼핑몰 메인, 쇼핑몰 정보
 >
-> \-카테고리 리스트
+> -카테고리 리스트
 >
-> \-디지털 상품 구매 완료 페이지
+> -디지털 상품 구매 완료 페이지
 >
-> \-날짜 예약상품 예약하기, 날짜+시간 예약상품 예약하기
+> -날짜 예약상품 예약하기, 날짜+시간 예약상품 예약하기
 >
-> \-상품 검색
+> -상품 검색
 
 ​따라서 스윙샵을 이용하시는 분들은 앱제작 페이지에서 스윙페이지를 선택하시면 스윙샵에 관련된 메뉴들을 모두 확인할 수 있구요.
 
@@ -60,15 +60,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 아래 매뉴얼을 통해서 각 페이지별 앱 실행화면을 보여드릴게요 \~!!
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **1. 장바구니**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" alt=""></div>
 
 장바구니는 설명하지 않아도 다들 아시죠? ^^
 
@@ -76,15 +72,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 **장바구니에 넣은 상품을 확인하여 구매할 수 있습니다.**&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **2. 카테고리 리스트**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png" alt=""></div>
 
 **카테고리 리스트는 개별 상품이 아닌 카테고리를 리스트로 보여주는 페이지입니다.**
 
@@ -92,17 +84,17 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 예를 들어 의류 쇼핑몰은
 
-\-TOP 카테고리: 티셔츠, 블라우스, 니트
+-TOP 카테고리: 티셔츠, 블라우스, 니트
 
-\-DRESS 카테고리: 원피스
+-DRESS 카테고리: 원피스
 
-\-BOTTOM 카테고리: 바지, 치마, 반바지, 청바지
+-BOTTOM 카테고리: 바지, 치마, 반바지, 청바지
 
 이렇게 카테고리를 구성한 뒤 해당 카테고리 별로 적합한 상품을 등록하게 되요.
 
 따라서 이렇게 만들어놓은 카테고리도, 카테고리 리스트 페이지로 앱 메뉴 구성을 할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **3. 디지털 상품 구매완료 페이지**
 
@@ -118,15 +110,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 해당 페이지를 적용하셔야 앱에서 사용자들이 구매한 컨텐츠를 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **4. 마이페이지**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png" alt=""></div>
 
 \[마이페이지]는 사용자 구매 정보부터 결제, 배송에 관련된 모든 내역을 확인할 수 있는 페이지에요.
 
@@ -134,15 +122,11 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 이미지에서 보시는 것처럼 주문현황, 배송조회, 배송완료, 구매완료 , 교환 조회 등의 기능을 제공합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **5. 쇼핑몰 메인**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png" alt=""></div>
 
 쇼핑몰메인 페이지는 홈화면에 적용하기 적합한 메인홈화면 페이지에요.
 
@@ -154,29 +138,21 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 반드시 해당 페이지를 홈화면으로 적용해야 하는 것은 아니니 앱 스타일에 맞게 꾸며주시면 됩니다 ^^
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **6. 쇼핑몰 정보**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png" alt=""></div>
 
 상점 정보 페이지이구요.
 
 쇼핑몰 기본 정보로 구성된 페이지로 고객센터 및 운영시간 등을 제공합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **7. 상품 검색**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png" alt=""></div>
 
 앱에 등록한 상품을 검색하여 찾을 수 있는 상품 검색 페이지입니다.
 
@@ -186,7 +162,7 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 \*필터를 선택하면 – 우선순위, 최신순, 상품가격순, 인기순으로 필터링 됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **8. 기간(날짜)예약 상품 예약하기**
 
@@ -204,7 +180,7 @@ description: 스윙샵(쇼핑몰)에서 제공되는 쇼핑몰 기본 페이지 
 
 날짜 조회가 완료되면 해당 날짜에 예약가능한 상품이 조회됩니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ### **9. 시간+날짜 예약상품 예약하기**
 

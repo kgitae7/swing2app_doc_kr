@@ -12,13 +12,13 @@ description: 시스템 폰트 사용 적용화면
 
 웹뷰앱 제작시 설정할 수 있는 기본 스타일 옵션, 고급 스타일 옵션에 대해 안내드리겠습니다.
 
-<figure><img src="../../.gitbook/assets/이미지 6 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 6 (2).png" alt=""><figcaption></figcaption></figure>
 
 시스템 폰트는 웹뷰&푸시앱제작시 확인할 수 있구요.&#x20;
 
 &#x20;STEP2 디자인 단계 - 고급 스타일 및 옵션 - 시스템 폰트 사용에서 확인 가능합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## **1.시스템 폰트 사용**
 
@@ -46,7 +46,7 @@ description: 시스템 폰트 사용 적용화면
 
 옵션에서 기본 설정은 "예"에 체크되어 있으므로 별도 수정 없이 그대로 제작해주세요.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 웹뷰앱 제작 후 STEP2디자인 메뉴를 수정할 경우 앱 업데이트가 필요합니다.
 

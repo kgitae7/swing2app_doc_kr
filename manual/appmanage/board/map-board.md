@@ -4,7 +4,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 # 위치등록(지도)게시판
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 **위치등록 게시판이란?**
 
@@ -20,7 +20,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/google-map" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**앱 실행화면 – 지도게시판**</mark>&#x20;
 
@@ -32,7 +32,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 아래에서 지도게시판을 만들고 앱에 적용하는 과정을 모두 알려드리겠습니다\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1.지도 게시판 생성
 
@@ -102,14 +102,13 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 만든 게시판에 위치를 등록해보겠습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2.위치 등록하기
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
 
-앱운영 페이지 → 게시물관리 → 만들어놓은 ‘지도게시판’으로 이동합니다.\
-
+앱운영 페이지 → 게시물관리 → 만들어놓은 ‘지도게시판’으로 이동합니다.<br>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%88%98%EC%A0%952.png)
 
@@ -125,8 +124,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 이렇게 위치가 하나 추가 된 것을 확인할 수 있어요.
 
-**\[추가]** 버튼을 선택해서 위치에 대한 정보 및 상세정보 등을 입력해주세요.\
-
+**\[추가]** 버튼을 선택해서 위치에 대한 정보 및 상세정보 등을 입력해주세요.<br>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e118ee3918dbe9845db11c6a138072e4.png)
 
@@ -153,15 +151,13 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 <mark style="color:red;">★ 우선순위는 지도(위치)를 여러개 등록하는 경우, 앱에서 보여지는 순서를 정할 수 있습니다.</mark>&#x20;
 
 <mark style="color:red;">(위치 하나만 등록하는 경우 우선순위 입력하지 않아도 됩니다)</mark>\
-\
-
+<br>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/ad89fae4f045f3dc79c3bbf78cd9efd1.png)
 
 **위치 등록이 완료되었습니다.**&#x20;
 
-지도 게시판은 이렇게 주소 및 키워드로 위치를 추가할 수 있구요.\
-
+지도 게시판은 이렇게 주소 및 키워드로 위치를 추가할 수 있구요.<br>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D4_19.10.png)
 
@@ -173,8 +169,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 <mark style="color:orange;">**위치를 추가할 때는 어떻게 하나요?**</mark>
 
-**위치를 하나 더 등록하고 싶을 때는 동일하게 \[검색창열기]를 선택해서 위치를 추가를 할 수 있습니다.**\
-
+**위치를 하나 더 등록하고 싶을 때는 동일하게 \[검색창열기]를 선택해서 위치를 추가를 할 수 있습니다.**<br>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/8b9f53b2dba31c12e8c77e4532f1f31c.png)
 
@@ -190,7 +185,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 앱제작 페이지로 이동하여서 앱에 게시판을 적용해볼게요
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;STEP3.앱 적용하기
 
@@ -250,7 +245,7 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4.버튼 수정방법
 
@@ -308,21 +303,35 @@ description: 위치등록 - 지도 게시판 등록 및 이용방법
 
 지도게시판은 **\[리스트 열기]**&#xB97C; 선택하여 적용된 위치등록 목록을 확인할 수 있어요.
 
-여러 위치를 등록했다면,리스트에서 등록한 위치 목록을 확인할 수 있습니다.
+
+
+### <mark style="color:blue;">**1.검색어로 조회하기**</mark>
+
+**여러 위치를 등록했다면,리스트에서 등록한 위치 목록을 확인할 수 있습니다.**
+
+'업체명' or '지역명'을 입력해서 조회 가능합니다.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/녹화_2025_07_08_14_23_23_756.gif" alt=""><figcaption></figcaption></figure></div>
+
+
+
+### <mark style="color:blue;">**2.길찾기 내 기능 확인하기**</mark>
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_07_24_16_18_40_943.gif" alt=""></div>
 
-**\[전화걸기] 버튼을 선택하면 입력된 전화번호로 바로 전화연결이 됩니다.**
+\[전화걸기] 버튼을 선택하면 입력된 전화번호로 바로 전화연결이 됩니다.
 
-**\[길안내] 버튼을 선택하면 카카오 지도 사이트로 이동하여 길찾기가 가능합니다.**
+\[길안내] 버튼을 선택하면 카카오 지도 사이트로 이동하여 길찾기가 가능합니다.
 
-**\[홈페이지] 버튼을 선택하면 적용된 홈페이지 URL로 페이지가 이동합니다.**
+\[홈페이지] 버튼을 선택하면 적용된 홈페이지 URL로 페이지가 이동합니다.
 
-**\[사진보기]를 선택하면 등록한 이미지를 볼 수 있어요.**
+\[사진보기]를 선택하면 등록한 이미지를 볼 수 있어요.
 
 **여러 이미지를 등록했을때에도 이미지를 손으로 슬라이딩하여 넘겨서 볼 수 있습니다.**
 
 ***
+
+
 
 스윙투앱에서 제공하는 지도게시판은!
 

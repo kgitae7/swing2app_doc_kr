@@ -59,8 +59,7 @@
 
 [![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/1b3a5629c91243948e7895c8db2ab03a.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221320836435\&redirect=Log\&widgetTypeCall=true\&topReferer=https%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25B1%2B%25EB%25A1%259C%25EB%2594%25A9%26x%3D0%26y%3D0\&directAccess=false)
 
-<mark style="color:orange;">**2) 변경할 로딩 이미지2(gif)**</mark>\
-
+<mark style="color:orange;">**2) 변경할 로딩 이미지2(gif)**</mark><br>
 
 [![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/310edd67b2021e30ce829f8de52ab7b0.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221320836435\&redirect=Log\&widgetTypeCall=true\&topReferer=https%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25B1%2B%25EB%25A1%259C%25EB%2594%25A9%26x%3D0%26y%3D0\&directAccess=false)
 

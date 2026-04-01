@@ -4,7 +4,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 # 리소스관리- 용량관리
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**리소스 관리란?**</mark>
 
@@ -52,7 +52,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 네 필요한 용량만 추가로 구매할 수 있어요.
 
-[결제/이용권구매-플러그인 추가 상품구매  페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)에서 저장용량 상품을 구매할 수 있습니다.
+[결제/이용권구매-플러그인 추가 상품구매  페이지](http://www.swing2app.co.kr/view/new_product_list_by_plugin)에서 저장용량 상품을 구매할 수 있습니다.
 
 </details>
 
@@ -70,27 +70,19 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 리소스 관리 페이지 이동
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4new%EC%82%AC%EC%9D%B4%EC%A6%88%EC%88%98%EC%A0%95.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4new%EC%82%AC%EC%9D%B4%EC%A6%88%EC%88%98%EC%A0%95.png" alt="">
+[**앱운영 페이지 → 서비스관리 → 리소스관리**](http://www.swing2app.co.kr/view/storage_manager) **메뉴로 이동합니다.**
 
-</div>
-
-[**앱운영 페이지 → 서비스관리 → 리소스관리**](http://www.swing2app.co.kr/view/storage\_manager) **메뉴로 이동합니다.**
-
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 리소스 관리자 페이지
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC2_18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC2_18.09.png" alt=""></div>
 
 저는 유료로 이용중인 앱 리소스 관리 페이지로 이동을 했는데요.&#x20;
 
@@ -104,9 +96,9 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 해당 페이지에서 내가 쓰고 있는 앱 용량을 체크할 수 있구요.
 
-\-모든 게시물들에 집계된 용량을 리스트로 확인할 수 있어요.
+-모든 게시물들에 집계된 용량을 리스트로 확인할 수 있어요.
 
-\-기능명을 선택하면 각 게시판 별로 필터링하여 볼 수 있습니다.
+-기능명을 선택하면 각 게시판 별로 필터링하여 볼 수 있습니다.
 
 > **\*무료버전 앱 용량: 100MB (리소스 관리 화면에는 0.10GB 표시됩니다)**
 >
@@ -116,11 +108,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 <mark style="color:blue;">**무료버전 앱 용량**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3.png" alt=""></div>
 
 그리고 무료 버전은 기본 제공 용량 100MB가 제공됩니다.
 
@@ -130,29 +118,21 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 <mark style="color:red;">따라서 필요한 용량만큼을 구매하거나,  용량을 차지하는 파일을 삭제해서 용량에 맞게 관리를 해야 합니다.</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 미리보기 – 이동 버튼
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3_18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC3_18.09.png" alt=""></div>
 
 게시물 제목만 봐서는 어떤 게시물인지 모르겠죠.
 
 그래서 **미리보기에 \[이동] 버튼을 선택하면 어떤 이미지를 등록했는지 확인할 수 있어요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 게시물 삭제하기
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC4_18.09.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B4%80%EB%A6%AC4_18.09.png" alt=""></div>
 
 용량을 차지하고 있는 게시물 중, 필요가 없는 게시물은 **게시물 선택 후 \[삭제하기] 버튼을 선택해서 삭제할 수 있어요.**
 
@@ -175,7 +155,7 @@ description: '리소스 관리: 앱 제공 용량, 사용 용량, 잔여 사용 
 
 **2. 용량만 추가하여 결제할 수 있습니다.**
 
-앱 용량이 부족할 경우 [결제/이용권구매-플러그인 추가 상품구매  페이지](http://www.swing2app.co.kr/view/new\_product\_list\_by\_plugin)에서 용량 추가 상품을 구매해주세요.
+앱 용량이 부족할 경우 [결제/이용권구매-플러그인 추가 상품구매  페이지](http://www.swing2app.co.kr/view/new_product_list_by_plugin)에서 용량 추가 상품을 구매해주세요.
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822-5.png" alt="" data-size="original">
 

@@ -4,7 +4,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 # 비밀게시판 만들기(1:1 고객센터)
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 **비밀게시판 이용방법**
 
@@ -16,25 +16,17 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 아래 매뉴얼을 통해서 비밀게시판(1:1 고객센터) 을 만드는 방법, 이용방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP1. 비밀게시판 만들기**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B0_19.09-1.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B0_19.09-1.png" alt="">
-
-</div>
-
-1\. [앱운영 페이지 → 서비스관리→ 게시판관리](https://www.swing2app.co.kr/view/board\_edit) 이동합니다.
+1\. [앱운영 페이지 → 서비스관리→ 게시판관리](https://www.swing2app.co.kr/view/board_edit) 이동합니다.
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%902_19.10.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%902_19.10.png" alt=""></div>
 
 **2. \[게시판 생성]** 버튼을 선택하면 게시판을 만들 수 있는 **\[게시판 및 기능 설정]** 창이 열립니다.
 
@@ -44,11 +36,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%903_19.10.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%903_19.10.png" alt=""></div>
 
 비밀게시판은 서비스용도를 ‘1:1 고객센터’로 선택하면 자동 셋팅이 되는데요.
 
@@ -62,11 +50,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 **3.서비스용도에서 ‘사용자정의’를 선택한 뒤 아래 UI기능 등을 선택해주세요.**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%904_19.10.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%904_19.10.png" alt=""></div>
 
 1\) 게시판 이름 입력
 
@@ -150,7 +134,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3.  앱 실행화면- 1:1 고객센터
 
@@ -162,7 +146,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 ### <mark style="color:blue;">**1.앱 관리자 접속**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%905\_19.10.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%905_19.10.png)
 
 해당 앱 관리자는 사용자들이 올린 글 모두 확인이 가능합니다.
 
@@ -172,11 +156,7 @@ description: 사용자와 관리자만 이용가능한 비밀게시판 제작방
 
 ### <mark style="color:blue;">**2.다른 사용자로 로그인 (게시물 작성을 하지 않은)**</mark>
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%906_19.10.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EA%B2%8C%EC%8B%9C%ED%8C%906_19.10.png" alt=""><figcaption></figcaption></figure></div>
 
 **반대로 글을 작성한 사용자가 아닌 다른 사용자로 로그인을 한 뒤 1:1 문의게시판으로 이동하면 게시물이 없다고 나옵니다.**
 

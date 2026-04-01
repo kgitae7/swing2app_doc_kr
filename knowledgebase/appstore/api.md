@@ -20,11 +20,7 @@ description: 앱스토어 API 키 등록하기
 
 **앱스토어 커넥트 사이트 접속**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/API4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/API4.png" alt=""><figcaption></figcaption></figure></div>
 
 1.앱스토어 커넥트 사이트 접속 및 로그인
 
@@ -36,11 +32,7 @@ description: 앱스토어 API 키 등록하기
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/API5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/API5.png" alt=""><figcaption></figcaption></figure></div>
 
 3.Key(키)선택&#x20;
 
@@ -56,11 +48,7 @@ description: 앱스토어 API 키 등록하기
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/warning-(2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:red;">\*이전에 한번도 키 등록을 하지 않았다면, 아래처럼 화면이 생성되요.</mark>
 
@@ -84,23 +72,15 @@ description: 앱스토어 API 키 등록하기
 
 **스윙투앱 사이트 접속하신 뒤 앱 고급관리 화면을 열어주세요.**&#x20;
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/API (2).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/API (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-[스윙투앱 앱운영 - 서비스관리-앱 고급 관리](https://www.swing2app.co.kr/view/app\_advanced\_management) 화면 이동하시면, 화면 가장 아래에 앱스토어 API인증서 입력란을 확인할 수 있습니다.&#x20;
+[스윙투앱 앱운영 - 서비스관리-앱 고급 관리](https://www.swing2app.co.kr/view/app_advanced_management) 화면 이동하시면, 화면 가장 아래에 앱스토어 API인증서 입력란을 확인할 수 있습니다.&#x20;
 
 
 
 **이제 앱스토어 커넥트 화면과, 스윙투앱 앱 고급관리-앱스토어 API 인증서 화면함께 열어주세요.**&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/API6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/API6.png" alt=""><figcaption></figcaption></figure></div>
 
 8.\[다운로드 API KEY] 버튼을 선택하여 파일 다운받아 주세요. (파일은 열지 말고 저장만 해주세요)
 

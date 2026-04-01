@@ -4,7 +4,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 # 플레이스토어 업로드 신청방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -88,7 +88,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 [appstore-upload.md](appstore-upload.md)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1.신청방법
 
@@ -98,9 +98,11 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 플레이스토어 업로드티켓(1회 20,000원)은 [**\[업로드 티켓 구매페이지\]**](http://www.swing2app.co.kr/view/order_info_action?product_id=4)에서 구매 가능합니다.
 
+<figure><img src="../../../.gitbook/assets/이미지 2 (5).png" alt=""><figcaption></figcaption></figure>
+
 \*구매가 완료되었다면, [**앱운영 페이지 → 버전관리 → 앱제작 이력 페이지**](http://www.swing2app.co.kr/view/app_work_history)로 이동한 뒤 \[플레이스토어 업로드 신청] 버튼을 눌러주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **2.업로드 신청서**
 
@@ -116,7 +118,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 해당 항목이 플레이스토어에서 어떻게 표시되는지 확인하여 기재해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3.신청서 작성방법
 
@@ -188,15 +190,25 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 이미지 참고)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/MicrosoftTeams-image-32 (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/플레이스토어 업로드신청서- 그래픽 이미지.png" alt=""><figcaption></figcaption></figure>
 
-프로모션 동영상 URL을 제출하였을 경우 맨 앞에 영상이 보여지는데, 그래픽 이미지가 영상의 표지 이미지로 사용이 됩니다.
+{% hint style="info" %}
+#### **그래픽 이미지 노출 위치**
+
+1.플레이스토어 앱으로 접속시(플레이스토어모바일어플)
+
+프로모션 동영상 URL을 제출하였을 경우 그래픽 이미지가 영상의 표지(섬네일) 이미지로 사용이 됩니다.
 
 프로모션 동영상 URL을 제출하지 않을 경우 표시될 영상이 없기 때문에 그래픽 이미지는 노출이 되지 않습니다.&#x20;
 
-그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지를 사용합니다.
+그리고 게임 앱의 경우 미리보기 동영상 및 스크린샷을 포함하여 추천 게임 그룹을 크게 표시할 때 그래픽 이미지가 노출됩니다.
 
-단, 플레이스토어 PC 사이트에서 앱 이름 검색시 그래픽 이미지가 섬네일로 표시됩니다.&#x20;
+
+
+2.PC버전 플레이스토어 홈페이지
+
+플레이스토어 PC 사이트에서 앱 이름 검색시 그래픽 이미지가 섬네일로 표시됩니다.&#x20;
+{% endhint %}
 
 
 
@@ -268,7 +280,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%A0%EC%B2%AD%EC%84%9C4.png" alt=""></div>
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**마케팅 정보 활용 약관이란?**</mark>
 
 업로드 신청서에 보시면\[마케팅 정보 활용 약관 보기] 버튼이 있습니다.
 
@@ -302,7 +314,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 **16) 입력이 완료되면 \[신청하기] 버튼을 눌러주세요.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.업로드 신청완료
 
@@ -322,7 +334,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 5.안내사항
 
@@ -364,7 +376,121 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 
 
-★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
+### <mark style="color:blue;">**1)자주 묻는 질문 정리**</mark>
 
-**☞** [**\[스토어 이용약관 확인하기\]**](https://documentation.swing2app.co.kr/market-policy)
+<details>
+
+<summary><strong>플레이스토어는 직접 등록 및 직접 업데이트 할 수 있나요?</strong></summary>
+
+네,플레이스토어는 사용자가 직접 등록할 수 있고, 업데이트도 직접 가능합니다.&#x20;
+
+직접 하실 경우는 플레이스토어 업로드티켓 구매 안 하셔도 됩니다.&#x20;
+
+👉[플레이스토어 앱 등록 방법 가이드](https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease)
+
+👉[플레이스토어 앱 업데이트 방법 가이드 ](https://documentation.swing2app.co.kr/knowledgebase/playstore/palystore-update)
+
+</details>
+
+<details>
+
+<summary><strong>업로드 신청은 어디서 어떻게 하는건가요?</strong></summary>
+
+업로드 신청은 [**스윙 앱운영페이지 → 버전관리에 → 앱제작이력**](https://www.swing2app.co.kr/view/app_work_history) **페이지로 이동합니다.**
+
+해당 페이지에서 \[플레이스토어 업로드 신청]을 확인할 수 있습니다.
+
+​해당 버튼을 누르면 신청서가 뜹니다.&#x20;
+
+**신청서에 기재된 항목들을 입력 한 뒤 ‘신청’ 해주시면 해당 양식으로 담당자가 앱을 앱스토어에 올려드릴 수 있어요!**
+
+</details>
+
+<details>
+
+<summary><strong>업로드 신청하면, 앱이 바로 플레이스토어에 출시 되나요?</strong></summary>
+
+그렇지 않습니다. 스윙투앱에서 대행해서 앱을 플레이스토어에 업로드 진행해드리는데요.
+
+바로 출시되는 것이 아니라 구글 앱 심사를 받게 됩니다.
+
+**구글 앱 심사는 최대 7일의 시간이 걸립니다.**
+
+**\*신규 개발자는 7일 이상 소요**
+
+따라서 업로드를 한다고 해서 앱이 바로 출시되는 것이 아니구요.
+
+심사 후 문제가 없으면 해당 심사 기간 후에 정상적으로 스토어에 출시가 됩니다.
+
+그러나 심사 거절이 될 경우도 있기 때문에 출시 되는 시간은 더 길어질 수 있습니다.
+
+</details>
+
+<details>
+
+<summary><strong>플레이스토어 업데이트도 심사가 다시 들어가나요?</strong></summary>
+
+네, 업데이트도 앱 심사가 다시 들어갑니다.
+
+수정된 내용만 보는 것이 아니라 처음부터 앱의 모든 컨텐츠와 앱의 기능들을 다시 검수합니다.
+
+따라서 앱스토어 업데이트에서도 다른 정책상의 문제로 심사가 거절될 수도 있습니다.&#x20;
+
+거절이 될 경우 조치사항 안내드리며, 조치사항대로 수정하여 다시 앱 심사를 진행하여 업데이트 해드립니다.&#x20;
+
+</details>
+
+<details>
+
+<summary> <strong>플레이스토어 - 구글 개발자 계정은 필수라고 들었습니다. 어떻게 계정 만드나요?</strong></summary>
+
+\*중요\*플레이스토어는 사용자의 구글 개발자 계정이 있어야 등록이 가능합니다.
+
+\*23년 11월 이후 개발자 계정을 새로 만드시는 분들은 반드시 계정 유형: ‘조직’으로 만들어주셔야 합니다.
+
+개인 개발자 계정은 앱 출시가 불가합니다. (23년 11월 이전에 생성한 경우 출시 가능)
+
+👉[구글 개발자 ‘조직’계정 등록방법 보러가기](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
+
+</details>
+
+<details>
+
+<summary><strong>심사 거절이 되면 업로드비용이 추가되나요?</strong></summary>
+
+그렇지않습니다.
+
+심사 거절이 되면 추가 비용 없이 출시가 될 때까지 재심사 진행해드립니다.
+
+</details>
+
+### <mark style="color:blue;">**2)플레이스토어 약관 및 가이드**</mark>
+
+✅스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/market-policy" %}
+
+✅**플레이스토어 업로드 대행 약관**
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/store/playstore-policy" %}
+
+**✅플레이스토어 주요 정책 이슈**
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/store/playstorepolicy" %}
+
+**✅플레이스토어 심사 거절 사례**
+
+**1)웹앱(웹뷰&푸시앱)**
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/webappreject" %}
+
+**2)일반 프로토타입 앱**
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/reject" %}
+
+**✅플레이스토어 - 신규앱 업로드 신청방법**
+
+{% embed url="https://documentation.swing2app.co.kr/manual/appmanage/version/playstore-upload" %}
+
+
 

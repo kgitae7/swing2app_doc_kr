@@ -2,7 +2,7 @@
 description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (23년 9월 최신 버전)
 ---
 
-# 구글 플레이 정책 - 데이터 보안
+# 데이터 보안
 
 ***
 
@@ -52,7 +52,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP1. 앱 콘텐츠 메뉴 - 데이터 보안**
 
@@ -306,7 +306,7 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 간혹 제출 준비중으로 뜨고, 심사가 제대로 제출되지 않는 경우도 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP3.** 모든 조치가 다 되었는지 확인하는 방법
 
@@ -345,6 +345,5 @@ description: 구글 플레이스토어 - 데이터 보안 정책 입력 방법 (
 
 사용자가 기재한 내용이 적합한지 구글에서 판단해서 업데이트를 적용해주거나, 적합하지 않을 경우 심사를 거절합니다.
 
-\*스윙투앱에서 제작한 앱으로, 위의 내용으로 기재시 특별한 이유 없이 심사가 거절된 적은 없습니다.\
-
+\*스윙투앱에서 제작한 앱으로, 위의 내용으로 기재시 특별한 이유 없이 심사가 거절된 적은 없습니다.<br>
 {% endhint %}

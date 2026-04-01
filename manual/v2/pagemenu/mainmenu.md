@@ -26,7 +26,7 @@
 
 > <mark style="color:blue;">**앱제작 페이지 – 페이지메뉴 단계**</mark>&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_17.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_17.png)
 
 페이지메뉴 단계는 기본으로 메뉴들이 셋팅되어서 제공됩니다.
 
@@ -38,7 +38,7 @@
 
 ### <mark style="color:blue;">**STEP.1 홈화면 제작방법**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_18.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_18.png)
 
 홈화면은 앱을 실행하면 보이는 메인화면으로, 사용자가 직접 메인화면을 어떻게 보여지게 할지 구성할 수 있어요.
 
@@ -70,7 +70,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80_1.png)
 
 <mark style="color:red;">**★ 주의사항**</mark>
 
@@ -88,10 +88,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-<mark style="color:green;">**2. 홈화면 적용 움짤로 확인하기**</mark>\
+<mark style="color:green;">**2. 홈화면 적용 움짤로 확인하기**</mark><br>
 
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_12\_15\_14\_45\_50\_345.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_12_15_14_45_50_345.gif)
 
 **홈화면을 적용해보았다면 이어서 메뉴를 적용해보겠습니다.**
 
@@ -107,7 +106,7 @@
 
 <mark style="color:green;">**1. 메뉴 삭제**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_21.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_21.png)
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**기본 셋팅된 메뉴들을 삭제하는 방법**</mark>
 
@@ -127,7 +126,7 @@
 
 <mark style="color:green;">**2. 새 메뉴 추가 (카테고리 추가)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_20.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_20.png)
 
 새로운 카테고리를 추가하는 방법을 알려드릴게요.
 
@@ -147,13 +146,13 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 카테고리 추가방법 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_12\_15\_15\_13\_12\_966.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_12_15_15_13_12_966.gif)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
 <mark style="color:green;">**3. 메뉴 이동: 상위 고정, 하위 고정**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_22.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_22.png)
 
 만들어놓은 메뉴 아래로 하위 메뉴를 추가하는 방법을 알려드릴게요.
 
@@ -169,7 +168,7 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:orange;">**움짤 이미지로 메뉴 이동방법 확인하기**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_12\_15\_15\_14\_19\_953.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_12_15_15_14_19_953.gif)
 
 페이지메뉴 단계는 메뉴들의 이용방법 및 활용법을 먼저 파악을 해야만 앱제작이 좀 더 수월해집니다.
 
@@ -193,6 +192,6 @@
 
 > <mark style="color:blue;">**앱제작 완료!**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_25.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_25.png)
 
 최종 작업이 다 되면 \[앱제작요청] 버튼을 눌러서 제작하기를 완료해주세요.

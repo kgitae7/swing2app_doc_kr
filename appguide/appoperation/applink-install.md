@@ -4,7 +4,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 # 앱 설치 링크주소로 앱 다운받기
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 **앱 설치 링크 주소 발행, 링크 주소로 앱 다운받기**
 
@@ -12,20 +12,26 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 안드로이드폰에서는 앱 설치 링크로 직접 앱을 다운 받을 수 있습니다.
 
-\*아이폰은 앱 설치 불가, 안드로이드폰에서만 이용 가능합니다.
+<mark style="color:$danger;">\*아이폰은 앱 설치 불가, 안드로이드폰에서만 이용 가능합니다.</mark>
 
-스윙투앱에서 앱제작시 앱 설치 파일 뿐만 아니라 링크도 발행받을 수 있구요. 해당 링크를 다양한 곳에서 공유할 수 있습니다.
+스윙투앱에서 앱제작시 앱 설치 파일을 통해 설치 링크주소를 받을 수 있습니다.&#x20;
 
 ***
 
 {% hint style="danger" %}
 <mark style="color:red;">**안내사항**</mark>
 
-1\)무료앱 이용자는 앱 설치 기기수 제한이 있습니다. - 10개까지 이며, 그 이상이 될 경우 앱 설치 및 이용이 중단됩니다.
+1\)무료앱 이용자는 앱 설치 기기수 제한이 있습니다.&#x20;
+
+**- 10개까지** 이며, 그 이상이 될 경우 앱 설치 및 이용이 중단됩니다.
 
 무료앱은 홈페이지 등에 설치 링크를 배포할 수 없습니다.&#x20;
 
-2\)앱 링크주소는 유효세션 시간이 있습니다. 15분이며, 15분 이내로 복사한 링크로 앱을 설치하지 않을 경우 세션이 종료되어 앱 설치가 불가합니다.
+2\)앱 링크주소는 **유효세션 시간**이 있습니다.&#x20;
+
+**15분이며, 15분 이내로 복사한 링크로 앱을 설치하지 않을 경우 세션이 종료되어 앱 설치가 불가합니다.**
+
+구글 드라이브, 원드라이브를 통해 링크 공유하는 것을 권장드립니다.&#x20;
 
 3\)유료앱 이용자는 플레이스토어에 올려서 앱을 배포하는 것이 가장  좋습니다.&#x20;
 
@@ -33,12 +39,12 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 4\)앱 설치 링크이기 때문에 반드시 모바일(안드로이드폰)에서 다운 받아주셔야 하구요.
 
-5\)해당 기능은 아이폰은 이용 할 수 없어요. 안드로이드폰에서만 앱 다운이 가능합니다.
+5\)해당 기능은 **아이폰은 이용 할 수 없어요.** 안드로이드폰에서만 앱 다운이 가능합니다.
 
 6\)앱 설치 링크는 위에 안내드린 것 외에도 메신저(카톡)이나 링크를 공유할 수 있는 다양한 어플에서 이용이 가능합니다
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 앱 설치 링크주소 복사하기**
 
@@ -64,7 +70,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 다운로드 새창이 열리구요. 방금 다운 받으신 앱을 확인할 수 있습니다.
 
-<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
 5\)파일명에 마우스 오른쪽 버튼을 클릭하면 '링크 주소 복사'를 선택할 수 있습니다.&#x20;
 
@@ -76,9 +82,11 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 이렇게 하면 제작하신 앱 파일이 아닌 링크로 받을 수 있습니다.&#x20;
 
-그럼 해당 링크로 어떻게 앱 다운을 할 수 있는지 확인해주세요\~
+<mark style="color:blue;">**\*주의) 해당 링크는 유효시간 15분 입니다. 15분 내에 앱을 설치받는 경우만 사용해주세요.**</mark>
 
-<figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
+그럼 해당 링크로 어떻게 앱 다운을 할 수 있는지 확인해주세요
+
+<figure><img src="../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 앱 설치 링크로 다운받기**
 
@@ -118,18 +126,32 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 관련 메시지가 뜰 경우 모두 "무시하고 설치"로 진행해주세요.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/이미지 2.png" alt=""><figcaption><p><br><br></p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/이미지 2 (1).png" alt=""><figcaption><p><br><br></p></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/이미지 3 (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/이미지 3 (3).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
 
 
+## **STEP4.드라이브 공유 링크** &#x20;
+
+#### **💡**<mark style="color:$primary;">유효시간 없이 설치 링크를 계속 이용할 수 있는 방법은 없을까요?</mark>
+
+#### =구글 드라이브, 원드라이브를 이용해서 공유 링크를 만들 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/이미지 24.png" alt=""><figcaption></figcaption></figure>
+
+**\*접근 권한은: '링크가 있는 모든 사용자'로 수정해주세요.**&#x20;
+
+링크를 복사해서 공유해주시면, 링크가 있는 모든 사용자가 볼 수 있으며 앱 설치할 수 있습니다.&#x20;
+
 {% hint style="danger" %}
 <mark style="color:red;">**주의사항**</mark>
 
-1\)무료앱 이용자는 앱 설치 기기수 제한이 있습니다. - 10개까지 이며, 그 이상이 될 경우 앱 설치 및 이용이 중단됩니다.
+1\)무료앱 이용자는 앱 설치 기기수 제한이 있습니다.&#x20;
+
+\- 10개까지 이며, 그 이상이 될 경우 앱 설치 및 이용이 중단됩니다.
 
 무료앱은 홈페이지 등에 설치 링크를 배포할 수 없습니다.&#x20;
 
@@ -138,6 +160,8 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 설치 기기수는 제한이 없습니다.&#x20;
 
 3\)설치 링크로 공유시, 보안 세션에 따라 링크 유효시간 15분입니다. 15분후에는 앱 설치가 불가합니다.
+
+구글 드라이브, 원드라이브를 통해 링크 공유하는 것을 권장드립니다.&#x20;
 
 4\)앱 설치 링크이기 때문에 반드시 모바일(안드로이드폰)에서 다운 받아주셔야 하구요.
 

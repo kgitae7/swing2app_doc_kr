@@ -10,15 +10,11 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 게시판에서 여러 게시물을 한번에 삭제하고자 할 때 유용하게 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/001.png)
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C.png" alt=""></div>
 
 앱운영 페이지 → 게시물관리→ 게시판(게시물을 삭제하고자하는 게시판)으로 이동합니다.
 
@@ -26,11 +22,7 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/11/002.png)
 
-<div align="left">
-
-<figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%82%AD%EC%A0%9C.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%82%AD%EC%A0%9C.png" alt=""><figcaption></figcaption></figure></div>
 
 1\) 게시물 \[리스트 보기]로 선택해주시구요. (두 번째 아이콘)
 
@@ -48,21 +40,13 @@ description: 여러 게시물을 한 번에 삭제할 때 이용할 수 있는 [
 
 <mark style="color:orange;">**움짤이미지로 게시글 일괄 삭제 확인하기**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94_2020_06_17_18_41_12_982.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EB%85%B9%ED%99%94_2020_06_17_18_41_12_982.gif" alt=""></div>
 
 ***
 
 <mark style="color:orange;">**–안내 사항–**</mark>​
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C3.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C3.png" alt=""></div>
 
 \* 삭제된 게시물은 복원이 되지 않으니 삭제 전에 지워도 되는 글인지 꼭 확인해주시기 바랍니다.
 

@@ -4,7 +4,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 # 게시판 작성글 이용방법
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;**게시판 작성글이란?**
 
@@ -30,7 +30,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 질문에 맞게 사용자는 답변을 입력하여 저장할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 게시판 작성글 설정하기
 
@@ -68,7 +68,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 {% embed url="https://documentation.swing2app.co.kr/manual/appmanage/board/form" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 앱제작에서 해당 게시판을 앱에 연동해주셔야 반영이 되요, 아래에서 앱에 적용하는 방법 확인해주세요.
 
@@ -78,7 +78,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 <mark style="color:blue;">**-앱제작 V3버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/게시판 (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/게시판 (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 STEP3 페이지 선택
 
@@ -124,7 +124,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 작성글 게시판이 어떻게 앱에 적용되었는지, 앱 실행화면으로 확인할게요\~!
 
-<figure><img src="../../../.gitbook/assets/구분선 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 앱 실행화면: 작성글 확인하기
 
@@ -144,7 +144,7 @@ description: 게시판에 작성글을 설정하고 이용하는 방법
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> <mark style="color:blue;">**움짤 이미지로 작성글 화면 확인하기**</mark>
 
 <div align="left"><figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_03_24_13_20_21_625.gif" alt=""><figcaption></figcaption></figure></div>
 

@@ -10,7 +10,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 스윙샵에서 PDF 파일을 등록하는 방법, 앱 실행화면, 해당 상품을 어떻게 이용할 수 있는지 알려드리겠습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP1. 스윙샵 신청 후 상품 카테고리 등록**
 
@@ -18,7 +18,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 스윙샵을 신청해야 앱운영페이지 상단에 \[스윙샵] 메뉴가 생성이 됩니다.
 
-**☞** [**스윙샵 신청방법 보러가기**](broken-reference)
+**☞** [**스윙샵 신청방법 보러가기**](/broken/pages/iAPylrMc4UojfmjzNpj9)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1_19.09-1.png)
 
@@ -50,7 +50,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 해당 카테고리를 선택하여 내용을 수정 할 수 있고, \[삭제하기] 버튼으로 카테고리를 삭제할 수 있습니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP2. 디지털제품 – PDF 상품 등록하기**
 
@@ -120,7 +120,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 
 
-&#x20;<img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
+&#x20;<img src="../../.gitbook/assets/image (68).png" alt="" data-size="line">**옵션 추가 방법은 아래 움짤 이미지로 확인해주세요!**
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8B%A4%EB%AC%BC%EC%83%81%ED%92%88%EC%98%B5%EC%85%98.gif" alt=""></div>
 
@@ -150,7 +150,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 해당 상품 등록 수정 화면으로 이동합니다.
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP3. 앱에 상품 카테고리 적용하기**
 
@@ -206,7 +206,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 \*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP4. 앱 실행화면) 디지털상품 판매 앱**
 
@@ -224,7 +224,7 @@ description: '디지털제품: PDF파일 등록 및 앱 적용방법 안내'
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EB%85%B9%ED%99%94_2019_09_24_12_30_50_728.gif" alt=""></div>
 
-![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (10).PNG>)
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP5. 앱 실행화면) 구매한 PDF파일 확인하기**
 

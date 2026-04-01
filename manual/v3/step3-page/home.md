@@ -28,7 +28,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4%EC%A0%9C%EC%9E%911.png)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ### **1.홈화면-이미지 적용**
 
@@ -36,17 +36,13 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면)이미지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱 실행화면)이미지 적용된 홈화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80new2.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80new2.png" alt=""></div>
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%85%EB%A1%9C%EB%93%9C.png)
 
@@ -75,12 +71,12 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 다만 핸드폰 화면에  어느정도 꽉 차게 제작하고 싶다면 \*가로 사이즈: 1080px, 세로는 1980px\~2200px로 작업해서 넣어주세요.
 
-\-세로는 핸드폰 기종에 따라 차이가 있기 때문에 세로는 앱 화면을 보고 조금씩 사이즈를 조율해주시기 바랍니다.
+-세로는 핸드폰 기종에 따라 차이가 있기 때문에 세로는 앱 화면을 보고 조금씩 사이즈를 조율해주시기 바랍니다.
 
-\-가로 화면에 맞춰서 모바일 화면에 리사이징되기 때문에 세로 길이는 핸드폰마다 조금 남거나 길어서 스크롤이 생길 수 있습니다.
+-가로 화면에 맞춰서 모바일 화면에 리사이징되기 때문에 세로 길이는 핸드폰마다 조금 남거나 길어서 스크롤이 생길 수 있습니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ### &#x20;**2.게시판 적용**
 
@@ -88,13 +84,9 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면) 게시판 적용된 홈화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱 실행화면) 게시판 적용된 홈화면**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%902.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%902.png" alt=""></div>
 
 \*안내: 게시판을 홈화면으로 적용시 글쓰기는 제공되지 않습니다.
 
@@ -102,13 +94,9 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%903-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%903-1.png" alt=""></div>
 
 1\)STEP3 페이지 메뉴 선택
 
@@ -134,11 +122,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱운영-게시판 관리 화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱운영-게시판 관리 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%904.png)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ### **3.사용자페이지 – 이미지페이지 적용**
 
@@ -146,15 +134,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면) 이미지 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱 실행화면) 이미지 페이지 적용된 홈화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80.png" alt="">
-
-</div>
-
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
@@ -186,11 +170,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **이미지 페이지 제작도구 화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **이미지 페이지 제작도구 화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ### **4.사용자 페이지 – 웹템플릿 페이지 적용**
 
@@ -198,15 +182,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면) 웹템플릿 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱 실행화면) 웹템플릿 페이지 적용된 홈화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF.png" alt="">
-
-</div>
-
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF1.png)
 
@@ -238,11 +218,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **템플릿 페이지 제작도구 화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **템플릿 페이지 제작도구 화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF4_19.09.png)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ### **5.사용자 페이지 – HTML에디터 페이지 적용**
 
@@ -250,15 +230,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면) HTML에디터 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱 실행화면) HTML에디터 페이지 적용된 홈화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png" alt="">
-
-</div>
-
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802.png)
 
@@ -290,11 +266,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **HTML 에디터 페이지 제작도구 화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **HTML 에디터 페이지 제작도구 화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801_20.07.png)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ### **6.앱소개 페이지 적용**
 
@@ -306,15 +282,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **앱 실행화면) 앱소개 페이지 적용된 홈화면**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **앱 실행화면) 앱소개 페이지 적용된 홈화면**
 
-<div align="left">
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C1.png" alt=""></div>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C1.png" alt="">
-
-</div>
-
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **적용방법**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **적용방법**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C-1.png)
 
@@ -336,7 +308,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 7\) 화면 상단의 \[저장]버튼을 누르면 완료!
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 > **앱소개 페이지에 기재되는 소개, 설명, 주소, 이메일주소, 전화번호, 웹사이트 주소 등은 \[고급설정]에서 수정해서 사용할 수 있습니다.**
 
@@ -360,7 +332,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 **​**
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> **내용 삭제 및 배너 버튼 삭제는 어떻게 하나요?**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line"> **내용 삭제 및 배너 버튼 삭제는 어떻게 하나요?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
 
@@ -368,7 +340,7 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 
 
-<img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">  **앱소개 문구는 수정하고, 저장하면 바로 반영이 안되나요?**
+<img src="../../../.gitbook/assets/image (48).png" alt="" data-size="line">  **앱소개 문구는 수정하고, 저장하면 바로 반영이 안되나요?**
 
 앱소개 타이틀 문구 수정은 최초 1회 수정시 저장 후 \[앱제작 요청] 버튼을 눌러서 새 버전으로 업데이트 받아주셔야 반영됩니다.
 
@@ -391,11 +363,11 @@ description: 페이지 디자인을 적용한 앱 메인 홈화면 제작방법 
 
 **1) 홈화면 – 웹링크 적용은 권장드리지 않습니다.**
 
-\-홈화면에 웹사이트를 넣을 경우 새 화면이 열리지 못해 비정상으로 종료되거나, 사이트 내 보안 설정으로 앱에서 사이트가 열리지 않는 경우가 있습니다.
+-홈화면에 웹사이트를 넣을 경우 새 화면이 열리지 못해 비정상으로 종료되거나, 사이트 내 보안 설정으로 앱에서 사이트가 열리지 않는 경우가 있습니다.
 
-\-로그인이 되지 않거나, 결제가 되지 않는 등 보안 문제가 발생됩니다.
+-로그인이 되지 않거나, 결제가 되지 않는 등 보안 문제가 발생됩니다.
 
-\-새 창으로 열려야 하는 웹 페이지의 경우 앱 화면에서 이질적으로 보일 수 있어요. (팝업 창등의 화면 구성)
+-새 창으로 열려야 하는 웹 페이지의 경우 앱 화면에서 이질적으로 보일 수 있어요. (팝업 창등의 화면 구성)
 
 따라서 홈화면에는 웹링크 사용을 피해주세요. 위에 안내드린 메뉴들로만 이용 부탁드립니다.
 

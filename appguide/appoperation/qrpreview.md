@@ -6,12 +6,10 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 
 ***
 
-
-
-## **1.앱 미리보기란?**
+## **0.앱 미리보기란?**
 
 {% hint style="success" %}
-스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.
+**스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 서비스입니다.**
 
 **스윙투앱 공식앱을 다운받은 뒤 → \[앱 미리보기] 메뉴 선택→ 스윙 홈페이지에서 가입하신 계정으로 로그인해주세요.**
 
@@ -22,6 +20,48 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 번거롭게 APK파일을 받아서 설치하지 않아도, 내가 제작한 앱을 실시간으로 확인할 수 있습니다!
 
 \*특히 아이폰에서도 앱 미리보기가 가능합니다.
+{% endhint %}
+
+***
+
+
+
+## 1.스윙투앱 공식앱 다운 받기
+
+&#x20;가장 먼저 스윙투앱 어플을 다운받아 주시기 바랍니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
+
+[**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
+
+[**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
+
+2\) 앱 실행 후 → 카테고리 상단에 \[앱미리보기] 메뉴를 선택한 뒤 스윙웹사이트 가입 계정(아이디, 비밀번호)으로 로그인해주세요.
+
+{% hint style="success" %}
+**-간편로그인 사용자: 스윙투앱 가입시 간편로그인으로 진행하셨던 분들을 네이버, 구글,페이스북 아이콘을 선택해서 로그인을 진행해주세요.**
+
+\*주의: 로그인은 반드시 \[[스윙투앱 홈페이지](http://www.swing2app.co.kr/)]에서 가입한 계정을 넣어주셔야 합니다.
+
+스윙투앱 공식앱에서 가입한 계정이 아닙니다.
+{% endhint %}
+
+3\) 로그인이 완료되면 앱 미리보기 페이지가 열리며, 제작한 앱 목록을 확인할 수 있습니다.
+
+\*아이폰은 미리보기 버튼을 눌러서 앱미리보기로확인이 가능합니다.
+
+\*안드로이드폰에서는 앱미리보기, 앱 다운로드 모두가능합니다.
+
+{% hint style="danger" %}
+-안드로이드폰에서 앱 설치시 구글프로텍트 관련 보안 메시지가 뜰수있습니다.
+
+**보안 관련 메시지가 뜨면, 모두'무시하고 설치’ 하고 진행해주시기 바랍니다.**
+
+-스윙투앱 프로토타입: 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)
+
+-아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.
 {% endhint %}
 
 ***
@@ -94,7 +134,7 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 
 
 
-<figure><img src="../../.gitbook/assets/미리보기2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/미리보기2 (1).png" alt=""><figcaption></figcaption></figure>
 
 **스윙 브라우저 어플 먼저 설치해주세요.**
 
@@ -108,7 +148,7 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 
 ### <mark style="color:blue;">**1)스윙투앱 브라우저 QR코드**</mark>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (61).png" alt="" width="317"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (120).png" alt="" width="317"><figcaption></figcaption></figure></div>
 
 
 
@@ -141,4 +181,3 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 
 테스트하실 경우, 앱을 다운받아 이용해주세요.&#x20;
 {% endhint %}
-

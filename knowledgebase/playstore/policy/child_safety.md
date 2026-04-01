@@ -32,8 +32,7 @@ description: 셜 및 데이트 카테고리에 해당하는 앱은 Google의 아
 
 1\) [서비스 관리- 정책관리](https://www.swing2app.co.kr/view/app_setting) 선택
 
-2\) 왼쪽 카테고리에서 \[앱 가입 정책] 선택\
-
+2\) 왼쪽 카테고리에서 \[앱 가입 정책] 선택<br>
 
 <figure><img src="../../../.gitbook/assets/아동2.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,8 +48,7 @@ description: 셜 및 데이트 카테고리에 해당하는 앱은 Google의 아
 
 5\) 아동 안전 표준 정책 URL 보기 선택
 
-\
-
+<br>
 
 <figure><img src="../../../.gitbook/assets/아동3.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,8 +58,7 @@ description: 셜 및 데이트 카테고리에 해당하는 앱은 Google의 아
 
 ***
 
-\
-
+<br>
 
 ## **2.플레이스토어 어디에, 어떻게 제출하면 되나요?**
 

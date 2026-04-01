@@ -14,7 +14,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 아래에서 각 게시판 UI를 앱에 적용하는 방법을 알려드리겠습니다.
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ## **1.게시판**
 
@@ -64,7 +64,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **☞** [**게시판 만들기 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/boardeditor/)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ## **2.위치등록**&#x20;
 
@@ -110,7 +110,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **☞** [**위치등록(지도)게시판 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/map-board/)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ## **3.그룹채팅**
 
@@ -154,7 +154,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **☞**[**그룹채팅방 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/groupchat/)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ## **4.캘린더**
 
@@ -198,7 +198,7 @@ description: '페이지 디자인: UI KIT 이용방법 매뉴얼'
 
 **☞** [**캘린더 이용방법 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/calander/)
 
-![](<../../../.gitbook/assets/구분선 (2) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (11).PNG>)
 
 ## **5.스탬프**&#x20;
 

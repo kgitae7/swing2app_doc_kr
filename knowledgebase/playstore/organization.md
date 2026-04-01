@@ -76,7 +76,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 {% embed url="https://documentation.swing2app.co.kr/developer/duns" %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 결제 프로필 생성이 완료되어, 계정에 추가되었다는 메시지가 뜹니다.
 
@@ -88,7 +88,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 입력된 정보 확인 후 \[다음]버튼 선택합니다
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)조직 규모: 네모칸 화살표를 선택해서 맞는 유형을 선택해주세요.
 
@@ -112,7 +112,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)개발자 전화번호 입력 \*국가번호 포함 입력 예)+821012345678
 
@@ -144,7 +144,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/구글프레임 (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/구글프레임 (3).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -168,7 +168,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure></div>
 
 1\)\[업로드] 버튼을 선택해서 조직을 증명할 수 있는 서류를 제출합니다.
 
@@ -178,7 +178,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 ​
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 본인(개인) 신원 정보 입력
 
@@ -196,7 +196,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 주소 입력 \*회사 주소 등록
 
@@ -212,13 +212,13 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 13\) 인증번호 6자리 코드 입력 후 \[확인] 선택
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 14\)확인 선택합니다.
 

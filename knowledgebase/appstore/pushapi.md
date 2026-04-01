@@ -42,11 +42,7 @@ description: 아이폰 푸시 인증서 등록 매뉴얼
 
 {% embed url="https://developer.apple.com/account" %}
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/푸시인증서1.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/푸시인증서1.PNG" alt=""><figcaption></figcaption></figure></div>
 
 1.[애플 개발자 사이트 ](https://developer.apple.com/account/)접속 로그인해주세요. (애플 개발자 계정 로그인)
 
@@ -64,11 +60,7 @@ Team ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/푸시인증서2.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/푸시인증서2.PNG" alt=""><figcaption></figcaption></figure></div>
 
 3.Certificates, Identifiers & Profiles 항목
 
@@ -88,21 +80,33 @@ Team ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 
 
-<div align="left">
+<figure><img src="../../.gitbook/assets/그림1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/푸시인증서4.PNG" alt=""><figcaption></figcaption></figure>
+8.Environment: \[Sandbox & Production] 선택
 
-</div>
+9.Key Restriction: \[Team Scoped(All Topics)] 선택
 
-8.\[Register] 클릭
+10.\[Save] 선택
 
-9.\[Download] 버튼 클릭 후 파일 저장
 
-(파일 열지 말고 저장만 해주세요.마지막에 해당 파일 다시 업로드 해야 합니다.)
 
-10.Key ID 복사
+<figure><img src="../../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">\*중요\*</mark>
+11.\[Register] 클릭
+
+12\. \[Processing] 클릭
+
+
+
+<figure><img src="../../.gitbook/assets/그림3.png" alt=""><figcaption></figcaption></figure>
+
+13\. \[Download] 버튼 클릭 후 파일 저장
+
+\*파일 열지 말고 저장만 해주세요. 마지막에 해당 파일 다시 업로드 해야 합니다.
+
+14\. Key ID 복사
+
+<mark style="color:red;">**\*중요\***</mark>
 
 Key ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
@@ -110,23 +114,21 @@ Key ID는 마지막 고급관리에서 입력해야 하는 정보입니다.
 
 
 
-<div align="left">
+{% hint style="success" %}
+**스윙투앱 앱 고급관리로 화면으로 이동합니다.**
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/푸시인증서5 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림4 (1).png" alt=""><figcaption></figcaption></figure>
 
-</div>
+[스윙투앱  앱운영 →서비스관리 →앱 고급관리](http://www.swing2app.co.kr/view/app_advanced_management)
 
-[스윙투앱  앱운영 →서비스관리 →앱 고급관리](http://www.swing2app.co.kr/view/app\_advanced\_management)
+15.푸시 인증서 ‘p8’ 선택
 
-스윙투앱 앱 고급관리로 화면으로 이동합니다.
+16.인증서 업로드 버튼을 눌러 다운받은 파일을 업로드 합니다. (순서 9에서 다운받은 파일)
 
-11.푸시 인증서 ‘p8’ 선택
+17.Key id 값을 입력합니다. (순서 10에서 복사한 값 )
 
-12.인증서 업로드 버튼을 눌러 다운받은 파일을 업로드 합니다. (순서 9에서 다운받은 파일)
+18.Team id 값을 입력합니다. (순서 2에서 복사한 값 )
 
-13\. Key id 값을 입력합니다. (순서 10에서 복사한 값 )
-
-14\. Team id 값을 입력합니다. (순서 2에서 복사한 값 )
-
-15\. \[저장] 클릭하면 완료
+19.\[저장] 선택시 완료
 

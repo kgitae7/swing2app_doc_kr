@@ -4,7 +4,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 # 채팅 관리자 페이지 (웹 대시보드용)
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 채팅목록은 1:1채팅(관리자채팅)을 이용하시는 분들께 유용한 기능이에요.&#x20;
 
@@ -14,15 +14,15 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 매뉴얼을 통해서 채팅 목록 메뉴를 이용하는 방법을 확인해주세요.
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 채팅 관리자 페이지 이동
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%B1%84%ED%8C%85%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-스윙 홈페이지 접속 후  [**앱운영 페이지에서 → 서비스관리** ](http://www.swing2app.co.kr/view/admin\_chatting)**→  채팅 관리자페이지** 로 이동합니다.&#x20;
+스윙 홈페이지 접속 후  [**앱운영 페이지에서 → 서비스관리** ](http://www.swing2app.co.kr/view/admin_chatting)**→  채팅 관리자페이지** 로 이동합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. 채팅 목록
 
@@ -36,11 +36,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/501e2b073e3179fefc05518335da28ec.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/501e2b073e3179fefc05518335da28ec.png" alt=""></div>
 
 1\)목록 필터: 읽은 채팅 목록, 읽지 않은 채팅 목록을 선택하여 확인할 수 있습니다.\
 2\)검색: 채팅을 했던 회원명, 회원 ID를 검색하여 회원을 찾아볼 수 있습니다.\
@@ -53,15 +49,11 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. 채팅 목록 기능
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9bde13d64efa084d8bbe556856d87a7e.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/9bde13d64efa084d8bbe556856d87a7e.png" alt=""></div>
 
 <mark style="color:orange;">**1) 알림 숫자 뱃지**</mark>
 
@@ -84,11 +76,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 \
 <mark style="color:orange;">**3) 웹사이트 채팅방 개설**</mark>
 
-<div align="left">
-
-<img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4cf31405ee64937a401b0f5d2516bb7a.png" alt="">
-
-</div>
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4cf31405ee64937a401b0f5d2516bb7a.png" alt=""></div>
 
 채팅 목록 페이지에서 **메시지가 온 회원을 선택하면 웹에서 바로 대화가 가능하도록 채팅창이 뜹니다.**
 
@@ -114,7 +102,7 @@ description: 서비스관리-채팅 관리자 페이지 이용방법 안내
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/791f5b0f06f783dc7d00417368182fa3.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (5) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. 앱에 1:1채팅을 적용하는 방법
 

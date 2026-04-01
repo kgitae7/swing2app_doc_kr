@@ -12,27 +12,19 @@
 
 ***
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_15_39_13_690.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_15_39_13_690.gif" alt=""></div>
 
 **위의 이미지처럼 플래시 스타일 홈화면을 제작하는 방법을 알려드릴거에요\~!**
 
-\+해당 앱은 템플릿 페이지를 적용하구요.
++해당 앱은 템플릿 페이지를 적용하구요.
 
-\+상단 헤더 이미지에 미리 만들어놓은 gif이미지를 적용하여 만들 수 있습니다.
++상단 헤더 이미지에 미리 만들어놓은 gif이미지를 적용하여 만들 수 있습니다.
 
 
 
 <mark style="color:orange;">**스윙투앱으로 제작한 앱: 올댓모델 앱**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_15_17_04_54_162.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_15_17_04_54_162.gif" alt=""></div>
 
 스윙투앱으로 제작한 사용자 앱 중에서도 플래시 스타일로 제작한 앱이 있어요!
 
@@ -188,7 +180,7 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_15\_41\_44\_321.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_15_41_44_321.gif)
 
 위의 가상머신에서 보시는 것처럼 상단 헤더이미지가 플래시 스타일로 적용된 것을 확인할 수 있어요.
 
@@ -196,15 +188,11 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 <mark style="color:blue;">**\*추가 안내 \[이미지 페이지로 작업한 플래시 화면]**</mark>
 
-<div align="left">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_16_23_01_948.gif" alt="">
-
-</div>
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_16_23_01_948.gif" alt=""></div>
 
 **이미지 페이지에 gif 이미지를 넣어서도 제작할 수 있어요.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_14\_16\_26\_18\_258.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_12_14_16_26_18_258.gif)
 
 **이미지 페이지 제작도구 화면에서 작업해놓은 GIF이미지를 불러올 수 있습니다.**
 
@@ -228,7 +216,6 @@ gif 파일은 일반 파일에서는 보이지 않아요.
 
 3\) 파일 용량 5MB 이내로만 업로드 가능합니다.
 
-4\) 파일 업로드시 ‘모든 파일’ 열기로 설정하셔야 gif파일이 열립니다.\
-
+4\) 파일 업로드시 ‘모든 파일’ 열기로 설정하셔야 gif파일이 열립니다.<br>
 
 이처럼 스윙투앱 사용자 여러분들도 사용자페이지(템플릿 페이지, 이미지페이지, HTML에디터 페이지)를 이용하여 플래시 스타일 화면을 제작해보세요 ^^

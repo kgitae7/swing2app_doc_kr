@@ -4,15 +4,11 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 # 복합게시판
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (12).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. 복합게시판이란?
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합게시판업뎃.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합게시판업뎃.png" alt=""><figcaption></figcaption></figure></div>
 
 복합게시판이란, 게시판 글을 모두 모아서 한 화면에 보여줄 수 있는 기능입니다.
 
@@ -20,15 +16,11 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 업데이트된 복합게시판을 이용하면 전체 게시판 혹은 선택한 몇 개의 게시판을 한 화면에 모두 보여줍니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (12).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2.이용방법
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합6.png" alt=""><figcaption></figcaption></figure></div>
 
 앱제작 V3버전에서 이용 가능, 앱 업데이트가 필요합니다. 해당 기능을 이용하기 전 앱 업데이트를 먼저 해주세요.
 
@@ -36,21 +28,13 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/복합1.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/복합1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-1\)[앱운영 – 서비스관리 – 게시판 관리](http://www.swing2app.co.kr/view/board\_edit) 이동
+1\)[앱운영 – 서비스관리 – 게시판 관리](http://www.swing2app.co.kr/view/board_edit) 이동
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합2.png" alt=""><figcaption></figcaption></figure></div>
 
 2\)\[게시판 생성] 버튼 선택
 
@@ -62,19 +46,11 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합3.png" alt=""><figcaption></figcaption></figure></div>
 
 4\)상단 메뉴 \[복합게시판] 선택
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/녹화_2023_05_12_11_59_47_360.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/녹화_2023_05_12_11_59_47_360.gif" alt=""><figcaption></figcaption></figure></div>
 
 5\)어떤 게시판을 연결할 것인지 왼쪽에 있는 게시판을 마우스로 선택한 뒤, > 버튼을 누르면 오른쪽으로 게시판이 추가됩니다.
 
@@ -82,11 +58,7 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합4.png" alt=""><figcaption></figcaption></figure></div>
 
 7\)앱제작 화면 이동 후, 만들어놓은 복합 게시판을 앱 메뉴로 연결해주시면 앱에서 확인 가능합니다.
 
@@ -112,17 +84,13 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 >
 > (7) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (12).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3.앱 실행화면) 복합게시판 적용 화면
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/복합5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/복합5.png" alt=""><figcaption></figcaption></figure></div>
 
 복합게시판은 선택한 게시판 UI스타일에 맞게 보여집니다.
 
@@ -138,7 +106,7 @@ description: 게시판 - 복합 게시판 이용방법 매뉴얼
 
 게시물에 등록된 섬네일 이미지가 없을 경우 앱 아이콘 이미지로 대체되어 보여집니다.
 
-<figure><img src="../../../.gitbook/assets/구분선 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (12).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4.안내사항
 

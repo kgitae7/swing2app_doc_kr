@@ -34,7 +34,7 @@
 
 <mark style="color:orange;">**1단계 앱 기본정보**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94%EC%A0%9C%EA%B1%B01\_20\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/08/%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94%EC%A0%9C%EA%B1%B01_20_886.png)
 
 스윙 홈페이지 로그인 후 \[앱제작 페이지] 1단계 앱 기본정보
 
@@ -64,7 +64,7 @@
 
 <mark style="color:orange;">**2단계 디자인테마**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94%EC%A0%9C%EA%B1%B02\_20.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94%EC%A0%9C%EA%B1%B02_20.png)
 
 1\)프로토타입 선택: ‘푸시 전용’ 선택
 
@@ -82,7 +82,7 @@
 
 <mark style="color:orange;">**3단계 페이지메뉴**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91120.08\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91120.08_886.png)
 
 1\) 사이트주소입력: 앱에 적용하고자 하는 링크 URL주소 입력해주세요.
 
@@ -100,12 +100,11 @@
 
 &#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**푸시앱 특징**</mark>
 
-\-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
+-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
-\-웹뷰와 달리 스윙투앱에서 제공하는 푸시 발송 기능을 이용할 수 있어요.
+-웹뷰와 달리 스윙투앱에서 제공하는 푸시 발송 기능을 이용할 수 있어요.
 
-<mark style="color:red;">**-앱 제작시 앱 화면 하단에 푸시툴바가 생성됩니다.**</mark> \
-
+<mark style="color:red;">**-앱 제작시 앱 화면 하단에 푸시툴바가 생성됩니다.**</mark> <br>
 
 &#x20;<mark style="background-color:blue;">**▶**</mark><mark style="color:blue;">**푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**</mark>
 
@@ -131,7 +130,7 @@
 
 <mark style="color:red;">**-툴바 제공 기능-**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/Info\_toolbar\_Main\_800.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/Info_toolbar_Main_800.png)
 
 1\)< > 화면 전단계, 다음 단계 버튼
 
@@ -177,7 +176,7 @@
 
 <mark style="color:orange;">**1단계 앱 기본정보**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%913\_20.08\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%913_20.08_886.png)
 
 스윙 홈페이지 로그인 후 \[앱제작 페이지] 1단계 앱 기본정보
 
@@ -205,7 +204,7 @@
 
 <mark style="color:orange;">**2단계 디자인테마**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%912\_20.08\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%912_20.08_886.png)
 
 1\)프로토타입 선택: **‘웹뷰전용’ 선택**
 
@@ -217,7 +216,7 @@
 
 <mark style="color:orange;">**3단계 페이지메뉴**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%9120.08\_886.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%9120.08_886.png)
 
 1\) 사이트주소입력: 앱에 적용하고자 하는 링크 URL주소 입력해주세요.
 
@@ -235,11 +234,11 @@
 
 <mark style="background-color:blue;">**▶**</mark> <mark style="color:blue;">**웹뷰 특징**</mark>
 
-\-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
+-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
 
-\-웹링크만 이용하는 스타일이기 때문에 스윙에서 제공하는 다른 메뉴들은 사용할 수 없어요.(푸시 알림, 게시판 등 모든 메뉴 사용 안되요)
+-웹링크만 이용하는 스타일이기 때문에 스윙에서 제공하는 다른 메뉴들은 사용할 수 없어요.(푸시 알림, 게시판 등 모든 메뉴 사용 안되요)
 
-\-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
+-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
 
 
 

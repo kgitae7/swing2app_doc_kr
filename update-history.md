@@ -1,6 +1,6 @@
 # 스윙투앱 업데이트 히스토리
 
-<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 **Swing Update History**
 
@@ -54,7 +54,7 @@
 
 푸시 메시지 입력란 모바일 이모티콘(이모지) 이용 가능\_2023년 1월 1주차[\[상세보기\]](https://blog.naver.com/swing2app/222972716531)
 
-웹앱(웹뷰,푸시앱) 액세스 권한 허용 안내 팝업\_2022년 8월 3주차[\[상세보기\]](http://www.swing2app.co.kr/view/swing\_notice\_detail?notice\_id=756\&notice\_type=normalNotice)
+웹앱(웹뷰,푸시앱) 액세스 권한 허용 안내 팝업\_2022년 8월 3주차[\[상세보기\]](http://www.swing2app.co.kr/view/swing_notice_detail?notice_id=756\&notice_type=normalNotice)
 
 프로그레스바 색상 설정 기능 추가\_2022년 7월 4주차[\[상세보기\]](https://blog.naver.com/swing2app/222827802190)
 
