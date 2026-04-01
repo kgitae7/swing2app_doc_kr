@@ -58,19 +58,31 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 
 3.새 지원 티켓 화면에서 주제를 선택해서 내용을 제출합니다.
 
-<figure><img src="../../.gitbook/assets/환불 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구글환불1.png" alt=""><figcaption></figcaption></figure>
 
 **1)주제 선택: '개발자 계정 및 인증' 선택**
 
-**2)설명 항목: '개발자 확인' 선택**
+**2)설명 항목: '개발자 계정 삭제' 선택**
 
-**3)문제 선택: '기타' 선택**
+**3)거래 ID 입력**
 
-<figure><img src="../../.gitbook/assets/환불 2.png" alt=""><figcaption></figcaption></figure>
+거래 ID는 PDS.로 시작하는 값으로, 받으신 메일의 주문완료 영수증에 기재되어 있습니다.
 
-**4)문제 설명: 개발자 계정 환불 요청한다는 내용으로 입력해주세요.**
+혹은 [구글 거래내역](https://pay.google.com/gp/w/home/activity?sctid=1495422863104705)  에서 확인 가능합니다.&#x20;
 
-**5)대시보드 화면 등을 캡처하여 이미지 등록해주세요.**&#x20;
+<mark style="color:$primary;">**\*거래 ID 확인 하는 방법**</mark>
+
+<div align="left"><figure><img src="../../.gitbook/assets/거래ID영수증 (1).PNG" alt=""><figcaption></figcaption></figure></div>
+
+구글 개발자 계정 로그인 후 - 받으신 메일함에 보시면 구매 영수증을 확인할 수 있습니다.
+
+영수증에 구글 주문번호로 확인 가능합니다. <mark style="color:purple;">메일 제목 "Google: 감사합니다" 확인해주세요.</mark>
+
+﻿
+
+**4)개발자 계정에는 앱이 없어야 합니다. "아니요" 선택**
+
+**5)앱이 차단, 삭제, 거부, 정지된 상태가 아니어야 합니다. "아니요" 선택**
 
 **6)제출 버튼 선택**
 
