@@ -190,7 +190,7 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 이미지 참고)
 
-<figure><img src="../../../.gitbook/assets/플레이스토어 업로드신청서- 그래픽 이미지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/플레이스토어 업로드신청서- 그래픽 이미지 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### **그래픽 이미지 노출 위치**

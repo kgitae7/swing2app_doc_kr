@@ -44,7 +44,7 @@ description: 구글 플레이 개발자 계정 등록비 25달러 환불 신청 
 
 1.구글 플레이 콘솔 접속(개발자 계정 로그인) [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 대시보드 왼쪽 메뉴 "도움말" 선택
 

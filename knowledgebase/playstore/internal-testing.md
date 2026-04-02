@@ -36,7 +36,7 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 구글플레이 콘솔 접속 [https://play.google.com/console/developers/](https://play.google.com/console/developers/)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[앱 만들기] 선택해주세요.
 

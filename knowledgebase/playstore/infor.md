@@ -191,7 +191,7 @@ Contact 이메일 help@swing2app.co.kr | [문의게시판](http://www.swing2app.
 
 이미지 참고)
 
-<figure><img src="../../.gitbook/assets/플레이스토어 업로드신청서- 그래픽 이미지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/플레이스토어 업로드신청서- 그래픽 이미지 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### **그래픽 이미지 노출 위치**
