@@ -16,7 +16,7 @@ description: WebView 모듈(웹뷰,푸시전용)을 제어할 수 있는 Javascr
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2025_10_27_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2026_03_31_001/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -967,6 +967,541 @@ public class DecoderMain {
 }
 
 ```
+
+
+
+## 디바이스 관련 Method <a href="#device-method" id="device-method"></a>
+
+### 진동 실행하기 <a href="#do-vibration" id="do-vibration"></a>
+
+디바이스 진동을 실행하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 진동
+swingWebViewPlugin.app.device.vibrate();
+
+// 진동 시간 지정 (Android만 효과)
+swingWebViewPlugin.app.device.vibrate({ duration: 500 });
+
+// 패턴 진동 [대기, 진동, 대기, 진동, ...]
+swingWebViewPlugin.app.device.vibrate({ pattern: [100, 200, 100, 400] });
+
+// iOS Haptic 타입 사용 (light, medium, heavy, success, warning, error)
+swingWebViewPlugin.app.device.vibrate({ type: 'success' });
+```
+
+| Parameter | 타입     | 필수 | 기본값       | 설명                                                            |
+| --------- | ------ | -- | --------- | ------------------------------------------------------------- |
+| duration  | Number | N  | 200       | 진동 지속 시간 (ms) - Android만 지원                                   |
+| pattern   | Array  | N  | -         | 진동 패턴 배열                                                      |
+| type      | String | N  | 'default' | iOS Haptic 타입 (light, medium, heavy, success, warning, error) |
+
+## 토스트/알림 관련 Method <a href="#toast-method" id="toast-method"></a>
+
+### 토스트 메시지 표시하기 <a href="#show-toast-message" id="show-toast-message"></a>
+
+화면에 토스트 메시지를 표시하는 기능. 커스텀 위치, 색상을 지원합니다.
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 토스트
+swingWebViewPlugin.app.ui.showToast('저장되었습니다.');
+
+// 상단 토스트 + 커스텀 스타일
+swingWebViewPlugin.app.ui.showToast('새 메시지가 도착했습니다.', {
+    duration: 3000,
+    position: 'top',
+    backgroundColor: '#4CAF50',
+    textColor: '#FFFFFF'
+});
+
+// 중앙 토스트
+swingWebViewPlugin.app.ui.showToast('로딩 중...', {
+    position: 'center',
+    duration: 5000
+});
+```
+
+| Parameter       | 타입     | 필수 | 기본값       | 설명                        |
+| --------------- | ------ | -- | --------- | ------------------------- |
+| message         | String | Y  | -         | 표시할 메시지                   |
+| duration        | Number | N  | 2000      | 표시 시간 (ms)                |
+| position        | String | N  | 'bottom'  | 'top', 'center', 'bottom' |
+| backgroundColor | String | N  | '#333333' | 배경색 (hex)                 |
+| textColor       | String | N  | '#FFFFFF' | 텍스트 색상 (hex)              |
+
+## 키보드 제어 관련 Method <a href="#keypad-method" id="keypad-method"></a>
+
+### 키보드 숨기기 <a href="#hide-keypad" id="hide-keypad"></a>
+
+소프트 키보드를 숨기는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.keyboard.hide();
+
+// 폼 제출 후 키보드 숨기기 예시
+document.getElementById('myForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    swingWebViewPlugin.app.keyboard.hide();
+});
+```
+
+### 키보드 표시 상태 확인하기 <a href="#keypad-status-check" id="keypad-status-check"></a>
+
+키보드가 현재 표시되어 있는지 확인하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.keyboard.isVisible(function(isVisible) {
+    console.log('키보드 표시 상태:', isVisible);
+});
+```
+
+## QR코드/바코드 관련 Method <a href="#qrcode-method" id="qrcode-method"></a>
+
+### QR/바코드 스캔하기 <a href="#scan-qr-code" id="scan-qr-code"></a>
+
+QR코드/바코드 스캐너를 실행하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 스캔
+swingWebViewPlugin.app.scanner.scan({}, function(result) {
+    if (result.success) {
+        console.log('스캔된 데이터:', result.data);
+        console.log('포맷:', result.format);
+    } else if (result.cancelled) {
+        console.log('사용자가 취소했습니다.');
+    } else {
+        console.error('스캔 실패:', result.error);
+    }
+});
+
+// QR코드만 스캔
+swingWebViewPlugin.app.scanner.scan({
+    type: 'qr',
+    title: '출석 QR 스캔',
+    beepOnScan: true,
+    vibrateOnScan: true
+}, function(result) {
+    if (result.success) {
+        processAttendance(result.data);
+    }
+});
+```
+
+| Parameter     | 타입      | 필수 | 기본값     | 설명                     |
+| ------------- | ------- | -- | ------- | ---------------------- |
+| type          | String  | N  | 'all'   | 'qr', 'barcode', 'all' |
+| title         | String  | N  | '코드 스캔' | 스캐너 화면 타이틀             |
+| beepOnScan    | Boolean | N  | true    | 스캔 시 비프음               |
+| vibrateOnScan | Boolean | N  | true    | 스캔 시 진동                |
+
+**Callback 결과:**
+
+| 파라미터      | 타입      | 설명                          |
+| --------- | ------- | --------------------------- |
+| success   | Boolean | 성공 여부                       |
+| data      | String  | 스캔된 데이터                     |
+| format    | String  | 코드 포맷 (QR\_CODE, EAN\_13 등) |
+| cancelled | Boolean | 사용자 취소 여부                   |
+| error     | String  | 에러 메시지 (실패 시)               |
+
+### QR코드 표시하기 <a href="#show-qr-code" id="show-qr-code"></a>
+
+QR코드를 화면에 팝업으로 표시하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 QR코드 표시
+swingWebViewPlugin.app.qr.show('https://myapp.com/profile/12345');
+
+// 커스텀 옵션
+swingWebViewPlugin.app.qr.show('https://payment.example.com/pay?order=ABC123', {
+    title: '결제 QR코드',
+    size: 300,
+    closeButtonText: '확인'
+});
+```
+
+| Parameter       | 타입     | 필수 | 기본값  | 설명              |
+| --------------- | ------ | -- | ---- | --------------- |
+| data            | String | Y  | -    | QR코드에 인코딩할 데이터  |
+| size            | Number | N  | 250  | QR코드 크기 (dp/pt) |
+| title           | String | N  | -    | 다이얼로그 타이틀       |
+| closeButtonText | String | N  | '닫기' | 닫기 버튼 텍스트       |
+
+## 이미지/PDF 뷰어 관련 Method <a href="#image-pdf-method" id="image-pdf-method"></a>
+
+### 이미지 뷰어 열기 <a href="#open-image-viewer" id="open-image-viewer"></a>
+
+전체 화면 이미지 뷰어를 표시하는 기능. 줌, 스와이프 네비게이션을 지원합니다.
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 단일 이미지
+swingWebViewPlugin.app.viewer.showImage('https://example.com/photo.jpg');
+
+// 여러 이미지 (갤러리)
+swingWebViewPlugin.app.viewer.showImage([
+    'https://example.com/photo1.jpg',
+    'https://example.com/photo2.jpg',
+    'https://example.com/photo3.jpg'
+], {
+    startIndex: 1,
+    showPageIndicator: true,
+    showThumbnails: true
+});
+```
+
+| Parameter         | 타입           | 필수 | 기본값       | 설명                |
+| ----------------- | ------------ | -- | --------- | ----------------- |
+| images            | String/Array | Y  | -         | 이미지 URL 또는 URL 배열 |
+| startIndex        | Number       | N  | 0         | 시작 이미지 인덱스        |
+| showPageIndicator | Boolean      | N  | true      | 페이지 인디케이터 표시      |
+| showThumbnails    | Boolean      | N  | false     | 썸네일 목록 표시         |
+| backgroundColor   | String       | N  | '#000000' | 배경색               |
+
+### PDF 뷰어 열기 <a href="#open-pdf-viewer" id="open-pdf-viewer"></a>
+
+PDF 파일을 뷰어로 표시하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 PDF 열기
+swingWebViewPlugin.app.viewer.showPDF('https://example.com/document.pdf');
+
+// 옵션 지정
+swingWebViewPlugin.app.viewer.showPDF('https://example.com/manual.pdf', {
+    title: '사용자 매뉴얼',
+    showPageIndicator: true,
+    showThumbnails: true
+});
+```
+
+| Parameter         | 타입      | 필수 | 기본값       | 설명           |
+| ----------------- | ------- | -- | --------- | ------------ |
+| url               | String  | Y  | -         | PDF 파일 URL   |
+| title             | String  | N  | 'PDF 뷰어'  | 뷰어 타이틀       |
+| showPageIndicator | Boolean | N  | true      | 페이지 인디케이터 표시 |
+| showThumbnails    | Boolean | N  | false     | 썸네일 네비게이션    |
+| backgroundColor   | String  | N  | '#FFFFFF' | 배경색          |
+
+## 팝업 관련 Method <a href="#popup-method" id="popup-method"></a>
+
+### 배너 팝업 표시하기 <a href="#show-banner-popup" id="show-banner-popup"></a>
+
+배너 형태의 팝업을 표시하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 배너 팝업
+swingWebViewPlugin.app.popup.showBannerPopup({
+    imageUrl: 'https://example.com/event-banner.jpg',
+    linkUrl: '/event/summer-sale'
+});
+
+// 상단 배너
+swingWebViewPlugin.app.popup.showBannerPopup({
+    imageUrl: 'https://example.com/notice.jpg',
+    position: 'top',
+    height: 150,
+    autoDismiss: 5000
+});
+```
+
+| Parameter       | 타입      | 필수 | 기본값       | 설명                        |
+| --------------- | ------- | -- | --------- | ------------------------- |
+| imageUrl        | String  | Y  | -         | 배너 이미지 URL                |
+| position        | String  | N  | 'bottom'  | 'top', 'center', 'bottom' |
+| height          | Number  | N  | 200       | 배너 높이 (dp/pt)             |
+| backgroundColor | String  | N  | '#FFFFFF' | 배경색                       |
+| showCloseButton | Boolean | N  | true      | 닫기 버튼 표시                  |
+| autoDismiss     | Number  | N  | 0         | 자동 닫힘 시간 (ms, 0=비활성)      |
+| linkUrl         | String  | N  | -         | 클릭 시 이동 URL               |
+
+### 풀스크린 팝업 표시하기 <a href="#show-fullscreen-popup" id="show-fullscreen-popup"></a>
+
+전체 화면 팝업을 표시하는 기능. 앱 투어(온보딩), 이벤트 팝업에 활용할 수 있습니다.
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 앱 투어 / 온보딩
+swingWebViewPlugin.app.popup.showFullScreen({
+    type: 'tour',
+    pages: [
+        {
+            image: 'https://example.com/onboarding/step1.png',
+            title: '환영합니다!',
+            description: '앱의 주요 기능을 소개해드릴게요.'
+        },
+        {
+            image: 'https://example.com/onboarding/step2.png',
+            title: '쉬운 주문',
+            description: '3번의 터치로 간편하게 주문하세요.'
+        },
+        {
+            image: 'https://example.com/onboarding/step3.png',
+            title: '지금 시작해보세요!',
+            description: '회원가입하고 첫 주문 할인 받으세요.',
+            buttonText: '시작하기'
+        }
+    ],
+    showPageIndicator: true,
+    actionButtonText: '시작하기',
+    popupId: 'app-tour-v1'
+}, function(result) {
+    if (result.action === 'complete') {
+        localStorage.setItem('onboarding_completed', 'true');
+    }
+});
+
+// 프로모션 팝업
+swingWebViewPlugin.app.popup.showFullScreen({
+    type: 'promotion',
+    pages: [{
+        image: 'https://example.com/promo.jpg',
+        title: '여름 세일!',
+        description: '전 상품 30% 할인'
+    }],
+    showDontShowAgain: true,
+    popupId: 'summer-sale-2024'
+});
+```
+
+| Parameter            | 타입      | 필수 | 기본값       | 설명                            |
+| -------------------- | ------- | -- | --------- | ----------------------------- |
+| type                 | String  | N  | 'tour'    | 'tour', 'promotion', 'notice' |
+| pages                | Array   | Y  | -         | 페이지 배열                        |
+| pages\[].image       | String  | N  | -         | 이미지 URL                       |
+| pages\[].title       | String  | N  | -         | 제목                            |
+| pages\[].description | String  | N  | -         | 설명                            |
+| showCloseButton      | Boolean | N  | true      | 닫기 버튼 표시                      |
+| showPageIndicator    | Boolean | N  | true      | 페이지 인디케이터                     |
+| showDontShowAgain    | Boolean | N  | false     | "다시 보지 않기" 표시                 |
+| actionButtonText     | String  | N  | '시작하기'    | 완료 버튼 텍스트                     |
+| backgroundColor      | String  | N  | '#000000' | 배경색                           |
+| popupId              | String  | N  | 'default' | 팝업 고유 ID                      |
+
+**팝업 타입:**
+
+| 타입        | 설명       | UI 스타일                    |
+| --------- | -------- | ------------------------- |
+| tour      | 앱 투어/온보딩 | 풀스크린, 상태바 숨김              |
+| promotion | 프로모션 팝업  | 모달 카드 (85% x 70%), 반투명 배경 |
+| notice    | 공지 팝업    | 모달 카드, 배경 탭으로 닫기          |
+
+## 플로팅 메뉴 관련 Method <a href="#floating-menu-method" id="floating-menu-method"></a>
+
+### 플로팅 메뉴 표시하기 <a href="#show-floating-menu" id="show-floating-menu"></a>
+
+플로팅 액션 버튼(FAB) 메뉴를 표시하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 기본 플로팅 메뉴
+swingWebViewPlugin.app.floatingMenu.show({
+    items: [
+        { id: 'home', label: '홈', icon: 'https://example.com/home.png' },
+        { id: 'cart', label: '장바구니', icon: 'https://example.com/cart.png', color: '#FF5722' },
+        { id: 'share', label: '공유', icon: 'https://example.com/share.png' }
+    ],
+    position: 'bottomRight',
+    buttonColor: '#673AB7'
+}, function(result) {
+    console.log('선택된 메뉴:', result.id);
+    if (result.id === 'home') {
+        window.location.href = '/';
+    }
+});
+
+// 드래그 가능한 메뉴
+swingWebViewPlugin.app.floatingMenu.show({
+    items: [
+        { id: 'scroll-top', label: '맨 위로' },
+        { id: 'refresh', label: '새로고침' }
+    ],
+    draggable: true
+});
+```
+
+| Parameter      | 타입      | 필수 | 기본값           | 설명                                                 |
+| -------------- | ------- | -- | ------------- | -------------------------------------------------- |
+| items          | Array   | Y  | -             | 메뉴 아이템 배열                                          |
+| items\[].id    | String  | Y  | -             | 아이템 고유 ID                                          |
+| items\[].label | String  | N  | -             | 아이템 레이블                                            |
+| items\[].icon  | String  | N  | -             | 아이콘 URL                                            |
+| items\[].color | String  | N  | '#333333'     | 아이템 배경색                                            |
+| position       | String  | N  | 'bottomRight' | 'bottomRight', 'bottomLeft', 'topRight', 'topLeft' |
+| buttonSize     | Number  | N  | 56            | 메인 버튼 크기 (dp/pt)                                   |
+| buttonColor    | String  | N  | '#4CAF50'     | 메인 버튼 배경색                                          |
+| buttonIcon     | String  | N  | -             | 메인 버튼 아이콘 URL                                      |
+| draggable      | Boolean | N  | false         | 드래그 이동 가능                                          |
+
+### 플로팅 메뉴 숨기기
+
+플로팅 메뉴를 숨기는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.floatingMenu.hide();
+```
+
+## 위치 정보 관련 Method <a href="#location-method" id="location-method"></a>
+
+### 현재 위치 가져오기 <a href="#gps-get-location" id="gps-get-location"></a>
+
+현재 디바이스 위치를 가져오는 기능
+
+> \*js lib 2025\_04\_03\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.location.getCurrentPosition({}, function(result) {
+    if (result.success) {
+        console.log('위도:', result.coords.latitude);
+        console.log('경도:', result.coords.longitude);
+        console.log('정확도:', result.coords.accuracy, 'm');
+    } else {
+        console.error('위치 오류:', result.error, result.code);
+    }
+});
+```
+
+| Parameter          | 타입      | 필수 | 기본값  | 설명              |
+| ------------------ | ------- | -- | ---- | --------------- |
+| enableHighAccuracy | Boolean | N  | true | 고정밀 위치 사용 (GPS) |
+
+**Callback 결과:**
+
+| 파라미터             | 타입      | 설명                                                    |
+| ---------------- | ------- | ----------------------------------------------------- |
+| success          | Boolean | 성공 여부                                                 |
+| coords.latitude  | Number  | 위도                                                    |
+| coords.longitude | Number  | 경도                                                    |
+| coords.accuracy  | Number  | 정확도 (m)                                               |
+| coords.altitude  | Number  | 고도 (m)                                                |
+| coords.speed     | Number  | 속도 (m/s)                                              |
+| coords.heading   | Number  | 방향 (도)                                                |
+| timestamp        | Number  | 타임스탬프                                                 |
+| error            | String  | 에러 메시지                                                |
+| code             | String  | 에러 코드 (PERMISSION\_DENIED, PROVIDER\_DISABLED, ERROR) |
+
+### 위치 추적 시작하기 <a href="#gps-watch-position" id="gps-watch-position"></a>
+
+위치 변화를 지속적으로 감시하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.location.watchPosition({
+    watchId: 'myWatch1'
+}, function(result) {
+    if (result.success) {
+        updateMapMarker(result.coords.latitude, result.coords.longitude);
+    }
+});
+```
+
+| Parameter          | 타입      | 필수 | 기본값  | 설명       |
+| ------------------ | ------- | -- | ---- | -------- |
+| watchId            | String  | Y  | -    | 고유 감시 ID |
+| enableHighAccuracy | Boolean | N  | true | 고정밀 위치   |
+
+### 위치 추적 중지하기
+
+위치 감시를 중지하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.location.clearWatch('myWatch1');
+```
+
+## 로컬 푸시 알림 관련 Method <a href="#local-push-notification-method" id="local-push-notification-method"></a>
+
+### 로컬 푸시 알림 예약하기 <a href="#local-push-notification" id="local-push-notification"></a>
+
+로컬 푸시 알림을 예약하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+// 10초 후 알림
+swingWebViewPlugin.app.localPush.schedule({
+    title: '알림 테스트',
+    body: '10초 후 알림입니다.',
+    delaySeconds: 10
+}, function(result) {
+    console.log('알림 예약됨, ID:', result.id);
+});
+
+// 특정 시각 알림
+swingWebViewPlugin.app.localPush.schedule({
+    id: 'morning-alarm',
+    title: '좋은 아침입니다!',
+    body: '오늘도 좋은 하루 되세요.',
+    scheduledTime: '2024-03-15T09:00:00'
+});
+
+// 즉시 알림
+swingWebViewPlugin.app.localPush.schedule({
+    title: '즉시 알림',
+    body: '바로 표시되는 알림입니다.',
+    delaySeconds: 0
+});
+```
+
+| Parameter     | 타입      | 필수 | 기본값       | 설명                  |
+| ------------- | ------- | -- | --------- | ------------------- |
+| id            | String  | N  | auto      | 알림 고유 ID            |
+| title         | String  | Y  | -         | 알림 제목               |
+| body          | String  | Y  | -         | 알림 내용               |
+| delaySeconds  | Number  | N  | 0         | N초 후 발송             |
+| scheduledTime | String  | N  | -         | 발송 시각 (ISO 8601 형식) |
+| channelId     | String  | N  | 'default' | 알림 채널 ID (Android)  |
+| sound         | Boolean | N  | true      | 알림 사운드              |
+
+**scheduledTime 지원 형식:**
+
+* `2024-01-01T12:00:00` - 로컬 시간
+* `2024-01-01T12:00:00Z` - UTC
+* `2024-01-01T12:00:00.000Z` - UTC (밀리초 포함)
+
+### 로컬 푸시 알림 취소하기 <a href="#cancel-local-push-notification" id="cancel-local-push-notification"></a>
+
+예약된 알림을 취소하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.localPush.cancel('morning-alarm');
+```
+
+### 모든 로컬 푸시 알림 취소하기 <a href="#cancel-all-local-push-notification" id="cancel-all-local-push-notification"></a>
+
+모든 예약된 알림을 취소하는 기능
+
+> \*js lib 2026\_03\_31\_001 버전 부터 사용 가능
+
+```javascript
+swingWebViewPlugin.app.localPush.cancelAll();
+```
+
+
 
 
 
