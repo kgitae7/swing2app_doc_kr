@@ -404,6 +404,7 @@
     * [구글 플레이 개발자 고객센터 문의 방법 (Play Console 지원팀 연락)](knowledgebase/playstore/manage/ticket.md)
     * [플레이 콘솔 이메일 수신자 추가](knowledgebase/playstore/manage/email-recipients.md)
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
+  * [Android 개발자 인증 등록 방법](knowledgebase/playstore/developer-verification.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
   * [플레이스토어 앱 업데이트](knowledgebase/playstore/palystore-update.md)
   * [구글 개발자-조직 계정 만들기](knowledgebase/playstore/google-businessdeveloper.md)
