@@ -84,19 +84,50 @@ Android 개발자 인증 정책 변경 이후에는
 
 먼저 Android 개발자 인증을 한 뒤 + 패키지명 등록 +서명키 등록의 인증 과정 진행한 뒤 앱을 등록할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/개발자인증1.png" alt=""><figcaption></figcaption></figure>
+**🔗상세 진행방법은 아래 가이드를 보시고 진행해주세요.**
 
-<figure><img src="../../../.gitbook/assets/개발자인증3.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/개발자인증4.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/개발자인증5.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/developer-verification" %}
 
 앱 등록 전 앱의 <mark style="color:$warning;">**패키지 이름 등록 + SHA-256 인증서 지문**</mark>을 먼저 등록해주세요.
 
-키 추가 확인이 완료되면, 이제 본격적인 앱을 등록할 수 있습니다.
+<figure><img src="../../../.gitbook/assets/개발자인증1.png" alt=""><figcaption></figcaption></figure>
 
-앱 등록 과정은 기존 매뉴얼과 동일합니다.
+1\)[플레이 콘솔](https://play.google.com/console/u/0/developers) 접속 - Android 개발자 인증 선택
+
+2\)패키지 이름 등록 선택
+
+3\)패키지 이름 입력
+
+4\)내부용 이름 \*출시하고자 하는 앱 이름 그대로 써주시거나, 테스트용 이름 입력해도 됩니다.
+
+(어디에 노출되는 정보 아닙니다)
+
+5\)\[다음] 버튼 선택
+
+<figure><img src="../../../.gitbook/assets/개발자인증3.png" alt=""><figcaption></figcaption></figure>
+
+6\)\[키 추가] 버튼 선택
+
+<figure><img src="../../../.gitbook/assets/개발자인증4.png" alt=""><figcaption></figcaption></figure>
+
+7\)인증서 지문 입력 후, \[키 추가] 버튼 선택
+
+<figure><img src="../../../.gitbook/assets/개발자인증5.png" alt=""><figcaption></figcaption></figure>
+
+상태가 '확인됨' 이라고 뜨면 완료된 것입니다.
+
+**키 추가 확인이 완료되면, 이제 본격적인 앱을 등록할 수 있습니다.**
+
+\
+**🔗상세 진행방법은 아래 가이드를 보시고 진행해주세요.**
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/developer-verification" %}
+
+앱 등록 과정은 기존 시스템과 동일하므로, 위의 과정이 완료되면 기존 방법처럼 신규앱 등록을 진행해주시면 됩니다.
+
+**🔗플레이스토어 앱 등록 매뉴얼은 아래 가이드**&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/playstore-apprelease" %}
 
 <mark style="color:purple;">\*2026년 4월 구글 플레이콘솔에 새로(최초) 등록하는 앱부터 진행됩니다.(위의 방법대로 등록 해야 합니다.)</mark>
 
@@ -218,8 +249,6 @@ Android 개발자 인증 정책 변경 이후에는
 👉 직접 대응이 어려우신 경우 고객센터 채널로 문의주세요.
 
 담당팀에서 상세히 안내 도와드리겠습니다.😊
-
-﻿
 
 
 
