@@ -378,6 +378,7 @@
     * [아동 안전 표준 정책](knowledgebase/playstore/policy/child_safety.md)
     * [개인정보 링크 연결하기](knowledgebase/playstore/policy/playstore-policyurl.md)
     * [플레이스토어 사전고지 문서(증빙서류)](knowledgebase/playstore/policy/playstore-priornotice.md)
+    * [Android 개발자 인증 정책 총정리](knowledgebase/playstore/policy/android-developer-verification.md)
     * ['데이터 보안 양식 계정 삭제 링크 오류' 해결방법](knowledgebase/playstore/policy/dataissue.md)
   * [비공개 테스트](knowledgebase/playstore/test/README.md)
     * [비공개 테스트 등록](knowledgebase/playstore/test/testing.md)
