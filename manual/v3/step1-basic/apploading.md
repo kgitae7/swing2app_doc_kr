@@ -164,7 +164,11 @@ description: 앱 대기화면 이미지 제작 및 이미지 가이드 매뉴얼
 
 등록 후 저장해주시면 반영됩니다.
 
+<mark style="color:$primary;">\*만약 대기화면 이미지 수정을 하는 단계라면, 앱 업데이트가 필요합니다.</mark>&#x20;
 
+<mark style="color:$primary;">이미지 업로드 적용 후 - 저장 - 앱 업데이트 버튼 눌러주세요.</mark>
+
+<mark style="color:$primary;">앱 업데이트가 되어야 변경된 이미지로 확인 가능합니다.</mark>&#x20;
 
 ![](<../../../.gitbook/assets/구분선 (10).PNG>)
 
