@@ -107,11 +107,23 @@ description: 앱 아이콘 이미지 제작 및 이미지 가이드 안내
 
 3\)아이콘으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.
 
+4\)화면상단 저장 버튼 까지 눌러주시면 적용됩니다.
+
+<mark style="color:$primary;">\*만약 첫 등록이 아니고</mark>
+
+<mark style="color:$primary;">기존 등록된 이미지에서 수정을 하는 것이라면,</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**앱 업데이트가 필요합니다.**</mark>&#x20;
+
+<mark style="color:$primary;">이미지</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**업로드 적용 후 - 저장 - 앱 업데이트 버튼 눌러주세요.**</mark>
+
+<mark style="color:$primary;">앱 업데이트가 되어야 변경된 이미지로 확인 가능합니다.</mark>&#x20;
+
 
 
 스윙투앱 앱제작은 추가적으로 계속해서 수정이 가능하니 샘플로 한 번 적용해보시고 다른 이미지로 수정해주셔도 됩니다.
 
 아이콘 사이즈는 1024px \*1024px로 만들어주시구요.  png,jpg 파일로 올려주시면 되요!
+
+**배경은 색상을 꼭 넣어주세요. 배경 투명색으로 지정시 스토어 업로드시 제한이 있습니다.**&#x20;
 
 그런데 만약 아이콘 사이즈가 다를 경우 이미지편집도구 로 사이즈를 수정할 수 있으니 이용에 참고해주세요.
 
