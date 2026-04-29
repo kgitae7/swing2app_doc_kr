@@ -32,13 +32,73 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 
 
-## STEP1. 앱만들기
+## STEP1. Android 개발자 인증 등록
 
-구글플레이 콘솔 접속 [https://play.google.com/console/developers/](https://play.google.com/console/developers/)
+<mark style="color:$danger;">\*2026년 4월 부터 구글 플레이콘솔 정책 변경에 따라, 앱 등록 전 Android 개발자 인증 먼저 해야 합니다.</mark>
+
+
+
+**구글플레이 콘솔 접속** [**https://play.google.com/console/developers**/](https://play.google.com/console/developers/)
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FnG6UpmOaHgQCIwDUEf48%252F%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EC%259D%25B8%25EC%25A6%259D1.png%3Falt%3Dmedia%26token%3D7d547dc3-41b9-425a-854f-f83d2a7bd560&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=b7c37e57&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+1\)[플레이 콘솔](https://play.google.com/console/u/0/developers) 접속 - Android 개발자 인증 선택
+
+2\)패키지 이름 등록 선택
+
+3\)패키지 이름 입력
+
+
+
+<mark style="background-color:$warning;">**✔ 패키지 이름 확인하는 방법 \*스윙투앱 앱 이용**</mark>
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252F1VSgomK434mAEzGtO7oC%252F%25ED%258C%25A8%25ED%2582%25A4%25EC%25A7%2580%25EB%25AA%2585%25ED%2599%2595%25EC%259D%25B8.png%3Falt%3Dmedia%26token%3D7ef719b3-e310-485c-9ab9-14f3e2e2d571&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=5d8b88e7&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+[앱운영-서비스관리-앱운영관리-앱고급관리](https://www.swing2app.co.kr/view/app_advanced_management_by_android) 이동 > 패키지 아이디 값 그대로 복사해서 붙여넣기 해주세요.
+
+\*고급관리는 유료앱 이용권 구매한 유료버전 사용자 대시보드에서만 확인 가능, 무료앱은 확인 불가합니다.
+
+4\)내부용 이름 \*출시하고자 하는 앱 이름 그대로 써주시거나, 테스트용 이름 입력해도 됩니다.
+
+(어디에 노출되는 정보 아닙니다)
+
+5\)\[다음] 버튼 선택
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FxIMtZskJJICkUuxv9yJH%252F%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EC%259D%25B8%25EC%25A6%259D3.png%3Falt%3Dmedia%26token%3Dec702ca9-c422-4d3b-ac82-38598aa12136&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=7fbeb1e&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+6\)\[키 추가] 버튼 선택
+
+
+
+<mark style="background-color:$warning;">**✔앱 서명키 SHA-256인증서 확인하는 방법 \*스윙투앱 앱 이용**</mark>
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FoGPi1c53UBqNnc5WUMP0%252F%25EC%2584%259C%25EB%25AA%2585%25ED%2582%25A4%25ED%2599%2595%25EC%259D%25B8.png%3Falt%3Dmedia%26token%3D18e9c35a-97b4-4f95-bf8d-6c5325e153bc&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=e4d37bc9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+[앱운영-서비스관리-앱운영관리-앱고급관리](https://www.swing2app.co.kr/view/app_advanced_management_by_android) 이동 >키스토어 \[서명확인] 선택
+
+**SHA-256 항목 \[복사]**&#xBC84;튼 선택해서 그대로 아 인증서 지문에 붙여넣기 해주세요.
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FkH2eaa4DR42Kb1pVewhz%252F%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EC%259D%25B8%25EC%25A6%259D4.png%3Falt%3Dmedia%26token%3D4a68f3bc-b352-4ce7-93fe-1f04fd54cafd&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=3e979bb9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+7\)\[키 추가] 버튼 선택
+
+<figure><img src="https://documentation.swing2app.co.kr/~gitbook/image?url=https%3A%2F%2F684031119-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmsJj00k8mj8AcVpnn9Xs%252Fuploads%252FBYiqOGjNNXrp1hqmuf85%252F%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EC%259D%25B8%25EC%25A6%259D5.png%3Falt%3Dmedia%26token%3D7727fb9f-7a33-4e58-858e-73316576b6df&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=edb4a299&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+상태가 '확인됨' 이라고 뜨면 완료된 것입니다.
+
+**키 추가 확인이 완료되면, 이제 본격적인 앱을 등록할 수 있습니다.**
+
+***
+
+
+
+## STEP2. 앱만들기
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[앱 만들기] 선택해주세요.
+
+
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +122,7 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 
 
-## STEP2.내부 테스트 등록 시작
+## STEP3.내부 테스트 등록 시작
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -142,7 +202,9 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 ***
 
-## STEP.3 안드로이드폰에서 테스트 앱 설치 받기
+
+
+## STEP.4 안드로이드폰에서 테스트 앱 설치 받기
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -211,7 +273,7 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 ## ❓ 자주 묻는 질문 (FAQ)
 
-Q1. 내부 테스트하면 구글 심사를 받나요?
+**Q1. 내부 테스트하면 구글 심사를 받나요?**
 
 👉 아닙니다. 내부 테스트는 심사 없이 바로 배포 가능합니다. (테스터에게만 공개)
 
@@ -219,9 +281,9 @@ Q1. 내부 테스트하면 구글 심사를 받나요?
 
 ​
 
-Q2. 누구나 앱을 설치할 수 있나요?
+**Q2. 누구나 앱을 설치할 수 있나요?**
 
-👉 아닙니다. 초대된 테스터만 설치 가능합니다.
+👉 아닙니다. 초대된(등록한) 테스터만 설치 가능합니다.
 
 이메일 초대 방식으로, 테스트를 하고자 하는 사용자의 메일주소를 등록해서 이용해주세요.
 
@@ -229,25 +291,25 @@ Q2. 누구나 앱을 설치할 수 있나요?
 
 ​
 
-Q3. 내부 테스트 앱은 스토어에 노출되나요?
+**Q3. 내부 테스트 앱은 스토어에 노출되나요?**
 
 👉 아닙니다. 일반 사용자에게는 절대 노출되지 않습니다.
 
 ​
 
-Q4. 내부 테스트 → 정식 출시로 바로 전환 가능한가요?
+**Q4. 내부 테스트 → 정식 출시로 바로 전환 가능한가요?**
 
 👉 가능합니다. 같은 앱으로 프로덕션 트랙으로 승격하면 됩니다.
 
 ​
 
-Q5. 내부 테스트는 몇 명까지 가능한가요?
+**Q5. 내부 테스트는 몇 명까지 가능한가요?**
 
 👉 테스터는 최대 100명까지 참여 가능합니다.
 
 ​
 
-Q6. 내부 테스트도 업데이트가 가능한가요?
+**Q6. 내부 테스트도 업데이트가 가능한가요?**
 
 👉 가능합니다. AAB 재업로드 시 테스터에게 자동 업데이트됩니다<br>
 
