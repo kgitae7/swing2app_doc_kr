@@ -52,7 +52,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 ## 1.본인확인
 
-<figure><img src="../../.gitbook/assets/인증09.png" alt=""><figcaption></figcaption></figure>
+
 
 \*본인 인증에는 조직 증명 서류(사업자등록증) 제출, 본인 인증을 위한 휴대전화 번호 제출, 주소 입력으로 정보를 제출합니다.
 
@@ -62,7 +62,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/조직2.PNG" alt=""><figcaption></figcaption></figure></div>
+
 
 1.\[업로드] 버튼을 선택해서 조직을 증명할 수 있는 서류를 제출합니다.
 
@@ -71,8 +71,6 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 2.다음 버튼 선택
 
 ​
-
-<div align="left"><figure><img src="../../.gitbook/assets/조직3.PNG" alt=""><figcaption></figcaption></figure></div>
 
 본인(개인) 신원 정보 입력
 
@@ -88,7 +86,7 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/조직4.PNG" alt=""><figcaption></figcaption></figure></div>
+
 
 주소 입력
 
@@ -104,13 +102,9 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/본인인증7.png" alt=""><figcaption></figcaption></figure></div>
-
 13\) 인증번호 6자리 코드 입력 후 \[확인] 선택
 
 
-
-<div align="left"><figure><img src="../../.gitbook/assets/본인인증8.png" alt=""><figcaption></figcaption></figure></div>
 
 14\)확인 선택합니다.
 
@@ -187,6 +181,9 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 <mark style="color:red;">복사한 태그값을 사이트 홈페이지(도메인/호스팅)에 추가해시면 됩니다.</mark>
 
 사이트에 메타태그 값을 입력을 완료한 뒤 \[확인] 버튼을 선택합니다.
+
+\[웹사이트 인증을 위한 메타태그 값]\
+태그 복사하여 도메인과 연결된 페이지 첫 번째 < 섹>b션 전에 나오는 섹션에 붙여넣어주세요
 
 ​
 
