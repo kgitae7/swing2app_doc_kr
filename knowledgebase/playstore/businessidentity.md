@@ -52,69 +52,81 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 ## 1.본인확인
 
-
-
 \*본인 인증에는 조직 증명 서류(사업자등록증) 제출, 본인 인증을 위한 휴대전화 번호 제출, 주소 입력으로 정보를 제출합니다.
 
-\[시작하기] 버튼 선택시, 인증에 필요한 정보가 뜹니다.&#x20;
+<figure><img src="../../.gitbook/assets/계정인증1.png" alt=""><figcaption></figcaption></figure>
 
-\[확인 절차 시작하기] 버튼을 선택합니다.
+1\)\[시작하기] 버튼 선택시, 인증 진행 팝업이 뜹니다.
+
+2\)가장 먼저 회사명 - 시작 버튼 선택합니다.
 
 
 
+<figure><img src="../../.gitbook/assets/계정인증2.png" alt=""><figcaption></figcaption></figure>
 
+\[업로드] 버튼을 선택해서 조직을 증명할 수 있는 서류를 제출합니다.
 
-1.\[업로드] 버튼을 선택해서 조직을 증명할 수 있는 서류를 제출합니다.
+\*사업자등록증/등록증명서, 상업 등기 초록, 사업 허가증, 과세 증명서 중에서 제출
 
-\*사업자등록증 , 상업 등기 초록, 사업 허가증, 과세 증명서 중에서 제출
-
-2.다음 버튼 선택
+3.다음 버튼 선택
 
 ​
 
-본인(개인) 신원 정보 입력
+<figure><img src="../../.gitbook/assets/계정인증3.png" alt=""><figcaption></figcaption></figure>
 
-3.이름 입력 \*대표자로 입력하지 않아도 됩니다. 계정을 등록하는 본인(직원) 개인 정보로 입력해주세요.
+조직 정보 확인 후 4)다음 버튼 선택
 
-4.주민번호 7자리 입력
+주소 수정 버튼이 있으나, 이미 DUNS번호에 등록한 정보로 연동해서 보여지기 때문에&#x20;
 
-5.이동 통신사 선택
-
-6.연락처 :핸드폰 번호 입력
-
-7.\[다음] 선택
+굳이 주소 수정을 하지 않아도 됩니다.&#x20;
 
 
 
+<mark style="color:$primary;">**\[권한을 부여받은 담당자 정보 입력]**</mark>
 
+<figure><img src="../../.gitbook/assets/계정인증4.png" alt=""><figcaption></figcaption></figure>
+
+5\)시작 버튼 선택
+
+
+
+<figure><img src="../../.gitbook/assets/계정인증5.png" alt=""><figcaption></figcaption></figure>
+
+6\)담당자 정보 입력
+
+* 이름 입력 \*대표자로 입력하지 않아도 됩니다. 계정을 등록하는 본인(직원) 개인 정보로 입력해주세요.
+* 주민번호 7자리 입력
+* 이동 통신사 선택
+* 연락처 :핸드폰 번호 입력
 
 주소 입력
 
-8.도/시 선택
+* 도/시 선택
+* 시/군/구 선택&#x20;
+* 상세 주소 입력
+* 우편번호 입력
 
-9.시/군/구 선택
-
-10.상세 주소 입력
-
-11.우편번호 입력
-
-12\. \[제출] 확인
+7\) 다음 버튼 선택
 
 
 
-13\) 인증번호 6자리 코드 입력 후 \[확인] 선택
+<figure><img src="../../.gitbook/assets/계정인증6.png" alt=""><figcaption></figcaption></figure>
+
+8\)핸드폰 문자로 전송된,인증번호 6자리 코드 입력 후&#x20;
+
+9\)\[다음] 선택
 
 
 
-14\)확인 선택합니다.
+<div align="left"><figure><img src="../../.gitbook/assets/계정인증7.png" alt=""><figcaption></figcaption></figure></div>
+
+10\)완료 선택
 
 모든 정보 제출이 완료되었구요. 구글에서 제출된 정보를 검토 한 뒤 승인을 하게 됩니다.
 
 
 
-
-
-<figure><img src="../../.gitbook/assets/인증02.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/인증02.png" alt=""><figcaption></figcaption></figure></div>
 
 보통 1일이내 처리가 완료되는데 승인이 되면 바로 이용 가능하며, 서류가 적합하지 않을 경우 승인을 거절합니다.&#x20;
 
@@ -174,18 +186,20 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 다른 확인방법에 보시면 첫번 줄에 '사이트 홈페이지에 메타태그 추가'방법이 있습니다.
 
-
-
 5\) HTML태그 선택 - 메타태그 값을 복사해주세요.
 
 <mark style="color:red;">복사한 태그값을 사이트 홈페이지(도메인/호스팅)에 추가해시면 됩니다.</mark>
 
 사이트에 메타태그 값을 입력을 완료한 뒤 \[확인] 버튼을 선택합니다.
 
+{% hint style="info" %}
 \[웹사이트 인증을 위한 메타태그 값]\
-태그 복사하여 도메인과 연결된 페이지 첫 번째 < 섹>b션 전에 나오는 섹션에 붙여넣어주세요
+<            >\
+메타태그를 복사하여 도메인과 연결된 페이지 첫 번째 body 섹션 전에 나오는 head 섹션에 붙여넣어주세요\
+코드 삽입 후 다시 돌아와서 확인을 선택합니다.&#x20;
+{% endhint %}
 
-​
+
 
 <div align="left"><figure><img src="../../.gitbook/assets/조직14.PNG" alt=""><figcaption></figcaption></figure></div>
 
@@ -209,9 +223,15 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 ## 3.전화번호 인증
 
-<div align="left"><figure><img src="../../.gitbook/assets/인증06.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/캡처jkk.PNG" alt=""><figcaption></figcaption></figure>
 
-마지막으로 전화번호 인증을 시작하겠습니다. \[세부정보 보기] 선택해주세요.
+마지막으로 전화번호 인증을 시작하겠습니다.
+
+<mark style="color:$primary;">\*전화번호 인증은 위에 본인 확인과 조직웹사이트 인증이 모두 완료되어야 진행할 수 있습니다.</mark>&#x20;
+
+<mark style="color:$primary;">먼저 할 수 없으며, 순서대로 인증 후 전화번호 인증 가장 마지막에 진행해주세요.</mark>&#x20;
+
+\[세부정보 보기] 선택해주세요.
 
 
 
@@ -251,11 +271,9 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 
 
-\[개발자 소개에 노출되는 정보 확인하기]
+#### **\[개발자 소개에 노출되는 정보 확인하기]**
 
 <div align="left"><figure><img src="../../.gitbook/assets/구글프레임.png" alt=""><figcaption></figcaption></figure></div>
-
-
 
 연락처 전화번호 확인 후 - 문자 메시지 받기 선택 - 전화번호 확인을 탭해주세요.
 
@@ -272,8 +290,6 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 
 ## 4.인증완료
-
-
 
 <figure><img src="../../.gitbook/assets/앱등록.png" alt=""><figcaption></figcaption></figure>
 
