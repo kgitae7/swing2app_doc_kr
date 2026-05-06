@@ -590,17 +590,11 @@ pass인증처럼 신원확인을 위해 이름, 주민번호, 핸드폰번호를
 
 5\) 구매 버튼 선택
 
-​
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B5%AC%EA%B8%80%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%B1%EB%A1%9D3_20.01.png)
-
-결제가 완료되었습니다. 등록 계속하기를 선택합니다.
-
 
 
 ### <mark style="color:blue;">**10.구글 개발자 계정 생성**</mark>
 
-<div align="left"><figure><img src="../../.gitbook/assets/구글본인인증0.PNG" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/이미지dd 1.png" alt=""><figcaption></figcaption></figure></div>
 
 이렇게 계정이 생성이 되었다는 완료 메시지만 보고, 사이트를 종료하지 마시구요.&#x20;
 
@@ -652,7 +646,7 @@ pass인증처럼 신원확인을 위해 이름, 주민번호, 핸드폰번호를
 pass인증처럼 신원확인을 위해 이름, 주민번호, 핸드폰번호를 차례로 입력 후 인증번호만 받아서 입력하면  완료됩니다.&#x20;
 {% endhint %}
 
-👉계정 인증을 하는 방법은 아래 가이드로 확인해주세요.
+**👉계정 인증을 하는 방법은 아래 가이드로 확인해주세요.**
 
 {% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/identity" %}
 
