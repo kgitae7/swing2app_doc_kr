@@ -2,19 +2,21 @@
 description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 ---
 
-# 구글 개발자 개인 계정 설정
+# 구글 개발자 개인 계정 인증
 
 ***
+
+
 
 **구글 개발자 계정 설정 완료하기**
 
 구글 개발자 개인 계정으로 가입 후에 계정 설정 까지 완료해야 모든 작업이 완료됩니다.
 
-계정 설정을 위해서는 2가지 작업이 완료되어야 하구요.
+계정 설정을 위해서는 3가지 작업이 완료되어야 하구요.
 
 매뉴얼을 통해서 인증을 하는 방법을 확인해주세요.
 
-<figure><img src="../../.gitbook/assets/개인계정인증.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 3 (6).png" alt=""><figcaption></figcaption></figure>
 
 개발자 계정 가입이 완료되면 대시보드 상단에 위와 같은 메시지를 확인할 수 있습니다.
 
@@ -34,6 +36,28 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 기기에서 구글 개발자 계정을 로그인 한 뒤, 구글 플레이 콘솔 어플에서 접속을 하여 인증을 합니다.
 
 \*만약 본인의 안드로이드 기기가 없다면 주변 지인의 휴대기기를 이용해서 계정에 로그인하여 인증할 수 있습니다.&#x20;
+
+<mark style="color:$primary;">**3)전화번호 인증**</mark>
+
+위의 2가지 인증이 완료되면, 마지막으로 계정 소유자 핸드폰번호 인증을 하게 됩니다.&#x20;
+
+핸드폰번호 입력 후, 인증번호를 받아 입력하면 완료됩니다.
+{% endhint %}
+
+{% hint style="danger" %}
+#### <mark style="color:$danger;">**안내사항 - 개인 계정에서는 '비공개 테스트'를 해야 합니다!**</mark>
+
+구글 개인 개발자 계정으로 앱을 등록할 경우, 정책에 따라 **비공개 테스트 진행이 필수**입니다.
+
+12명의 테스터가 14일(2주) 동안 테스트를 완료해야 하며, 이후 구글 승인 후 프로덕션(정식) 출시가 가능합니다.
+
+전체 과정은 약 20\~30일 정도 소요될 수 있습니다.
+
+또한, 비공개 테스트는 **앱마다 개별적으로 진행해야 하므로**, 여러 개의 앱을 등록할 경우 동일한 테스트를 반복 진행해야 합니다.(ex.10개 앱 출시한다면, 비공개 테스트 10번 진행해야 함)
+
+따라서 개인 개발자 계정으로 만드는 분들은 앱 **비공개 테스트를 해야 한다는 내용을 꼭 기억해주세요.**
+
+사업자가 있으신 경우, **비공개 테스트 없이 즉시 출시가 가능한 ‘조직 개발자 계정’ 사용을 권장드립니다.**&#x20;
 {% endhint %}
 
 
@@ -44,13 +68,11 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 ## 1.본인확인
 
-<figure><img src="../../.gitbook/assets/개인계정인증1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 4 (3).png" alt=""><figcaption></figcaption></figure>
 
-본인확인 \[시작하기] 버튼을 선택합니다.
+첫번째 인증인, 본인확인 **\[시작하기]** 버튼을 선택합니다.
 
-
-
-인증에 필요한 정보&#x20;
+<mark style="color:$success;">**\[인증에 필요한 정보]**</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/본인인증2.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,11 +82,7 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 ### <mark style="color:blue;">1)개인 신원</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증3.png" alt=""><figcaption></figcaption></figure></div>
 
 (1)법적이름 입력 \*실제 계정 소유자 분의 이름을 입력해주세요
 
@@ -76,11 +94,7 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 ### <mark style="color:blue;">2)주소 입력</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증4.png" alt=""><figcaption></figcaption></figure></div>
 
 (4)도/시 선택&#x20;
 
@@ -108,11 +122,7 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증5.png" alt=""><figcaption></figcaption></figure></div>
 
 (10)확인 선택
 
@@ -120,11 +130,7 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 ### <mark style="color:blue;">3)전화번호 입력하기</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증6.png" alt=""><figcaption></figcaption></figure></div>
 
 (11)이동통신사 선택, 연락처 입력 대한민국이라면 +821011112222 번호로 입력해주세요.
 
@@ -132,35 +138,25 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증7.png" alt=""><figcaption></figcaption></figure></div>
 
 13\) 핸드폰 문자로 코드 번호가 전송되면 번호입력 후 \[확인] 버튼을 선택해주세요.&#x20;
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/본인인증8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/본인인증8.png" alt=""><figcaption></figcaption></figure></div>
 
 (14) 확인 선택합니다.
 
 모든 정보 제출이 완료되었구요. 구글에서 제출된 정보를 검토 한 뒤 승인을 하게 됩니다.
 
-<div align="left">
 
-<figure><img src="../../.gitbook/assets/본인인증9.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 보통 1일이내 처리가 완료되는데 승인이 되면 바로 이용 가능하며, 서류가 적합하지 않을 경우 승인을 거절합니다.&#x20;
 
 받은 메일을 확인해서 조치사항 확인 후 다시 요청정보를 제출해야 합니다.&#x20;
+
+이제 다음 단계인 안드로이드 휴대기기 액세스를 진행해주세요.
 
 
 
@@ -168,11 +164,9 @@ description: 개발자 계정 설정 완료 - 계정 본인 인증 작업
 
 ## 2. Android 휴대기기 액세스
 
-<figure><img src="../../.gitbook/assets/개인계정인증-휴대기기.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/이미지 5 (1).png" alt=""><figcaption></figcaption></figure>
 
-Android 휴대기기에 액세스 할 수 있는지 확인 \[세부정보 보기] 선택해주세요.
-
-
+Android 휴대기기에 액세스 할 수 있는지 확인 **\[세부정보 보기]** 선택해주세요.
 
 ### <mark style="color:blue;">1)진행방법</mark>
 
@@ -196,63 +190,55 @@ Android 휴대기기에 액세스 할 수 있는지 확인 \[세부정보 보기
 
 이어서 안드로이드폰에서 진행되는 캡쳐화면을 확인해주세요.
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/휴대기기인증2.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/휴대기기인증2.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/휴대기기인증3.png" alt=""><figcaption></figcaption></figure></div>
 
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/휴대기기인증3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/휴대기기인증4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/휴대기기인증4.png" alt=""><figcaption></figcaption></figure></div>
 
 구글 플레이 콘솔 어플 접속 후, 구글 개발자 계정으로 로그인 해주세요.&#x20;
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/휴대기기인증5 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/휴대기기인증5 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 개발자 계정 선택 및 기기 액세스 확인 선택해주세요.
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/휴대기기인증6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/휴대기기인증6.png" alt=""><figcaption></figcaption></figure></div>
 
 확인 선택해주세요.&#x20;
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/휴대기기인증7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/휴대기기인증7.png" alt=""><figcaption></figcaption></figure></div>
 
 기기 검사가 완료되었습니다.
 
 다시 구글 플레이 콘솔 화면으로 이동하면, 휴대기기 액세스 확인이 완료되어 메시지가 사라진 것을 확인할 수 있습니다.&#x20;
 
-
-
 ***
 
 
+
+## 3.연락처 인증번호 인증
+
+<figure><img src="../../.gitbook/assets/이미지 6 (5).png" alt=""><figcaption></figcaption></figure>
+
+이제 마지막으로 연락처 전화번호 인증만 완료하면 됩니다.
+
+#### <mark style="color:red;">**💡중요**</mark>
+
+연락처 전화번호 인증은 위의 2개(본인확인, 안드로이드휴대기기) 인증 작업이 모두 완료되어야 진행이 가능합니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/캡처df.PNG" alt=""><figcaption></figcaption></figure></div>
+
+따라서 2개 인증을 모두 완료한 뒤 마지막으로 진행해주세요.
+
+계정에 등록된 연락처(핸드폰번호)로 들어오는 인증번호 확인 후, 입력 후 등록해주시면 완료됩니다.&#x20;
+
+***
 
 {% hint style="info" %}
 1\)구글 개발자 계정 설정 완료를 꼭 해주세요!
@@ -268,11 +254,24 @@ Android 휴대기기에 액세스 할 수 있는지 확인 \[세부정보 보기
 따라서 개인 개발자 계정 등록시에도 앱 출시를 할 수 없는 점 참고해주세요.
 
 \*조직은 관계없이 등록 가능합니다.
+
+3\)개인 개발자 계정은 - 금융, 건강, vpn 카테고리 앱, 정부기관에서 만든 앱은 제출할 수 없습니다.
+
+🔗[구글 플레이정책 확인하기 ](https://support.google.com/googleplay/android-developer/answer/10788890?hl=ko)
 {% endhint %}
 
+{% hint style="danger" %}
+#### <mark style="color:$danger;">**안내사항 - 개인 계정에서는 '비공개 테스트'를 해야 합니다!**</mark>
 
+구글 개인 개발자 계정으로 앱을 등록할 경우, 정책에 따라 **비공개 테스트 진행이 필수**입니다.
 
+최소 12명의 테스터가 14일(2주) 동안 테스트를 완료해야 하며, 이후 구글 승인 후 프로덕션(정식) 출시가 가능합니다.
 
+전체 과정은 약 20\~30일 정도 소요될 수 있습니다.
 
+또한, 비공개 테스트는 **앱마다 개별적으로 진행해야 하므로**, 여러 개의 앱을 등록할 경우 동일한 테스트를 반복 진행해야 합니다.(ex.10개 앱 출시한다면, 비공개 테스트 10번 진행해야 함)
 
+따라서 개인 개발자 계정으로 만드는 분들은 앱 **비공개 테스트를 해야 한다는 내용을 꼭 기억해주세요.**
 
+사업자가 있으신 경우, **비공개 테스트 없이 즉시 출시가 가능한 ‘조직 개발자 계정’ 사용을 권장드립니다.**&#x20;
+{% endhint %}
