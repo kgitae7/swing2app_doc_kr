@@ -106,7 +106,7 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 플레이스토어 or 앱스토어에서 앱을 먼저 다운받아 설치해주세요.
 {% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png" alt="" width="100%">
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
 
@@ -122,7 +122,7 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 
 [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## 3.웹뷰&푸시앱 미리보기  <a href="#id-1" id="id-1"></a>
 
@@ -162,7 +162,7 @@ description: 제작한 앱을 '미리보기'로 확인하는 방법 입니다.
 **핸드폰을 해당 QR코드 이미지에 가져다 대면 제작한 앱이 핸드폰에서 미리보기로 실행됩니다.**
 {% endhint %}
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## 4.안내사항
 

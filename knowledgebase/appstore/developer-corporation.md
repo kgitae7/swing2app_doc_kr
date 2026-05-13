@@ -60,7 +60,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 애플 아이디가 없다면 먼저 만들어주세요. [애플 ID 생성하기](https://appleid.apple.com/account)
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FH0xwKYhUyRpEvQIIwYRl%2F%EC%95%A0%ED%94%8C1.png?alt=media\&token=599152f6-1f8b-4020-af91-161e15c15ced)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FH0xwKYhUyRpEvQIIwYRl%2F%EC%95%A0%ED%94%8C1.png?alt=media&#x26;token=599152f6-1f8b-4020-af91-161e15c15ced" alt="" width="100%">
 
 1\)성, 이름 입력 \*모두 영어로 입력합니다.
 
@@ -84,7 +84,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FFFgvEoG4jFIrRhKiaxb5%2F%EC%95%A0%ED%94%8C2.png?alt=media\&token=deecc51f-fb64-4c83-8db5-1517dbbaa64b)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FFFgvEoG4jFIrRhKiaxb5%2F%EC%95%A0%ED%94%8C2.png?alt=media&#x26;token=deecc51f-fb64-4c83-8db5-1517dbbaa64b" alt="" width="100%">
 
 8\)동의 내용 체크
 
@@ -106,7 +106,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 문자 메시지를 확인하여 6자리 코드를 입력해주세요.
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FrJ3nV4iOkO4wVNcqSzrM%2F%EC%95%A0%ED%94%8C5.png?alt=media\&token=67bb4edd-0f8a-40b8-9edb-7690dc9e1811)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FrJ3nV4iOkO4wVNcqSzrM%2F%EC%95%A0%ED%94%8C5.png?alt=media&#x26;token=67bb4edd-0f8a-40b8-9edb-7690dc9e1811" alt="" width="100%">
 
 13\)모든 인증이 완료되면, 아이디 생성이 완료됩니다.
 
@@ -120,7 +120,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 [Apple developer 사이트](https://developer.apple.com/) **접속, 오른쪽 상단의 \[계정] 버튼을 선택해주세요.**
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FiaSVhyI4DlMpxkQF8vIW%2F%EC%95%A0%ED%94%8C6.png?alt=media\&token=64897efe-77b2-434f-8cba-51e6ae777a0e)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FiaSVhyI4DlMpxkQF8vIW%2F%EC%95%A0%ED%94%8C6.png?alt=media&#x26;token=64897efe-77b2-434f-8cba-51e6ae777a0e" alt="" width="100%">
 
 애플 계정을 소유한 분들 또는 위에서 만든 애플 계정으로 로그인해주세요.
 
@@ -130,7 +130,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 <mark style="color:blue;">**개발자 계약 동의**</mark>
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FACmaqnSZtErZZCCbwvNe%2F%EC%95%A0%ED%94%8C7.png?alt=media\&token=0d63a971-7512-4134-8805-d924b367ca41)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FACmaqnSZtErZZCCbwvNe%2F%EC%95%A0%ED%94%8C7.png?alt=media&#x26;token=0d63a971-7512-4134-8805-d924b367ca41" alt="" width="100%">
 
 ​애플 개발자 계약에 동의하는지 확인해주세요.
 
@@ -142,7 +142,7 @@ DUNS넘버 발행을 받지 않았다면 아래 포스팅을 확인하여 발급
 
 ## STEP2. 가입하기
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FMH4ctFtFKD87Kju0l4vO%2F%EC%95%A0%ED%94%8C8.png?alt=media\&token=77818185-3a1c-4aa6-9b6a-42b1bc3379ce)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FMH4ctFtFKD87Kju0l4vO%2F%EC%95%A0%ED%94%8C8.png?alt=media&#x26;token=77818185-3a1c-4aa6-9b6a-42b1bc3379ce" alt="" width="100%">
 
 Apple Developer Program 가입
 
@@ -276,7 +276,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 <mark style="color:blue;">**+결제 페이지**</mark>
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FamNBruSPyMPHU2OVNxB7%2F%EC%95%A0%ED%94%8C15.png?alt=media\&token=9af66f21-65a2-453b-8d2f-160e2cf32e7e)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FamNBruSPyMPHU2OVNxB7%2F%EC%95%A0%ED%94%8C15.png?alt=media&#x26;token=9af66f21-65a2-453b-8d2f-160e2cf32e7e" alt="" width="100%">
 
 청구 주소, 연락처 정보를 제출 한뒤 카드 정보를 입력하여 결제를 완료할 수 있습니다.
 
@@ -322,7 +322,7 @@ DUNS넘버 발행을 받지 않았다면 아래 매뉴얼을 확인하여 발급
 
 
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fh6aKdiJaA0IyyXTYmB1O%2F%EC%95%A0%ED%94%8C16\(%EA%B0%9C%EC%9D%B8\).jpg?alt=media\&token=cad8f7e3-62ed-4701-8b55-b1b9d895eda1)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2Fh6aKdiJaA0IyyXTYmB1O%2F%EC%95%A0%ED%94%8C16(%EA%B0%9C%EC%9D%B8).jpg?alt=media&#x26;token=cad8f7e3-62ed-4701-8b55-b1b9d895eda1" alt="" width="100%">
 
 정상적으로 결제가 완료되면, 멤버십 항목이 생성됩니다.
 

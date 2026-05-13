@@ -22,7 +22,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 \*특히 그동안 지원되지 않았던 아이폰에서도 앱 미리보기가 가능합니다. (다운은 안되요\~!)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-1.png" alt="" width="100%">
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
 
@@ -36,7 +36,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **스윙투앱 – 앱 미리보기를 이용하는 방법을 확인해주세요 \~!**
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## 1. 앱스토어, 플레이스토어 \[스윙투앱] 앱 다운받기 <a href="#id-1" id="id-1"></a>
 
@@ -46,11 +46,11 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 \*스윙투앱 공식앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## ​**2. \[앱 미리보기] 로그인** <a href="#id-2" id="id-2"></a>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1%EA%B3%B5%EC%8B%9D%EC%95%B11-1.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1%EA%B3%B5%EC%8B%9D%EC%95%B11-1.png" alt="" width="100%">
 
 2\) 앱 실행 후 → 카테고리 상단에 **\[앱미리보기]** 메뉴를 선택합니다.
 
@@ -66,7 +66,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or QR코드로 미리보기 기능으로 이용해주세요.
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## ​**3. \[앱 미리보기] 앱 목록확인** <a href="#id-3" id="id-3"></a>
 
@@ -86,7 +86,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **따라서 아이폰에서는 푸시, 웹뷰로 제작한 앱은 이용할 수 없으며, 안드로이드폰에서는 다운로드로 이용 가능합니다.**
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## ​**4. 앱 실행)안드로이드, 아이폰 앱 미리보기** <a href="#id-4" id="id-4"></a>
 
@@ -110,7 +110,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **따라서 앱 설치가 제대로 안된다면 아래 매뉴얼을 확인하여 보안 설정을 풀어주시기 바랍니다.**
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## **5. 부관리자 로그인** <a href="#id-5" id="id-5"></a>
 
@@ -140,7 +140,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 **↓↓ 아래에서 부관리자를 설정하는 방법을 알려드릴게요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C2.png)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C2.png" alt="" width="100%">
 
 회원조회 페이지에서는 앱에 가입된 회원목록을 확인할 수 있어요.
 
@@ -158,7 +158,7 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 그리고 ‘부관리자’라는 명칭은 별도로 없으며 관리자로 통합되어 사용합니다.
 
-![](https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=576171dc-e10f-4248-89fe-df9dab4ee586)
+<img src="https://88478715-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FI0CA8OpKze6WVwOKHrNV%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media&#x26;token=576171dc-e10f-4248-89fe-df9dab4ee586" alt="" width="100%">
 
 ## **6. QR코드로 미리보기** <a href="#id-5" id="id-5"></a>
 
