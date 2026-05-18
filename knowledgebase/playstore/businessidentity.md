@@ -199,7 +199,16 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 코드 삽입 후 다시 돌아와서 확인을 선택합니다.&#x20;
 {% endhint %}
 
+{% hint style="warning" %}
+조직 웹사이트 인증에 어려움이 있다면, 구글 도움말 - 지원티켓을 제출하여 상담을 받아주세요.
 
+스윙투앱은 가이드 제공 외에 사용자 웹사이트 인증에 대한 문제 해결을 제공하지 않습니다.
+
+(웹사이트마다 다른 시스템, 구조, 구현방식이 다 다르므로 동일 방법으로 안내가 어렵습니다)
+
+따라서 인증에 문제가 있다면 구글 플레이콘솔 고객센터를 통해서 문의해주세요.  \
+[https://play.google.com/console/u/0/developers/5516876313100318753/help-and-support](https://play.google.com/console/u/0/developers/5516876313100318753/help-and-support)
+{% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/조직14.PNG" alt=""><figcaption></figcaption></figure></div>
 
@@ -215,7 +224,16 @@ description: 개발자 조직 계정 설정 완료 하기 - 마지막 계정 인
 
 <mark style="color:green;">\*웹사이트가 확인됨 표시 까지 떠야 완료가 됩니다.</mark>
 
+{% hint style="warning" %}
+조직 웹사이트 인증에 어려움이 있다면, 구글 도움말 - 지원티켓을 제출하여 상담을 받아주세요.
 
+스윙투앱은 가이드 제공 외에 사용자 웹사이트 인증에 대한 문제 해결을 제공하지 않습니다.
+
+(웹사이트마다 다른 시스템, 구조, 구현방식이 다 다르므로 동일 방법으로 안내가 어렵습니다)
+
+따라서 인증에 문제가 있다면 구글 플레이콘솔 고객센터를 통해서 문의해주세요.  \
+[https://play.google.com/console/u/0/developers/5516876313100318753/help-and-support](https://play.google.com/console/u/0/developers/5516876313100318753/help-and-support)
+{% endhint %}
 
 ***
 
