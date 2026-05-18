@@ -38,3 +38,15 @@
 Search Console에서는 여러 가지 확인 방법을 지원합니다. 아래 표에서 가장 적합한 방법을 선택하세요.
 
 <table><thead><tr><th width="342">방법</th><th>참고</th></tr></thead><tbody><tr><td><a href="https://support.google.com/webmasters/answer/9008080#html_verification">HTML 파일 업로드</a></td><td>비교적 간단하지만 특정 URL에서 파일을 업로드하고 사이트에 게시할 수 있어야 합니다. <a href="https://support.google.com/webmasters/answer/9008080#cms">사이트 호스팅 플랫폼</a>에서는 사용할 수 없는 경우도 있습니다.</td></tr><tr><td><a href="https://support.google.com/webmasters/answer/9008080#meta_tag_verification">HTML 태그</a></td><td>비교적 간단하지만 사이트 홈페이지의 HTML 소스 코드를 수정할 수 있어야 합니다. <a href="https://support.google.com/webmasters/answer/9008080#cms">사이트 호스팅 플랫폼</a>에서는 사용할 수 없는 경우도 있습니다.</td></tr><tr><td><a href="https://support.google.com/webmasters/answer/9008080#google_analytics_verification">Google 애널리틱스 추적 코드</a></td><td>이미 페이지에 내가 액세스할 수 있는 Google 애널리틱스 계정에 대한 Google 애널리틱스 추적 코드가 있다면 간단한 방법입니다. 페이지에 추적 코드가 없는 경우 만들어야 하며, 그렇게 하려면 Google 애널리틱스 계정이 없는 경우 만들어야 할 수 있습니다.</td></tr><tr><td><a href="https://support.google.com/webmasters/answer/9008080#google_tag_manager_verification">Google 태그 관리자</a></td><td>이미 페이지에 내가 액세스할 수 있는 Google 태그 관리자 계정에 대한 Google 태그 관리자 스니펫이 있다면 간단한 방법입니다. 페이지에 스니펫이 없는 경우 추가해야 하며, 그렇게 하려면 태그 관리자 계정이 없는 경우 만들어야 할 수 있습니다.</td></tr><tr><td>Google <a href="https://support.google.com/webmasters/answer/9008080#google_sites_verification">Sites</a> 또는 <a href="https://support.google.com/webmasters/answer/9008080#blogger_verification">Blogger</a> 계정</td><td>각 플랫폼에 권장되는 방법을 사용합니다.</td></tr><tr><td><a href="https://support.google.com/webmasters/answer/9008080#domain_name_verification">도메인 이름 공급업체</a></td><td>더 복잡하지만 <a href="https://support.google.com/webmasters/answer/10431861">도메인 속성</a>의 소유권을 확인할 수 있는 유일한 방법입니다. 도메인 공급업체가 확인 마법사에 표시된다면 간단한 절차입니다. 도메인 속성은 모든 프로토콜(http/https) 및 속성의 하위 도메인 변형 데이터를 포함하므로 유용합니다.</td></tr></tbody></table>
+
+{% hint style="info" %}
+조직 웹사이트 인증에 어려움이 있다면, 구글 도움말 - 지원티켓을 제출하여 상담을 받아주세요.
+
+스윙투앱은 가이드 제공 외에 사용자 웹사이트 인증에 대한 문제 해결을 제공하지 않습니다.
+
+(웹사이트마다 다른 시스템, 구조, 구현방식이 다 다르므로 동일 방법으로 안내가 어렵습니다)
+
+따라서 인증에 문제가 있다면 구글 플레이콘솔 고객센터를 통해서 문의해주세요.  \
+[https://play.google.com/console/u/0/developers/5516876313100318753/help-and-support](https://play.google.com/console/u/0/developers/5516876313100318753/help-and-support)
+{% endhint %}
+
