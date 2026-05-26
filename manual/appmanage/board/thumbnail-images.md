@@ -26,11 +26,11 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 ## &#x20;1. 섬네일 이미지 등록하기
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC2_20.06.png)
+<figure><img src="../../../.gitbook/assets/이미지 10 (1).png" alt=""><figcaption></figcaption></figure>
 
 **앱운영 페이지 → 서비스관리 → 게시물 관리 → 만들어 놓은 게시판으로 이동**
 
-글 작성시 \[사진] 첨부 버튼을 눌러서 이미지를 등록을 해주세요.
+글 작성시 **\[사진] 첨부 버튼을 눌러서 이미지를 등록을 해주세요.**
 
 게시물 입력시 사진 첨부로 등록한 이미지 중 **첫번째로 올라간 이미지가 게시물 대표 섬네일로 자동 지정이 되요.**
 
@@ -60,13 +60,33 @@ description: 게시판 이미지 등록시, 이미지를 게시물 대표 섬네
 
 <mark style="color:orange;">여기서 허용범위 설정 :</mark>  <mark style="color:orange;"></mark><mark style="color:orange;">**‘사진첨부 허용’ 항목에 체크해주시기 바랍니다.**</mark>
 
-
-
+{% hint style="info" %}
 -게시판을 새로 만들 경우 게시판 생성 버튼을 눌러서 새로 만들어주시구요.
 
 -기존 게시판을 수정할 경우 설정 버튼을 선택하면 됩니다.
 
--게시판은 서비스용도를 ‘사용자 정의’로 선택하면 아래 고정된 회색 영역이 풀리면서 항목들을 수정할 수 있습니다.&#x20;
+-게시판은 서비스용도를 ‘사용자 정의’로 선택하면 아래 고정된 회색 영역이 풀리면서 항목들을 수정할 수 있습니다.
+{% endhint %}
+
+
+
+#### **👉작성된 게시물 수정이 필요할 경우**&#x20;
+
+섬네일 이미지 지정을 못해서, 작성된 글을 다시 수정해야 할 경우는,
+
+<figure><img src="../../../.gitbook/assets/게시물수정.png" alt=""><figcaption></figcaption></figure>
+
+게시물관리>수정 원하는 게시판 선택 후 > 게시물 목록> **연필 모양(수정) 아이콘**을 선택합니다.
+
+
+
+<figure><img src="../../../.gitbook/assets/캡ddd처.PNG" alt=""><figcaption></figcaption></figure>
+
+게시물 수정 화면 하단의 **"카메라" 모양 아이콘(사진첨부)** 버튼 선택해서 섬네일로 지정할 이미지를 등록 후&#x20;
+
+수정 완료 버튼 눌러주시면 됩니다.&#x20;
+
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (7).PNG" alt=""><figcaption></figcaption></figure>
 
