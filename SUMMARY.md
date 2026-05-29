@@ -317,6 +317,7 @@
   * [푸시 알림 방식 확인](webapp/manual/pushnotification.md)
   * [푸시 히스토리(통계)](webapp/manual/push-history.md)
   * [푸시 테스트 발송 - 푸시 장치 관리](webapp/manual/pushtest.md)
+  * [푸시 마케팅 전략](webapp/manual/pushmaketing.md)
   * [\[푸시앱\] App Id, App Key](webapp/manual/api_key.md)
 
 ## 앱 이용 가이드 <a href="#appguide" id="appguide"></a>
