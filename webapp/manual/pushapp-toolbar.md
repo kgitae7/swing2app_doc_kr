@@ -286,7 +286,21 @@ STEP2 디자인 단계
 
 
 
-### <mark style="color:blue;">**2)고급 옵션**</mark>
+### <mark style="color:blue;">**2)툴바 미사용**</mark>&#x20;
+
+**툴바 노출을 원하지 않을 경우 - "미사용으로 체크 가능"**
+
+<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+
+**앱제작 - STEP2디자인 -툴바 사용하기에서 '아니오'로 체크 후 - 저장 및 업데이트 하면 반영됩니다.**
+
+\*반드시 앱 업데이트를 해야 앱에 반영되오니 꼭 업데이트를 해주세요.
+
+스토어에 출시된 앱은 새로 제작된 버전의 앱으로 업데이트 제출해주셔야 합니다.
+
+
+
+### <mark style="color:blue;">**3)고급 옵션**</mark>
 
 고급 스타일 옵션에서는 툴바 관련 색상을 설정할 수 있습니다.
 
