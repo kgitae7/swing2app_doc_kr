@@ -2,6 +2,7 @@
 
 * [스윙투앱](README.md)
 * [스윙투앱 이용 안내](swing2app-guide.md)
+* [스윙투앱 무료버전과 유료버전 차이](swing2app-use.md)
 * [\[웹앱\] 스윙투앱 강점](benefit.md)
 * [\[일반앱\] 스윙투앱 강점](benefit2.md)
 * [스토어 유지보수](https://www.swing2app.co.kr/landing/storemt)
