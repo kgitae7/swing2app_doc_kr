@@ -44,7 +44,7 @@ description: 스윙투앱 웹뷰 브라우저 - 웹앱 미리보기 이용방법
 
 [플레이스토어 앱 출시 링크](https://play.google.com/store/apps/details?id=com.hustay.swing.p275a02bc9a024f9eb54c077d056e2cb1)
 
-[앱스토어 앱 출시 링크](https://apps.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80/id6450099622?platform=iphone)
+[앱스토어 앱 출시 링크](https://apps.apple.com/kr/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80/id6450099622)
 
 
 
