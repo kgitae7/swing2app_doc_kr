@@ -329,7 +329,7 @@
   * [미리보기 이용방법](appguide/appoperation/qrpreview.md)
   * [APK파일 받기 (앱 다운)](appguide/appoperation/appinstall.md)
   * [AAB파일 받기](appguide/appoperation/aab.md)
-  * [아이폰에서 일반프로토타입 앱 미리보기](appguide/appoperation/undefined.md)
+  * [아이폰에서 일반프로토타입앱 미리보기](appguide/appoperation/iospreview.md)
   * [공유하기로 앱 설치하는 방법](appguide/appoperation/share-app.md)
   * [앱 설치 링크주소로 앱 다운받기](appguide/appoperation/applink-install.md)
   * [모바일 스윙투앱 사이트 접속 후 앱 다운받기](appguide/appoperation/apk-install.md)
