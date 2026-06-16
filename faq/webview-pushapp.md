@@ -208,7 +208,15 @@ description: 웹뷰앱 vs 푸시앱 차이점과 자주 묻는 질문 총정리!
 
 또한 스윙투앱에서 제공하는 앱 내부 브라우저 정책을 활용하는 방법도 있습니다.
 
-기술적인 에러가 발생된다면, 스윙투앱으로 문의주시면 개발팀 연결하여 확인 도와드리겠습니다.
+CORS(Cross-Origin Resource Sharing)는 웹 브라우저의 보안 정책으로, 웹뷰 환경에서도 동일하게 적용됩니다. 스윙투앱 웹뷰앱에서 이 문제를 해결하는 방법은 크게 두 가지입니다.
+
+**1. 서버 측에서 CORS 헤더 설정** 가장 근본적인 해결 방법은 연결하신 웹사이트의 서버에서 CORS 허용 헤더를 설정하는 것입니다. 서버 응답에 `Access-Control-Allow-Origin` 헤더를 추가하면 됩니다.
+
+**2. 스윙투앱 JavaScript API 활용** 웹뷰 환경에서는 일반 웹과 달리 네이티브 기능을 활용할 수 있습니다. 스윙투앱에서 제공하는 JavaScript API를 사용하면 CORS 제약 없이 일부 기능을 구현할 수 있습니다.
+
+JavaScript API 사용 방법과 예제는 아래 문서에서 확인하실 수 있습니다:&#x20;
+
+{% embed url="https://documentation.swing2app.co.kr/developer/webview/javascript-api#get-version-device-info" %}
 
 </details>
 
@@ -250,7 +258,18 @@ description: 웹뷰앱 vs 푸시앱 차이점과 자주 묻는 질문 총정리!
 
 <summary><strong>Q19. 무료체험이나 샘플 앱을 먼저 확인할 수 있나요?</strong></summary>
 
+네, 가능합니다.
 
+스윙투앱에서는 앱 제작 전 서비스를 미리 확인해보실 수 있도록 무료 체험 제작 기능을 제공하고 있습니다.
+
+회원가입시 앱제작 빌드가 열리며, 무료로 앱제작이 가능합니다.&#x20;
+
+무료앱을 직접 제작해보면서 앱 화면 구성, 메뉴 설정, 푸시 알림 등 기본적인 제작 방식을 확인하실 수 있습니다.&#x20;
+
+모든 기능 및 테스트 무료로 이용할 수 있으며, 안드로이드폰으로 제작된 앱(APK파일) 다운받아 확인할 수 있습니다.&#x20;
+
+다만, 무료앱은 테스트 및 체험용으로 제공되며, 실제 스토어 출시나 정식 운영을 위해서는 유료앱 전환 및 이용권 구매가 필요합니다.\
+제작을 고민 중이시라면 먼저 무료앱으로 직접 테스트해보신 후, 필요한 기능이나 출시 방식에 맞춰 유료 서비스 이용을 검토해주시면 됩니다.
 
 </details>
 
@@ -271,6 +290,10 @@ description: 웹뷰앱 vs 푸시앱 차이점과 자주 묻는 질문 총정리!
 네. 푸시 발송 시 링크(URL)를 삽입하면, 클릭 시 해당 페이지로 이동시킬 수 있습니다.
 
 예: 특정 상품페이지, 공지사항 등
+
+\*딥링크 이용방법 가이드를 참고해주세요&#x20;
+
+🔗[https://documentation.swing2app.co.kr/developer/webview/deeplink-integration](https://documentation.swing2app.co.kr/developer/webview/deeplink-integration)
 
 </details>
 
