@@ -50,7 +50,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 <mark style="color:red;">\*중요\* PC에서 진행, 웹브라우저: 크롬을 이용해주세요!!</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC1.png)
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC1.png" alt=""></div>
 
 \*브라우저는 반드시 크롬 이용해주세요. PC에서 이용해주세요.
 
@@ -62,7 +62,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC2.png" alt=""></div>
 
-3\)그다음 크롬 브라우저 상단 오른쪽 점 3개 버튼 선택해주세요
+3\) 상단점 세개 버튼 선택
 
 4\) \[다운로드] 선택해주세요.
 
@@ -70,7 +70,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 다운로드 새창이 열리구요. 방금 다운 받으신 앱을 확인할 수 있습니다.
 
-<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="true"><figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure></div>
 
 5\)파일명에 마우스 오른쪽 버튼을 클릭하면 '링크 주소 복사'를 선택할 수 있습니다.&#x20;
 
@@ -94,7 +94,7 @@ description: 앱 설치 링크 주소 발행, 링크 주소로 앱 다운받는 
 
 ### <mark style="color:blue;">**1.이메일로 앱 설치 링크 발송 후 다운**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC4.png)
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%95%B1%EB%A7%81%ED%81%AC4.png" alt=""></div>
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94_2021_03_27_09_17_57_698.gif" alt=""></div>
 
