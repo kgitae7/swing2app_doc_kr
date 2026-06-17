@@ -200,6 +200,11 @@ description: 제작한 앱을 확인할 수 있는 방법입니다.
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2021_04_19_17_12_28_478.gif" alt="" width="100%"></div>
 
+1. 스윙투앱 앱운영-버전관리-앱제작이력 페이지의 오른쪽 화면에서 \[미리보기] 선택 \
+   [https://www.swing2app.co.kr/view/app\_work\_history](https://www.swing2app.co.kr/view/app_work_history)
+2. 스윙투앱 공식 앱 실행 → 앱 미리보기 선택 → \[QR코드로 미리보기] 버튼 선택&#x20;
+3. 핸드폰을 화면에 뜨는 QR코드에 가져다 대면 제작한 앱이 핸드폰에서 미리보기로 실행됩니다.
+
 {% hint style="info" %}
 **스윙투앱 공식 앱 실행 → 앱 미리보기 선택 → \[QR코드로 미리보기] 버튼 선택 → 핸드폰을 해당 QR코드 이미지에 가져다 대면 제작한 앱이 핸드폰에서 미리보기로 실행됩니다.**
 {% endhint %}

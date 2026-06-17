@@ -485,7 +485,6 @@
   * [애드몹-스윙투앱 계정 초대하기](knowledgebase/admob/admob-invite.md)
   * [애드몹 운영 주의사항](knowledgebase/admob/admob-operation.md)
   * [애드몹 광고 셋팅 주의사항](knowledgebase/admob/admobplugin-check.md)
-  * [앱미리보기 이용방법](knowledgebase/admob/swingpreview.md)
 * [인앱(In-App)](knowledgebase/inapp/README.md)
   * [인앱(In-app)이란?](knowledgebase/inapp/notice.md)
   * [인앱 주의사항](knowledgebase/inapp/announcement.md)

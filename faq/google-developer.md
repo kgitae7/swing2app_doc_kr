@@ -309,30 +309,19 @@ DUNS에 등록된 주소가 정확하고 완전한지 확인해주세요.
 
 <summary><strong>개발자 계정 삭제 및 환불이 가능한가요?</strong></summary>
 
-▶**앱을 게시하지 않은 경우**
+구글 개발자 계정 환불은, 계정 인증이 완료되고, 앱을 한번도 게시(등록)하지 않은 경우만 신청 가능합니다.
 
-앱을 한 번도 게시하지 않은 상태는 환불이 가능합니다,
+**▶계정 인증 완료, 앱을 게시하지 않은 경우**
+
+앱을 한 번도 게시하지 않은 상태는 환불이 가능합니다.
 
 개발자 계정을 삭제하거나 개발비 환불을 원하면 문의하기 양식 폼에 내용을 작성해서 제출해주세요.
 
-[https://support.google.com/googleplay/android-developer/contact/dev\_registration?extra.IssueType=cancel\&sjid=14379898998631747419-AP](https://support.google.com/googleplay/android-developer/contact/dev_registration?extra.IssueType=cancel\&sjid=14379898998631747419-AP)
+제출 후 몇 일 뒤 구글에서 승인 메일을 보내며, 카드 결제 환불을 진행해줍니다.
 
+구글 플레이 개발자 계정 환불은 아래 가이드 링크를 확인해주세요.
 
-
-▶**앱을 게시한 경우**
-
-개발자 계정으로 앱을 게시한 적이 있는데 계정을 삭제하려는 경우 다음 작업을 완료해야 합니다.
-
-계정 삭제를 요청하기 전에 원래 계정에 로그인하여 정보를 백업하거나 다운로드합니다.
-
-Play Console 계정을 삭제하면 더 이상 사용할 수 없게 됩니다.
-
-그 다음, 새로운 개발자 계정을 만든 뒤, 해당 계정으로 앱을 모두 이전합니다.
-
-이전 작업이 모두 완료되면 구글 지원팀 문의 양식을 작성하여 동일하게 삭제 문의를 넣어주시면 됩니다.
-
-* 새 계정에서 동일한 개발자 이름을 사용하려면 기존 계정의 개발자 이름을 다른 이름으로 변경해야 합니다. 동일한 개발자 이름은 사용할 수 없습니다.
-* Google 계정을 삭제해도 개발자 계정이 자동으로 삭제되지는 않습니다.
+{% embed url="https://documentation.swing2app.co.kr/knowledgebase/playstore/refund" %}
 
 </details>
 
