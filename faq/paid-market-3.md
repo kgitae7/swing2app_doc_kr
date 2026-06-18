@@ -14,7 +14,7 @@
 
 <details>
 
-<summary>애플 개발자 계정등록비는 얼마인가요?</summary>
+<summary><strong>애플 개발자 계정등록비는 얼마인가요?</strong></summary>
 
 애플 개발자 계정 멤버쉽 1년 이용비용 129,000원입니다.
 
@@ -191,7 +191,7 @@ Apple Developer 웹사이트에서 멤버십을 갱신해주시기 바랍니다.
 
 <details>
 
-<summary>앱스토어 앱 출시 링크는 어디서 확인할 수 있나요?</summary>
+<summary><strong>앱스토어 앱 출시 링크는 어디서 확인할 수 있나요?</strong></summary>
 
 스윙투앱 계정으로 대리등록하신 분들은, 출시 링크 앱 등록시 보내드립니다.
 
@@ -213,7 +213,7 @@ Apple Developer 웹사이트에서 멤버십을 갱신해주시기 바랍니다.
 
 <details>
 
-<summary>앱스토어에 앱 출시만 하면 별도 관리를 하지 않아도 앱 평생 이용 가능하죠?</summary>
+<summary><strong>앱스토어에 앱 출시만 하면 별도 관리를 하지 않아도 앱 평생 이용 가능하죠?</strong></summary>
 
 그렇지 않습니다.
 
@@ -229,7 +229,7 @@ Apple Developer 웹사이트에서 멤버십을 갱신해주시기 바랍니다.
 
 <details>
 
-<summary>스윙투앱에서 만들었는데, 앱스토어 관리는 안해주나요?</summary>
+<summary><strong>스윙투앱에서 만들었는데, 앱스토어 관리는 안해주나요?</strong></summary>
 
 네 스토어 관리(정책 대응, 유지보수, 앱 관리)는 하지 않습니다.
 
@@ -239,7 +239,7 @@ Apple Developer 웹사이트에서 멤버십을 갱신해주시기 바랍니다.
 
 <details>
 
-<summary>앱스토어 앱 심사가 거절되면, 지불한 금액은 환불이 되나요?</summary>
+<summary><strong>앱스토어 앱 심사가 거절되면, 지불한 금액은 환불이 되나요?</strong></summary>
 
 앱스토어 대행 등록시 심사가 거절되어 출시가 되지 않았더라도, 이미 등록을 한 앱에 대해서는 티켓 환불이 되지 않습니다. \*단순 변심으로 인한 환불은 불가합니다.
 
