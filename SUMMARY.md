@@ -539,6 +539,7 @@
 * [스윙투앱 어플리케이션 개인정보 처리방침](terms/appprivacy.md)
 * [스윙투앱 교육용 라이선스](terms/license-for-edu.md)
 * [무료앱 설치 기기수 제한](terms/mau.md)
+* [무료앱 장기 미사용 앱 삭제 조치](terms/freeapp-policy.md)
 * [이용제한 이용자 안내](terms/violation-policy.md)
 * [아동 안전 표준 정책](terms/youth.md)
 
