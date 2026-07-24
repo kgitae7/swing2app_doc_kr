@@ -12,21 +12,17 @@
 
 **앱제작 페이지에서 단계별로 앱을 제작하는 방법을 매뉴얼을 통해서 확인해주세요 ^^**
 
-
-
 <mark style="color:red;">**★ 앱제작 전 먼저! 앱제작 TIP을 확인해주세요!**</mark>
 
 스윙은 앱제작 툴을 제공하고, 사용자가 직접 앱을 제작해야 하는 서비스인만큼 제작방법 매뉴얼이 잘 구축되어 있습니다.
 
-앱제작, 앱운영 페이지의 메뉴옆에 보시면**\[ ? ]** 물음표 아이콘을 확인할 수 있어요.
+앱제작, 앱운영 페이지의 메뉴옆에 보시면\*\*\[ ? ]\*\* 물음표 아이콘을 확인할 수 있어요.
 
 **해당 물음표 아이콘을 누르면, 이용방법 혹은 제작방법이 기재된 해당 도움말 매뉴얼 사이트로 이동합니다.**
 
 따라서 앱제작시 매뉴얼을 확인하고자 할 때는 꼭 \[ ? ]아이콘을 선택해서 매뉴얼을 확인해주시기 바랍니다.
 
-
-
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**단계별 앱제작 방법 영상으로 확인하기**</mark>
+<mark style="background-color:blue;">**▶**</mark>\*\* \*\*<mark style="color:orange;">**단계별 앱제작 방법 영상으로 확인하기**</mark>
 
 {% embed url="https://youtu.be/69fXQ7Troa0" %}
 
@@ -36,7 +32,7 @@
 
 앱제작페이지로 바로 들어오시면 아래와 같은 페이지가 열립니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_03.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_03.png)
 
 <mark style="color:orange;">**\[1단계 앱기본정보 제작방법]**</mark>
 
@@ -58,7 +54,7 @@
 
 <mark style="color:orange;">**\[이미지 편집도구 사용]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_04.png)
 
 아이콘 이미지 버튼을 선택하면 파일첨부창이 뜨면서 이미지를 업로드 할 수 있습니다.
 
@@ -66,9 +62,7 @@
 
 **사이즈가 달라서 편집이 필요할 경우 이미지편집도구 창으로 이동합니다.**
 
-
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_05.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_05.png)
 
 **위의 이미지가 바로 이미지편집도구 창입니다.**
 
@@ -78,31 +72,27 @@
 
 <mark style="color:orange;">**\*1단계 기본정보 항목이 모두 입력되면 \[저장] 버튼을 누르고, 다음 단계 디자인테마로 이동합니다.**</mark>
 
-
-
 ### <mark style="color:blue;">**STEP.2 디자인테마**</mark>
 
 **앱제작 2단계 \[디자인테마]는 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_06.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_06.png)
 
 <mark style="color:orange;">**\[2단계 디자인테마 제작방법]**</mark>
 
 **1. 프로토타입 선택: 앱 UI디자인을 결정하는 프로타입을 선택합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_07.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_07.png)
 
 <mark style="color:red;">\*스윙투앱에서는 총 6가지의 프로토타입 디자인을 제공하고 있습니다.</mark>
 
 \= 프로타입선택 ‘?’ 물음표 버튼을 누르면 프로토타입을 적용한 스타일을 모두 확인할 수 있어요.
 
-**☞** [**프로토타입 디자인 확인하기**](broken-reference)
-
-
+**☞** [**프로토타입 디자인 확인하기**](https://github.com/kgitae7/swing2app_doc_kr/blob/main/manual/v2/appbasic/broken-reference/README.md)
 
 **2. 스킨: UI디자인의 스킨 컬러를 설정합니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_08.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_08.png)
 
 스킨컬러는 앱의 바탕, 메뉴, 텍스트로 3셋트로 이루어진 색상조합을 제공하고 있어요.
 
@@ -122,13 +112,11 @@
 
 <mark style="color:orange;">**\*디자인테마에서 프로토타입과 스킨컬러를 모두 적용했다면 저장하신 뒤 다음단계인 페이지메뉴로 이동합니다.**</mark>
 
-
-
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 페이지메뉴**</mark>
 
 **3단계 \[페이지메뉴]는 앞서 만들어놓은 전체적인 앱 툴에 카테고리와 메뉴를 만들어서 본격적으로 앱 내용을 구성하는 단계입니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_17-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_17-1.png)
 
 페이지메뉴는 홈화면, 메뉴를 구성하는 단계에요.
 
@@ -136,15 +124,13 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-
-
 <mark style="color:orange;">**1. 홈화면 적용 방법**</mark>
 
 **홈화면은 앱을 실행하면 보이는 메인화면으로, 사용자가 직접 메인화면을 어떻게 보여지게 할지 구성할 수 있어요.**
 
 **스윙투앱에서 제공하는 메뉴 – 웹링크, 스윙페이지, 사용자페이지, 게시판, 이미지 등의 메뉴를 적용할 수 있습니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_18-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_18-1.png)
 
 **\*홈화면 적용방법**
 
@@ -158,7 +144,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-<mark style="background-color:blue;">**▶**</mark>** **<mark style="color:orange;">**웹링크 홈화면 적용**</mark>
+<mark style="background-color:blue;">**▶**</mark>\*\* \*\*<mark style="color:orange;">**웹링크 홈화면 적용**</mark>
 
 **홈화면에 웹링크를 적용해보겠습니다.**
 
@@ -166,7 +152,7 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80\_1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80_1.png)
 
 **\[제작방법]**
 
@@ -182,11 +168,9 @@
 
 6\) 저장을 누르면 완료!
 
-
-
 <mark style="color:orange;">**\[움짤로 확인하기]**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_12\_15\_14\_45\_50\_345.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2019_12_15_14_45_50_345.gif)
 
 <mark style="color:red;">**★ 주의사항**</mark>
 
@@ -206,11 +190,9 @@
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
-
-
 <mark style="color:orange;">**2. 메뉴 삭제**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_21-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_21-1.png)
 
 **\[기본 셋팅된 메뉴들을 삭제하는 방법]**
 
@@ -222,7 +204,7 @@
 
 <mark style="color:orange;">**3. 새 메뉴 추가**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_20-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_20-1.png)
 
 기존에 셋팅된 카테고리를 삭제하고, 새로운 카테고리를 추가하는 방법을 알려드릴게요.
 
@@ -242,7 +224,7 @@
 
 <mark style="color:orange;">**4. 하위 메뉴 추가**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_22-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_22-1.png)
 
 만들어놓은 메뉴 아래로 하위 메뉴를 추가하는 방법을 알려드릴게요.
 
@@ -254,7 +236,7 @@
 
 **가상머신을 보시면 \[메뉴] 하위로 \[스윙투앱 소개]라는 메뉴가 생성된 것을 확인할 수 있습니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80\_2.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80_2.png)
 
 **\[스윙투앱 소개]** 메뉴를 선택하면, 적용해놓은 이미지가 열립니다.
 
@@ -266,25 +248,21 @@
 
 <mark style="color:red;">페이지메뉴까지 제작이 완료되면 앱제작 요청 버튼을 눌러서 앱제작을 완료해주세요.</mark>
 
-
-
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.4 앱제작 요청**</mark>
 
 **앱제작이 완료되면 \[앱제작 요청]버튼을 눌러주세요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial\_ContentsTutorial\_25-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/Tutorial_ContentsTutorial_25-1.png)
 
 업데이트 표시 옵션은 ‘권장’으로 체크한 뒤 \[제작하기]를 선택하면 됩니다.
 
 <mark style="color:red;">\*업데이트 표시 옵션은 선택사항이기 때문에 필수로 하셔도 무관하답니다.\~!</mark>
 
-
-
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.5 앱제작 완료**</mark>
 
 <mark style="color:orange;">**1. 앱 제작 진행상태 확인**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C1.png)
 
 앱제작 페이지에서 앱제작요청을 누르면, 바로 앱운영 페이지의 앱 작업이력 페이지로 이동합니다.
 
@@ -294,11 +272,9 @@
 
 앱제작요청을 누른 뒤 5분 이내로 제작이 되기 때문에 조금만 기다려주세요 \~!
 
-
-
 <mark style="color:orange;">**2. 스윙 미리보기(앱 미리보기)**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C2.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C2.png)
 
 제작을 기다리는 중에 1분도 안되서 \[스윙 미리보기] 팝업창이 뜨는데요.
 
@@ -308,11 +284,9 @@
 
 \*핸드폰으로 미리보기: 스윙투앱 공식앱을 다운 받은 뒤 – 앱 미리보기 메뉴 – 스윙계정으로 로그인하거나 or 팝업창에 보여지는 QR코드를 스캔하면 핸드폰에서도 앱을 미리보기로 확인할 수 있어요!(다운이 아닌 미리보기입니다)
 
-
-
 <mark style="color:orange;">**3. 앱 제작 완료**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C\_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C3.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%99%84%EB%A3%8C_%EC%A7%84%ED%96%89%EC%83%81%ED%83%9C3.png)
 
 잠시 뒤 플랫폼별 상태가 ‘앱제작 완료!’라고 바뀐 것을 확인할 수 있어요.
 
@@ -328,15 +302,13 @@
 
 <mark style="color:red;">\*APK파일 설치는 안드로이드폰에서만 설치가 가능합니다. (아이폰은 지원이 안됩니다,)</mark>
 
-
-
 <mark style="color:red;">**★ 앱 미리보기**</mark>
 
 스윙투앱 공식앱에서 \[앱 미리보기]를 이용하면 **아이폰 사용자도 제작한 앱을 핸드폰에서 확인할 수 있구요.**
 
 안드로이드폰 사용자도 번거롭게 APK파일을 받지 않아도 제작하고 바로 핸드폰으로 확인할 수 있어요!!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/2\_886-2.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/2_886-2.png)
 
 1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
 
@@ -344,9 +316,9 @@
 
 3\) 로그인이 완료되면 앱 미리보기 페이지가 열리며, 제작한 앱 목록을 확인할 수 있습니다.
 
-\-아이폰은 미리보기 버튼을 눌러서 확인이 가능합니다.
+-아이폰은 미리보기 버튼을 눌러서 확인이 가능합니다.
 
-\-안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
+-안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
 
 <mark style="color:red;">**\*스윙투앱 프로토타입- 푸시, 웹뷰로 제작한 앱은 앱미리보기가 불가능합니다.(앱 다운로드만 가능)**</mark>
 
@@ -370,11 +342,11 @@
 
 <mark style="color:green;">**★ 업데이트 중요 내용 \*중요한 내용이니 확인해주세요!!**</mark>
 
-**1.**앱제작 단계 중 **3단계 \[페이지 메뉴]에 해당 되는 내용을 수정할 경우 **<mark style="color:orange;">**\[저장] 버튼만 눌러주시면 앱에 자동으로 반영됩니다.**</mark>
+\*\*1.\*\*앱제작 단계 중 **3단계 \[페이지 메뉴]에 해당 되는 내용을 수정할 경우 \[저장] 버튼만 눌러주시면 앱에 자동으로 반영됩니다.**
 
 \*앱 다시 제작안해도 됩니다.!!
 
-**2. 2단계\[디자인테마] 내용 수정 시 –프로타입 변경, 디자인 컬러 변경 등은 **<mark style="color:orange;">**\[앱제작요청]을 다시 한 뒤, \[소프트업데이트]를 선택해주세요.**</mark>
+**2. 2단계\[디자인테마] 내용 수정 시 –프로타입 변경, 디자인 컬러 변경 등은 \[앱제작요청]을 다시 한 뒤, \[소프트업데이트]를 선택해주세요.**
 
 소프트업데이트를 선택할 경우 플레이스토어, 앱스토어 등에 출시된 사용자의 앱을 다시 올리지 않아도 사용자의 앱 내에서 업데이트 됩니다.
 
@@ -382,7 +354,7 @@
 
 **3.** **1단계 앱 기본정보- 앱이름, 대기화면이미지, 아이콘이미지 등을 변경할 때 \[앱제작요청] 다시 해야 합니다.**
 
-이때 **\[하드 업데이트]를 선택해주세요!! **<mark style="color:orange;">**1단계 항목은 하드로 업데이트해야만 앱에 반영이 됩니다.**</mark>
+이때 \*\*\[하드 업데이트]를 선택해주세요!! \*\*<mark style="color:orange;">**1단계 항목은 하드로 업데이트해야만 앱에 반영이 됩니다.**</mark>
 
 플레이스토어, 앱스토어 등에 출시된 사용자의 앱도 1단계 내용을 수정할 경우 ‘앱제작요청’을 눌러서 다시 새 버전의 APK파일을 제작해주시구요.
 
@@ -401,4 +373,3 @@
 2\) 소프트 업데이트: 앱을 재설치하지 않고 재실행만 하면 업데이트를 받을 수 있어요. 플레이스토어나 앱스토어에 출시된 앱
 
 <mark style="color:red;">\*스토어에 올라간 앱 업데이트 안해도 됩니다.</mark>
-
