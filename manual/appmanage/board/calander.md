@@ -192,7 +192,7 @@ UI 및 기능 선택에서 ‘캘린더’를 다시 선택하여, 권한설정 
 5\)저장 버튼 완료
 
 \
-&#xNAN;**\[캘린더 일정 제목 텍스트, 배경 색상 설정]**
+**\[캘린더 일정 제목 텍스트, 배경 색상 설정]**
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/cd5e9a95ed5f4c7e8171a2ad365acac7.png)
 

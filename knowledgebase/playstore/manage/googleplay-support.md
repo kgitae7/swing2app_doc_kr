@@ -17,7 +17,7 @@
 일반 구글 이용고객들은 지원대상이 아닙니다.
 
 \
-&#xNAN;**☞** [**구글 플레이 콘솔 지원팀 바로가기**](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
+**☞** [**구글 플레이 콘솔 지원팀 바로가기**](https://support.google.com/googleplay/android-developer/answer/7218994?hl=ko)
 
 &#x20;구글플레이콘솔 지원팀은 전화(유선 상담)상담을 하지 않기 때문에 위의 사이트로 이동하셔서 문의주셔야 합니다.&#x20;
 

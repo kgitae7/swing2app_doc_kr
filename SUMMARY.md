@@ -436,7 +436,7 @@
   * [플레이스토어 앱 업로드 키 재설정](knowledgebase/playstore/keymanagement.md)
   * [웹앱(푸시,웹뷰앱) 플레이스토어 출시 방법](knowledgebase/playstore/webview-playstore-apprelease.md)
   * [구글 개발자 계정 등록 프로세스](knowledgebase/playstore/googleprocess-1.md)
-  * [플레이스토어 API35 버전 앱 업데이트 제출하기](knowledgebase/playstore/api35.md)
+  * [플레이스토어 API36 버전 앱 업데이트 제출하기](knowledgebase/playstore/api35.md)
   * [플레이스토어 16KB 업데이트 제출하기](knowledgebase/playstore/16kb.md)
 * [앱스토어](knowledgebase/appstore/README.md)
   * [애플 계정 만들기](knowledgebase/appstore/accounts.md)

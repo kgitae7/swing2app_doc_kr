@@ -137,7 +137,7 @@
 플레이스토어도 애플과 비슷한 정책으로 심사를 하기 때문에 플레이스토어도 참고하여 확인해주시기 바랍니다.&#x20;
 
 \
-&#xNAN;**☞** [**앱스토어 앱출시 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
+**☞** [**앱스토어 앱출시 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/appstore/reject)
 
 **☞** [**플레이스토어 앱 심사 거절사례 보러가기**](https://documentation.swing2app.co.kr/knowledgebase/playstore/reject)
 
