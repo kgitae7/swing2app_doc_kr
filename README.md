@@ -1,10 +1,8 @@
 ---
-description: 스윙투앱 서비스란
+description: 스윙투앱 서비스란? 이용 안내
 ---
 
 # 스윙투앱
-
-
 
 <figure><img src=".gitbook/assets/구분선 (3).PNG" alt=""><figcaption></figcaption></figure>
 
