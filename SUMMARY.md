@@ -322,6 +322,7 @@
 
 ## 앱 이용 가이드 <a href="#appguide" id="appguide"></a>
 
+* [APK파일 받기 (안드로이드 앱 다운)](appguide/appinstall.md)
 * [스윙투앱 브라우저 앱 이용방법](appguide/webappconverter.md)
 * [어플리케이션 운영](appguide/appoperation/README.md)
   * [유료앱 전환 및 스토어 업로드 신청방법](appguide/appoperation/paidversion-app.md)
