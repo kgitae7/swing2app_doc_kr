@@ -8,7 +8,17 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) STEP1. 새 버전의 AAB파일 업데이트
 
-\*구글 플레이 콘솔: [https://play.google.com/console/developers](https://play.google.com/console/developers)
+
+
+### <mark style="color:$primary;">**1.스윙투앱에서 앱 새 버전으로 업데이트 하는 방법**</mark>
+
+{% embed url="https://documentation.swing2app.co.kr/manual/v3/update" %}
+
+
+
+### <mark style="color:$primary;">**2.구글 플레이콘솔 접속**</mark>
+
+**\*구글 플레이 콘솔:** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
 앱 버전이 업데이트 된 경우, 새 버전의 AAB파일을 다운받아서 플레이스토어- 프로덕션에 올려주시면 됩니다.
 
@@ -54,7 +64,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 
 
-### <mark style="color:blue;">**1.구글 플레이 콘솔 접속 – 업데이트 할 앱 선택하기**</mark>
+### <mark style="color:blue;">**3.구글 플레이 콘솔 접속 – 업데이트 할 앱 선택하기**</mark>
 
 <figure><img src="../../.gitbook/assets/스토어업데이트5.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +76,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 
 
-### <mark style="color:blue;">**2.프로덕션 → 새 버전 만들기**</mark>&#x20;
+### <mark style="color:blue;">**4.프로덕션 → 새 버전 만들기**</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/이미지 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +84,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 
 
-### <mark style="color:blue;">**3.프로덕션 버전 만들기 – AAB파일 \[업로드] 하기**</mark>
+### <mark style="color:blue;">**5.프로덕션 버전 만들기 – AAB파일 \[업로드] 하기**</mark>
 
 <figure><img src="../../.gitbook/assets/스토어업데이트3.png" alt=""><figcaption></figcaption></figure>
 
@@ -118,7 +128,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 따로 파일을 저장하여 불러오는 것보다 보다 편하게 작업 하실 수 있겠죠?^^
 {% endhint %}
 
-### &#x20;<mark style="color:blue;">4.AAB파일 업로드 완료</mark>
+### &#x20;<mark style="color:$primary;">6</mark><mark style="color:blue;">.AAB파일 업로드 완료</mark>
 
 <figure><img src="../../.gitbook/assets/ㅎ1.png" alt=""><figcaption></figcaption></figure>
 
@@ -186,7 +196,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 
 
-### <mark style="color:blue;">**5.업데이트 검토 중**</mark>&#x20;
+### <mark style="color:blue;">**7.업데이트 검토 중**</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/스토어업데이트4.png" alt=""><figcaption></figcaption></figure>
 
@@ -204,7 +214,7 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 -업데이트 심사에서 심사가 거절될 수도 있기 때문에 거절 될 경우 내용을 확인하여 다시 재심사 진행해야 합니다.
 {% endhint %}
 
-### <mark style="color:blue;">**6.업데이트 완료**</mark>
+### <mark style="color:blue;">**8.업데이트 완료**</mark>
 
 업데이트가 완료되면, 출시 개요 페이지에서 프로덕션 출시를 확인할 수 있습니다.&#x20;
 
