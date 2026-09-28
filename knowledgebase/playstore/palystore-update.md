@@ -20,14 +20,16 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 **\*구글 플레이 콘솔:** [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
-앱 버전이 업데이트 된 경우, 새 버전의 AAB파일을 다운받아서 플레이스토어- 프로덕션에 올려주시면 됩니다.
+스윙투앱 앱제작에서 새 버전 앱제작(업데이트)을 완료했다면,
+
+새로 제작된 AAB파일을 다운받아서 플레이스토어- 프로덕션에 올려주시면 됩니다.
 
 **AAB파일만 새로 올려주시면 되기 때문에 간단하구요.**
 
-플레이스토어에서 새 버전의 앱으로 업데이트 하는 방법을 알려드릴게요.
+플레이콘솔에서새 버전의 앱으로 업데이트 하는 방법을 알려드릴게요.
 
 {% hint style="danger" %}
-<mark style="color:red;">**주의사항**</mark>
+<mark style="color:red;">**안내사항**</mark>
 
 **APK파일로 출시된 앱은→업데이트도 APK파일로 등록해주세요.**&#x20;
 
@@ -49,7 +51,9 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 <mark style="color:blue;">**\*2단계 디자인테마 – 프로토타입 UI변경, 스킨 컬러 변경**</mark>
 
-위의 2가지 단계 내용을 수정하게 되면 저장 후 \[앱제작하기]를 선택해서 새 버전으로 앱제작(업데이트)을 해주셔야 합니다.
+<mark style="color:blue;">**\*시스템 업데이트 : 구글 플레이 정책, 구글 이슈, 안드로이드 기기 업데이트 등의 시스템 변경 등**</mark>
+
+위의 3가지 단계 내용을 수정하게 되면 저장 후 \[앱 업데이트]버튼을 선택해서 새 버전으로 앱제작(업데이트)을 해주셔야 합니다.
 
 이렇게 새 버전으로 앱제작이 완료되면, 플레이스토어 프로덕션에서 새버전의 앱을 올려서 업데이트 해야 합니다. AAB파일 업데이트 필수!!
 
@@ -68,9 +72,9 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 <figure><img src="../../.gitbook/assets/스토어업데이트5.png" alt=""><figcaption></figcaption></figure>
 
-구글 플레이 콘솔사이트에 접속 [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
+구글 플레이 콘솔사이트 접속 [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
-→ 업데이트 할 어플을 선택해주세요.
+**1) 메인대시보드에서업데이트 할 어플을 선택해주세요.**
 
 &#x20;<mark style="color:red;">\*구글 플레이 콘솔은 인터넷 브라우저 Chrome 으로 이용해주세요.</mark>&#x20;
 
@@ -80,7 +84,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 <figure><img src="../../.gitbook/assets/이미지 3.png" alt=""><figcaption></figcaption></figure>
 
-왼쪽 메뉴  - 테스트 및 출시 - 프로덕션 선택 - \[새 버전 만들기] 선택&#x20;
+**2)왼쪽 메뉴  - 테스트 및 출시 - 프로덕션 선택 - \[새 버전 만들기] 선택**&#x20;
 
 
 
@@ -88,11 +92,11 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 <figure><img src="../../.gitbook/assets/스토어업데이트3.png" alt=""><figcaption></figcaption></figure>
 
-프로덕션 버전 만들기 페이지에서 \[업로드] 버튼을 선택해서 새로운 버전의 AAB파일을 등록해주세요.
+**3)프로덕션 버전 만들기 페이지에서 \[업로드] 버튼을 선택**해서 새로운 버전의 AAB파일을 등록해주세요.
 
 <div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png" alt=""></div>
 
-<mark style="color:red;">**\*AAB파일은 어디서 다운받나요??**</mark>
+<mark style="color:red;">**👉AAB파일은 어디서 다운받나요??**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/aab%ED%8C%8C%EC%9D%BC%EB%8B%A4%EC%9A%B41.png)
 
@@ -136,7 +140,11 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 **1)임시보관함에 저장 → 2)\[다음] 선택**&#x20;
 
-<mark style="color:red;">\*’이번 버전의 새로운 기능(출시노트)’은 새로 업데이트 된 내용을 작성하는 칸입니다. (필수 입력 항목 아닙니다.)</mark>
+<figure><img src="../../.gitbook/assets/이미지 &#x27;4.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">\*’이번 버전의 새로운 기능(출시노트)’은 새로 업데이트 된 내용을 작성하는 칸입니다.</mark>
+
+&#x20;<mark style="color:red;">필수 입력 항목 아니기 때문에 그냥 넘어가도 되며, 업데이트 내용을 기재하고 싶다면 출시노트에 내용 입력 후 저장해주세요</mark>
 
 이전에 출시된 내용과 동일할 경우 \[이전 버전에서 복사] 버튼을 눌러주세요.&#x20;
 
