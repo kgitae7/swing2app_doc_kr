@@ -12,6 +12,10 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 ### <mark style="color:$primary;">**1.스윙투앱에서 앱 새 버전으로 업데이트 하는 방법**</mark>
 
+앱을 새 버전으로 제출하기 위해서는 스윙투앱 -앱제작에서 앱을 업데이트 해주셔야 합니다.
+
+아래 링크를 보시고, 스윙투앱 앱제작에서 앱을 먼저 업데이트 해주세요.&#x20;
+
 {% embed url="https://documentation.swing2app.co.kr/manual/v3/update" %}
 
 
