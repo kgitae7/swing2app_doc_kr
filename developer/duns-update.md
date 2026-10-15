@@ -12,7 +12,7 @@
 
 <figure><img src="../.gitbook/assets/던스업데이트.png" alt=""><figcaption></figcaption></figure>
 
-1\) Email 주소 입력: DUNS 에 가입된 메일주소를 입력합니다. Nest 선택
+1\) Email 주소 입력: DUNS 에 가입된 메일주소를 입력합니다. 'Next' 선택
 
 2\) Developer Program 선택
 
