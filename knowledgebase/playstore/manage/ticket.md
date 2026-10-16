@@ -37,21 +37,27 @@ description: 구글 플레이 개발자 고객센터 문의 방법
 
 
 
-1.구글 플레이 콘솔 접속(개발자 계정 로그인) [https://play.google.com/console/developers](https://play.google.com/console/developers)
+구글 플레이 콘솔 접속(개발자 계정 로그인) [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-대시보드 왼쪽 메뉴 "도움말" 선택
+1.메인 화면 오른쪽 상단의 "<mark style="color:$primary;">**계정 관리**</mark>" 선택
 
-<figure><img src="../../../.gitbook/assets/구글도움말1.png" alt=""><figcaption></figcaption></figure>
-
-
-
-2.\[+지원 티켓 만들기] 선택
-
-<figure><img src="../../../.gitbook/assets/구글도움말2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/계정1 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-3.새 지원 티켓 화면에서 주제를 선택해서 내용을 제출합니다.
+2.<mark style="color:$primary;">**\[도움말 및 지원]**</mark> 버튼선택
+
+<figure><img src="../../../.gitbook/assets/계정2 (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+3.<mark style="color:$primary;">**\[+지원 티켓 만들기]**</mark> 선택합니다.&#x20;
+
+<figure><img src="../../../.gitbook/assets/계정3 (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+4.**새 지원 티켓 화면**에서 주제를 선택합니다.&#x20;
 
 <figure><img src="../../../.gitbook/assets/구글도움말3.png" alt=""><figcaption></figcaption></figure>
 
@@ -59,7 +65,7 @@ description: 구글 플레이 개발자 고객센터 문의 방법
 
 
 
-4.티켓 제출하기
+**5.티켓 제출하기**
 
 <figure><img src="../../../.gitbook/assets/구글도움말4.png" alt=""><figcaption></figcaption></figure>
 

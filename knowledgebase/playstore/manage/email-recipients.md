@@ -54,22 +54,44 @@ description: 구글 플레이 이메일 수신자 관리
 
 이메일 수신자 추가는아래 순서대로 진행해주세요.
 
-<figure><img src="../../../.gitbook/assets/이메일추가1.png" alt=""><figcaption></figcaption></figure>
+
+
+1\)[구글 플레이 콘솔](https://play.google.com/console/u/0/developers) 접속 -메인 화면 오른쪽 상단 <mark style="color:$primary;">**\[계정 관리]**</mark> 선택
+
+<figure><img src="../../../.gitbook/assets/계정1 (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**2)사용자 및 권한 선택**
+
+<figure><img src="../../../.gitbook/assets/계정4 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+3\)<mark style="color:$primary;">**\[이메일 수신자 추가]**</mark> 선택
+
+<figure><img src="../../../.gitbook/assets/계정5 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+4\)이메일수신자 추가 방법
 
 <figure><img src="../../../.gitbook/assets/이메일추가2 (1).png" alt=""><figcaption></figcaption></figure>
 
-1. 개발자 계정에서 [사용자 및 권한](https://play.google.com/console/developers/users-and-permissions) 탭으로 이동합니다.
-2. '이메일 수신자' 섹션까지 아래로 스크롤하여, **'이메일 수신자 추가'**&#xB97C; 클릭합니다.
-3. 이메일 주소 입력란에 이메일 수신자의 이메일 주소를 입력합니다.<mark style="color:$danger;">\*구글 계정(gmail)계정이 아니어도 됩니다.</mark>&#x20;
-4. 이메일주소 확인 (앞서 입력된 메일주소로자동 입력 됩니다.)
-5. 이름 입력 \*선택사항으로 입력하지 않아도 무관합니다.&#x20;
-6. 이메일 기본 언어 선택
-7. **앱 선택**: 앱등록다운메뉴에서알림을 받을 앱을 선택하거나, 전체 앱을 선택할 수 있습니다. 전체앱은 "모든 앱"선택합니다.
-8. **이메일 주제:** 드롭다운 메뉴에서 이 이메일 수신자에게 알림을 전송하려는 알림 주제를 선택합니다. \
+1. 이메일 주소 입력란에 이메일 수신자의 이메일 주소를 입력합니다.<mark style="color:$danger;">\*구글 계정(gmail)계정이 아니어도 됩니다.</mark>&#x20;
+2. 이메일주소 확인 (앞서 입력된 메일주소로자동 입력 됩니다.)
+3. 이름 입력 \*선택사항으로 입력하지 않아도 무관합니다.&#x20;
+4. 이메일 기본 언어 선택
+5. **앱 선택**: 앱등록다운메뉴에서알림을 받을 앱을 선택하거나, 전체 앱을 선택할 수 있습니다. 전체앱은 "모든 앱"선택합니다.
+6. **이메일 주제:** 드롭다운 메뉴에서 이 이메일 수신자에게 알림을 전송하려는 알림 주제를 선택합니다. \
    \[+주제추가] 버튼클릭-'전체'를 선택하면 계정의 모든 앱과 계정 정보에 대한 알림이 전송됩니다.
-9. **추가**를 클릭합니다.
+7. **추가**를 클릭합니다.
 
+{% hint style="warning" %}
+**주의: 콘솔에 앱이 없으면 이메일 주소 추가가 되지 않습니다.**
 
+**플레이콘솔에 앱을 등록한 뒤 이용해주세요.**
+{% endhint %}
 
 <div align="left"><figure><img src="../../../.gitbook/assets/이메일추가5.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -83,10 +105,25 @@ description: 구글 플레이 이메일 수신자 관리
 
 이메일 수신자를 수정하려면 다음 단계를 따르세요.
 
-<figure><img src="../../../.gitbook/assets/이메일추가3.png" alt=""><figcaption></figcaption></figure>
+
+
+1\)사용자 및 권한 선택&#x20;
+
+<figure><img src="../../../.gitbook/assets/이미지 11 (3).png" alt=""><figcaption></figcaption></figure>
+
+2\)이메일 수신자 목록에서  "**→**" 관리 선택
+
+<figure><img src="../../../.gitbook/assets/캡처00.JPG" alt=""><figcaption></figcaption></figure>
+
+3\)관리 화면에서 필요한 내용 수정&#x20;
+
+<figure><img src="../../../.gitbook/assets/이미지 15.png" alt=""><figcaption></figcaption></figure>
+
+
 
 1. 개발자 계정에서 [사용자 및 권한](https://play.google.com/console/developers/users-and-permissions) 탭으로 이동합니다.
 2. '이메일 수신자' 섹션까지 아래로 스크롤, 수정할 이메일 수신자를 찾아 오른쪽에 있는 화살표를 클릭합니다.
+3. 관리 화면에서 필요한 내용들을 수정하실 수 있습니다.&#x20;
 
 ***
 
@@ -96,9 +133,21 @@ description: 구글 플레이 이메일 수신자 관리
 
 이메일 수신자를 삭제하려면 다음 단계를 따르세요.
 
-<figure><img src="../../../.gitbook/assets/이메일추가3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/이메일추가4.png" alt=""><figcaption></figcaption></figure>
+
+1\)사용자 및 권한 선택&#x20;
+
+<figure><img src="../../../.gitbook/assets/이미지 11 (2).png" alt=""><figcaption></figcaption></figure>
+
+2\)이메일 수신자 목록에서  "**→**" 관리 선택
+
+<figure><img src="../../../.gitbook/assets/캡처00.JPG" alt=""><figcaption></figcaption></figure>
+
+3\)**이메일 수신자 삭제**를 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/이미지 12.png" alt=""><figcaption></figcaption></figure>
+
+
 
 1. 개발자 계정에서 [사용자 및 권한](https://play.google.com/console/developers/users-and-permissions) 탭으로 이동합니다.
 2. '이메일 수신자' 섹션까지 아래로 스크롤, 수정할 이메일 수신자를 찾아 오른쪽에 있는 화살표를 클릭합니다.

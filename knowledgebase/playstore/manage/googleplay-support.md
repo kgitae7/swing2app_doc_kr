@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Google Play Console 지원팀 문의하기
 
 **Google Play 콘솔 지원팀 이용방법**&#x20;
