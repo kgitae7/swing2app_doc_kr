@@ -26,27 +26,39 @@ description: 구글 개발자 등록 후 스윙투앱으로 초대하는 과정(
 
 **구글 개발자계정 등록이 완료되면** [**구글 플레이 콘솔사이트**](https://play.google.com/console/developers) **에서 아래 방법으로, 계정 초대를 해주세요.**&#x20;
 
-<figure><img src="../../.gitbook/assets/구글개발자계정 초대방법.png" alt=""><figcaption></figcaption></figure>
 
-1\)왼쪽 카테고리에서\[사용자 및 권한]선택&#x20;
 
-2\)화면 오른쪽 \[신규 사용자 초대]선택&#x20;
+**1.**[**구글 플레이콘솔**](https://play.google.com/console/u/0/developers) **메인 홈화면 오른쪽 상단 - "계정 관리" 선택**
 
-3\)이메일주소: 초대할 스윙투앱 계정 " [**swing2appdev@gmail.com**](mailto:swing2appdev@gmail.com) " 입력
+<figure><img src="../../.gitbook/assets/계정1 (3).png" alt=""><figcaption></figcaption></figure>
 
-4\)권한: 계정 권한 선택
 
-5\)\[앱 액세스 권한: ‘관리자’ 체크&#x20;
 
-6\)\[사용자 초대] 선택
+**2.사용자 및 권한 선택**
 
-7\)\[초대 보내기] 선택시 완료됩니다.
+<figure><img src="../../.gitbook/assets/계정4 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**3.사용자 초대**
+
+<figure><img src="../../.gitbook/assets/이미지 19 (1).png" alt=""><figcaption></figcaption></figure>
+
+1\)화면 오른쪽 \[신규 사용자 초대]선택&#x20;
+
+2\)이메일주소: 초대할 스윙투앱 계정 " [**swing2appdev@gmail.com**](mailto:swing2appdev@gmail.com) " 입력
+
+3\)권한: 계정 권한 선택
+
+4\)\[앱 액세스 권한: ‘관리자’ 체크&#x20;
+
+5\)\[사용자 초대] 선택
+
+6\)\[초대 보내기] 선택, 완료됩니다.
 
 
 
 #### 초대 완료
-
-<figure><img src="../../.gitbook/assets/계정초개.png" alt=""><figcaption></figcaption></figure>
 
 스윙투앱 계정을 입력하고 초대장을 보내주시면&#x20;
 
