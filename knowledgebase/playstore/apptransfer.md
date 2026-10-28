@@ -44,11 +44,17 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 ## **1. 구글 플레이 콘솔 접속 - 앱 이전 선택**
 
-<figure><img src="../../.gitbook/assets/구글앱이전3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/계정관리1.png" alt=""><figcaption></figcaption></figure>
 
 [<mark style="color:blue;">**구글 플레이 콘솔 사이트**</mark>](https://play.google.com/console/u/0/developers) 접속 및 로그인후,&#x20;
 
-왼쪽 **설정** 메뉴 선택 - **앱 이전**을 선택합니다.&#x20;
+왼쪽 메뉴바를 열어서 "계정 관리" 선택하거나 or 대시보드 화면 오른쪽의 "계정 관리" 선택해주세요.
+
+
+
+<figure><img src="../../.gitbook/assets/앱이전.PNG" alt=""><figcaption></figcaption></figure>
+
+Play 앱 설정에서 - **앱 이전**을 선택합니다.
 
 ***
 
@@ -164,17 +170,19 @@ description: 플레이스토어 앱 다른 개발자 계정으로 옮기는 방�
 
 ## 4.새개발자계정에서 이전 요청 검토(동의하기)
 
-<figure><img src="../../.gitbook/assets/구글앱이전3.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/앱이전.PNG" alt=""><figcaption></figcaption></figure>
 
 새 개발자 계정으로 다시 로그인한 뒤
 
-동일하게 플레이 콘솔 접속 - 설정- 앱 이전 메뉴로 이동합니다.
+동일하게 플레이 콘솔 접속 - 계정 관리- Play  앱설정- 앱 이전 메뉴로 이동합니다.
 
 
 
 <figure><img src="../../.gitbook/assets/이전7.png" alt=""><figcaption></figcaption></figure>
 
-"나에게 이전 중인 앱 " 항목에서 앞에서 이전을 요청한 앱을 확인할 수 있구요.
+"나에게 이전 중인 앱" 항목에서 앞에서 이전을 요청한 앱을 확인할 수 있구요.
 
 \[요청 검토] 를 선택해주세요.
 
