@@ -30,19 +30,39 @@ description: 구글 플레이스토어 - 연락처 세부 정보 수정 방법
 어디에 노출되는 정보가 아니며, 구글에서 연락이 필요할 경우 해당 정보에 입력된 내용으로 연락을 하게 됩니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/계정변경3.png" alt=""><figcaption></figcaption></figure>
 
-**대시보드의 화면 왼쪽의   \[개발자계정] → \[연락처 세부정보] 선택**
 
-<figure><img src="../../.gitbook/assets/계정변경2.png" alt=""><figcaption></figcaption></figure>
+**'계정 관리' 선택**
+
+<figure><img src="../../.gitbook/assets/계정관리1.png" alt=""><figcaption></figcaption></figure>
+
+[플레이콘솔](https://play.google.com/console/developers) 메인 홈화면에서&#x20;
+
+왼쪽 메뉴바를 열어서 "계정 관리" 선택하거나 or 대시보드 화면 오른쪽의 "계정  관리" 선택해주세요.
+
+
+
+**\[계정 세부정보]** 선택합니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/계정관리2.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**\[연락처 세부정보] 선택**
+
+<div align="left"><figure><img src="../../.gitbook/assets/계정관리3 (1).png" alt=""><figcaption></figcaption></figure></div>
+
+아래 연락처 세부정보 화면에서 정보 수정이 가능합니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/계정관리4.png" alt=""><figcaption></figcaption></figure>
 
 담당자 이름, 이메일주소, 선호언어, 연락처 전화번호를 수정 입력 할 수 있습니다.
 
-\*이메일과 연락처는 인증을 받아야 등록됩니다.
+**\*이메일과 연락처는 인증을 받아야 수정 가능합니다.**
 
 실제 이용가능한 메일인지, 연락처인지 확인하기 위해서 인증번호를 전송하며 인증을 해야만 등록됩니다.
 
-수정 후 \[변경사항 저장] 버튼을 선택하면 저장됩니다.
+수정 후 **\[변경사항 저장]** 버튼을 선택하면 저장됩니다.
 
 ***
 
