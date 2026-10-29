@@ -1,5 +1,5 @@
 ---
-description: 업로드 키 재설
+description: 업로드 키 재설정 방법
 ---
 
 # 플레이스토어 업로드키 재설정 방법
@@ -78,8 +78,6 @@ keystore 또는 alias 비밀번호를 까먹은 경우
 Google Play 앱 서명에 등록되어 있지 않다면 안드로이드 키스토어 파일, 키스토어 패스워드, 키스토어 Alias, 키스토어 Alias 패스워드를 보내주셔야 합니다.&#x20;
 
 그래야만 기존 앱 업데이트 진행이 가능합니다.&#x20;
-
-
 {% endhint %}
 
 ***
@@ -94,15 +92,21 @@ Google Play 앱 서명에 등록되어 있지 않다면 안드로이드 키스�
 
 {% embed url="https://play.google.com/console/developers" %}
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
 
 업로드키 재설정할 앱 선택 후,
 
-1\)왼쪽 메뉴: 테스트 및 출시 선택
+<figure><img src="../../../.gitbook/assets/이미지 3.png" alt=""><figcaption></figcaption></figure>
 
-2\)'앱 무결성' 선택
+1\)왼쪽 메뉴바에서 **"Google Play로 보호됨"** 선택
 
-3\)Play 앱 서명:'설정' 선택
+<figure><img src="../../../.gitbook/assets/이미지4.png" alt=""><figcaption></figcaption></figure>
+
+**2)Play 스토어 보호** > **Play 앱 서명 관리 선택**
+
+<figure><img src="../../../.gitbook/assets/이미지5.png" alt=""><figcaption></figcaption></figure>
+
+**3)업로드 키 인증서** 섹션에서 **업로드 키 재설정 요청**을 클릭합니다.
 
 {% hint style="info" %}
 **앱 서명이 되어 있을 경우만 설정에서 키 재설정 요청이 가능합니다.**&#x20;
@@ -110,22 +114,23 @@ Google Play 앱 서명에 등록되어 있지 않다면 안드로이드 키스�
 앱 서명 하지 않았을 경우는 스윙투앱 고객센터로 따로 문의주시기 바랍니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-4\)'업로드 키 재설정 요청' 선택
 
-​
+4\)업로드 키 재설정 요청- 신청서 화면
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 5\)재설정 이유 선택: 아무 내용에 체크해도 무관합니다.
 
-6\)4번 업로드 키 인증서에 생성된.PEM파일을 업로드하세요 \*.PEM파일을 올려주세요.
+6\)"업로드 키 인증서에 생성된.PEM파일을 업로드하세요" \*.PEM파일을 올려주세요.
 
-| <p><strong>스윙투앱 이용 사용자분들은 PEM파일을 만들어서 제공해드립니다.</strong></p><p><strong>따라서 스윙투앱 앱 이용할 예정 or 이용 중에 업로드 키 재설정이 필요하다면 스윙투앱 고객센터를 통해 문의주세요.</strong></p> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+{% hint style="success" %}
+**스윙투앱 이용 사용자분들은 PEM파일을 만들어서 제공해드립니다.**
 
-7\)요청 버튼만 누르면 완료됩니다.
+**따라서 스윙투앱 앱 이용할 예정 or 이용 중에 업로드 키 재설정이 필요하다면 스윙투앱 고객센터를 통해 문의주세요.**
+{% endhint %}
+
+7\)요청 버튼 누르면 완료됩니다.
 
 ​
 
@@ -136,6 +141,4 @@ Google Play 앱 서명에 등록되어 있지 않다면 안드로이드 키스�
 요청이 접수되었다는 메일이 들어오며, 메일에 언제부터 유효하다는 내용이 같이 기재되어 있습니다.
 
 해당 날짜 이후 접속한 뒤, 새 버전의 앱을 업데이트 해주시면 되겠습니다.
-
-
 
