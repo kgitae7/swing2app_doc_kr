@@ -8,43 +8,43 @@ description: 플레이스토어 앱 출시 후, 해당 앱의 출시 링크를 �
 
 ### 플레이스토어 앱 출시 링크 확인 방법
 
+
+
 {% hint style="info" %}
+### **플레이스토어 앱 출시 링크 확인 방법**
+
 1\)구글 플레이 콘솔 사이트 접속 및 로그인
 
 [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-2\)출시된 앱 선택
+2\)출시된 앱 버튼선택
 
-3\)대시보드 선택
+3\)Google Play에서 보기 선택
 
-4\)Google Play에서 보기 선택
-
-5\)출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
-
-플레이스토어 앱 출시 링크 확인 방법
+4\)출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
 {% endhint %}
 
+***
 
 
-<figure><img src="../../../.gitbook/assets/플레이출시1.png" alt=""><figcaption></figcaption></figure>
 
-1\)구글 플레이 콘솔 사이트 접속 및 로그인 [https://play.google.com/console/developers](https://play.google.com/console/developers)
+1.구글 플레이 콘솔 사이트 접속 및 로그인 [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-2\)출시된 앱 선택
+2\)메인홈에서 출시된 앱 → 버튼선택 &#x20;
 
-​
+<figure><img src="../../../.gitbook/assets/앱7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/플레이출시2.png" alt=""><figcaption></figcaption></figure>
 
-3\)대시보드 선택
 
-4\)Google Play에서 보기 선택
+3.게시개요 화면 상단의 \[Google Play에서 보기] 선택
 
-​
+<div align="left"><figure><img src="../../../.gitbook/assets/앱67.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+4.출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
 
 <figure><img src="../../../.gitbook/assets/플레이출시링크5.png" alt=""><figcaption></figcaption></figure>
-
-5\)출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
 
 ***
 
