@@ -40,7 +40,7 @@ description: 구글 개인 개발자 계정에서 조직 개발자 계정으로 
 
 ## **1.웹사이트 인증**
 
-[**구글 플레이 콘솔 >  개발자 계정 > 계정 세부정보 > 내 정보**](https://play.google.com/console/u/0/developers/6382805442692555802/account/developer-details?tab=aboutYou)로 이동합니다.&#x20;
+[**플레이콘솔> 계정관리 선택 > 계정 세부정보 선택 > 내 정보 선택**](https://play.google.com/console/u/0/developers/4748004070986953984/account/developer-details?tab=aboutYou)로 이동합니다.&#x20;
 
 계정 유형을 변경하기 전에 공식 조직 웹사이트를 제공하고 인증해야 합니다.&#x20;
 
@@ -64,15 +64,25 @@ description: 구글 개인 개발자 계정에서 조직 개발자 계정으로 
 
 ## **2.계정 유형 변경 시작**
 
-<figure><img src="../../../.gitbook/assets/조직변경01.png" alt=""><figcaption></figcaption></figure>
+&#x20;[**계정관리 선택 > 계정 세부정보 선택 > 내 정보 선택**](https://play.google.com/console/u/0/developers/4748004070986953984/account/developer-details?tab=aboutYou)
+
+<figure><img src="../../../.gitbook/assets/계정관리1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/계정유형변경1.PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/계정유형변경2.PNG" alt=""><figcaption></figcaption></figure>
+
+
 
 1.**계정 유형 변경** 을 클립합니다.
 
+<figure><img src="../../../.gitbook/assets/계정유형변겨ㅕㅇ.PNG" alt=""><figcaption></figcaption></figure>
 
+
+
+**2.다음** 버튼 선택
 
 <figure><img src="../../../.gitbook/assets/조직변경02.png" alt=""><figcaption></figcaption></figure>
-
-2.다음 버튼 선택
 
 \*계정 유형을 변경하는 데 필요한 사항: 조직의 DUNS번호, 개발자 프로필 전화번호, 이메일주소, 구글에 기재될 연락처 전화번호, 이메일주소를 등록하게 됩니다.&#x20;
 

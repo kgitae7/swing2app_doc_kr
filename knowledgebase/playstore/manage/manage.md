@@ -14,17 +14,19 @@ description: 플레이스토어 앱 출시 후 관리 페이지 - 앱 설치 수
 
 ## 1.플레이스토어 출시 링크 확인하기
 
-<figure><img src="../../../.gitbook/assets/플레이 출시 링크.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱7.png" alt=""><figcaption></figcaption></figure>
+
+<div align="left"><figure><img src="../../../.gitbook/assets/앱67.png" alt=""><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../../.gitbook/assets/캡처 (7).PNG" alt=""><figcaption></figcaption></figure></div>
 
 1\)[구글 플레이 콘솔](https://play.google.com/console/u/0/developers) 사이트 접속 및 로그인
 
 2\)출시된 앱 선택
 
-3\)대시보드 선택
+3\)Google Play에서 보기 선택
 
-4\)Google Play에서 보기 선택
-
-5\)출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
+4\)출시 화면으로 이동하며, 상단 사이트 주소란에 보여지는 주소가 해당 앱의 출시 링크입니다.
 
 ***
 
@@ -32,13 +34,15 @@ description: 플레이스토어 앱 출시 후 관리 페이지 - 앱 설치 수
 
 ## 2.플레이스토어 앱 설치 수 확인 페이지
 
-<figure><img src="../../../.gitbook/assets/spaces_msJj00k8mj8AcVpnn9Xs_uploads_g4nXi9Xeht2HOU6KWNp3_통계0.webp" alt=""><figcaption></figcaption></figure>
 
-[구글 플레이 콘솔 ](https://play.google.com/console/u/0/developers)사이트 접속 후 대시보드에 보시면 앱 목록을 확인할 수 있구요.
 
-앱이름 옆에 ‘설치된 사용자 수'로 30일 내 설치한 사용자 수를 간단하게 확인할 수 있어요.
+[구글 플레이 콘솔 ](https://play.google.com/console/u/0/developers)사이트 접속 후 - 메인홈화면에 보시면 앱 목록을 확인할 수 있구요.
 
-실제 사용중인 기기를 집계한 수에요. (30일 동안 한번이라도 앱을 사용한 이력으로 집계)
+<figure><img src="../../../.gitbook/assets/이미지 15 (1).png" alt=""><figcaption></figcaption></figure>
+
+**‘월간 활성 기기'에 기재된 값이 30일 내 설치한 사용자 수 입니다.**&#x20;
+
+실제 사용중인 기기를 집계한 수에요. (지난 28일 동안 한 번 이상 앱을 실행한 기기의 수)
 
 따라서 앱 다운로드수와는 차이가 있어요!!
 
@@ -48,15 +52,13 @@ description: 플레이스토어 앱 출시 후 관리 페이지 - 앱 설치 수
 
 ### 1) 통계 페이지
 
-<figure><img src="../../../.gitbook/assets/spaces_msJj00k8mj8AcVpnn9Xs_uploads_D4JBUxArxcNC11wgDqZi_통계00.webp" alt=""><figcaption></figcaption></figure>
+앱을 선택한 뒤, 왼쪽 메뉴바에서 '통계'를 선택해주세요.
 
-앱을 선택한 뒤, 왼쪽 메뉴에서 '통계'를 선택해주세요.
+<figure><img src="../../../.gitbook/assets/이미지 17 (1).png" alt=""><figcaption></figcaption></figure>
 
 해당 화면에서 앱 통계 상세한 보고서를 제공합니다.
 
 날짜는 상단의 기간 버튼을 선택해서 조회를 원하는 기간을 선택할 수 있습니다.
-
-​
 
 앱 설치 수(통계)확인 상세 방법은 아래 매뉴얼로 확인 부탁드립니다.
 
@@ -70,9 +72,9 @@ description: 플레이스토어 앱 출시 후 관리 페이지 - 앱 설치 수
 
 ### <mark style="color:blue;">1)평점</mark>
 
-<figure><img src="../../../.gitbook/assets/플레이스토어리뷰5_new.png" alt=""><figcaption></figcaption></figure>
+**왼쪽 메뉴바  \[평점 및 리뷰] 메뉴> 평점, 리뷰, 테스트 의견메뉴들을 확인할 수 있어요.**
 
-왼쪽 카테고리에 \[평점 및 리뷰] 메뉴를 선택하면 – 평점, 리뷰, 테스트 메뉴들을 확인할 수 있어요.
+<figure><img src="../../../.gitbook/assets/이미지 18.png" alt=""><figcaption></figcaption></figure>
 
 평점은, 앱에 메겨진 별점 평가를 확인할 수 있습니다.
 
@@ -84,9 +86,9 @@ description: 플레이스토어 앱 출시 후 관리 페이지 - 앱 설치 수
 
 ### <mark style="color:blue;">2)리뷰</mark>
 
-<figure><img src="../../../.gitbook/assets/플레이스토어리뷰2_new.png" alt=""><figcaption></figcaption></figure>
-
 리뷰 페이지에서는 앱에 달린 사용자들의 댓글 목록을 모두 확인할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/이미지 25.png" alt=""><figcaption></figcaption></figure>
 
 리뷰는 사용자들이 앱에 대해 글을 작성하는 항목입니다.
 
@@ -100,9 +102,11 @@ description: 플레이스토어 앱 출시 후 관리 페이지 - 앱 설치 수
 
 <figure><img src="../../../.gitbook/assets/플레이스토어리뷰6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/플레이스토어리뷰3_new.png" alt=""><figcaption></figcaption></figure>
-
 리뷰 밑에 있는 답장 입력란에 내용을 입력 한뒤 \[답글 게시]버튼을 선택하면 답글이 달리게 됩니다.
+
+
+
+<figure><img src="../../../.gitbook/assets/이미지 26.png" alt=""><figcaption></figcaption></figure>
 
 이렇게 답글을 작성하면 플레이스토어 앱에서도 답글이 달리게 됩니다 \~!
 

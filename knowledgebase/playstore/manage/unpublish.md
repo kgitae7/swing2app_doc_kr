@@ -26,21 +26,19 @@
 
 \*구글 플레이 콘솔 접속  [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C1new.png)
+<figure><img src="../../../.gitbook/assets/앱7.png" alt=""><figcaption></figcaption></figure>
 
 [**Play Console**](https://play.google.com/console)을 엽니다.
 
-플레이스토어에 게시취소할 앱을 선택합니다.
+플레이스토어에 게시취소할 앱을 선택합니다. →버튼 선택
 
+<figure><img src="../../../.gitbook/assets/앱8.png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../.gitbook/assets/게시취소.png" alt=""><figcaption></figcaption></figure>
-
-왼쪽 메뉴에서&#x20;
+왼쪽 메뉴바에서&#x20;
 
 <mark style="color:blue;">**1)테스트 및 출시 선택**</mark>
 
-<mark style="color:blue;">**2)설정:고급 설정**</mark>을 선택합니다.
+<mark style="color:blue;">**2)고급 설정**</mark>을 선택합니다.
 
 <mark style="color:blue;">**3)앱 이용 가능 여부**</mark> 탭에서 <mark style="color:blue;">**"출시안됨"**</mark>에 체크해주세요.
 
@@ -62,11 +60,11 @@
 
 **플레이스토어에 출시된 상태가 아닌, 임시 보관중인 앱이라면 콘솔에서 바로 삭제를 할 수 있어요.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%95%B1%EA%B2%8C%EC%8B%9C%EC%B7%A8%EC%86%8C3_new.png)
-
 앱 목록 페이지에 바로 **‘휴지통’** 모양의 아이콘을 확인할 수 있는데요.
 
 출시가 되기 전 **‘임시보관’ 중인 앱은 ‘휴지통’ 모양의 아이콘을 선택해서 앱을 바로 삭제할 수 있습니다.**&#x20;
+
+<figure><img src="../../../.gitbook/assets/앱9.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">\* 출시된 앱이 아니기 때문에 삭제 즉시 영구적으로 앱이 제거됩니다.</mark>
 
@@ -76,9 +74,9 @@
 
 <mark style="color:red;">**\[안내사항]**</mark>
 
-1\. 플레이스토어 앱 게시취소는 출시된 앱을 플레이스토어에서 안보이게 내리는 것일 뿐, 스윙투앱에서 제작한 앱 자체가 삭제되는 것이 아니에요.
-
 따라서 나중에 다시 게시상태를 ‘출시’로 변경할수도 있습니다.&#x20;
+
+1\. 플레이스토어 앱 게시취소는 출시된 앱을 플레이스토어에서 안보이게 내리는 것일 뿐, 스윙투앱에서 제작한 앱 자체가 삭제되는 것이 아니에요.
 
 2\. 플레이스토어에 앱 게시 중지를 하면 바로 반영되는 것이 아니라 2\~3시간 후 반영됩니다.
 

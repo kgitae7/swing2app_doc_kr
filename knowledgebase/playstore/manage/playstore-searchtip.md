@@ -120,7 +120,7 @@ Tip) **고 퀄리티의 스크린샷을 최대한 많이 배치하게 되면, �
 
 <mark style="color:blue;">**1. 앱 설명 작성 시에 주의해야 하는 사항**</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4d39b1e27df8bdeeb82c5ee9f253f810.jpg)
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/4d39b1e27df8bdeeb82c5ee9f253f810.jpg" alt=""></div>
 
 **① 사용 후기**
 
@@ -135,7 +135,7 @@ Tip) **고 퀄리티의 스크린샷을 최대한 많이 배치하게 되면, �
 
 사용자에게 앱을 평가하도록 요청하면서 인센티브를 제공하는 행위는 허용되지 않습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/813e4878cbbf55842fa596261d2581ed.jpg)
+<div align="left"><img src="https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/813e4878cbbf55842fa596261d2581ed.jpg" alt=""></div>
 
 ① 이 알림은 높은 평점에 대한 대가로 사용자에게 할인을 제공합니다.
 
@@ -145,7 +145,7 @@ Tip) **고 퀄리티의 스크린샷을 최대한 많이 배치하게 되면, �
 
 &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/9.13_3-576x1024.png)
+<div align="left"><img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/9.13_3-576x1024.png" alt="" width="375"></div>
 
 ② 이 리뷰는 쿠폰을 이용하여 사용자에게 RescueRover 앱을 홍보하도록 조장합니다.
 

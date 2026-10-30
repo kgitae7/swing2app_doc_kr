@@ -58,9 +58,9 @@ Google Play에서 앱을 삭제하기 위해서는 다음 요건을 충족해야
 
 아래 단계에 따라 이동하면 삭제 메뉴를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/삭제2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/앱7 (1).png" alt=""><figcaption></figcaption></figure>
 
-1\)Google Play Console 접속, 삭제하고자 하는 앱 선택
+1\)Google Play Console 접속, 삭제하고자 하는 앱 선택 → 버튼 선택
 
 
 

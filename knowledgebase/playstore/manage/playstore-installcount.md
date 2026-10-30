@@ -18,13 +18,15 @@
 
 {% embed url="https://play.google.com/console/developers" %}
 
-<figure><img src="../../../.gitbook/assets/구글통계.png" alt=""><figcaption></figcaption></figure>
-
 [구글 플레이 콘솔](https://play.google.com/console/u/0/developers/) 사이트 접속 후 대시보드에 보시면 앱 목록을 확인할 수 있구요.
 
 앱이름 옆에 ‘설치된 사용자 수'로 30일 내 설치한 사용자 수를 간단하게 확인할 수 있어요.
 
-실제 사용중인 기기를 집계한 수에요. (30일 동안 한번이라도 앱을 사용한 이력으로 집계)&#x20;
+<figure><img src="../../../.gitbook/assets/이미지 15 (1).png" alt=""><figcaption></figcaption></figure>
+
+**‘월간 활성 기기'에 기재된 값이 30일 내 설치한 사용자 수 입니다.**&#x20;
+
+실제 사용중인 기기를 집계한 수에요. (지난 28일 동안 한 번 이상 앱을 실행한 기기의 수)
 
 따라서 앱 다운로드수와는 차이가 있어요!!
 
@@ -32,23 +34,17 @@
 
 좀 더 자세한 통계는 아래에서 확인해주세요.
 
-
-
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
-
-
 
 ## **2.통계 대시보드 확인**
 
-<figure><img src="../../../.gitbook/assets/구글통계2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/이미지 17 (1).png" alt=""><figcaption></figcaption></figure>
 
 앱을 선택한 뒤 -  왼쪽 메뉴에서 '통계'를 선택해주세요.
 
 해당 화면에서 앱 통계 상세한 보고서를 제공합니다.&#x20;
 
 날짜는 상단의 기간 버튼을 선택해서 조회를 원하는 기간을 선택할 수 있습니다.
-
-
 
 <figure><img src="../../../.gitbook/assets/구분선 (5).PNG" alt=""><figcaption></figcaption></figure>
 

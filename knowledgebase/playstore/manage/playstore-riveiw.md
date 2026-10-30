@@ -24,7 +24,9 @@
 
 구글 개발자 콘솔사이트로 이동하여 구글개발자 계정으로 로그인 한 뒤, 리뷰 및 평점 확인이 필요한 앱을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/리뷰0.png" alt=""><figcaption></figcaption></figure>
+앱 이름 옆 → 버튼 선택
+
+<figure><img src="../../../.gitbook/assets/앱7 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,9 +34,9 @@
 
 왼쪽 카테고리에 \[평점 및 리뷰] 탭에서 **평점, 리뷰, 리뷰 분석, 테스트 의견 메뉴 확인할 수 있어요.**
 
-"평점" 메뉴 선택
+**📌모니터링 및 개선 > 평점 및 리뷰> 평점** 메뉴 선택
 
-<figure><img src="../../../.gitbook/assets/리뷰3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/이미지 18.png" alt=""><figcaption></figcaption></figure>
 
 앱에 매겨진 별점을 종합적으로 확인할 수 있습니다.&#x20;
 
@@ -44,9 +46,9 @@
 
 ### <mark style="color:blue;">**2)리뷰 선택**</mark>
 
-<figure><img src="../../../.gitbook/assets/리뷰.png" alt=""><figcaption></figcaption></figure>
+**📌모니터링 및 개선 > 평점 및 리뷰> 리뷰** 메뉴 선택
 
-아래 \[리뷰] 메뉴를 선택하면 리뷰 페이지로 이동합니다.
+<figure><img src="../../../.gitbook/assets/이미지 25.png" alt=""><figcaption></figcaption></figure>
 
 **\[리뷰] 메뉴를 선택해주세요.**&#x20;
 
