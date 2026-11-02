@@ -468,6 +468,7 @@
   * [앱스토어 출시 후 관리 페이지](knowledgebase/appstore/manage.md)
   * [앱스토어 '디지털 서비스법 규정' 조치방법 안내](knowledgebase/appstore/business.md)
   * [애플 개발자 프로그램 업데이트](knowledgebase/appstore/applelicenseupdate.md)
+  * [앱스토어 빌드 등록](knowledgebase/appstore/undefined-1.md)
 * [원스토어](knowledgebase/onestore/README.md)
   * [원스토어 앱 등록 방법](knowledgebase/onestore/onestore.md)
   * [원스토어 앱 업데이트하기](knowledgebase/onestore/onestore-update.md)
