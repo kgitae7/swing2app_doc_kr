@@ -76,7 +76,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 ### <mark style="color:blue;">**4.프로덕션 → 새 버전 만들기**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/이미지 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/14.PNG" alt=""><figcaption></figcaption></figure>
 
 **2)왼쪽 메뉴 바 - 테스트 및 출시 - 프로덕션 선택 - \[새 버전 만들기] 선택**
 
