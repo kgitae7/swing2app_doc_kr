@@ -28,10 +28,6 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 새로 제작된 AAB파일을 다운받아서 플레이스토어- 프로덕션에 올려주시면 됩니다.
 
-**AAB파일만 새로 올려주시면 되기 때문에 간단하구요.**
-
-플레이콘솔에서새 버전의 앱으로 업데이트 하는 방법을 알려드릴게요.
-
 {% hint style="danger" %}
 <mark style="color:red;">**안내사항**</mark>
 
@@ -64,21 +60,15 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 <mark style="color:blue;">\*3단계 페이지 메뉴는 내용 입력 후 저장만 하면 앱 자동 반영되오니 제작 다시 할 필요 없고 업데이트 하실 필요 없습니다.</mark>
 {% endhint %}
 
-#### **✅앱을 새 버전으로 업데이트 하는 방법은 아래 가이드로 확인해주세요.**&#x20;
-
-&#x20;스윙투앱 앱제작 화면 이동하시면 - 앱 업데이트 버튼 선택 가능합니다.&#x20;
-
-{% embed url="https://documentation.swing2app.co.kr/manual/v3/update" %}
-
 
 
 ### <mark style="color:blue;">**3.구글 플레이 콘솔 접속 – 업데이트 할 앱 선택하기**</mark>
 
-<figure><img src="../../.gitbook/assets/스토어업데이트5.png" alt=""><figcaption></figcaption></figure>
-
 구글 플레이 콘솔사이트 접속 [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
-**1) 메인대시보드에서업데이트 할 어플을 선택해주세요.**
+<figure><img src="../../.gitbook/assets/앱업데이트1.png" alt=""><figcaption></figcaption></figure>
+
+**1) 메인대시보드에서업데이트 할 어플을 선택해주세요.&#x20;**<mark style="color:$primary;">**→**</mark> 버튼 선택
 
 &#x20;<mark style="color:red;">\*구글 플레이 콘솔은 인터넷 브라우저 Chrome 으로 이용해주세요.</mark>&#x20;
 
@@ -88,7 +78,7 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 <figure><img src="../../.gitbook/assets/이미지 3 (1).png" alt=""><figcaption></figcaption></figure>
 
-**2)왼쪽 메뉴  - 테스트 및 출시 - 프로덕션 선택 - \[새 버전 만들기] 선택**&#x20;
+**2)왼쪽 메뉴 바 - 테스트 및 출시 - 프로덕션 선택 - \[새 버전 만들기] 선택**
 
 
 
@@ -109,8 +99,6 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 여기서 \[AAB파일 받기] 버튼을 선택하면 사용자의 PC로 파일이 다운되요.
 
 다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bundle 파일로 업로드 해주시면 됩니다.
-
-<mark style="color:red;">\*인터넷 브라우저 Chrome으로 이용해주세요.</mark>&#x20;
 
 {% hint style="info" %}
 <mark style="color:blue;">**\*중요안내**</mark>
@@ -138,11 +126,15 @@ description: 앱 버전 새로 올리기, 스토어 등록정보, 앱 컨텐츠�
 
 ### &#x20;<mark style="color:$primary;">6</mark><mark style="color:blue;">.AAB파일 업로드 완료</mark>
 
-<figure><img src="../../.gitbook/assets/ㅎ1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/캡l;처.PNG" alt=""><figcaption></figcaption></figure>
 
-AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
+﻿4)AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.
 
-**1)임시보관함에 저장 → 2)\[다음] 선택**&#x20;
+5\)\[다음] 선택
+
+
+
+**✅새로운 기능 작성(출시노트)**
 
 <figure><img src="../../.gitbook/assets/이미지 &#x27;4.png" alt=""><figcaption></figcaption></figure>
 
@@ -154,11 +146,21 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 이전에 작성한 글이 그대로 등록됩니다.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+﻿6)다음 화면에서 '저장' 선택
 
-<figure><img src="../../.gitbook/assets/g2 (1).png" alt=""><figcaption></figcaption></figure>
+7\)'개요로 이동' 선택
 
-**3)\[저장]버튼** 선택해주세요.&#x20;
+﻿
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+﻿8)\[검토를 위해 변경사항 00개 전송] 선택
+
+\*변경사항 갯수는 앱에 따라 다릅니다. 앱 마다 변경되는 사항이 다 다를 수 있어서 숫자는 다르게 나타납니다
+
+9\)\[검토를 위해 변경사항 전송] 선택
 
 
 
@@ -172,49 +174,19 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/g3 (1).png" alt=""><figcaption></figcaption></figure>
-
-4\)변경사항 저장이 완료되면, 개시개요 페이지로 이동하라는 메시지 창이 뜹니다.&#x20;
-
-**\[개요로 이동]** 버튼 선택
-
-
-
-<figure><img src="../../.gitbook/assets/g4 (2).png" alt=""><figcaption></figcaption></figure>
-
-5\)게시개요 화면에서 **\[검토를 위해 변경사항 전송]** 버튼 선택
-
-변경사항은 어떤 항목들을 추가 및 수정했는지에 따라 숫자가 다르게 나타납니다.&#x20;
-
-6\)**\[검토를 위해 변경사항 전송]** 버튼 선택
-
-
-
-<figure><img src="../../.gitbook/assets/g5 (1).png" alt=""><figcaption></figcaption></figure>
-
-개시 개요에서 파일이 잘 등록되었다면, 완료된 것입니다.
-
-
-
-<mark style="color:red;">**\*중요\***</mark>**&#x20;등록 후 반드시 홈화면으로 이동하여 앱 검토중으로 잘 넘어갔는지 체크해주세요.**
-
-<figure><img src="../../.gitbook/assets/aab업데이트6 (1).png" alt=""><figcaption></figcaption></figure>
-
-"검토중"이면 정상적으로 앱 심사가 제출된 상태입니다.
-
-간혹 제출 준비중으로 뜨는 경우가 있습니다.&#x20;
-
-제출 준비중은 심사가 들어가지 않은 상태이므로 반드시 검토중 상태인지 마지막으로 확인해주셔야 합니다.
-
-
-
 ### <mark style="color:blue;">**7.업데이트 검토 중**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/스토어업데이트4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/앱업데이트2.png" alt=""><figcaption></figcaption></figure>
+
+﻿홈화면으로 돌아와서 업데이트 상태가 <mark style="color:$primary;">**"검토 중인 변경사항"**</mark>으로 변경되었는지 확인해주세요.
+
+검토중이면 정상적으로 앱 심사가 제출된 상태입니다.
+
+\*제출 준비중은 심사가 들어가지 않은 상태이므로 반드시 검토중 상태인지 마지막으로 확인해주셔야 합니다.
 
 대시보드에서 업데이트 검토 중 단계를 확인할 수 있습니다.
 
-이렇게 하면, 앱 파일 업데이트 과정은 모두 완료되구요. 심사를 기다려 주세요.&#x20;
+이렇게 하면, 앱 파일 업데이트 과정은 모두 완료되구요. 심사를 기다려 주세요.
 
 {% hint style="warning" %}
 <mark style="color:red;">\*업데이트도, 앱 출시와 동일하게 심사 시간이 있어요.</mark>&#x20;
@@ -225,6 +197,8 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 -업데이트 심사에서 심사가 거절될 수도 있기 때문에 거절 될 경우 내용을 확인하여 다시 재심사 진행해야 합니다.
 {% endhint %}
+
+
 
 ### <mark style="color:blue;">**8.업데이트 완료**</mark>
 
@@ -241,40 +215,36 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 이어서 스토어 등록정보를 수정하여 업데이트 하는 방법을 알려드릴거에요!!
 
 {% hint style="success" %}
-**스토어 등록정보는,**&#x20;
+**스토어 등록정보는**
 
-앱 이름, 아이콘 이미지, 그래픽 이미지, 간단한설명, 자세한설명, 스크린샷 이미지를 변경할 수 있습니다.
+<mark style="color:red;">**앱 이름, 아이콘 이미지, 그래픽 이미지, 간단한설명, 자세한설명, 스크린샷 이미지**</mark>를 변경할 수 있습니다.
 {% endhint %}
 
-플레이스토어에서 보여지는 &#x20;
+**\*구글 플레이콘솔 – 스토어등록정보 페이지에서 내용을 수정하고 업데이트하면 스토어에 반영이 됩니다.**
 
-동일하게 **\*구글 콘솔–스토어등록정보 페이지에서 내용을 수정하고 업데이트하면 스토어에 반영이 됩니다.**
+[구글 플레이 콘솔사이트](https://play.google.com/console/developers)에 접속,  업데이트 할 어플을 선택해주세&#xC694;**. &#x20;**<mark style="color:$primary;">**→  버튼**</mark> 선택
 
-
-
-<figure><img src="../../.gitbook/assets/스토어업데이트5.png" alt=""><figcaption></figcaption></figure>
-
-[구글 플레이 콘솔사이트](https://play.google.com/console/developers)에 접속  → 업데이트 할 어플을 선택해주세&#xC694;**.**
+<figure><img src="../../.gitbook/assets/앱업데이트1.png" alt=""><figcaption></figcaption></figure>
 
 
 
-### <mark style="color:blue;">**1.사용자 늘리기 - 앱 정보:스토어 등록정보**</mark>
+### <mark style="color:blue;">**1.앱 정보:스토어 등록정보**</mark>
 
-<figure><img src="../../.gitbook/assets/이미지 4.png" alt=""><figcaption></figcaption></figure>
+앱 선택한 상태에서 **왼쪽 메뉴바:  사용자 늘리기 - 앱 정보- 스토어 등록정보 -&#x20;**<mark style="color:$primary;">**\[기본 등록정보 수정]**</mark>**버튼 선택**
 
-앱 선택한 상태에서 **왼쪽 카테고리:  사용자 늘리기 - 앱 정보- 스토어 등록정보 - 수정 버튼 선택**
+<figure><img src="../../.gitbook/assets/업데이트22.png" alt=""><figcaption></figcaption></figure>
 
 스토어에서 내용을 수정하고 업데이트 하는 방법은 더 간단해요!
 
 스토어 등록정보에서 처음 앱 출시를 할때 등록했던 내용을 직접 수정해주시면 됩니다.
 
-
-
-<figure><img src="../../.gitbook/assets/스토어수정2.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/스토어수정3.png" alt=""><figcaption></figcaption></figure>
-
 스토어 등록정보는 <mark style="color:green;">출시 앱이름, 간단한/자세한 설명, 스크린샷 이미지, 아이콘 이미지, 그래픽 이미지</mark> 등을 수정할 수 있습니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/스토어업데이트.PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스토어업데이트2.PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스토어업데이트3.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -285,6 +255,8 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 수정을 하면 화면 하단에 안보였던 <mark style="color:blue;">**\[저장]**</mark>**&#x20;버튼**이 파란색으로 바뀌면서 활성화됩니다.
 
 **저장 선택 - 게시개요 이동 버튼 선택**
+
+
 
 <figure><img src="../../.gitbook/assets/스토어업데이트2.png" alt=""><figcaption></figcaption></figure>
 
@@ -306,11 +278,13 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 **앱 카테고리, 연락처 수정은** 스토어 설정에서 수정 가능합니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/이미지 5.png" alt=""><figcaption></figcaption></figure>
+[구글 플레이 콘솔](https://play.google.com/console/developers) 접속 - 앱 선택&#x20;
 
-왼쪽 카테고리: 사용자 늘리기 - 앱 정보 - 스토어 설정으로 이동한 뒤, 수정해주세요.&#x20;
+**왼쪽 메뉴바: 사용자 늘리기 - 앱 정보 - 스토어 설정으로 이동한 뒤, 수정해주세요**
 
-&#x20;**내용 수정 후 \[저장]버튼을 눌러주세요.**
+<figure><img src="../../.gitbook/assets/스토어업데이트4.PNG" alt=""><figcaption></figcaption></figure>
+
+내용 수정 후 \[저장]버튼을 눌러주세요.
 
 <mark style="color:red;">\*스토어 설정 수정도 업데이트 심사 후 반영이 됩니다.</mark>&#x20;
 
@@ -322,15 +296,13 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 개인정보 처리방침 링크 수정, 광고 여부 수정, 콘텐츠(카테고리 수정), 타겟층 수정은 \[앱 콘텐츠]페이지에서 수정가능합니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/이미지 6.png" alt=""><figcaption></figcaption></figure>
-
 [구글 플레이 콘솔](https://play.google.com/console/developers) 접속 - 앱 선택&#x20;
 
-**왼쪽 카테고리: 모니터링 및 개선 - 정책 및 프로그램 - 앱 콘텐츠 선택합니다.**&#x20;
+**왼쪽 메뉴바: 모니터링 및 개선 - 정책 및 프로그램 - 앱 콘텐츠 선택합니다.**&#x20;
+
+<figure><img src="../../.gitbook/assets/스토어업데이트5.PNG" alt=""><figcaption></figcaption></figure>
 
 각 섹션별 내용 수정이 가능합니다.&#x20;
-
-
 
 예를들어)
 
@@ -414,5 +386,4 @@ AAB파일을 다 올리면, 하단에 버튼이 생성됩니다.&#x20;
 
 처음에 정상적으로 출시가 되었던 앱이, 업데이트 후에 갑자기 정책위반을 이유로 앱이 삭제되는 경우가 종종 있습니다.
 
-따라서 앱 업데이트를 하실 때에도 구글 정책에 위반되는 내용이 없는지 꼭 확인해주시기 바랍니다.!!
-
+따라서 앱 업데이트를 하실 때에도 구글 정책에 위반되는 내용이 없는지 꼭 확인해주시기 바랍니다.

@@ -100,7 +100,7 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱이름 (플레이스토어 출시되는 이름) \*나중에 수정 가능하오니 임시로 입력하셔도 됩니다.
 
@@ -124,7 +124,7 @@ description: 플레이스토어 내부테스트 등록방법 완벽 가이드
 
 ## STEP3.내부 테스트 등록 시작
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 왼쪽 카테고리에서 테스트 및 출시 선택
 

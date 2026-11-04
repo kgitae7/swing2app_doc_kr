@@ -84,7 +84,7 @@ DUNS 번호 생성이 안되었다면 가이드를 보시고 만들어주세요
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 입력된 정보 확인 후 \[다음]버튼 선택합니다
 
