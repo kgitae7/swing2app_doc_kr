@@ -345,6 +345,7 @@
   * [앱 관리자메뉴:스탬프 등록](appguide/appoperation/appmanager-stamp.md)
   * [앱 관리자메뉴:쿠폰사용](appguide/appoperation/appmanager-couponuse.md)
 * [앱 미리보기 이용방법](appguide/swingpreview.md)
+* [스윙투앱 앱 업데이트 방법](appguide/update.md)
 
 ## 프로그램 및 컨설팅 <a href="#program" id="program"></a>
 
