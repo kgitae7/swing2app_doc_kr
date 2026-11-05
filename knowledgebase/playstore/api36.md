@@ -111,17 +111,15 @@ AAB파일 받아주신 뒤, 플레이 콘솔로 이동합니다. &#x20;
 
 [**구글 플레이 콘솔**](https://play.google.com/console/u/0/developers) 접속&#x20;
 
-<figure><img src="../../.gitbook/assets/aab업데이트0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/앱업데이트1.png" alt=""><figcaption></figcaption></figure>
 
-1\)업데이트 하고자 하는 앱 선택
+1\)업데이트 하고자 하는 앱 선택 **→ 버튼 선택**
 
+<figure><img src="../../.gitbook/assets/14.PNG" alt=""><figcaption></figcaption></figure>
 
+2\)테스트 및 출시 > 프로덕션 선택
 
-<figure><img src="../../.gitbook/assets/aab업데이트1.png" alt=""><figcaption></figcaption></figure>
-
-2\)테스트 및 출시 - 프로덕션 선택
-
-3\)새 버전 만들기 선택
+3\)\[새 버전 만들기] 선택
 
 
 
@@ -189,9 +187,9 @@ PC로 다운된 AAB파일을 위의 구글 플레이 – 프로덕션 – App Bu
 
 
 
-<figure><img src="../../.gitbook/assets/aab업데이트6.png" alt=""><figcaption></figcaption></figure>
+홈화면으로 돌아와서 업데이트 상태가 <mark style="color:$primary;">**"검토 중인 변경사항"**</mark>으로 변경되었는지 확인해주세요.
 
-홈화면으로 돌아와서 업데이트 상태가 "검토중"으로 변경되었는지 확인해주세요.
+<figure><img src="../../.gitbook/assets/앱업데이트2.png" alt=""><figcaption></figcaption></figure>
 
 검토중이면 정상적으로 앱 심사가 제출된 상태입니다.
 
