@@ -6,7 +6,7 @@ description: 구글 플레이스토어 개발자 이름 변경 방법
 
 <figure><img src="../../.gitbook/assets/구분선 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-**개발자 이름이란?**
+**📌개발자 이름이란?**
 
 개발자 이름은 스토어에 앱을 출시하고 해당 앱을 운영하는 사용자의 이름을 말합니다.
 
@@ -26,32 +26,48 @@ description: 구글 플레이스토어 개발자 이름 변경 방법
 
 **※구글 플레이 콘솔사이트 접속:**  [**https://play.google.com/console/developers**](https://play.google.com/console/developers)
 
-구글 개발자 콘솔 사이트 접속 후 개발자 계정으로 로그인해주세요.
-
-<figure><img src="../../.gitbook/assets/이미지 3 (4).png" alt=""><figcaption></figcaption></figure>
-
-**대시보드의 화면 왼쪽의 &#x20;**<mark style="color:blue;">**\[개발자계정] → \[내 정보] 선택**</mark>
+구글 개발자 콘솔 사이트 접속 후 개발자 계정으로 로그인해주세요
 
 
 
-<figure><img src="../../.gitbook/assets/이미지 4 (2).png" alt=""><figcaption></figcaption></figure>
+1\)홈화면 왼쪽메뉴바의 **"계정 관리"** 혹은 오른쪽 상단 **"계정 관리"** 선택 &#x20;
 
-내 정보 페이지에서, 개발자 이름을 수정한 뒤 \[변경사항 저장] 버튼을 누르면 완료됩니다.&#x20;
+<figure><img src="../../.gitbook/assets/계정관리1.png" alt=""><figcaption></figcaption></figure>
 
 
 
-**개발자 이름은 수정 후 반영시간 1일\~2일 내에 반영됩니다.**
+2\)**계정세부정보** **→** 선택
 
-승인 완료 후, 플레이스토어에서 앱 검색하시면 개발자 이름이 변경된 것을 확인할 수 있습니다.
+<figure><img src="../../.gitbook/assets/개발자이름1.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**3)내 정보 →** 선택
+
+<figure><img src="../../.gitbook/assets/개발자이름2.png" alt=""><figcaption></figcaption></figure>
+
+
+
+4\)계정 세부정보 - **내 정보 페이지**에서, 개발자 이름을 수정한 뒤 \[변경사항 저장] 버튼을 누르면 완료됩니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/개발자이름3.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**\*개발자 이름은 수정 후 반영시간 1\~2시간 내에 반영됩니다.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/개발자이름4.png" alt=""><figcaption></figcaption></figure></div>
+
+승인 완료 후, 플레이콘솔 메인 홈화면에서 개발자 이름이 변경된 것을 확인할 수 있습니다.
 
 {% hint style="info" %}
 내 정보 페이지에는 이름 외에도 다른 정보 수정도 가능한데요.
 
 **1)조직 개발자 계정**
 
-<mark style="color:red;">조직 세부정보(DUNS에 등록된 정보입니다)는 변경 불가합니다.</mark>
+개발자이름, 판매자상태설정, 조직 규모, 조직 전화번호, 웹사이트 주소는 모두 변경 가능합니다.
 
-조직규모, 조직 전화번호, 웹사이트 주소는 모두 변경 가능합니다.
+<mark style="color:red;">\*조직 세부정보(DUNS에 등록된 정보입니다)는 변경 불가합니다.</mark>
 
 **2)개인 개발자 계정**
 
