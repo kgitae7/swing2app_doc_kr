@@ -410,6 +410,7 @@
     * [구글 플레이 개발자 고객센터 문의 방법 (Play Console 지원팀 연락)](knowledgebase/playstore/manage/ticket.md)
     * [플레이 콘솔 이메일 수신자 추가](knowledgebase/playstore/manage/email-recipients.md)
     * [구글 개인 개발자 계정 → "조직" 계정 변경](knowledgebase/playstore/manage/convert-organizationaccount.md)
+    * [구글플레이 앱 심사 지연 해결 방법](knowledgebase/playstore/manage/reviewdelay.md)
   * [플레이스토어 운영 가이드](knowledgebase/playstore/manage-1.md)
   * [Android 개발자 인증 등록 방법](knowledgebase/playstore/developer-verification.md)
   * [플레이스토어 앱 등록 매뉴얼](knowledgebase/playstore/playstore-apprelease.md)
