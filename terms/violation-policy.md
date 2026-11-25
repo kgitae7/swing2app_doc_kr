@@ -32,9 +32,7 @@
 
 
 
-이메일 : help@swing2app.co.kr
-
-채팅 : [https://direct.lc.chat/12036120/](https://direct.lc.chat/12036120/)
+<mark style="color:$primary;">이메일 : help@swing2app.co.kr</mark>
 
 
 

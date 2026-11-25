@@ -71,8 +71,7 @@ description: 플레이스토어 앱 등록을 위해 준비해야 하는 항목�
 
 관련하여 상담이 필요하시면, 계정 생성 전 스윙투앱으로 문의 주시기 바랍니다.
 
-[실시간 채팅 상담 링크](https://direct.lc.chat/12036120/) (운영시간: 평일오전10시\~오후5시, 점심12시\~1시제외)\
-Contact 이메일 help@swing2app.co.kr | [문의게시판](http://www.swing2app.co.kr/view/service_qa)&#x20;
+<mark style="color:$primary;">**Contact**</mark>**&#x20;이메일 help@swing2app.co.kr |** [**문의게시판**](http://www.swing2app.co.kr/view/service_qa)&#x20;
 {% endhint %}
 
 ***

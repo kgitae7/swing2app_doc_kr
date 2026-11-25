@@ -18,7 +18,7 @@ description: 타사에서 제작한 앱을 스윙투앱으로 이전할 때 필�
 
 2.제작이 완료된 후, 이용권을 결제해주세요.
 
-3.스윙투앱 고객센터 메일(help@swing2app.co.kr) 혹은 [문의게시판](https://www.swing2app.co.kr/view/service_qa) 혹은 [실시간 채팅](https://direct.lc.chat/12036120/)을 통해 앱 이전 문의를 남겨주세요.
+3.스윙투앱 고객센터 메일(help@swing2app.co.kr) 혹은 [문의게시판](https://www.swing2app.co.kr/view/service_qa) 혹은 고객센터 메일: help@swing2app.co.kr 통해 앱 이전 문의를 남겨주세요.
 
 4\. Android 앱 이전에 필요한 아래의 정보를 보내주세요.&#x20;
 

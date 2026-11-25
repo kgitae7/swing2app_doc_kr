@@ -21,7 +21,9 @@ DUNS번호는 사업자가 있다면 발행할 수 있구요. 개인사업자나
 
 또한 구글 및 애플 개발자 계정 대행 작업도 해드리고 있습니다.
 
-필요하실 경우 스윙투앱 [실시간 채팅](https://direct.lc.chat/12036120/) 혹은 [문의게시판](https://www.swing2app.co.kr/view/service_qa)으로 문의 남겨주세요. 안내 도와드리겠습니다.&#x20;
+필요하실 경우 스윙투앱 고객센터 메일: help@swing2app.co.kr 혹은 [문의게시판](https://www.swing2app.co.kr/view/service_qa)으로 문의 남겨주세요.&#x20;
+
+안내 도와드리겠습니다.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -298,7 +300,7 @@ DUNS 넘버를 발행하는데는 30일이 걸리 수 있다고 나와 있으나
 
 어려움이 있다면 스윙투앱으로 알려주세요. 상세하고 친절히 안내 도와드리겠습니다.
 
-**스윙투앱** [**실시간 채팅**](https://direct.lc.chat/12036120/) **혹은** [**문의게시판**](https://www.swing2app.co.kr/view/service_qa)**으로 문의 남겨주세요.**
+**스윙투앱 고객센터 메일: help@swing2app.co.kr** 혹은  [**문의게시판**](https://www.swing2app.co.kr/view/service_qa)**으로 문의 남겨주세요.**
 
 감사합니다.&#x20;
 

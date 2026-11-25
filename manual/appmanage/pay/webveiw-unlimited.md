@@ -191,7 +191,7 @@ description: 웹뷰앱에 적용 가능한 무제한 이용권 - 웹뷰 무제�
 ## ​![](<../../../.gitbook/assets/image (56).png>)**STEP5**. 환불안내
 
 * 사용하지 않은 이용권은 환불신청이 가능하며, 전액 환불 가능합니다.  [\[내 결제 현황\]](http://www.swing2app.co.kr/view/payment_list) 환불 신청 가능
-* **무제한 셋팅 작업이 완료되면 환불이 불가합니다.** 취소 및 환불은 상품 적용 전  [문의게시판](http://www.swing2app.co.kr/view/service_qa) 혹은 [채팅 상담](https://direct.lc.chat/12036120/)으로 문의주시기 바랍니다.
+* **무제한 셋팅 작업이 완료되면 환불이 불가합니다.** 취소 및 환불은 상품 적용 전  [문의게시판](http://www.swing2app.co.kr/view/service_qa) 혹은 문의메일: help@swing2app.co.kr 로 문의주시기 바랍니다.
 * 구매한 이용권은 다른 앱으로 옮길 수 없습니다.
 * 구매일 기준 30일 이후에는 어떤 경우라도 환불이 불가합니다.
 

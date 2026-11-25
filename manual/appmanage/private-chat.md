@@ -133,7 +133,7 @@ Q.현재 기본형 혹은 확장형 이용권 사용중인데 프리미엄 이�
 
 남은 기간 동안 만큼의 차액 금액을 저희가 계산하여 변경해드릴 수 있으니 필요하실 경우 스윙투앱 고객센터로 문의주세요.
 
-[실시간 채팅](https://direct.lc.chat/12036120)   |  고객센터 메일: help@swing2app.co.kr   |   [문의게시판](https://www.swing2app.co.kr/view/service_qa)
+고객센터 메일: help@swing2app.co.kr   |   [문의게시판](https://www.swing2app.co.kr/view/service_qa)
 
 
 

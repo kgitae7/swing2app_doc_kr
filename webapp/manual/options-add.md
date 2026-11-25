@@ -76,9 +76,11 @@ description: '푸시앱에서 이용 가능한 기본스타일: 추가 기능 �
 
 상세히 안내 도와드리겠습니다.
 
-**Contact** 이메일 help@swing2app.co.kr | [문의게시판](http://www.swing2app.co.kr/view/service_qa)&#x20;
+**Contact**&#x20;
 
-[실시간 채팅 상담 링크](https://direct.lc.chat/12036120/) (운영시간: 평일오전10시\~오후5시, 점심12시\~1시제외)
+이메일 help@swing2app.co.kr | [문의게시판](http://www.swing2app.co.kr/view/service_qa)&#x20;
+
+
 
 ***
 
@@ -92,9 +94,9 @@ description: '푸시앱에서 이용 가능한 기본스타일: 추가 기능 �
 
 인앱은 안드로이드&아이폰 모두 셋팅이 가능하며 플레이스토어&앱스토어에 정상 출시될 수 있도록 출시 지원도 해드립니다.&#x20;
 
-**Contact** 이메일 help@swing2app.co.kr | [문의게시판](http://www.swing2app.co.kr/view/service_qa)&#x20;
+**Contact**&#x20;
 
-[실시간 채팅 상담 링크](https://direct.lc.chat/12036120/) (운영시간: 평일오전10시\~오후5시, 점심12시\~1시제외)
+이메일 help@swing2app.co.kr | [문의게시판](http://www.swing2app.co.kr/view/service_qa)&#x20;
 
 
 
