@@ -20,6 +20,10 @@ description: 앱 업데이트 후, 앱스토어 업로드 신청하는 방법 (�
 👉[티켓 보유 현황 확인하기 ](https://www.swing2app.co.kr/view/payment_use_stat_view)
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/앱스토어 업로드신청방법.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## 1. 앱 업데이트 하기
 
 업데이트를 아직 안했다면 앱제작에서 업데이트를 먼저 해주세요.&#x20;

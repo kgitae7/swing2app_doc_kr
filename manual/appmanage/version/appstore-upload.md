@@ -18,7 +18,9 @@ description: 업로드 신청 - 앱스토어 업로드 신청방법 매뉴얼
 무료버전에서는 앱스토어업로드 티켓을 구매할 수 없고, 업로드 신청도 불가능합니다.
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/앱스토어 업로드신청방법 (1).png" alt=""><figcaption></figcaption></figure>
 
+***
 
 ## 1. 앱스토어 업로드 신청
 
