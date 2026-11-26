@@ -74,8 +74,6 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 
 </details>
 
-
-
 ★플레이스토어 정책 및 출시 거절 사례에 관련된 스토어 이용약관을 반드시 확인해주시기 바랍니다.&#x20;
 
 {% content-ref url="../../../knowledgebase/store/" %}
@@ -87,6 +85,8 @@ description: 업로드 신청 방법 - 플레이스토어 업로드 신청방법
 {% content-ref url="appstore-upload.md" %}
 [appstore-upload.md](appstore-upload.md)
 {% endcontent-ref %}
+
+<figure><img src="../../../.gitbook/assets/플레이스토어업로드 신.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 

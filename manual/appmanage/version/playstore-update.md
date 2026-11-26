@@ -6,8 +6,6 @@ description: 앱 업데이트 후, 플레이스토어 업로드 신청하는 방
 
 <figure><img src="../../../.gitbook/assets/구분선 (10).PNG" alt=""><figcaption></figcaption></figure>
 
-**앱 신규 등록 후, 앱 업데이트로 인한 플레이스토어 업로드 신청 방법입니다.**&#x20;
-
 {% hint style="info" %}
 ### **플레이스토어 업로드 신청을 하기 위해서는!!**
 
@@ -17,10 +15,16 @@ description: 앱 업데이트 후, 플레이스토어 업로드 신청하는 방
 
 👉[플레이스토어 티켓 구매 페이지 ](https://www.swing2app.co.kr/view/order_info_action?product_id=4)
 
+**앱 신규 등록 후, 앱 업데이트로 인한 플레이스토어 업로드 신청 방법입니다.**&#x20;
+
 👉[티켓 보유 현황 확인하기 ](https://www.swing2app.co.kr/view/payment_use_stat_view)
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/플레이스토어업로드 신.png" alt=""><figcaption></figcaption></figure>
 
+
+
+***
 
 ## 1. 앱 업데이트 하기
 
