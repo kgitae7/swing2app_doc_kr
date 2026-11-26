@@ -40,7 +40,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 <figure><img src="../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../.gitbook/assets/image (56).png>)1.회원 생성하기
+## 1.회원 생성하기
 
 <figure><img src="../../.gitbook/assets/웹앱부관리자1.png" alt=""><figcaption></figcaption></figure>
 
@@ -80,7 +80,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 홈페이지에서 부관리자로 로그인하는 방법을 알려드릴게요.
 
-## ![](<../../.gitbook/assets/image (56).png>)2. 홈페이지- 부관리자 로그인하기
+## 2. 홈페이지- 부관리자 로그인하기
 
 <div align="left"><figure><img src="../../.gitbook/assets/부관리자-로그인_20.07.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -112,7 +112,7 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 ***
 
-### 앱 아이디는 어디서 확인할 수 있나요?
+### Q.앱 아이디는 어디서 확인할 수 있나요?
 
 <mark style="color:blue;">**앱제작 V3 버전 화면**</mark>
 
@@ -134,9 +134,19 @@ description: 푸시앱과 웹뷰앱 이용, 사이트 운영이 가능한 부관
 
 <figure><img src="../../.gitbook/assets/구분선 (9).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](<../../.gitbook/assets/image (56).png>)3.부관리자 설정 정리
+## 3.부관리자 안내
+
+부관리자 설정은 계정 단위가 아닌 **앱 단위로 적용됩니다.**
+
+따라서 하나의 계정에서 여러 개의 앱을 운영하고 있으며, 모든 앱에 부관리자를 지정하고자 하는 경우 각 앱에서 개별적으로 부관리자 설정을 진행해 주셔야 합니다.
+
+앱 목록에서 부관리자를 설정할 앱을 선택한 후, 회원을 생성하고 해당 회원에게 부관리자 권한을 부여해 주시기 바랍니다.
 
 
+
+***
+
+## 4.부관리자 설정 정리
 
 **1) 부관리자 설정하기**
 
