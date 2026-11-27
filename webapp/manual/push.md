@@ -522,6 +522,16 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 플레이스토어, 앱스토어 출시 여부에 따라 각각의 플랫폼별 상품 구매가 가능하오니 합리적으로 이용할 수 있습니다.&#x20;
 {% endhint %}
 
+{% hint style="warning" %}
+단기 이용권을 먼저 구매하고 싶다면
+
+스윙 기본형 유료앱 이용권 1개월 33,000원 상품으로 구매하실 수 있습니다.&#x20;
+
+🔗<a href="https://www.swing2app.co.kr/view/order_info_action?product_id=2" target="_blank">스윙투앱 기본형 유료앱 이용권 구매 페이지</a>
+
+1개월구독형 이용권 이용하시다가 나중에 무제한으로 변경도 가능합니다.&#x20;
+{% endhint %}
+
 <div align="left"><figure><img src="../../.gitbook/assets/warning-(2) (4).png" alt=""><figcaption></figcaption></figure></div>
 
 **푸시전용 무제한 유료앱 상품은 일반 이용권과는 다른 이용 주의사항이 있습니다.**
@@ -606,11 +616,11 @@ STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 �
 
 (1)애플 개발자 계정 등록비(1년 129,000원)
 
-[\[애플 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer)
+<a href="https://documentation.swing2app.co.kr/knowledgebase/appstore/developer-corporation" target="_blank">\[애플 개발자 '조직' 계정 등록방법 보러가기]</a> <a href="https://documentation.swing2app.co.kr/knowledgebase/appstore/apple-developer" target="_blank">\[애플 개발자 '개인' 계정 등록 방법]</a>
 
 (2)구글 개발자 등록비(25달러, 평생이용)
 
-[\[구글 개발자 계정 등록방법 보러가기\]](https://documentation.swing2app.co.kr/knowledgebase/playstore/businessidentity)
+<a href="https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper" target="_blank">\[구글 개발자 계정 등록방법 보러가기]</a>
 
 -구글은 반드시 사용자 계정의 구글 개발자 계정이 있어야 등록 가능
 
